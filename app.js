@@ -20,6 +20,7 @@ const state = {
     currentScore: 0,
     totalAnswered: 0,
     allQuestionsAnswered: false,
+    showAllMode: false,  // Track if "show all answers" was clicked
 };
 
 // DOM Elements
@@ -219,6 +220,8 @@ async function loadQuestions(type, offset = 0) {
             state.userAnswers = {};
             state.currentScore = 0;
             state.totalAnswered = 0;
+            state.allQuestionsAnswered = false;
+            state.showAllMode = false; // Reset show all mode
             state.allQuestions = allQuestions; // Store all for pagination
         } else {
             state.questions = [...state.questions, ...processedQuestions];

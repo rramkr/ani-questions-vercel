@@ -8,8 +8,8 @@
       "differences": [
         {"aspect": "Chemical reaction", "concept_a_point": "The chemical reaction inside the primary cell is irreversible", "concept_b_point": "The chemical reaction inside the secondary cell is reversible"},
         {"aspect": "Recharging", "concept_a_point": "It cannot be recharged after use", "concept_b_point": "It can be recharged and reused"},
-        {"aspect": "Applications", "concept_a_point": "Used in small devices such as torches, toys, radios, bicycles and small tape recorders", "concept_b_point": "Used in mobile phones, cameras, computers and emergency lights"},
-        {"aspect": "Examples", "concept_a_point": "Simple voltaic cell, Daniel cell, Leclanche cell and dry cell", "concept_b_point": "Lead accumulator, Edison accumulator and nickel-iron accumulator"}
+        {"aspect": "Applications", "concept_a_point": "Used in small devices such as torches, toys, radios and small tape recorders", "concept_b_point": "Used in mobile phones, cameras, computers and emergency lights"},
+        {"aspect": "Examples", "concept_a_point": "1. Dry cell (used in TV remotes)\n2. Daniel cell (used in laboratories)", "concept_b_point": "1. Lead accumulator (used in cars)\n2. Lithium-ion battery (used in phones)"}
       ],
       "source_section": "Secondary Cell (Battery)"
     },
@@ -18,10 +18,10 @@
       "concept_a": "Series Circuit",
       "concept_b": "Parallel Circuit",
       "differences": [
-        {"aspect": "Voltage distribution", "concept_a_point": "There is a sharing of voltage (potential difference) among appliances", "concept_b_point": "Each appliance gets the original voltage"},
-        {"aspect": "Working of appliances", "concept_a_point": "All appliances work simultaneously", "concept_b_point": "All appliances work independently"},
-        {"aspect": "Effect of damage", "concept_a_point": "If any appliance gets damaged, remaining appliances also stop working because circuit gets broken", "concept_b_point": "If any appliance gets damaged, remaining ones continue to work as all appliances work independently"},
-        {"aspect": "Household use", "concept_a_point": "Not used in household wiring", "concept_b_point": "Used in household wiring system with separate switches for each appliance"}
+        {"aspect": "Voltage distribution", "concept_a_point": "There is a sharing of voltage among appliances", "concept_b_point": "Each appliance gets the original voltage"},
+        {"aspect": "Working of appliances", "concept_a_point": "All appliances work simultaneously - if one stops, all stop", "concept_b_point": "All appliances work independently"},
+        {"aspect": "Effect of damage", "concept_a_point": "If any appliance gets damaged, all stop working", "concept_b_point": "If any appliance gets damaged, others continue to work"},
+        {"aspect": "Examples", "concept_a_point": "1. Decorative lights (fairy lights)\n2. Old Christmas tree lights", "concept_b_point": "1. Home electrical wiring (fan, light, TV)\n2. Power strips with multiple outlets"}
       ],
       "source_section": "Series and Parallel Circuits"
     },
@@ -31,9 +31,9 @@
       "concept_b": "Insulators",
       "differences": [
         {"aspect": "Definition", "concept_a_point": "Substances which allow electric current to flow through them easily", "concept_b_point": "Substances which do not allow electric current to flow through them"},
-        {"aspect": "Examples - Metals", "concept_a_point": "All metals such as copper, silver, nickel, aluminium, iron and steel", "concept_b_point": "Cotton, rubber, paper, glass, ceramics, plastic, wood"},
-        {"aspect": "Examples - Water", "concept_a_point": "Impure water is a conductor", "concept_b_point": "Pure water is an insulator"},
-        {"aspect": "Use in wires", "concept_a_point": "Used as core of electric wires (e.g., copper)", "concept_b_point": "Used to cover electric wires (e.g., plastic) to make them safe"}
+        {"aspect": "Property", "concept_a_point": "Have free electrons that can move and carry current", "concept_b_point": "Have tightly bound electrons that cannot move freely"},
+        {"aspect": "Use in wires", "concept_a_point": "Used as core of electric wires", "concept_b_point": "Used to cover electric wires for safety"},
+        {"aspect": "Examples", "concept_a_point": "1. Copper (used in electrical wires)\n2. Aluminium (used in power lines)", "concept_b_point": "1. Rubber (used in wire coating)\n2. Plastic (used in switch covers)"}
       ],
       "source_section": "Conductors and Insulators"
     },
@@ -43,9 +43,9 @@
       "concept_b": "Closed Circuit",
       "differences": [
         {"aspect": "Definition", "concept_a_point": "A circuit in which no electric current flows", "concept_b_point": "A circuit in which electric current flows"},
-        {"aspect": "Switch position", "concept_a_point": "Occurs when the switch is off", "concept_b_point": "Occurs when the switch is on"},
+        {"aspect": "Switch position", "concept_a_point": "Occurs when the switch is OFF", "concept_b_point": "Occurs when the switch is ON"},
         {"aspect": "Circuit path", "concept_a_point": "Circuit is incomplete - broken at some point", "concept_b_point": "Circuit is complete - provides continuous path"},
-        {"aspect": "Bulb behavior", "concept_a_point": "Bulb does not glow", "concept_b_point": "Bulb glows"}
+        {"aspect": "Examples", "concept_a_point": "1. A torch when switched off\n2. A broken wire in a circuit", "concept_b_point": "1. A glowing bulb in a lamp\n2. A running ceiling fan"}
       ],
       "source_section": "Closed and Open Circuits"
     },
@@ -54,9 +54,10 @@
       "concept_a": "Conventional Current",
       "concept_b": "Electron Flow",
       "differences": [
-        {"aspect": "Direction", "concept_a_point": "Flows from positive terminal to negative terminal of battery", "concept_b_point": "Flows from negative terminal to positive terminal (region of excess to deficit)"},
-        {"aspect": "Basis", "concept_a_point": "Based on convention (established practice) before electrons were discovered", "concept_b_point": "Based on actual movement of electrons"},
-        {"aspect": "Relationship", "concept_a_point": "Direction is opposite to electron flow", "concept_b_point": "Direction is opposite to conventional current"}
+        {"aspect": "Direction", "concept_a_point": "Flows from positive (+) to negative (-) terminal", "concept_b_point": "Flows from negative (-) to positive (+) terminal"},
+        {"aspect": "Basis", "concept_a_point": "Based on convention established before electrons were discovered", "concept_b_point": "Based on actual movement of electrons"},
+        {"aspect": "Relationship", "concept_a_point": "Direction is opposite to electron flow", "concept_b_point": "Direction is opposite to conventional current"},
+        {"aspect": "Examples", "concept_a_point": "1. Current direction shown in circuit diagrams\n2. Arrow direction on battery symbols", "concept_b_point": "1. Electrons moving through copper wire\n2. Electrons flowing in a circuit board"}
       ],
       "source_section": "Direction of Flow of Current"
     },
@@ -65,9 +66,10 @@
       "concept_a": "Fuse",
       "concept_b": "MCB (Miniature Circuit Breaker)",
       "differences": [
-        {"aspect": "Working principle", "concept_a_point": "Contains a wire that melts and breaks the circuit when current exceeds permissible value", "concept_b_point": "An automatically operated safety device that breaks the circuit in case of overload or short circuit"},
-        {"aspect": "After operation", "concept_a_point": "Needs to be replaced every time there is an overflow of current", "concept_b_point": "Can be reset manually or automatically to restore electricity"},
-        {"aspect": "Sensitivity", "concept_a_point": "Less sensitive to current changes", "concept_b_point": "More sensitive to current - can detect even a slight fluctuation in voltage and interrupt circuit current fast"}
+        {"aspect": "Working principle", "concept_a_point": "Wire melts and breaks circuit when current exceeds limit", "concept_b_point": "Automatically trips and breaks circuit in overload"},
+        {"aspect": "After operation", "concept_a_point": "Needs to be replaced every time it blows", "concept_b_point": "Can be reset manually - no replacement needed"},
+        {"aspect": "Sensitivity", "concept_a_point": "Less sensitive to current changes", "concept_b_point": "More sensitive - detects even slight voltage fluctuation"},
+        {"aspect": "Examples", "concept_a_point": "1. Glass tube fuse in old cars\n2. Ceramic fuse in plug tops", "concept_b_point": "1. MCB in home electrical panel\n2. Trip switch in modern distribution boards"}
       ],
       "source_section": "Prepping for PISA - Fuse vs MCB"
     },
@@ -76,9 +78,10 @@
       "concept_a": "Cell",
       "concept_b": "Battery",
       "differences": [
-        {"aspect": "Definition", "concept_a_point": "A single unit that converts chemical energy into electrical energy", "concept_b_point": "A combination of two or more cells connected in series"},
-        {"aspect": "Energy output", "concept_a_point": "Provides a small amount of electricity", "concept_b_point": "Provides more electrical energy for devices requiring higher power"},
-        {"aspect": "Applications", "concept_a_point": "Used in small devices like calculators, watches, TV remotes", "concept_b_point": "Used in vehicles like cars and trucks, and in emergency lights"}
+        {"aspect": "Definition", "concept_a_point": "A single unit that converts chemical energy to electrical energy", "concept_b_point": "A combination of two or more cells connected in series"},
+        {"aspect": "Energy output", "concept_a_point": "Provides a small amount of electricity", "concept_b_point": "Provides more electrical energy for higher power devices"},
+        {"aspect": "Voltage", "concept_a_point": "Typically 1.5V per cell", "concept_b_point": "Higher voltage (multiple of cell voltage)"},
+        {"aspect": "Examples", "concept_a_point": "1. AA cell in TV remote\n2. Button cell in watch", "concept_b_point": "1. 9V battery (6 cells inside)\n2. Car battery (6 cells giving 12V)"}
       ],
       "source_section": "Secondary Cell (Battery)"
     },
@@ -88,8 +91,9 @@
       "concept_b": "Impure Water (Tap Water)",
       "differences": [
         {"aspect": "Electrical property", "concept_a_point": "Acts as an insulator - does not conduct electricity", "concept_b_point": "Acts as a conductor - allows electricity to flow"},
-        {"aspect": "Reason", "concept_a_point": "Has very few ions to carry electric current", "concept_b_point": "Contains dissolved salts and minerals that provide ions to carry current"},
-        {"aspect": "Safety implication", "concept_a_point": "Safe to use near electrical appliances", "concept_b_point": "Dangerous - can cause electric shock if used near electrical appliances"}
+        {"aspect": "Reason", "concept_a_point": "Has very few ions to carry electric current", "concept_b_point": "Contains dissolved salts that provide ions"},
+        {"aspect": "Safety", "concept_a_point": "Safe to use near electrical appliances", "concept_b_point": "Dangerous - can cause electric shock"},
+        {"aspect": "Examples", "concept_a_point": "1. Distilled water from laboratory\n2. Deionized water used in batteries", "concept_b_point": "1. Tap water from kitchen sink\n2. River or pond water"}
       ],
       "source_section": "Conductors and Insulators"
     },
@@ -98,9 +102,10 @@
       "concept_a": "Anode",
       "concept_b": "Cathode",
       "differences": [
-        {"aspect": "Charge", "concept_a_point": "Positive electrode", "concept_b_point": "Negative electrode"},
+        {"aspect": "Charge", "concept_a_point": "Positive electrode (+)", "concept_b_point": "Negative electrode (-)"},
         {"aspect": "In dry cell", "concept_a_point": "Carbon rod with brass cap acts as anode", "concept_b_point": "Zinc container acts as cathode"},
-        {"aspect": "Current flow", "concept_a_point": "Conventional current enters the device through anode", "concept_b_point": "Conventional current leaves the device through cathode"}
+        {"aspect": "Current flow", "concept_a_point": "Conventional current enters through anode", "concept_b_point": "Conventional current leaves through cathode"},
+        {"aspect": "Examples", "concept_a_point": "1. Carbon rod in dry cell\n2. Positive plate in car battery", "concept_b_point": "1. Zinc case in dry cell\n2. Negative plate in car battery"}
       ],
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
@@ -110,8 +115,9 @@
       "concept_b": "Motor",
       "differences": [
         {"aspect": "Energy conversion", "concept_a_point": "Converts mechanical energy into electrical energy", "concept_b_point": "Converts electrical energy into mechanical energy"},
-        {"aspect": "Working", "concept_a_point": "A conductor (copper wire) is rotated in a magnetic field to produce current", "concept_b_point": "Current through a conductor in magnetic field produces rotation"},
-        {"aspect": "Examples", "concept_a_point": "Dynamos in power stations, bicycle dynamo", "concept_b_point": "Electric fans, washing machines, electric vehicles"}
+        {"aspect": "Working", "concept_a_point": "Conductor rotates in magnetic field to produce current", "concept_b_point": "Current through conductor in magnetic field produces rotation"},
+        {"aspect": "Input/Output", "concept_a_point": "Input: motion, Output: electricity", "concept_b_point": "Input: electricity, Output: motion"},
+        {"aspect": "Examples", "concept_a_point": "1. Bicycle dynamo (powers headlight)\n2. Power station generator", "concept_b_point": "1. Ceiling fan motor\n2. Washing machine motor"}
       ],
       "source_section": "Generators or Dynamos"
     },
@@ -120,9 +126,10 @@
       "concept_a": "Hydroelectric Power",
       "concept_b": "Thermal Power",
       "differences": [
-        {"aspect": "Energy source", "concept_a_point": "Uses the energy of flowing water to rotate turbines", "concept_b_point": "Uses fossil fuels (coal, diesel, natural gas) to produce steam which rotates turbines"},
-        {"aspect": "Environmental impact", "concept_a_point": "Clean energy - no pollution from burning fuel", "concept_b_point": "Produces pollution from burning fossil fuels"},
-        {"aspect": "Fuel requirement", "concept_a_point": "Requires continuous flow of water - depends on rainfall/dams", "concept_b_point": "Requires continuous supply of fossil fuels which are non-renewable"}
+        {"aspect": "Energy source", "concept_a_point": "Uses flowing water to rotate turbines", "concept_b_point": "Uses burning fossil fuels to produce steam"},
+        {"aspect": "Environmental impact", "concept_a_point": "Clean energy - no air pollution", "concept_b_point": "Produces air pollution from burning fuels"},
+        {"aspect": "Fuel type", "concept_a_point": "Renewable (water cycle)", "concept_b_point": "Non-renewable (coal, gas, oil)"},
+        {"aspect": "Examples", "concept_a_point": "1. Bhakra Nangal Dam (India)\n2. Three Gorges Dam (China)", "concept_b_point": "1. Ramagundam Thermal Plant (India)\n2. Coal power stations"}
       ],
       "source_section": "Generators or Dynamos"
     },
@@ -131,9 +138,10 @@
       "concept_a": "Switch",
       "concept_b": "Plug Key",
       "differences": [
-        {"aspect": "Function", "concept_a_point": "Helps in making and breaking of the circuit - quick on/off operation", "concept_b_point": "Helps in keeping a circuit open or closed for longer duration"},
-        {"aspect": "Usage", "concept_a_point": "Used for regular on/off operation of appliances", "concept_b_point": "Used for extended periods of circuit control"},
-        {"aspect": "Location", "concept_a_point": "Usually mounted on walls or on appliances", "concept_b_point": "Often used in experimental circuits and laboratories"}
+        {"aspect": "Function", "concept_a_point": "Quick on/off operation of circuit", "concept_b_point": "Keeps circuit open or closed for longer duration"},
+        {"aspect": "Design", "concept_a_point": "Toggle or push button mechanism", "concept_b_point": "Removable key that can be taken out"},
+        {"aspect": "Usage", "concept_a_point": "Regular daily use for appliances", "concept_b_point": "Used in experimental circuits and laboratories"},
+        {"aspect": "Examples", "concept_a_point": "1. Light switch on wall\n2. Power button on TV", "concept_b_point": "1. Plug key in physics lab circuits\n2. Ignition key holder (similar concept)"}
       ],
       "source_section": "Components of an Electric Circuit"
     }

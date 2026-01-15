@@ -9,7 +9,7 @@
         {"aspect": "Magnetism retention", "concept_a_point": "Retains magnetic properties even without the influence of an external magnetic field", "concept_b_point": "Behaves as magnet only in the presence of a strong magnetic field"},
         {"aspect": "Material type", "concept_a_point": "Usually made of hard materials", "concept_b_point": "Usually made of soft materials"},
         {"aspect": "Control", "concept_a_point": "Cannot be switched on or off; magnetism is permanent", "concept_b_point": "Can be controlled by switching current on or off"},
-        {"aspect": "Examples", "concept_a_point": "Bar magnets, horse-shoe magnets", "concept_b_point": "Electromagnets"}
+        {"aspect": "Examples", "concept_a_point": "1. Bar magnet (used in compass)\n2. Horse-shoe magnet (used in motors)", "concept_b_point": "1. Electromagnet in electric bell\n2. Electromagnet in crane for lifting iron"}
       ],
       "source_section": "Permanent vs Temporary Magnets"
     },
@@ -19,9 +19,9 @@
       "concept_b": "Permanent Magnet",
       "differences": [
         {"aspect": "Nature", "concept_a_point": "Temporary magnet - retains magnetism only when current flows", "concept_b_point": "Permanent magnet - retains magnetism without any external source"},
-        {"aspect": "Core material", "concept_a_point": "Made with soft iron core (soft material)", "concept_b_point": "Made of hard materials"},
+        {"aspect": "Core material", "concept_a_point": "Made with soft iron core (soft material)", "concept_b_point": "Made of hard materials like steel or alnico"},
         {"aspect": "Strength variation", "concept_a_point": "Strength can be increased by increasing current or number of turns", "concept_b_point": "Strength is fixed and cannot be easily changed"},
-        {"aspect": "When current stops", "concept_a_point": "Loses magnetism immediately", "concept_b_point": "Not applicable - does not require current"}
+        {"aspect": "Examples", "concept_a_point": "1. Electromagnet in electric bell\n2. Electromagnet in MRI machine", "concept_b_point": "1. Fridge magnet\n2. Compass needle"}
       ],
       "source_section": "Introduction to Electromagnetism"
     },
@@ -32,7 +32,8 @@
       "differences": [
         {"aspect": "Shape of core", "concept_a_point": "Insulated copper wire wrapped around a bar-shaped soft iron core", "concept_b_point": "Insulated copper wire wrapped around a U-shaped soft iron core"},
         {"aspect": "Pole arrangement", "concept_a_point": "North and south poles at the two opposite ends of the bar", "concept_b_point": "North and south poles at the two open ends of the U-shape"},
-        {"aspect": "Usage example", "concept_a_point": "General electromagnet applications", "concept_b_point": "Used in electric bells (as mentioned in the text)"}
+        {"aspect": "Magnetic field strength", "concept_a_point": "Magnetic field is spread out at the ends", "concept_b_point": "Both poles are close together giving stronger combined field"},
+        {"aspect": "Examples", "concept_a_point": "1. Electromagnet in simple circuits\n2. Solenoid in doorbell transformer", "concept_b_point": "1. Electromagnet in electric bell\n2. Electromagnet in magnetic separators"}
       ],
       "source_section": "Types of Electromagnets"
     },
@@ -41,9 +42,10 @@
       "concept_a": "Soft Iron (Soft Material)",
       "concept_b": "Steel/Hard Material",
       "differences": [
-        {"aspect": "Magnetization ease", "concept_a_point": "Gets magnetized easily when placed in a magnetic field or when current flows around it", "concept_b_point": "More difficult to magnetize"},
-        {"aspect": "Demagnetization", "concept_a_point": "Loses magnetism quickly when magnetic field or current is removed", "concept_b_point": "Retains magnetism for a long time even without external field"},
-        {"aspect": "Use in magnets", "concept_a_point": "Used as core for temporary magnets like electromagnets", "concept_b_point": "Used for making permanent magnets like bar magnets and horse-shoe magnets"}
+        {"aspect": "Magnetization ease", "concept_a_point": "Gets magnetized easily when placed in a magnetic field", "concept_b_point": "More difficult to magnetize"},
+        {"aspect": "Demagnetization", "concept_a_point": "Loses magnetism quickly when magnetic field is removed", "concept_b_point": "Retains magnetism for a long time even without external field"},
+        {"aspect": "Use in magnets", "concept_a_point": "Used as core for temporary magnets like electromagnets", "concept_b_point": "Used for making permanent magnets"},
+        {"aspect": "Examples", "concept_a_point": "1. Soft iron core in transformer\n2. Soft iron core in electric bell", "concept_b_point": "1. Steel bar magnet\n2. Alnico magnet in loudspeaker"}
       ],
       "source_section": "Permanent vs Temporary Magnets"
     },
@@ -52,9 +54,10 @@
       "concept_a": "Electric Current Producing Magnetic Field",
       "concept_b": "Electromagnetic Induction",
       "differences": [
-        {"aspect": "Definition", "concept_a_point": "When electric current flows through a conductor, it produces a magnetic field around it (basis of electromagnetism)", "concept_b_point": "The phenomenon of producing electric current in a conductor due to change in magnetic lines of force"},
-        {"aspect": "What is needed", "concept_a_point": "Requires electric current to flow", "concept_b_point": "Requires change in magnetic lines of force associated with conductor"},
-        {"aspect": "What is produced", "concept_a_point": "Magnetic field is produced from electric current", "concept_b_point": "Induced current is produced from changing magnetic field"}
+        {"aspect": "Definition", "concept_a_point": "When electric current flows through a conductor, it produces a magnetic field around it", "concept_b_point": "The phenomenon of producing electric current by changing magnetic lines of force"},
+        {"aspect": "What is needed", "concept_a_point": "Requires electric current to flow", "concept_b_point": "Requires change in magnetic lines of force"},
+        {"aspect": "What is produced", "concept_a_point": "Magnetic field is produced from electric current", "concept_b_point": "Induced current is produced from changing magnetic field"},
+        {"aspect": "Examples", "concept_a_point": "1. Electromagnet producing magnetic field\n2. Current in wire deflecting compass needle", "concept_b_point": "1. Moving magnet near coil produces current\n2. Generator producing electricity"}
       ],
       "source_section": "Electromagnetic Induction"
     },
@@ -64,7 +67,9 @@
       "concept_b": "Anticlockwise Current Flow (at electromagnet end)",
       "differences": [
         {"aspect": "Pole formed", "concept_a_point": "The end acts as SOUTH pole", "concept_b_point": "The end acts as NORTH pole"},
-        {"aspect": "Rule to remember", "concept_a_point": "Clockwise = South (both have 'S' sound)", "concept_b_point": "Anticlockwise = North"}
+        {"aspect": "Rule to remember", "concept_a_point": "Clockwise = South (both have 'S' sound)", "concept_b_point": "Anticlockwise = North"},
+        {"aspect": "Magnetic field lines", "concept_a_point": "Field lines enter at this end", "concept_b_point": "Field lines emerge from this end"},
+        {"aspect": "Examples", "concept_a_point": "1. South pole of solenoid when viewed from front\n2. Entry point of field lines in bar magnet", "concept_b_point": "1. North pole of solenoid when viewed from front\n2. Exit point of field lines in bar magnet"}
       ],
       "source_section": "Types of Electromagnets"
     },
@@ -74,9 +79,9 @@
       "concept_b": "Electric Motor",
       "differences": [
         {"aspect": "Energy conversion", "concept_a_point": "Converts mechanical energy to electrical energy", "concept_b_point": "Converts electrical energy to mechanical energy"},
-        {"aspect": "Working principle", "concept_a_point": "Works on electromagnetic induction (changing magnetic field produces current)", "concept_b_point": "Works on magnetic effect of current (current in magnetic field produces force)"},
+        {"aspect": "Working principle", "concept_a_point": "Works on electromagnetic induction", "concept_b_point": "Works on magnetic effect of current"},
         {"aspect": "Input/Output", "concept_a_point": "Receives rotation (mechanical), produces electricity", "concept_b_point": "Receives electricity, produces rotation (mechanical)"},
-        {"aspect": "Examples", "concept_a_point": "Power plant generators, bicycle dynamos", "concept_b_point": "Electric fans, washing machines, electric vehicles"}
+        {"aspect": "Examples", "concept_a_point": "1. Power plant generator\n2. Bicycle dynamo for headlight", "concept_b_point": "1. Ceiling fan motor\n2. Electric car motor"}
       ],
       "source_section": "Electromagnetic Induction"
     },
@@ -87,8 +92,8 @@
       "differences": [
         {"aspect": "Direction of flow", "concept_a_point": "Flows in one direction only", "concept_b_point": "Continuously changes direction periodically"},
         {"aspect": "Magnetic field produced", "concept_a_point": "Creates constant magnetic field", "concept_b_point": "Creates continuously changing magnetic field"},
-        {"aspect": "Use in transformers", "concept_a_point": "Cannot work with transformers (constant field won't induce current)", "concept_b_point": "Required for transformers to work (changing field induces current)"},
-        {"aspect": "Source", "concept_a_point": "Batteries, DC power supplies", "concept_b_point": "Power generators, household mains electricity"}
+        {"aspect": "Use in transformers", "concept_a_point": "Cannot work with transformers", "concept_b_point": "Required for transformers to work"},
+        {"aspect": "Examples", "concept_a_point": "1. Current from dry cell battery\n2. Current from car battery", "concept_b_point": "1. Current from wall socket at home\n2. Current from power generators"}
       ],
       "source_section": "Electromagnetic Induction"
     },
@@ -99,8 +104,8 @@
       "differences": [
         {"aspect": "Sensitivity", "concept_a_point": "Highly sensitive - can detect very small currents", "concept_b_point": "Less sensitive - designed for larger currents"},
         {"aspect": "Purpose", "concept_a_point": "Used to detect presence and direction of current", "concept_b_point": "Used to measure the magnitude of current"},
-        {"aspect": "Use in induction experiments", "concept_a_point": "Preferred for detecting small induced currents", "concept_b_point": "May not show deflection for small induced currents"},
-        {"aspect": "Direction indication", "concept_a_point": "Shows direction of current flow", "concept_b_point": "Typically shows only magnitude"}
+        {"aspect": "Use in experiments", "concept_a_point": "Preferred for detecting small induced currents", "concept_b_point": "May not show deflection for small induced currents"},
+        {"aspect": "Examples", "concept_a_point": "1. Galvanometer in electromagnetic induction experiment\n2. Galvanometer in physics lab circuits", "concept_b_point": "1. Ammeter in home circuit panel\n2. Ammeter in car dashboard"}
       ],
       "source_section": "Physics Extra - Evaluation"
     },
@@ -110,9 +115,9 @@
       "concept_b": "High Retentivity (Hard Materials)",
       "differences": [
         {"aspect": "Definition", "concept_a_point": "Cannot retain magnetism after magnetizing force is removed", "concept_b_point": "Retains magnetism even after magnetizing force is removed"},
-        {"aspect": "Examples", "concept_a_point": "Soft iron", "concept_b_point": "Steel, alnico, hard ferrites"},
+        {"aspect": "Ease of magnetization", "concept_a_point": "Easy to magnetize", "concept_b_point": "Difficult to magnetize but stays magnetized longer"},
         {"aspect": "Use", "concept_a_point": "Used for making temporary magnets (electromagnets)", "concept_b_point": "Used for making permanent magnets"},
-        {"aspect": "Control", "concept_a_point": "Magnetism can be easily controlled by switching current", "concept_b_point": "Magnetism cannot be easily switched on/off"}
+        {"aspect": "Examples", "concept_a_point": "1. Soft iron in transformer core\n2. Soft iron in electromagnet core", "concept_b_point": "1. Steel in bar magnets\n2. Alnico in loudspeaker magnets"}
       ],
       "source_section": "Introduction to Electromagnetism"
     },
@@ -124,7 +129,7 @@
         {"aspect": "Definition", "concept_a_point": "Producing electric current from changing magnetic field", "concept_b_point": "Branch of physics dealing with magnetic effect of electric current"},
         {"aspect": "Process", "concept_a_point": "Magnetism produces electricity", "concept_b_point": "Electricity produces magnetism"},
         {"aspect": "Requirements", "concept_a_point": "Requires changing magnetic field and a conductor", "concept_b_point": "Requires electric current flowing through conductor"},
-        {"aspect": "Application", "concept_a_point": "Generators, transformers", "concept_b_point": "Electromagnets, electric bells, motors"}
+        {"aspect": "Examples", "concept_a_point": "1. Generator producing electricity\n2. Transformer transferring power", "concept_b_point": "1. Electromagnet lifting iron scraps\n2. Electric bell using electromagnet"}
       ],
       "source_section": "Electromagnetic Induction"
     },
@@ -136,7 +141,7 @@
         {"aspect": "Definition", "concept_a_point": "Circuit is complete - current flows through", "concept_b_point": "Circuit is broken - current cannot flow"},
         {"aspect": "In electric bell", "concept_a_point": "Armature touches contact screw", "concept_b_point": "Armature moves away from contact screw"},
         {"aspect": "Effect on electromagnet", "concept_a_point": "Electromagnet gets magnetized", "concept_b_point": "Electromagnet loses magnetism"},
-        {"aspect": "Result in bell", "concept_a_point": "Armature is attracted, hammer moves toward gong", "concept_b_point": "Spring pulls armature back"}
+        {"aspect": "Examples", "concept_a_point": "1. Light switch in ON position\n2. Contact screw touching armature in bell", "concept_b_point": "1. Light switch in OFF position\n2. Armature pulled away from contact screw"}
       ],
       "source_section": "The Electric Bell - Application of Electromagnet"
     }
