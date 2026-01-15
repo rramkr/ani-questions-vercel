@@ -890,23 +890,34 @@ function renderMCQAnswer(q) {
         <div class="answer-status ${userAnswer ? (isCorrect ? 'correct' : 'incorrect') : ''}">
             ${userAnswer ? (isCorrect ? '✓ Correct!' : '✗ Incorrect') : 'Not answered'}
         </div>
+        ${userAnswer ? `
+            <div class="user-answer ${isCorrect ? 'correct' : 'incorrect'}">
+                <strong>Your answer:</strong> ${userAnswer}
+            </div>
+        ` : ''}
         <div class="correct-answer">
-            <strong>Answer:</strong> ${q.correct_answer}
+            <strong>Correct answer:</strong> ${q.correct_answer}
         </div>
         <div class="explanation"><strong>Justification:</strong> ${justification}</div>
     `;
 }
 
 function renderSimpleAnswer(q) {
-    const userAnswer = (state.userAnswers[q.id] || '').toLowerCase().trim();
-    const isCorrect = isAnswerCorrect(q, state.userAnswers[q.id] || '');
+    const userAnswerRaw = state.userAnswers[q.id] || '';
+    const userAnswer = userAnswerRaw.toLowerCase().trim();
+    const isCorrect = isAnswerCorrect(q, userAnswerRaw);
     const justification = q.explanation || (q.source_section ? `Source: "${q.source_section}"` : '');
     return `
         <div class="answer-status ${userAnswer ? (isCorrect ? 'correct' : 'incorrect') : ''}">
             ${userAnswer ? (isCorrect ? '✓ Correct!' : '✗ Incorrect') : 'Not answered'}
         </div>
+        ${userAnswer ? `
+            <div class="user-answer ${isCorrect ? 'correct' : 'incorrect'}">
+                <strong>Your answer:</strong> ${userAnswerRaw}
+            </div>
+        ` : ''}
         <div class="correct-answer">
-            <strong>Answer:</strong> ${q.correct_answer || q.answer}
+            <strong>Correct answer:</strong> ${q.correct_answer || q.answer}
         </div>
         <div class="explanation"><strong>Justification:</strong> ${justification}</div>
     `;
@@ -935,8 +946,11 @@ function renderTextAnswer(q) {
             <div class="answer-status ${isCorrect ? 'correct' : 'incorrect'}">
                 ${isCorrect ? '✓ Correct!' : '✗ Incorrect'}
             </div>
+            <div class="user-answer ${isCorrect ? 'correct' : 'incorrect'}">
+                <strong>Your answer:</strong> ${userAnswer}
+            </div>
             <div class="correct-answer">
-                <strong>Answer:</strong>
+                <strong>Correct answer:</strong>
                 <p>${correctAnswer}</p>
             </div>
             <div class="explanation"><strong>Justification:</strong> ${justification}</div>
@@ -945,6 +959,12 @@ function renderTextAnswer(q) {
 
     // Default for text questions
     return `
+        ${userAnswer ? `
+            <div class="user-answer">
+                <strong>Your answer:</strong>
+                <p>${userAnswer}</p>
+            </div>
+        ` : ''}
         <div class="correct-answer">
             <strong>Model Answer:</strong>
             <p>${q.correct_answer || q.answer}</p>
