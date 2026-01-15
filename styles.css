@@ -736,24 +736,25 @@ body {
 
 /* Link-style button for showing answers */
 .btn-link {
-    background: transparent;
-    border: none;
+    background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+    border: 2px dashed var(--text-light);
+    border-radius: 12px;
     color: var(--text-light);
     font-size: 1rem;
     font-weight: 600;
     cursor: pointer;
-    padding: 14px 20px;
-    margin-top: 20px;
-    text-decoration: underline;
+    padding: 14px 24px;
+    margin-top: 12px;
+    text-decoration: none;
     transition: all 0.3s ease;
-    display: block;
-    width: 100%;
+    width: auto;
     text-align: center;
 }
 
 .btn-link:hover {
     color: var(--primary);
-    text-decoration: none;
+    border-color: var(--primary);
+    background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%);
     transform: scale(1.02);
 }
 
