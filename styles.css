@@ -635,6 +635,30 @@ body {
     background: #cbd5e1;
 }
 
+/* Top Back Button - Kid Friendly */
+.btn-back-top {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 20px;
+    background: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
+    border: 2px solid var(--primary-light);
+    border-radius: 25px;
+    color: var(--primary);
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.btn-back-top:hover {
+    background: var(--primary);
+    color: white;
+    transform: translateX(-5px);
+    box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3);
+}
+
 .btn-large {
     padding: 16px 32px;
     font-size: 1.1rem;
