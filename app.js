@@ -671,8 +671,8 @@ function renderQuiz() {
     elements.tryMoreBtn.style.display = (state.hasMore && state.answersRevealed && state.allQuestionsAnswered) ? 'inline-block' : 'none';
     // Always show Check Answers button (unless in showAll mode)
     elements.checkAnswersBtn.style.display = state.showAllMode ? 'none' : 'inline-block';
-    // Show "show all" button only if answers not yet revealed
-    elements.showAllAnswersBtn.style.display = state.answersRevealed ? 'none' : 'block';
+    // Show "show all" button if not in showAll mode (even after partial check answers)
+    elements.showAllAnswersBtn.style.display = state.showAllMode ? 'none' : 'block';
 }
 
 function renderQuestion(question, index) {
