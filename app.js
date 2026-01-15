@@ -59,6 +59,7 @@ const elements = {
     scoreDisplay: document.getElementById('score-display'),
     currentScore: document.getElementById('current-score'),
     encouragementBanner: document.getElementById('encouragement-banner'),
+    showAllAnswersBtn: document.getElementById('show-all-answers-btn'),
 };
 
 // Navigation buttons
@@ -67,6 +68,7 @@ document.getElementById('back-to-chapters').addEventListener('click', () => show
 document.getElementById('back-to-sections').addEventListener('click', () => showView('sections'));
 document.getElementById('try-more-btn').addEventListener('click', loadMoreQuestions);
 document.getElementById('check-answers-btn').addEventListener('click', revealAnswers);
+document.getElementById('show-all-answers-btn').addEventListener('click', showAllAnswers);
 elements.appTitle.addEventListener('click', () => {
     resetState();
     showView('subjects');
@@ -122,6 +124,7 @@ function resetState() {
     state.currentScore = 0;
     state.totalAnswered = 0;
     state.allQuestionsAnswered = false;
+    state.showAllMode = false;
 }
 
 // API Calls - Fetching from GitHub
@@ -302,6 +305,7 @@ async function loadMoreQuestions() {
     state.currentScore = 0;
     state.totalAnswered = 0;
     state.allQuestionsAnswered = false;
+    state.showAllMode = false;
 
     await loadQuestions(state.currentType, state.currentOffset);
 }
@@ -437,6 +441,136 @@ function revealAnswers() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
+function showAllAnswers() {
+    state.answersRevealed = true;
+    state.showAllMode = true; // Special flag to show all answers regardless of user input
+    state.allQuestionsAnswered = true; // Allow "Try More" button
+
+    // Update results banner for "show all" mode
+    elements.resultsIcon.textContent = '📖';
+    elements.resultsTitle.textContent = 'Study Mode';
+    elements.resultsMessage.textContent = 'All answers are shown. Read through and learn!';
+    elements.resultsBanner.className = 'results-banner study';
+    elements.resultsBanner.style.display = 'flex';
+
+    // Hide score display since user didn't answer
+    elements.scoreDisplay.style.display = 'none';
+
+    // Hide challenge banner
+    elements.challengeBanner.style.display = 'none';
+
+    // Show encouragement banner
+    elements.encouragementBanner.style.display = 'block';
+
+    // Re-render to show all answers
+    renderQuizShowAll();
+
+    // Scroll to top
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function renderQuizShowAll() {
+    elements.quizTitle.textContent = `${state.currentType.label} - ${state.currentChapter.name}`;
+    elements.questionsShown.textContent = state.questions.length;
+
+    elements.questionsContainer.innerHTML = state.questions.map((q, index) =>
+        renderQuestionShowAll(q, index)
+    ).join('');
+
+    // Show buttons
+    elements.tryMoreBtn.style.display = state.hasMore ? 'inline-block' : 'none';
+    elements.checkAnswersBtn.style.display = 'none'; // Hide check answers since all are shown
+    elements.showAllAnswersBtn.style.display = 'none'; // Hide since already clicked
+}
+
+function renderQuestionShowAll(question, index) {
+    const qType = question.type;
+    let questionContent = '';
+    let answerContent = '';
+
+    // Build question content based on type (no highlighting needed)
+    if (qType === 'mcq' || qType === 'assertion_reason') {
+        questionContent = renderMCQQuestion(question, index, false);
+        answerContent = renderMCQAnswerShowAll(question);
+    } else if (qType === 'true_false') {
+        questionContent = renderTrueFalseQuestion(question, index, false);
+        answerContent = renderSimpleAnswerShowAll(question);
+    } else if (qType === 'fill_in_blanks' || qType === 'name_the_following') {
+        questionContent = renderTextInputQuestion(question, index, false);
+        answerContent = renderSimpleAnswerShowAll(question);
+    } else if (qType === 'match_the_following') {
+        questionContent = renderMatchQuestion(question, index, false);
+        answerContent = renderMatchAnswer(question);
+    } else if (qType === 'differentiate_between') {
+        questionContent = renderDifferentiateQuestion(question, index, false);
+        answerContent = renderDifferentiateAnswer(question);
+    } else if (qType === 'numericals') {
+        questionContent = renderNumericalQuestion(question, index, false);
+        answerContent = renderNumericalAnswer(question);
+    } else if (qType === 'case_study') {
+        questionContent = renderCaseStudyQuestion(question, index, false);
+        answerContent = renderCaseStudyAnswer(question);
+    } else {
+        questionContent = renderTextQuestion(question, index, false);
+        answerContent = renderTextAnswerShowAll(question);
+    }
+
+    return `
+        <div class="question-row" id="question-${question.id}">
+            <div class="question-side">
+                <div class="question-number">Q${index + 1}</div>
+                <div class="question-content">
+                    ${questionContent}
+                </div>
+            </div>
+            <div class="answer-side revealed">
+                ${answerContent}
+            </div>
+        </div>
+    `;
+}
+
+// Answer renderers for "Show All" mode (no correct/incorrect status)
+function renderMCQAnswerShowAll(q) {
+    const justification = q.explanation || (q.source_section ? `Source: "${q.source_section}"` : '');
+    return `
+        <div class="correct-answer">
+            <strong>Answer:</strong> ${q.correct_answer}
+        </div>
+        <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+    `;
+}
+
+function renderSimpleAnswerShowAll(q) {
+    const justification = q.explanation || (q.source_section ? `Source: "${q.source_section}"` : '');
+    return `
+        <div class="correct-answer">
+            <strong>Answer:</strong> ${q.correct_answer || q.answer}
+        </div>
+        <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+    `;
+}
+
+function renderTextAnswerShowAll(q) {
+    const keyPoints = q.key_points || [];
+    const justification = q.explanation || (q.source_section ? `Source: "${q.source_section}"` : '');
+
+    return `
+        <div class="correct-answer">
+            <strong>Answer:</strong>
+            <p>${q.correct_answer || q.answer}</p>
+        </div>
+        <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+        ${keyPoints.length > 0 ? `
+            <div class="key-points">
+                <strong>Key Points:</strong>
+                <ul>${keyPoints.map(p => `<li>${p}</li>`).join('')}</ul>
+            </div>
+        ` : ''}
+        ${q.why_tricky ? `<div class="tricky-note"><strong>Note:</strong> ${q.why_tricky}</div>` : ''}
+    `;
+}
+
 // Renderers
 function renderSubjects(subjects) {
     elements.subjectsGrid.innerHTML = subjects.map(subject => `
@@ -535,8 +669,10 @@ function renderQuiz() {
     // Show/hide buttons
     // Only show "Try More" if answers revealed AND all questions were answered AND there are more questions
     elements.tryMoreBtn.style.display = (state.hasMore && state.answersRevealed && state.allQuestionsAnswered) ? 'inline-block' : 'none';
-    // Always show Check Answers button
-    elements.checkAnswersBtn.style.display = 'inline-block';
+    // Always show Check Answers button (unless in showAll mode)
+    elements.checkAnswersBtn.style.display = state.showAllMode ? 'none' : 'inline-block';
+    // Show "show all" button only if answers not yet revealed
+    elements.showAllAnswersBtn.style.display = state.answersRevealed ? 'none' : 'block';
 }
 
 function renderQuestion(question, index) {
