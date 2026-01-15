@@ -356,36 +356,36 @@ function getResultMessage(score, total) {
     if (percentage === 100) {
         return {
             icon: '🏆',
-            title: 'Perfect Score!',
-            message: `Amazing! You got all ${total} correct!`,
+            title: 'WOW! Perfect Score!',
+            message: `You're a SUPERSTAR! All ${total} correct! 🌟`,
             class: 'perfect'
         };
     } else if (percentage >= 80) {
         return {
             icon: '🌟',
-            title: 'Excellent!',
-            message: `Great job! You scored ${score} out of ${total}!`,
+            title: 'Amazing Job!',
+            message: `Fantastic! You got ${score} out of ${total}! So close to perfect!`,
             class: 'excellent'
         };
     } else if (percentage >= 60) {
         return {
             icon: '👍',
-            title: 'Good Work!',
-            message: `You scored ${score} out of ${total}. Keep practicing!`,
+            title: 'Great Work!',
+            message: `Nice! You scored ${score} out of ${total}. You're getting better!`,
             class: 'good'
         };
     } else if (percentage >= 40) {
         return {
             icon: '💪',
-            title: 'Keep Going!',
-            message: `You scored ${score} out of ${total}. You can do better!`,
+            title: 'Good Effort!',
+            message: `You got ${score} out of ${total}. Practice more and you'll ace it!`,
             class: 'average'
         };
     } else {
         return {
             icon: '📚',
-            title: 'Keep Learning!',
-            message: `You scored ${score} out of ${total}. Review the chapter and try again!`,
+            title: 'Keep Trying!',
+            message: `You got ${score} out of ${total}. Read the chapter again - you've got this!`,
             class: 'needs-work'
         };
     }
@@ -448,8 +448,8 @@ function showAllAnswers() {
 
     // Update results banner for "show all" mode
     elements.resultsIcon.textContent = '📖';
-    elements.resultsTitle.textContent = 'Study Mode';
-    elements.resultsMessage.textContent = 'All answers are shown. Read through and learn!';
+    elements.resultsTitle.textContent = 'Study Mode - Learn & Grow!';
+    elements.resultsMessage.textContent = 'Here are all the answers! Read them carefully and become smarter! 🧠✨';
     elements.resultsBanner.className = 'results-banner study';
     elements.resultsBanner.style.display = 'flex';
 
