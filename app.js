@@ -923,19 +923,181 @@ function renderSimpleAnswer(q) {
     `;
 }
 
+// Helper function to format answer text with proper lists and line breaks
+function formatAnswerText(text) {
+    if (!text) return '';
+
+    // Convert text to string if not already
+    text = String(text);
+
+    // Check if it looks like a numbered list or bullet list
+    const hasNumberedList = /^\s*\d+[\.\)]\s+/m.test(text);
+    const hasBulletList = /^\s*[\-\•\*]\s+/m.test(text);
+    const hasRomanNumerals = /^\s*[ivxIVX]+[\.\)]\s+/m.test(text);
+
+    if (hasNumberedList || hasBulletList || hasRomanNumerals) {
+        // Split by line breaks or list patterns
+        let lines = text.split(/\n/);
+        let formattedLines = [];
+
+        for (let line of lines) {
+            line = line.trim();
+            if (!line) continue;
+
+            // Check if line starts with number, bullet, or roman numeral
+            if (/^\d+[\.\)]\s+/.test(line)) {
+                // Numbered list item
+                formattedLines.push(`<li>${line.replace(/^\d+[\.\)]\s+/, '')}</li>`);
+            } else if (/^[ivxIVX]+[\.\)]\s+/.test(line)) {
+                // Roman numeral list item
+                formattedLines.push(`<li>${line.replace(/^[ivxIVX]+[\.\)]\s+/, '')}</li>`);
+            } else if (/^[\-\•\*]\s+/.test(line)) {
+                // Bullet list item
+                formattedLines.push(`<li>${line.replace(/^[\-\•\*]\s+/, '')}</li>`);
+            } else {
+                // Regular line - close any open list and add as paragraph
+                formattedLines.push(`<p>${line}</p>`);
+            }
+        }
+
+        // Wrap list items in ul/ol
+        let result = '';
+        let inList = false;
+        for (let item of formattedLines) {
+            if (item.startsWith('<li>')) {
+                if (!inList) {
+                    result += '<ul class="formatted-list">';
+                    inList = true;
+                }
+                result += item;
+            } else {
+                if (inList) {
+                    result += '</ul>';
+                    inList = false;
+                }
+                result += item;
+            }
+        }
+        if (inList) result += '</ul>';
+
+        return result;
+    }
+
+    // No lists detected - just handle line breaks
+    return text.split(/\n/).filter(line => line.trim()).map(line => `<p>${line.trim()}</p>`).join('');
+}
+
+// Check if question is a "differentiate between" type
+function isDifferentiateQuestion(question) {
+    const q = (question || '').toLowerCase();
+    return q.includes('differentiate between') ||
+           q.includes('difference between') ||
+           q.includes('distinguish between') ||
+           q.includes('compare and contrast');
+}
+
+// Parse differentiate answer into structured format
+function parseDifferentiateAnswer(answer, question) {
+    // Try to extract concepts from question
+    const match = question.match(/(?:differentiate|difference|distinguish|compare).*?between\s+(.+?)\s+and\s+(.+?)[\.\?]?$/i);
+    let conceptA = 'Concept A';
+    let conceptB = 'Concept B';
+
+    if (match) {
+        conceptA = match[1].trim();
+        conceptB = match[2].trim();
+    }
+
+    // Try to parse the answer into differences
+    const lines = answer.split(/\n/).filter(line => line.trim());
+    const differences = [];
+
+    for (let line of lines) {
+        line = line.trim();
+        // Skip empty lines
+        if (!line) continue;
+
+        // Try to split by common separators like "while", "whereas", "but", ":"
+        let parts = null;
+
+        // Check for "Concept A: X, Concept B: Y" pattern
+        if (line.includes(':')) {
+            const colonParts = line.split(/[,;]/);
+            if (colonParts.length >= 2) {
+                parts = colonParts.map(p => p.replace(/^[^:]+:\s*/, '').trim());
+            }
+        }
+
+        // Check for "X while Y" or "X whereas Y" pattern
+        if (!parts) {
+            const splitMatch = line.match(/(.+?)\s+(?:while|whereas|but|however)\s+(.+)/i);
+            if (splitMatch) {
+                parts = [splitMatch[1].trim(), splitMatch[2].trim()];
+            }
+        }
+
+        if (parts && parts.length >= 2) {
+            differences.push({
+                aspect: `Point ${differences.length + 1}`,
+                concept_a_point: parts[0].replace(/^\d+[\.\)]\s*/, ''),
+                concept_b_point: parts[1].replace(/^\d+[\.\)]\s*/, '')
+            });
+        }
+    }
+
+    return {
+        concept_a: conceptA,
+        concept_b: conceptB,
+        differences: differences
+    };
+}
+
 function renderTextAnswer(q) {
     const keyPoints = q.key_points || [];
     const justification = q.explanation || (q.source_section ? `Source: "${q.source_section}"` : '');
+    const questionText = q.question || '';
+    const userAnswer = state.userAnswers[q.id] || '';
+    const correctAnswer = q.correct_answer || q.answer || '';
+
+    // Check if this is a differentiate between question
+    if (isDifferentiateQuestion(questionText) && correctAnswer) {
+        // Check if we have structured differences data
+        if (q.differences && q.differences.length > 0) {
+            return renderDifferentiateAnswer(q);
+        }
+
+        // Try to parse the answer into a comparison format
+        const parsed = parseDifferentiateAnswer(correctAnswer, questionText);
+        if (parsed.differences.length > 0) {
+            return `
+                <div class="correct-answer">
+                    <div class="diff-comparison">
+                        <div class="diff-header">
+                            <div class="diff-concept-header left">${parsed.concept_a}</div>
+                            <div class="diff-vs">VS</div>
+                            <div class="diff-concept-header right">${parsed.concept_b}</div>
+                        </div>
+                        ${parsed.differences.map(d => `
+                            <div class="diff-row">
+                                <div class="diff-aspect">${d.aspect}</div>
+                                <div class="diff-points">
+                                    <div class="diff-point left">${d.concept_a_point}</div>
+                                    <div class="diff-point right">${d.concept_b_point}</div>
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+                <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+            `;
+        }
+    }
 
     // Check if this was an MCQ-style question (embedded options)
     const mcqPattern = /\n?[a-d]\.\s+.+/gi;
-    const questionText = q.question || '';
-    const userAnswer = state.userAnswers[q.id] || '';
 
     if (mcqPattern.test(questionText) && userAnswer) {
         // For MCQ-style textbook questions, show correct/incorrect status
-        const correctAnswer = q.correct_answer || q.answer || '';
-        // Extract the option letter from both answers for comparison
         const userOptionMatch = userAnswer.match(/^[a-d]/i);
         const correctOptionMatch = correctAnswer.match(/^[a-d]/i);
 
@@ -957,17 +1119,19 @@ function renderTextAnswer(q) {
         `;
     }
 
-    // Default for text questions
+    // Default for text questions - format the answer properly
+    const formattedAnswer = formatAnswerText(correctAnswer);
+
     return `
         ${userAnswer ? `
             <div class="user-answer">
                 <strong>Your answer:</strong>
-                <p>${userAnswer}</p>
+                <div class="user-answer-text">${formatAnswerText(userAnswer)}</div>
             </div>
         ` : ''}
         <div class="correct-answer">
             <strong>Model Answer:</strong>
-            <p>${q.correct_answer || q.answer}</p>
+            <div class="formatted-answer">${formattedAnswer}</div>
         </div>
         <div class="explanation"><strong>Justification:</strong> ${justification}</div>
         ${keyPoints.length > 0 ? `
