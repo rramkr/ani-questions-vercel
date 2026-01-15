@@ -558,7 +558,7 @@
       "id": "tf080",
       "statement": "Distilled water is a good conductor of electricity.",
       "answer": false,
-      "explanation": "The text states that distilled (pure) water is an insulator: 'No, the bulb will not glow. Distilled water (pure water) is an insulator and does not conduct electricity.'",
+      "explanation": "distilled (pure) water is an insulator: 'No, the bulb will not glow. Distilled water (pure water) is an insulator and does not conduct electricity.'",
       "source_section": "Textbook Questions"
     }
   ],
