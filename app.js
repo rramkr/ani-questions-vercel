@@ -449,18 +449,39 @@ function renderSubjects(subjects) {
 }
 
 function renderChapters(chapters) {
-    elements.chaptersTitle.textContent = `${state.currentSubject.name} - Chapters`;
+    elements.chaptersTitle.innerHTML = `
+        <div class="chapters-header-fun">
+            <span class="subject-icon">${state.currentSubject.icon}</span>
+            <span>${state.currentSubject.name}</span>
+        </div>
+    `;
 
-    elements.chaptersList.innerHTML = chapters.map(chapter => {
+    // Add motivational banner before chapters
+    const motivationalBanner = `
+        <div class="motivation-banner">
+            <div class="motivation-icon">🎯</div>
+            <div class="motivation-text">
+                <strong>Pick a chapter and start your learning adventure!</strong>
+                <span>Each chapter has fun quizzes waiting for you!</span>
+            </div>
+        </div>
+    `;
+
+    elements.chaptersList.innerHTML = motivationalBanner + chapters.map((chapter, index) => {
         const hasQuestions = chapter.has_questions;
         const badge = hasQuestions
-            ? `<span class="chapter-badge ready">${chapter.available_types.length} types</span>`
-            : `<span class="chapter-badge pending">No questions</span>`;
+            ? `<span class="chapter-badge ready">Ready to Play!</span>`
+            : `<span class="chapter-badge pending">Coming Soon</span>`;
+        const chapterEmojis = ['📚', '⚡', '🔬', '🧪', '🌟', '💡', '🎓', '📖'];
+        const emoji = chapterEmojis[index % chapterEmojis.length];
 
         return `
             <div class="chapter-item ${!hasQuestions ? 'disabled' : ''}"
                  onclick="${hasQuestions ? `loadSections(${JSON.stringify(chapter).replace(/"/g, '&quot;')})` : ''}">
-                <span class="chapter-name">${chapter.name}</span>
+                <div class="chapter-info">
+                    <span class="chapter-emoji">${emoji}</span>
+                    <span class="chapter-name">${chapter.name}</span>
+                </div>
                 ${badge}
             </div>
         `;

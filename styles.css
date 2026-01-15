@@ -359,49 +359,140 @@ body {
     font-size: 0.95rem;
 }
 
-/* Chapters List */
+/* Chapters Header */
+.chapters-header-fun {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--primary);
+}
+
+.subject-icon {
+    font-size: 2.2rem;
+}
+
+/* Motivation Banner */
+.motivation-banner {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border-radius: 16px;
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 20px;
+    border: 2px dashed #f59e0b;
+}
+
+.motivation-icon {
+    font-size: 2.5rem;
+    animation: bounce-soft 2s ease-in-out infinite;
+}
+
+.motivation-text {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.motivation-text strong {
+    font-size: 1.15rem;
+    color: #92400e;
+}
+
+.motivation-text span {
+    font-size: 0.95rem;
+    color: #b45309;
+}
+
+/* Chapters List - Fun & Colorful */
 .chapters-list {
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 16px;
 }
 
 .chapter-item {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: var(--card-bg);
-    padding: 16px 20px;
-    border-radius: 10px;
+    background: linear-gradient(135deg, #fff 0%, #f0f9ff 100%);
+    padding: 20px 24px;
+    border-radius: 16px;
     cursor: pointer;
-    transition: all 0.2s;
-    box-shadow: var(--shadow);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    border-left: 5px solid var(--fun-blue);
+    position: relative;
+    overflow: hidden;
+}
+
+.chapter-item::before {
+    content: "📖";
+    position: absolute;
+    right: 80px;
+    font-size: 1.5rem;
+    opacity: 0.15;
+}
+
+.chapter-item:nth-child(odd) {
+    border-left-color: var(--fun-pink);
+}
+
+.chapter-item:nth-child(odd)::before {
+    content: "⚡";
 }
 
 .chapter-item:hover:not(.disabled) {
-    transform: translateX(4px);
-    box-shadow: var(--shadow-lg);
+    transform: translateX(10px) scale(1.02);
+    box-shadow: 0 8px 25px rgba(99, 102, 241, 0.25);
+    background: linear-gradient(135deg, #fff 0%, #ede9fe 100%);
+}
+
+.chapter-item:hover:not(.disabled)::after {
+    content: "Let's Go! 🚀";
+    position: absolute;
+    right: 120px;
+    font-size: 0.85rem;
+    color: var(--primary);
+    font-weight: 600;
+    animation: fadeIn 0.3s ease;
 }
 
 .chapter-item.disabled {
     opacity: 0.5;
     cursor: not-allowed;
+    border-left-color: #d1d5db;
+}
+
+.chapter-info {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.chapter-emoji {
+    font-size: 1.8rem;
 }
 
 .chapter-name {
-    font-weight: 500;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: var(--text);
 }
 
 .chapter-badge {
-    padding: 4px 12px;
+    padding: 6px 14px;
     border-radius: 20px;
-    font-size: 0.75rem;
-    font-weight: 600;
+    font-size: 0.8rem;
+    font-weight: 700;
 }
 
 .chapter-badge.ready {
-    background: var(--success-light);
-    color: var(--success);
+    background: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
+    color: #059669;
+    box-shadow: 0 2px 8px rgba(16, 185, 129, 0.2);
 }
 
 .chapter-badge.pending {
