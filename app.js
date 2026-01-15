@@ -1011,21 +1011,22 @@ function renderDifferentiateAnswer(q) {
     const justification = q.source_section ? `Source: "${q.source_section}"` : '';
     return `
         <div class="correct-answer">
-            <strong>Differences:</strong>
-            <table class="diff-table">
-                <tr>
-                    <th>Aspect</th>
-                    <th>${q.concept_a || 'Concept A'}</th>
-                    <th>${q.concept_b || 'Concept B'}</th>
-                </tr>
+            <div class="diff-comparison">
+                <div class="diff-header">
+                    <div class="diff-concept-header left">${q.concept_a || 'Concept A'}</div>
+                    <div class="diff-vs">VS</div>
+                    <div class="diff-concept-header right">${q.concept_b || 'Concept B'}</div>
+                </div>
                 ${differences.map(d => `
-                    <tr>
-                        <td>${d.aspect}</td>
-                        <td>${d.concept_a_point}</td>
-                        <td>${d.concept_b_point}</td>
-                    </tr>
+                    <div class="diff-row">
+                        <div class="diff-aspect">${d.aspect}</div>
+                        <div class="diff-points">
+                            <div class="diff-point left">${d.concept_a_point}</div>
+                            <div class="diff-point right">${d.concept_b_point}</div>
+                        </div>
+                    </div>
                 `).join('')}
-            </table>
+            </div>
         </div>
         <div class="explanation"><strong>Source:</strong> ${justification}</div>
     `;
