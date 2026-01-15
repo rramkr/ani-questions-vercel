@@ -1,0 +1,281 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tq001",
+      "question": "The source of electricity in a torch is the ___.",
+      "answer": "cell",
+      "question_type": "mcq_textbook",
+      "options": ["switch", "mains", "bulb", "cell"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq002",
+      "question": "Electric current cannot flow through ___.",
+      "answer": "wood",
+      "question_type": "mcq_textbook",
+      "options": ["silver", "wood", "copper", "nickel"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq003",
+      "question": "Electric current can flow through ___.",
+      "answer": "silver",
+      "question_type": "mcq_textbook",
+      "options": ["silver", "plastic", "glass", "rubber"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq004",
+      "question": "Which of the following is not an electrical component?",
+      "answer": "pen",
+      "question_type": "mcq_textbook",
+      "options": ["cell", "pen", "resistor", "switch"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq005",
+      "question": "The direction of the conventional current is opposite to the direction of flow of ___.",
+      "answer": "electrons",
+      "question_type": "mcq_textbook",
+      "options": ["electrons", "protons", "neutrons", "none of these"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq006",
+      "question": "Three bulbs are connected in a parallel circuit. If one bulb burns out, what will happen to the other two bulbs?",
+      "answer": "They will glow with the same brightness",
+      "question_type": "mcq_textbook",
+      "options": ["They will not glow", "They will glow with the same brightness", "They will glow dimmer", "They will glow brighter"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq007",
+      "question": "Electric current is the flow of ___.",
+      "answer": "charges (or electrons)",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq008",
+      "question": "A combination of two or more cells is called ___.",
+      "answer": "battery",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq009",
+      "question": "Electrons revolve around the nucleus in paths called ___.",
+      "answer": "orbits",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq010",
+      "question": "A nuclear power plant uses ___ energy to generate electric current.",
+      "answer": "nuclear",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq011",
+      "question": "Name the substances which allow current to flow through them easily.",
+      "answer": "Conductors",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq012",
+      "question": "Name the centre of an atom.",
+      "answer": "Nucleus",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq013",
+      "question": "Name the arrangement when a large number of solar cells are connected together in a series.",
+      "answer": "Solar panel",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq014",
+      "question": "When a circuit is connected in series, if one appliance stops working, other appliances connected in the series also stop working.",
+      "answer": "True",
+      "question_type": "true_false_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq015",
+      "question": "The more the speed of wind, the less will be the electricity generated.",
+      "answer": "False. The more the speed of wind, the MORE will be the electricity generated.",
+      "question_type": "true_false_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq016",
+      "question": "A switch can be touched with wet hands.",
+      "answer": "False. We should not touch electrical appliances and switches with wet hands as water and our body are good conductors of electricity.",
+      "question_type": "true_false_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq017",
+      "question": "Cotton is a good conductor of electricity.",
+      "answer": "False. Cotton is an insulator, not a conductor.",
+      "question_type": "true_false_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq018",
+      "question": "An electric circuit is a closed path in which electric current flows.",
+      "answer": "True",
+      "question_type": "true_false_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq019",
+      "question": "Name the sources of electricity.",
+      "answer": "The sources of electricity are: (1) Electric cells, (2) Batteries (collection of cells), (3) Electric generators or dynamos, (4) Solar cells, (5) Mains (public supply), and (6) Wind energy (windmills).",
+      "question_type": "short_answer_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq020",
+      "question": "What is an electric cell?",
+      "answer": "An electrochemical cell or an electric cell is a small source of electricity used to operate devices such as clocks, calculators, mobile phones and cameras. It converts chemical energy into electrical energy. When electric cells are used, a chemical reaction takes place inside the cells which produces charge.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq021",
+      "question": "List the components of an electric circuit.",
+      "answer": "The components of an electric circuit are: (1) A cell, a battery or AC mains - source of electricity, (2) A device such as a bulb or fan which works when current flows, (3) Conducting wires to connect the circuit, (4) An electric switch to turn the device on or off, (5) A plug key for keeping circuit open or closed for longer duration, (6) A resistor which opposes the flow of current.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq022",
+      "question": "What is a circuit diagram? How is a closed circuit different from an open circuit?",
+      "answer": "A circuit diagram is a convenient way to show the path of electric current on paper by using conventional symbols. The commonly used components shown are cell, battery, switch, bulb, and connecting wires. The arrow shows the direction of conventional current.\n\nDifference:\n- Closed circuit: A circuit is said to be closed or complete when electric current flows through it. This happens when the switch is on.\n- Open circuit: A circuit is said to be open when no electric current flows through it. This happens when the switch is off or the circuit is broken at any point.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq023",
+      "question": "What is a solar cell?",
+      "answer": "A solar cell is a device used to convert solar energy into electrical energy. When sunlight falls on these solar cells, electricity is generated. Solar cells are used to power electronic calculators, watches, streetlights and lighthouses. A solar panel is formed by a large number of solar cells connected together. Solar panels are used in artificial satellites and space stations.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq024",
+      "question": "State four precautions to be taken while using electricity.",
+      "answer": "Precautions while using electricity:\n1. Do not touch electrical appliances and switches with wet hands, as tap water and your body, being good conductors, will cause current to flow through the body.\n2. Never get electrical repairs done by an untrained person.\n3. Check that the plug fits properly in the socket; otherwise there will be sparking and burning of the socket.\n4. Never touch the metallic parts of electrical appliances with bare hands or with any metal object, especially when they are in use.\n5. Use only ISI marked wires. Cover all naked wires with insulating tape. Do not touch live wires with bare hands.\n6. Stand on an insulator such as a rubber mat or wooden board when doing electrical work.\n7. Put off the main switch immediately in case of short circuit and fire.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq025",
+      "question": "Write a short note on a dry cell.",
+      "answer": "A dry cell is a type of chemical cell commonly used in batteries for many electrical appliances. It was developed in 1887 by Yai Sakizo of Japan.\n\nConstruction: A dry cell consists of:\n- Zinc container: Acts as negative electrode (cathode)\n- Carbon rod with brass cap at center: Acts as positive electrode (anode)\n- Mixture of manganese dioxide (MnO2) and carbon (C) in a muslin bag around the carbon rod\n- Electrolyte: Moist paste of ammonium chloride (NH4Cl) and plaster of Paris\n- Outer insulation: Thick cardboard or plastic\n\nThe metal case at bottom is negative terminal, brass cap at top is positive terminal.\n\nWorking: When connected in a circuit, chemical reaction between electrolyte and electrodes produces potential difference, causing current to flow. When chemicals are used up, the cell has to be discarded.\n\nAdvantages: Small, light, portable, no leakage. Used in remotes, torches, calculators, toys.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq026",
+      "question": "Differentiate between a primary cell and a secondary cell.",
+      "answer": "Differences between Primary Cell and Secondary Cell:\n\n1. Chemical Reaction:\n- Primary cell: Irreversible\n- Secondary cell: Reversible\n\n2. Recharging:\n- Primary cell: Cannot be recharged\n- Secondary cell: Can be recharged and reused\n\n3. Applications:\n- Primary cell: Small devices - torches, toys, radios, bicycles, small tape recorders\n- Secondary cell: Mobile phones, cameras, computers, emergency lights\n\n4. Examples:\n- Primary cell: Simple voltaic cell, Daniel cell, Leclanche cell, dry cell\n- Secondary cell: Lead accumulator, Edison accumulator, nickel-iron accumulator",
+      "question_type": "long_answer_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq027",
+      "question": "Differentiate between a series circuit and a parallel circuit.",
+      "answer": "Differences between Series Circuit and Parallel Circuit:\n\n1. Voltage:\n- Series circuit: There is a sharing of voltage (potential difference)\n- Parallel circuit: Each appliance gets the original voltage\n\n2. Working:\n- Series circuit: All appliances work simultaneously\n- Parallel circuit: All appliances work independently\n\n3. If one appliance is damaged:\n- Series circuit: Remaining appliances also stop working because circuit gets broken\n- Parallel circuit: Remaining ones continue to work as all appliances work independently\n\nThis is why in household wiring system, all appliances are connected in parallel with separate switches so they can be operated independently.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq028",
+      "question": "Why are solar panels used in artificial satellites?",
+      "answer": "Solar panels are used in artificial satellites because they can convert solar energy into electrical energy to power the satellite's systems. In space, there is abundant sunlight available continuously (no day/night cycle as on Earth's surface). Solar panels provide a reliable, long-lasting source of electricity without needing fuel or replacement.",
+      "question_type": "hots_textbook",
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tq029",
+      "question": "Which of the following is not a source of electricity?\na. cell  b. solar cells  c. generators  d. paper",
+      "answer": "d. paper\n\nPaper is not a source of electricity. Paper is an insulator that does not conduct or generate electricity. Sources of electricity include cells (chemical energy to electrical), solar cells (solar energy to electrical), and generators (mechanical energy to electrical).",
+      "question_type": "mcq_textbook",
+      "source_section": "Physics Extra - Worksheet 2"
+    },
+    {
+      "id": "tq030",
+      "question": "The end of the electromagnet where the current flows clockwise acts as:\na. south pole  b. north pole  c. both of these  d. none of these",
+      "answer": "a. south pole\n\nThe end of an electromagnet where the current flows in a clockwise direction acts as the south pole. Conversely, the end where the current flows in an anticlockwise direction acts as the north pole. This is a rule for determining the polarity of an electromagnet.",
+      "question_type": "mcq_textbook",
+      "source_section": "Physics Extra - Worksheet 2"
+    },
+    {
+      "id": "tq031",
+      "question": "Potential difference cannot be seen in an/a:\na. battery  b. electromagnet  c. electric circuit  d. electric cell",
+      "answer": "b. electromagnet\n\nPotential difference cannot be seen in an electromagnet. Potential difference (voltage) exists between two points with different electric potentials. In batteries, cells, and circuits, there is a potential difference that causes current to flow. An electromagnet is a device that produces a magnetic field, not a source of potential difference.",
+      "question_type": "mcq_textbook",
+      "source_section": "Physics Extra - Worksheet 2"
+    },
+    {
+      "id": "tq032",
+      "question": "Fill in the blank: The direction of conventional current is _____ to the flow of electrons.",
+      "answer": "opposite\n\nThe direction of conventional current is opposite to the flow of electrons. By convention, current flows from positive to negative terminal, but electrons (which actually carry the charge) flow from negative to positive terminal. This convention was established before electrons were discovered.",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Physics Extra - Worksheet 2"
+    },
+    {
+      "id": "tq033",
+      "question": "Fill in the blank: A _____ helps in making and breaking of the circuit.",
+      "answer": "switch\n\nA switch helps in making and breaking of the circuit. When the switch is on (closed), the circuit is complete and current flows. When the switch is off (open), the circuit is broken and no current flows. This allows us to control when an electrical device operates.",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Physics Extra - Worksheet 2"
+    },
+    {
+      "id": "tq034",
+      "question": "Fill in the blank: The Edison accumulator is an example of a _____ cell.",
+      "answer": "secondary\n\nThe Edison accumulator is an example of a secondary cell. Secondary cells can be recharged and reused multiple times because the chemical reaction inside them is reversible. Other examples include lead accumulator and nickel-iron accumulator.",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Physics Extra - Model Test Paper"
+    },
+    {
+      "id": "tq035",
+      "question": "Fill in the blank: An electromagnet is used in the preparation of _____ magnet.",
+      "answer": "permanent\n\nAn electromagnet is used in the preparation of permanent magnet. Strong electromagnets are used to magnetize hard magnetic materials (like steel) to create permanent magnets. The strong magnetic field from the electromagnet aligns the magnetic domains in the hard material.",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Physics Extra - Model Test Paper"
+    },
+    {
+      "id": "tq036",
+      "question": "True or False: All appliances work independently in parallel circuits.",
+      "answer": "True\n\nThis statement is true. In parallel circuits, all appliances work independently because each appliance has its own separate path for current to flow. If one appliance stops working or is switched off, the others continue to work normally. This is why household appliances are connected in parallel.",
+      "question_type": "true_false_textbook",
+      "source_section": "Physics Extra - Model Test Paper"
+    },
+    {
+      "id": "tq037",
+      "question": "HOTS: A circuit consists of two switches A₁ and A₂, two bulbs B₁ and B₂, and a battery source. If switch A₁ is open and A₂ is closed, then which bulb(s) will glow?",
+      "answer": "This depends on how the circuit is wired:\n\n- If bulbs and switches are in series: Neither B₁ nor B₂ will glow because an open switch (A₁) breaks the entire series circuit.\n\n- If each bulb has its own switch in parallel branches:\n  - If A₁ controls B₁: B₁ will NOT glow (switch open)\n  - If A₂ controls B₂: B₂ WILL glow (switch closed)\n\nIn a typical parallel circuit where each switch controls its corresponding bulb, only B₂ would glow because only A₂ is closed, providing a complete path for current to flow through B₂.",
+      "question_type": "hots_textbook",
+      "source_section": "Physics Extra - Model Test Paper"
+    },
+    {
+      "id": "tq038",
+      "question": "In what ways can the magnitude of induced current be increased?",
+      "answer": "The magnitude of induced current can be increased by:\n\n1. Increasing the number of turns in the coil: More turns mean more cutting of magnetic lines of force, producing more induced EMF and current.\n\n2. Increasing the strength of the magnet: A stronger magnet has more magnetic lines of force, so moving it causes a greater change in magnetic flux.\n\n3. Increasing the relative speed between the magnet and coil: Faster movement means a faster rate of change of magnetic flux, which produces greater induced current.\n\n4. Using a stronger core material: Using soft iron core inside the coil concentrates the magnetic field.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Physics Extra - Model Test Paper"
+    }
+  ],
+  "total_count": 38,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

@@ -1,0 +1,289 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "sa001",
+      "question": "What is electric current?",
+      "answer": "Electric current is the flow of charges from a region of excess electrons to the region deficit in electrons. It is caused by the movement of free electrons in a particular direction.",
+      "keywords": ["flow", "charges", "electrons", "movement"],
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "sa002",
+      "question": "What is the SI unit of electric current and charge?",
+      "answer": "The SI unit of electric current is the ampere (A). The SI unit of electric charge is Coulomb (C).",
+      "keywords": ["ampere", "Coulomb"],
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "sa003",
+      "question": "What is potential difference?",
+      "answer": "Potential difference is the amount of work done in moving a unit charge from one point to another. It is required for electric current to flow. The SI unit is Volt (V).",
+      "keywords": ["work done", "moving", "charge", "Volt"],
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "sa004",
+      "question": "What is the relationship between Volt, Joule and Coulomb?",
+      "answer": "1 Volt is the amount of potential difference produced when 1 Joule of work is done to move 1 Coulomb of charge. Formula: 1V = 1J/1C.",
+      "keywords": ["1 Volt", "1 Joule", "1 Coulomb", "work done"],
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "sa005",
+      "question": "What is conventional current?",
+      "answer": "Conventional current is the electric current that is taken to flow from the positive terminal of the battery to the negative terminal. Its direction is opposite to the direction of flow of electrons.",
+      "keywords": ["positive", "negative", "opposite", "electrons"],
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "sa006",
+      "question": "Name the three subatomic particles and their charges.",
+      "answer": "The three subatomic particles are protons (positively charged), electrons (negatively charged), and neutrons (neutral, no charge).",
+      "keywords": ["protons", "positive", "electrons", "negative", "neutrons", "neutral"],
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "sa007",
+      "question": "What is an electrochemical cell?",
+      "answer": "An electrochemical cell or electric cell is a small source of electricity used to operate devices such as clocks, calculators, mobile phones and cameras. It converts chemical energy into electrical energy.",
+      "keywords": ["source", "electricity", "chemical energy", "electrical energy"],
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "sa008",
+      "question": "What are the two types of cells?",
+      "answer": "The two types of cells are primary cells and secondary cells. Primary cells cannot be recharged (e.g., dry cell). Secondary cells can be recharged (e.g., lead accumulator).",
+      "keywords": ["primary", "secondary", "recharged", "dry cell"],
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "sa009",
+      "question": "What is a dry cell made of?",
+      "answer": "A dry cell consists of a zinc container (negative electrode), a carbon rod with brass cap (positive electrode), surrounded by manganese dioxide and carbon in a muslin bag. The electrolyte is a moist paste of ammonium chloride and plaster of Paris.",
+      "keywords": ["zinc", "carbon rod", "manganese dioxide", "ammonium chloride"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "sa010",
+      "question": "What is a battery?",
+      "answer": "A battery is a number of cells connected in a series. The positive terminal of one cell is connected to the negative terminal of the next cell. This increases the amount of electrical energy available.",
+      "keywords": ["cells", "series", "connected", "electrical energy"],
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "sa011",
+      "question": "What is an electric generator?",
+      "answer": "An electric generator or dynamo is a device that converts mechanical energy into electrical energy. In a generator, an electric conductor such as copper wire is rotated in a magnetic field to produce electric current.",
+      "keywords": ["mechanical energy", "electrical energy", "conductor", "magnetic field"],
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "sa012",
+      "question": "What is a solar cell?",
+      "answer": "A solar cell is a device used to convert solar energy into electrical energy. When sunlight falls on these solar cells, electricity is generated. They are used in calculators, watches, streetlights, and satellites.",
+      "keywords": ["solar energy", "electrical energy", "sunlight", "electricity"],
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "sa013",
+      "question": "What is an electric circuit?",
+      "answer": "An electric circuit is a closed path in which electric current flows. It consists of a cell (source), connecting wires, and a device (like a bulb) connected to provide a complete path for the flow of charges.",
+      "keywords": ["closed path", "electric current", "complete path"],
+      "source_section": "Simple Electric Circuits"
+    },
+    {
+      "id": "sa014",
+      "question": "What is the difference between open and closed circuits?",
+      "answer": "A closed circuit is when electric current flows through it (switch is on). An open circuit is when no electric current flows through it (switch is off or circuit is broken at any point).",
+      "keywords": ["closed", "current flows", "open", "no current"],
+      "source_section": "Closed and Open Circuits"
+    },
+    {
+      "id": "sa015",
+      "question": "What is a circuit diagram?",
+      "answer": "A circuit diagram is a convenient way to show the path of electric current on paper by using conventional symbols. It shows components like cell, battery, switch, bulb, and connecting wires using standard symbols.",
+      "keywords": ["path", "current", "paper", "symbols"],
+      "source_section": "Circuit Diagram"
+    },
+    {
+      "id": "sa016",
+      "question": "What is resistance?",
+      "answer": "Resistance is the measure of the opposition to current flow in an electrical circuit. A resistor is a device that limits or regulates the flow of electricity in a circuit.",
+      "keywords": ["opposition", "current flow", "limits", "regulates"],
+      "source_section": "Resistors"
+    },
+    {
+      "id": "sa017",
+      "question": "What are conductors?",
+      "answer": "Conductors are substances which allow electric current to flow through them easily. All metals such as copper, silver, nickel, aluminium, iron and steel are conductors.",
+      "keywords": ["allow", "current", "flow", "metals"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "sa018",
+      "question": "What are insulators?",
+      "answer": "Insulators are substances which do not allow electric current to flow through them. Examples include cotton, rubber, paper, glass, ceramics, plastic, wood and pure water.",
+      "keywords": ["do not allow", "current", "rubber", "plastic"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "sa019",
+      "question": "Why are electric wires covered with plastic?",
+      "answer": "Electric wires are always covered with insulators such as plastic to make them safe. Plastic is an insulator that prevents electric current from flowing out of the wire and protects from electric shock.",
+      "keywords": ["insulators", "plastic", "safe", "protect"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "sa020",
+      "question": "What is mains electricity?",
+      "answer": "Mains is the public supply of electricity for people to use in their homes and offices. Electricity is generated at power stations, transferred through transformers and overhead wires or underground cables to reach the mains.",
+      "keywords": ["public supply", "homes", "power stations", "cables"],
+      "source_section": "Mains"
+    },
+    {
+      "id": "sa021",
+      "question": "Where are protons and neutrons found in an atom?",
+      "answer": "Protons and neutrons are found in the nucleus, which is at the centre of the atom. The nucleus contains protons (positively charged) and neutrons (neutral).",
+      "keywords": ["nucleus", "centre", "atom"],
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "sa022",
+      "question": "What is the mathematical relation between current, charge and time?",
+      "answer": "The mathematical relation is I = Q/t, where I is current (in ampere), Q is charge (in Coulomb), and t is time (in seconds). This means current is the amount of charge flowing per unit time.",
+      "keywords": ["I = Q/t", "current", "charge", "time"],
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "sa023",
+      "question": "Who invented the dry cell and when?",
+      "answer": "The dry cell was developed in 1887 by Yai Sakizo of Japan.",
+      "keywords": ["1887", "Yai Sakizo", "Japan"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "sa024",
+      "question": "What are the anode and cathode in a cell?",
+      "answer": "The positive electrode is called the anode, while the negative electrode is called the cathode. In a dry cell, the carbon rod is the anode and the zinc container is the cathode.",
+      "keywords": ["anode", "positive", "cathode", "negative"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "sa025",
+      "question": "What is the electrolyte in a dry cell?",
+      "answer": "The electrolyte in a dry cell is a moist paste of ammonium chloride (NH4Cl) and plaster of Paris. Although called 'dry', the cell is not completely dry as the electrolyte is in paste form.",
+      "keywords": ["ammonium chloride", "plaster of Paris", "paste"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "sa026",
+      "question": "Give two examples each of primary and secondary cells.",
+      "answer": "Primary cells: simple voltaic cell, Daniel cell, Leclanche cell, and dry cell. Secondary cells: lead accumulator, Edison accumulator, and nickel-iron accumulator.",
+      "keywords": ["voltaic", "Leclanche", "lead accumulator"],
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "sa027",
+      "question": "What is a hydroelectric power station?",
+      "answer": "A hydroelectric power station is one where turbines are rotated by flowing water to generate electricity. The mechanical energy of flowing water is converted into electrical energy through generators.",
+      "keywords": ["flowing water", "turbines", "mechanical energy"],
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "sa028",
+      "question": "What is a thermal power plant?",
+      "answer": "A thermal power plant uses energy produced from fossil fuels such as coal, diesel or natural gas to boil water into steam. This steam rotates the turbine to generate electricity.",
+      "keywords": ["fossil fuels", "coal", "steam", "turbine"],
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "sa029",
+      "question": "What is a solar panel?",
+      "answer": "A solar panel is formed by a large number of solar cells connected together. Solar panels are used in artificial satellites and space stations to generate electricity from sunlight.",
+      "keywords": ["solar cells", "connected", "satellites", "space stations"],
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "sa030",
+      "question": "How does a windmill generate electricity?",
+      "answer": "The energy of the wind is used to rotate the blades of a windmill. The more the speed of the wind, the more will be its energy and thus more electricity is generated through the connected generator.",
+      "keywords": ["wind", "rotate", "blades", "speed"],
+      "source_section": "Electricity from Wind"
+    },
+    {
+      "id": "sa031",
+      "question": "Name the basic components of an electric circuit.",
+      "answer": "The basic components are: (1) An electric cell to provide electric current, (2) A bulb or electric device, (3) An electric switch to turn the device on or off, and (4) Connecting wires for the path of current.",
+      "keywords": ["cell", "bulb", "switch", "connecting wires"],
+      "source_section": "Components of an Electric Circuit and Their Functions"
+    },
+    {
+      "id": "sa032",
+      "question": "What is the difference between a switch and a plug key?",
+      "answer": "A switch helps in making and breaking of the circuit (turning device on/off). A plug key helps in keeping a circuit open or closed for longer duration.",
+      "keywords": ["switch", "making and breaking", "plug key", "longer duration"],
+      "source_section": "Components of an Electric Circuit and Their Functions"
+    },
+    {
+      "id": "sa033",
+      "question": "Why is air an insulator?",
+      "answer": "Air is an insulator because it does not allow electric current to flow through it. Therefore, if any part of the circuit is broken, there is no flow of electric current as air creates a gap.",
+      "keywords": ["does not allow", "current", "broken circuit", "gap"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "sa034",
+      "question": "Why is pure water an insulator but impure water a conductor?",
+      "answer": "Pure water (distilled water) is an insulator as it has very few ions. Impure water contains dissolved salts and minerals that provide ions which can carry electric current, making it a conductor.",
+      "keywords": ["pure water", "insulator", "impure water", "dissolved salts", "ions"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "sa035",
+      "question": "Why should we not touch electrical appliances with wet hands?",
+      "answer": "We should not touch electrical appliances with wet hands because tap water and our body are good conductors of electricity. If we touch with wet hands, the current will flow through our body, causing electric shock.",
+      "keywords": ["wet hands", "conductors", "current", "electric shock"],
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "sa036",
+      "question": "What is a fuse?",
+      "answer": "A fuse is a safety device containing a wire that melts and breaks the electric circuit when the current exceeds permissible value. This protects the circuit and appliances from damage due to overcurrent.",
+      "keywords": ["safety device", "wire melts", "breaks circuit", "overcurrent"],
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "sa037",
+      "question": "What is MCB?",
+      "answer": "MCB stands for Miniature Circuit Breaker. It is a safety device that automatically switches off when there is excessive current or voltage fluctuation. Unlike fuse, MCB can be reset and reused.",
+      "keywords": ["Miniature Circuit Breaker", "automatic", "reset", "reused"],
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "sa038",
+      "question": "Why are household appliances connected in parallel?",
+      "answer": "Household appliances are connected in parallel because: (1) Each appliance gets the original voltage, (2) All appliances work independently, (3) If one appliance gets damaged, others continue to work, and (4) Each can have its own switch.",
+      "keywords": ["original voltage", "independently", "continues to work", "own switch"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "sa039",
+      "question": "What happens when one bulb fuses in a series circuit?",
+      "answer": "In a series circuit, all appliances depend upon each other to complete the circuit. If one bulb fuses (its filament breaks), the circuit breaks and no current flows, so all bulbs stop glowing.",
+      "keywords": ["depend", "circuit breaks", "no current", "all stop"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "sa040",
+      "question": "Why is MCB preferred over fuse?",
+      "answer": "MCB is preferred over fuse because: (1) MCB is more sensitive and can detect slight voltage fluctuation, (2) MCB can be reset after tripping while fuse needs replacement, and (3) MCB provides better protection.",
+      "keywords": ["more sensitive", "reset", "replacement", "better protection"],
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    }
+  ],
+  "total_count": 40,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

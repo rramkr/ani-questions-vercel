@@ -1,0 +1,209 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "tq001",
+      "question": "Electrons are negatively charged and protons are positively charged. So why do we say current flows from positive to negative terminal?",
+      "answer": "This is because of convention (established practice). Before electrons were discovered, scientists assumed current flows from positive to negative. This direction became the standard and is called 'conventional current'. Even though we now know electrons actually flow from negative to positive, we still use conventional current direction in circuit diagrams and calculations.",
+      "why_tricky": "Students might think current direction should match electron flow. The key is understanding that conventional current is opposite to actual electron flow.",
+      "key_points": ["Convention (established practice)", "Current flows positive to negative", "Electrons flow negative to positive", "Opposite directions"],
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "tq002",
+      "question": "Is pure water a conductor or insulator?",
+      "answer": "Pure water (distilled water) is an insulator. It does not conduct electricity. However, impure water (like tap water) is a conductor because it contains dissolved salts and minerals that can carry electric current. This is why we should not touch electrical appliances with wet hands - the tap water on our hands conducts electricity.",
+      "why_tricky": "Students often assume all water conducts electricity. The distinction between pure and impure water is important.",
+      "key_points": ["Pure water is insulator", "Impure water is conductor", "Dissolved salts enable conduction"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "tq003",
+      "question": "A dry cell is called 'dry' but it contains chemicals. Why is it called dry?",
+      "answer": "A dry cell is called 'dry' because the electrolyte inside is not a liquid solution but a moist paste of ammonium chloride and plaster of Paris. The quantity of water in it is very less. In other cells, the electrolyte is usually a solution (liquid form). Since there is no liquid that can spill, it is called a 'dry' cell, even though it is not completely dry.",
+      "why_tricky": "Students might think 'dry' means completely dry. The key is understanding that the electrolyte is in paste form, not liquid.",
+      "key_points": ["Electrolyte is moist paste, not liquid", "Very less water content", "No spillage risk"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "tq004",
+      "question": "Can the human body conduct electricity?",
+      "answer": "Yes, the human body can conduct electricity, though it is not as good a conductor as metals. This is why we should not touch electrical appliances with wet hands or touch live wires. The current can flow through our body and cause electric shock. Standing on insulators like rubber mats protects us.",
+      "why_tricky": "Students might think only metals are conductors. Understanding that our body also conducts electricity is important for safety.",
+      "key_points": ["Human body conducts electricity", "Not as good as metals", "Can cause electric shock"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "tq005",
+      "question": "In a parallel circuit, if we add more bulbs, will the other bulbs glow dimmer?",
+      "answer": "No, in a parallel circuit, each appliance gets the original voltage and works independently. Adding more bulbs does not affect the brightness of existing bulbs because each has its own separate branch. This is different from series circuits where adding more bulbs causes voltage sharing and dimmer bulbs.",
+      "why_tricky": "Students may confuse parallel and series circuit behavior. The key is that parallel branches are independent.",
+      "key_points": ["Each appliance gets original voltage", "Independent operation", "No effect on other bulbs"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "tq006",
+      "question": "In an activity, a student made a circuit with a cell, bulb, and switch. The bulb glowed. Then she placed a piece of rubber in the circuit (in series). Will the bulb still glow?",
+      "answer": "No, the bulb will not glow. Rubber is an insulator and does not allow electric current to flow through it. When rubber is placed in the circuit, it breaks the path for current flow, making it an open circuit. The bulb will only glow in a closed circuit where current can flow continuously from one terminal of the cell through the bulb and back.",
+      "why_tricky": "Students might think any solid material allows current. The key is understanding that insulators block current flow and create an open circuit.",
+      "key_points": ["Rubber is insulator", "Blocks current flow", "Creates open circuit"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "tq007",
+      "question": "Are all outside power lines well insulated and safe to touch?",
+      "answer": "No! This is a dangerous myth. In fact, 90% of outside power lines are bare wires and uninsulated. Even if they appear to have coating, it is usually just weather coating that provides no insulation or protection from electric shock. Even truly insulated lines could become unprotected after years of weather exposure. No power line is completely safe to touch or approach too closely, ever.",
+      "why_tricky": "Students may assume power lines are always insulated. This is a critical safety misconception to correct.",
+      "key_points": ["90% are bare wires", "Weather coating is not insulation", "Never safe to touch"],
+      "source_section": "Myth vs Fact"
+    },
+    {
+      "id": "tq008",
+      "question": "If a fuse needs to be replaced every time it blows, why don't we just use thick wire that won't melt?",
+      "answer": "A fuse is designed to melt and break the circuit when current exceeds the permissible value. If we use thick wire, it won't melt even during overcurrent, and the circuit won't break. This could lead to overheating, fire, or damage to appliances. The fuse protects the circuit by sacrificing itself. This is why MCBs are now preferred - they can be reset instead of replaced.",
+      "why_tricky": "Students might think thicker wire is better. The key is understanding that the fuse's purpose is to break the circuit during overcurrent.",
+      "key_points": ["Fuse designed to melt", "Protects circuit from overcurrent", "Thick wire defeats purpose"],
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "tq009",
+      "question": "Why do we need to remove plastic coating from ends of copper wire to make a circuit?",
+      "answer": "Plastic is an insulator that does not allow electric current to flow through it. If the plastic coating remains on the ends, the wire cannot make electrical contact with the battery terminals or other components. The current cannot flow through the plastic. We remove the coating only from the ends so they can connect properly while keeping insulation on the rest of the wire.",
+      "why_tricky": "Students might not understand why ends must be bare while the rest stays coated. Both aspects serve important purposes.",
+      "key_points": ["Plastic is insulator", "Ends need contact", "Rest stays insulated for safety"],
+      "source_section": "Activity - Closed Circuit"
+    },
+    {
+      "id": "tq010",
+      "question": "A cell converts chemical energy to electrical energy. Can this conversion be reversed?",
+      "answer": "It depends on the type of cell. In a primary cell (like dry cell), the chemical reaction is irreversible - once chemicals are used up, the cell has to be discarded. In a secondary cell (like lead accumulator), the chemical reaction is reversible - it can be recharged by passing current in opposite direction, which reverses the chemical reaction and restores the chemicals.",
+      "why_tricky": "Students might think all cells behave the same way. The key difference is reversibility of chemical reaction.",
+      "key_points": ["Primary cell - irreversible", "Secondary cell - reversible", "Recharging reverses reaction"],
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "tq011",
+      "question": "If air is an insulator, how does lightning pass through it during a thunderstorm?",
+      "answer": "Air is normally an insulator, but under extreme conditions like very high voltage, it can break down and become conductive. During lightning, the voltage difference between clouds and ground is millions of volts. This extreme voltage ionizes the air molecules, creating a path of charged particles through which the electrical discharge can travel. This is called electrical breakdown or dielectric breakdown.",
+      "why_tricky": "Students correctly learn air is insulator but may not know it can conduct under extreme conditions.",
+      "key_points": ["Air normally insulates", "High voltage causes breakdown", "Ionization creates conductive path"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "tq012",
+      "question": "Why does a bulb have a filament? Why not just a straight wire?",
+      "answer": "A filament is a very thin, coiled wire made of tungsten. Its thinness provides high resistance. When current passes through this high resistance, a lot of electrical energy is converted to heat and light energy, making the filament glow brightly. A straight thick wire would have low resistance and wouldn't heat up enough to glow. The coiling increases the wire length in small space, further increasing resistance.",
+      "why_tricky": "Students may not connect the concept of resistance to why filaments work.",
+      "key_points": ["Thin wire = high resistance", "High resistance causes heating", "Coiling increases length/resistance"],
+      "source_section": "Resistors"
+    },
+    {
+      "id": "tq013",
+      "question": "Why does an MCB trip sometimes even when no short circuit has occurred?",
+      "answer": "An MCB trips not only during short circuits but also during overcurrent or voltage fluctuations. If too many appliances are running simultaneously and the total current exceeds the MCB's rated capacity, it will trip. Also, MCBs are more sensitive than fuses and can detect even slight voltage fluctuations. This protects the circuit from potential damage even without a full short circuit.",
+      "why_tricky": "Students may think MCB only trips during short circuits. It actually responds to overcurrent and voltage changes too.",
+      "key_points": ["Trips during overcurrent", "Trips during voltage fluctuation", "More sensitive than fuse"],
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "tq014",
+      "question": "Can we connect household appliances in series if we want them all to turn on and off together?",
+      "answer": "Technically yes, but it's not practical. In series: (1) There would be voltage sharing, so each appliance may not get sufficient power to work properly. A 220V appliance would only get a fraction of that voltage. (2) All appliances would have to be designed for lower voltage. (3) A single faulty appliance would stop all others. A better solution is to use parallel connection with a common switch that controls all appliances together.",
+      "why_tricky": "Students might think series is fine for synchronized operation. The voltage sharing problem makes it impractical.",
+      "key_points": ["Voltage sharing is the problem", "Appliances won't get enough power", "Use parallel with common switch instead"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "tq015",
+      "question": "Is the zinc container in a dry cell positively or negatively charged?",
+      "answer": "The zinc container in a dry cell is the negative electrode (cathode). The carbon rod at the center is the positive electrode (anode). Students sometimes confuse this because zinc is a metal and metals usually have positive metallic ions. However, the zinc container serves as the source of electrons in the chemical reaction, making it the negative terminal of the cell.",
+      "why_tricky": "Students may confuse metallic nature with electrode polarity. Zinc is negative despite being a metal.",
+      "key_points": ["Zinc is negative (cathode)", "Carbon rod is positive (anode)", "Metal doesn't mean positive electrode"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "tq016",
+      "question": "A solar cell works on sunlight. Does it produce AC or DC electricity?",
+      "answer": "Solar cells produce DC (Direct Current) electricity. The photovoltaic effect in solar cells directly converts light energy into electrical energy with electrons flowing in one direction. This is similar to batteries and cells which also produce DC. For home use where AC is needed, an inverter is used to convert the DC from solar panels to AC.",
+      "why_tricky": "Students may not know about AC/DC difference. Solar cells produce DC like batteries.",
+      "key_points": ["Solar cells produce DC", "Like batteries, electrons flow one direction", "Inverter needed for AC appliances"],
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "tq017",
+      "question": "If switches are always connected to the live wire, doesn't that mean current is always flowing until we reach the appliance?",
+      "answer": "No, when the switch is OFF, the circuit is open and no current flows at all - not even in the wire before the switch. Current only flows when there's a complete circuit. The reason switches are connected to the live wire is that when OFF, the appliance is completely disconnected from the electricity source, making it safe to repair or touch.",
+      "why_tricky": "Students may think current flows up to the switch and stops. Current only flows in complete circuits.",
+      "key_points": ["No current when switch is off", "Current needs complete circuit", "Switch isolates appliance from source"],
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "tq018",
+      "question": "A torch works on batteries while a TV works on mains electricity. Are they the same type of current?",
+      "answer": "No, they are different. Batteries produce DC (Direct Current) where electrons flow in one direction continuously. Mains electricity is AC (Alternating Current) where electrons change direction many times per second (50 Hz in India). However, many appliances like TVs have internal circuits that convert AC to DC for their electronic components to work.",
+      "why_tricky": "Students may think electricity from all sources is the same. DC and AC are fundamentally different.",
+      "key_points": ["Batteries = DC", "Mains = AC", "TVs convert AC to DC internally"],
+      "source_section": "Introduction to Electricity"
+    },
+    {
+      "id": "tq019",
+      "question": "If current flows from positive to negative terminal, why do we say electrons flow from negative to positive?",
+      "answer": "Both statements are correct but describe different things. Conventional current (used in circuit diagrams) flows from positive to negative - this was the agreed direction before electrons were discovered. Actual electron flow is from negative to positive because electrons are negatively charged and are attracted to the positive terminal. They are opposite directions for the same phenomenon.",
+      "why_tricky": "Students are confused by contradictory-seeming statements. Both are correct - one is convention, one is actual particle movement.",
+      "key_points": ["Conventional current: + to -", "Electron flow: - to +", "Both correct, opposite directions"],
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "tq020",
+      "question": "Why can't we generate unlimited electricity from wind if wind is free and renewable?",
+      "answer": "While wind is free and renewable, generating electricity from wind has limitations: (1) Wind is not constant - electricity generation depends on wind speed, and more wind = more electricity. (2) Windmills can only be set up in locations with sufficient average wind. (3) Initial setup costs for turbines and generators are high. (4) Storage is needed for when wind doesn't blow. Wind energy supplements but cannot completely replace other sources.",
+      "why_tricky": "Students may think renewable means unlimited. Practical limitations exist.",
+      "key_points": ["Wind is variable", "Location dependent", "Storage needed", "High setup cost"],
+      "source_section": "Electricity from Wind"
+    },
+    {
+      "id": "tq021",
+      "question": "Why does a cell have two different terminals (positive and negative) instead of two of the same?",
+      "answer": "A cell needs two different terminals because electricity flows due to potential difference - the difference in electrical potential between two points. If both terminals were the same (same potential), there would be no potential difference and no current would flow. The positive terminal has deficit of electrons, and negative terminal has excess electrons. This difference creates the 'push' that makes electrons flow.",
+      "why_tricky": "Students may not understand why difference is necessary. Potential difference is what drives current.",
+      "key_points": ["Potential difference drives current", "Different potentials are essential", "Same terminals = no current"],
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "tq022",
+      "question": "If more turns in a coil increase electromagnet strength, why don't we use millions of turns?",
+      "answer": "While more turns do increase electromagnet strength, practical limitations exist: (1) More wire means more resistance, requiring more energy. (2) Excessive turns increase heat generation. (3) The core has limited space for winding. (4) After a certain point, adding turns gives diminishing returns. The optimal number of turns depends on the application and is chosen to balance strength, cost, and efficiency.",
+      "why_tricky": "Students might think more is always better. Practical engineering involves trade-offs.",
+      "key_points": ["More turns = more resistance", "Heat generation increases", "Diminishing returns", "Engineering trade-offs"],
+      "source_section": "Introduction to Electricity"
+    },
+    {
+      "id": "tq023",
+      "question": "A resistor limits current flow. Isn't that wasteful? Why use resistors?",
+      "answer": "Resistors are not wasteful - they're essential for circuit protection and control. Without resistors: (1) Excessive current could damage sensitive components. (2) LEDs and other components need specific current levels to work properly. (3) Voltage dividers couldn't be created for various applications. Resistors convert some electrical energy to heat, but this is necessary to protect other parts of the circuit.",
+      "why_tricky": "Students may see resistance as purely negative. It's actually essential for circuit control.",
+      "key_points": ["Protects sensitive components", "Controls current level", "Necessary for proper operation"],
+      "source_section": "Resistors"
+    },
+    {
+      "id": "tq024",
+      "question": "If generators convert mechanical energy to electrical energy, where does the mechanical energy come from in a thermal power plant?",
+      "answer": "In a thermal power plant, fossil fuels (coal, diesel, natural gas) are burned to produce heat. This heat converts water into steam at high pressure. The steam's kinetic energy rotates the turbine blades. The turbine is connected to the generator. So the energy conversion chain is: Chemical energy (fuel) → Heat energy → Kinetic energy (steam) → Mechanical energy (turbine) → Electrical energy (generator).",
+      "why_tricky": "Students may not understand the complete energy conversion chain. Multiple conversions occur.",
+      "key_points": ["Fuel → Heat → Steam → Turbine → Generator", "Multiple energy conversions", "Mechanical energy from turbine rotation"],
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "tq025",
+      "question": "Can we store electricity in large amounts like we store water in tanks?",
+      "answer": "Unlike water, electricity cannot be directly stored in tanks. Electricity must be converted to other forms for storage: (1) Chemical energy in batteries (secondary cells). (2) Potential energy in pumped-storage hydropower. (3) Kinetic energy in flywheels. Large-scale storage is expensive and inefficient, which is why electricity generation must closely match consumption at all times. This is a major challenge with renewable energy.",
+      "why_tricky": "Students may think electricity can be stored directly. It must be converted for storage.",
+      "key_points": ["Cannot store electricity directly", "Converted to chemical/potential energy", "Generation must match consumption"],
+      "source_section": "Mains"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

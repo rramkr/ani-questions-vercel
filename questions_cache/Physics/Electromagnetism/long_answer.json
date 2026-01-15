@@ -1,0 +1,99 @@
+{
+  "question_type": "long_answer",
+  "questions": [
+    {
+      "id": "la001",
+      "question": "Explain the construction and working of an electric bell with the help of a diagram description.",
+      "answer": "Construction: An electric bell consists of an electromagnet, contact spring, contact screw, armature (made of iron), hammer and gong. These components are fitted on a flat wooden or plastic board. The terminals T1 and T2 are connected to a battery through a push button switch.\n\nWorking: When the push button switch is pressed, current flows from the battery to the electromagnet and then to the contact screw. From contact screw, it flows to terminal T2 and back to the battery, completing the circuit. As current flows through the U-shaped electromagnet, it gets magnetised and attracts the armature towards itself. The hammer attached to the armature hits the gong and produces sound.\n\nDue to the displacement of the armature, it loses contact with the contact screw, breaking the circuit. Current stops flowing and the electromagnet loses its magnetism. The spring then pulls the armature back to its original position, completing the circuit again. This cycle repeats continuously as long as the push button is pressed, causing continuous ringing.",
+      "key_points": ["Construction with all parts", "Circuit completion when switch pressed", "Electromagnet attracts armature", "Hammer hits gong", "Make-and-break mechanism", "Spring restores position"],
+      "keywords": ["electromagnet", "armature", "hammer", "gong", "spring", "contact screw", "circuit", "make-and-break"],
+      "word_limit": 200,
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "la002",
+      "question": "Explain what an electromagnet is, how it is made, and the factors that affect its strength.",
+      "answer": "An electromagnet is a type of magnet in which a magnetic field is produced through electric current. It is a temporary magnet that retains magnetism only when current flows through it.\n\nConstruction: An electromagnet consists of a soft iron piece called the core, on which an insulated copper wire is wound in a coil. The two ends of the wire are connected to a battery through a switch. When the switch is turned on, electric current passes through the wire and the core behaves like a magnet.\n\nTypes: Based on shape, electromagnets are of two types - bar-shaped (wire wrapped around bar-shaped soft iron core) and U-shaped (wire wrapped around U-shaped soft iron core).\n\nFactors affecting strength:\n1. Amount of current: The strength is directly proportional to the current. More current makes the electromagnet stronger, less current makes it weaker.\n2. Number of turns: The strength is directly proportional to the number of turns per unit length of the coil. More turns increase strength, fewer turns decrease it.\n\nWhen current is switched off, the electromagnet loses its magnetism immediately because soft iron cannot retain magnetism permanently.",
+      "key_points": ["Definition of electromagnet", "Soft iron core with copper coil", "Two types based on shape", "Current affects strength", "Number of turns affects strength", "Loses magnetism when current stops"],
+      "keywords": ["electromagnet", "soft iron", "copper wire", "current", "turns", "strength", "directly proportional"],
+      "word_limit": 200,
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "la003",
+      "question": "Compare permanent magnets and temporary magnets. Give examples of each.",
+      "answer": "Permanent Magnets:\n- Retain their magnetic properties even without the influence of an external magnetic field\n- Made of hard materials that can hold magnetism for a long time\n- Cannot be switched on or off\n- Examples: Bar magnets and horse-shoe magnets\n- Used in compasses, refrigerator magnets, speakers\n\nTemporary Magnets:\n- Behave as magnets only in the presence of a strong magnetic field\n- Made of soft materials that easily gain and lose magnetism\n- Can be controlled by switching current on or off\n- Examples: Electromagnets\n- Used in electric bells, cranes, bullet trains, motors\n\nKey Differences:\n1. Magnetism retention: Permanent magnets keep their magnetism; temporary magnets lose it\n2. Material: Permanent use hard materials; temporary use soft materials\n3. Control: Permanent cannot be controlled; temporary can be switched on/off\n4. Strength variation: Permanent have fixed strength; temporary strength can be varied by changing current or number of coil turns\n\nElectromagnets are particularly useful because their magnetism can be controlled, making them ideal for applications where objects need to be picked up and released.",
+      "key_points": ["Permanent retain magnetism without external field", "Temporary need magnetic field", "Material difference", "Control difference", "Examples of each", "Practical applications"],
+      "keywords": ["permanent magnet", "temporary magnet", "hard materials", "soft materials", "bar magnet", "electromagnet"],
+      "word_limit": 200,
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "la004",
+      "question": "Describe the various applications of electromagnets in daily life and industry.",
+      "answer": "Electromagnets have numerous applications in daily life and industry due to their ability to be switched on and off:\n\n1. Electrical Appliances: Used in telephones for converting electrical signals to sound, electric motors for converting electrical energy to mechanical energy, and electric bells for producing sound.\n\n2. Industrial Cranes: Heavy-duty electromagnets in cranes can lift heavy loads of scrap iron and steel. The load can be released by switching off the current - something impossible with permanent magnets.\n\n3. Transportation: Bullet trains (maglev trains) use powerful electromagnets for magnetic levitation, allowing high-speed travel with minimal friction.\n\n4. Mining and Metallurgy: Used for separation of iron ore from impurities. The electromagnet attracts iron while non-magnetic impurities remain behind. Also used for loading furnaces with iron.\n\n5. Medical Applications: Doctors use electromagnets to remove steel splinters from patient's wounds safely without surgery. Also used in MRI machines.\n\n6. Recording Media: Audio and video tapes use electromagnetic principles to record sound and images magnetically.\n\n7. Manufacturing: Used in preparation of permanent magnets through a controlled magnetization process.\n\nThe key advantage of electromagnets is their controllability - they can be turned on when needed and turned off to release materials.",
+      "key_points": ["Electrical appliances", "Industrial cranes", "Bullet trains", "Mining and separation", "Medical uses", "Recording media", "Controllability advantage"],
+      "keywords": ["cranes", "bullet trains", "electric bells", "motors", "iron ore separation", "medical", "audio video tapes"],
+      "word_limit": 200,
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "la005",
+      "question": "Explain electromagnetic induction and its significance in understanding the relationship between electricity and magnetism.",
+      "answer": "Electromagnetic Induction:\nElectromagnetic induction is the phenomenon of producing an electric current in a conductor due to change in the magnetic lines of force associated with the conductor. The current produced by this process is called induced current.\n\nRelationship between Electricity and Magnetism:\nElectromagnetism demonstrates two important relationships:\n\n1. Electricity produces Magnetism: When electric current flows through a conductor (like a coil), it produces a magnetic field. This is the principle behind electromagnets. A soft iron core becomes magnetized when current flows through the coil wound around it.\n\n2. Magnetism produces Electricity: The reverse effect is also possible through electromagnetic induction. When magnetic lines of force change around a conductor, electric current is induced in it. This is the principle behind generators.\n\nSignificance:\n- This relationship forms the foundation of electrical engineering\n- Electric generators work on electromagnetic induction to produce electricity\n- Electric motors work on the magnetic effect of current\n- Transformers use electromagnetic induction to change voltage levels\n- This understanding led to the development of modern electrical power systems\n\nThe discovery of electromagnetic induction by Michael Faraday revolutionized our ability to generate and use electricity.",
+      "key_points": ["Definition of electromagnetic induction", "Induced current", "Electricity produces magnetism", "Magnetism produces electricity", "Practical applications", "Foundation of electrical engineering"],
+      "keywords": ["electromagnetic induction", "induced current", "magnetic lines of force", "generator", "motor", "electricity", "magnetism"],
+      "word_limit": 200,
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "la006",
+      "question": "Describe how to make an electromagnet using household materials and explain what you would observe.",
+      "answer": "Materials Required:\n- An iron nail (to serve as the core)\n- Insulated copper wire (about 50-100 cm)\n- A dry cell battery\n- A switch\n- Some paper clips or iron filings\n- Tape to secure connections\n\nProcedure:\n1. Remove the plastic coating from both ends of the copper wire (about 2 cm on each end) to expose the copper.\n2. Wrap the wire tightly around the iron nail in neat coils, making as many turns as possible.\n3. Use tape to secure the two free ends of the wire to the terminals of the battery, with a switch in between.\n4. Turn the switch on so that current flows through the coil.\n5. Bring some paper clips or iron filings near the ends of the nail.\n\nObservations:\n1. When switch is ON: The iron nail attracts the paper clips at its ends. The nail has become an electromagnet.\n2. When switch is OFF: The paper clips fall off as the nail loses its magnetism.\n3. More turns result in stronger attraction (can pick up more clips).\n\nConclusion: An iron nail gets converted into an electromagnet when current flows through a coil wound around it. The electromagnet is temporary - it works only when current flows.\n\nNote: For a fair test, we should first check if the nail alone (without current) picks up paper clips.",
+      "key_points": ["Materials list", "Step by step procedure", "Wire wrapped around nail", "Connect to battery with switch", "Observations when on/off", "Conclusion about temporary magnet"],
+      "keywords": ["iron nail", "copper wire", "battery", "switch", "paper clips", "turns", "temporary magnet"],
+      "word_limit": 200,
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "la007",
+      "question": "Explain the contribution of Michael Faraday to the field of electromagnetism and how his discoveries are used today.",
+      "answer": "Michael Faraday's Contribution:\nMichael Faraday was a British scientist who made groundbreaking discoveries in electromagnetism. In 1831, he discovered electromagnetic induction - the phenomenon where a changing magnetic field produces an electric current in a conductor.\n\nKey Discoveries:\n1. Electromagnetic Induction: Faraday showed that moving a magnet near a conductor or moving a conductor in a magnetic field induces electric current. He established that relative motion between magnet and conductor is essential for induction.\n\n2. Laws of Electromagnetic Induction: He formulated the laws governing the magnitude and direction of induced current, which depend on the rate of change of magnetic flux.\n\n3. Connection between Electricity and Magnetism: He proved that electricity and magnetism are two aspects of the same force - electromagnetism.\n\nModern Applications:\nFaraday's discoveries form the basis of:\n1. Electric Generators: Power stations use electromagnetic induction to convert mechanical energy to electrical energy, powering homes and industries worldwide.\n2. Transformers: These devices use electromagnetic induction to step up or step down voltage for efficient power transmission.\n3. Electric Motors: Work on the reverse principle - current in magnetic field produces motion.\n4. Induction Cooking: Uses electromagnetic induction to heat cooking vessels.\n5. Wireless Charging: Uses electromagnetic induction to transfer energy without wires.\n\nWithout Faraday's discoveries, our modern electrical civilization would not exist.",
+      "key_points": ["Faraday discovered electromagnetic induction in 1831", "Relative motion essential", "Established electromagnetism", "Generators and transformers based on his work", "Foundation of electrical engineering"],
+      "keywords": ["Faraday", "electromagnetic induction", "1831", "generator", "transformer", "motor", "electricity"],
+      "word_limit": 200,
+      "source_section": "Physics Extra - Michael Faraday"
+    },
+    {
+      "id": "la008",
+      "question": "Compare and contrast bar-shaped and U-shaped electromagnets. Which is more suitable for use in an electric bell and why?",
+      "answer": "Bar-Shaped Electromagnet:\nConstruction: An insulated copper wire is wrapped around a bar-shaped (cylindrical) soft iron core. The wire forms a solenoid-like coil.\n\nCharacteristics:\n- Two poles (north and south) are at opposite ends of the bar\n- Magnetic field lines emerge from one end and enter the other\n- Poles are far apart from each other\n- Useful when attraction is needed at one specific end\n\nU-Shaped Electromagnet:\nConstruction: An insulated copper wire is wrapped around a U-shaped soft iron core. The wire may be wound on both arms of the U.\n\nCharacteristics:\n- Two poles are on the same side (the open end of U)\n- Both poles are close together\n- Concentrated magnetic field between the poles\n- Stronger attractive force for objects placed between poles\n\nComparison:\n| Feature | Bar-Shaped | U-Shaped |\n|---------|------------|----------|\n| Pole position | Opposite ends | Same side |\n| Field concentration | Spread out | Concentrated |\n| Lifting capacity | Lower | Higher |\n\nSuitability for Electric Bell:\nU-shaped electromagnets are more suitable for electric bells because:\n1. Both poles face the armature, providing stronger attraction\n2. Concentrated magnetic field pulls armature more effectively\n3. Compact design fits better in the bell assembly\n4. More efficient use of magnetic field for attracting the iron armature",
+      "key_points": ["Bar-shaped has poles at opposite ends", "U-shaped has poles on same side", "U-shaped has concentrated field", "U-shaped better for electric bell", "Stronger armature attraction"],
+      "keywords": ["bar-shaped", "U-shaped", "poles", "concentrated field", "electric bell", "armature"],
+      "word_limit": 200,
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "la009",
+      "question": "Explain how electromagnets are used in separating iron ore from impurities in the mining industry.",
+      "answer": "Separation of Iron Ore Using Electromagnets:\n\nProblem:\nIron ore extracted from mines contains impurities like sand, clay, and other non-magnetic materials. These impurities need to be removed before the ore can be processed in furnaces.\n\nPrinciple:\nElectromagnets attract only magnetic materials (iron and its compounds) while non-magnetic materials remain unaffected. This property is used to separate iron-rich ore from non-magnetic impurities.\n\nProcess:\n1. Setup: A conveyor belt carries the crushed ore mixture under a large electromagnet.\n2. Attraction: When the electromagnet is switched on, it attracts the iron-containing particles, pulling them up from the mixture.\n3. Separation: Non-magnetic impurities (sand, clay, silica) continue on the conveyor belt and fall into a separate container.\n4. Collection: The iron-rich material is carried by the magnetic attraction and released into a collection bin when it passes beyond the electromagnet's field.\n5. Control: By switching the electromagnet on and off, the process can be controlled precisely.\n\nAdvantages of Using Electromagnets:\n1. Controllable: Can be switched on/off as needed\n2. Adjustable: Strength can be varied by changing current\n3. Efficient: Can process large quantities quickly\n4. Clean separation: Minimal contamination of separated materials\n5. Economical: Reduces manual labor and increases productivity\n\nThis method is also used in recycling plants to separate iron and steel from mixed waste, and in furnaces to load iron for smelting.",
+      "key_points": ["Electromagnets attract only magnetic materials", "Used on conveyor belt system", "Non-magnetic impurities separated", "Can be controlled precisely", "Used in mining and recycling"],
+      "keywords": ["iron ore", "separation", "impurities", "conveyor belt", "magnetic", "non-magnetic", "mining"],
+      "word_limit": 200,
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "la010",
+      "question": "Describe the differences between electric generators and electric motors, and explain how they are related through electromagnetic principles.",
+      "answer": "Electric Generator:\nDefinition: A device that converts mechanical energy into electrical energy.\n\nPrinciple: Works on electromagnetic induction - when a conductor moves in a magnetic field, electric current is induced in it.\n\nWorking:\n1. A coil of wire (conductor) is rotated in a magnetic field\n2. As coil cuts through magnetic lines of force, current is induced\n3. Mechanical energy of rotation converts to electrical energy\n4. Used in power stations to generate electricity\n\nExamples: Power plant generators, bicycle dynamos, wind turbines\n\nElectric Motor:\nDefinition: A device that converts electrical energy into mechanical energy.\n\nPrinciple: Works on the magnetic effect of current - when current-carrying conductor is placed in a magnetic field, it experiences a force.\n\nWorking:\n1. Current flows through a coil placed in a magnetic field\n2. Magnetic force causes the coil to rotate\n3. Electrical energy converts to mechanical energy of rotation\n4. Used to run machines and appliances\n\nExamples: Electric fans, washing machines, electric vehicles\n\nRelationship:\n- Both use the same components: coil, magnet, connections\n- Generator: Motion → Electricity (Faraday's discovery)\n- Motor: Electricity → Motion (reverse of generator)\n- Same device can work as generator or motor depending on input\n- Both demonstrate the connection between electricity and magnetism\n\nThis reversibility shows that electricity and magnetism are fundamentally connected - the core principle of electromagnetism.",
+      "key_points": ["Generator: mechanical to electrical", "Motor: electrical to mechanical", "Generator uses electromagnetic induction", "Motor uses magnetic effect of current", "Same components, reverse operation", "Both demonstrate electromagnetism"],
+      "keywords": ["generator", "motor", "electromagnetic induction", "magnetic effect", "mechanical energy", "electrical energy"],
+      "word_limit": 200,
+      "source_section": "Electromagnetic Induction"
+    }
+  ],
+  "total_count": 10,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

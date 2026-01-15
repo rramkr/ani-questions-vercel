@@ -1,0 +1,569 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "fib001",
+      "question": "A magnet in which a magnetic field is produced through electric current is called an _____.",
+      "answer": "electromagnet",
+      "explanation": "An electromagnet is a type of magnet in which magnetic field is produced through electric current.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib002",
+      "question": "The branch of physics which deals with the magnetic effect of electric current is called _____.",
+      "answer": "electromagnetism",
+      "explanation": "Electromagnetism is the branch of physics dealing with magnetic effects of electric current.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib003",
+      "question": "An electromagnet consists of a _____ iron piece called the core.",
+      "answer": "soft",
+      "explanation": "An electromagnet consists of a soft iron piece, called the core.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib004",
+      "question": "An electromagnet is a _____ magnet which retains magnetism only when current flows through it.",
+      "answer": "temporary",
+      "explanation": "An electromagnet is a temporary magnet which retains the property of magnetism only when electric current passes through it.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib005",
+      "question": "Permanent magnets are usually made of _____ materials.",
+      "answer": "hard",
+      "explanation": "Permanent magnets are usually made of hard materials.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "fib006",
+      "question": "Temporary magnets are usually made of _____ materials.",
+      "answer": "soft",
+      "explanation": "Temporary magnets are usually made of soft materials.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "fib007",
+      "question": "Bar magnets and horse-shoe magnets are examples of _____ magnets.",
+      "answer": "permanent",
+      "explanation": "Examples of permanent magnets are bar magnets and horse-shoe magnets.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "fib008",
+      "question": "Depending on shape, electromagnets are of two types - bar-shaped and _____ magnets.",
+      "answer": "U-shaped",
+      "explanation": "Electromagnets are of two types - bar-shaped and U-shaped magnets.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "fib009",
+      "question": "The end of the electromagnet where current flows in clockwise direction acts as the _____ pole.",
+      "answer": "south",
+      "explanation": "The end where current flows in clockwise direction acts as the south pole.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "fib010",
+      "question": "The end of the electromagnet where current flows in anticlockwise direction acts as the _____ pole.",
+      "answer": "north",
+      "explanation": "The end where current flows in anticlockwise direction acts as the north pole.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "fib011",
+      "question": "In an electromagnet, _____ copper wire is wound around the core.",
+      "answer": "insulated",
+      "explanation": "An insulated copper wire is wound in a coil around the soft iron core.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib012",
+      "question": "An iron nail gets converted into an electromagnet when _____ flows through it.",
+      "answer": "current",
+      "explanation": "An iron nail gets converted into an electromagnet when current flows through it.",
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "fib013",
+      "question": "The strength of an electromagnet is directly proportional to the amount of _____ flowing through it.",
+      "answer": "electric current",
+      "explanation": "The strength of an electromagnet is directly proportional to the amount of electric current flowing through it.",
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "fib014",
+      "question": "The strength of an electromagnet is directly proportional to the number of _____ per unit length of the coil.",
+      "answer": "turns",
+      "explanation": "The strength of an electromagnet is directly proportional to the number of turns per unit length of the coil.",
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "fib015",
+      "question": "Electromagnets are used in cranes to lift heavy loads of scrap iron and _____.",
+      "answer": "steel",
+      "explanation": "Electromagnets are used in cranes to lift heavy loads of scrap iron and steel.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib016",
+      "question": "Electromagnets are used in _____ trains.",
+      "answer": "bullet",
+      "explanation": "Electromagnets are used in bullet trains.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib017",
+      "question": "An electric bell is a useful application of an _____.",
+      "answer": "electromagnet",
+      "explanation": "An electric bell is a useful application of an electromagnet.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib018",
+      "question": "In an electric bell, the hammer attached to the armature hits the _____ to produce sound.",
+      "answer": "gong",
+      "explanation": "The hammer attached to the armature hits the gong and sound (bell ring) is produced.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib019",
+      "question": "The armature in an electric bell is made of _____.",
+      "answer": "iron",
+      "explanation": "The electromagnet attracts the armature made of iron towards itself.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib020",
+      "question": "In an electric bell, the _____ pulls the armature back to its original position.",
+      "answer": "spring",
+      "explanation": "The spring pulls the armature back to its original position.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib021",
+      "question": "The phenomenon of producing current in a conductor due to change in magnetic lines of force is called electromagnetic _____.",
+      "answer": "induction",
+      "explanation": "This phenomenon is called electromagnetic induction.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib022",
+      "question": "The current produced by electromagnetic induction is called _____ current.",
+      "answer": "induced",
+      "explanation": "The current so produced is called induced current.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib023",
+      "question": "Components of an electric bell are fitted on a flat wooden or _____ board.",
+      "answer": "plastic",
+      "explanation": "The components are fitted on a flat wooden or plastic board.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib024",
+      "question": "When current flows through the coil of an electromagnet, the core behaves like a _____.",
+      "answer": "magnet",
+      "explanation": "When electric current is passed through the coil, the core behaves like a magnet.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib025",
+      "question": "Electromagnets are used for separation of iron ore and its _____.",
+      "answer": "impurities",
+      "explanation": "Electromagnets are used for separation of iron ore and its impurities.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib026",
+      "question": "Electromagnets are used in preparation of _____ magnets.",
+      "answer": "permanent",
+      "explanation": "Electromagnets are used in preparation of permanent magnets.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib027",
+      "question": "Electromagnets are used in loading _____ with iron.",
+      "answer": "furnaces",
+      "explanation": "Electromagnets are used in loading furnaces with iron.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib028",
+      "question": "The terminals of an electric bell are labelled as T1 and _____.",
+      "answer": "T2",
+      "explanation": "The terminals T1 and T2 of the bell are connected to a battery through a push button switch.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib029",
+      "question": "When the switch is turned off, the electromagnet loses its _____.",
+      "answer": "magnetism",
+      "explanation": "When the switch is turned off, the flow of current stops and the electromagnet loses its magnetism.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "fib030",
+      "question": "Permanent magnets retain their magnetic properties even without the influence of an external _____ field.",
+      "answer": "magnetic",
+      "explanation": "Permanent magnets retain their magnetic properties even without the influence of an external magnetic field.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "fib031",
+      "question": "Temporary magnets behave as magnets only in the presence of a strong _____ field.",
+      "answer": "magnetic",
+      "explanation": "Temporary magnets behave as magnets only in the presence of a strong magnetic field.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "fib032",
+      "question": "Electromagnets are used in electrical appliances such as telephones, electric motors and electric _____.",
+      "answer": "bells",
+      "explanation": "Electromagnets are used in electrical appliances such as telephones, electric motors and electric bells.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib033",
+      "question": "In an electric bell, when the armature loses contact with the contact screw, the _____ breaks.",
+      "answer": "circuit",
+      "explanation": "Due to displacement of the armature, it loses contact with the contact screw, which breaks the circuit.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib034",
+      "question": "Electromagnets are used in removing steel _____ from patient's wounds.",
+      "answer": "splinters",
+      "explanation": "Electromagnets are used for removing steel splinters from patient's wounds.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib035",
+      "question": "Electromagnets are used in audio and video _____.",
+      "answer": "tapes",
+      "explanation": "Electromagnets are used in audio and video tapes.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib036",
+      "question": "As the current flowing through the coil decreases, the electromagnet becomes _____.",
+      "answer": "weaker",
+      "explanation": "As the amount of current flowing through the coil decreases, the electromagnet becomes weaker.",
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "fib037",
+      "question": "If the number of turns per unit length are less, a _____ electromagnet is obtained.",
+      "answer": "weak",
+      "explanation": "If the number of turns per unit length of the coil are less, a weak electromagnet is obtained.",
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "fib038",
+      "question": "An electric current can produce a _____ field.",
+      "answer": "magnetic",
+      "explanation": "An electric current produces a magnetic field, and the reverse effect is also possible.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib039",
+      "question": "The two ends of a wire in an electromagnet are connected to a battery through a _____.",
+      "answer": "switch",
+      "explanation": "The two ends of a wire are connected to a battery through a switch.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "fib040",
+      "question": "Electromagnets are examples of _____ magnets.",
+      "answer": "temporary",
+      "explanation": "Electromagnets are examples of temporary magnets.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "fib041",
+      "question": "For electromagnetic induction to occur, there must be _____ motion between the magnet and conductor.",
+      "answer": "relative",
+      "explanation": "Relative motion between magnet and conductor is essential for electromagnetic induction.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib042",
+      "question": "A _____ is used to detect the presence of electric current in a circuit.",
+      "answer": "galvanometer",
+      "explanation": "A galvanometer is an instrument used to detect electric current in a circuit.",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "fib043",
+      "question": "Michael _____ discovered electromagnetic induction in 1831.",
+      "answer": "Faraday",
+      "explanation": "Michael Faraday discovered electromagnetic induction through his experiments in 1831.",
+      "source_section": "Physics Extra - Michael Faraday"
+    },
+    {
+      "id": "fib044",
+      "question": "The core of an electromagnet should be made of _____ iron, not steel.",
+      "answer": "soft",
+      "explanation": "Soft iron is used because it loses magnetism quickly when current stops.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib045",
+      "question": "In an electric bell, the _____ is attached to the hammer.",
+      "answer": "armature",
+      "explanation": "The hammer is attached to the armature, so when armature moves, hammer strikes the gong.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib046",
+      "question": "A _____ converts mechanical energy into electrical energy using electromagnetic induction.",
+      "answer": "generator",
+      "explanation": "A generator uses the principle of electromagnetic induction to convert mechanical to electrical energy.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib047",
+      "question": "The _____ coating must be removed from wire ends before connecting to battery.",
+      "answer": "plastic",
+      "explanation": "The plastic coating (insulation) must be removed from wire ends to make electrical contact.",
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "fib048",
+      "question": "Soft iron has low _____, meaning it cannot retain magnetism without current.",
+      "answer": "retentivity",
+      "explanation": "Low retentivity means the material loses magnetism quickly when the magnetizing force is removed.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib049",
+      "question": "In an electric bell, the electromagnet is _____ shaped.",
+      "answer": "U",
+      "explanation": "A U-shaped electromagnet is used in an electric bell.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib050",
+      "question": "The _____ screw in an electric bell makes contact with the armature to complete the circuit.",
+      "answer": "contact",
+      "explanation": "The contact screw touches the armature to complete the electrical circuit.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib051",
+      "question": "MRI machines in hospitals use powerful _____ to create images of body organs.",
+      "answer": "electromagnets",
+      "explanation": "MRI (Magnetic Resonance Imaging) uses strong electromagnets for medical imaging.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib052",
+      "question": "Reversing the direction of current in an electromagnet reverses its _____.",
+      "answer": "poles",
+      "explanation": "When current direction is reversed, north and south poles of the electromagnet swap positions.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "fib053",
+      "question": "The hammer in an electric bell keeps striking due to the make-and-_____ mechanism.",
+      "answer": "break",
+      "explanation": "The make-and-break mechanism causes repeated hammer strikes as circuit is alternately completed and broken.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib054",
+      "question": "Electromagnets in cranes can be _____ off to release the load.",
+      "answer": "switched",
+      "explanation": "Unlike permanent magnets, electromagnets can be switched off to release attracted objects.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib055",
+      "question": "A _____ magnet has both poles covered or hidden by plastic or metal.",
+      "answer": "single-pole",
+      "explanation": "Single-pole labelled magnets actually have both poles, with one covered by adhesive or casing.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib056",
+      "question": "The wire in an electromagnet is insulated to prevent _____ circuits between turns.",
+      "answer": "short",
+      "explanation": "Insulation prevents short circuits between adjacent turns of the coil.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib057",
+      "question": "_____ energy from the battery is converted to electrical energy to power the electromagnet.",
+      "answer": "Chemical",
+      "explanation": "A battery converts chemical energy stored in it to electrical energy.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib058",
+      "question": "Maglev trains use electromagnets for magnetic _____.",
+      "answer": "levitation",
+      "explanation": "Maglev (magnetic levitation) trains float above the track using electromagnetic forces.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib059",
+      "question": "The magnetic field is strongest at the _____ of an electromagnet.",
+      "answer": "poles",
+      "explanation": "Like any magnet, the magnetic field of an electromagnet is strongest at its poles.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "fib060",
+      "question": "Electromagnets can attract magnetic materials like iron, steel, nickel and _____.",
+      "answer": "cobalt",
+      "explanation": "Electromagnets attract ferromagnetic materials including iron, steel, nickel, and cobalt.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib061",
+      "question": "A _____ uses electromagnetic induction to change voltage levels.",
+      "answer": "transformer",
+      "explanation": "Transformers use electromagnetic induction to step up or step down voltage.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib062",
+      "question": "In the electromagnet activity, paper clips are attracted at the _____ of the nail.",
+      "answer": "ends",
+      "explanation": "The iron nail attracts paper clips at its ends, which act as the magnetic poles.",
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "fib063",
+      "question": "The push _____ switch in an electric bell circuit controls when the bell rings.",
+      "answer": "button",
+      "explanation": "A push button switch connects the battery to the bell circuit when pressed.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib064",
+      "question": "A _____ test requires comparing results with a control experiment.",
+      "answer": "fair",
+      "explanation": "A fair test in science requires testing with and without the variable being studied.",
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "fib065",
+      "question": "When current stops flowing, the soft iron core gets _____ instantly.",
+      "answer": "demagnetized",
+      "explanation": "Soft iron loses its magnetism (gets demagnetized) immediately when current is switched off.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib066",
+      "question": "Electric _____ convert electrical energy to mechanical energy.",
+      "answer": "motors",
+      "explanation": "Electric motors work opposite to generators, converting electrical to mechanical energy.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib067",
+      "question": "Faster change in magnetic flux produces _____ induced current.",
+      "answer": "greater",
+      "explanation": "The magnitude of induced current depends on the rate of change of magnetic flux.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib068",
+      "question": "_____ wire is commonly used for making electromagnet coils due to its good conductivity.",
+      "answer": "Copper",
+      "explanation": "Copper wire is used because copper is an excellent electrical conductor.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib069",
+      "question": "If both magnet and conductor are stationary, the induced current is _____.",
+      "answer": "zero",
+      "explanation": "Without relative motion, there is no change in magnetic flux, so no current is induced.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib070",
+      "question": "The gong in an electric bell is made of _____ to produce clear sound.",
+      "answer": "metal",
+      "explanation": "A metal gong produces a clear ringing sound when struck by the hammer.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib071",
+      "question": "Telephone speakers and microphones use _____ to convert between sound and electrical signals.",
+      "answer": "electromagnets",
+      "explanation": "Electromagnets in telephones convert electrical signals to sound and vice versa.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib072",
+      "question": "Doubling the current through an electromagnet _____ its strength.",
+      "answer": "doubles",
+      "explanation": "Since strength is directly proportional to current, doubling current doubles strength.",
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "fib073",
+      "question": "U-shaped electromagnets have both poles on the _____ side.",
+      "answer": "same",
+      "explanation": "The U-shape brings both poles close together on the same side, making them more effective.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "fib074",
+      "question": "In scrap yards, electromagnets are used to _____ iron and steel from other waste.",
+      "answer": "separate",
+      "explanation": "Electromagnets attract iron and steel, separating them from non-magnetic waste.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib075",
+      "question": "Closely wound coils have more turns per _____ length, increasing magnetic strength.",
+      "answer": "unit",
+      "explanation": "More turns per unit length of core increases the magnetic field strength.",
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "fib076",
+      "question": "_____ uses electromagnets to record and store data on magnetic tapes.",
+      "answer": "Recording",
+      "explanation": "Audio and video recording equipment uses electromagnets to magnetize tape for data storage.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "fib077",
+      "question": "Steel is not used as electromagnet core because it has high _____ and retains magnetism.",
+      "answer": "retentivity",
+      "explanation": "Steel retains magnetism even after current stops, making it unsuitable for temporary magnets.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "fib078",
+      "question": "The _____ of a conductor in a magnetic field produces induced current.",
+      "answer": "movement",
+      "explanation": "Movement of conductor relative to magnetic field causes change in magnetic flux, inducing current.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "fib079",
+      "question": "Electric bells operate on _____ current from batteries or transformers.",
+      "answer": "direct",
+      "explanation": "Most electric bells work on direct current (DC) supply.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "fib080",
+      "question": "_____ are used to secure wire ends to battery terminals in the electromagnet activity.",
+      "answer": "Tape",
+      "explanation": "Tape is used to connect and secure the wire ends to the battery terminals.",
+      "source_section": "Activity: Making an Electromagnet"
+    }
+  ],
+  "total_count": 80,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

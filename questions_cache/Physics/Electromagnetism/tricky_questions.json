@@ -1,0 +1,209 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "tq001",
+      "question": "Can we make a permanent magnet using soft iron?",
+      "answer": "No, we cannot make a permanent magnet using soft iron. Soft iron easily gains magnetism but also quickly loses it. Permanent magnets require hard materials that can retain magnetism for a long time.",
+      "why_tricky": "Students might think any magnetic material can become a permanent magnet. The key is understanding that soft materials cannot retain magnetism.",
+      "key_points": ["Soft iron loses magnetism quickly", "Hard materials needed for permanent magnets"],
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "tq002",
+      "question": "To make a stronger electromagnet, is it better to increase current or increase the number of turns of the coil?",
+      "answer": "Both methods will make the electromagnet stronger because the strength is directly proportional to both factors. However, you can do either one or both together. Increasing current requires a more powerful battery, while increasing turns requires more wire. The best approach depends on what resources are available.",
+      "why_tricky": "Students might think only one factor matters. Both current AND number of turns affect strength, and both are directly proportional to the strength.",
+      "key_points": ["Both methods work", "Strength proportional to both", "Can combine both approaches"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "tq003",
+      "question": "Why is soft iron used in electromagnets and not steel, even though both are types of iron?",
+      "answer": "Soft iron is used because it easily loses its magnetism when the current is stopped. Steel, being a hard material, would retain magnetism even after current stops - just like a permanent magnet. This would defeat the purpose of having a controllable, temporary magnet.",
+      "why_tricky": "Students might think all iron materials behave the same. The key difference is that soft materials lose magnetism easily while hard materials retain it.",
+      "key_points": ["Soft iron loses magnetism easily", "Steel retains magnetism", "Electromagnet needs to be controllable"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "tq004",
+      "question": "If we reverse the direction of current in an electromagnet, what happens to its poles?",
+      "answer": "The poles get reversed. This is because the text tells us that the end where current flows clockwise acts as south pole, and where it flows anticlockwise acts as north pole. When we reverse the current direction, clockwise becomes anticlockwise and vice versa at each end, so the poles swap positions.",
+      "why_tricky": "Students might not connect the rule about current direction (clockwise/anticlockwise) with what happens when current is reversed.",
+      "key_points": ["Clockwise = south pole", "Anticlockwise = north pole", "Reversing current reverses poles"],
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "tq005",
+      "question": "In an electric bell, if the spring is removed, will the bell ring continuously?",
+      "answer": "No, the bell will ring only once. Without the spring, after the hammer strikes the gong and circuit breaks, the armature cannot return to its original position to complete the circuit again. The make-and-break mechanism fails.",
+      "why_tricky": "Students might think removing spring would cause continuous ringing since armature would stay attracted. But circuit break prevents any more ringing.",
+      "key_points": ["Bell rings only once", "No return mechanism", "Make-and-break fails"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "tq006",
+      "question": "If a strong magnet is placed near a wire but neither is moving, will induced current be produced?",
+      "answer": "No. According to the definition, electromagnetic induction is the phenomenon of producing current due to CHANGE in the magnetic lines of force associated with the conductor. If nothing is moving or changing, the magnetic lines of force are constant, and no current will be induced.",
+      "why_tricky": "Students might think that simply having a magnetic field near a conductor is enough. The key requirement is that the magnetic field must CHANGE.",
+      "key_points": ["Change in magnetic field required", "Constant field produces no current", "Definition emphasizes 'change'"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "tq007",
+      "question": "If we use steel instead of soft iron as core and then switch off current, will the device still work as an electromagnet?",
+      "answer": "No, it will not work as a proper electromagnet. Steel retains magnetism even after current stops, so the magnet cannot be 'switched off'. It essentially becomes a permanent magnet that cannot be controlled.",
+      "why_tricky": "Students might think any iron-type metal works the same. Understanding the difference between soft and hard magnetic materials is crucial.",
+      "key_points": ["Steel retains magnetism", "Cannot be switched off", "Loses controllability"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "tq008",
+      "question": "In a crane electromagnet, if power fails while lifting scrap metal, what happens?",
+      "answer": "The scrap metal will immediately fall because the electromagnet loses its magnetism when current stops. This is why safety measures are important when using electromagnetic cranes.",
+      "why_tricky": "Students might not immediately connect power failure with loss of magnetism. Understanding the temporary nature of electromagnets has practical safety implications.",
+      "key_points": ["Load falls immediately", "Electromagnet loses power", "Safety consideration"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "tq009",
+      "question": "In the activity to make an electromagnet, why must we remove the plastic coating from both ENDS of the copper wire?",
+      "answer": "The plastic coating (insulation) prevents electrical contact. We need to remove it from the ends so the wire can make electrical contact with the battery terminals. However, the insulation must remain on the rest of the wire that is wound around the nail to prevent short circuits between adjacent turns.",
+      "why_tricky": "Students might think the entire wire should be bare. But insulation is needed on the coil part - only the ends connecting to the battery need to be bare.",
+      "key_points": ["Ends need electrical contact with battery", "Coil needs insulation", "Insulation prevents short circuit"],
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "tq010",
+      "question": "If we wind the coil very loosely (with gaps between turns) around the iron core, will it still make an electromagnet?",
+      "answer": "Yes, it will still make an electromagnet, but it will be weaker. The strength depends on number of turns per unit LENGTH. Loose winding means fewer turns per unit length, resulting in a weaker electromagnet.",
+      "why_tricky": "Students might think only total number of turns matters. The key factor is turns per unit length, not just total turns.",
+      "key_points": ["Still works but weaker", "Fewer turns per unit length", "Strength reduced"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "tq011",
+      "question": "A magnet labelled as 'north pole only' is sold in the market. Is this really a single-pole magnet?",
+      "answer": "No, this is NOT a single-pole magnet. It is physically impossible to have a magnet with only one pole. In these magnets, one pole is simply covered or hidden - usually by adhesive, plastic, or a metal cup. Both poles still exist.",
+      "why_tricky": "Marketing can mislead students into thinking single-pole magnets exist. Understanding that every magnet MUST have two poles is fundamental.",
+      "key_points": ["Single-pole magnets impossible", "One pole is hidden", "Both poles always exist"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "tq012",
+      "question": "Michael Faraday discovered electromagnetic induction in 1831. Why didn't he invent the electric generator immediately?",
+      "answer": "Actually, Faraday did demonstrate the basic principle that led to generators. However, turning a scientific discovery into practical technology takes time - engineering challenges, materials development, and manufacturing capabilities all needed to catch up. But his discovery was indeed the foundation for all generators.",
+      "why_tricky": "Students might not realize the gap between scientific discovery and practical application. Faraday's work did directly lead to generators.",
+      "key_points": ["Discovery was foundation for generators", "Practical development takes time", "Engineering challenges needed solving"],
+      "source_section": "Physics Extra - Michael Faraday"
+    },
+    {
+      "id": "tq013",
+      "question": "A transformer is connected to a battery (DC). Will it work?",
+      "answer": "No, a transformer will not work with DC (direct current). Transformers require changing magnetic field for electromagnetic induction. DC creates a constant magnetic field, which cannot induce current in the secondary coil. Transformers need AC (alternating current) which constantly changes direction.",
+      "why_tricky": "Students might think any electrical source works with transformers. Understanding that changing magnetic field is essential helps clarify this.",
+      "key_points": ["DC won't work", "Need changing magnetic field", "AC required for transformers"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "tq014",
+      "question": "If magnetic lines of force could intersect, what problem would this create?",
+      "answer": "If lines intersected, at that point there would be two different directions for the magnetic field. This is impossible because a magnetic field can only have one direction at any point. A compass placed there would have to point two ways at once - physically impossible.",
+      "why_tricky": "Students might not see why intersection is impossible. Linking it to compass behavior makes it concrete.",
+      "key_points": ["Two directions at one point impossible", "Compass can only point one way", "Field has unique direction everywhere"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tq015",
+      "question": "An ammeter is connected to detect induced current in a simple experiment, but shows no deflection. Does this mean there is no induced current?",
+      "answer": "Not necessarily. The induced current might be too small for the ammeter to detect. Ammeters are less sensitive than galvanometers. A galvanometer, being more sensitive, might detect the small induced current that the ammeter cannot.",
+      "why_tricky": "Students might conclude no deflection means no current. Instrument sensitivity is important to consider.",
+      "key_points": ["Ammeter less sensitive", "Small currents may go undetected", "Use galvanometer for small currents"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tq016",
+      "question": "Can an electric motor work as a generator?",
+      "answer": "Yes! Motors and generators are essentially the same device working in reverse. If you supply electricity to a motor, it rotates (electrical to mechanical energy). If you rotate a motor mechanically, it generates electricity (mechanical to electrical energy). This reversibility shows they work on related principles.",
+      "why_tricky": "Students might think motors and generators are completely different devices. Understanding their reversibility deepens comprehension.",
+      "key_points": ["Same device, reverse operation", "Motor = electricity to rotation", "Generator = rotation to electricity"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "tq017",
+      "question": "If you move a magnet very slowly towards a coil, will there be any induced current?",
+      "answer": "Yes, there will be induced current, but it will be very weak. The induced current depends on the RATE of change of magnetic flux. Slow movement means slow change, resulting in weak current. Moving faster produces stronger induced current.",
+      "why_tricky": "Students might think only fast movement produces current. Any movement produces current, but speed affects strength.",
+      "key_points": ["Slow movement still induces current", "Current is weak", "Speed affects current strength"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "tq018",
+      "question": "In an electric bell, why doesn't the hammer stay pressed against the gong after striking?",
+      "answer": "When the hammer strikes the gong, the armature has moved away from the contact screw, breaking the circuit. Without current, the electromagnet loses magnetism and cannot hold the armature. The spring then pulls the armature (and hammer) back.",
+      "why_tricky": "Students might expect the hammer to stay if pressed by the attracted armature. The circuit breaking is key to understanding.",
+      "key_points": ["Circuit breaks when armature moves", "Electromagnet loses magnetism", "Spring pulls hammer back"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "tq019",
+      "question": "A student wraps copper wire around a copper rod (instead of iron nail) and connects to battery. Will it become an electromagnet?",
+      "answer": "No, it will not become an electromagnet. Copper is a non-magnetic material - it cannot be magnetized. The core must be made of a magnetic material like iron, nickel, or cobalt. The copper wire is fine for the coil, but copper cannot be the core.",
+      "why_tricky": "Students might confuse the material requirements for coil vs core. Coil = conductor (copper), Core = magnetic material (iron).",
+      "key_points": ["Copper is non-magnetic", "Core must be magnetic material", "Iron/nickel/cobalt for core"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "tq020",
+      "question": "If the contact screw in an electric bell is adjusted too tight (armature always touching), what happens?",
+      "answer": "The bell will ring only once or not at all properly. If armature always touches the screw, the circuit stays complete and electromagnet stays magnetized. There's no circuit break, so no make-and-break mechanism. The hammer stays attracted to the electromagnet.",
+      "why_tricky": "Students might think tighter contact = better ringing. Understanding that the break is essential for repeated ringing is key.",
+      "key_points": ["No circuit break", "Hammer stays in one position", "No repeated ringing"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "tq021",
+      "question": "Why is retentivity important when choosing material for electromagnet core?",
+      "answer": "Low retentivity is crucial because the electromagnet must lose its magnetism instantly when current stops. High retentivity material (like steel) would remain magnetized, defeating the purpose of having a controllable, switchable magnet. Soft iron's low retentivity makes it ideal.",
+      "why_tricky": "Students might think high retentivity (strong magnetism retention) is desirable. For electromagnets, the opposite is true.",
+      "key_points": ["Low retentivity needed", "Must lose magnetism when current stops", "High retentivity defeats control"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "tq022",
+      "question": "Can electromagnetic induction work if you move the coil instead of the magnet?",
+      "answer": "Yes! What matters is RELATIVE motion between magnet and conductor. You can move the magnet toward a stationary coil, or move the coil toward a stationary magnet - both will induce current. Either way, the magnetic lines of force through the coil are changing.",
+      "why_tricky": "Students might think only the magnet needs to move. Understanding relative motion broadens the concept.",
+      "key_points": ["Relative motion is key", "Either can move", "Same effect both ways"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "tq023",
+      "question": "In a scrap yard, why can't a permanent magnet be used to separate iron from waste?",
+      "answer": "A permanent magnet could attract iron, but it cannot release it at the desired location. Permanent magnets cannot be 'switched off'. An electromagnet is better because it can be switched on to pick up iron and switched off to drop it where needed.",
+      "why_tricky": "Students might think any strong magnet would work. The ability to release the load is crucial in practical applications.",
+      "key_points": ["Permanent magnet can't release load", "Cannot be switched off", "Electromagnet offers control"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "tq024",
+      "question": "What would happen if the electromagnet in an electric bell was bar-shaped instead of U-shaped?",
+      "answer": "The bell would work but less effectively. U-shaped electromagnets have both poles on the same side, creating a stronger, concentrated field to attract the armature. Bar-shaped has poles at opposite ends, so only one pole faces the armature, giving weaker attraction.",
+      "why_tricky": "Students might not see why shape matters. Understanding pole concentration and field strength is important.",
+      "key_points": ["Still works but weaker", "U-shape concentrates field", "Stronger armature attraction with U-shape"],
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "tq025",
+      "question": "A student says: 'More batteries always make a stronger electromagnet.' Is this correct?",
+      "answer": "Partially correct, but with limits. More batteries (in series) provide more voltage, which increases current, which increases strength. However, too much current could overheat the wire or damage the battery. There are practical limits to how much current the circuit can safely handle.",
+      "why_tricky": "Students might think there's no limit. Understanding practical limitations of circuits is important.",
+      "key_points": ["More current = stronger (generally true)", "Practical limits exist", "Overheating possible"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

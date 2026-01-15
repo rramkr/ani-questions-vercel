@@ -1,0 +1,234 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "hots001",
+      "question": "A student made two electromagnets - one with 50 turns and another with 100 turns. Both use the same battery and same iron core. Which electromagnet will be stronger and why?",
+      "context": "The student is comparing electromagnets with different number of coil turns.",
+      "answer": "The electromagnet with 100 turns will be stronger. This is because the strength of an electromagnet is directly proportional to the number of turns per unit length of the coil. With more turns, more magnetic field is produced, making the electromagnet stronger.",
+      "key_points": ["100 turns electromagnet is stronger", "Strength directly proportional to turns", "More turns = more magnetic field"],
+      "keywords": ["turns", "strength", "directly proportional"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "hots002",
+      "question": "Why would a permanent magnet be unsuitable for use in an industrial crane that needs to pick up and release scrap metal at different locations?",
+      "context": "Industrial application requiring controlled magnetism.",
+      "answer": "A permanent magnet would be unsuitable because it cannot be switched off. Once it attracts the scrap metal, there is no easy way to release it at the desired location. An electromagnet is better because its magnetism can be switched on to pick up the load and switched off to release it wherever needed.",
+      "key_points": ["Permanent magnet cannot be switched off", "Cannot release load easily", "Electromagnet can be controlled"],
+      "keywords": ["permanent magnet", "crane", "release", "switch off", "electromagnet"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "hots003",
+      "question": "If the contact screw in an electric bell is slightly bent away from the armature, what effect would this have on the bell's ringing?",
+      "context": "Analyzing the effect of component modification in electric bell.",
+      "answer": "If the contact screw is bent away, the armature may not be able to make proper contact with it initially, or the gap may be too large. This could prevent the circuit from completing properly, and the bell may not ring at all, or ring very weakly and irregularly because the make-and-break mechanism won't work smoothly.",
+      "key_points": ["Circuit may not complete", "Bell may not ring", "Make-and-break mechanism affected"],
+      "keywords": ["contact screw", "armature", "circuit", "make-and-break"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "hots004",
+      "question": "A student replaces the soft iron core of an electromagnet with a steel core. What changes would you expect in the behavior of this electromagnet?",
+      "context": "Comparing behavior with different core materials.",
+      "answer": "With a steel core, the electromagnet would behave differently. Steel is a hard material that retains magnetism. So when current is switched off, the steel core would still remain magnetized (unlike soft iron which loses magnetism immediately). This means the magnet would no longer be a true temporary magnet and cannot be easily controlled by switching current on and off.",
+      "key_points": ["Steel retains magnetism", "Won't lose magnetism when current stops", "No longer a controllable temporary magnet"],
+      "keywords": ["steel", "soft iron", "retains magnetism", "hard material"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "hots005",
+      "question": "In an experiment, a student notices that the electromagnet attracts more paper clips when connected to two batteries in series compared to one battery. Explain this observation.",
+      "context": "Relating battery configuration to electromagnet strength.",
+      "answer": "Two batteries in series provide higher voltage, which causes more current to flow through the coil. Since the strength of an electromagnet is directly proportional to the current flowing through it, more current means a stronger electromagnet. A stronger electromagnet can attract more paper clips.",
+      "key_points": ["More batteries = higher voltage", "Higher voltage = more current", "More current = stronger electromagnet"],
+      "keywords": ["batteries", "current", "strength", "directly proportional"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "hots006",
+      "question": "Why is it important that the armature loses contact with the contact screw in an electric bell? What would happen if it remained in contact?",
+      "context": "Understanding the necessity of circuit breaking in bell mechanism.",
+      "answer": "If the armature remained in contact with the contact screw, the circuit would stay complete and the electromagnet would keep attracting the armature continuously. The hammer would strike the gong once and stay pressed against it. There would be no repeated ringing because the make-and-break mechanism requires the circuit to break so the spring can pull the armature back.",
+      "key_points": ["Circuit must break for repeated ringing", "Armature needs to return for next strike", "Single strike without break"],
+      "keywords": ["armature", "contact screw", "circuit break", "make-and-break"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "hots007",
+      "question": "Bullet trains use electromagnets. Based on what you know about electromagnets, why might they be preferred over permanent magnets in such advanced transportation?",
+      "context": "Application in modern transportation technology.",
+      "answer": "Electromagnets are likely preferred in bullet trains because: (1) Their strength can be controlled by adjusting the current - more current makes them stronger, less current makes them weaker. (2) They can be switched on and off as needed. (3) Being temporary magnets, they offer more control compared to permanent magnets which cannot be switched off.",
+      "key_points": ["Strength can be controlled by current", "Can be switched on/off", "More controllable than permanent magnets"],
+      "keywords": ["bullet train", "electromagnet", "control", "current", "strength"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "hots008",
+      "question": "If you wanted to separate iron filings from a mixture of iron and sand, would you use a permanent magnet or an electromagnet? Justify your choice.",
+      "context": "Practical application of choosing appropriate magnet type.",
+      "answer": "For this simple separation, a permanent magnet would be sufficient and more practical. The iron filings would stick to the magnet and can be brushed off into a container. However, in industrial scale separation (like separating iron ore from impurities), electromagnets are preferred because they can handle larger quantities and the load can be easily released by switching off current.",
+      "key_points": ["Permanent magnet suitable for small scale", "Electromagnet better for industrial scale", "Ease of releasing load matters at large scale"],
+      "keywords": ["separation", "iron filings", "permanent magnet", "electromagnet"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "hots009",
+      "question": "The myth says we can get a magnet with a single pole. Some magnets are sold labelled as 'north pole only'. Are these really single-pole magnets? Explain.",
+      "context": "Critical analysis of a common misconception.",
+      "answer": "No, these are not single-pole magnets. It is impossible to have a magnet with only one pole - every magnet must have both north and south poles. In these so-called single-pole magnets, one pole is simply hidden. The other pole is covered with adhesive or surrounded by a plastic or metal cup, making only one pole accessible, but both poles still exist.",
+      "key_points": ["No single-pole magnets exist", "Both poles always present", "One pole is hidden/covered"],
+      "keywords": ["single pole", "myth", "north pole", "south pole", "covered"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "hots010",
+      "question": "Based on the definition of electromagnetic induction, what condition is absolutely necessary to produce induced current in a conductor?",
+      "context": "Understanding the key requirement for electromagnetic induction.",
+      "answer": "For electromagnetic induction to occur, there must be a CHANGE in the magnetic lines of force associated with the conductor. A constant magnetic field, no matter how strong, will not produce induced current. The magnetic field must either increase, decrease, or move relative to the conductor for current to be induced.",
+      "key_points": ["Change in magnetic field required", "Constant field produces no current", "Change can be increase, decrease, or movement"],
+      "keywords": ["electromagnetic induction", "change", "magnetic lines of force", "induced current"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "hots011",
+      "question": "Faraday discovered electromagnetic induction in 1831. How did this discovery change the world?",
+      "context": "Understanding the historical impact of scientific discovery.",
+      "answer": "Faraday's discovery revolutionized the world by enabling the generation of electricity on a large scale. It led to the invention of generators which convert mechanical energy to electrical energy. This made electric power available to homes and industries, powering everything from lights to machines. Transformers, motors, and the entire electrical power grid are all based on his discovery.",
+      "key_points": ["Enabled large-scale electricity generation", "Led to generators and transformers", "Powered industrial revolution"],
+      "keywords": ["Faraday", "1831", "generator", "transformer", "electricity"],
+      "source_section": "Physics Extra - Michael Faraday"
+    },
+    {
+      "id": "hots012",
+      "question": "A galvanometer is more suitable than an ammeter for detecting induced current in a simple electromagnetic induction experiment. Why?",
+      "context": "Understanding instrument selection in experiments.",
+      "answer": "A galvanometer is more suitable because: (1) It is more sensitive than an ammeter and can detect very small currents - induced currents in simple experiments are typically small. (2) It can show the direction of current flow, helping understand how current direction changes with motion direction. (3) It responds quickly to small changes in current.",
+      "key_points": ["More sensitive than ammeter", "Can detect small currents", "Shows current direction"],
+      "keywords": ["galvanometer", "ammeter", "sensitive", "induced current"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "hots013",
+      "question": "In an electric bell, if the spring is removed, what would happen when the push button is pressed?",
+      "context": "Analyzing the role of spring in bell mechanism.",
+      "answer": "Without the spring, the armature would be attracted to the electromagnet when current flows and stay there. The hammer would strike the gong once and remain pressed against it. There would be no repeated ringing because the spring's job is to pull the armature back to restore contact with the contact screw. The make-and-break mechanism would fail completely.",
+      "key_points": ["Single strike only", "Armature stays attracted", "No return to original position", "Make-and-break fails"],
+      "keywords": ["spring", "armature", "make-and-break", "single strike"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "hots014",
+      "question": "Why can't transformers work with direct current (DC)? What type of current do they need?",
+      "context": "Understanding transformer operation requirements.",
+      "answer": "Transformers cannot work with DC because electromagnetic induction requires a changing magnetic field. DC provides constant current, which creates a constant magnetic field in the primary coil. A constant field cannot induce current in the secondary coil. Transformers need alternating current (AC) because AC constantly changes direction, creating a continuously changing magnetic field that can induce current.",
+      "key_points": ["DC creates constant field", "Constant field can't induce current", "AC creates changing field", "Transformers need AC"],
+      "keywords": ["transformer", "DC", "AC", "changing field", "constant"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "hots015",
+      "question": "A student wants to increase the number of paper clips an electromagnet can pick up. What two things can the student do without changing the core or wire?",
+      "context": "Practical application of factors affecting electromagnet strength.",
+      "answer": "The student can: (1) Increase the current by adding more batteries in series - this provides more voltage and thus more current, making the electromagnet stronger. (2) Increase the number of turns by winding more wire around the core - more turns per unit length increases magnetic strength. Both factors are directly proportional to electromagnet strength.",
+      "key_points": ["Increase current (more batteries)", "Increase number of turns", "Both directly proportional to strength"],
+      "keywords": ["current", "turns", "batteries", "strength", "paper clips"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "hots016",
+      "question": "Magnetic lines of force never intersect each other. What would it mean if they did intersect?",
+      "context": "Understanding properties of magnetic field lines.",
+      "answer": "If magnetic lines of force intersected, it would mean that at the point of intersection, there would be two different directions of the magnetic field. This is impossible because the magnetic field can have only one direction at any given point. A compass placed at that point would have to point in two directions simultaneously, which is physically impossible. Hence, magnetic lines never intersect.",
+      "key_points": ["Two directions at one point impossible", "Compass can only point one way", "Field has single direction at each point"],
+      "keywords": ["magnetic lines", "intersect", "direction", "impossible"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "hots017",
+      "question": "MRI machines in hospitals use electromagnets instead of permanent magnets. What advantages does this provide?",
+      "context": "Medical application of electromagnets.",
+      "answer": "Using electromagnets in MRI machines provides several advantages: (1) They can create much stronger magnetic fields than permanent magnets. (2) The field strength can be precisely controlled by adjusting the current. (3) They can be switched off during emergencies or maintenance for safety. (4) The field can be turned off when patients enter or exit the machine.",
+      "key_points": ["Stronger fields possible", "Field strength controllable", "Can be switched off for safety", "Precise control"],
+      "keywords": ["MRI", "electromagnet", "control", "safety", "strong field"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "hots018",
+      "question": "If you wrap the same wire around two nails - one made of iron and one made of copper - and connect to a battery, which will become an electromagnet? Why?",
+      "context": "Understanding material requirements for electromagnets.",
+      "answer": "Only the iron nail will become an electromagnet. This is because iron is a magnetic material that can be magnetized when current flows through the coil around it. Copper is not a magnetic material - it is non-magnetic and cannot be magnetized. The core of an electromagnet must be made of a magnetic material like iron, nickel, or cobalt.",
+      "key_points": ["Only iron becomes electromagnet", "Iron is magnetic material", "Copper is non-magnetic", "Core must be magnetic material"],
+      "keywords": ["iron", "copper", "magnetic", "non-magnetic", "core"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "hots019",
+      "question": "Electric generators and electric motors have similar components but do opposite things. Explain this relationship.",
+      "context": "Understanding the reversibility of electromagnetic devices.",
+      "answer": "Generators and motors are reverse of each other: A generator receives mechanical energy (rotation) and uses electromagnetic induction to produce electrical energy. A motor receives electrical energy and uses the magnetic effect of current to produce mechanical energy (rotation). They have similar components (coil, magnet, connections) but work on opposite principles. In fact, a generator can work as a motor and vice versa depending on what input is provided.",
+      "key_points": ["Generator: mechanical to electrical", "Motor: electrical to mechanical", "Same components, opposite function", "Reversible operation"],
+      "keywords": ["generator", "motor", "mechanical", "electrical", "reversible"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "hots020",
+      "question": "Why is the contact screw in an electric bell adjustable? What happens if the gap is too large or too small?",
+      "context": "Understanding fine-tuning of bell mechanism.",
+      "answer": "The contact screw is adjustable to fine-tune the bell's operation. If the gap is too large: the armature may not reach the electromagnet properly, resulting in weak or no ringing. If the gap is too small: the armature may not break contact properly, disrupting the make-and-break mechanism. The adjustable screw allows setting the optimal gap for smooth, consistent ringing.",
+      "key_points": ["Allows fine-tuning", "Too large gap = weak ringing", "Too small gap = disrupted mechanism", "Optimal gap needed"],
+      "keywords": ["contact screw", "adjustable", "gap", "fine-tune"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "hots021",
+      "question": "Retentivity is a key property that distinguishes soft iron from steel. How does low retentivity help in making better electromagnets?",
+      "context": "Understanding material properties in electromagnet design.",
+      "answer": "Low retentivity means the material cannot hold magnetism when the magnetizing force is removed. For electromagnets, this is essential because: (1) The magnet must lose magnetism immediately when current stops - soft iron with low retentivity does this. (2) It allows the electromagnet to be controlled by switching current on/off. (3) Steel with high retentivity would remain magnetized, making it impossible to release loads in cranes or stop the bell mechanism.",
+      "key_points": ["Low retentivity = can't hold magnetism", "Allows on/off control", "Essential for temporary magnet behavior"],
+      "keywords": ["retentivity", "soft iron", "steel", "control", "temporary"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "hots022",
+      "question": "In the electromagnet activity, why is testing the nail without current considered a 'control experiment'?",
+      "context": "Understanding scientific method in experiments.",
+      "answer": "Testing the nail without current is a control experiment because it establishes the baseline - what happens without the variable being tested (current). If we only test with current and find the nail picks up clips, we can't be sure if it was the current or if the nail was already slightly magnetic. By testing without current first and finding it doesn't attract clips, we can confirm that the current (the variable) is responsible for the magnetic effect.",
+      "key_points": ["Establishes baseline", "Tests without the variable", "Confirms current causes magnetism", "Part of fair test"],
+      "keywords": ["control experiment", "baseline", "fair test", "variable"],
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "hots023",
+      "question": "Why do audio and video recording tapes use electromagnetic principles rather than other methods of storage?",
+      "context": "Understanding applications of electromagnetism in technology.",
+      "answer": "Electromagnetic recording is ideal because: (1) Electromagnets can precisely magnetize tiny sections of tape in specific patterns representing data. (2) The process is reversible - data can be written, read, and erased. (3) By controlling current, the strength and direction of magnetization can be finely controlled. (4) The magnetic patterns remain stable until deliberately changed, making storage reliable.",
+      "key_points": ["Precise magnetization possible", "Reversible process", "Fine control through current", "Stable storage"],
+      "keywords": ["recording", "tape", "electromagnetic", "magnetize", "data"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "hots024",
+      "question": "If you move a magnet towards a coil slowly and then quickly, how would the induced current differ in each case?",
+      "context": "Understanding factors affecting induced current.",
+      "answer": "Moving the magnet quickly would produce stronger induced current than moving it slowly. This is because induced current depends on the rate of change of magnetic flux through the coil. Faster movement means faster change in magnetic flux, which induces greater current. Slow movement causes slower change in flux, producing weaker current. The relationship between speed and induced current is direct.",
+      "key_points": ["Faster movement = stronger current", "Depends on rate of change", "Direct relationship between speed and current"],
+      "keywords": ["speed", "induced current", "rate of change", "magnetic flux"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "hots025",
+      "question": "Why are the components of an electric bell fitted on a wooden or plastic board rather than a metal board?",
+      "context": "Understanding safety and functionality in circuit design.",
+      "answer": "Wood and plastic are electrical insulators, while metal is a conductor. Using an insulating board ensures: (1) Current flows only through the intended circuit path, not through the board. (2) No short circuits occur between different components mounted on the board. (3) Safety - touching the board won't give electric shock. A metal board could create unwanted electrical connections and short circuits.",
+      "key_points": ["Wood/plastic are insulators", "Prevents short circuits", "Ensures proper current path", "Safety consideration"],
+      "keywords": ["insulator", "wood", "plastic", "metal", "short circuit"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

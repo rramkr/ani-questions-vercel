@@ -1,0 +1,249 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "ntf001",
+      "question": "SI unit of electric current.",
+      "answer": "Ampere",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "ntf002",
+      "question": "SI unit of electric charge.",
+      "answer": "Coulomb",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "ntf003",
+      "question": "SI unit of potential difference.",
+      "answer": "Volt",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "ntf004",
+      "question": "The Italian physicist after whom the unit of potential difference is named.",
+      "answer": "Alessandro Volta",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "ntf005",
+      "question": "Positively charged subatomic particle.",
+      "answer": "Proton",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "ntf006",
+      "question": "Negatively charged subatomic particle.",
+      "answer": "Electron",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "ntf007",
+      "question": "Neutral subatomic particle with no charge.",
+      "answer": "Neutron",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "ntf008",
+      "question": "The centre of an atom containing protons and neutrons.",
+      "answer": "Nucleus",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "ntf009",
+      "question": "Paths in which electrons revolve around the nucleus.",
+      "answer": "Orbits",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "ntf010",
+      "question": "The positive electrode in a cell.",
+      "answer": "Anode",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "ntf011",
+      "question": "The negative electrode in a cell.",
+      "answer": "Cathode",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "ntf012",
+      "question": "The person who developed the dry cell in 1887.",
+      "answer": "Yai Sakizo (of Japan)",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "ntf013",
+      "question": "A number of cells connected in a series.",
+      "answer": "Battery",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "ntf014",
+      "question": "Cells that can be recharged.",
+      "answer": "Secondary cells (or storage cells or accumulators)",
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "ntf015",
+      "question": "A device that converts mechanical energy into electrical energy.",
+      "answer": "Generator (or Dynamo)",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "ntf016",
+      "question": "A device that converts solar energy into electrical energy.",
+      "answer": "Solar cell",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "ntf017",
+      "question": "A large number of solar cells connected together.",
+      "answer": "Solar panel",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "ntf018",
+      "question": "Substances which allow electric current to flow through them easily.",
+      "answer": "Conductors",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "ntf019",
+      "question": "Substances which do not allow electric current to flow through them.",
+      "answer": "Insulators (or Non-conductors)",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "ntf020",
+      "question": "The measure of opposition to current flow in an electrical circuit.",
+      "answer": "Resistance",
+      "source_section": "Resistors"
+    },
+    {
+      "id": "ntf021",
+      "question": "The public supply of electricity for homes and offices.",
+      "answer": "Mains",
+      "source_section": "Mains"
+    },
+    {
+      "id": "ntf022",
+      "question": "The type of power plant that uses flowing water to rotate turbines.",
+      "answer": "Hydroelectric power station",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "ntf023",
+      "question": "The type of power plant that uses fossil fuels like coal to produce electricity.",
+      "answer": "Thermal power plant",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "ntf024",
+      "question": "The metal container that acts as negative electrode in a dry cell.",
+      "answer": "Zinc container",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "ntf025",
+      "question": "The rod at the centre of a dry cell that acts as positive electrode.",
+      "answer": "Carbon rod",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "ntf026",
+      "question": "The chemical paste used as electrolyte in a dry cell (contains ammonium chloride).",
+      "answer": "Moist paste of ammonium chloride and plaster of Paris",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "ntf027",
+      "question": "The compound that surrounds the carbon rod in a dry cell (acts as depolarizer).",
+      "answer": "Manganese dioxide (MnO2)",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "ntf028",
+      "question": "The component that helps in making and breaking of the circuit.",
+      "answer": "Switch",
+      "source_section": "Components of an Electric Circuit"
+    },
+    {
+      "id": "ntf029",
+      "question": "The component that keeps a circuit open or closed for longer duration.",
+      "answer": "Plug key",
+      "source_section": "Components of an Electric Circuit"
+    },
+    {
+      "id": "ntf030",
+      "question": "The convenient way to show the path of electric current on paper using symbols.",
+      "answer": "Circuit diagram",
+      "source_section": "Circuit Diagram"
+    },
+    {
+      "id": "ntf031",
+      "question": "The safety device that contains a thin wire which melts during overcurrent.",
+      "answer": "Fuse",
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "ntf032",
+      "question": "The automatic safety device more sensitive than fuse that can be reset after tripping.",
+      "answer": "MCB (Miniature Circuit Breaker)",
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "ntf033",
+      "question": "The mark on electrical appliances that indicates they meet safety standards.",
+      "answer": "ISI mark",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "ntf034",
+      "question": "The insulator that should be stood upon while doing electrical work.",
+      "answer": "Rubber mat (or wooden board)",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "ntf035",
+      "question": "The material used to cover naked electric wires for safety.",
+      "answer": "Insulating tape (or plastic)",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "ntf036",
+      "question": "A device used to operate devices like clocks, calculators, mobile phones and cameras.",
+      "answer": "Electric cell (or Electrochemical cell)",
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "ntf037",
+      "question": "The type of circuit where voltage is shared among all appliances.",
+      "answer": "Series circuit",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "ntf038",
+      "question": "The type of circuit where each appliance gets the original voltage.",
+      "answer": "Parallel circuit",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "ntf039",
+      "question": "The direction of current flow that goes from positive to negative terminal.",
+      "answer": "Conventional current",
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "ntf040",
+      "question": "A machine that uses wind energy to generate electricity by rotating blades.",
+      "answer": "Windmill",
+      "source_section": "Electricity from Wind"
+    }
+  ],
+  "total_count": 40,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

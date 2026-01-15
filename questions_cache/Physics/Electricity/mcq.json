@@ -1,0 +1,809 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "mcq001",
+      "question": "What is the SI unit of electric current?",
+      "options": ["A. Volt", "B. Ampere", "C. Coulomb", "D. Joule"],
+      "correct_answer": "B. Ampere",
+      "explanation": "The text states: 'The SI Unit of electric current is the ampere.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq002",
+      "question": "What is the SI unit of electric charge?",
+      "options": ["A. Ampere", "B. Volt", "C. Coulomb", "D. Watt"],
+      "correct_answer": "C. Coulomb",
+      "explanation": "The text states: 'The SI unit of charge (Q) is Coulomb (C).'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq003",
+      "question": "What is the SI unit of potential difference?",
+      "options": ["A. Ampere", "B. Volt", "C. Coulomb", "D. Joule"],
+      "correct_answer": "B. Volt",
+      "explanation": "The text states: 'The S.I unit of potential difference is Volt (V).'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "mcq004",
+      "question": "The unit Volt is named after which scientist?",
+      "options": ["A. Thomas Edison", "B. Michael Faraday", "C. Alessandro Volta", "D. Georges Leclanche"],
+      "correct_answer": "C. Alessandro Volta",
+      "explanation": "The text states: 'It is named after the Italian Physicist Alessandro Volta.'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "mcq005",
+      "question": "Which subatomic particle is negatively charged?",
+      "options": ["A. Proton", "B. Neutron", "C. Electron", "D. Nucleus"],
+      "correct_answer": "C. Electron",
+      "explanation": "The text states: 'electrons are negatively charged'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq006",
+      "question": "Which subatomic particle is positively charged?",
+      "options": ["A. Electron", "B. Proton", "C. Neutron", "D. Orbit"],
+      "correct_answer": "B. Proton",
+      "explanation": "The text states: 'Protons are positively charged'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq007",
+      "question": "Which subatomic particle has no charge?",
+      "options": ["A. Proton", "B. Electron", "C. Neutron", "D. Nucleus"],
+      "correct_answer": "C. Neutron",
+      "explanation": "The text states: 'neutrons do not have any charge, that is, they are neutral.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq008",
+      "question": "The centre of an atom is called the:",
+      "options": ["A. Orbit", "B. Electron", "C. Nucleus", "D. Shell"],
+      "correct_answer": "C. Nucleus",
+      "explanation": "The text states: 'The centre of the atom is called the nucleus.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq009",
+      "question": "The nucleus of an atom consists of:",
+      "options": ["A. Protons and electrons", "B. Protons and neutrons", "C. Electrons and neutrons", "D. Only protons"],
+      "correct_answer": "B. Protons and neutrons",
+      "explanation": "The text states: 'It consists of protons and neutrons.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq010",
+      "question": "Electrons revolve around the nucleus in paths called:",
+      "options": ["A. Rings", "B. Shells", "C. Orbits", "D. Tracks"],
+      "correct_answer": "C. Orbits",
+      "explanation": "The text states: 'Electrons revolve around the nucleus in paths called orbits.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq011",
+      "question": "The direction of conventional current is from:",
+      "options": ["A. Negative to positive terminal", "B. Positive to negative terminal", "C. Same as electron flow", "D. Both terminals simultaneously"],
+      "correct_answer": "B. Positive to negative terminal",
+      "explanation": "The text states: 'the direction of flow of electric current is taken to be from the positive terminal of the battery... to the negative terminal.'",
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "mcq012",
+      "question": "The direction of conventional current is _____ to the direction of flow of electrons.",
+      "options": ["A. Same", "B. Perpendicular", "C. Opposite", "D. Parallel"],
+      "correct_answer": "C. Opposite",
+      "explanation": "The text states: 'the direction of the conventional current is taken to be opposite to the direction of flow of electrons.'",
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "mcq013",
+      "question": "Who developed the dry cell in 1887?",
+      "options": ["A. Alessandro Volta", "B. Thomas Edison", "C. Yai Sakizo", "D. Georges Leclanche"],
+      "correct_answer": "C. Yai Sakizo",
+      "explanation": "The text states: 'It was developed in 1887 by Yai Sakizo of Japan.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq014",
+      "question": "In a dry cell, which electrode is positive?",
+      "options": ["A. Zinc container", "B. Carbon rod", "C. Metal case", "D. Muslin bag"],
+      "correct_answer": "B. Carbon rod",
+      "explanation": "The text states: 'A carbon rod with a brass cap is placed at the centre. This acts as a positive electrode'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq015",
+      "question": "In a dry cell, which electrode is negative?",
+      "options": ["A. Carbon rod", "B. Brass cap", "C. Zinc container", "D. Manganese dioxide"],
+      "correct_answer": "C. Zinc container",
+      "explanation": "The text states: 'A dry cell essentially consists of a zinc container, acting as the negative electrode.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq016",
+      "question": "The positive electrode is also called:",
+      "options": ["A. Cathode", "B. Anode", "C. Terminal", "D. Nucleus"],
+      "correct_answer": "B. Anode",
+      "explanation": "The text states: 'The positive electrode is called the anode'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq017",
+      "question": "The negative electrode is also called:",
+      "options": ["A. Anode", "B. Terminal", "C. Cathode", "D. Nucleus"],
+      "correct_answer": "C. Cathode",
+      "explanation": "The text states: 'the negative electrode is called the cathode.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq018",
+      "question": "The electrolyte in a dry cell is a moist paste of:",
+      "options": ["A. Zinc and carbon", "B. Ammonium chloride and plaster of Paris", "C. Manganese dioxide only", "D. Sulphuric acid"],
+      "correct_answer": "B. Ammonium chloride and plaster of Paris",
+      "explanation": "The text states: 'The electrolyte is a moist paste of ammonium chloride (NH4Cl) and plaster of Paris.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq019",
+      "question": "Which type of cell cannot be recharged?",
+      "options": ["A. Secondary cell", "B. Primary cell", "C. Storage cell", "D. Accumulator"],
+      "correct_answer": "B. Primary cell",
+      "explanation": "The text states: 'The dry cell commonly used in torches is an example of a primary cell. It cannot be recharged after use.'",
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "mcq020",
+      "question": "Which type of cell can be recharged?",
+      "options": ["A. Primary cell", "B. Dry cell", "C. Secondary cell", "D. Leclanche cell"],
+      "correct_answer": "C. Secondary cell",
+      "explanation": "The text states: 'Secondary cells are used in automobiles and generators. The chemical reaction on them can be reversed, hence they can be recharged.'",
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "mcq021",
+      "question": "Secondary cells are also called:",
+      "options": ["A. Primary cells", "B. Dry cells", "C. Storage cells or accumulators", "D. Voltaic cells"],
+      "correct_answer": "C. Storage cells or accumulators",
+      "explanation": "The text states: 'Secondary cells are also called storage cells or accumulators.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mcq022",
+      "question": "A battery is formed by connecting multiple cells in:",
+      "options": ["A. Parallel", "B. Series", "C. Both series and parallel", "D. Random order"],
+      "correct_answer": "B. Series",
+      "explanation": "The text states: 'A number of primary cells connected in series forms a battery.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mcq023",
+      "question": "What converts mechanical energy into electrical energy?",
+      "options": ["A. Cell", "B. Battery", "C. Generator", "D. Solar cell"],
+      "correct_answer": "C. Generator",
+      "explanation": "The text states: 'An electric generator or dynamo is a device that converts mechanical energy into electrical energy.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "mcq024",
+      "question": "In hydroelectric power stations, what rotates the turbines?",
+      "options": ["A. Wind", "B. Steam", "C. Flowing water", "D. Nuclear energy"],
+      "correct_answer": "C. Flowing water",
+      "explanation": "The text states: 'In hydroelectric power stations, turbines are rotated by flowing water.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "mcq025",
+      "question": "A thermal power plant uses energy from:",
+      "options": ["A. Water", "B. Wind", "C. Fossil fuels", "D. Solar energy"],
+      "correct_answer": "C. Fossil fuels",
+      "explanation": "The text states: 'A thermal power plant uses energy produced from fossil fuels such as coal, diesel or natural gas'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "mcq026",
+      "question": "A nuclear power plant uses what type of energy?",
+      "options": ["A. Solar energy", "B. Wind energy", "C. Nuclear energy", "D. Chemical energy"],
+      "correct_answer": "C. Nuclear energy",
+      "explanation": "The text states: 'An atomic or nuclear power plant uses nuclear energy to generate electric current.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "mcq027",
+      "question": "What device converts solar energy into electrical energy?",
+      "options": ["A. Generator", "B. Solar cell", "C. Battery", "D. Dynamo"],
+      "correct_answer": "B. Solar cell",
+      "explanation": "The text states: 'The device used to convert solar energy into electrical energy is called the solar cell.'",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "mcq028",
+      "question": "A solar panel is formed by:",
+      "options": ["A. A single large solar cell", "B. A large number of solar cells connected together", "C. Mirrors and lenses", "D. Wind turbines"],
+      "correct_answer": "B. A large number of solar cells connected together",
+      "explanation": "The text states: 'A solar panel is formed by a large number of solar cells connected together.'",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "mcq029",
+      "question": "Where are solar panels used according to the text?",
+      "options": ["A. Only in calculators", "B. Only on rooftops", "C. In artificial satellites and space stations", "D. Only in streetlights"],
+      "correct_answer": "C. In artificial satellites and space stations",
+      "explanation": "The text states: 'Solar panels are used in artificial satellites and space stations.'",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "mcq030",
+      "question": "An electric circuit is defined as:",
+      "options": ["A. An open path", "B. A closed path in which electric current flows", "C. A broken wire", "D. A source of electricity"],
+      "correct_answer": "B. A closed path in which electric current flows",
+      "explanation": "The text states: 'An electric circuit is defined as a closed path in which electric current flows.'",
+      "source_section": "Simple Electric Circuits"
+    },
+    {
+      "id": "mcq031",
+      "question": "A circuit is closed when:",
+      "options": ["A. The switch is off", "B. The wire is broken", "C. The switch is on", "D. There is no battery"],
+      "correct_answer": "C. The switch is on",
+      "explanation": "The text states: 'A circuit is said to be closed or complete when electric current flows through it. This condition is obtained when the switch is on.'",
+      "source_section": "Closed and Open Circuits"
+    },
+    {
+      "id": "mcq032",
+      "question": "In a series circuit, if one appliance stops working:",
+      "options": ["A. Other appliances work brighter", "B. Other appliances also stop working", "C. Other appliances work normally", "D. The battery gets charged"],
+      "correct_answer": "B. Other appliances also stop working",
+      "explanation": "The text states: 'If any appliance gets damaged, the remaining appliances also stop working because the circuit gets broken due to the damaged appliance.'",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "mcq033",
+      "question": "In a parallel circuit, if one appliance stops working:",
+      "options": ["A. All appliances stop working", "B. The circuit breaks completely", "C. Remaining appliances continue to work", "D. The battery explodes"],
+      "correct_answer": "C. Remaining appliances continue to work",
+      "explanation": "The text states: 'If any appliance gets damaged, the remaining ones continue to work as all appliances work independently.'",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "mcq034",
+      "question": "In household wiring, appliances are connected in:",
+      "options": ["A. Series", "B. Parallel", "C. Both series and parallel equally", "D. Random order"],
+      "correct_answer": "B. Parallel",
+      "explanation": "The text states: 'in household wiring system, all the appliances are connected in parallel with separate switches.'",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "mcq035",
+      "question": "Substances which allow electric current to flow through them are called:",
+      "options": ["A. Insulators", "B. Resistors", "C. Conductors", "D. Non-conductors"],
+      "correct_answer": "C. Conductors",
+      "explanation": "The text states: 'Substances which allow electric current to flow through them easily are called conductors.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq036",
+      "question": "Which of the following is an insulator?",
+      "options": ["A. Copper", "B. Iron", "C. Plastic", "D. Silver"],
+      "correct_answer": "C. Plastic",
+      "explanation": "The text states: 'Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq037",
+      "question": "Why is copper used in making electric wires?",
+      "options": ["A. It is an insulator", "B. It is cheap", "C. It is a good conductor", "D. It is colorful"],
+      "correct_answer": "C. It is a good conductor",
+      "explanation": "The text states: 'That is why copper is used in making good quality electric wires and other electrical components.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq038",
+      "question": "Electric wires are covered with plastic because:",
+      "options": ["A. Plastic is a conductor", "B. Plastic is an insulator and makes them safe", "C. Plastic is cheaper", "D. Plastic looks good"],
+      "correct_answer": "B. Plastic is an insulator and makes them safe",
+      "explanation": "The text states: 'Electric wires are always covered with insulators, such as plastic, to make them safe.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq039",
+      "question": "The component that opposes the flow of current in a circuit is called:",
+      "options": ["A. Cell", "B. Switch", "C. Resistor", "D. Bulb"],
+      "correct_answer": "C. Resistor",
+      "explanation": "The text states: 'A resistor which opposes the flow of current in the circuit.'",
+      "source_section": "Components of an Electric Circuit"
+    },
+    {
+      "id": "mcq040",
+      "question": "What should you stand on while doing electrical work?",
+      "options": ["A. Metal plate", "B. Wet floor", "C. Rubber mat or wooden board", "D. Concrete"],
+      "correct_answer": "C. Rubber mat or wooden board",
+      "explanation": "The text states: 'Stand on an insulator such as a rubber mat or a wooden board when doing electrical work.'",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "mcq041",
+      "question": "What is electric current caused by?",
+      "options": ["A. Movement of protons", "B. Movement of free electrons", "C. Movement of neutrons", "D. Movement of nucleus"],
+      "correct_answer": "B. Movement of free electrons",
+      "explanation": "The text states: 'The flow of charges takes place due to the movement of free electrons.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq042",
+      "question": "If 1 coulomb of charge flows through a conductor in 1 second, the current is:",
+      "options": ["A. 1 Volt", "B. 1 Ampere", "C. 1 Joule", "D. 1 Coulomb"],
+      "correct_answer": "B. 1 Ampere",
+      "explanation": "The text states: 'If one coulomb of charge (Q) flows through a conductor in one second, the current (I) flowing through the conductor is one ampere (1A).'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq043",
+      "question": "The mathematical formula for electric current is:",
+      "options": ["A. I = Q × t", "B. I = Q/t", "C. I = t/Q", "D. I = Q + t"],
+      "correct_answer": "B. I = Q/t",
+      "explanation": "The text states: 'Mathematical relation between electric current (I) and electric charge (Q) is represented as: I = Q/t.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mcq044",
+      "question": "1 Volt equals:",
+      "options": ["A. 1 Joule × 1 Coulomb", "B. 1 Joule / 1 Coulomb", "C. 1 Coulomb / 1 Joule", "D. 1 Ampere / 1 Second"],
+      "correct_answer": "B. 1 Joule / 1 Coulomb",
+      "explanation": "The text states: '1 Volt = 1 Joule/ 1 Coulomb. 1V = 1J/1C.'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "mcq045",
+      "question": "Potential difference can be defined as:",
+      "options": ["A. Flow of electrons", "B. Amount of work done in moving a unit charge from one point to another", "C. Number of electrons", "D. Speed of electrons"],
+      "correct_answer": "B. Amount of work done in moving a unit charge from one point to another",
+      "explanation": "The text states: 'Potential difference between any two points can also be defined as the amount of work done in moving a unit charge from one point to another.'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "mcq046",
+      "question": "Which region has high potential?",
+      "options": ["A. Region with no electrons", "B. Region with accumulation of electrons", "C. Region with only protons", "D. Region with only neutrons"],
+      "correct_answer": "B. Region with accumulation of electrons",
+      "explanation": "The text states: 'A high potential region is produced by the accumulation of electrons due to larger force of repulsion.'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "mcq047",
+      "question": "Electric current flows only when there is:",
+      "options": ["A. No potential difference", "B. A potential difference", "C. Equal potential at both ends", "D. No electrons"],
+      "correct_answer": "B. A potential difference",
+      "explanation": "The text states: 'Thus, an electric current flows only when there is a potential difference.'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "mcq048",
+      "question": "In a torch cell, the positive terminal is marked as:",
+      "options": ["A. Minus (-)", "B. Plus (+)", "C. Zero (0)", "D. Star (*)"],
+      "correct_answer": "B. Plus (+)",
+      "explanation": "The text states: 'If you observe a torch cell, you will find one end marked positive (+) and the other end marked negative (-).'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "mcq049",
+      "question": "The electrolyte in a dry cell is in the form of:",
+      "options": ["A. Liquid solution", "B. Solid", "C. Moist paste", "D. Gas"],
+      "correct_answer": "C. Moist paste",
+      "explanation": "The text states: 'The electrolyte is a moist paste of ammonium chloride (NH4Cl) and plaster of Paris.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq050",
+      "question": "The carbon rod in a dry cell is surrounded by:",
+      "options": ["A. Zinc only", "B. Manganese dioxide and carbon in a muslin bag", "C. Water", "D. Air"],
+      "correct_answer": "B. Manganese dioxide and carbon in a muslin bag",
+      "explanation": "The text states: 'is surrounded by a mixture of manganese dioxide (MnO2) and carbon (C) in a muslin bag.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq051",
+      "question": "The brass cap in a dry cell acts as:",
+      "options": ["A. Negative terminal", "B. Positive terminal", "C. Insulator", "D. Electrolyte"],
+      "correct_answer": "B. Positive terminal",
+      "explanation": "The text states: 'the brass cap at the top acts as the positive terminal.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq052",
+      "question": "The metal case at the bottom of a dry cell acts as:",
+      "options": ["A. Positive terminal", "B. Negative terminal", "C. Insulator", "D. Electrolyte"],
+      "correct_answer": "B. Negative terminal",
+      "explanation": "The text states: 'The metal case at the bottom acts as the negative terminal'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq053",
+      "question": "What happens when chemicals in a dry cell are used up?",
+      "options": ["A. Cell can be recharged", "B. Cell has to be discarded", "C. Cell becomes stronger", "D. Cell produces more current"],
+      "correct_answer": "B. Cell has to be discarded",
+      "explanation": "The text states: 'Once the chemicals are used up, the cell can no longer be used, and it has to be discarded.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq054",
+      "question": "Which of the following is an advantage of a dry cell?",
+      "options": ["A. Can be recharged", "B. Very heavy", "C. No fear of leakage", "D. Expensive"],
+      "correct_answer": "C. No fear of leakage",
+      "explanation": "The text states: 'Moreover, there is no fear of leakage in dry cells.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq055",
+      "question": "Dry cells are used in:",
+      "options": ["A. Cars only", "B. Television remotes, torches, calculators and toys", "C. Power stations", "D. Street lights only"],
+      "correct_answer": "B. Television remotes, torches, calculators and toys",
+      "explanation": "The text states: 'These cells are used in a number of household gadgets such as television remotes, torches, calculators and toys.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mcq056",
+      "question": "The chemical reaction inside a primary cell is:",
+      "options": ["A. Reversible", "B. Irreversible", "C. Both reversible and irreversible", "D. None of these"],
+      "correct_answer": "B. Irreversible",
+      "explanation": "The text states: 'The chemical reaction inside the primary cell is irreversible.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mcq057",
+      "question": "The chemical reaction inside a secondary cell is:",
+      "options": ["A. Reversible", "B. Irreversible", "C. Cannot happen", "D. Very slow"],
+      "correct_answer": "A. Reversible",
+      "explanation": "The text states: 'The chemical reaction inside the secondary cell is reversible.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mcq058",
+      "question": "Which of the following is an example of a primary cell?",
+      "options": ["A. Lead accumulator", "B. Edison accumulator", "C. Dry cell", "D. Nickel-iron accumulator"],
+      "correct_answer": "C. Dry cell",
+      "explanation": "The text states: 'Examples of primary cells are simple voltaic cell, Daniel cell, Leclanche cell and dry cell.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mcq059",
+      "question": "Which of the following is an example of a secondary cell?",
+      "options": ["A. Dry cell", "B. Daniel cell", "C. Lead accumulator", "D. Leclanche cell"],
+      "correct_answer": "C. Lead accumulator",
+      "explanation": "The text states: 'Examples of secondary cells are lead accumulator, Edison accumulator and nickel-iron accumulator.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mcq060",
+      "question": "Primary cells are used to operate:",
+      "options": ["A. Mobile phones and computers", "B. Torches, toys, radios, bicycles", "C. Cars and trucks", "D. Emergency lights"],
+      "correct_answer": "B. Torches, toys, radios, bicycles",
+      "explanation": "The text states: 'It is used to operate small devices such as torches, toys, radios, bicycles and small tape recorders.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mcq061",
+      "question": "Secondary cells are used to operate:",
+      "options": ["A. Torches and toys", "B. Mobile phones, cameras, computers", "C. Radios only", "D. Calculators only"],
+      "correct_answer": "B. Mobile phones, cameras, computers",
+      "explanation": "The text states: 'It is used to operate devices such as mobile phones, cameras, computers and emergency lights.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mcq062",
+      "question": "We obtain electricity to operate domestic appliances from the:",
+      "options": ["A. Solar cells only", "B. Wind mills only", "C. Mains", "D. Batteries only"],
+      "correct_answer": "C. Mains",
+      "explanation": "The text states: 'We obtain electricity to operate domestic appliances from the mains.'",
+      "source_section": "Mains"
+    },
+    {
+      "id": "mcq063",
+      "question": "Electricity for domestic purposes is generated at:",
+      "options": ["A. Homes", "B. Electric power stations", "C. Schools", "D. Shops"],
+      "correct_answer": "B. Electric power stations",
+      "explanation": "The text states: 'Electricity for domestic and industrial purposes is generated at electric power stations.'",
+      "source_section": "Mains"
+    },
+    {
+      "id": "mcq064",
+      "question": "A dynamo is another name for:",
+      "options": ["A. Cell", "B. Battery", "C. Generator", "D. Solar panel"],
+      "correct_answer": "C. Generator",
+      "explanation": "The text states: 'An electric generator or dynamo is a device that converts mechanical energy into electrical energy.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "mcq065",
+      "question": "In a generator, which material is rotated in a magnetic field?",
+      "options": ["A. Plastic", "B. Rubber", "C. Copper wire", "D. Wood"],
+      "correct_answer": "C. Copper wire",
+      "explanation": "The text states: 'In a generator, an electric conductor such as copper wire is rotated in a magnetic field to produce an electric current.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "mcq066",
+      "question": "Which type of power plant uses coal, diesel or natural gas?",
+      "options": ["A. Nuclear power plant", "B. Hydroelectric power station", "C. Thermal power plant", "D. Solar power plant"],
+      "correct_answer": "C. Thermal power plant",
+      "explanation": "The text states: 'A thermal power plant uses energy produced from fossil fuels such as coal, diesel or natural gas to produce electricity.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "mcq067",
+      "question": "Small generators used at homes during power cuts use fuels such as:",
+      "options": ["A. Coal", "B. Nuclear energy", "C. Diesel or kerosene", "D. Solar energy"],
+      "correct_answer": "C. Diesel or kerosene",
+      "explanation": "The text states: 'Small generators such as those used at homes for back-up during power cuts use fuels such as diesel or kerosene to run the turbine.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "mcq068",
+      "question": "Solar cells are used to power:",
+      "options": ["A. Cars and trucks", "B. Electronic calculators, watches, streetlights", "C. Trains", "D. Airplanes"],
+      "correct_answer": "B. Electronic calculators, watches, streetlights",
+      "explanation": "The text states: 'Solar cells are used to power electronic calculators, watches, streetlights and lighthouses.'",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "mcq069",
+      "question": "The more the speed of wind, the more will be:",
+      "options": ["A. Less electricity generated", "B. More electricity generated", "C. No effect on electricity", "D. Damage to windmill"],
+      "correct_answer": "B. More electricity generated",
+      "explanation": "The text states: 'The more the speed of the wind, the more will be its energy and thus more electricity is generated.'",
+      "source_section": "Electricity from Wind"
+    },
+    {
+      "id": "mcq070",
+      "question": "What rotates to generate electricity from wind?",
+      "options": ["A. Solar panels", "B. Blades of a windmill", "C. Batteries", "D. Generators only"],
+      "correct_answer": "B. Blades of a windmill",
+      "explanation": "The text states: 'The energy of the wind is used to rotate the blades of a windmill, which in turn, generates electricity.'",
+      "source_section": "Electricity from Wind"
+    },
+    {
+      "id": "mcq071",
+      "question": "An electric circuit provides a complete path for flow of:",
+      "options": ["A. Water", "B. Air", "C. Charges", "D. Sound"],
+      "correct_answer": "C. Charges",
+      "explanation": "The text states: 'connected so as to provide a complete path for the flow of charges from one terminal to the other terminal of a cell'",
+      "source_section": "Simple Electric Circuits"
+    },
+    {
+      "id": "mcq072",
+      "question": "Which component acts as a source of electricity in a circuit?",
+      "options": ["A. Bulb", "B. Cell, battery or AC mains", "C. Switch", "D. Connecting wire"],
+      "correct_answer": "B. Cell, battery or AC mains",
+      "explanation": "The text states: 'A cell, a battery or AC mains which act as a source of electricity.'",
+      "source_section": "Components of an Electric Circuit"
+    },
+    {
+      "id": "mcq073",
+      "question": "What is the function of a switch in a circuit?",
+      "options": ["A. Source of electricity", "B. Opposes current flow", "C. Turn on or off the electric device", "D. Produces light"],
+      "correct_answer": "C. Turn on or off the electric device",
+      "explanation": "The text states: 'An electric switch to turn on or off the electric device.'",
+      "source_section": "Components of an Electric Circuit"
+    },
+    {
+      "id": "mcq074",
+      "question": "A plug key helps in keeping a circuit:",
+      "options": ["A. Open or closed for longer duration", "B. Hot", "C. Cold", "D. Broken"],
+      "correct_answer": "A. Open or closed for longer duration",
+      "explanation": "The text states: 'A plug key which helps in keeping a circuit open or closed for longer duration.'",
+      "source_section": "Components of an Electric Circuit"
+    },
+    {
+      "id": "mcq075",
+      "question": "When is a circuit said to be open?",
+      "options": ["A. When current flows", "B. When no electric current flows through it", "C. When switch is on", "D. When battery is full"],
+      "correct_answer": "B. When no electric current flows through it",
+      "explanation": "The text states: 'A circuit is said to be open when no electric current flows through it.'",
+      "source_section": "Closed and Open Circuits"
+    },
+    {
+      "id": "mcq076",
+      "question": "A circuit diagram uses _____ to show the path of current.",
+      "options": ["A. Pictures", "B. Conventional symbols", "C. Colors", "D. Numbers"],
+      "correct_answer": "B. Conventional symbols",
+      "explanation": "The text states: 'A circuit diagram is a convenient way to show the path of electric current on paper by using conventional symbols.'",
+      "source_section": "Circuit Diagram"
+    },
+    {
+      "id": "mcq077",
+      "question": "The arrow in a circuit diagram shows:",
+      "options": ["A. Direction of electron flow", "B. Direction of conventional current", "C. Direction of wind", "D. Direction of light"],
+      "correct_answer": "B. Direction of conventional current",
+      "explanation": "The text states: 'The arrow marked in a circuit diagram shows the direction of conventional current.'",
+      "source_section": "Circuit Diagram"
+    },
+    {
+      "id": "mcq078",
+      "question": "In a series circuit, there is _____ of voltage.",
+      "options": ["A. Increase", "B. Sharing", "C. No change", "D. Doubling"],
+      "correct_answer": "B. Sharing",
+      "explanation": "The text states: 'There is a sharing of voltage (potential difference).' in series circuit.",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "mcq079",
+      "question": "In a parallel circuit, each appliance gets:",
+      "options": ["A. Shared voltage", "B. Half the voltage", "C. Original voltage", "D. No voltage"],
+      "correct_answer": "C. Original voltage",
+      "explanation": "The text states: 'Each appliance gets the original voltage.' in parallel circuit.",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "mcq080",
+      "question": "In a series circuit, all appliances work:",
+      "options": ["A. Independently", "B. Simultaneously", "C. Alternately", "D. Never"],
+      "correct_answer": "B. Simultaneously",
+      "explanation": "The text states: 'All appliances work simultaneously.' in series circuit.",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "mcq081",
+      "question": "In a parallel circuit, all appliances work:",
+      "options": ["A. Simultaneously only", "B. Independently", "C. Never", "D. Alternately"],
+      "correct_answer": "B. Independently",
+      "explanation": "The text states: 'All appliances work independently.' in parallel circuit.",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "mcq082",
+      "question": "The measure of opposition to current flow is called:",
+      "options": ["A. Voltage", "B. Current", "C. Resistance", "D. Power"],
+      "correct_answer": "C. Resistance",
+      "explanation": "The text states: 'The measure of the opposition to current flow in an electrical circuit is known as resistance.'",
+      "source_section": "Resistors"
+    },
+    {
+      "id": "mcq083",
+      "question": "A resistor in a circuit limits or regulates:",
+      "options": ["A. Voltage only", "B. Flow of electricity", "C. Temperature", "D. Light"],
+      "correct_answer": "B. Flow of electricity",
+      "explanation": "The text states: 'A resistor in an electrical circuit limits or regulates the flow of electricity.'",
+      "source_section": "Resistors"
+    },
+    {
+      "id": "mcq084",
+      "question": "Which of the following is a conductor?",
+      "options": ["A. Rubber", "B. Glass", "C. Silver", "D. Wood"],
+      "correct_answer": "C. Silver",
+      "explanation": "The text states: 'All metals such as copper, silver, nickel, aluminium, iron and steel are conductors.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq085",
+      "question": "Which of the following is NOT a conductor?",
+      "options": ["A. Copper", "B. Iron", "C. Glass", "D. Aluminium"],
+      "correct_answer": "C. Glass",
+      "explanation": "The text states: 'glass, ceramics, plastic, wood and pure water are insulators.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq086",
+      "question": "Is the human body a conductor?",
+      "options": ["A. No, never", "B. Yes, but not as good as metals", "C. Better than metals", "D. Only in cold weather"],
+      "correct_answer": "B. Yes, but not as good as metals",
+      "explanation": "The text states: 'The human body also allows current to pass through it, but it is not as good a conductor as metals.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq087",
+      "question": "Impure water is a:",
+      "options": ["A. Insulator", "B. Conductor", "C. Neither", "D. Both"],
+      "correct_answer": "B. Conductor",
+      "explanation": "The text states: 'Impure water is also a conductor.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq088",
+      "question": "Pure water is a:",
+      "options": ["A. Conductor", "B. Insulator", "C. Both", "D. Neither"],
+      "correct_answer": "B. Insulator",
+      "explanation": "The text states: 'pure water are insulators.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq089",
+      "question": "Air is a:",
+      "options": ["A. Conductor", "B. Insulator", "C. Semi-conductor", "D. Super-conductor"],
+      "correct_answer": "B. Insulator",
+      "explanation": "The text states: 'Air is an insulator.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq090",
+      "question": "If any part of a circuit is broken, there is no flow of current because:",
+      "options": ["A. Air is a conductor", "B. Air is an insulator", "C. Wires are insulators", "D. Battery dies"],
+      "correct_answer": "B. Air is an insulator",
+      "explanation": "The text states: 'Air is an insulator. Therefore, if any part of the circuit is broken, there is no flow of electric current.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mcq091",
+      "question": "What percentage of outside power lines are bare and uninsulated?",
+      "options": ["A. 10%", "B. 50%", "C. 90%", "D. 100%"],
+      "correct_answer": "C. 90%",
+      "explanation": "The text states: 'In fact, 90% of outside power lines are bare wires and uninsulated.'",
+      "source_section": "Myth vs Fact"
+    },
+    {
+      "id": "mcq092",
+      "question": "Why should we not touch electrical appliances with wet hands?",
+      "options": ["A. They may break", "B. Tap water and body are conductors", "C. They are too hot", "D. They are too cold"],
+      "correct_answer": "B. Tap water and body are conductors",
+      "explanation": "The text states: 'tap water and your body, being good conductors of electricity, will cause the current to flow through the body.'",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "mcq093",
+      "question": "What should be done in case of short circuit and fire?",
+      "options": ["A. Pour water", "B. Put off the main switch immediately", "C. Call neighbors", "D. Leave the house"],
+      "correct_answer": "B. Put off the main switch immediately",
+      "explanation": "The text states: 'Put off the main switch immediately in case of short circuit and fire.'",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "mcq094",
+      "question": "Which mark indicates that an electrical appliance is safe to use?",
+      "options": ["A. ISO mark", "B. ISI mark", "C. BIS mark", "D. Star mark"],
+      "correct_answer": "B. ISI mark",
+      "explanation": "The text states: 'The ISI mark indicates that an electrical appliance is safe to use.'",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "mcq095",
+      "question": "A fuse is a safety device that:",
+      "options": ["A. Increases current", "B. Contains a wire that melts when current exceeds limit", "C. Produces light", "D. Stores electricity"],
+      "correct_answer": "B. Contains a wire that melts when current exceeds limit",
+      "explanation": "The text states: 'A fuse is a safety device containing a wire that melts and breaks the electric circuit when the current exceeds permissible value.'",
+      "source_section": "Prepping for PISA"
+    },
+    {
+      "id": "mcq096",
+      "question": "What is a drawback of a fuse?",
+      "options": ["A. It is too cheap", "B. It needs to be replaced every time there is overflow of current", "C. It is too big", "D. It conducts electricity"],
+      "correct_answer": "B. It needs to be replaced every time there is overflow of current",
+      "explanation": "The text states: 'One major drawback of a fuse is that it needs to be replaced every time there is an overflow of current.'",
+      "source_section": "Prepping for PISA"
+    },
+    {
+      "id": "mcq097",
+      "question": "MCB stands for:",
+      "options": ["A. Main Circuit Board", "B. Miniature Circuit Breaker", "C. Major Current Blocker", "D. Mini Current Box"],
+      "correct_answer": "B. Miniature Circuit Breaker",
+      "explanation": "The text states: 'Miniature Circuit Breakers (MCBs) are commonly used in homes and commercial settings.'",
+      "source_section": "Prepping for PISA"
+    },
+    {
+      "id": "mcq098",
+      "question": "Which is more sensitive to current - fuse or MCB?",
+      "options": ["A. Fuse", "B. MCB", "C. Both are same", "D. Neither"],
+      "correct_answer": "B. MCB",
+      "explanation": "The text states: 'An MCB is more sensitive to current than a fuse'",
+      "source_section": "Prepping for PISA"
+    },
+    {
+      "id": "mcq099",
+      "question": "Who invented the Leclanche cell?",
+      "options": ["A. Alessandro Volta", "B. Yai Sakizo", "C. Georges Leclanche", "D. Thomas Edison"],
+      "correct_answer": "C. Georges Leclanche",
+      "explanation": "The text states: 'Georges Leclanche (1839-1882) was a French scientist, chiefly remembered for his invention of the Leclanche cell.'",
+      "source_section": "Science and Scientists"
+    },
+    {
+      "id": "mcq100",
+      "question": "In what year was the Leclanche cell invented?",
+      "options": ["A. 1887", "B. 1866", "C. 1900", "D. 1850"],
+      "correct_answer": "B. 1866",
+      "explanation": "The text states: 'In 1866, he invented the Leclanche cell'",
+      "source_section": "Science and Scientists"
+    }
+  ],
+  "total_count": 100,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

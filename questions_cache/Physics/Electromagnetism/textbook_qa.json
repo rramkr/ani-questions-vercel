@@ -1,0 +1,310 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "question": "What is an electromagnet? How is it different from a permanent magnet?",
+      "answer": "An electromagnet is a type of magnet in which a magnetic field is produced through electric current. It consists of a soft iron core with insulated copper wire wound around it.\n\nDifferences from permanent magnet:\n1. Electromagnet is temporary - loses magnetism when current stops; permanent magnet retains magnetism\n2. Electromagnet uses soft materials; permanent magnet uses hard materials\n3. Electromagnet strength can be controlled; permanent magnet has fixed strength\n4. Electromagnet can be switched on/off; permanent magnet cannot be controlled",
+      "key_points": ["Definition of electromagnet", "Temporary vs permanent", "Soft vs hard materials", "Controllability"],
+      "keywords": ["electromagnet", "permanent magnet", "temporary", "soft iron", "current"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa002",
+      "question": "Define electromagnetism.",
+      "answer": "Electromagnetism is the branch of physics which deals with the magnetic effect of electric current. It studies how electric current can produce magnetic fields and how changing magnetic fields can produce electric current (electromagnetic induction).",
+      "key_points": ["Branch of physics", "Magnetic effect of current", "Relationship between electricity and magnetism"],
+      "keywords": ["electromagnetism", "physics", "magnetic effect", "electric current"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa003",
+      "question": "What are the two types of electromagnets based on shape?",
+      "answer": "Based on shape, electromagnets are of two types:\n1. Bar-shaped electromagnet: Insulated copper wire is wrapped around a bar-shaped soft iron core\n2. U-shaped electromagnet: Insulated copper wire is wrapped around a U-shaped soft iron core\n\nIn both types, the wire ends are connected to a battery through a switch to control the current flow.",
+      "key_points": ["Bar-shaped electromagnet", "U-shaped electromagnet", "Connected to battery with switch"],
+      "keywords": ["bar-shaped", "U-shaped", "soft iron core", "copper wire"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa004",
+      "question": "Explain how to make an electromagnet using an iron nail.",
+      "answer": "To make an electromagnet:\n1. Take an iron nail and insulated copper wire\n2. Remove plastic coating from both ends of the wire\n3. Wrap the wire tightly around the iron nail in a coil\n4. Connect the two free ends of the wire to a battery terminals with a switch in between\n5. Turn the switch on to allow current to flow\n\nWhen current flows, the iron nail becomes magnetized and can attract paper clips at its ends. When switch is off, it loses magnetism.",
+      "key_points": ["Materials needed", "Remove insulation from wire ends", "Wrap around nail", "Connect to battery with switch"],
+      "keywords": ["iron nail", "copper wire", "battery", "switch", "paper clips"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa005",
+      "question": "List the factors on which the strength of an electromagnet depends.",
+      "answer": "The strength of an electromagnet depends on two main factors:\n\n1. Amount of current flowing through the coil: More current makes the electromagnet stronger; less current makes it weaker. Strength is directly proportional to current.\n\n2. Number of turns per unit length of the coil: More turns make the electromagnet stronger; fewer turns make it weaker. Strength is directly proportional to number of turns.",
+      "key_points": ["Amount of current", "Number of turns", "Both directly proportional to strength"],
+      "keywords": ["current", "turns", "strength", "directly proportional"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa006",
+      "question": "How is the strength of an electromagnet related to the amount of current flowing through it?",
+      "answer": "The strength of an electromagnet is directly proportional to the amount of electric current flowing through it. This means:\n- As current increases, the electromagnet becomes stronger\n- As current decreases, the electromagnet becomes weaker\n- When current is zero (switched off), the electromagnet loses all magnetism",
+      "key_points": ["Directly proportional", "More current = stronger", "Less current = weaker"],
+      "keywords": ["strength", "current", "directly proportional", "stronger", "weaker"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa007",
+      "question": "List any five uses of electromagnets.",
+      "answer": "Five uses of electromagnets:\n1. Electric bells, telephones, and electric motors\n2. Cranes to lift heavy loads of scrap iron and steel\n3. Bullet trains (maglev trains) for magnetic levitation\n4. Separation of iron ore from impurities in mining\n5. Removing steel splinters from patient's wounds in hospitals\n\nOther uses include: loading furnaces with iron, preparation of permanent magnets, and audio/video tapes.",
+      "key_points": ["Electric appliances", "Cranes", "Bullet trains", "Mining separation", "Medical use"],
+      "keywords": ["electric bells", "cranes", "bullet trains", "iron ore", "steel splinters"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa008",
+      "question": "Describe the construction and working of an electric bell.",
+      "answer": "Construction: An electric bell has an electromagnet, contact spring, contact screw, armature (iron), hammer, and gong fitted on wooden/plastic board. Terminals T1 and T2 connect to battery through push button switch.\n\nWorking: When push button is pressed, current flows through electromagnet, magnetizing it. It attracts iron armature, causing hammer to hit gong (producing sound). This movement breaks contact with contact screw, stopping current. Electromagnet loses magnetism, spring pulls armature back, restoring contact. Cycle repeats continuously while button is pressed.",
+      "key_points": ["Construction parts", "Circuit completion", "Electromagnet attracts armature", "Hammer hits gong", "Make-and-break mechanism"],
+      "keywords": ["electromagnet", "armature", "hammer", "gong", "spring", "make-and-break"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa009",
+      "question": "What is electromagnetic induction? Define induced current.",
+      "answer": "Electromagnetic induction is the phenomenon of producing an electric current in a conductor due to change in the magnetic lines of force associated with the conductor.\n\nInduced current is the electric current produced by electromagnetic induction. It is generated when there is relative motion between a conductor and a magnetic field, or when the magnetic field around a conductor changes.\n\nThis shows that just as electric current can produce magnetic field, a changing magnetic field can produce electric current.",
+      "key_points": ["Definition of electromagnetic induction", "Change in magnetic field required", "Definition of induced current"],
+      "keywords": ["electromagnetic induction", "induced current", "magnetic lines of force", "conductor"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa010",
+      "question": "How does the end of an electromagnet where current flows clockwise behave - as north pole or south pole?",
+      "answer": "The end of an electromagnet where the current flows in a clockwise direction acts as the south pole. Conversely, the end where the current flows in an anticlockwise direction acts as the north pole. This rule helps identify the poles of an electromagnet based on the direction of current flow.",
+      "key_points": ["Clockwise = south pole", "Anticlockwise = north pole"],
+      "keywords": ["clockwise", "anticlockwise", "south pole", "north pole"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa011",
+      "question": "Why is soft iron used as the core of an electromagnet instead of steel?",
+      "answer": "Soft iron is used because:\n1. It easily gets magnetized when current flows through the coil\n2. It quickly loses its magnetism when current is switched off\n3. This makes the electromagnet a controllable temporary magnet\n\nSteel is not suitable because it is a hard material that retains magnetism even after current stops, making it impossible to control the magnet by switching current on and off.",
+      "key_points": ["Soft iron easily magnetized", "Quickly loses magnetism", "Steel retains magnetism"],
+      "keywords": ["soft iron", "steel", "magnetized", "loses magnetism", "temporary"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa012",
+      "question": "What happens to an electromagnet when the current is switched off?",
+      "answer": "When the current is switched off, the electromagnet immediately loses its magnetism. The soft iron core, which was behaving like a magnet due to the current flowing through the coil, returns to being an ordinary piece of iron. It can no longer attract magnetic materials. This is why electromagnets are called temporary magnets.",
+      "key_points": ["Loses magnetism immediately", "Core becomes ordinary iron", "Cannot attract materials"],
+      "keywords": ["current off", "loses magnetism", "temporary magnet"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa013",
+      "question": "In an electric bell, what causes the hammer to keep striking the gong repeatedly?",
+      "answer": "The hammer keeps striking repeatedly due to the make-and-break mechanism:\n1. When current flows, electromagnet attracts armature, hammer hits gong\n2. Armature movement breaks contact with contact screw, stopping current\n3. Electromagnet loses magnetism, spring pulls armature back\n4. Contact is restored, current flows again\n5. This cycle repeats as long as push button is pressed\n\nThe continuous making and breaking of the circuit causes repeated striking.",
+      "key_points": ["Make-and-break mechanism", "Circuit completion and breaking", "Spring restores position", "Cycle repeats"],
+      "keywords": ["hammer", "gong", "make-and-break", "spring", "circuit"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa014",
+      "question": "Differentiate between permanent magnets and temporary magnets.",
+      "answer": "Permanent Magnets:\n- Retain magnetic properties without external magnetic field\n- Made of hard materials\n- Cannot be switched on/off\n- Examples: bar magnets, horse-shoe magnets\n\nTemporary Magnets:\n- Behave as magnets only in presence of strong magnetic field\n- Made of soft materials\n- Can be controlled by switching current\n- Examples: electromagnets\n\nKey difference: Permanent magnets keep their magnetism permanently, while temporary magnets lose magnetism when the external field (or current) is removed.",
+      "key_points": ["Retention of magnetism", "Material type", "Controllability", "Examples"],
+      "keywords": ["permanent", "temporary", "hard materials", "soft materials", "electromagnet"],
+      "source_section": "Textbook Questions"
+    },
+    {
+      "id": "tqa015",
+      "question": "Which of the following instruments is used to detect electric current in an electric circuit?\na. ammeter  b. thermometer  c. electrometer  d. galvanometer",
+      "answer": "d. galvanometer\n\nA galvanometer is used to detect electric current in an electric circuit. It can detect even very small currents and shows deflection when current flows through it. An ammeter is used to measure current, while a galvanometer is primarily for detection.",
+      "question_type": "mcq_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa016",
+      "question": "Which of the following is not a part of an electric bell?\na. transformer  b. electromagnet  c. armature  d. contact screw",
+      "answer": "a. transformer\n\nA transformer is not a part of an electric bell. An electric bell consists of an electromagnet, armature (iron piece that moves), contact screw, contact spring, hammer, gong, and connecting wires. A transformer is used to step up or step down voltage and is not needed in an electric bell.",
+      "question_type": "mcq_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa017",
+      "question": "The magnitude of the induced current in a coil cannot be increased by:\na. increasing the number of turns in the coil\nb. increasing the distance between the coil and magnet\nc. increasing the strength of the magnet\nd. increasing the relative speed between the magnet and the coil",
+      "answer": "b. increasing the distance between the coil and magnet\n\nIncreasing the distance between the coil and magnet will decrease (not increase) the induced current because the magnetic field becomes weaker at greater distances. The induced current can be increased by: (1) increasing the number of turns, (2) increasing magnet strength, or (3) increasing the relative speed of motion.",
+      "question_type": "mcq_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa018",
+      "question": "The branch of physics which deals with the magnetic effect of electric current is called:\na. electrophysics  b. electric physics  c. electromagnetism  d. none of these",
+      "answer": "c. electromagnetism\n\nElectromagnetism is the branch of physics which deals with the magnetic effect of electric current. It studies how electric current produces magnetic fields and how changing magnetic fields can produce electric current (electromagnetic induction).",
+      "question_type": "mcq_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa019",
+      "question": "Fill in the blank: Current is induced in the coil due to the _____ between the coil and the magnet.",
+      "answer": "relative motion\n\nCurrent is induced in the coil due to the relative motion between the coil and the magnet. This relative motion causes a change in the magnetic lines of force associated with the coil, which induces an electric current according to Faraday's law of electromagnetic induction.",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa020",
+      "question": "Fill in the blank: A magnet shows maximum attraction at its _____.",
+      "answer": "poles\n\nA magnet shows maximum attraction at its poles. The magnetic field is strongest at the north and south poles of a magnet, which is why iron filings or other magnetic materials are attracted most strongly at the poles.",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa021",
+      "question": "Fill in the blank: The current produced by the method of electromagnetic induction is called _____.",
+      "answer": "induced current\n\nThe current produced by the method of electromagnetic induction is called induced current. It is generated when there is a change in the magnetic lines of force associated with a conductor, either by moving the conductor in a magnetic field or by changing the magnetic field around the conductor.",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa022",
+      "question": "Fill in the blank: The soft iron piece in an electromagnet is called the _____.",
+      "answer": "core\n\nThe soft iron piece in an electromagnet is called the core. The insulated copper wire is wound around this soft iron core. When current flows through the wire, the core becomes magnetized and acts as a magnet.",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa023",
+      "question": "Name the following: Device used to measure electric current.",
+      "answer": "Ammeter (or Galvanometer for detection)\n\nAn ammeter is used to measure electric current in a circuit. It is connected in series with the circuit. A galvanometer is used to detect the presence of current and can also measure very small currents.",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa024",
+      "question": "Name the following: A type of magnet in which a magnetic field is produced with electric current.",
+      "answer": "Electromagnet\n\nAn electromagnet is a type of magnet in which a magnetic field is produced with electric current. It consists of a soft iron core wrapped with insulated copper wire. When current flows through the wire, the core becomes magnetized.",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa025",
+      "question": "Name the following: Phenomenon of producing a current in a conductor due to change in the magnetic lines of force associated with the conductor.",
+      "answer": "Electromagnetic induction\n\nElectromagnetic induction is the phenomenon of producing an electric current in a conductor due to change in the magnetic lines of force associated with the conductor. This was discovered by Michael Faraday in 1831.",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa026",
+      "question": "Name the following: The surest test for magnetism.",
+      "answer": "Repulsion\n\nRepulsion is the surest test for magnetism. While attraction can occur between a magnet and a magnetic material (like iron), repulsion can only occur between two like poles of magnets. If two objects repel each other, both must be magnets.",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa027",
+      "question": "True or False: A current is induced in the coil when the number of magnetic lines of force associated with a coil changes.",
+      "answer": "True\n\nThis statement is true. According to Faraday's law of electromagnetic induction, when the number of magnetic lines of force (magnetic flux) associated with a coil changes, an electric current is induced in the coil. This change can be caused by moving a magnet near the coil or by varying the current in a nearby coil.",
+      "question_type": "true_false_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa028",
+      "question": "True or False: In Faraday's experiment, if the movement of the magnet is continuous, the needle does not show any deflection.",
+      "answer": "False\n\nThis statement is false. In Faraday's experiment, when the magnet is moved continuously (either towards or away from the coil), the galvanometer needle shows continuous deflection because there is a continuous change in magnetic lines of force. The needle shows no deflection only when the magnet is stationary (not moving) relative to the coil.",
+      "question_type": "true_false_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa029",
+      "question": "True or False: An electromagnet becomes weaker when the amount of current through the coil increases.",
+      "answer": "False\n\nThis statement is false. An electromagnet becomes stronger (not weaker) when the amount of current through the coil increases. The strength of an electromagnet is directly proportional to the current flowing through it. More current means a stronger magnetic field.",
+      "question_type": "true_false_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa030",
+      "question": "True or False: The force exerted by a magnet on a magnetic material is called magnetic force.",
+      "answer": "True\n\nThis statement is true. The force exerted by a magnet on a magnetic material (such as iron, cobalt, or nickel) is called magnetic force. This force can be attractive (between unlike poles or between a magnet and magnetic material) or repulsive (between like poles).",
+      "question_type": "true_false_textbook",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa031",
+      "question": "Write the name of two magnetic and two non-magnetic materials.",
+      "answer": "Magnetic materials (materials that are attracted by magnets):\n1. Iron\n2. Cobalt\n3. Nickel\n4. Steel\n\nNon-magnetic materials (materials that are not attracted by magnets):\n1. Wood\n2. Plastic\n3. Glass\n4. Copper\n5. Aluminium",
+      "key_points": ["Magnetic: iron, cobalt, nickel, steel", "Non-magnetic: wood, plastic, glass"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa032",
+      "question": "What is the difference between a bar magnet and a U-shaped electromagnet?",
+      "answer": "Bar Magnet:\n- Permanent magnet made of hard magnetic material\n- Has bar/rectangular shape\n- Poles are at the two ends\n- Cannot be switched on or off\n- Strength cannot be controlled\n\nU-shaped Electromagnet:\n- Temporary magnet made with soft iron core\n- Has U-shape (horseshoe shape)\n- Both poles are close together at the open end\n- Can be switched on/off by controlling current\n- Strength can be varied by changing current\n- Provides stronger magnetic field because both poles act on the same object",
+      "key_points": ["Permanent vs temporary", "Shape difference", "Controllability", "Pole positions"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa033",
+      "question": "Write four uses of an electromagnet.",
+      "answer": "Four uses of an electromagnet:\n\n1. Electric bells, telephones, and electric motors - Electromagnets are essential components in these electrical appliances.\n\n2. Cranes to lift heavy loads - Large electromagnets on cranes are used to lift heavy loads of scrap iron and steel in junk yards.\n\n3. Bullet trains (Maglev trains) - Electromagnets are used for magnetic levitation, allowing trains to float above the track.\n\n4. Removing steel splinters from wounds - In hospitals, electromagnets help remove metallic pieces from patients' bodies.\n\nOther uses include: separation of iron ore from impurities, loading furnaces with iron, preparation of permanent magnets, and audio/video tapes.",
+      "key_points": ["Electric appliances", "Lifting loads", "Maglev trains", "Medical use"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa034",
+      "question": "State the two laws of electromagnetic induction.",
+      "answer": "The two laws of electromagnetic induction (Faraday's Laws):\n\n1. Faraday's First Law: Whenever there is a change in the magnetic lines of force (magnetic flux) associated with a conductor, an electromotive force (EMF) is induced in the conductor. If the conductor forms a closed circuit, an induced current flows through it.\n\n2. Faraday's Second Law: The magnitude of the induced EMF is directly proportional to the rate of change of magnetic flux linked with the conductor. The faster the change in magnetic flux, the greater the induced EMF.\n\nIn simple terms: Moving a magnet towards or away from a coil induces current, and moving it faster induces more current.",
+      "key_points": ["First law - change in flux causes EMF", "Second law - magnitude proportional to rate of change"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa035",
+      "question": "In Faraday's experiment, what happens when the magnet is completely inside the coil?",
+      "answer": "When the magnet is completely inside the coil and held stationary:\n\n1. The galvanometer needle shows zero deflection (returns to center position)\n2. No current is induced in the coil\n3. This is because there is no change in the magnetic lines of force - the magnetic flux through the coil is constant\n\nCurrent is only induced when there is relative motion between the magnet and coil. A stationary magnet inside the coil means no change in magnetic flux, hence no induced current. The moment you start moving the magnet out of the coil, current is induced again.",
+      "key_points": ["No deflection", "No current", "No change in magnetic flux", "Current needs relative motion"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa036",
+      "question": "Write the observations of Faraday's experiment.",
+      "answer": "Observations of Faraday's Experiment:\n\n1. When the north pole of the magnet is moved towards the coil:\n   - The galvanometer needle shows deflection in one direction\n   - This indicates that current is induced in the coil\n\n2. When the north pole is moved away from the coil:\n   - The galvanometer needle deflects in the opposite direction\n   - The direction of induced current reverses\n\n3. When the magnet is held stationary (inside or outside the coil):\n   - The galvanometer shows no deflection\n   - No current is induced\n\n4. When the speed of movement is increased:\n   - The deflection in the galvanometer increases\n   - More current is induced\n\n5. When using the south pole instead of north pole:\n   - The deflection direction reverses compared to north pole movement\n\nConclusion: Induced current is produced due to relative motion between the coil and the magnet, and its magnitude depends on the speed of relative motion.",
+      "key_points": ["Deflection shows current", "Direction depends on pole and movement direction", "No motion = no current", "Faster motion = more current"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "tqa037",
+      "question": "HOTS: Which of the following images shows what happens to an electromagnet when the electrical current in the circuit is turned off? (Image shows three scenarios with paper clips attached to an electromagnet)",
+      "answer": "Image (c) - where no paper clips are attached to the iron nail\n\nExplanation: When the electrical current is turned off:\n1. The electromagnet immediately loses its magnetism\n2. The soft iron core returns to being ordinary iron\n3. It can no longer attract paper clips\n4. All paper clips that were attached will fall off\n\nThis is the key difference between an electromagnet (temporary magnet) and a permanent magnet. An electromagnet only works when current flows through it.",
+      "question_type": "hots_textbook",
+      "source_section": "Physics Extra - HOTS"
+    },
+    {
+      "id": "tqa038",
+      "question": "HOTS: In which of the following cases will the highest current be produced?\na. Moving the coil into the magnet bar while keeping the magnet stationary\nb. Moving the magnet bar into the coil while keeping the coil stationary\nc. Moving the magnet and coil towards each other\nd. Moving the magnet and coil away from each other",
+      "answer": "c. Moving the magnet and coil towards each other\n\nExplanation: The induced current depends on the rate of change of magnetic flux, which is related to the relative speed between the magnet and coil.\n\n- In options (a) and (b): Only one component is moving, so the relative speed is limited to that component's speed.\n\n- In option (c): When both the magnet and coil move towards each other, their relative speed is the sum of both speeds. This causes the fastest rate of change in magnetic flux, producing the highest induced current.\n\n- In option (d): Moving away from each other also produces current, but typically this scenario implies separating after being close, which may have lower practical relative speed.",
+      "question_type": "hots_textbook",
+      "source_section": "Physics Extra - HOTS"
+    },
+    {
+      "id": "tqa039",
+      "question": "HOTS: Why is it advised to keep smartphones away from high intensity magnets?",
+      "answer": "Smartphones should be kept away from high intensity magnets because:\n\n1. Damage to internal components: Smartphones contain many components that can be affected by strong magnetic fields, including speakers, microphones, and vibration motors which use small magnets.\n\n2. Compass malfunction: The digital compass in smartphones can be demagnetized or become inaccurate when exposed to strong magnets.\n\n3. Potential data issues: While modern flash storage is generally safe from magnets, strong magnetic fields could potentially interfere with wireless charging components.\n\n4. Electromagnetic interference: High intensity magnets can cause electromagnetic interference with the phone's electronic circuits and sensors.\n\n5. Screen damage: Some older phones with certain display technologies could be affected by strong magnetic fields.\n\nThe principle of electromagnetic induction explains why changing magnetic fields can induce unwanted currents in electronic circuits, potentially disrupting their function.",
+      "question_type": "hots_textbook",
+      "source_section": "Physics Extra - HOTS"
+    },
+    {
+      "id": "tqa040",
+      "question": "HOTS: Shaurya made an electromagnet using one battery. Shagun also made an electromagnet using two batteries. Which electromagnet will attract more iron filings? Give reason.",
+      "answer": "Shagun's electromagnet (made with two batteries) will attract more iron filings.\n\nReason:\n1. The strength of an electromagnet is directly proportional to the amount of electric current flowing through the coil.\n\n2. Two batteries connected in series will provide more voltage than one battery.\n\n3. More voltage means more current will flow through the coil (assuming same wire and resistance).\n\n4. More current creates a stronger magnetic field around the electromagnet.\n\n5. A stronger magnetic field can attract more iron filings.\n\nThis demonstrates one of the factors that affect electromagnet strength: the amount of current. The other factor is the number of turns of wire in the coil.",
+      "question_type": "hots_textbook",
+      "source_section": "Physics Extra - HOTS"
+    },
+    {
+      "id": "tqa041",
+      "question": "Who was Michael Faraday? What were his contributions to science?",
+      "answer": "Michael Faraday (1791-1867) was an English scientist known for his pioneering experiments in electricity and magnetism.\n\nMajor contributions:\n\n1. Electromagnetic Induction (1831): Faraday discovered that a changing magnetic field can induce an electric current in a conductor. This principle is the basis for electric generators and transformers.\n\n2. Laws of Electromagnetic Induction: He formulated the laws that explain how and when induced current is produced.\n\n3. Electric Transformer and Generator: His discoveries led to the development of these essential devices that power our modern world.\n\n4. Lines of Magnetic Force: He developed the concept of magnetic lines of force, which became a common idea in modern physics.\n\n5. Faraday's Laws of Electrolysis: He made important discoveries in electrochemistry.\n\nMany consider him the greatest experimentalist of all times. His work laid the foundation for our understanding of electromagnetism and made modern electrical technology possible.",
+      "key_points": ["1791-1867", "Discovered electromagnetic induction", "Laws of induction", "Lines of magnetic force"],
+      "source_section": "Physics Extra - Science and Scientists"
+    }
+  ],
+  "total_count": 41,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

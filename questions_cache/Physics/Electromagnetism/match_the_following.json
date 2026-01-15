@@ -1,0 +1,249 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "instruction": "Match the following terms with their definitions:",
+      "pairs": [
+        {"left": "Electromagnet", "right": "Magnet with magnetic field from electric current"},
+        {"left": "Electromagnetism", "right": "Branch of physics dealing with magnetic effect of current"},
+        {"left": "Induced current", "right": "Current produced by electromagnetic induction"},
+        {"left": "Temporary magnet", "right": "Magnet that works only in presence of magnetic field"},
+        {"left": "Permanent magnet", "right": "Magnet that retains magnetism without external field"}
+      ],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "mtf002",
+      "instruction": "Match the electromagnet parts with their materials:",
+      "pairs": [
+        {"left": "Core", "right": "Soft iron"},
+        {"left": "Coil wire", "right": "Insulated copper"},
+        {"left": "Armature (in bell)", "right": "Iron"},
+        {"left": "Board (in bell)", "right": "Wood or plastic"},
+        {"left": "Permanent magnet material", "right": "Hard material"}
+      ],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "mtf003",
+      "instruction": "Match the electric bell parts with their functions:",
+      "pairs": [
+        {"left": "Electromagnet", "right": "Attracts the armature when current flows"},
+        {"left": "Armature", "right": "Moves towards electromagnet and carries hammer"},
+        {"left": "Hammer", "right": "Strikes the gong to produce sound"},
+        {"left": "Spring", "right": "Pulls armature back to original position"},
+        {"left": "Contact screw", "right": "Completes the circuit with armature"}
+      ],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "mtf004",
+      "instruction": "Match the uses of electromagnets:",
+      "pairs": [
+        {"left": "Cranes", "right": "Lifting scrap iron and steel"},
+        {"left": "Bullet trains", "right": "High-speed transportation"},
+        {"left": "Hospitals", "right": "Removing steel splinters from wounds"},
+        {"left": "Industries", "right": "Separation of iron ore from impurities"},
+        {"left": "Foundries", "right": "Loading furnaces with iron"}
+      ],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "mtf005",
+      "instruction": "Match the current direction with the pole formed:",
+      "pairs": [
+        {"left": "Clockwise current flow", "right": "South pole"},
+        {"left": "Anticlockwise current flow", "right": "North pole"},
+        {"left": "More current", "right": "Stronger electromagnet"},
+        {"left": "More turns in coil", "right": "Stronger electromagnet"},
+        {"left": "Current switched off", "right": "Electromagnet loses magnetism"}
+      ],
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "mtf006",
+      "instruction": "Match the magnet types with their examples:",
+      "pairs": [
+        {"left": "Permanent magnet", "right": "Bar magnet"},
+        {"left": "Permanent magnet", "right": "Horse-shoe magnet"},
+        {"left": "Temporary magnet", "right": "Electromagnet"},
+        {"left": "Bar-shaped electromagnet", "right": "Wire wrapped on bar iron core"},
+        {"left": "U-shaped electromagnet", "right": "Wire wrapped on U-shaped iron core"}
+      ],
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "mtf007",
+      "instruction": "Match the factors with their effect on electromagnet strength:",
+      "pairs": [
+        {"left": "Increase current", "right": "Electromagnet becomes stronger"},
+        {"left": "Decrease current", "right": "Electromagnet becomes weaker"},
+        {"left": "Increase number of turns", "right": "Electromagnet becomes stronger"},
+        {"left": "Decrease number of turns", "right": "Electromagnet becomes weaker"},
+        {"left": "Switch off current", "right": "Electromagnet loses all magnetism"}
+      ],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "mtf008",
+      "instruction": "Match the electrical appliances that use electromagnets:",
+      "pairs": [
+        {"left": "Telephones", "right": "Sound transmission"},
+        {"left": "Electric motors", "right": "Converting electrical to mechanical energy"},
+        {"left": "Electric bells", "right": "Producing ringing sound"},
+        {"left": "Audio tapes", "right": "Recording sound magnetically"},
+        {"left": "Video tapes", "right": "Recording images magnetically"}
+      ],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "mtf009",
+      "instruction": "Match the terms related to electromagnetic induction:",
+      "pairs": [
+        {"left": "Electromagnetic induction", "right": "Producing current from changing magnetic field"},
+        {"left": "Induced current", "right": "Current produced by induction"},
+        {"left": "Magnetic lines of force", "right": "Must change for induction to occur"},
+        {"left": "Conductor", "right": "Where induced current flows"},
+        {"left": "Electric current", "right": "Can produce magnetic field"}
+      ],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "mtf010",
+      "instruction": "Match the magnet properties:",
+      "pairs": [
+        {"left": "Soft iron core", "right": "Easily gains and loses magnetism"},
+        {"left": "Hard material", "right": "Retains magnetism permanently"},
+        {"left": "Insulated wire", "right": "Prevents short circuit in coil"},
+        {"left": "Battery", "right": "Provides electric current"},
+        {"left": "Switch", "right": "Controls flow of current"}
+      ],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "mtf011",
+      "instruction": "Match the scientists with their contributions:",
+      "pairs": [
+        {"left": "Michael Faraday", "right": "Discovered electromagnetic induction"},
+        {"left": "Alessandro Volta", "right": "Invented the first battery"},
+        {"left": "Faraday's discovery year", "right": "1831"},
+        {"left": "Electromagnetic induction", "right": "Basis of electric generators"},
+        {"left": "Faraday's principle", "right": "Changing magnetic field produces current"}
+      ],
+      "source_section": "Physics Extra - Michael Faraday"
+    },
+    {
+      "id": "mtf012",
+      "instruction": "Match the devices with their working principle:",
+      "pairs": [
+        {"left": "Electric generator", "right": "Electromagnetic induction"},
+        {"left": "Electric motor", "right": "Magnetic effect of current"},
+        {"left": "Transformer", "right": "Electromagnetic induction"},
+        {"left": "Electromagnet", "right": "Current produces magnetic field"},
+        {"left": "Galvanometer", "right": "Detects electric current"}
+      ],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "mtf013",
+      "instruction": "Match the electromagnet applications with their purpose:",
+      "pairs": [
+        {"left": "MRI machine", "right": "Medical imaging of body organs"},
+        {"left": "Maglev train", "right": "High-speed magnetic levitation transport"},
+        {"left": "Recycling plant", "right": "Separating iron from waste"},
+        {"left": "Electric crane", "right": "Lifting and releasing scrap metal"},
+        {"left": "Recording equipment", "right": "Storing data on magnetic tapes"}
+      ],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "mtf014",
+      "instruction": "Match the electric bell components with their materials:",
+      "pairs": [
+        {"left": "Armature", "right": "Iron"},
+        {"left": "Gong", "right": "Metal"},
+        {"left": "Board", "right": "Wood or plastic"},
+        {"left": "Coil wire", "right": "Insulated copper"},
+        {"left": "Contact screw", "right": "Metal conductor"}
+      ],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "mtf015",
+      "instruction": "Match the energy conversions:",
+      "pairs": [
+        {"left": "Generator", "right": "Mechanical to electrical"},
+        {"left": "Motor", "right": "Electrical to mechanical"},
+        {"left": "Battery", "right": "Chemical to electrical"},
+        {"left": "Electric bell", "right": "Electrical to sound"},
+        {"left": "Electromagnet in crane", "right": "Electrical to magnetic"}
+      ],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "mtf016",
+      "instruction": "Match the terms with their opposites:",
+      "pairs": [
+        {"left": "Permanent magnet", "right": "Temporary magnet"},
+        {"left": "Hard material", "right": "Soft material"},
+        {"left": "North pole", "right": "South pole"},
+        {"left": "Clockwise current", "right": "Anticlockwise current"},
+        {"left": "Circuit complete", "right": "Circuit broken"}
+      ],
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "mtf017",
+      "instruction": "Match the conditions with their results:",
+      "pairs": [
+        {"left": "Switch ON", "right": "Current flows, electromagnet works"},
+        {"left": "Switch OFF", "right": "No current, electromagnet loses magnetism"},
+        {"left": "Armature touches contact screw", "right": "Circuit is complete"},
+        {"left": "Armature moves away from screw", "right": "Circuit breaks"},
+        {"left": "Spring pulls armature back", "right": "Circuit completes again"}
+      ],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "mtf018",
+      "instruction": "Match the electromagnet shape with its characteristics:",
+      "pairs": [
+        {"left": "Bar-shaped", "right": "Poles at opposite ends"},
+        {"left": "U-shaped", "right": "Both poles on same side"},
+        {"left": "U-shaped advantage", "right": "Concentrated magnetic field"},
+        {"left": "Used in electric bell", "right": "U-shaped electromagnet"},
+        {"left": "Stronger attraction", "right": "Poles close together"}
+      ],
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "mtf019",
+      "instruction": "Match the experimental terms:",
+      "pairs": [
+        {"left": "Control experiment", "right": "Testing without the variable"},
+        {"left": "Fair test", "right": "Comparing with control"},
+        {"left": "Variable in electromagnet test", "right": "Electric current"},
+        {"left": "Observation when ON", "right": "Paper clips attracted"},
+        {"left": "Observation when OFF", "right": "Paper clips fall off"}
+      ],
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "mtf020",
+      "instruction": "Match the properties with types of materials:",
+      "pairs": [
+        {"left": "Low retentivity", "right": "Soft iron"},
+        {"left": "High retentivity", "right": "Steel"},
+        {"left": "Good electrical conductor", "right": "Copper"},
+        {"left": "Electrical insulator", "right": "Plastic"},
+        {"left": "Magnetic material", "right": "Iron, nickel, cobalt"}
+      ],
+      "source_section": "Introduction to Electromagnetism"
+    }
+  ],
+  "total_count": 20,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

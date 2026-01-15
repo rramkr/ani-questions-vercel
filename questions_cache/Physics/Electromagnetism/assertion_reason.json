@@ -1,0 +1,359 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ar001",
+      "assertion": "An electromagnet is a temporary magnet.",
+      "reason": "An electromagnet loses its magnetism when the electric current is switched off.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "An electromagnet is indeed a temporary magnet because it retains magnetism only when current flows. The reason correctly explains why - it loses magnetism when current stops.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ar002",
+      "assertion": "Soft iron is used as the core of an electromagnet.",
+      "reason": "Soft iron easily gains and loses magnetism.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Soft iron is used as the core because it easily gets magnetized when current flows and quickly loses magnetism when current stops, making it ideal for a controllable temporary magnet.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ar003",
+      "assertion": "Electromagnets are used in cranes to lift heavy loads of iron and steel.",
+      "reason": "The magnetism of an electromagnet can be switched on and off.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Electromagnets are preferred in cranes because they can be switched on to pick up loads and switched off to release them at the desired location.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "ar004",
+      "assertion": "Increasing the number of turns of the coil increases the strength of an electromagnet.",
+      "reason": "Electromagnets are used in bullet trains.",
+      "correct_option": "B",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Both statements are true but unrelated. The reason (use in bullet trains) does not explain why more turns increase strength.",
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "ar005",
+      "assertion": "The hammer in an electric bell keeps striking repeatedly.",
+      "reason": "The electric bell works on a make-and-break mechanism.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "The make-and-break mechanism is exactly why the hammer strikes repeatedly - the circuit keeps completing and breaking, causing continuous striking.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ar006",
+      "assertion": "Permanent magnets retain their magnetism without any external magnetic field.",
+      "reason": "Permanent magnets are made of soft materials.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "The assertion is true - permanent magnets retain magnetism. But the reason is false - permanent magnets are made of hard materials, not soft materials.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "ar007",
+      "assertion": "The spring in an electric bell pulls the armature back to its original position.",
+      "reason": "This helps complete the circuit again after it is broken.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "When the spring pulls the armature back, it restores contact with the contact screw, completing the circuit again for the next cycle.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ar008",
+      "assertion": "Electromagnetic induction produces induced current.",
+      "reason": "Electromagnetic induction requires a constant magnetic field.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "The assertion is true - induction produces induced current. But the reason is false - induction requires a changing magnetic field, not a constant one.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ar009",
+      "assertion": "The end of an electromagnet where current flows clockwise acts as the south pole.",
+      "reason": "The end where current flows anticlockwise acts as the north pole.",
+      "correct_option": "B",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Both statements are true facts about electromagnet poles, but the reason does not explain why clockwise current creates a south pole.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "ar010",
+      "assertion": "Insulated copper wire is used to make the coil of an electromagnet.",
+      "reason": "Insulation prevents short circuit between adjacent turns.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Insulated wire is used specifically because insulation prevents short circuits between turns, ensuring current flows through all turns properly.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ar011",
+      "assertion": "Michael Faraday discovered electromagnetic induction in 1831.",
+      "reason": "Electromagnetic induction requires relative motion between magnet and conductor.",
+      "correct_option": "B",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Both facts are true - Faraday did discover induction in 1831, and relative motion is required. However, the reason doesn't explain the discovery date.",
+      "source_section": "Physics Extra - Michael Faraday"
+    },
+    {
+      "id": "ar012",
+      "assertion": "A galvanometer is used to detect induced current.",
+      "reason": "Galvanometers are more sensitive than ammeters.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Galvanometers are used for detecting induced current because they are more sensitive and can detect the small currents typically produced in simple induction experiments.",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "ar013",
+      "assertion": "U-shaped electromagnets are used in electric bells.",
+      "reason": "U-shaped electromagnets have both poles on the same side.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "U-shaped electromagnets are preferred in bells because having both poles on the same side creates a concentrated field that attracts the armature more effectively.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ar014",
+      "assertion": "Electric generators convert mechanical energy to electrical energy.",
+      "reason": "Generators work on the principle of electromagnetic induction.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Generators do convert mechanical to electrical energy, and electromagnetic induction is exactly the principle that enables this conversion.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ar015",
+      "assertion": "Transformers work only with alternating current.",
+      "reason": "Electromagnetic induction requires a changing magnetic field.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Transformers need AC because only changing current creates a changing magnetic field, which is essential for electromagnetic induction to occur in the secondary coil.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ar016",
+      "assertion": "MRI machines use electromagnets instead of permanent magnets.",
+      "reason": "Permanent magnets are cheaper than electromagnets.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "MRI machines do use electromagnets (true assertion), but permanent magnets are generally cheaper (false reason). Electromagnets are used because they can create much stronger, controllable fields.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "ar017",
+      "assertion": "Maglev trains can achieve very high speeds.",
+      "reason": "Electromagnets eliminate friction between wheels and rails.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Maglev trains achieve high speeds because magnetic levitation eliminates wheel-rail friction, which is a major speed limiter in conventional trains.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "ar018",
+      "assertion": "The plastic coating is removed from wire ends when making an electromagnet.",
+      "reason": "Plastic is an electrical conductor.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Coating is removed from ends (true), but plastic is an insulator, not a conductor (false). It's removed so copper can make electrical contact with battery terminals.",
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "ar019",
+      "assertion": "Closely wound coils make stronger electromagnets.",
+      "reason": "Closely wound coils have more turns per unit length.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Both are true and causally related - more turns per unit length means stronger electromagnet, which is exactly what closely wound coils achieve.",
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "ar020",
+      "assertion": "Steel is used as the core of electromagnets.",
+      "reason": "Steel has low retentivity.",
+      "correct_option": "D",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "The assertion is false - soft iron, not steel, is used. The reason is also incorrect - steel has high retentivity, not low. Soft iron with low retentivity is used.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ar021",
+      "assertion": "The armature in an electric bell is made of iron.",
+      "reason": "Iron is a magnetic material that can be attracted by electromagnets.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "The armature is made of iron specifically because it needs to be attracted by the electromagnet for the bell mechanism to work.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ar022",
+      "assertion": "Paper clips fall off an electromagnet when current stops.",
+      "reason": "Soft iron has low retentivity.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Clips fall off because the soft iron core cannot retain magnetism (low retentivity) when current stops, so there's nothing to attract them.",
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "ar023",
+      "assertion": "Reversing battery connections reverses the poles of an electromagnet.",
+      "reason": "Current direction determines which end is north or south pole.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "When battery is reversed, current flows opposite direction. Since polarity depends on current direction (clockwise=south, anticlockwise=north), poles reverse.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "ar024",
+      "assertion": "Electric motors convert electrical energy to mechanical energy.",
+      "reason": "Motors work on the same principle as generators.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "Motors do convert electrical to mechanical energy (true). However, the reason is partially false - motors work on the reverse principle to generators (magnetic effect of current vs electromagnetic induction).",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ar025",
+      "assertion": "A control experiment is needed for a fair test of the electromagnet activity.",
+      "reason": "We must check if the nail alone picks up paper clips.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true, and R is the correct explanation of A",
+        "B. Both A and R are true, but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "explanation": "For a fair test, we need to confirm that current causes the magnetism. Testing the nail without current (the control) verifies that the nail wasn't already magnetic.",
+      "source_section": "Activity: Making an Electromagnet"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

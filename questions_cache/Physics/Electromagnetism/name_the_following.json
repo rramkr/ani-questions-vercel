@@ -1,0 +1,289 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "ntf001",
+      "description": "The type of magnet in which magnetic field is produced through electric current",
+      "answer": "Electromagnet",
+      "explanation": "An electromagnet is a magnet in which magnetic field is produced through electric current.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ntf002",
+      "description": "The branch of physics which deals with the magnetic effect of electric current",
+      "answer": "Electromagnetism",
+      "explanation": "Electromagnetism is the branch of physics dealing with magnetic effect of electric current.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ntf003",
+      "description": "The material used as core in an electromagnet",
+      "answer": "Soft iron",
+      "explanation": "An electromagnet consists of a soft iron piece, called the core.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ntf004",
+      "description": "The type of wire wound around the core of an electromagnet",
+      "answer": "Insulated copper wire",
+      "explanation": "An insulated copper wire is wound in a coil around the soft iron core.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ntf005",
+      "description": "The type of magnet that retains magnetism only when current flows through it",
+      "answer": "Temporary magnet / Electromagnet",
+      "explanation": "An electromagnet is a temporary magnet which retains magnetism only when current flows.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ntf006",
+      "description": "Two examples of permanent magnets",
+      "answer": "Bar magnet and Horse-shoe magnet",
+      "explanation": "Examples of permanent magnets are bar magnets and horse-shoe magnets.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "ntf007",
+      "description": "The type of material used to make permanent magnets",
+      "answer": "Hard materials",
+      "explanation": "Permanent magnets are usually made of hard materials.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "ntf008",
+      "description": "The type of material used to make temporary magnets",
+      "answer": "Soft materials",
+      "explanation": "Temporary magnets are usually made of soft materials.",
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "ntf009",
+      "description": "The two types of electromagnets based on shape",
+      "answer": "Bar-shaped and U-shaped electromagnets",
+      "explanation": "Electromagnets are of two types - bar-shaped and U-shaped magnets.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "ntf010",
+      "description": "The pole formed at the end of electromagnet where current flows in clockwise direction",
+      "answer": "South pole",
+      "explanation": "The end where current flows clockwise acts as the south pole.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "ntf011",
+      "description": "The pole formed at the end of electromagnet where current flows in anticlockwise direction",
+      "answer": "North pole",
+      "explanation": "The end where current flows anticlockwise acts as the north pole.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "ntf012",
+      "description": "The part of electric bell that produces sound when struck by hammer",
+      "answer": "Gong",
+      "explanation": "The hammer hits the gong and sound (bell ring) is produced.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ntf013",
+      "description": "The part of electric bell that pulls the armature back to original position",
+      "answer": "Spring",
+      "explanation": "The spring pulls the armature back to its original position.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ntf014",
+      "description": "The material from which the armature in an electric bell is made",
+      "answer": "Iron",
+      "explanation": "The electromagnet attracts the armature made of iron.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ntf015",
+      "description": "The phenomenon of producing current in a conductor due to changing magnetic field",
+      "answer": "Electromagnetic induction",
+      "explanation": "This phenomenon is called electromagnetic induction.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ntf016",
+      "description": "The current produced by electromagnetic induction",
+      "answer": "Induced current",
+      "explanation": "The current produced by electromagnetic induction is called induced current.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ntf017",
+      "description": "The type of trains that use electromagnets for magnetic levitation",
+      "answer": "Bullet trains / Maglev trains",
+      "explanation": "Electromagnets are used in bullet trains.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "ntf018",
+      "description": "The mechanism in electric bell that causes repeated ringing",
+      "answer": "Make-and-break mechanism",
+      "explanation": "The continuous making and breaking of circuit causes repeated hammer strikes.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ntf019",
+      "description": "The type of board on which electric bell components are fitted",
+      "answer": "Wooden or plastic board",
+      "explanation": "Components are fitted on a flat wooden or plastic board.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ntf020",
+      "description": "Heavy machinery that uses electromagnets to lift scrap iron and steel",
+      "answer": "Crane",
+      "explanation": "Electromagnets are used in cranes to lift heavy loads of scrap iron and steel.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "ntf021",
+      "description": "The scientist who discovered electromagnetic induction in 1831",
+      "answer": "Michael Faraday",
+      "explanation": "Michael Faraday discovered electromagnetic induction through his experiments in 1831.",
+      "source_section": "Physics Extra - Michael Faraday"
+    },
+    {
+      "id": "ntf022",
+      "description": "An instrument used to detect electric current in a circuit",
+      "answer": "Galvanometer",
+      "explanation": "A galvanometer is used to detect the presence and direction of electric current in a circuit.",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "ntf023",
+      "description": "The device that converts mechanical energy to electrical energy using electromagnetic induction",
+      "answer": "Generator / Dynamo",
+      "explanation": "A generator converts mechanical energy to electrical energy using electromagnetic induction.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ntf024",
+      "description": "The device that converts electrical energy to mechanical energy",
+      "answer": "Electric motor",
+      "explanation": "An electric motor converts electrical energy to mechanical energy for rotation.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ntf025",
+      "description": "A device that uses electromagnetic induction to change voltage levels",
+      "answer": "Transformer",
+      "explanation": "Transformers use electromagnetic induction to step up or step down voltage.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ntf026",
+      "description": "The property of a material to retain magnetism after the magnetizing force is removed",
+      "answer": "Retentivity",
+      "explanation": "Retentivity is the ability of a material to retain magnetism when magnetizing force stops.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ntf027",
+      "description": "Medical imaging technology that uses powerful electromagnets",
+      "answer": "MRI (Magnetic Resonance Imaging)",
+      "explanation": "MRI machines use electromagnets to create detailed images of body organs.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "ntf028",
+      "description": "The type of train that uses electromagnets for magnetic levitation",
+      "answer": "Maglev train",
+      "explanation": "Maglev trains use electromagnets to float above the track for high-speed travel.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "ntf029",
+      "description": "The motion required between magnet and conductor for electromagnetic induction",
+      "answer": "Relative motion",
+      "explanation": "Relative motion between magnet and conductor is essential for electromagnetic induction.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ntf030",
+      "description": "The part of electric bell that completes the circuit when touching the armature",
+      "answer": "Contact screw",
+      "explanation": "The contact screw completes the circuit when it touches the armature.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ntf031",
+      "description": "The type of current that flows in one direction only",
+      "answer": "Direct current (DC)",
+      "explanation": "Direct current flows in one direction, unlike alternating current which changes direction.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ntf032",
+      "description": "The type of current that continuously changes direction",
+      "answer": "Alternating current (AC)",
+      "explanation": "Alternating current changes direction periodically, creating changing magnetic fields.",
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "ntf033",
+      "description": "An experiment that tests the condition without the variable being studied",
+      "answer": "Control experiment",
+      "explanation": "A control experiment tests without the variable to establish a baseline for comparison.",
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "ntf034",
+      "description": "The type of test that includes a control experiment for valid comparison",
+      "answer": "Fair test",
+      "explanation": "A fair test requires comparing results with and without the variable (control).",
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "ntf035",
+      "description": "The shape of electromagnet that has both poles on the same side",
+      "answer": "U-shaped electromagnet",
+      "explanation": "U-shaped electromagnets have both poles on the same side for concentrated field.",
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "ntf036",
+      "description": "The magnetic material that can be attracted by magnets (besides iron and steel)",
+      "answer": "Nickel / Cobalt",
+      "explanation": "Magnetic materials include iron, steel, nickel, and cobalt.",
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "ntf037",
+      "description": "The process by which electromagnets record data on magnetic tapes",
+      "answer": "Magnetic recording / Magnetization",
+      "explanation": "Electromagnets magnetize tape in patterns representing sound or data.",
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "ntf038",
+      "description": "The switch that connects battery to bell circuit when pressed",
+      "answer": "Push button switch",
+      "explanation": "The push button switch connects the battery to the bell circuit when pressed.",
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "ntf039",
+      "description": "The continuous closed curves that represent magnetic field around a magnet",
+      "answer": "Magnetic lines of force / Magnetic field lines",
+      "explanation": "Magnetic lines of force are continuous closed curves showing the magnetic field.",
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "ntf040",
+      "description": "The phenomenon where electricity and magnetism are related",
+      "answer": "Electromagnetism",
+      "explanation": "Electromagnetism is the branch dealing with the relationship between electricity and magnetism.",
+      "source_section": "Introduction to Electromagnetism"
+    }
+  ],
+  "total_count": 40,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

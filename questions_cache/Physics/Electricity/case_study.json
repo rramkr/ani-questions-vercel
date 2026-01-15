@@ -1,0 +1,119 @@
+{
+  "question_type": "case_study",
+  "questions": [
+    {
+      "id": "cs001",
+      "case_text": "Anita wanted to make a simple electric circuit for her science project. She collected a dry cell, some plastic-coated copper wire, a torch bulb, and a switch. She connected everything but the bulb did not glow. Her teacher suggested she check her connections carefully.",
+      "questions": [
+        {"question": "What could be the possible reasons why Anita's bulb did not glow?", "answer": "Possible reasons: (1) The circuit may be open at some point - a wire may not be properly connected. (2) The dry cell may be exhausted (chemicals used up). (3) The bulb may be fused (filament broken). (4) The switch may be in the off position. (5) The plastic coating may not have been removed from the ends of the copper wire, preventing electrical contact."},
+        {"question": "Why did Anita need to use a dry cell in her circuit?", "answer": "A dry cell is a source of electricity. It converts chemical energy into electrical energy and provides the potential difference needed for current to flow through the circuit."},
+        {"question": "Why is the copper wire covered with plastic?", "answer": "The copper wire is covered with plastic because plastic is an insulator. It prevents electric current from flowing out of the wire and makes it safe to touch, preventing electric shocks."},
+        {"question": "What type of circuit must be formed for the bulb to glow - open or closed?", "answer": "A closed circuit must be formed for the bulb to glow. A closed circuit provides a complete path for electric current to flow from one terminal of the cell through the bulb and back to the other terminal."}
+      ],
+      "source_section": "Closed and Open Circuits"
+    },
+    {
+      "id": "cs002",
+      "case_text": "Ravi's father is an electrician. One day, Ravi asked his father why household appliances like TV, fan, and lights are connected in parallel instead of series. His father explained and also showed him some safety equipment used in the house.",
+      "questions": [
+        {"question": "Why are household appliances connected in parallel?", "answer": "Household appliances are connected in parallel because: (1) Each appliance gets the original voltage. (2) All appliances work independently - if one stops working, others continue. (3) Each appliance can have its own switch and be operated independently."},
+        {"question": "What would happen if all appliances were connected in series?", "answer": "If connected in series: (1) There would be sharing of voltage, so each appliance may not get sufficient power. (2) If one appliance stops working or is switched off, all other appliances would also stop working. (3) All appliances would have to be on at the same time."},
+        {"question": "What safety device did Ravi's father show that breaks the circuit during overcurrent?", "answer": "The safety devices could be a fuse (a wire that melts and breaks circuit when current exceeds permissible value) or an MCB (Miniature Circuit Breaker) which automatically breaks the circuit during overload or short circuit. MCBs are preferred nowadays as they can be reset."},
+        {"question": "Name two precautions Ravi should take while helping his father with electrical work.", "answer": "Two precautions: (1) Stand on an insulator such as a rubber mat or wooden board when doing electrical work. (2) Do not touch electrical appliances or switches with wet hands, as tap water and body are good conductors that will cause current to flow through the body."}
+      ],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "cs003",
+      "case_text": "The Jawaharlal Nehru National Solar Mission aims at generating 1,00,000 MW of grid connected solar power by 2022. The power generation will be done using both thermal and photovoltaic technologies. When the mission took off in 2010, the initial target was 20,000 MW by 2022. However, this target was surpassed in 2018, four years ahead of deadline. India has increased its installed solar power capacity from 161 MW in 2010 to 46,265 MW by 2021.",
+      "questions": [
+        {"question": "What device is used to convert solar energy into electrical energy?", "answer": "A solar cell is used to convert solar energy into electrical energy. When sunlight falls on solar cells, electricity is generated."},
+        {"question": "What is formed when many solar cells are connected together?", "answer": "A solar panel is formed by a large number of solar cells connected together. Solar panels are used in artificial satellites and space stations."},
+        {"question": "By how much did India's solar power capacity increase from 2010 to 2021?", "answer": "India's installed solar power capacity increased from 161 MW in 2010 to 46,265 MW by 2021. This is an increase of approximately 46,104 MW."},
+        {"question": "Which UN Sustainable Development Goal is this mission aligned with?", "answer": "This mission is aligned with United Nations' Sustainable Development Goal 7 - Affordable and Clean Energy."}
+      ],
+      "source_section": "Case Study - Jawaharlal Nehru National Solar Mission"
+    },
+    {
+      "id": "cs004",
+      "case_text": "Priya was learning about different types of cells. She noticed that her TV remote uses dry cells that need to be thrown away when exhausted. But her father's car uses a battery that can be recharged at a garage. She wondered why some cells can be recharged while others cannot.",
+      "questions": [
+        {"question": "What type of cell is used in the TV remote?", "answer": "The TV remote uses a dry cell, which is a type of primary cell. It cannot be recharged after use because the chemical reaction inside is irreversible."},
+        {"question": "What type of cell is used in the car?", "answer": "The car uses a secondary cell (battery), also called a storage cell or accumulator. Examples include lead accumulator. It can be recharged because the chemical reaction inside is reversible."},
+        {"question": "Why can a secondary cell be recharged but not a primary cell?", "answer": "In a primary cell, the chemical reaction inside is irreversible - once chemicals are used up, they cannot be reformed. In a secondary cell, the chemical reaction is reversible - when recharged, the original chemicals are reformed and the cell can be used again."},
+        {"question": "Give two examples each of primary and secondary cells.", "answer": "Primary cells: Simple voltaic cell, Daniel cell, Leclanche cell, dry cell. Secondary cells: Lead accumulator, Edison accumulator, nickel-iron accumulator."}
+      ],
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "cs005",
+      "case_text": "During a physics lab activity, students were testing different materials to classify them as conductors or insulators. They set up a circuit with a dry cell, bulb, and a gap between two wire ends. They placed different materials in the gap and observed whether the bulb glowed.",
+      "questions": [
+        {"question": "If the students place a copper wire in the gap, will the bulb glow? Why?", "answer": "Yes, the bulb will glow because copper is a conductor. It allows electric current to flow through it easily, completing the circuit and allowing current to flow through the bulb."},
+        {"question": "If they place a rubber piece in the gap, will the bulb glow? Why?", "answer": "No, the bulb will not glow because rubber is an insulator. It does not allow electric current to flow through it, so the circuit remains incomplete."},
+        {"question": "What will happen if they pour distilled water in a container and place it in the gap?", "answer": "The bulb will not glow because pure/distilled water is an insulator. It does not conduct electricity. Only impure water conducts electricity because it contains dissolved salts."},
+        {"question": "Name three conductors and three insulators from what you have studied.", "answer": "Conductors: Copper, silver, nickel, aluminium, iron, steel, impure water, human body. Insulators: Cotton, rubber, paper, glass, ceramics, plastic, wood, pure water, air."}
+      ],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "cs006",
+      "case_text": "The electric company was doing maintenance work on the power lines in Rajesh's neighborhood. The workers wore rubber gloves, stood on wooden platforms, and used tools with plastic handles. When Rajesh asked why, the supervisor explained the importance of safety equipment in electrical work.",
+      "questions": [
+        {"question": "Why did the workers wear rubber gloves?", "answer": "Rubber is an insulator and does not allow electric current to flow through it. By wearing rubber gloves, the workers protected themselves from electric shock if they accidentally touched a live wire. The rubber acts as a barrier between their hands and the electrical current."},
+        {"question": "Why did they stand on wooden platforms?", "answer": "Wood is also an insulator. By standing on wooden platforms (or rubber mats), the workers ensured that even if current passed through their body, it would not flow to the ground, as there was no conductive path. This prevents the completion of a circuit through their body."},
+        {"question": "Why did their tools have plastic handles?", "answer": "Plastic is an insulator. Tools with plastic handles ensure that if the metal part of the tool touches a live wire, the current cannot pass through to the worker's hands. The insulating handle breaks the circuit and protects the worker."},
+        {"question": "What precaution should regular people take if they notice fallen power lines?", "answer": "Regular people should never touch fallen power lines or go near them. 90% of outside power lines are bare wires and uninsulated. Even lines that appear to have coating may only have weather coating, not insulation. They should stay away and call the electric company immediately."}
+      ],
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "cs007",
+      "case_text": "Sneha opened her TV remote and found two cylindrical cells inside. She noticed that they were arranged so the positive end of one touched the negative end of the other. Her brother told her this is how batteries work in many devices.",
+      "questions": [
+        {"question": "What is this arrangement of cells called?", "answer": "When multiple cells are connected with the positive terminal of one cell connected to the negative terminal of the next, they form a battery. This is called a series connection of cells."},
+        {"question": "Why are cells arranged this way in devices?", "answer": "Cells are arranged in series to increase the amount of electrical energy available. A single cell provides a small amount of electricity. When connected in series, their voltages add up, providing more power to operate devices that need more electrical energy."},
+        {"question": "What type of cells are typically used in TV remotes?", "answer": "TV remotes typically use dry cells, which are a type of primary cell. They cannot be recharged after use because the chemical reaction inside them is irreversible. Once the chemicals are used up, the cells must be discarded."},
+        {"question": "What happens if Sneha inserts the cells in the wrong direction?", "answer": "If cells are inserted with wrong polarity (+ where - should be or vice versa), the remote will not work. The voltages will cancel out or oppose each other instead of adding up. In some sensitive devices, wrong polarity can even damage the components."}
+      ],
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "cs008",
+      "case_text": "During a power outage, Amit noticed that his father switched to a rechargeable emergency light while his neighbor was using candles. After 6 hours, the emergency light dimmed. Later, his father plugged it in to charge overnight.",
+      "questions": [
+        {"question": "What type of cell is used in the emergency light?", "answer": "The emergency light uses a secondary cell (rechargeable battery), such as a lead accumulator. It can be recharged and used multiple times because the chemical reaction inside is reversible."},
+        {"question": "Why did the light dim after 6 hours?", "answer": "The light dimmed because the chemical reaction inside the secondary cell was getting exhausted. As the chemicals are consumed during use, less electrical energy is produced, causing the light to dim. The cell needed recharging."},
+        {"question": "What happens inside the cell when it is plugged in to charge?", "answer": "When recharged, electrical energy is supplied to the cell from mains. This reverses the chemical reaction that occurred during discharge, restoring the original chemicals. Once fully charged, the cell can again convert chemical energy to electrical energy."},
+        {"question": "Give two more examples of devices that use secondary cells.", "answer": "Examples of devices using secondary cells: (1) Mobile phones (2) Laptop computers (3) Electric vehicles (4) Cameras. All these can be recharged multiple times before the battery eventually wears out."}
+      ],
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "cs009",
+      "case_text": "Meena's class visited a thermal power plant. The guide explained that coal is burned in large furnaces to produce steam, which rotates huge turbines connected to generators. The plant produced 500 MW of electricity that was distributed to nearby cities.",
+      "questions": [
+        {"question": "What energy conversion takes place when coal is burned?", "answer": "When coal is burned, chemical energy stored in coal is converted to heat energy. This is the first step in the power generation process."},
+        {"question": "How does the heat energy get converted to electrical energy?", "answer": "The heat energy converts water to steam (thermal energy). The high-pressure steam rotates turbine blades, converting thermal energy to mechanical energy. The turbine is connected to a generator, which converts mechanical energy to electrical energy."},
+        {"question": "What is the role of the generator in the power plant?", "answer": "The generator converts mechanical energy (rotation) into electrical energy. Inside the generator, a conductor (copper wire coil) is rotated in a magnetic field. This produces electric current through electromagnetic induction."},
+        {"question": "Name one advantage and one disadvantage of thermal power plants.", "answer": "Advantage: Thermal plants can generate large amounts of electricity consistently, regardless of weather conditions. Disadvantage: They burn fossil fuels which cause pollution and are non-renewable resources that will eventually run out."}
+      ],
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "cs010",
+      "case_text": "After a lightning strike nearby, the MCB in Deepak's house tripped and all the lights went off. His mother went to the distribution box and simply switched the MCB back on, and power was restored. Deepak remembered that in his grandfather's old house, they had to replace a fuse wire when something similar happened.",
+      "questions": [
+        {"question": "What is an MCB and why did it trip?", "answer": "MCB stands for Miniature Circuit Breaker. It is an automatic safety device that breaks the circuit when there is excessive current or voltage fluctuation. The lightning strike likely caused a surge in voltage, which the sensitive MCB detected and tripped to protect the household appliances."},
+        {"question": "Why could Deepak's mother simply switch it back on?", "answer": "Unlike a fuse, an MCB can be reset after tripping. It uses an electromagnetic mechanism to break the circuit, not a wire that melts. After the voltage surge passed, she could simply flip the switch to restore the circuit. No replacement was needed."},
+        {"question": "What happened in the grandfather's house with the fuse?", "answer": "In the grandfather's house, the fuse contained a thin wire that melted during the power surge. Once melted, the fuse could not be reset - the entire fuse wire had to be replaced with a new one before power could be restored."},
+        {"question": "Why are MCBs preferred over fuses in modern homes?", "answer": "MCBs are preferred because: (1) They are more sensitive and can detect even slight voltage fluctuations. (2) They can be reset and reused - no replacement needed. (3) They provide better protection to appliances. (4) They are more convenient to restore after tripping."}
+      ],
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    }
+  ],
+  "total_count": 10,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

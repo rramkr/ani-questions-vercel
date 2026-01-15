@@ -1,0 +1,119 @@
+{
+  "question_type": "case_study",
+  "questions": [
+    {
+      "id": "cs001",
+      "case_text": "Ravi wanted to make an electromagnet for his science project. He took an iron nail, some insulated copper wire, a battery, and a switch. He wound 50 turns of wire around the nail and connected it to the battery. When he switched on the current, the nail attracted some paper clips. His friend Meera suggested that he could make the electromagnet stronger.",
+      "questions": [
+        {"question": "What type of magnet did Ravi make?", "answer": "Ravi made an electromagnet, which is a temporary magnet that works only when current flows through it."},
+        {"question": "Why did Ravi use an iron nail and not a plastic rod?", "answer": "Iron is a magnetic material that can be easily magnetized when current flows through the coil. Plastic cannot be magnetized."},
+        {"question": "Suggest two ways Meera could help Ravi make his electromagnet stronger.", "answer": "1. Increase the number of turns of wire around the nail. 2. Use a more powerful battery to increase the current flowing through the coil."},
+        {"question": "What will happen if Ravi switches off the current?", "answer": "The iron nail will lose its magnetism immediately and the paper clips will fall off because soft iron cannot retain magnetism."}
+      ],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "cs002",
+      "case_text": "In a scrap metal yard, a large crane uses an electromagnet to move heavy loads of iron and steel from one place to another. The operator sits in the cabin and controls the electromagnet using switches. One day, during operation, there was a sudden power failure.",
+      "questions": [
+        {"question": "Why is an electromagnet used in the crane instead of a permanent magnet?", "answer": "Electromagnet is used because its magnetism can be switched on to pick up the load and switched off to release it at the desired location. A permanent magnet cannot release the load easily."},
+        {"question": "What happened to the load when power failed?", "answer": "The load fell immediately because the electromagnet lost its magnetism when the current stopped flowing."},
+        {"question": "What safety measures should be taken in such yards?", "answer": "Safety measures include having backup power systems, warning signals before power cuts, ensuring no workers are below the crane, and using safety nets or barriers."},
+        {"question": "Name two other applications where electromagnets are used in industry.", "answer": "1. Separation of iron ore from impurities in mining. 2. Loading furnaces with iron in foundries."}
+      ],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "cs003",
+      "case_text": "Priya noticed that when she pressed the doorbell switch at her home, it made a continuous ringing sound. When she released the switch, the ringing stopped. Her science teacher explained that the doorbell works using an electromagnet and has a special mechanism that causes continuous ringing.",
+      "questions": [
+        {"question": "What are the main components of an electric bell?", "answer": "An electric bell consists of an electromagnet, contact spring, contact screw, armature, hammer, and gong fitted on a wooden or plastic board."},
+        {"question": "Why does the bell ring continuously when the switch is pressed?", "answer": "Due to the make-and-break mechanism: current flows → electromagnet attracts armature → hammer hits gong and circuit breaks → electromagnet loses magnetism → spring pulls armature back → circuit completes again. This cycle repeats."},
+        {"question": "What role does the spring play in the electric bell?", "answer": "The spring pulls the armature back to its original position after it is attracted by the electromagnet. This restores contact with the contact screw and completes the circuit again."},
+        {"question": "Why does the bell stop when Priya releases the switch?", "answer": "When the switch is released, the circuit is broken at the switch itself. No current flows to the electromagnet, so the make-and-break cycle cannot start or continue."}
+      ],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "cs004",
+      "case_text": "A 7th grade student was learning about different types of magnets. She had a bar magnet and an electromagnet on her table. She observed that the bar magnet always attracted iron filings, but the electromagnet only attracted them when connected to a battery.",
+      "questions": [
+        {"question": "Why does the bar magnet always attract iron filings while the electromagnet does not?", "answer": "The bar magnet is a permanent magnet made of hard material that retains magnetism always. The electromagnet is a temporary magnet that has magnetism only when current flows through it."},
+        {"question": "What type of material is the bar magnet made of?", "answer": "The bar magnet is made of hard materials that can retain magnetism permanently."},
+        {"question": "What material is used as the core of the electromagnet?", "answer": "Soft iron is used as the core of the electromagnet because it easily gains magnetism when current flows and quickly loses it when current stops."},
+        {"question": "In what situation would an electromagnet be more useful than a permanent magnet?", "answer": "When we need to pick up and release objects (like in cranes), or when we need to control the magnetism by switching it on and off (like in electric bells and motors)."}
+      ],
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "cs005",
+      "case_text": "During a physics demonstration, the teacher showed that when a magnet is moved quickly towards a coil of wire connected to a galvanometer, the needle of the galvanometer deflects. When the magnet is moved away, the needle deflects in the opposite direction. When the magnet is held stationary near the coil, the needle shows no deflection.",
+      "questions": [
+        {"question": "What phenomenon is the teacher demonstrating?", "answer": "The teacher is demonstrating electromagnetic induction - the phenomenon of producing electric current in a conductor due to change in magnetic lines of force."},
+        {"question": "Why does the galvanometer needle deflect when the magnet moves?", "answer": "When the magnet moves, the magnetic lines of force associated with the coil change. This change induces an electric current in the coil, which causes the galvanometer needle to deflect."},
+        {"question": "Why is there no deflection when the magnet is stationary?", "answer": "Electromagnetic induction requires a CHANGE in magnetic field. When the magnet is stationary, the magnetic field around the coil is constant, so no current is induced."},
+        {"question": "What is the current produced by electromagnetic induction called?", "answer": "The current produced by electromagnetic induction is called induced current."}
+      ],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "cs006",
+      "case_text": "Arjun visited an MRI center with his grandfather for a medical scan. He noticed that before entering the MRI room, the staff asked his grandfather to remove all metal objects including his watch, belt, and even his hearing aid. The staff explained that the MRI machine uses very powerful magnets.",
+      "questions": [
+        {"question": "What type of magnets does an MRI machine use?", "answer": "MRI machines use powerful electromagnets that can create very strong magnetic fields for medical imaging."},
+        {"question": "Why must metal objects be removed before entering the MRI room?", "answer": "Metal objects can be strongly attracted by the powerful electromagnet, which could cause injuries or damage. Some metals could also interfere with the imaging process."},
+        {"question": "Why are electromagnets preferred over permanent magnets in MRI machines?", "answer": "Electromagnets are preferred because they can create much stronger magnetic fields than permanent magnets, the field strength can be precisely controlled, and they can be turned off for safety during emergencies."},
+        {"question": "What property of electromagnets makes them controllable?", "answer": "The fact that electromagnets are temporary magnets - they lose magnetism when current is switched off - makes them controllable. The field strength can also be adjusted by changing the current."}
+      ],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "cs007",
+      "case_text": "During a science fair, students Kavya and Rahul made electromagnets for their project. Kavya wound 50 turns of wire around an iron nail and connected one battery. Rahul wound 100 turns around a similar nail and also connected one battery. When they tested with paper clips, Rahul's electromagnet picked up more clips than Kavya's.",
+      "questions": [
+        {"question": "Why did Rahul's electromagnet pick up more paper clips?", "answer": "Rahul's electromagnet was stronger because it had 100 turns compared to Kavya's 50 turns. The strength of an electromagnet is directly proportional to the number of turns per unit length."},
+        {"question": "If Kavya wants to make her electromagnet as strong as Rahul's without adding more turns, what can she do?", "answer": "Kavya can add another battery in series to increase the current. The strength is also directly proportional to current, so more current will make her electromagnet stronger."},
+        {"question": "Why did they use iron nails instead of wooden sticks?", "answer": "Iron is a magnetic material that can be magnetized. Wood is non-magnetic and cannot become an electromagnet. The core must be made of magnetic material like iron, nickel, or cobalt."},
+        {"question": "What would happen to Kavya's electromagnet if she connected the batteries in parallel instead of series?", "answer": "Batteries in parallel provide the same voltage but more capacity. To increase current (and thus strength), batteries should be connected in series, which increases voltage and current through the coil."}
+      ],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "cs008",
+      "case_text": "Michael Faraday, born in 1791, was a British scientist who made groundbreaking discoveries in electromagnetism. Despite having very little formal education, he became one of the most influential scientists in history. In 1831, he discovered electromagnetic induction, which became the foundation for modern electrical technology.",
+      "questions": [
+        {"question": "What important discovery did Faraday make in 1831?", "answer": "Michael Faraday discovered electromagnetic induction in 1831 - the phenomenon where a changing magnetic field produces an electric current in a conductor."},
+        {"question": "How did Faraday's discovery impact modern technology?", "answer": "Faraday's discovery of electromagnetic induction is the foundation for electric generators, transformers, and much of our modern electrical infrastructure. It enabled the large-scale generation and distribution of electricity."},
+        {"question": "What must be present for electromagnetic induction to occur?", "answer": "There must be relative motion between a magnet and a conductor, or more generally, a changing magnetic field associated with the conductor. A constant magnetic field will not produce induced current."},
+        {"question": "What devices work on the principle Faraday discovered?", "answer": "Electric generators, transformers, induction cooktops, and wireless charging devices all work on the principle of electromagnetic induction that Faraday discovered."}
+      ],
+      "source_section": "Physics Extra - Michael Faraday"
+    },
+    {
+      "id": "cs009",
+      "case_text": "Japan's famous bullet trains (Shinkansen) and China's maglev trains use electromagnets for high-speed transportation. The Shanghai Maglev train can reach speeds over 430 km/h. Unlike conventional trains that run on wheels, maglev trains float above the track using magnetic levitation.",
+      "questions": [
+        {"question": "How do maglev trains achieve such high speeds?", "answer": "Maglev trains use electromagnets to float above the track, eliminating friction between wheels and rails. Without this friction, the only resistance is air resistance, allowing much higher speeds."},
+        {"question": "Why do maglev trains use electromagnets instead of permanent magnets?", "answer": "Electromagnets are used because their strength can be precisely controlled by adjusting current. They can be switched on and off as needed, and their field strength can be varied for smooth levitation and propulsion control."},
+        {"question": "What is the main advantage of magnetic levitation over conventional wheel-based trains?", "answer": "Magnetic levitation eliminates physical contact between the train and track, removing wheel-rail friction. This allows much higher speeds, smoother rides, less maintenance, and reduced noise."},
+        {"question": "What role does the electromagnetic principle play in both levitating and moving the train?", "answer": "Electromagnets are used both to lift the train (levitation) and to propel it forward (propulsion). By controlling the current in different electromagnets along the track, the train can be accelerated, decelerated, and kept floating."}
+      ],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "cs010",
+      "case_text": "Anita's teacher demonstrated an experiment where she wrapped insulated copper wire around an iron nail, connected it to a battery through a switch, and brought paper clips near the nail. The paper clips were attracted when the switch was ON but fell off when the switch was turned OFF.",
+      "questions": [
+        {"question": "Why were the paper clips attracted only when the switch was ON?", "answer": "When the switch is ON, current flows through the coil, creating a magnetic field that magnetizes the iron nail. This makes it an electromagnet that attracts the paper clips. When OFF, no current flows, so no magnetic field exists."},
+        {"question": "Why did the teacher use insulated copper wire?", "answer": "Insulated wire is used because: (1) Copper is a good conductor for current flow, and (2) the insulation prevents short circuits between adjacent turns of the coil, ensuring current flows through all turns."},
+        {"question": "Why does the iron nail lose its magnetism when current stops?", "answer": "The iron nail is made of soft iron, which has low retentivity. This means it cannot retain magnetism when the magnetizing force (current) is removed. It loses magnetism almost instantly."},
+        {"question": "What would happen if Anita's teacher used a steel nail instead of iron nail?", "answer": "With a steel nail, the nail would remain magnetized even after the current is switched off because steel has high retentivity. This would defeat the purpose of having a controllable electromagnet."}
+      ],
+      "source_section": "Activity: Making an Electromagnet"
+    }
+  ],
+  "total_count": 10,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

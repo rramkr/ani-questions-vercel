@@ -1,0 +1,189 @@
+{
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "gr001",
+      "question": "Why is copper used in making electric wires?",
+      "answer": "Copper is used in making electric wires because it is a good conductor of electricity. All metals such as copper, silver, nickel, aluminium, iron and steel are conductors that allow electric current to flow through them easily.",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "gr002",
+      "question": "Why are electric wires covered with plastic?",
+      "answer": "Electric wires are covered with plastic because plastic is an insulator. Insulators do not allow electric current to flow through them, making the wires safe to touch and preventing electric shocks.",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "gr003",
+      "question": "Why should we not touch electrical appliances with wet hands?",
+      "answer": "We should not touch electrical appliances with wet hands because tap water and our body are good conductors of electricity. If we touch with wet hands, the current will flow through our body, causing an electric shock.",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "gr004",
+      "question": "Why should we stand on a rubber mat while doing electrical work?",
+      "answer": "We should stand on a rubber mat while doing electrical work because rubber is an insulator. It does not allow electric current to flow through it, thus protecting us from electric shock if we accidentally touch a live wire.",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "gr005",
+      "question": "Why are household appliances connected in parallel?",
+      "answer": "Household appliances are connected in parallel because in parallel connection, each appliance gets the original voltage and works independently. If one appliance gets damaged, the remaining ones continue to work. Each appliance can have its own switch and be operated independently.",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "gr006",
+      "question": "Why does the bulb not glow in an open circuit?",
+      "answer": "The bulb does not glow in an open circuit because no electric current flows through it. An open circuit has a break at some point, and since air is an insulator, the current cannot flow through the gap to complete the circuit.",
+      "source_section": "Closed and Open Circuits"
+    },
+    {
+      "id": "gr007",
+      "question": "Why do all bulbs in a series circuit stop glowing when one bulb fuses?",
+      "answer": "In a series circuit, all appliances depend upon each other to complete the circuit. When one bulb fuses (its filament breaks), the circuit becomes incomplete. Since current cannot flow through the broken filament, no current flows through the entire circuit, so all bulbs stop glowing.",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "gr008",
+      "question": "Why is zinc used as the outer container in a dry cell?",
+      "answer": "Zinc is used as the outer container in a dry cell because it acts as the negative electrode (cathode). Zinc participates in the chemical reaction with the electrolyte (ammonium chloride and plaster of Paris) to produce electric current. The zinc container provides both structural support and functions as one of the electrodes.",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "gr009",
+      "question": "Why can secondary cells be reused while primary cells cannot?",
+      "answer": "Secondary cells can be reused because the chemical reaction inside them is reversible. When recharged, the original chemicals are reformed. However, in primary cells, the chemical reaction is irreversible. Once the chemicals are used up, they cannot be reformed, so the cell has to be discarded.",
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "gr010",
+      "question": "Why does electricity flow only when there is a potential difference?",
+      "answer": "Electricity flows only when there is a potential difference because current is the flow of charges from a high potential region (excess electrons) to a low potential region (deficit of electrons). Without a difference in potential, there is no force to drive the electrons from one point to another.",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "gr011",
+      "question": "Why is the direction of conventional current opposite to the direction of electron flow?",
+      "answer": "By convention (established practice), the direction of electric current was defined as flowing from positive to negative terminal before electrons were discovered. Later, it was found that electrons (which carry the current) flow from negative to positive. So conventional current direction is opposite to actual electron flow.",
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "gr012",
+      "question": "Why are solar panels used in artificial satellites?",
+      "answer": "Solar panels are used in artificial satellites because they convert solar energy into electrical energy. In space, there is abundant sunlight available continuously, and solar panels provide a reliable, long-lasting source of electricity to power the satellite's systems without needing fuel.",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "gr013",
+      "question": "Why is pure water an insulator while impure water is a conductor?",
+      "answer": "Pure water (distilled water) is an insulator because it has very few ions to carry electric current. Impure water contains dissolved salts and minerals that form ions, which can carry electric current, making it a conductor.",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "gr014",
+      "question": "Why should naked wires be covered with insulating tape?",
+      "answer": "Naked wires should be covered with insulating tape because exposed wires are dangerous. If touched, they can cause electric shock since our body is a conductor. Insulating tape, being an insulator, prevents current from flowing out and protects from accidental contact.",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "gr015",
+      "question": "Why does more wind speed generate more electricity in a windmill?",
+      "answer": "More wind speed generates more electricity because the energy of the wind is used to rotate the blades of the windmill. More wind speed means more kinetic energy, which rotates the blades faster, which in turn generates more electricity in the generator.",
+      "source_section": "Electricity from Wind"
+    },
+    {
+      "id": "gr016",
+      "question": "Why is a dry cell called 'dry' even though it contains chemicals?",
+      "answer": "A dry cell is called 'dry' because the electrolyte inside is not a liquid solution but a moist paste of ammonium chloride and plaster of Paris. The quantity of water in it is very less compared to other cells where the electrolyte is in liquid form. Since there is no liquid that can spill, it is called 'dry'.",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "gr017",
+      "question": "Why should we never open a dry cell?",
+      "answer": "We should never try to open a dry cell because the chemicals inside are harmful. The chemicals like ammonium chloride, manganese dioxide and zinc compounds can be toxic if they come in contact with skin or are ingested.",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "gr018",
+      "question": "Why is the carbon rod surrounded by manganese dioxide in a dry cell?",
+      "answer": "The carbon rod (positive electrode) is surrounded by a mixture of manganese dioxide (MnO2) and carbon in a muslin bag. The manganese dioxide acts as a depolarizer, which helps to maintain the efficiency of the cell during operation.",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "gr019",
+      "question": "Why are cells connected in series to form a battery?",
+      "answer": "Cells are connected in series to form a battery because this arrangement increases the amount of electrical energy available. The positive terminal of one cell is connected to the negative terminal of the next, which adds up the voltages of individual cells.",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "gr020",
+      "question": "Why is electricity generated at power stations and not in our homes?",
+      "answer": "Electricity is generated at power stations because generating electricity requires large generators, turbines, and either flowing water, fossil fuels, or nuclear energy. These require massive infrastructure that cannot be set up in homes. The electricity is then transferred through transformers and wires to homes.",
+      "source_section": "Mains"
+    },
+    {
+      "id": "gr021",
+      "question": "Why do generators use copper wire?",
+      "answer": "Generators use copper wire because copper is a very good conductor of electricity. When a copper wire is rotated in a magnetic field, it produces electric current efficiently due to its high conductivity.",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "gr022",
+      "question": "Why is MCB preferred over fuse in modern homes?",
+      "answer": "MCB is preferred over fuse because: (1) MCB is more sensitive to current and can detect even slight voltage fluctuation, (2) MCB can be reset after tripping and reused, while a fuse needs to be replaced every time it blows. MCB provides better and convenient protection.",
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "gr023",
+      "question": "Why does a fuse wire melt during overcurrent?",
+      "answer": "A fuse contains a thin wire that melts when current exceeds the permissible value. The thin wire has low melting point and heats up quickly when excessive current flows through it. This melting breaks the circuit and protects the appliances from damage.",
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "gr024",
+      "question": "Why should we use only ISI marked wires?",
+      "answer": "We should use only ISI marked wires because ISI (Indian Standards Institute) marking ensures that the wires meet safety standards. Such wires have proper insulation, correct conductor size, and can safely carry the rated current without overheating.",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "gr025",
+      "question": "Why should we put off the main switch in case of fire?",
+      "answer": "We should put off the main switch immediately in case of short circuit and fire because this cuts off the electricity supply and prevents further damage. With electricity flowing, there is risk of more sparks, continued burning, and electric shock to people trying to help.",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "gr026",
+      "question": "Why is air called an insulator?",
+      "answer": "Air is called an insulator because it does not allow electric current to flow through it. Therefore, if any part of an electric circuit is broken, there is no flow of electric current as air creates an insulating gap.",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "gr027",
+      "question": "Why do torch and television work on different types of electricity?",
+      "answer": "A torch works on battery (direct current from cells) because it is portable and needs a compact power source. Television works on direct electricity from mains because it requires continuous and higher power which batteries cannot efficiently provide.",
+      "source_section": "Introduction to Electricity"
+    },
+    {
+      "id": "gr028",
+      "question": "Why are switches always connected to live wire?",
+      "answer": "Switches are always connected to the live wire so that when the switch is off, no current flows to the appliance. This makes the appliance safe to touch or repair since the current is completely cut off at the switch itself.",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "gr029",
+      "question": "Why should we never get electrical repairs done by an untrained person?",
+      "answer": "We should never get electrical repairs done by an untrained person because handling electricity requires proper knowledge and skills. An untrained person may not follow safety precautions, leading to electric shocks, short circuits, or fire hazards.",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "gr030",
+      "question": "Why is the unit of potential difference called Volt?",
+      "answer": "The unit of potential difference is called Volt (V) as it is named after the Italian Physicist Alessandro Volta, who made significant contributions to the study of electricity and invented the first chemical battery (voltaic pile).",
+      "source_section": "Potential Difference"
+    }
+  ],
+  "total_count": 30,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

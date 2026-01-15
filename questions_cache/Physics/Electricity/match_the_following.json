@@ -1,0 +1,269 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "column_a": ["Ampere", "Volt", "Coulomb", "Current", "Potential difference"],
+      "column_b": ["SI unit of charge", "Amount of work done per unit charge", "SI unit of electric current", "SI unit of potential difference", "Flow of charges"],
+      "correct_matches": {
+        "Ampere": "SI unit of electric current",
+        "Volt": "SI unit of potential difference",
+        "Coulomb": "SI unit of charge",
+        "Current": "Flow of charges",
+        "Potential difference": "Amount of work done per unit charge"
+      },
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mtf002",
+      "column_a": ["Proton", "Electron", "Neutron", "Nucleus", "Orbit"],
+      "column_b": ["Path of electron around nucleus", "Positively charged", "Negatively charged", "Neutral (no charge)", "Centre of atom"],
+      "correct_matches": {
+        "Proton": "Positively charged",
+        "Electron": "Negatively charged",
+        "Neutron": "Neutral (no charge)",
+        "Nucleus": "Centre of atom",
+        "Orbit": "Path of electron around nucleus"
+      },
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mtf003",
+      "column_a": ["Anode", "Cathode", "Electrolyte", "Zinc container", "Carbon rod"],
+      "column_b": ["Positive electrode in dry cell", "Chemical that produces charge", "Negative electrode", "Negative electrode in dry cell", "Positive electrode"],
+      "correct_matches": {
+        "Anode": "Positive electrode",
+        "Cathode": "Negative electrode",
+        "Electrolyte": "Chemical that produces charge",
+        "Zinc container": "Negative electrode in dry cell",
+        "Carbon rod": "Positive electrode in dry cell"
+      },
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mtf004",
+      "column_a": ["Dry cell", "Lead accumulator", "Battery", "Voltaic cell", "Leclanche cell"],
+      "column_b": ["Example of secondary cell", "Primary cell example", "Cells connected in series", "Another primary cell example", "Example of primary cell"],
+      "correct_matches": {
+        "Dry cell": "Example of primary cell",
+        "Lead accumulator": "Example of secondary cell",
+        "Battery": "Cells connected in series",
+        "Voltaic cell": "Primary cell example",
+        "Leclanche cell": "Another primary cell example"
+      },
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mtf005",
+      "column_a": ["Generator", "Solar cell", "Thermal power plant", "Hydroelectric station", "Nuclear power plant"],
+      "column_b": ["Uses flowing water", "Converts solar to electrical energy", "Uses fossil fuels", "Uses nuclear energy", "Converts mechanical to electrical energy"],
+      "correct_matches": {
+        "Generator": "Converts mechanical to electrical energy",
+        "Solar cell": "Converts solar to electrical energy",
+        "Thermal power plant": "Uses fossil fuels",
+        "Hydroelectric station": "Uses flowing water",
+        "Nuclear power plant": "Uses nuclear energy"
+      },
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "mtf006",
+      "column_a": ["Copper", "Plastic", "Rubber", "Silver", "Glass"],
+      "column_b": ["Insulator", "Conductor", "Insulator material", "Another conductor", "Another insulator"],
+      "correct_matches": {
+        "Copper": "Conductor",
+        "Plastic": "Insulator",
+        "Rubber": "Insulator material",
+        "Silver": "Another conductor",
+        "Glass": "Another insulator"
+      },
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mtf007",
+      "column_a": ["Cell", "Switch", "Resistor", "Bulb", "Connecting wire"],
+      "column_b": ["Makes and breaks circuit", "Opposes flow of current", "Source of electric current", "Produces light", "Connects circuit components"],
+      "correct_matches": {
+        "Cell": "Source of electric current",
+        "Switch": "Makes and breaks circuit",
+        "Resistor": "Opposes flow of current",
+        "Bulb": "Produces light",
+        "Connecting wire": "Connects circuit components"
+      },
+      "source_section": "Components of an Electric Circuit"
+    },
+    {
+      "id": "mtf008",
+      "column_a": ["Open circuit", "Closed circuit", "Series circuit", "Parallel circuit", "Circuit diagram"],
+      "column_b": ["Shows current path using symbols", "Appliances share voltage", "No current flows", "Current flows", "Each appliance gets original voltage"],
+      "correct_matches": {
+        "Open circuit": "No current flows",
+        "Closed circuit": "Current flows",
+        "Series circuit": "Appliances share voltage",
+        "Parallel circuit": "Each appliance gets original voltage",
+        "Circuit diagram": "Shows current path using symbols"
+      },
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "mtf009",
+      "column_a": ["Alessandro Volta", "Yai Sakizo", "Georges Leclanche", "Television", "Torch"],
+      "column_b": ["Invented dry cell", "Works on direct electricity", "Unit Volt named after him", "Works on battery", "Invented Leclanche cell"],
+      "correct_matches": {
+        "Alessandro Volta": "Unit Volt named after him",
+        "Yai Sakizo": "Invented dry cell",
+        "Georges Leclanche": "Invented Leclanche cell",
+        "Television": "Works on direct electricity",
+        "Torch": "Works on battery"
+      },
+      "source_section": "Introduction to Electricity"
+    },
+    {
+      "id": "mtf010",
+      "column_a": ["Solar panel", "Windmill", "MCB", "Fuse", "Mains"],
+      "column_b": ["Public electricity supply", "Safety device - wire melts", "Solar cells connected together", "Blades rotated by wind", "Circuit breaker - detects fluctuation"],
+      "correct_matches": {
+        "Solar panel": "Solar cells connected together",
+        "Windmill": "Blades rotated by wind",
+        "MCB": "Circuit breaker - detects fluctuation",
+        "Fuse": "Safety device - wire melts",
+        "Mains": "Public electricity supply"
+      },
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "mtf011",
+      "column_a": ["Primary cell", "Secondary cell", "Irreversible reaction", "Reversible reaction", "Rechargeable"],
+      "column_b": ["Can be recharged", "Characteristic of secondary cell", "Cannot be recharged", "Property of primary cell", "Characteristic of primary cell"],
+      "correct_matches": {
+        "Primary cell": "Cannot be recharged",
+        "Secondary cell": "Can be recharged",
+        "Irreversible reaction": "Characteristic of primary cell",
+        "Reversible reaction": "Characteristic of secondary cell",
+        "Rechargeable": "Property of primary cell"
+      },
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "mtf012",
+      "column_a": ["Ammonium chloride", "Manganese dioxide", "Brass cap", "Plaster of Paris", "Muslin bag"],
+      "column_b": ["Contains MnO2 and carbon mixture", "Part of electrolyte", "Positive terminal", "Mixed with NH4Cl", "Component of electrolyte paste"],
+      "correct_matches": {
+        "Ammonium chloride": "Component of electrolyte paste",
+        "Manganese dioxide": "Contains MnO2 and carbon mixture",
+        "Brass cap": "Positive terminal",
+        "Plaster of Paris": "Part of electrolyte",
+        "Muslin bag": "Mixed with NH4Cl"
+      },
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mtf013",
+      "column_a": ["Electric bell", "Crane", "Bullet train", "Hospital", "Audio tape"],
+      "column_b": ["Uses electromagnet for levitation", "Electromagnet lifts scrap iron", "Remove steel splinters from wounds", "Uses electromagnet to ring", "Recording using electromagnet"],
+      "correct_matches": {
+        "Electric bell": "Uses electromagnet to ring",
+        "Crane": "Electromagnet lifts scrap iron",
+        "Bullet train": "Uses electromagnet for levitation",
+        "Hospital": "Remove steel splinters from wounds",
+        "Audio tape": "Recording using electromagnet"
+      },
+      "source_section": "Introduction to Electricity"
+    },
+    {
+      "id": "mtf014",
+      "column_a": ["Wet hands", "Rubber mat", "ISI mark", "Naked wire", "Main switch"],
+      "column_b": ["Should be turned off during fire", "Must be covered with tape", "Good conductor - causes shock", "Insulator for safety", "Indicates safe electrical appliance"],
+      "correct_matches": {
+        "Wet hands": "Good conductor - causes shock",
+        "Rubber mat": "Insulator for safety",
+        "ISI mark": "Indicates safe electrical appliance",
+        "Naked wire": "Must be covered with tape",
+        "Main switch": "Should be turned off during fire"
+      },
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "mtf015",
+      "column_a": ["Cotton", "Iron", "Pure water", "Tap water", "Air"],
+      "column_b": ["Good conductor (has ions)", "Conductor (metal)", "Insulator (in open circuit)", "Insulator (no ions)", "Insulator (fabric)"],
+      "correct_matches": {
+        "Cotton": "Insulator (fabric)",
+        "Iron": "Conductor (metal)",
+        "Pure water": "Insulator (no ions)",
+        "Tap water": "Good conductor (has ions)",
+        "Air": "Insulator (in open circuit)"
+      },
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "mtf016",
+      "column_a": ["Calculator", "Streetlight", "Satellite", "Watch", "Lighthouse"],
+      "column_b": ["Uses solar cells", "Uses solar panel in space", "Powered by solar energy", "Solar powered timing", "Uses solar cell for light"],
+      "correct_matches": {
+        "Calculator": "Uses solar cells",
+        "Streetlight": "Uses solar cell for light",
+        "Satellite": "Uses solar panel in space",
+        "Watch": "Solar powered timing",
+        "Lighthouse": "Powered by solar energy"
+      },
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "mtf017",
+      "column_a": ["Edison accumulator", "Lead accumulator", "Nickel-iron accumulator", "Daniel cell", "Voltaic cell"],
+      "column_b": ["Primary cell invented by Volta", "Secondary cell type", "Another secondary cell", "Primary cell example", "Secondary cell example"],
+      "correct_matches": {
+        "Edison accumulator": "Secondary cell example",
+        "Lead accumulator": "Secondary cell type",
+        "Nickel-iron accumulator": "Another secondary cell",
+        "Daniel cell": "Primary cell example",
+        "Voltaic cell": "Primary cell invented by Volta"
+      },
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "mtf018",
+      "column_a": ["Positive terminal", "Negative terminal", "Chemical energy", "Electrical energy", "Potential difference"],
+      "column_b": ["Drives current flow", "Output of a cell", "Input energy in cell", "Metal case at bottom", "Brass cap at top"],
+      "correct_matches": {
+        "Positive terminal": "Brass cap at top",
+        "Negative terminal": "Metal case at bottom",
+        "Chemical energy": "Input energy in cell",
+        "Electrical energy": "Output of a cell",
+        "Potential difference": "Drives current flow"
+      },
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "mtf019",
+      "column_a": ["I = Q/t", "1V = 1J/1C", "Ampere", "Coulomb", "Joule"],
+      "column_b": ["Unit of work done", "Current formula", "Unit of charge", "Potential difference formula", "Unit of current"],
+      "correct_matches": {
+        "I = Q/t": "Current formula",
+        "1V = 1J/1C": "Potential difference formula",
+        "Ampere": "Unit of current",
+        "Coulomb": "Unit of charge",
+        "Joule": "Unit of work done"
+      },
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "mtf020",
+      "column_a": ["Power station", "Transformer", "Underground cables", "Overhead wires", "Home wiring"],
+      "column_b": ["Connected in parallel", "Carry electricity underground", "Where electricity is generated", "Steps up or down voltage", "Carry electricity above ground"],
+      "correct_matches": {
+        "Power station": "Where electricity is generated",
+        "Transformer": "Steps up or down voltage",
+        "Underground cables": "Carry electricity underground",
+        "Overhead wires": "Carry electricity above ground",
+        "Home wiring": "Connected in parallel"
+      },
+      "source_section": "Mains"
+    }
+  ],
+  "total_count": 20,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

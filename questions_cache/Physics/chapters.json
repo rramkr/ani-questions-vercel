@@ -1,0 +1,15 @@
+{
+  "subject": "physics",
+  "chapters": [
+    {
+      "name": "Electricity",
+      "slug": "electricity",
+      "has_questions": true
+    },
+    {
+      "name": "Electromagnetism",
+      "slug": "electromagnetism",
+      "has_questions": true
+    }
+  ]
+}

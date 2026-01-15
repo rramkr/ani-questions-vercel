@@ -1,0 +1,569 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "fib001",
+      "question": "The SI unit of electric current is the _____.",
+      "answer": "ampere",
+      "explanation": "The text states: 'The SI Unit of electric current is the ampere.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib002",
+      "question": "The SI unit of electric charge is _____.",
+      "answer": "Coulomb",
+      "explanation": "The text states: 'The SI unit of charge (Q) is Coulomb (C).'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib003",
+      "question": "The SI unit of potential difference is _____.",
+      "answer": "Volt",
+      "explanation": "The text states: 'The S.I unit of potential difference is Volt (V).'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "fib004",
+      "question": "Electric current is the flow of _____.",
+      "answer": "charges (or electrons)",
+      "explanation": "The text states: 'The flow of charges from a region of excess electrons to the region deficit in electrons constitutes electric current.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib005",
+      "question": "Protons are _____ charged.",
+      "answer": "positively",
+      "explanation": "The text states: 'Protons are positively charged'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib006",
+      "question": "Electrons are _____ charged.",
+      "answer": "negatively",
+      "explanation": "The text states: 'electrons are negatively charged'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib007",
+      "question": "Neutrons do not have any charge, they are _____.",
+      "answer": "neutral",
+      "explanation": "The text states: 'neutrons do not have any charge, that is, they are neutral.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib008",
+      "question": "The centre of an atom is called the _____.",
+      "answer": "nucleus",
+      "explanation": "The text states: 'The centre of the atom is called the nucleus.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib009",
+      "question": "Electrons revolve around the nucleus in paths called _____.",
+      "answer": "orbits",
+      "explanation": "The text states: 'Electrons revolve around the nucleus in paths called orbits.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib010",
+      "question": "The mathematical relation between current (I) and charge (Q) is I = _____.",
+      "answer": "Q/t",
+      "explanation": "The text states: 'Mathematical relation between electric current (I) and electric charge (Q) is represented as: I = Q/t.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib011",
+      "question": "1 Volt = 1 Joule / 1 _____.",
+      "answer": "Coulomb",
+      "explanation": "The text states: '1 Volt = 1 Joule/ 1 Coulomb.'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "fib012",
+      "question": "The direction of _____ current is opposite to the direction of flow of electrons.",
+      "answer": "conventional",
+      "explanation": "The text states: 'the direction of the conventional current is taken to be opposite to the direction of flow of electrons.'",
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "fib013",
+      "question": "A combination of two or more cells is called a _____.",
+      "answer": "battery",
+      "explanation": "The text states: 'A number of primary cells connected in series forms a battery.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "fib014",
+      "question": "The dry cell was developed in 1887 by _____ of Japan.",
+      "answer": "Yai Sakizo",
+      "explanation": "The text states: 'It was developed in 1887 by Yai Sakizo of Japan.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "fib015",
+      "question": "The positive electrode is called the _____.",
+      "answer": "anode",
+      "explanation": "The text states: 'The positive electrode is called the anode'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "fib016",
+      "question": "The negative electrode is called the _____.",
+      "answer": "cathode",
+      "explanation": "The text states: 'the negative electrode is called the cathode.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "fib017",
+      "question": "In a dry cell, the _____ container acts as the negative electrode.",
+      "answer": "zinc",
+      "explanation": "The text states: 'A dry cell essentially consists of a zinc container, acting as the negative electrode.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "fib018",
+      "question": "In a dry cell, the _____ rod acts as the positive electrode.",
+      "answer": "carbon",
+      "explanation": "The text states: 'A carbon rod with a brass cap is placed at the centre. This acts as a positive electrode'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "fib019",
+      "question": "The electrolyte in a dry cell is a moist paste of ammonium chloride and _____.",
+      "answer": "plaster of Paris",
+      "explanation": "The text states: 'The electrolyte is a moist paste of ammonium chloride (NH4Cl) and plaster of Paris.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "fib020",
+      "question": "A primary cell _____ be recharged.",
+      "answer": "cannot",
+      "explanation": "The text states: 'It cannot be recharged after use.'",
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "fib021",
+      "question": "Secondary cells are also called storage cells or _____.",
+      "answer": "accumulators",
+      "explanation": "The text states: 'Secondary cells are also called storage cells or accumulators.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "fib022",
+      "question": "An electric _____ converts mechanical energy into electrical energy.",
+      "answer": "generator (or dynamo)",
+      "explanation": "The text states: 'An electric generator or dynamo is a device that converts mechanical energy into electrical energy.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "fib023",
+      "question": "In hydroelectric power stations, turbines are rotated by flowing _____.",
+      "answer": "water",
+      "explanation": "The text states: 'In hydroelectric power stations, turbines are rotated by flowing water.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "fib024",
+      "question": "A thermal power plant uses energy from _____ fuels.",
+      "answer": "fossil",
+      "explanation": "The text states: 'A thermal power plant uses energy produced from fossil fuels'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "fib025",
+      "question": "A nuclear power plant uses _____ energy to generate electric current.",
+      "answer": "nuclear",
+      "explanation": "The text states: 'An atomic or nuclear power plant uses nuclear energy to generate electric current.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "fib026",
+      "question": "A _____ cell converts solar energy into electrical energy.",
+      "answer": "solar",
+      "explanation": "The text states: 'The device used to convert solar energy into electrical energy is called the solar cell.'",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "fib027",
+      "question": "A large number of solar cells connected together form a solar _____.",
+      "answer": "panel",
+      "explanation": "The text states: 'A solar panel is formed by a large number of solar cells connected together.'",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "fib028",
+      "question": "The blades of a _____ are rotated by wind to generate electricity.",
+      "answer": "windmill",
+      "explanation": "The text states: 'The energy of the wind is used to rotate the blades of a windmill, which in turn, generates electricity.'",
+      "source_section": "Electricity from Wind"
+    },
+    {
+      "id": "fib029",
+      "question": "An electric circuit is a _____ path in which electric current flows.",
+      "answer": "closed",
+      "explanation": "The text states: 'An electric circuit is defined as a closed path in which electric current flows.'",
+      "source_section": "Simple Electric Circuits"
+    },
+    {
+      "id": "fib030",
+      "question": "A circuit is said to be _____ when the switch is on and current flows through it.",
+      "answer": "closed (or complete)",
+      "explanation": "The text states: 'A circuit is said to be closed or complete when electric current flows through it. This condition is obtained when the switch is on.'",
+      "source_section": "Closed and Open Circuits"
+    },
+    {
+      "id": "fib031",
+      "question": "A circuit is said to be _____ when no electric current flows through it.",
+      "answer": "open",
+      "explanation": "The text states: 'A circuit is said to be open when no electric current flows through it.'",
+      "source_section": "Closed and Open Circuits"
+    },
+    {
+      "id": "fib032",
+      "question": "In household wiring, all appliances are connected in _____.",
+      "answer": "parallel",
+      "explanation": "The text states: 'in household wiring system, all the appliances are connected in parallel'",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "fib033",
+      "question": "The component that opposes the flow of current is called a _____.",
+      "answer": "resistor",
+      "explanation": "The text states: 'A resistor which opposes the flow of current in the circuit.'",
+      "source_section": "Resistors"
+    },
+    {
+      "id": "fib034",
+      "question": "The measure of opposition to current flow in a circuit is called _____.",
+      "answer": "resistance",
+      "explanation": "The text states: 'The measure of the opposition to current flow in an electrical circuit is known as resistance.'",
+      "source_section": "Resistors"
+    },
+    {
+      "id": "fib035",
+      "question": "Substances that allow electric current to flow through them are called _____.",
+      "answer": "conductors",
+      "explanation": "The text states: 'Substances which allow electric current to flow through them easily are called conductors.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "fib036",
+      "question": "Substances that do not allow electric current to flow through them are called _____.",
+      "answer": "insulators (or non-conductors)",
+      "explanation": "The text states: 'Substances which do not allow electric current to flow through them are called insulators or non-conductors.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "fib037",
+      "question": "_____ is used in making good quality electric wires.",
+      "answer": "Copper",
+      "explanation": "The text states: 'copper is used in making good quality electric wires'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "fib038",
+      "question": "_____ water is an insulator while impure water is a conductor.",
+      "answer": "Pure (or Distilled)",
+      "explanation": "The text states: 'pure water are insulators' and 'Impure water is also a conductor.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "fib039",
+      "question": "Air is an _____, so if any part of the circuit is broken, no current flows.",
+      "answer": "insulator",
+      "explanation": "The text states: 'Air is an insulator. Therefore, if any part of the circuit is broken, there is no flow of electric current.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "fib040",
+      "question": "Electric wires are always covered with _____ to make them safe.",
+      "answer": "insulators (or plastic)",
+      "explanation": "The text states: 'Electric wires are always covered with insulators, such as plastic, to make them safe.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "fib041",
+      "question": "The unit Volt is named after the Italian Physicist _____.",
+      "answer": "Alessandro Volta",
+      "explanation": "The text states: 'It is named after the Italian Physicist Alessandro Volta.'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "fib042",
+      "question": "An electrochemical cell converts _____ energy into electrical energy.",
+      "answer": "chemical",
+      "explanation": "The text states: 'It converts chemical energy into electrical energy.'",
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "fib043",
+      "question": "The nucleus of an atom consists of protons and _____.",
+      "answer": "neutrons",
+      "explanation": "The text states: 'It consists of protons and neutrons.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib044",
+      "question": "The amount of charge flowing per unit _____ is known as electric current.",
+      "answer": "time",
+      "explanation": "The text states: 'The amount of charge flowing per unit time is known as electric current.'",
+      "source_section": "Electric Current as a Flow of Charges"
+    },
+    {
+      "id": "fib045",
+      "question": "Electric charge is of two types, namely positive and _____.",
+      "answer": "negative",
+      "explanation": "The text states: 'Electric charge is of two types, namely positive and negative'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "fib046",
+      "question": "A high potential region is produced by the _____ of electrons.",
+      "answer": "accumulation",
+      "explanation": "The text states: 'A high potential region is produced by the accumulation of electrons due to larger force of repulsion.'",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "fib047",
+      "question": "By convention, the direction of electric current is from _____ terminal to negative terminal.",
+      "answer": "positive",
+      "explanation": "The text states: 'the direction of flow of electric current is taken to be from the positive terminal of the battery... to the negative terminal.'",
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "fib048",
+      "question": "The carbon rod in a dry cell has a _____ cap on top.",
+      "answer": "brass",
+      "explanation": "The text states: 'A carbon rod with a brass cap is placed at the centre.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "fib049",
+      "question": "The carbon rod in a dry cell is surrounded by a mixture of manganese dioxide and _____.",
+      "answer": "carbon",
+      "explanation": "The text states: 'This acts as a positive electrode and is surrounded by a mixture of manganese dioxide (MnO2) and carbon (C) in a muslin bag.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "fib050",
+      "question": "The outer body of the zinc container in a dry cell is insulated with thick cardboard or _____.",
+      "answer": "plastic",
+      "explanation": "The text states: 'The outer body (except the metal base) of the zinc container is insulated with thick cardboard or plastic.'",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "fib051",
+      "question": "Primary cells connected in _____ form a battery.",
+      "answer": "series",
+      "explanation": "The text states: 'A number of primary cells connected in series forms a battery.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "fib052",
+      "question": "In a battery, the positive terminal of one cell is in contact with the _____ terminal of the next cell.",
+      "answer": "negative",
+      "explanation": "The text states: 'They are connected in such a way that the positive terminal of the preceding cell is in contact with the negative terminal of the following cell.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "fib053",
+      "question": "Lead accumulator is an example of a _____ cell.",
+      "answer": "secondary",
+      "explanation": "The text states: 'Examples of secondary cells are lead accumulator, Edison accumulator and nickel-iron accumulator.'",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "fib054",
+      "question": "Electricity from the mains reaches our homes through transformers and _____ wires.",
+      "answer": "overhead",
+      "explanation": "The text states: 'It is then transferred to houses through various transformers and overhead wires on poles or through underground cables.'",
+      "source_section": "Mains"
+    },
+    {
+      "id": "fib055",
+      "question": "In a generator, a copper wire is rotated in a _____ field to produce electric current.",
+      "answer": "magnetic",
+      "explanation": "The text states: 'In a generator, an electric conductor such as copper wire is rotated in a magnetic field to produce an electric current.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "fib056",
+      "question": "Small generators used at homes for backup during power cuts use fuels such as diesel or _____.",
+      "answer": "kerosene",
+      "explanation": "The text states: 'Small generators such as those used at homes for back-up during power cuts use fuels such as diesel or kerosene to run the turbine.'",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "fib057",
+      "question": "Solar cells are used to power electronic calculators, watches, streetlights and _____.",
+      "answer": "lighthouses",
+      "explanation": "The text states: 'Solar cells are used to power electronic calculators, watches, streetlights and lighthouses.'",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "fib058",
+      "question": "Solar panels are used in artificial satellites and _____ stations.",
+      "answer": "space",
+      "explanation": "The text states: 'Solar panels are used in artificial satellites and space stations.'",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "fib059",
+      "question": "The more the speed of the wind, the more will be the _____ generated.",
+      "answer": "electricity",
+      "explanation": "The text states: 'The more the speed of the wind, the more will be its energy and thus more electricity is generated.'",
+      "source_section": "Electricity from Wind"
+    },
+    {
+      "id": "fib060",
+      "question": "An electric switch helps in making and _____ of the circuit.",
+      "answer": "breaking",
+      "explanation": "The text states: 'An electric switch to turn on or off the electric device' and 'Helps in making and breaking of the circuit'.",
+      "source_section": "Components of an Electric Circuit and Their Functions"
+    },
+    {
+      "id": "fib061",
+      "question": "A plug key helps in keeping a circuit open or closed for _____ duration.",
+      "answer": "longer",
+      "explanation": "The text states: 'A plug key which helps in keeping a circuit open or closed for longer duration.'",
+      "source_section": "Components of an Electric Circuit and Their Functions"
+    },
+    {
+      "id": "fib062",
+      "question": "The arrow marked in a circuit diagram shows the direction of _____ current.",
+      "answer": "conventional",
+      "explanation": "The text states: 'The arrow marked in a circuit diagram shows the direction of conventional current.'",
+      "source_section": "Circuit Diagram"
+    },
+    {
+      "id": "fib063",
+      "question": "In a series circuit, there is a _____ of voltage among appliances.",
+      "answer": "sharing",
+      "explanation": "The text states: 'Series circuit: There is a sharing of voltage (potential difference).'",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "fib064",
+      "question": "In a parallel circuit, each appliance gets the _____ voltage.",
+      "answer": "original",
+      "explanation": "The text states: 'Parallel circuit: Each appliance gets the original voltage.'",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "fib065",
+      "question": "In a series circuit, all appliances work _____.",
+      "answer": "simultaneously",
+      "explanation": "The text states: 'Series circuit: All appliances work simultaneously.'",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "fib066",
+      "question": "In a parallel circuit, all appliances work _____.",
+      "answer": "independently",
+      "explanation": "The text states: 'Parallel circuit: All appliances work independently.'",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "fib067",
+      "question": "Household appliances are connected in parallel with separate _____ so they can be operated independently.",
+      "answer": "switches",
+      "explanation": "The text states: 'in household wiring system, all the appliances are connected in parallel with separate switches. Thus, they can be operated independently.'",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "fib068",
+      "question": "_____ are devices having resistance to the passage of an electric current.",
+      "answer": "Resistors",
+      "explanation": "The text states: 'Resistors are devices or electrical components having resistance to the passage of an electric current.'",
+      "source_section": "Resistors"
+    },
+    {
+      "id": "fib069",
+      "question": "All _____ such as copper, silver, nickel, aluminium, iron and steel are conductors.",
+      "answer": "metals",
+      "explanation": "The text states: 'All metals such as copper, silver, nickel, aluminium, iron and steel are conductors.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "fib070",
+      "question": "Cotton, rubber, paper, glass, ceramics, plastic, wood and _____ water are insulators.",
+      "answer": "pure",
+      "explanation": "The text states: 'Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "fib071",
+      "question": "The human body allows current to pass through it, but it is not as good a conductor as _____.",
+      "answer": "metals",
+      "explanation": "The text states: 'The human body also allows current to pass through it, but it is not as good a conductor as metals.'",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "fib072",
+      "question": "In fact, 90% of outside power lines are _____ wires and uninsulated.",
+      "answer": "bare",
+      "explanation": "The text states: 'In fact, 90% of outside power lines are bare wires and uninsulated.'",
+      "source_section": "Myth vs Fact"
+    },
+    {
+      "id": "fib073",
+      "question": "Power lines may have _____ coating, but it provides no insulation or protection from electric shock.",
+      "answer": "weather",
+      "explanation": "The text states: 'They may have weather coating, but it provides no insulation or protection from electric shock.'",
+      "source_section": "Myth vs Fact"
+    },
+    {
+      "id": "fib074",
+      "question": "While doing electrical work, stand on an insulator such as a rubber mat or a _____ board.",
+      "answer": "wooden",
+      "explanation": "The text states: 'Stand on an insulator such as a rubber mat or a wooden board when doing electrical work.'",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "fib075",
+      "question": "Put off the main switch immediately in case of _____ circuit and fire.",
+      "answer": "short",
+      "explanation": "The text states: 'Put off the main switch immediately in case of short circuit and fire.'",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "fib076",
+      "question": "Use only _____ marked wires for electrical connections.",
+      "answer": "ISI",
+      "explanation": "The text states: 'Use only ISI marked wires.'",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "fib077",
+      "question": "Cover all naked wires with _____ tape.",
+      "answer": "insulating",
+      "explanation": "The text states: 'Cover all naked wires with insulating tape.'",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "fib078",
+      "question": "A _____ is a safety device that melts and breaks the electric circuit when current exceeds permissible value.",
+      "answer": "fuse",
+      "explanation": "The text states: 'A fuse is a safety device containing a wire that melts and breaks the electric circuit when the current exceeds permissible value.'",
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "fib079",
+      "question": "MCB stands for Miniature Circuit _____.",
+      "answer": "Breaker",
+      "explanation": "The text states: 'Miniature Circuit Breakers (MCBs) are commonly used in homes and commercial settings.'",
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "fib080",
+      "question": "Georges Leclanche invented the Leclanche cell in _____.",
+      "answer": "1866",
+      "explanation": "The text states: 'In 1866, he invented the Leclanche cell'",
+      "source_section": "Science and Scientists - Georges Leclanche"
+    }
+  ],
+  "total_count": 80,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

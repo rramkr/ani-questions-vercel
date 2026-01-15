@@ -1,0 +1,249 @@
+{
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "gr001",
+      "statement": "Soft iron is used as the core of an electromagnet instead of steel.",
+      "reason": "Soft iron is used because it easily gets magnetized when current flows and quickly loses its magnetism when current stops. Steel, being a hard material, would retain magnetism even after current is switched off, making it unsuitable for a temporary magnet that needs to be controlled.",
+      "key_points": ["Soft iron easily magnetized", "Quickly loses magnetism", "Steel retains magnetism"],
+      "keywords": ["soft iron", "steel", "magnetized", "temporary magnet"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "gr002",
+      "statement": "An electromagnet is called a temporary magnet.",
+      "reason": "An electromagnet is called a temporary magnet because it retains the property of magnetism only when an electric current is passed through it. As soon as the current is stopped, the soft iron core loses its magnetism immediately.",
+      "key_points": ["Magnetism only with current", "Loses magnetism when current stops"],
+      "keywords": ["temporary magnet", "current", "loses magnetism"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "gr003",
+      "statement": "Insulated copper wire is used in electromagnets instead of bare copper wire.",
+      "reason": "Insulated copper wire is used to prevent short circuits between adjacent turns of the coil. If bare wire is used, the turns would touch each other and current would flow directly without going through all the turns, making the electromagnet ineffective.",
+      "key_points": ["Prevents short circuit", "Ensures current flows through all turns"],
+      "keywords": ["insulated", "copper wire", "short circuit", "turns"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "gr004",
+      "statement": "The hammer in an electric bell keeps striking the gong repeatedly when the push button is pressed.",
+      "reason": "This happens due to the make-and-break mechanism. When current flows, the electromagnet attracts the armature, causing hammer to hit gong and breaking the circuit. When circuit breaks, electromagnet loses magnetism and spring pulls armature back, completing circuit again. This cycle repeats continuously.",
+      "key_points": ["Make-and-break mechanism", "Electromagnet attracts armature", "Spring restores position", "Cycle repeats"],
+      "keywords": ["make-and-break", "electromagnet", "armature", "spring", "circuit"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "gr005",
+      "statement": "Electromagnets are preferred over permanent magnets in cranes for lifting scrap iron.",
+      "reason": "Electromagnets are preferred because their magnetism can be switched on and off. The crane can attract and lift scrap iron when current is on, and release it at the desired location by switching off the current. Permanent magnets cannot release the load easily.",
+      "key_points": ["Can be switched on/off", "Easy to release load", "Controllable"],
+      "keywords": ["crane", "switch", "release", "controllable"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "gr006",
+      "statement": "Increasing the number of turns of the coil increases the strength of an electromagnet.",
+      "reason": "When the number of turns increases, more magnetic field is produced per unit length of the electromagnet. Each turn of wire carrying current contributes to the total magnetic field. Hence, the strength of the electromagnet is directly proportional to the number of turns.",
+      "key_points": ["More turns = more magnetic field", "Each turn contributes", "Directly proportional"],
+      "keywords": ["turns", "magnetic field", "strength", "directly proportional"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "gr007",
+      "statement": "Increasing the current increases the strength of an electromagnet.",
+      "reason": "When current increases, the magnetic field produced by each turn of the coil becomes stronger. Since the magnetic field is directly proportional to the current flowing through the conductor, the overall strength of the electromagnet increases with more current.",
+      "key_points": ["More current = stronger magnetic field", "Directly proportional to current"],
+      "keywords": ["current", "magnetic field", "strength", "directly proportional"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "gr008",
+      "statement": "We cannot have a magnet with a single pole.",
+      "reason": "Every magnet must have two poles - north and south. Even if a magnet appears to have a single pole (like those sold with one pole covered), it still has both poles. One pole may be covered with adhesive or surrounded by a plastic or metal cup, but it exists.",
+      "key_points": ["All magnets have two poles", "Pole may be hidden but exists"],
+      "keywords": ["single pole", "north", "south", "two poles"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "gr009",
+      "statement": "The armature in an electric bell is made of iron.",
+      "reason": "Iron is used for the armature because it is a magnetic material that can be easily attracted by the electromagnet. When the electromagnet is energized, it attracts the iron armature towards itself, causing the hammer to strike the gong.",
+      "key_points": ["Iron is magnetic", "Can be attracted by electromagnet"],
+      "keywords": ["armature", "iron", "magnetic", "attracted"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "gr010",
+      "statement": "An electric bell stops ringing when the push button is released.",
+      "reason": "When the push button is released, the circuit is broken at the switch itself. No current flows to the electromagnet, so it cannot attract the armature. The make-and-break cycle stops and the bell stops ringing.",
+      "key_points": ["Circuit broken at switch", "No current to electromagnet", "Cycle stops"],
+      "keywords": ["push button", "circuit broken", "no current", "stops ringing"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "gr011",
+      "statement": "Permanent magnets are made of hard materials while temporary magnets are made of soft materials.",
+      "reason": "Hard materials can retain magnetism for a long time once magnetized, making them suitable for permanent magnets. Soft materials easily gain magnetism in presence of a magnetic field but quickly lose it when the field is removed, making them suitable for temporary magnets like electromagnets.",
+      "key_points": ["Hard materials retain magnetism", "Soft materials lose magnetism easily"],
+      "keywords": ["hard materials", "soft materials", "retain", "lose magnetism"],
+      "source_section": "Permanent vs Temporary Magnets"
+    },
+    {
+      "id": "gr012",
+      "statement": "Electromagnetic induction requires a change in magnetic field.",
+      "reason": "For electromagnetic induction to occur, there must be a change in the magnetic lines of force associated with the conductor. A constant magnetic field does not induce any current. Only when the magnetic field changes (increases, decreases, or moves), current is induced in the conductor.",
+      "key_points": ["Change in magnetic field required", "Constant field produces no current"],
+      "keywords": ["electromagnetic induction", "change", "magnetic field", "induced current"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "gr013",
+      "statement": "Relative motion between magnet and conductor is essential for electromagnetic induction.",
+      "reason": "Without relative motion, there is no change in magnetic flux through the conductor. The magnetic lines of force cutting the conductor must change for current to be induced. Either the magnet or the conductor must move relative to the other.",
+      "key_points": ["No relative motion means no change in flux", "Either magnet or conductor must move"],
+      "keywords": ["relative motion", "magnetic flux", "conductor", "induction"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "gr014",
+      "statement": "The plastic coating is removed from the ends of copper wire when making an electromagnet.",
+      "reason": "The plastic coating acts as an insulator and prevents electrical contact. Removing it from the ends allows the bare copper to make proper electrical connection with the battery terminals, enabling current to flow through the wire.",
+      "key_points": ["Plastic is insulator", "Removal allows electrical contact", "Current can flow"],
+      "keywords": ["plastic coating", "insulator", "electrical contact", "battery"],
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "gr015",
+      "statement": "Paper clips fall off the electromagnet when the switch is turned off.",
+      "reason": "When the switch is turned off, current stops flowing through the coil. Without current, the soft iron core loses its magnetism immediately because it has low retentivity. The paper clips are no longer attracted and fall off.",
+      "key_points": ["No current means no magnetism", "Soft iron has low retentivity", "Clips no longer attracted"],
+      "keywords": ["switch off", "current stops", "loses magnetism", "paper clips"],
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "gr016",
+      "statement": "A galvanometer is used to detect induced current instead of an ammeter.",
+      "reason": "A galvanometer is more sensitive than an ammeter and can detect very small currents. Induced currents in simple experiments are often small. Additionally, a galvanometer can show the direction of current flow, which is important for understanding electromagnetic induction.",
+      "key_points": ["More sensitive than ammeter", "Detects small currents", "Shows current direction"],
+      "keywords": ["galvanometer", "sensitive", "detect", "current direction"],
+      "source_section": "Physics Extra - Evaluation"
+    },
+    {
+      "id": "gr017",
+      "statement": "U-shaped electromagnets are preferred in electric bells over bar-shaped ones.",
+      "reason": "U-shaped electromagnets have both poles on the same side, creating a concentrated magnetic field. This provides stronger attraction for the armature compared to bar-shaped electromagnets where poles are at opposite ends. The stronger attraction makes the bell mechanism work more effectively.",
+      "key_points": ["Both poles on same side", "Concentrated field", "Stronger armature attraction"],
+      "keywords": ["U-shaped", "concentrated", "poles", "armature", "stronger"],
+      "source_section": "Types of Electromagnets"
+    },
+    {
+      "id": "gr018",
+      "statement": "The components of an electric bell are fitted on a wooden or plastic board.",
+      "reason": "Wood and plastic are insulators. Using an insulating board prevents short circuits and ensures current flows only through the intended circuit path. A metal board could create unwanted electrical connections between components.",
+      "key_points": ["Wood and plastic are insulators", "Prevents short circuits", "Ensures proper current flow"],
+      "keywords": ["insulator", "wooden", "plastic", "short circuit"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "gr019",
+      "statement": "Generators produce alternating current when a coil is rotated continuously.",
+      "reason": "As the coil rotates in the magnetic field, it cuts through magnetic lines of force in alternating directions. When moving one way, current flows in one direction; when moving the opposite way, current reverses. This continuous reversal produces alternating current.",
+      "key_points": ["Coil cuts field in alternating directions", "Current direction reverses", "Continuous reversal = AC"],
+      "keywords": ["generator", "alternating current", "rotation", "reverses"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "gr020",
+      "statement": "Transformers only work with alternating current, not direct current.",
+      "reason": "Transformers use electromagnetic induction, which requires a changing magnetic field. AC continuously changes direction, creating a changing magnetic field in the primary coil. DC is constant, so it creates a constant magnetic field that cannot induce current in the secondary coil.",
+      "key_points": ["Need changing magnetic field", "AC changes direction", "DC is constant"],
+      "keywords": ["transformer", "alternating current", "changing field", "direct current"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "gr021",
+      "statement": "The wire in an electromagnet is wound tightly around the core.",
+      "reason": "Tight winding ensures maximum number of turns per unit length of the core. Since electromagnet strength is directly proportional to turns per unit length, tighter winding produces a stronger electromagnet. It also keeps the coil compact and prevents loose turns.",
+      "key_points": ["Maximum turns per unit length", "Strength proportional to turns", "Keeps coil compact"],
+      "keywords": ["tight winding", "turns per unit length", "stronger"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "gr022",
+      "statement": "Electromagnets can be used to separate iron from non-magnetic waste in recycling.",
+      "reason": "Electromagnets attract only magnetic materials like iron and steel, while non-magnetic materials like plastic, glass, and aluminum remain unaffected. This allows efficient separation of iron from mixed waste, and the electromagnet can be switched off to release the collected iron.",
+      "key_points": ["Attracts only magnetic materials", "Non-magnetic unaffected", "Can release iron by switching off"],
+      "keywords": ["recycling", "magnetic", "separation", "iron", "non-magnetic"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "gr023",
+      "statement": "Copper is used for making electromagnet coils instead of iron wire.",
+      "reason": "Copper is an excellent electrical conductor with very low resistance. It allows current to flow easily through the coil with minimal energy loss. Iron wire has higher resistance, would heat up more, and is magnetic which could interfere with the electromagnet's operation.",
+      "key_points": ["Copper is excellent conductor", "Low resistance", "Minimal energy loss"],
+      "keywords": ["copper", "conductor", "resistance", "coil"],
+      "source_section": "Introduction to Electromagnetism"
+    },
+    {
+      "id": "gr024",
+      "statement": "The strength of an induced current depends on the speed of relative motion.",
+      "reason": "Faster relative motion between magnet and conductor means faster change in magnetic flux through the conductor. Since induced current depends on the rate of change of magnetic flux, faster motion produces stronger induced current.",
+      "key_points": ["Faster motion = faster flux change", "Induced current depends on rate of change", "Faster = stronger current"],
+      "keywords": ["speed", "relative motion", "magnetic flux", "rate of change"],
+      "source_section": "Electromagnetic Induction"
+    },
+    {
+      "id": "gr025",
+      "statement": "MRI machines use electromagnets instead of permanent magnets.",
+      "reason": "MRI machines require extremely strong and precisely controllable magnetic fields. Electromagnets can produce much stronger fields than permanent magnets and can be adjusted as needed. They can also be turned off for safety during emergencies or maintenance.",
+      "key_points": ["Need very strong fields", "Can be precisely controlled", "Can be turned off for safety"],
+      "keywords": ["MRI", "strong field", "controllable", "safety"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "gr026",
+      "statement": "The contact screw in an electric bell is adjustable.",
+      "reason": "The adjustable screw allows fine-tuning of the gap between the armature and the screw. This controls how easily the circuit completes and breaks, affecting the speed and tone of the bell. It can be adjusted to optimize the bell's performance.",
+      "key_points": ["Controls gap between armature and screw", "Affects bell speed and tone", "Allows optimization"],
+      "keywords": ["contact screw", "adjustable", "gap", "optimization"],
+      "source_section": "The Electric Bell - Application of Electromagnet"
+    },
+    {
+      "id": "gr027",
+      "statement": "Maglev trains can achieve very high speeds.",
+      "reason": "Maglev trains use electromagnets to levitate above the track, eliminating friction between wheels and rails. Without this friction, the only resistance is air resistance. The electromagnetic propulsion is also very efficient, allowing speeds over 600 km/h.",
+      "key_points": ["Levitation eliminates friction", "No wheel-rail contact", "Efficient propulsion"],
+      "keywords": ["maglev", "levitation", "friction", "high speed"],
+      "source_section": "Uses of Electromagnets"
+    },
+    {
+      "id": "gr028",
+      "statement": "Halving the current in an electromagnet halves its strength.",
+      "reason": "The strength of an electromagnet is directly proportional to the current flowing through it. If current is halved, the magnetic field produced by each turn of wire is halved, resulting in half the overall magnetic strength.",
+      "key_points": ["Directly proportional relationship", "Half current = half field", "Linear relationship"],
+      "keywords": ["half", "current", "strength", "directly proportional"],
+      "source_section": "Factors Affecting Strength of Electromagnet"
+    },
+    {
+      "id": "gr029",
+      "statement": "A control experiment is needed when testing the electromagnet activity.",
+      "reason": "Without testing if the nail alone (without current) picks up paper clips, we cannot confirm that the current caused the magnetism. Some iron nails might already be slightly magnetized. A fair test requires comparing results with and without current to prove causation.",
+      "key_points": ["Confirms current causes magnetism", "Nail might be pre-magnetized", "Required for fair test"],
+      "keywords": ["control experiment", "fair test", "comparison", "causation"],
+      "source_section": "Activity: Making an Electromagnet"
+    },
+    {
+      "id": "gr030",
+      "statement": "Reversing the battery connections in an electromagnet reverses its poles.",
+      "reason": "When battery connections are reversed, current flows in the opposite direction through the coil. The pole at each end depends on the direction of current flow (clockwise = south, anticlockwise = north). Reversing current reverses the direction at each end, swapping the poles.",
+      "key_points": ["Current direction reverses", "Pole depends on current direction", "Clockwise/anticlockwise rule"],
+      "keywords": ["reverse", "battery", "poles", "current direction"],
+      "source_section": "Types of Electromagnets"
+    }
+  ],
+  "total_count": 30,
+  "generated_at": "2025-01-15T12:00:00",
+  "subject": "Physics",
+  "chapter": "Electromagnetism"
+}

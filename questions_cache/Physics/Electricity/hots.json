@@ -1,0 +1,234 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "hots001",
+      "question": "Three bulbs X, Y and Z are connected to a cell in series. If the filament of Y is broken, which bulb(s) will glow?",
+      "context": "Understanding series circuit behavior when one component fails.",
+      "answer": "None of the bulbs will glow. In a series circuit, all appliances depend upon each other to complete the circuit. When bulb Y's filament breaks, the circuit becomes incomplete (open), and no current can flow through any of the bulbs. This is why series connections are not used for household wiring.",
+      "key_points": ["None will glow", "Series circuit becomes incomplete", "All appliances depend on each other"],
+      "keywords": ["series circuit", "broken filament", "incomplete circuit"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "hots002",
+      "question": "Three bulbs are connected in a parallel circuit. If one bulb burns out, what will happen to the other two bulbs?",
+      "context": "Understanding parallel circuit behavior when one component fails.",
+      "answer": "The other two bulbs will continue to glow with the same brightness. In a parallel circuit, all appliances work independently. If one appliance gets damaged, the remaining ones continue to work because each has its own separate path for current to flow.",
+      "key_points": ["Other bulbs continue to glow", "Same brightness maintained", "Independent operation"],
+      "keywords": ["parallel circuit", "independent", "same brightness"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "hots003",
+      "question": "A circuit is connected with a cell, bulb, and distilled water placed in between (in the gap). Will the bulb glow? Explain.",
+      "context": "Testing understanding of conductors and insulators.",
+      "answer": "No, the bulb will not glow. Distilled water (pure water) is an insulator and does not conduct electricity. Only impure water, which contains dissolved salts and ions, can conduct electricity. Since no current can flow through the distilled water, the circuit remains incomplete and the bulb does not glow.",
+      "key_points": ["Bulb will not glow", "Pure/distilled water is insulator", "No current flows"],
+      "keywords": ["distilled water", "insulator", "pure water"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "hots004",
+      "question": "Why are the appliances in a household not connected in series?",
+      "context": "Practical application of circuit knowledge.",
+      "answer": "Household appliances are not connected in series because: (1) In series, there is sharing of voltage, so each appliance may not get sufficient power. (2) If one appliance stops working or is switched off, all other appliances also stop working. (3) All appliances would have to be on at the same time. Instead, parallel connection is used so each appliance gets the original voltage and works independently.",
+      "key_points": ["Voltage sharing problem", "One failure affects all", "Cannot operate independently"],
+      "keywords": ["series", "parallel", "household", "independent"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "hots005",
+      "question": "Rajesh made a circuit but the bulb did not glow even though all connections looked correct. What could be the possible reasons?",
+      "context": "Troubleshooting circuit problems.",
+      "answer": "Possible reasons why the bulb does not glow: (1) The circuit may be open at some point - a wire may not be properly connected. (2) The cell/battery may be exhausted (chemicals used up). (3) The bulb may be fused (filament broken). (4) The switch may be in the off position. (5) A loose connection at any point creates an open circuit, and since air is an insulator, no current flows.",
+      "key_points": ["Open circuit", "Dead battery", "Fused bulb", "Switch off", "Loose connection"],
+      "keywords": ["troubleshoot", "circuit not working", "open circuit"],
+      "source_section": "Closed and Open Circuits"
+    },
+    {
+      "id": "hots006",
+      "question": "Why would an electrician stand on a wooden stool while repairing an electrical fault at home?",
+      "context": "Application of safety knowledge.",
+      "answer": "An electrician stands on a wooden stool because wood is an insulator. If the electrician accidentally touches a live wire, the current cannot pass through the wooden stool to reach the ground, thus preventing electric shock. The text recommends standing on an insulator such as a rubber mat or a wooden board when doing electrical work.",
+      "key_points": ["Wood is insulator", "Prevents electric shock", "Current cannot pass to ground"],
+      "keywords": ["insulator", "wooden stool", "safety", "electric shock"],
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "hots007",
+      "question": "A torch cell works by creating a potential difference. Explain what happens when the cell is exhausted.",
+      "context": "Understanding cell operation and failure.",
+      "answer": "When a cell is connected in a circuit, a chemical reaction takes place inside between the electrolyte and electrodes, creating a potential difference that causes current to flow. When the cell is exhausted, the chemicals inside are used up. Without the chemical reaction, no potential difference is produced. Since current flows only when there is a potential difference, no current flows and the bulb does not glow. The cell has to be discarded.",
+      "key_points": ["Chemicals used up", "No chemical reaction", "No potential difference", "No current flows"],
+      "keywords": ["exhausted cell", "chemical reaction", "potential difference"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "hots008",
+      "question": "In a parallel circuit with two bulbs X and Y having separate switches, what happens if switch for bulb X is closed and switch for bulb Y is open?",
+      "context": "Understanding independent operation in parallel circuits.",
+      "answer": "Only bulb X will glow. In a parallel circuit, each appliance can be operated independently with its own switch. When switch X is closed, current flows through bulb X and it glows. When switch Y is open, that branch of the circuit is incomplete, so no current flows through bulb Y and it does not glow. This is exactly why household appliances are connected in parallel.",
+      "key_points": ["Only X glows", "Independent operation", "Each has own switch"],
+      "keywords": ["parallel", "independent", "switch"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "hots009",
+      "question": "Why is it dangerous to touch outside power lines even if they appear to have coating on them?",
+      "context": "Application of Myth vs Fact knowledge.",
+      "answer": "It is dangerous because 90% of outside power lines are bare wires and uninsulated. Even if they appear to have coating, it is usually just weather coating that provides no insulation or protection from electric shock. Even truly insulated lines could be unprotected after being exposed to years of weather. So no power line is completely safe to touch or approach too closely, ever.",
+      "key_points": ["90% are bare wires", "Weather coating is not insulation", "Weather damage removes protection"],
+      "keywords": ["power lines", "bare wires", "uninsulated", "dangerous"],
+      "source_section": "Myth vs Fact"
+    },
+    {
+      "id": "hots010",
+      "question": "Why do vehicles like cars and trucks use batteries instead of single cells?",
+      "context": "Understanding battery formation and capacity.",
+      "answer": "Vehicles use batteries because a single cell gives only a small amount of electricity. Vehicles need more electrical energy to operate their systems. A battery is formed by connecting multiple cells in series, where the positive terminal of one cell is connected to the negative terminal of the next. This increases the amount of electrical energy available, providing sufficient power for the vehicle.",
+      "key_points": ["Single cell gives small amount", "Vehicles need more energy", "Battery = multiple cells in series", "Increased electrical energy"],
+      "keywords": ["battery", "cells in series", "more electrical energy"],
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "hots011",
+      "question": "Why do we need to look for ISI mark before buying electrical appliances?",
+      "context": "Understanding electrical safety standards.",
+      "answer": "The ISI mark indicates that an electrical appliance has been tested and certified to meet safety standards set by the Indian Standards Institute. Appliances without ISI marking may have poor quality insulation, incorrect wire sizing, or other safety issues that could lead to electric shock, short circuits, or fire. Looking for ISI mark ensures the appliance is safe to use.",
+      "key_points": ["ISI = tested and certified", "Meets safety standards", "Poor quality = danger"],
+      "keywords": ["ISI mark", "safety", "certified"],
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "hots012",
+      "question": "Why does a rechargeable cell cost more than a non-rechargeable cell, even though both provide similar voltage?",
+      "context": "Understanding primary vs secondary cells.",
+      "answer": "A rechargeable cell (secondary cell) costs more because it contains special materials that allow the chemical reaction inside to be reversible. This allows it to be recharged and reused many times. A non-rechargeable cell (primary cell) has an irreversible chemical reaction, so once the chemicals are used up, it must be discarded. Though the initial cost is higher, a rechargeable cell is more economical in the long run.",
+      "key_points": ["Reversible reaction needs special materials", "Can be reused many times", "More economical long-term"],
+      "keywords": ["rechargeable", "secondary cell", "reversible reaction"],
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "hots013",
+      "question": "A solar calculator works indoors under artificial light. Explain how this is possible if solar cells need sunlight.",
+      "context": "Understanding solar cell operation.",
+      "answer": "Solar cells convert light energy (not just sunlight) into electrical energy. They can work with any source of light, including artificial light from bulbs or tube lights. The intensity of light affects how much electricity is generated - brighter light produces more electricity. For a calculator, which needs very little power, even indoor artificial light provides sufficient energy for the solar cells to operate it.",
+      "key_points": ["Solar cells work with any light", "Not just sunlight", "Calculator needs little power"],
+      "keywords": ["solar cells", "artificial light", "light energy"],
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "hots014",
+      "question": "Why is it safer to have MCB in homes compared to traditional fuse? Give two reasons.",
+      "context": "Comparing safety features of MCB and fuse.",
+      "answer": "MCB is safer because: (1) MCB is more sensitive to current than a fuse - it can detect even a slight fluctuation in voltage and interrupt the circuit current fast, providing quicker protection. (2) MCB can be easily reset after tripping, while a fuse needs to be replaced. This means in an emergency, MCB can be restored quickly, and there's no risk of using wrong-rated fuse wire during replacement.",
+      "key_points": ["More sensitive - faster response", "Easy reset - no replacement needed", "No wrong rating risk"],
+      "keywords": ["MCB", "fuse", "sensitive", "reset"],
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "hots015",
+      "question": "If the same current flows through all parts of a series circuit, why do some bulbs glow brighter than others?",
+      "context": "Understanding energy conversion in circuits.",
+      "answer": "Even though the same current flows through all components in a series circuit, bulbs can glow with different brightness due to different resistance values. A bulb with higher resistance converts more electrical energy into light and heat energy, making it glow brighter. Also, different bulbs are designed for different wattages - a 100W bulb will glow brighter than a 40W bulb even with the same current.",
+      "key_points": ["Same current but different resistance", "Higher resistance = more energy conversion", "Different wattage design"],
+      "keywords": ["resistance", "brightness", "energy conversion"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "hots016",
+      "question": "Why are overhead electrical transmission lines not insulated while household wires are always insulated?",
+      "context": "Understanding practical electrical engineering decisions.",
+      "answer": "Overhead transmission lines are not insulated because: (1) The cost of insulating thousands of kilometers of high-voltage lines would be enormous. (2) Air itself acts as an insulator - the lines are placed high enough that accidental contact is unlikely. (3) The weight of insulation would require stronger, more expensive support towers. Household wires are insulated because they are within reach and frequently touched, making safety essential. This is also why 90% of power lines are bare wires.",
+      "key_points": ["Cost of insulation is huge", "Air acts as insulator", "Height prevents contact", "Household wires need safety"],
+      "keywords": ["transmission lines", "insulation", "overhead wires"],
+      "source_section": "Mains"
+    },
+    {
+      "id": "hots017",
+      "question": "Why does a dry cell stop working after some time even if it is not used?",
+      "context": "Understanding cell chemistry and shelf life.",
+      "answer": "A dry cell can stop working even without use because: (1) Slow chemical reactions continue inside the cell even when not in use, gradually consuming the chemicals. (2) The electrolyte (moist paste of ammonium chloride and plaster of Paris) can dry out over time, reducing the cell's ability to conduct ions. (3) Internal corrosion of the zinc container can occur. This is why cells have an expiry date, and old unused cells may not work.",
+      "key_points": ["Slow internal reactions", "Electrolyte dries out", "Zinc corrosion", "Cells have expiry date"],
+      "keywords": ["dry cell", "shelf life", "chemical reaction", "expiry"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "hots018",
+      "question": "In a hydroelectric power station, no fuel is burned. Where does the energy come from to produce electricity?",
+      "context": "Understanding energy conversion in power generation.",
+      "answer": "In a hydroelectric power station, the energy comes from flowing water. Water stored in a dam at height has potential energy. When this water is released and flows downward through pipes to the turbines, the potential energy converts to kinetic energy. This kinetic energy rotates the turbines, which are connected to generators. The generators convert this mechanical energy into electrical energy. The ultimate source is the water cycle powered by solar energy.",
+      "key_points": ["Potential energy of stored water", "Converts to kinetic energy", "Rotates turbines", "Mechanical to electrical conversion"],
+      "keywords": ["hydroelectric", "potential energy", "kinetic energy", "turbines"],
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "hots019",
+      "question": "Why can birds sit on power lines without getting electrocuted?",
+      "context": "Understanding electrical concepts and safety.",
+      "answer": "Birds can sit on power lines without getting electrocuted because: (1) They touch only one wire, so there is no potential difference across their body. (2) For current to flow, there must be a complete circuit - the bird would need to touch two wires at different potentials or touch a wire and the ground simultaneously. (3) The bird's body has higher resistance than the wire, so even if there was a path, minimal current would flow through them. However, if a bird touches two wires or a wire and a grounded pole, it would be electrocuted.",
+      "key_points": ["Only touching one wire", "No potential difference across body", "No complete circuit", "Would need to touch two points"],
+      "keywords": ["birds", "power lines", "potential difference", "circuit"],
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "hots020",
+      "question": "Why do we use thick copper wires for main power supply to homes but thin wires for connecting small appliances?",
+      "context": "Understanding wire selection based on current capacity.",
+      "answer": "The thickness of wire depends on the current it needs to carry. Main power lines carry current for all appliances in a home, so they need thick wires to handle high current without overheating. Thin wires would have high resistance, causing them to heat up and potentially melt. Small appliances draw less current, so thin wires are sufficient. Copper is used because it's an excellent conductor. Using unnecessarily thick wires would be wasteful and expensive.",
+      "key_points": ["Thick wires for high current", "Thin wires overheat with high current", "Small appliances need less current", "Cost efficiency"],
+      "keywords": ["wire thickness", "current capacity", "copper", "resistance"],
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "hots021",
+      "question": "A student connected a cell to a circuit but connected the positive terminal where negative should go and vice versa. What will happen?",
+      "context": "Understanding polarity in circuits.",
+      "answer": "If the cell is reversed, the current will flow in the opposite direction through the circuit. For a simple bulb circuit, the bulb will still glow because it doesn't matter which direction current flows through a bulb. However, for some devices like LEDs or certain electronic components, reversing polarity can damage them or prevent them from working. The conventional current direction will now be opposite to what was originally intended.",
+      "key_points": ["Current flows in opposite direction", "Bulb still glows", "Some components may be damaged", "LEDs are direction-sensitive"],
+      "keywords": ["polarity", "reversed connection", "current direction"],
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "hots022",
+      "question": "Why is it important that the brass cap on a dry cell doesn't touch the zinc container?",
+      "context": "Understanding dry cell construction.",
+      "answer": "The brass cap (positive terminal/anode) must not touch the zinc container (negative terminal/cathode) because: (1) This would create a short circuit inside the cell. (2) In a short circuit, the chemical reaction would occur rapidly, wasting the chemicals without doing useful work. (3) The cell would discharge quickly and become useless. The insulating material between them ensures current only flows through the external circuit when connected.",
+      "key_points": ["Would create short circuit", "Rapid chemical reaction", "Wastes chemicals", "Cell discharges without doing work"],
+      "keywords": ["brass cap", "zinc container", "short circuit", "insulation"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "hots023",
+      "question": "Why are electrical appliances in a factory sometimes connected in series while household appliances are always in parallel?",
+      "context": "Understanding different circuit applications.",
+      "answer": "In factories, some specific applications use series circuits: (1) When the same current must flow through all components (like in certain control systems). (2) When you want all devices to start/stop together for safety. (3) Decorative lights are sometimes in series for simplicity. However, household appliances need parallel because: (1) Each appliance needs original voltage to work properly. (2) Each must work independently. (3) One faulty appliance shouldn't stop all others. Most factory machinery also uses parallel for these reasons.",
+      "key_points": ["Factory: same current needed, synchronization", "Home: independent operation, original voltage", "Safety considerations differ"],
+      "keywords": ["factory", "household", "series", "parallel", "applications"],
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "hots024",
+      "question": "If manganese dioxide is removed from a dry cell, will it still work? Explain.",
+      "context": "Understanding dry cell components.",
+      "answer": "Without manganese dioxide, the dry cell would work initially but would stop quickly. Manganese dioxide acts as a depolarizer - it removes hydrogen gas that builds up around the carbon rod during the chemical reaction. This hydrogen gas would otherwise coat the carbon rod and block the reaction (polarization). Without MnO2 to remove this gas, the cell would polarize quickly and stop producing current effectively.",
+      "key_points": ["Would work initially", "Stops quickly", "MnO2 is depolarizer", "Removes hydrogen buildup"],
+      "keywords": ["manganese dioxide", "depolarizer", "hydrogen", "polarization"],
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "hots025",
+      "question": "Why do solar-powered streetlights continue to work even during cloudy days?",
+      "context": "Understanding solar panel systems.",
+      "answer": "Solar-powered streetlights can work during cloudy days because: (1) They have rechargeable batteries (secondary cells) that store electricity generated during sunny periods. (2) During cloudy days, the stored energy in batteries powers the lights. (3) Even on cloudy days, some sunlight reaches the solar panels, providing some charging. (4) The batteries are designed to store enough energy for several cloudy days. This demonstrates the advantage of combining solar panels with rechargeable batteries.",
+      "key_points": ["Batteries store energy", "Uses stored energy on cloudy days", "Some charging even on cloudy days", "Designed for backup"],
+      "keywords": ["solar", "streetlights", "batteries", "storage", "cloudy"],
+      "source_section": "Solar Cells"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

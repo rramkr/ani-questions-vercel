@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anirudh Sample Questions App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1 id="app-title">Anirudh Sample Questions</h1>
+                <nav class="breadcrumb" id="breadcrumb"></nav>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <!-- Welcome & Subjects View -->
+            <section id="subjects-view" class="view active">
+                <div class="welcome-banner">
+                    <h1>Welcome Anirudh. All the best!</h1>
+                    <p class="welcome-subtitle">Choose a subject to start practicing</p>
+                </div>
+                <h2>Choose a Subject</h2>
+                <div class="grid" id="subjects-grid"></div>
+            </section>
+
+            <!-- Chapters View -->
+            <section id="chapters-view" class="view">
+                <h2 id="chapters-title">Chapters</h2>
+                <div class="chapters-list" id="chapters-list"></div>
+                <button class="btn btn-back" id="back-to-subjects">Back to Subjects</button>
+            </section>
+
+            <!-- Sections View (Textbook/Exam/Miscellaneous) -->
+            <section id="sections-view" class="view">
+                <h2 id="sections-title">Question Types</h2>
+
+                <div id="sections-container">
+                    <!-- Textbook Questions Section -->
+                    <div class="section-block" id="textbook-section">
+                        <h3 class="section-header">Textbook Questions</h3>
+                        <div class="section-types" id="textbook-types"></div>
+                    </div>
+
+                    <!-- Exam Questions Section -->
+                    <div class="section-block" id="exam-section">
+                        <h3 class="section-header">Exam Questions</h3>
+                        <div class="section-types" id="exam-types"></div>
+                    </div>
+
+                    <!-- Miscellaneous Section -->
+                    <div class="section-block" id="misc-section">
+                        <h3 class="section-header">Miscellaneous</h3>
+                        <div class="section-types" id="misc-types"></div>
+                    </div>
+                </div>
+
+                <button class="btn btn-back" id="back-to-chapters">Back to Chapters</button>
+            </section>
+
+            <!-- Quiz View -->
+            <section id="quiz-view" class="view">
+                <!-- Challenge Banner -->
+                <div class="challenge-banner" id="challenge-banner">
+                    <div class="challenge-icon">🎯</div>
+                    <div class="challenge-text">
+                        <h3>Challenge Time!</h3>
+                        <p>Can you score <strong>10 out of 10</strong>? Let's find out!</p>
+                    </div>
+                </div>
+
+                <div class="quiz-header">
+                    <h2 id="quiz-title">Quiz</h2>
+                    <div class="quiz-stats">
+                        <div class="stat-item" id="score-display" style="display: none;">
+                            <span class="stat-label">Score:</span>
+                            <span class="stat-value" id="current-score">0/10</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Questions:</span>
+                            <span class="stat-value" id="questions-shown">0</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Results Banner (shown after checking answers) -->
+                <div class="results-banner" id="results-banner" style="display: none;">
+                    <div class="results-icon" id="results-icon">🌟</div>
+                    <div class="results-text">
+                        <h3 id="results-title">Great Job!</h3>
+                        <p id="results-message">You scored 8 out of 10!</p>
+                    </div>
+                </div>
+
+                <div id="questions-container" class="questions-container"></div>
+
+                <div class="quiz-actions">
+                    <button class="btn btn-success btn-large" id="try-more-btn" style="display: none;">
+                        🚀 Try More Questions
+                    </button>
+                    <button class="btn btn-primary btn-large" id="check-answers-btn">
+                        ✓ Check My Answers
+                    </button>
+                    <button class="btn btn-back" id="back-to-sections">Back to Question Types</button>
+                </div>
+
+                <!-- Encouragement after results -->
+                <div class="encouragement-banner" id="encouragement-banner" style="display: none;">
+                    <p>💪 Practice makes perfect! Keep trying to improve your score.</p>
+                </div>
+            </section>
+
+            <!-- Loading Overlay -->
+            <div id="loading-overlay" class="loading-overlay">
+                <div class="spinner"></div>
+                <p>Loading...</p>
+            </div>
+
+            <!-- Empty State -->
+            <div id="empty-state" class="empty-state" style="display: none;">
+                <div class="empty-icon">📭</div>
+                <h3>No Content Available</h3>
+                <p id="empty-message">No subjects found. Add lesson files to get started.</p>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

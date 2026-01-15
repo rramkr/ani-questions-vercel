@@ -1,0 +1,359 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ar001",
+      "assertion": "Electric current flows from the positive terminal to the negative terminal of a battery.",
+      "reason": "By convention, the direction of electric current is taken from positive to negative terminal, which is called conventional current.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that by convention, the direction of flow of electric current is taken to be from the positive terminal to the negative terminal, which is called conventional current.",
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "ar002",
+      "assertion": "Copper is used in making electric wires.",
+      "reason": "Copper is a good conductor of electricity.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that copper is a conductor and is used in making good quality electric wires because it allows electric current to flow through it easily.",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "ar003",
+      "assertion": "Electric wires are covered with plastic.",
+      "reason": "Plastic is a good conductor of electricity.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The assertion is true - wires are covered with plastic. But the reason is false - plastic is an INSULATOR, not a conductor. Wires are covered with plastic because it is an insulator that makes them safe.",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "ar004",
+      "assertion": "In a series circuit, if one bulb fuses, all other bulbs stop glowing.",
+      "reason": "In a series circuit, all appliances depend upon each other to complete the circuit.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are from the text. When one bulb fuses, the circuit breaks, and since appliances depend on each other in series, all stop working.",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "ar005",
+      "assertion": "Household appliances are connected in parallel.",
+      "reason": "In parallel connection, all appliances work independently.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that in household wiring system, all appliances are connected in parallel so they can be operated independently.",
+      "source_section": "Series and Parallel Circuits"
+    },
+    {
+      "id": "ar006",
+      "assertion": "A dry cell cannot be recharged.",
+      "reason": "The chemical reaction inside a dry cell (primary cell) is irreversible.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that a dry cell is a primary cell that cannot be recharged because the chemical reaction inside is irreversible.",
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "ar007",
+      "assertion": "We should not touch electrical switches with wet hands.",
+      "reason": "Water and our body are good conductors of electricity.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that we should not touch electrical appliances and switches with wet hands because tap water and our body, being good conductors of electricity, will cause the current to flow through the body.",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "ar008",
+      "assertion": "An MCB is better than a fuse.",
+      "reason": "An MCB can detect even a slight fluctuation in voltage and interrupt the circuit current fast.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that an MCB is more sensitive to current than a fuse as it can detect even a slight fluctuation in voltage and interrupt the circuit current fast.",
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "ar009",
+      "assertion": "Pure water is an insulator.",
+      "reason": "Pure water does not contain any dissolved salts or ions.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that pure water is an insulator. Impure water is a conductor because it contains dissolved salts.",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "ar010",
+      "assertion": "MCBs are less sensitive to current than fuse.",
+      "reason": "Fuse can detect even a slight fluctuation in voltage and breaks the circuit current fast.",
+      "correct_option": "D",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are false. The text states that 'An MCB is MORE sensitive to current than a fuse as the MCB can detect even a slight fluctuation in voltage.' So the assertion has it backwards, and the reason incorrectly attributes this property to fuse instead of MCB.",
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    },
+    {
+      "id": "ar011",
+      "assertion": "A generator converts mechanical energy into electrical energy.",
+      "reason": "In a generator, a copper wire is rotated in a magnetic field.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that a generator or dynamo converts mechanical energy into electrical energy, and this is done by rotating a copper wire in a magnetic field.",
+      "source_section": "Generators or Dynamos"
+    },
+    {
+      "id": "ar012",
+      "assertion": "Solar panels are used in artificial satellites.",
+      "reason": "Solar panels convert solar energy into electrical energy.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that solar panels are used in artificial satellites and space stations. Solar panels convert solar energy into electrical energy, making them ideal for space applications.",
+      "source_section": "Solar Cells"
+    },
+    {
+      "id": "ar013",
+      "assertion": "The dry cell was developed in 1887.",
+      "reason": "Yai Sakizo of Japan invented the dry cell.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that the dry cell was developed in 1887 by Yai Sakizo of Japan.",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "ar014",
+      "assertion": "Air is an insulator.",
+      "reason": "Air does not allow electric current to flow through it.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that air is an insulator. Therefore, if any part of an electric circuit is broken, there is no flow of electric current.",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "ar015",
+      "assertion": "The bulb does not glow in an open circuit.",
+      "reason": "In an open circuit, no electric current flows.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that an open circuit is one in which no electric current flows. Since no current flows, the bulb cannot glow.",
+      "source_section": "Closed and Open Circuits"
+    },
+    {
+      "id": "ar016",
+      "assertion": "A battery provides more electrical energy than a single cell.",
+      "reason": "A battery is a combination of cells connected in series.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that a battery is a number of cells connected in a series, and it is used when more electrical energy is required (like in cars and trucks).",
+      "source_section": "Secondary Cell (Battery)"
+    },
+    {
+      "id": "ar017",
+      "assertion": "The unit of potential difference is named after Alessandro Volta.",
+      "reason": "Alessandro Volta was an Italian Physicist who invented the voltaic cell.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that the SI unit of potential difference (Volt) is named after the Italian Physicist Alessandro Volta.",
+      "source_section": "Potential Difference"
+    },
+    {
+      "id": "ar018",
+      "assertion": "The zinc container in a dry cell acts as the negative electrode.",
+      "reason": "The zinc container is also called the cathode.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that the zinc container acts as the negative electrode (cathode) in a dry cell.",
+      "source_section": "Primary Cell (Simple Dry Cell)"
+    },
+    {
+      "id": "ar019",
+      "assertion": "Secondary cells can be recharged and reused.",
+      "reason": "The chemical reaction inside secondary cells is reversible.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that secondary cells can be recharged and used again because the chemical reaction inside them is reversible.",
+      "source_section": "Electrochemical Cells or Electric Cells"
+    },
+    {
+      "id": "ar020",
+      "assertion": "More wind speed generates more electricity from a windmill.",
+      "reason": "The energy of wind is used to rotate the blades of a windmill.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that the more the speed of the wind, the more will be its energy and thus more electricity is generated by rotating the windmill blades faster.",
+      "source_section": "Electricity from Wind"
+    },
+    {
+      "id": "ar021",
+      "assertion": "Electrons flow from negative terminal to positive terminal.",
+      "reason": "The direction of electron flow is opposite to conventional current.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that electrons flow from negative to positive terminal, which is opposite to the direction of conventional current (positive to negative).",
+      "source_section": "Direction of Flow of Current"
+    },
+    {
+      "id": "ar022",
+      "assertion": "A switch helps in making and breaking of a circuit.",
+      "reason": "When switch is ON, the circuit is closed; when OFF, it is open.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that a switch helps in making and breaking of the circuit. When the switch is ON, current flows (closed circuit), and when OFF, no current flows (open circuit).",
+      "source_section": "Components of an Electric Circuit"
+    },
+    {
+      "id": "ar023",
+      "assertion": "Tap water is a conductor of electricity.",
+      "reason": "Tap water contains dissolved salts that provide ions.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The text states that tap water is a conductor because it contains dissolved salts (impure water is a conductor), while pure water is an insulator.",
+      "source_section": "Conductors and Insulators"
+    },
+    {
+      "id": "ar024",
+      "assertion": "Electricians stand on rubber mats during electrical work.",
+      "reason": "Rubber is a good conductor of electricity.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The assertion is true - electricians stand on rubber mats. But the reason is false - rubber is an INSULATOR, not a conductor. Rubber mats protect them from electric shock because they prevent current from flowing to the ground.",
+      "source_section": "Precautions While Using Electricity"
+    },
+    {
+      "id": "ar025",
+      "assertion": "A fuse wire melts during overcurrent.",
+      "reason": "The fuse wire is made of a material with high melting point.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The assertion is true - fuse wire melts during overcurrent. But the reason is false - fuse wire is made of material with LOW melting point, not high, so that it melts easily when current exceeds the permissible value.",
+      "source_section": "Prepping for PISA - Fuse vs MCB"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2025-01-15T14:00:00",
+  "subject": "Physics",
+  "chapter": "Electricity"
+}

@@ -1,0 +1,10 @@
+{
+  "subjects": [
+    {
+      "name": "Physics",
+      "slug": "physics",
+      "icon": "⚛️",
+      "chapter_count": 2
+    }
+  ]
+}
