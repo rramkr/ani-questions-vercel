@@ -5,560 +5,560 @@
       "id": "tf001",
       "statement": "The SI unit of electric current is the ampere.",
       "answer": true,
-      "explanation": "The text states: 'The SI Unit of electric current is the ampere.'",
+      "explanation": "The SI Unit of electric current is the ampere.",
       "source_section": "Electric Current as a Flow of Charges"
     },
     {
       "id": "tf002",
       "statement": "The SI unit of charge is Volt.",
       "answer": false,
-      "explanation": "The text states: 'The SI unit of charge (Q) is Coulomb (C).' Volt is the unit of potential difference.",
+      "explanation": "The SI unit of charge (Q) is Coulomb (C).' Volt is the unit of potential difference.",
       "source_section": "Electric Current as a Flow of Charges"
     },
     {
       "id": "tf003",
       "statement": "Protons are negatively charged.",
       "answer": false,
-      "explanation": "The text states: 'Protons are positively charged'. Electrons are negatively charged.",
+      "explanation": "Protons are positively charged'. Electrons are negatively charged.",
       "source_section": "Electric Current as a Flow of Charges"
     },
     {
       "id": "tf004",
       "statement": "Electrons are negatively charged.",
       "answer": true,
-      "explanation": "The text states: 'electrons are negatively charged'",
+      "explanation": "Electrons are negatively charged",
       "source_section": "Electric Current as a Flow of Charges"
     },
     {
       "id": "tf005",
       "statement": "Neutrons are neutral and have no charge.",
       "answer": true,
-      "explanation": "The text states: 'neutrons do not have any charge, that is, they are neutral.'",
+      "explanation": "Neutrons do not have any charge, that is, they are neutral.",
       "source_section": "Electric Current as a Flow of Charges"
     },
     {
       "id": "tf006",
       "statement": "The nucleus of an atom consists of electrons and neutrons.",
       "answer": false,
-      "explanation": "The text states: 'It consists of protons and neutrons.' Electrons revolve around the nucleus.",
+      "explanation": "It consists of protons and neutrons.' Electrons revolve around the nucleus.",
       "source_section": "Electric Current as a Flow of Charges"
     },
     {
       "id": "tf007",
       "statement": "Electrons revolve around the nucleus in paths called orbits.",
       "answer": true,
-      "explanation": "The text states: 'Electrons revolve around the nucleus in paths called orbits.'",
+      "explanation": "Electrons revolve around the nucleus in paths called orbits.",
       "source_section": "Electric Current as a Flow of Charges"
     },
     {
       "id": "tf008",
       "statement": "The direction of conventional current is from negative to positive terminal.",
       "answer": false,
-      "explanation": "The text states: 'the direction of flow of electric current is taken to be from the positive terminal of the battery... to the negative terminal.'",
+      "explanation": "The direction of flow of electric current is taken to be from the positive terminal of the battery... to the negative terminal.",
       "source_section": "Direction of Flow of Current"
     },
     {
       "id": "tf009",
       "statement": "The direction of conventional current is opposite to the direction of flow of electrons.",
       "answer": true,
-      "explanation": "The text states: 'the direction of the conventional current is taken to be opposite to the direction of flow of electrons.'",
+      "explanation": "The direction of the conventional current is taken to be opposite to the direction of flow of electrons.",
       "source_section": "Direction of Flow of Current"
     },
     {
       "id": "tf010",
       "statement": "A dry cell can be recharged after use.",
       "answer": false,
-      "explanation": "The text states: 'The dry cell commonly used in torches is an example of a primary cell. It cannot be recharged after use.'",
+      "explanation": "The dry cell commonly used in torches is an example of a primary cell. It cannot be recharged after use.",
       "source_section": "Electrochemical Cells or Electric Cells"
     },
     {
       "id": "tf011",
       "statement": "Secondary cells can be recharged.",
       "answer": true,
-      "explanation": "The text states: 'Secondary cells are used in automobiles and generators. The chemical reaction on them can be reversed, hence they can be recharged.'",
+      "explanation": "Secondary cells are used in automobiles and generators. The chemical reaction on them can be reversed, hence they can be recharged.",
       "source_section": "Electrochemical Cells or Electric Cells"
     },
     {
       "id": "tf012",
       "statement": "The dry cell was developed in 1887 by Yai Sakizo of Japan.",
       "answer": true,
-      "explanation": "The text states: 'It was developed in 1887 by Yai Sakizo of Japan.'",
+      "explanation": "It was developed in 1887 by Yai Sakizo of Japan.",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
       "id": "tf013",
       "statement": "In a dry cell, the zinc container acts as the positive electrode.",
       "answer": false,
-      "explanation": "The text states: 'A dry cell essentially consists of a zinc container, acting as the negative electrode.'",
+      "explanation": "A dry cell essentially consists of a zinc container, acting as the negative electrode.",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
       "id": "tf014",
       "statement": "In a dry cell, the carbon rod acts as the positive electrode.",
       "answer": true,
-      "explanation": "The text states: 'A carbon rod with a brass cap is placed at the centre. This acts as a positive electrode'",
+      "explanation": "A carbon rod with a brass cap is placed at the centre. This acts as a positive electrode",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
       "id": "tf015",
       "statement": "The positive electrode is called the cathode.",
       "answer": false,
-      "explanation": "The text states: 'The positive electrode is called the anode, while the negative electrode is called the cathode.'",
+      "explanation": "The positive electrode is called the anode, while the negative electrode is called the cathode.",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
       "id": "tf016",
       "statement": "Secondary cells are also called storage cells or accumulators.",
       "answer": true,
-      "explanation": "The text states: 'Secondary cells are also called storage cells or accumulators.'",
+      "explanation": "Secondary cells are also called storage cells or accumulators.",
       "source_section": "Secondary Cell (Battery)"
     },
     {
       "id": "tf017",
       "statement": "A battery is formed by connecting cells in parallel.",
       "answer": false,
-      "explanation": "The text states: 'A number of primary cells connected in series forms a battery.'",
+      "explanation": "A number of primary cells connected in series forms a battery.",
       "source_section": "Secondary Cell (Battery)"
     },
     {
       "id": "tf018",
       "statement": "An electric generator converts mechanical energy into electrical energy.",
       "answer": true,
-      "explanation": "The text states: 'An electric generator or dynamo is a device that converts mechanical energy into electrical energy.'",
+      "explanation": "An electric generator or dynamo is a device that converts mechanical energy into electrical energy.",
       "source_section": "Generators or Dynamos"
     },
     {
       "id": "tf019",
       "statement": "In hydroelectric power stations, turbines are rotated by wind.",
       "answer": false,
-      "explanation": "The text states: 'In hydroelectric power stations, turbines are rotated by flowing water.'",
+      "explanation": "In hydroelectric power stations, turbines are rotated by flowing water.",
       "source_section": "Generators or Dynamos"
     },
     {
       "id": "tf020",
       "statement": "A thermal power plant uses fossil fuels to produce electricity.",
       "answer": true,
-      "explanation": "The text states: 'A thermal power plant uses energy produced from fossil fuels such as coal, diesel or natural gas'",
+      "explanation": "A thermal power plant uses energy produced from fossil fuels such as coal, diesel or natural gas",
       "source_section": "Generators or Dynamos"
     },
     {
       "id": "tf021",
       "statement": "Solar cells convert electrical energy into solar energy.",
       "answer": false,
-      "explanation": "The text states: 'The device used to convert solar energy into electrical energy is called the solar cell.' It's the opposite.",
+      "explanation": "The device used to convert solar energy into electrical energy is called the solar cell.' It's the opposite.",
       "source_section": "Solar Cells"
     },
     {
       "id": "tf022",
       "statement": "Solar panels are used in artificial satellites and space stations.",
       "answer": true,
-      "explanation": "The text states: 'Solar panels are used in artificial satellites and space stations.'",
+      "explanation": "Solar panels are used in artificial satellites and space stations.",
       "source_section": "Solar Cells"
     },
     {
       "id": "tf023",
       "statement": "The more the speed of wind, the less electricity is generated.",
       "answer": false,
-      "explanation": "The text states: 'The more the speed of the wind, the more will be its energy and thus more electricity is generated.'",
+      "explanation": "The more the speed of the wind, the more will be its energy and thus more electricity is generated.",
       "source_section": "Electricity from Wind"
     },
     {
       "id": "tf024",
       "statement": "An electric circuit is a closed path in which electric current flows.",
       "answer": true,
-      "explanation": "The text states: 'An electric circuit is defined as a closed path in which electric current flows.'",
+      "explanation": "An electric circuit is defined as a closed path in which electric current flows.",
       "source_section": "Simple Electric Circuits"
     },
     {
       "id": "tf025",
       "statement": "A circuit is said to be open when electric current flows through it.",
       "answer": false,
-      "explanation": "The text states: 'A circuit is said to be open when no electric current flows through it.'",
+      "explanation": "A circuit is said to be open when no electric current flows through it.",
       "source_section": "Closed and Open Circuits"
     },
     {
       "id": "tf026",
       "statement": "When a circuit is connected in series, if one appliance stops working, other appliances connected in the series also stop working.",
       "answer": true,
-      "explanation": "The text states: 'If any appliance gets damaged, the remaining appliances also stop working because the circuit gets broken due to the damaged appliance.'",
+      "explanation": "If any appliance gets damaged, the remaining appliances also stop working because the circuit gets broken due to the damaged appliance.",
       "source_section": "Series and Parallel Circuits"
     },
     {
       "id": "tf027",
       "statement": "In a parallel circuit, all appliances depend upon each other to complete the circuit.",
       "answer": false,
-      "explanation": "The text states: 'in case of parallel connection, the electrical appliances are not dependent upon each other to complete the circuit.'",
+      "explanation": "In case of parallel connection, the electrical appliances are not dependent upon each other to complete the circuit.",
       "source_section": "Series and Parallel Circuits"
     },
     {
       "id": "tf028",
       "statement": "In household wiring systems, all appliances are connected in series.",
       "answer": false,
-      "explanation": "The text states: 'in household wiring system, all the appliances are connected in parallel with separate switches.'",
+      "explanation": "In household wiring system, all the appliances are connected in parallel with separate switches.",
       "source_section": "Series and Parallel Circuits"
     },
     {
       "id": "tf029",
       "statement": "In a series circuit, each appliance gets the original voltage.",
       "answer": false,
-      "explanation": "The text states: In series circuit 'There is a sharing of voltage (potential difference).' In parallel circuit 'Each appliance gets the original voltage.'",
+      "explanation": "The text states: In series circuit 'There is a sharing of voltage (potential difference).' In parallel circuit 'Each appliance gets the original voltage.",
       "source_section": "Series and Parallel Circuits"
     },
     {
       "id": "tf030",
       "statement": "A resistor opposes the flow of current in a circuit.",
       "answer": true,
-      "explanation": "The text states: 'A resistor which opposes the flow of current in the circuit.'",
+      "explanation": "A resistor which opposes the flow of current in the circuit.",
       "source_section": "Resistors"
     },
     {
       "id": "tf031",
       "statement": "Copper is an insulator.",
       "answer": false,
-      "explanation": "The text states: 'All metals such as copper, silver, nickel, aluminium, iron and steel are conductors.'",
+      "explanation": "All metals such as copper, silver, nickel, aluminium, iron and steel are conductors.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf032",
       "statement": "Plastic is a good conductor of electricity.",
       "answer": false,
-      "explanation": "The text states: 'Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.'",
+      "explanation": "Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf033",
       "statement": "Pure water is an insulator.",
       "answer": true,
-      "explanation": "The text states: 'pure water are insulators.'",
+      "explanation": "Pure water are insulators.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf034",
       "statement": "Impure water is a conductor of electricity.",
       "answer": true,
-      "explanation": "The text states: 'Impure water is also a conductor.'",
+      "explanation": "Impure water is also a conductor.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf035",
       "statement": "Air is a conductor of electricity.",
       "answer": false,
-      "explanation": "The text states: 'Air is an insulator.'",
+      "explanation": "Air is an insulator.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf036",
       "statement": "A switch can be touched with wet hands safely.",
       "answer": false,
-      "explanation": "The text states: 'Do not touch electrical appliances and switches with wet hands'",
+      "explanation": "Do not touch electrical appliances and switches with wet hands",
       "source_section": "Precautions While Using Electricity"
     },
     {
       "id": "tf037",
       "statement": "Cotton is a good conductor of electricity.",
       "answer": false,
-      "explanation": "The text states: 'Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.'",
+      "explanation": "Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf038",
       "statement": "All power lines are well insulated.",
       "answer": false,
-      "explanation": "The text (Myth vs Fact) states: 'In fact, 90% of outside power lines are bare wires and uninsulated.'",
+      "explanation": "The text (Myth vs Fact) states: 'In fact, 90% of outside power lines are bare wires and uninsulated.",
       "source_section": "Myth vs Fact"
     },
     {
       "id": "tf039",
       "statement": "The human body can conduct electricity.",
       "answer": true,
-      "explanation": "The text states: 'The human body also allows current to pass through it'",
+      "explanation": "The human body also allows current to pass through it",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf040",
       "statement": "An electrochemical cell converts electrical energy into chemical energy.",
       "answer": false,
-      "explanation": "The text states: 'It converts chemical energy into electrical energy.' It's the opposite.",
+      "explanation": "It converts chemical energy into electrical energy.' It's the opposite.",
       "source_section": "Electrochemical Cells or Electric Cells"
     },
     {
       "id": "tf041",
       "statement": "The centre of an atom is called the nucleus.",
       "answer": true,
-      "explanation": "The text states: 'The centre of the atom is called the nucleus.'",
+      "explanation": "The centre of the atom is called the nucleus.",
       "source_section": "Electric Current as a Flow of Charges"
     },
     {
       "id": "tf042",
       "statement": "1 Volt = 1 Joule / 1 Coulomb.",
       "answer": true,
-      "explanation": "The text states: '1 Volt = 1 Joule/ 1 Coulomb.'",
+      "explanation": "1 Volt = 1 Joule/ 1 Coulomb.",
       "source_section": "Potential Difference"
     },
     {
       "id": "tf043",
       "statement": "The unit Volt is named after American scientist Benjamin Franklin.",
       "answer": false,
-      "explanation": "The text states: 'It is named after the Italian Physicist Alessandro Volta.'",
+      "explanation": "It is named after the Italian Physicist Alessandro Volta.",
       "source_section": "Potential Difference"
     },
     {
       "id": "tf044",
       "statement": "Electric current flows only when there is a potential difference.",
       "answer": true,
-      "explanation": "The text states: 'Thus, an electric current flows only when there is a potential difference.'",
+      "explanation": "Thus, an electric current flows only when there is a potential difference.",
       "source_section": "Potential Difference"
     },
     {
       "id": "tf045",
       "statement": "The carbon rod in a dry cell has a copper cap on top.",
       "answer": false,
-      "explanation": "The text states: 'A carbon rod with a brass cap is placed at the centre.'",
+      "explanation": "A carbon rod with a brass cap is placed at the centre.",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
       "id": "tf046",
       "statement": "The electrolyte in a dry cell is a moist paste of ammonium chloride and plaster of Paris.",
       "answer": true,
-      "explanation": "The text states: 'The electrolyte is a moist paste of ammonium chloride (NH4Cl) and plaster of Paris.'",
+      "explanation": "The electrolyte is a moist paste of ammonium chloride (NH4Cl) and plaster of Paris.",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
       "id": "tf047",
       "statement": "A dry cell is completely dry inside with no moisture.",
       "answer": false,
-      "explanation": "The text states: 'The dry cell is not really dry in nature but the quantity of water in it is very less, as the electrolyte is in the form of a paste.'",
+      "explanation": "The dry cell is not really dry in nature but the quantity of water in it is very less, as the electrolyte is in the form of a paste.",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
       "id": "tf048",
       "statement": "It is safe to open a dry cell to see inside.",
       "answer": false,
-      "explanation": "The text states: 'Never try to open a dry cell. The chemicals inside are harmful.'",
+      "explanation": "Never try to open a dry cell. The chemicals inside are harmful.",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
       "id": "tf049",
       "statement": "Lead accumulator is an example of a primary cell.",
       "answer": false,
-      "explanation": "The text states: 'Examples of secondary cells are lead accumulator, Edison accumulator and nickel-iron accumulator.'",
+      "explanation": "Examples of secondary cells are lead accumulator, Edison accumulator and nickel-iron accumulator.",
       "source_section": "Secondary Cell (Battery)"
     },
     {
       "id": "tf050",
       "statement": "Voltaic cell is an example of a primary cell.",
       "answer": true,
-      "explanation": "The text states: 'Examples of primary cells are simple voltaic cell, Daniel cell, Leclanche cell and dry cell.'",
+      "explanation": "Examples of primary cells are simple voltaic cell, Daniel cell, Leclanche cell and dry cell.",
       "source_section": "Secondary Cell (Battery)"
     },
     {
       "id": "tf051",
       "statement": "Electricity for domestic purposes is generated at electric power stations.",
       "answer": true,
-      "explanation": "The text states: 'Electricity for domestic and industrial purposes is generated at electric power stations.'",
+      "explanation": "Electricity for domestic and industrial purposes is generated at electric power stations.",
       "source_section": "Mains"
     },
     {
       "id": "tf052",
       "statement": "In a generator, an electric conductor is kept stationary to produce current.",
       "answer": false,
-      "explanation": "The text states: 'In a generator, an electric conductor such as copper wire is rotated in a magnetic field to produce an electric current.'",
+      "explanation": "In a generator, an electric conductor such as copper wire is rotated in a magnetic field to produce an electric current.",
       "source_section": "Generators or Dynamos"
     },
     {
       "id": "tf053",
       "statement": "A nuclear power plant uses nuclear energy to generate electric current.",
       "answer": true,
-      "explanation": "The text states: 'An atomic or nuclear power plant uses nuclear energy to generate electric current.'",
+      "explanation": "An atomic or nuclear power plant uses nuclear energy to generate electric current.",
       "source_section": "Generators or Dynamos"
     },
     {
       "id": "tf054",
       "statement": "Solar cells can power electronic calculators and watches.",
       "answer": true,
-      "explanation": "The text states: 'Solar cells are used to power electronic calculators, watches, streetlights and lighthouses.'",
+      "explanation": "Solar cells are used to power electronic calculators, watches, streetlights and lighthouses.",
       "source_section": "Solar Cells"
     },
     {
       "id": "tf055",
       "statement": "A solar panel is formed by a single large solar cell.",
       "answer": false,
-      "explanation": "The text states: 'A solar panel is formed by a large number of solar cells connected together.'",
+      "explanation": "A solar panel is formed by a large number of solar cells connected together.",
       "source_section": "Solar Cells"
     },
     {
       "id": "tf056",
       "statement": "Windmills generate electricity by using the energy of flowing water.",
       "answer": false,
-      "explanation": "The text states: 'The energy of the wind is used to rotate the blades of a windmill, which in turn, generates electricity.'",
+      "explanation": "The energy of the wind is used to rotate the blades of a windmill, which in turn, generates electricity.",
       "source_section": "Electricity from Wind"
     },
     {
       "id": "tf057",
       "statement": "A switch helps in making and breaking of the circuit.",
       "answer": true,
-      "explanation": "The text states: 'An electric switch to turn on or off the electric device' and 'Helps in making and breaking of the circuit'.",
+      "explanation": "An electric switch to turn on or off the electric device' and 'Helps in making and breaking of the circuit'.",
       "source_section": "Components of an Electric Circuit and Their Functions"
     },
     {
       "id": "tf058",
       "statement": "A plug key helps in keeping a circuit open or closed for longer duration.",
       "answer": true,
-      "explanation": "The text states: 'A plug key which helps in keeping a circuit open or closed for longer duration.'",
+      "explanation": "A plug key which helps in keeping a circuit open or closed for longer duration.",
       "source_section": "Components of an Electric Circuit and Their Functions"
     },
     {
       "id": "tf059",
       "statement": "A circuit is said to be closed when the switch is off.",
       "answer": false,
-      "explanation": "The text states: 'A circuit is said to be closed or complete when electric current flows through it. This condition is obtained when the switch is on.'",
+      "explanation": "A circuit is said to be closed or complete when electric current flows through it. This condition is obtained when the switch is on.",
       "source_section": "Closed and Open Circuits"
     },
     {
       "id": "tf060",
       "statement": "Electric current flows only in a closed circuit.",
       "answer": true,
-      "explanation": "The text (Activity conclusion) states: 'Electric current flows only in a closed circuit.'",
+      "explanation": "The text (Activity conclusion) states: 'Electric current flows only in a closed circuit.",
       "source_section": "Closed and Open Circuits"
     },
     {
       "id": "tf061",
       "statement": "A circuit diagram shows the path of electric current using conventional symbols.",
       "answer": true,
-      "explanation": "The text states: 'A circuit diagram is a convenient way to show the path of electric current on paper by using conventional symbols.'",
+      "explanation": "A circuit diagram is a convenient way to show the path of electric current on paper by using conventional symbols.",
       "source_section": "Circuit Diagram"
     },
     {
       "id": "tf062",
       "statement": "In a series circuit, all appliances work simultaneously.",
       "answer": true,
-      "explanation": "The text states: 'Series circuit: All appliances work simultaneously.'",
+      "explanation": "Series circuit: All appliances work simultaneously.",
       "source_section": "Series and Parallel Circuits"
     },
     {
       "id": "tf063",
       "statement": "In a parallel circuit, all appliances work independently.",
       "answer": true,
-      "explanation": "The text states: 'Parallel circuit: All appliances work independently.'",
+      "explanation": "Parallel circuit: All appliances work independently.",
       "source_section": "Series and Parallel Circuits"
     },
     {
       "id": "tf064",
       "statement": "In a parallel circuit, if any appliance gets damaged, all remaining appliances stop working.",
       "answer": false,
-      "explanation": "The text states: 'Parallel circuit: If any appliance gets damaged, the remaining ones continue to work as all appliances work independently.'",
+      "explanation": "Parallel circuit: If any appliance gets damaged, the remaining ones continue to work as all appliances work independently.",
       "source_section": "Series and Parallel Circuits"
     },
     {
       "id": "tf065",
       "statement": "Resistance is the measure of opposition to current flow in an electrical circuit.",
       "answer": true,
-      "explanation": "The text states: 'The measure of the opposition to current flow in an electrical circuit is known as resistance.'",
+      "explanation": "The measure of the opposition to current flow in an electrical circuit is known as resistance.",
       "source_section": "Resistors"
     },
     {
       "id": "tf066",
       "statement": "Silver is an insulator.",
       "answer": false,
-      "explanation": "The text states: 'All metals such as copper, silver, nickel, aluminium, iron and steel are conductors.'",
+      "explanation": "All metals such as copper, silver, nickel, aluminium, iron and steel are conductors.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf067",
       "statement": "Rubber is a good conductor of electricity.",
       "answer": false,
-      "explanation": "The text states: 'Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.'",
+      "explanation": "Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf068",
       "statement": "Glass is a good insulator.",
       "answer": true,
-      "explanation": "The text states: 'Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.'",
+      "explanation": "Cotton, rubber, paper, glass, ceramics, plastic, wood and pure water are insulators.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf069",
       "statement": "Electric wires are covered with conductors to make them safe.",
       "answer": false,
-      "explanation": "The text states: 'Electric wires are always covered with insulators, such as plastic, to make them safe.'",
+      "explanation": "Electric wires are always covered with insulators, such as plastic, to make them safe.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf070",
       "statement": "The human body is as good a conductor as metals.",
       "answer": false,
-      "explanation": "The text states: 'The human body also allows current to pass through it, but it is not as good a conductor as metals.'",
+      "explanation": "The human body also allows current to pass through it, but it is not as good a conductor as metals.",
       "source_section": "Conductors and Insulators"
     },
     {
       "id": "tf071",
       "statement": "Power line weather coating provides insulation and protection from electric shock.",
       "answer": false,
-      "explanation": "The text states: 'They may have weather coating, but it provides no insulation or protection from electric shock.'",
+      "explanation": "They may have weather coating, but it provides no insulation or protection from electric shock.",
       "source_section": "Myth vs Fact"
     },
     {
       "id": "tf072",
       "statement": "You should stand on a rubber mat while doing electrical work.",
       "answer": true,
-      "explanation": "The text states: 'Stand on an insulator such as a rubber mat or a wooden board when doing electrical work.'",
+      "explanation": "Stand on an insulator such as a rubber mat or a wooden board when doing electrical work.",
       "source_section": "Precautions While Using Electricity"
     },
     {
       "id": "tf073",
       "statement": "It is safe to get electrical repairs done by any person.",
       "answer": false,
-      "explanation": "The text states: 'Never get electrical repairs done by an untrained person.'",
+      "explanation": "Never get electrical repairs done by an untrained person.",
       "source_section": "Precautions While Using Electricity"
     },
     {
       "id": "tf074",
       "statement": "You should put off the main switch immediately in case of short circuit.",
       "answer": true,
-      "explanation": "The text states: 'Put off the main switch immediately in case of short circuit and fire.'",
+      "explanation": "Put off the main switch immediately in case of short circuit and fire.",
       "source_section": "Precautions While Using Electricity"
     },
     {
       "id": "tf075",
       "statement": "A fuse is a safety device that melts when current exceeds permissible value.",
       "answer": true,
-      "explanation": "The text states: 'A fuse is a safety device containing a wire that melts and breaks the electric circuit when the current exceeds permissible value.'",
+      "explanation": "A fuse is a safety device containing a wire that melts and breaks the electric circuit when the current exceeds permissible value.",
       "source_section": "Prepping for PISA - Fuse vs MCB"
     },
     {
       "id": "tf076",
       "statement": "MCB stands for Miniature Circuit Breaker.",
       "answer": true,
-      "explanation": "The text states: 'Miniature Circuit Breakers (MCBs) are commonly used in homes and commercial settings.'",
+      "explanation": "Miniature Circuit Breakers (MCBs) are commonly used in homes and commercial settings.",
       "source_section": "Prepping for PISA - Fuse vs MCB"
     },
     {
       "id": "tf077",
       "statement": "MCB is less sensitive to current than a fuse.",
       "answer": false,
-      "explanation": "The text states: 'An MCB is more sensitive to current than a fuse as the MCB can detect even a slight fluctuation in voltage.'",
+      "explanation": "An MCB is more sensitive to current than a fuse as the MCB can detect even a slight fluctuation in voltage.",
       "source_section": "Prepping for PISA - Fuse vs MCB"
     },
     {
       "id": "tf078",
       "statement": "Georges Leclanche invented the Leclanche cell in 1866.",
       "answer": true,
-      "explanation": "The text states: 'In 1866, he invented the Leclanche cell'",
+      "explanation": "In 1866, he invented the Leclanche cell",
       "source_section": "Science and Scientists - Georges Leclanche"
     },
     {
       "id": "tf079",
       "statement": "The Jawaharlal Nehru National Solar Mission aims at generating solar power.",
       "answer": true,
-      "explanation": "The text states: 'The Jawaharlal Nehru National Solar Mission aims at generating 1,00,000 MW of grid connected solar power by 2022.'",
+      "explanation": "The Jawaharlal Nehru National Solar Mission aims at generating 1,00,000 MW of grid connected solar power by 2022.",
       "source_section": "Case Study - Jawaharlal Nehru National Solar Mission"
     },
     {
       "id": "tf080",
       "statement": "Distilled water is a good conductor of electricity.",
       "answer": false,
-      "explanation": "distilled (pure) water is an insulator: 'No, the bulb will not glow. Distilled water (pure water) is an insulator and does not conduct electricity.'",
+      "explanation": "Distilled (pure) water is an insulator: 'No, the bulb will not glow. Distilled water (pure water) is an insulator and does not conduct electricity.",
       "source_section": "Textbook Questions"
     }
   ],

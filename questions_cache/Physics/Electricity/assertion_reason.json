@@ -12,7 +12,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "by convention, the direction of flow of electric current is taken to be from the positive terminal to the negative terminal, which is called conventional current.",
+      "explanation": "By convention, the direction of flow of electric current is taken to be from the positive terminal to the negative terminal, which is called conventional current.",
       "source_section": "Direction of Flow of Current"
     },
     {
@@ -26,7 +26,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "copper is a conductor and is used in making good quality electric wires because it allows electric current to flow through it easily.",
+      "explanation": "Copper is a conductor and is used in making good quality electric wires because it allows electric current to flow through it easily.",
       "source_section": "Conductors and Insulators"
     },
     {
@@ -68,7 +68,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "in household wiring system, all appliances are connected in parallel so they can be operated independently.",
+      "explanation": "In household wiring system, all appliances are connected in parallel so they can be operated independently.",
       "source_section": "Series and Parallel Circuits"
     },
     {
@@ -82,7 +82,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "a dry cell is a primary cell that cannot be recharged because the chemical reaction inside is irreversible.",
+      "explanation": "A dry cell is a primary cell that cannot be recharged because the chemical reaction inside is irreversible.",
       "source_section": "Electrochemical Cells or Electric Cells"
     },
     {
@@ -96,7 +96,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "we should not touch electrical appliances and switches with wet hands because tap water and our body, being good conductors of electricity, will cause the current to flow through the body.",
+      "explanation": "We should not touch electrical appliances and switches with wet hands because tap water and our body, being good conductors of electricity, will cause the current to flow through the body.",
       "source_section": "Precautions While Using Electricity"
     },
     {
@@ -110,7 +110,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "an MCB is more sensitive to current than a fuse as it can detect even a slight fluctuation in voltage and interrupt the circuit current fast.",
+      "explanation": "An MCB is more sensitive to current than a fuse as it can detect even a slight fluctuation in voltage and interrupt the circuit current fast.",
       "source_section": "Prepping for PISA - Fuse vs MCB"
     },
     {
@@ -124,7 +124,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "pure water is an insulator. Impure water is a conductor because it contains dissolved salts.",
+      "explanation": "Pure water is an insulator. Impure water is a conductor because it contains dissolved salts.",
       "source_section": "Conductors and Insulators"
     },
     {
@@ -152,7 +152,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "a generator or dynamo converts mechanical energy into electrical energy, and this is done by rotating a copper wire in a magnetic field.",
+      "explanation": "A generator or dynamo converts mechanical energy into electrical energy, and this is done by rotating a copper wire in a magnetic field.",
       "source_section": "Generators or Dynamos"
     },
     {
@@ -166,7 +166,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "solar panels are used in artificial satellites and space stations. Solar panels convert solar energy into electrical energy, making them ideal for space applications.",
+      "explanation": "Solar panels are used in artificial satellites and space stations. Solar panels convert solar energy into electrical energy, making them ideal for space applications.",
       "source_section": "Solar Cells"
     },
     {
@@ -180,7 +180,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "the dry cell was developed in 1887 by Yai Sakizo of Japan.",
+      "explanation": "The dry cell was developed in 1887 by Yai Sakizo of Japan.",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
@@ -194,7 +194,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "air is an insulator. Therefore, if any part of an electric circuit is broken, there is no flow of electric current.",
+      "explanation": "Air is an insulator. Therefore, if any part of an electric circuit is broken, there is no flow of electric current.",
       "source_section": "Conductors and Insulators"
     },
     {
@@ -208,7 +208,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "an open circuit is one in which no electric current flows. Since no current flows, the bulb cannot glow.",
+      "explanation": "An open circuit is one in which no electric current flows. Since no current flows, the bulb cannot glow.",
       "source_section": "Closed and Open Circuits"
     },
     {
@@ -222,7 +222,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "a battery is a number of cells connected in a series, and it is used when more electrical energy is required (like in cars and trucks).",
+      "explanation": "A battery is a number of cells connected in a series, and it is used when more electrical energy is required (like in cars and trucks).",
       "source_section": "Secondary Cell (Battery)"
     },
     {
@@ -236,7 +236,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "the SI unit of potential difference (Volt) is named after the Italian Physicist Alessandro Volta.",
+      "explanation": "The SI unit of potential difference (Volt) is named after the Italian Physicist Alessandro Volta.",
       "source_section": "Potential Difference"
     },
     {
@@ -250,7 +250,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "the zinc container acts as the negative electrode (cathode) in a dry cell.",
+      "explanation": "The zinc container acts as the negative electrode (cathode) in a dry cell.",
       "source_section": "Primary Cell (Simple Dry Cell)"
     },
     {
@@ -264,7 +264,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "secondary cells can be recharged and used again because the chemical reaction inside them is reversible.",
+      "explanation": "Secondary cells can be recharged and used again because the chemical reaction inside them is reversible.",
       "source_section": "Electrochemical Cells or Electric Cells"
     },
     {
@@ -278,7 +278,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "the more the speed of the wind, the more will be its energy and thus more electricity is generated by rotating the windmill blades faster.",
+      "explanation": "The more the speed of the wind, the more will be its energy and thus more electricity is generated by rotating the windmill blades faster.",
       "source_section": "Electricity from Wind"
     },
     {
@@ -292,7 +292,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "electrons flow from negative to positive terminal, which is opposite to the direction of conventional current (positive to negative).",
+      "explanation": "Electrons flow from negative to positive terminal, which is opposite to the direction of conventional current (positive to negative).",
       "source_section": "Direction of Flow of Current"
     },
     {
@@ -306,7 +306,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "a switch helps in making and breaking of the circuit. When the switch is ON, current flows (closed circuit), and when OFF, no current flows (open circuit).",
+      "explanation": "A switch helps in making and breaking of the circuit. When the switch is ON, current flows (closed circuit), and when OFF, no current flows (open circuit).",
       "source_section": "Components of an Electric Circuit"
     },
     {
@@ -320,7 +320,7 @@
         "C. A is true but R is false.",
         "D. Both A and R are false."
       ],
-      "explanation": "tap water is a conductor because it contains dissolved salts (impure water is a conductor), while pure water is an insulator.",
+      "explanation": "Tap water is a conductor because it contains dissolved salts (impure water is a conductor), while pure water is an insulator.",
       "source_section": "Conductors and Insulators"
     },
     {
