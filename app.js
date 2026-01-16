@@ -191,21 +191,29 @@ async function loadSections(chapter) {
 async function loadQuestions(type, offset = 0) {
     showLoading(true);
     try {
-        const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
-        const chapterFolder = state.currentChapter.name.replace(/ /g, '_');
-        const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/${type.value}.json`);
+        let allQuestions;
 
-        if (!response.ok) {
-            alert('Failed to load questions');
-            showLoading(false);
-            return;
+        // For offset > 0, use already stored shuffled questions
+        if (offset > 0 && state.allQuestions && state.allQuestions.length > 0) {
+            allQuestions = state.allQuestions;
+        } else {
+            // Fetch fresh questions for offset 0
+            const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
+            const chapterFolder = state.currentChapter.name.replace(/ /g, '_');
+            const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/${type.value}.json`);
+
+            if (!response.ok) {
+                alert('Failed to load questions');
+                showLoading(false);
+                return;
+            }
+
+            const data = await response.json();
+            allQuestions = data.questions || [];
+
+            // Shuffle questions only once on first load
+            allQuestions = shuffleArray([...allQuestions]);
         }
-
-        const data = await response.json();
-        let allQuestions = data.questions || [];
-
-        // Shuffle questions
-        allQuestions = shuffleArray([...allQuestions]);
 
         // Get batch based on offset
         const batchQuestions = allQuestions.slice(offset, offset + QUESTIONS_PER_BATCH);
@@ -224,7 +232,14 @@ async function loadQuestions(type, offset = 0) {
             state.showAllMode = false; // Reset show all mode
             state.allQuestions = allQuestions; // Store all for pagination
         } else {
-            state.questions = [...state.questions, ...processedQuestions];
+            // For "Try More", replace questions with new batch (not append)
+            state.questions = processedQuestions;
+            state.answersRevealed = false;
+            state.userAnswers = {};
+            state.currentScore = 0;
+            state.totalAnswered = 0;
+            state.allQuestionsAnswered = false;
+            state.showAllMode = false;
         }
 
         state.currentOffset = offset + batchQuestions.length;
@@ -747,45 +762,77 @@ function renderQuestion(question, index) {
 // Question renderers
 function renderMCQQuestion(q, index, showUnansweredHighlight = false) {
     const options = q.options || [];
+    const userAnswer = state.userAnswers[q.id] || '';
+    const isRevealed = state.answersRevealed;
+
     return `
         <div class="question-text">${q.question}</div>
         <div class="mcq-options ${showUnansweredHighlight ? 'unanswered-input' : ''}">
-            ${options.map((opt, i) => `
-                <label class="option-label">
-                    <input type="radio" name="q-${q.id}" value="${opt}" onchange="saveAnswer('${q.id}', this.value)">
+            ${options.map((opt, i) => {
+                const isSelected = userAnswer === opt;
+                const isCorrect = opt === q.correct_answer;
+                let optionClass = '';
+                if (isRevealed && isSelected) {
+                    optionClass = isCorrect ? 'selected-correct' : 'selected-incorrect';
+                }
+                return `
+                <label class="option-label ${optionClass}">
+                    <input type="radio" name="q-${q.id}" value="${opt}" ${isSelected ? 'checked' : ''} onchange="saveAnswer('${q.id}', this.value)" ${isRevealed ? 'disabled' : ''}>
                     <span class="option-text">${opt}</span>
+                    ${isRevealed && isSelected ? `<span class="your-choice-marker">← Your answer</span>` : ''}
                 </label>
-            `).join('')}
+            `}).join('')}
         </div>
     `;
 }
 
 function renderTrueFalseQuestion(q, index, showUnansweredHighlight = false) {
+    const userAnswer = state.userAnswers[q.id] || '';
+    const isRevealed = state.answersRevealed;
+    const correctAnswer = q.correct_answer;
+
+    const getTFClass = (option) => {
+        if (!isRevealed || userAnswer !== option) return '';
+        return userAnswer === correctAnswer ? 'selected-correct' : 'selected-incorrect';
+    };
+
     return `
         <div class="question-text">${q.question}</div>
         <div class="tf-options ${showUnansweredHighlight ? 'unanswered-input' : ''}">
-            <label class="tf-label">
-                <input type="radio" name="q-${q.id}" value="True" onchange="saveAnswer('${q.id}', 'True')">
+            <label class="tf-label ${getTFClass('True')}">
+                <input type="radio" name="q-${q.id}" value="True" ${userAnswer === 'True' ? 'checked' : ''} onchange="saveAnswer('${q.id}', 'True')" ${isRevealed ? 'disabled' : ''}>
                 <span>True</span>
+                ${isRevealed && userAnswer === 'True' ? `<span class="your-choice-marker">← Your answer</span>` : ''}
             </label>
-            <label class="tf-label">
-                <input type="radio" name="q-${q.id}" value="False" onchange="saveAnswer('${q.id}', 'False')">
+            <label class="tf-label ${getTFClass('False')}">
+                <input type="radio" name="q-${q.id}" value="False" ${userAnswer === 'False' ? 'checked' : ''} onchange="saveAnswer('${q.id}', 'False')" ${isRevealed ? 'disabled' : ''}>
                 <span>False</span>
+                ${isRevealed && userAnswer === 'False' ? `<span class="your-choice-marker">← Your answer</span>` : ''}
             </label>
         </div>
     `;
 }
 
 function renderTextInputQuestion(q, index, showUnansweredHighlight = false) {
+    const userAnswer = state.userAnswers[q.id] || '';
+    const isRevealed = state.answersRevealed;
+
     return `
         <div class="question-text">${q.question}</div>
-        <input type="text" class="text-input ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="Type your answer..."
-               onchange="saveAnswer('${q.id}', this.value)" id="input-${q.id}">
+        <input type="text" class="text-input ${showUnansweredHighlight ? 'unanswered-input' : ''}"
+               placeholder="Type your answer..."
+               value="${userAnswer.replace(/"/g, '&quot;')}"
+               onchange="saveAnswer('${q.id}', this.value)"
+               id="input-${q.id}"
+               ${isRevealed ? 'disabled' : ''}>
+        ${isRevealed && userAnswer ? `<div class="your-typed-answer">Your answer: <strong>${userAnswer}</strong></div>` : ''}
     `;
 }
 
 function renderTextQuestion(q, index, showUnansweredHighlight = false) {
     const hasContext = q.context && q.context.trim();
+    const userAnswer = state.userAnswers[q.id] || '';
+    const isRevealed = state.answersRevealed;
 
     // Check if this is an MCQ-style question with embedded options (a. b. c. d. pattern)
     const mcqPattern = /\n?[a-d]\.\s+.+/gi;
@@ -802,12 +849,20 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
                 ${hasContext ? `<div class="question-context">${q.context}</div>` : ''}
                 <div class="question-text">${mainQuestion}</div>
                 <div class="mcq-options ${showUnansweredHighlight ? 'unanswered-input' : ''}">
-                    ${options.map((opt) => `
-                        <label class="option-label">
-                            <input type="radio" name="q-${q.id}" value="${opt}" onchange="saveAnswer('${q.id}', this.value)">
+                    ${options.map((opt) => {
+                        const isSelected = userAnswer === opt;
+                        const isCorrect = opt === q.correct_answer;
+                        let optionClass = '';
+                        if (isRevealed && isSelected) {
+                            optionClass = isCorrect ? 'selected-correct' : 'selected-incorrect';
+                        }
+                        return `
+                        <label class="option-label ${optionClass}">
+                            <input type="radio" name="q-${q.id}" value="${opt}" ${isSelected ? 'checked' : ''} onchange="saveAnswer('${q.id}', this.value)" ${isRevealed ? 'disabled' : ''}>
                             <span class="option-text">${opt}</span>
+                            ${isRevealed && isSelected ? `<span class="your-choice-marker">← Your answer</span>` : ''}
                         </label>
-                    `).join('')}
+                    `}).join('')}
                 </div>
             `;
         }
@@ -817,8 +872,12 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
     return `
         ${hasContext ? `<div class="question-context">${q.context}</div>` : ''}
         <div class="question-text">${q.question}</div>
-        <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="Type your answer..."
-                  onchange="saveAnswer('${q.id}', this.value)" id="input-${q.id}"></textarea>
+        <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}"
+                  placeholder="Type your answer..."
+                  onchange="saveAnswer('${q.id}', this.value)"
+                  id="input-${q.id}"
+                  ${isRevealed ? 'disabled' : ''}>${userAnswer}</textarea>
+        ${isRevealed && userAnswer ? `<div class="your-typed-answer">Your answer: <strong>${userAnswer}</strong></div>` : ''}
     `;
 }
 
