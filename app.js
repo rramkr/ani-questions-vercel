@@ -278,7 +278,10 @@ function processQuestion(q, questionType) {
         processed.options = q.options || [];
         if (questionType === 'assertion_reason') {
             processed.question = `Assertion (A): ${q.assertion || ''}\nReason (R): ${q.reason || ''}`;
-            processed.correct_answer = q.correct_option || '';
+            // correct_answer in JSON is just the letter (A, B, C, D), find the full option text
+            const correctLetter = q.correct_answer || q.correct_option || '';
+            const fullOption = processed.options.find(opt => opt.startsWith(correctLetter + '.') || opt.startsWith(correctLetter + ' '));
+            processed.correct_answer = fullOption || correctLetter;
         }
     } else if (questionType === 'true_false') {
         processed.question = q.statement || q.question || '';
