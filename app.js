@@ -413,9 +413,15 @@ function processQuestion(q, questionType) {
         if (questionType === 'assertion_reason') {
             processed.question = `Assertion (A): ${q.assertion || ''}\nReason (R): ${q.reason || ''}`;
             // correct_answer in JSON is just the letter (A, B, C, D), find the full option text
-            const correctLetter = q.correct_answer || q.correct_option || '';
-            const fullOption = processed.options.find(opt => opt.startsWith(correctLetter + '.') || opt.startsWith(correctLetter + ' '));
-            processed.correct_answer = fullOption || correctLetter;
+            const correctLetter = (q.correct_answer || q.correct_option || '').trim().toUpperCase();
+            const fullOption = processed.options.find(opt => {
+                const trimmedOpt = opt.trim();
+                return trimmedOpt.startsWith(correctLetter + '.') ||
+                       trimmedOpt.startsWith(correctLetter + ' ') ||
+                       trimmedOpt.charAt(0).toUpperCase() === correctLetter;
+            });
+            processed.correct_answer = fullOption || q.correct_answer || '';
+            console.log('Assertion-Reason Debug:', { correctLetter, fullOption, finalAnswer: processed.correct_answer });
         }
     } else if (questionType === 'true_false') {
         processed.question = q.statement || q.question || '';
