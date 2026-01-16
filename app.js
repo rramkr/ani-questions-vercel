@@ -64,15 +64,29 @@ const elements = {
 };
 
 // Navigation buttons
-document.getElementById('back-to-subjects').addEventListener('click', () => showView('subjects'));
-document.getElementById('back-to-chapters').addEventListener('click', () => showView('chapters'));
-document.getElementById('back-to-sections').addEventListener('click', () => showView('sections'));
+document.getElementById('back-to-subjects').addEventListener('click', () => {
+    resetState();
+    showView('subjects');
+    updateHash();
+});
+document.getElementById('back-to-chapters').addEventListener('click', () => {
+    state.currentChapter = null;
+    state.currentType = null;
+    showView('chapters');
+    updateHash();
+});
+document.getElementById('back-to-sections').addEventListener('click', () => {
+    state.currentType = null;
+    showView('sections');
+    updateHash();
+});
 document.getElementById('try-more-btn').addEventListener('click', loadMoreQuestions);
 document.getElementById('check-answers-btn').addEventListener('click', revealAnswers);
 document.getElementById('show-all-answers-btn').addEventListener('click', showAllAnswers);
 elements.appTitle.addEventListener('click', () => {
     resetState();
     showView('subjects');
+    updateHash();
 });
 
 // Initialize
@@ -82,6 +96,118 @@ async function init() {
     showLoading(true);
     await loadSubjects();
     showLoading(false);
+
+    // Handle initial URL hash on page load
+    await handleHashChange();
+
+    // Listen for hash changes (back/forward buttons)
+    window.addEventListener('hashchange', handleHashChange);
+}
+
+// URL Hash Routing
+function updateHash() {
+    let hash = '';
+
+    if (state.currentSubject && state.currentChapter && state.currentType) {
+        // Quiz view: #subject/chapter/type
+        hash = `${encodeURIComponent(state.currentSubject.name)}/${encodeURIComponent(state.currentChapter.name)}/${state.currentType.value}`;
+    } else if (state.currentSubject && state.currentChapter) {
+        // Sections view: #subject/chapter
+        hash = `${encodeURIComponent(state.currentSubject.name)}/${encodeURIComponent(state.currentChapter.name)}`;
+    } else if (state.currentSubject) {
+        // Chapters view: #subject
+        hash = encodeURIComponent(state.currentSubject.name);
+    }
+    // else: subjects view (no hash)
+
+    // Update URL without triggering hashchange event
+    const newUrl = hash ? `#${hash}` : window.location.pathname;
+    if (window.location.hash !== `#${hash}`) {
+        history.replaceState(null, '', newUrl);
+    }
+}
+
+async function handleHashChange() {
+    const hash = window.location.hash.slice(1); // Remove #
+
+    if (!hash) {
+        // No hash - show subjects
+        resetState();
+        showView('subjects');
+        return;
+    }
+
+    const parts = hash.split('/').map(p => decodeURIComponent(p));
+
+    if (parts.length >= 1 && parts[0]) {
+        // Find subject
+        const subjectName = parts[0];
+        const subjectsResponse = await fetch(`${GITHUB_BASE_URL}/subjects.json`);
+        const subjectsData = await subjectsResponse.json();
+        const subject = subjectsData.subjects.find(s => s.name === subjectName);
+
+        if (!subject) {
+            resetState();
+            showView('subjects');
+            return;
+        }
+
+        // Load chapters for this subject
+        const subjectFolder = subject.name.replace(/ /g, '_');
+        const chaptersResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/chapters.json`);
+        const chaptersData = await chaptersResponse.json();
+        state.currentSubject = subject;
+
+        if (parts.length >= 2 && parts[1]) {
+            // Find chapter
+            const chapterName = parts[1];
+            const chapter = chaptersData.chapters.find(c => c.name === chapterName);
+
+            if (!chapter || !chapter.has_questions) {
+                renderChapters(chaptersData.chapters);
+                showView('chapters');
+                return;
+            }
+
+            state.currentChapter = chapter;
+
+            // Load sections
+            const chapterFolder = chapter.name.replace(/ /g, '_');
+            const sectionsResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/sections.json`);
+
+            if (!sectionsResponse.ok) {
+                renderChapters(chaptersData.chapters);
+                showView('chapters');
+                return;
+            }
+
+            const sectionsData = await sectionsResponse.json();
+
+            if (parts.length >= 3 && parts[2]) {
+                // Find question type and load quiz
+                const typeValue = parts[2];
+                const allTypes = [
+                    ...(sectionsData.sections.textbook || []),
+                    ...(sectionsData.sections.exam || []),
+                    ...(sectionsData.sections.miscellaneous || [])
+                ];
+                const questionType = allTypes.find(t => t.value === typeValue);
+
+                if (questionType) {
+                    await loadQuestions(questionType, 0);
+                    return;
+                }
+            }
+
+            // Show sections view
+            renderSections(sectionsData.sections);
+            showView('sections');
+        } else {
+            // Show chapters view
+            renderChapters(chaptersData.chapters);
+            showView('chapters');
+        }
+    }
 }
 
 function showLoading(show) {
@@ -155,8 +281,11 @@ async function loadChapters(subject) {
         const data = await response.json();
 
         state.currentSubject = subject;
+        state.currentChapter = null;
+        state.currentType = null;
         renderChapters(data.chapters);
         showView('chapters');
+        updateHash();
     } catch (error) {
         console.error('Error loading chapters:', error);
         alert('Failed to load chapters');
@@ -179,8 +308,10 @@ async function loadSections(chapter) {
 
         const data = await response.json();
         state.currentChapter = chapter;
+        state.currentType = null;
         renderSections(data.sections);
         showView('sections');
+        updateHash();
     } catch (error) {
         console.error('Error loading sections:', error);
         alert('Failed to load question types');
@@ -247,6 +378,9 @@ async function loadQuestions(type, offset = 0) {
 
         renderQuiz();
         showView('quiz');
+        if (offset === 0) {
+            updateHash(); // Only update hash on initial load, not on "Try More"
+        }
     } catch (error) {
         console.error('Error loading questions:', error);
         alert('Failed to load questions');
