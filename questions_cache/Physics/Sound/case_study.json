@@ -1,0 +1,144 @@
+{
+  "question_type": "case_study",
+  "questions": [
+    {
+      "id": "cs001",
+      "passage": "Dr. Sharma is an ENT specialist treating patients with hearing problems. One day, three patients visit her clinic:\n\nPatient A: A 7-year-old child who cannot hear sounds below certain frequencies.\nPatient B: A factory worker (age 45) who has difficulty hearing normal conversations.\nPatient C: A teenager who listens to loud music through earphones for several hours daily.\n\nDr. Sharma uses various tests and explains to each patient about the audible range of human hearing (20 Hz to 20,000 Hz) and the importance of protecting ears from loud sounds above 85 decibels.",
+      "questions": [
+        {
+          "question": "What is the normal audible range for humans?",
+          "answer": "20 Hz to 20,000 Hz (20 kHz)"
+        },
+        {
+          "question": "What type of sounds (infrasonic/audible/ultrasonic) might Patient A have difficulty hearing?",
+          "answer": "Patient A might have difficulty hearing infrasonic sounds (below 20 Hz). However, since the passage says 'below certain frequencies' and infrasonic sounds are not normally heard anyway, Patient A likely has hearing loss affecting lower frequency audible sounds."
+        },
+        {
+          "question": "What is the likely cause of Patient B's hearing loss?",
+          "answer": "Patient B (factory worker) likely has noise-induced hearing loss from prolonged exposure to loud factory machinery, which damages the hair cells in the cochlea."
+        },
+        {
+          "question": "What advice would Dr. Sharma give to Patient C?",
+          "answer": "Dr. Sharma would advise: (1) Reduce volume of music to below 85 dB, (2) Limit listening time with earphones, (3) Take regular breaks, (4) Use noise-cancelling headphones to avoid turning volume too high."
+        },
+        {
+          "question": "Above what sound level does hearing damage typically occur?",
+          "answer": "Prolonged exposure to sounds above 85 decibels can cause hearing damage."
+        }
+      ],
+      "source_section": "Human Ear and Noise Pollution"
+    },
+    {
+      "id": "cs002",
+      "passage": "A naval ship is equipped with SONAR technology to detect submarines. The SONAR system sends ultrasonic pulses into the water and receives echoes from underwater objects.\n\nDuring a training exercise, the SONAR operator records the following data:\n- Pulse 1: Echo received after 4 seconds\n- Pulse 2: Echo received after 3 seconds (5 minutes later)\n- Speed of sound in seawater: 1500 m/s\n\nThe commanding officer wants to know if the detected object is stationary or moving.",
+      "questions": [
+        {
+          "question": "What does SONAR stand for?",
+          "answer": "Sound Navigation and Ranging"
+        },
+        {
+          "question": "Why does SONAR use ultrasonic waves instead of audible sound?",
+          "answer": "Ultrasonic waves are highly directional (due to short wavelength), can travel long distances in water without much energy loss, and don't interfere with normal underwater sounds."
+        },
+        {
+          "question": "Calculate the distance of the object when Pulse 1 was sent.",
+          "answer": "Distance = (Speed × Time) ÷ 2 = (1500 × 4) ÷ 2 = 6000 ÷ 2 = 3000 metres (3 km)"
+        },
+        {
+          "question": "Calculate the distance of the object when Pulse 2 was sent.",
+          "answer": "Distance = (Speed × Time) ÷ 2 = (1500 × 3) ÷ 2 = 4500 ÷ 2 = 2250 metres (2.25 km)"
+        },
+        {
+          "question": "Is the object stationary or moving? If moving, towards or away from the ship?",
+          "answer": "The object is moving. Since the distance decreased from 3000 m to 2250 m, the object is moving TOWARDS the ship. It moved 750 m closer in 5 minutes."
+        }
+      ],
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "cs003",
+      "passage": "Ravi and his friends are visiting a science museum. They see an exhibit about sound with different musical instruments and a demonstration of how sound travels.\n\nThe exhibit shows:\n1. A guitar with strings of different thicknesses\n2. A drum with a tight membrane\n3. A flute\n4. A vacuum chamber with a ringing bell inside\n\nA guide explains that sound is produced differently in each instrument and that some conditions are necessary for sound to travel.",
+      "questions": [
+        {
+          "question": "How is sound produced in the guitar?",
+          "answer": "Sound is produced by the vibration of strings when they are plucked. The guitar body acts as a resonator to amplify the sound."
+        },
+        {
+          "question": "How is sound produced in the drum?",
+          "answer": "Sound is produced by the vibration of the stretched membrane when it is struck. The tight membrane vibrates rapidly, creating sound waves."
+        },
+        {
+          "question": "How is sound produced in the flute?",
+          "answer": "Sound is produced by the vibration of the air column inside the flute when the player blows across the mouthpiece."
+        },
+        {
+          "question": "What will Ravi observe when the air is slowly pumped out of the vacuum chamber with the ringing bell?",
+          "answer": "As air is pumped out, the sound of the bell will gradually become fainter and eventually become inaudible. This is because sound cannot travel through vacuum - it needs a medium (air) to propagate."
+        },
+        {
+          "question": "If Ravi tightens one of the guitar strings, how will the sound change?",
+          "answer": "Tightening the string will make it vibrate faster, producing higher frequency and therefore higher pitch (shriller sound)."
+        }
+      ],
+      "source_section": "Musical Instruments and Medium for Sound"
+    },
+    {
+      "id": "cs004",
+      "passage": "Mrs. Gupta is pregnant and visits the hospital for her regular checkup. The doctor recommends an ultrasound scan to check the baby's development.\n\nThe ultrasound technician explains to Mrs. Gupta how the technology works:\n- A device called a transducer sends high-frequency sound waves into her body\n- These waves bounce off the baby and internal organs\n- The echoes are converted into images on a screen\n- The procedure is completely safe and uses no radiation\n\nThe scan reveals that the baby is healthy and growing normally.",
+      "questions": [
+        {
+          "question": "What frequency range is used in medical ultrasound?",
+          "answer": "Medical ultrasound typically uses frequencies between 1 MHz and 15 MHz (1,000,000 to 15,000,000 Hz), which is well above the human hearing range."
+        },
+        {
+          "question": "Why is ultrasound preferred over X-rays for pregnancy scans?",
+          "answer": "Ultrasound uses sound waves which are non-ionizing and harmless to both mother and baby. X-rays use ionizing radiation which can be harmful to the developing fetus."
+        },
+        {
+          "question": "What is the device called that sends and receives ultrasound waves?",
+          "answer": "Transducer (also called probe)"
+        },
+        {
+          "question": "How are the images created from ultrasound?",
+          "answer": "The transducer sends ultrasound waves into the body. These waves reflect (echo) off different tissues and organs at different rates. The returning echoes are detected and a computer processes them to create a real-time image on the screen."
+        },
+        {
+          "question": "Name another medical use of ultrasound besides pregnancy scans.",
+          "answer": "Other uses include: examining heart (echocardiography), liver, kidney, gallbladder, breaking kidney stones (lithotripsy), and detecting tumors."
+        }
+      ],
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "cs005",
+      "passage": "A class 7 science class is conducting experiments on sound. The teacher gives them the following data:\n\nExperiment 1: A tuning fork vibrating 256 times per second\nExperiment 2: Speed of sound measured as 340 m/s\nExperiment 3: An echo heard 0.5 seconds after a loud clap\n\nThe students are asked to calculate various parameters and understand the concepts of frequency, wavelength, and echo.",
+      "questions": [
+        {
+          "question": "What is the frequency of the tuning fork?",
+          "answer": "The frequency is 256 Hz (256 vibrations per second)."
+        },
+        {
+          "question": "What is the time period of one vibration of the tuning fork?",
+          "answer": "Time period T = 1/f = 1/256 = 0.0039 seconds (approximately 3.9 milliseconds)"
+        },
+        {
+          "question": "Calculate the wavelength of the sound produced by the tuning fork.",
+          "answer": "Using v = f × λ: 340 = 256 × λ, so λ = 340/256 = 1.33 metres (approximately)"
+        },
+        {
+          "question": "How far is the reflecting surface that produced the echo?",
+          "answer": "Total distance = v × t = 340 × 0.5 = 170 m. Distance to surface = 170/2 = 85 metres"
+        },
+        {
+          "question": "If the frequency of the tuning fork was doubled, what would happen to the wavelength?",
+          "answer": "The wavelength would be halved (become 0.665 m) because wavelength and frequency are inversely proportional when speed is constant."
+        }
+      ],
+      "source_section": "Wave Parameters and Echo"
+    }
+  ],
+  "total_count": 5,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

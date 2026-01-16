@@ -1,0 +1,149 @@
+{
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "gr001",
+      "question": "Sound cannot travel through vacuum.",
+      "answer": "Sound requires a material medium (solid, liquid, or gas) to propagate because it travels as a mechanical wave through the vibration of particles. In vacuum, there are no particles to vibrate and transmit the sound energy from one point to another.",
+      "keywords": ["medium", "particles", "vibrate", "mechanical wave"],
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "gr002",
+      "question": "We see lightning before we hear thunder.",
+      "answer": "Light travels at a speed of 3 × 10^8 m/s (about 300,000 km/s), which is much faster than the speed of sound (340 m/s in air). Therefore, light from lightning reaches our eyes almost instantly, while sound takes longer to travel the same distance.",
+      "keywords": ["light faster", "sound slower", "300000 km/s", "340 m/s"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "gr003",
+      "question": "Sound travels faster in solids than in gases.",
+      "answer": "In solids, particles are closely packed with strong intermolecular forces, allowing vibrations to be transmitted quickly from one particle to the next. In gases, particles are far apart with weak forces between them, so vibrations take longer to transfer.",
+      "keywords": ["particles closely packed", "strong forces", "faster transfer"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "gr004",
+      "question": "The voice of a child is shriller than that of an adult.",
+      "answer": "Children have shorter and thinner vocal cords compared to adults. Shorter vocal cords vibrate at a higher frequency, producing sound with higher pitch. Higher pitch sounds are perceived as shriller.",
+      "keywords": ["shorter vocal cords", "higher frequency", "higher pitch"],
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "gr005",
+      "question": "Men generally have deeper voices than women.",
+      "answer": "Men have longer and thicker vocal cords (about 20mm long) compared to women (about 15mm). Longer and thicker vocal cords vibrate at lower frequencies, producing lower-pitched (deeper) sounds.",
+      "keywords": ["longer vocal cords", "thicker", "lower frequency", "deeper"],
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "gr006",
+      "question": "Astronauts on the moon cannot talk to each other directly.",
+      "answer": "The moon has no atmosphere (vacuum). Since sound requires a material medium to travel and cannot propagate through vacuum, astronauts cannot hear each other's voices directly. They must use radio communication devices which use electromagnetic waves.",
+      "keywords": ["no atmosphere", "vacuum", "no medium", "radio communication"],
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "gr007",
+      "question": "Echo is not heard in a small room.",
+      "answer": "For an echo to be heard distinctly, the reflecting surface must be at least 17 metres away (so that the time gap between original sound and echo is at least 0.1 seconds). In a small room, the walls are too close, so the reflected sound merges with the original sound.",
+      "keywords": ["17 metres", "0.1 seconds", "walls too close", "sounds merge"],
+      "source_section": "Echo"
+    },
+    {
+      "id": "gr008",
+      "question": "Bats can fly in the dark without colliding with obstacles.",
+      "answer": "Bats use echolocation. They emit ultrasonic sounds (above 20,000 Hz) and listen to the echoes reflected from objects. By analyzing these echoes, they can determine the location, distance, and size of obstacles and prey, allowing them to navigate in complete darkness.",
+      "keywords": ["echolocation", "ultrasonic", "echoes", "detect obstacles"],
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "gr009",
+      "question": "Sound absorbing materials are used in auditoriums and concert halls.",
+      "answer": "Sound absorbing materials (like curtains, carpets, acoustic panels) reduce excessive reflection of sound, preventing unwanted echo and reverberation. This ensures that the audience hears clear sound without the original sound mixing with multiple reflections.",
+      "keywords": ["reduce reflection", "prevent echo", "prevent reverberation", "clear sound"],
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "gr010",
+      "question": "The ceiling of concert halls is curved.",
+      "answer": "The curved ceiling reflects sound waves uniformly towards all parts of the audience. This ensures that sound is distributed evenly throughout the hall, so people sitting in different areas can hear the performance equally well.",
+      "keywords": ["uniform reflection", "even distribution", "all audience"],
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "gr011",
+      "question": "Ultrasound is used for medical imaging instead of X-rays in some cases.",
+      "answer": "Ultrasound uses sound waves which are non-ionizing and harmless to the body, unlike X-rays which use harmful ionizing radiation. Ultrasound is particularly safe for pregnant women and fetuses, and can show real-time images of moving structures like the heart.",
+      "keywords": ["non-ionizing", "harmless", "safe for pregnancy", "no radiation"],
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "gr012",
+      "question": "A stethoscope has a long tube.",
+      "answer": "The long tube of a stethoscope allows sound to travel from the chest piece to the doctor's ears through multiple reflections inside the tube. The enclosed tube prevents sound from escaping and ensures that even faint sounds like heartbeats reach the doctor clearly.",
+      "keywords": ["multiple reflections", "prevents escape", "sound reaches ears"],
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "gr013",
+      "question": "Tightening a guitar string produces a shriller (higher pitched) sound.",
+      "answer": "Tightening a string increases its tension, which makes it vibrate faster when plucked. Higher vibration frequency means higher frequency sound waves, which we perceive as higher pitch or shriller sound.",
+      "keywords": ["increased tension", "vibrates faster", "higher frequency", "higher pitch"],
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "gr014",
+      "question": "A drum produces sound when beaten.",
+      "answer": "When a drum is beaten, its stretched membrane vibrates rapidly. These vibrations disturb the surrounding air particles, creating alternating compressions and rarefactions (sound waves) that travel to our ears and are perceived as sound.",
+      "keywords": ["membrane vibrates", "disturbs air", "compressions", "rarefactions"],
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "gr015",
+      "question": "SONAR uses ultrasonic waves and not audible sound waves.",
+      "answer": "Ultrasonic waves have very high frequency and short wavelength, making them highly directional and able to travel long distances underwater without much spreading. They also don't interfere with normal underwater sounds and can penetrate objects better, providing clearer echoes for detection.",
+      "keywords": ["highly directional", "long distance", "clearer echoes", "short wavelength"],
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "gr016",
+      "question": "The speed of sound increases with temperature.",
+      "answer": "At higher temperatures, air molecules have more kinetic energy and move faster. This allows vibrations to be transmitted more quickly from one molecule to another, increasing the speed of sound. Speed increases by about 0.6 m/s for every 1°C rise in temperature.",
+      "keywords": ["molecules move faster", "more kinetic energy", "faster transfer", "0.6 m/s per degree"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "gr017",
+      "question": "Dogs respond to a dog whistle but humans cannot hear it.",
+      "answer": "Dog whistles produce ultrasonic sounds with frequency above 20,000 Hz. This is beyond the upper limit of human hearing (20-20,000 Hz), so humans cannot detect the sound. Dogs can hear frequencies up to 45,000 Hz, so they can hear the whistle.",
+      "keywords": ["above 20000 Hz", "beyond human range", "dogs hear higher frequencies"],
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "gr018",
+      "question": "Elephants can sense earthquakes before humans.",
+      "answer": "Earthquakes produce infrasonic waves (below 20 Hz) before the main tremors. Elephants can detect infrasonic sounds and feel these vibrations through their feet. Humans cannot hear infrasonic sounds, so they don't detect these early warning signs.",
+      "keywords": ["infrasonic waves", "below 20 Hz", "detect early", "through feet"],
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "gr019",
+      "question": "A megaphone is shaped like a cone.",
+      "answer": "The conical shape of a megaphone causes sound waves to reflect multiple times from the inner walls, directing them in a specific direction. This prevents sound from spreading in all directions and concentrates it toward the audience, making it louder in that direction.",
+      "keywords": ["multiple reflections", "directs sound", "prevents spreading", "concentrates"],
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "gr020",
+      "question": "Prolonged exposure to loud sounds can cause hearing loss.",
+      "answer": "Loud sounds have high amplitude and carry more energy. This excessive energy can damage the delicate hair cells in the cochlea of the inner ear. Once damaged, these cells cannot regenerate, leading to permanent hearing loss. Sounds above 85 dB can cause damage over time.",
+      "keywords": ["high energy", "damages hair cells", "cochlea", "permanent damage"],
+      "source_section": "Noise Pollution"
+    }
+  ],
+  "total_count": 20,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

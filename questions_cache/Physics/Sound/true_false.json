@@ -1,0 +1,359 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "tf001",
+      "question": "Sound is produced by vibrating objects.",
+      "correct_answer": true,
+      "explanation": "Sound is always produced when objects vibrate, creating disturbances in the surrounding medium.",
+      "source_section": "Introduction to Sound"
+    },
+    {
+      "id": "tf002",
+      "question": "Sound can travel through vacuum.",
+      "correct_answer": false,
+      "explanation": "Sound requires a material medium (solid, liquid, or gas) to travel. It cannot propagate through vacuum.",
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "tf003",
+      "question": "Sound waves are transverse waves.",
+      "correct_answer": false,
+      "explanation": "Sound waves are longitudinal waves where particles vibrate parallel to the direction of wave propagation.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "tf004",
+      "question": "Sound travels faster in solids than in gases.",
+      "correct_answer": true,
+      "explanation": "Particles in solids are closely packed, allowing faster transmission of vibrations.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tf005",
+      "question": "The speed of sound in air is approximately 340 m/s.",
+      "correct_answer": true,
+      "explanation": "At room temperature (about 20°C), sound travels at approximately 340 m/s in air.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tf006",
+      "question": "Loudness depends on the frequency of sound.",
+      "correct_answer": false,
+      "explanation": "Loudness depends on amplitude, not frequency. Frequency determines pitch.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tf007",
+      "question": "Pitch depends on the frequency of sound.",
+      "correct_answer": true,
+      "explanation": "Higher frequency produces higher pitch (shriller sound).",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tf008",
+      "question": "The human hearing range is 20 Hz to 20,000 Hz.",
+      "correct_answer": true,
+      "explanation": "Humans can hear sounds in the frequency range of 20 Hz to 20,000 Hz (20 kHz).",
+      "source_section": "Range of Hearing"
+    },
+    {
+      "id": "tf009",
+      "question": "Ultrasonic sounds have frequency below 20 Hz.",
+      "correct_answer": false,
+      "explanation": "Ultrasonic sounds have frequency above 20,000 Hz. Sounds below 20 Hz are called infrasonic.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "tf010",
+      "question": "Bats use ultrasonic sounds for navigation.",
+      "correct_answer": true,
+      "explanation": "Bats emit ultrasonic sounds and use echolocation to navigate and locate prey in the dark.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "tf011",
+      "question": "Elephants can produce infrasonic sounds.",
+      "correct_answer": true,
+      "explanation": "Elephants produce infrasonic sounds (below 20 Hz) to communicate over long distances.",
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "tf012",
+      "question": "An echo is produced when sound is absorbed by a surface.",
+      "correct_answer": false,
+      "explanation": "Echo is produced when sound is reflected from a surface, not absorbed.",
+      "source_section": "Echo"
+    },
+    {
+      "id": "tf013",
+      "question": "For an echo to be heard, the minimum distance to the reflecting surface must be 17 metres.",
+      "correct_answer": true,
+      "explanation": "This ensures a time gap of at least 0.1 seconds between original sound and echo.",
+      "source_section": "Echo"
+    },
+    {
+      "id": "tf014",
+      "question": "SONAR uses ultrasonic waves.",
+      "correct_answer": true,
+      "explanation": "SONAR (Sound Navigation and Ranging) uses ultrasonic waves to detect underwater objects.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "tf015",
+      "question": "The larynx is also known as the voice box.",
+      "correct_answer": true,
+      "explanation": "The larynx, located at the top of the windpipe, contains the vocal cords and is called the voice box.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "tf016",
+      "question": "Frequency and time period are directly proportional.",
+      "correct_answer": false,
+      "explanation": "Frequency and time period are inversely proportional (reciprocals): f = 1/T.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tf017",
+      "question": "The SI unit of frequency is Hertz.",
+      "correct_answer": true,
+      "explanation": "Hertz (Hz) is the SI unit of frequency, where 1 Hz = 1 oscillation per second.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tf018",
+      "question": "Wavelength is represented by the Greek letter alpha.",
+      "correct_answer": false,
+      "explanation": "Wavelength is represented by the Greek letter lambda (λ), not alpha.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tf019",
+      "question": "Sound travels faster in water than in air.",
+      "correct_answer": true,
+      "explanation": "Sound travels at about 1500 m/s in water, compared to 340 m/s in air.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tf020",
+      "question": "The speed of sound decreases with increase in temperature.",
+      "correct_answer": false,
+      "explanation": "Speed of sound increases with temperature because molecules move faster at higher temperatures.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tf021",
+      "question": "Compression is a region of high pressure in a sound wave.",
+      "correct_answer": true,
+      "explanation": "At compression, particles are crowded together, creating high pressure.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "tf022",
+      "question": "A guitar is a percussion instrument.",
+      "correct_answer": false,
+      "explanation": "Guitar is a stringed instrument. Drums and tabla are percussion instruments.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "tf023",
+      "question": "In a flute, sound is produced by vibrating air column.",
+      "correct_answer": true,
+      "explanation": "Flute is a wind instrument where sound is produced by the vibration of air column inside.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "tf024",
+      "question": "Loudness is measured in Hertz.",
+      "correct_answer": false,
+      "explanation": "Loudness is measured in decibels (dB). Hertz is the unit of frequency.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tf025",
+      "question": "Timbre helps us distinguish between different voices.",
+      "correct_answer": true,
+      "explanation": "Timbre (quality) allows us to identify different voices or instruments even with same pitch and loudness.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tf026",
+      "question": "Sound waves can travel through the moon's surface.",
+      "correct_answer": false,
+      "explanation": "The moon has no atmosphere (vacuum), so sound cannot travel on the moon.",
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "tf027",
+      "question": "Light travels slower than sound.",
+      "correct_answer": false,
+      "explanation": "Light travels at 3 × 10^8 m/s, much faster than sound at 340 m/s.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tf028",
+      "question": "We see lightning before hearing thunder.",
+      "correct_answer": true,
+      "explanation": "Light travels faster than sound, so we see lightning before hearing the thunder.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tf029",
+      "question": "Ultrasound can be used to scan internal organs during pregnancy.",
+      "correct_answer": true,
+      "explanation": "Ultrasound scanning (sonography) safely creates images of internal organs and the baby during pregnancy.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "tf030",
+      "question": "Reverberation is the same as echo.",
+      "correct_answer": false,
+      "explanation": "Echo is a single reflection heard separately; reverberation is multiple reflections creating prolonged sound.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "tf031",
+      "question": "Sound absorbing materials increase echo in a room.",
+      "correct_answer": false,
+      "explanation": "Sound absorbing materials reduce echo and reverberation by absorbing sound instead of reflecting it.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "tf032",
+      "question": "A stethoscope works on the principle of multiple reflection of sound.",
+      "correct_answer": true,
+      "explanation": "Sound is reflected multiple times through the tube of a stethoscope to reach the doctor's ears.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "tf033",
+      "question": "Higher frequency sounds have longer wavelength.",
+      "correct_answer": false,
+      "explanation": "At constant speed, higher frequency means shorter wavelength (v = f × λ).",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tf034",
+      "question": "Sound carries energy without carrying matter.",
+      "correct_answer": true,
+      "explanation": "Sound waves transfer energy through particle vibrations without actual transfer of matter.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "tf035",
+      "question": "Men's voices are usually higher pitched than women's voices.",
+      "correct_answer": false,
+      "explanation": "Men have longer, thicker vocal cords that vibrate slower, producing lower-pitched (deeper) voices.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "tf036",
+      "question": "The persistence of hearing in humans is about 0.1 seconds.",
+      "correct_answer": true,
+      "explanation": "Human ear retains sensation of sound for about 0.1 seconds (persistence of hearing).",
+      "source_section": "Echo"
+    },
+    {
+      "id": "tf037",
+      "question": "Dolphins can produce and hear ultrasonic sounds.",
+      "correct_answer": true,
+      "explanation": "Dolphins use ultrasonic sounds for echolocation to navigate and hunt underwater.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "tf038",
+      "question": "Earthquakes produce ultrasonic waves.",
+      "correct_answer": false,
+      "explanation": "Earthquakes produce infrasonic waves (below 20 Hz), not ultrasonic waves.",
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "tf039",
+      "question": "A dog whistle produces sounds that humans cannot hear.",
+      "correct_answer": true,
+      "explanation": "Dog whistles produce ultrasonic sounds above 20,000 Hz that dogs can hear but humans cannot.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "tf040",
+      "question": "Lithotripsy uses ultrasound to break kidney stones.",
+      "correct_answer": true,
+      "explanation": "Lithotripsy uses high-intensity ultrasound waves to shatter kidney stones into smaller pieces.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "tf041",
+      "question": "Amplitude determines the pitch of a sound.",
+      "correct_answer": false,
+      "explanation": "Amplitude determines loudness, not pitch. Frequency determines pitch.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tf042",
+      "question": "The speed of sound in steel is greater than in water.",
+      "correct_answer": true,
+      "explanation": "Sound travels at about 5000 m/s in steel compared to 1500 m/s in water.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tf043",
+      "question": "In longitudinal waves, particles move perpendicular to wave direction.",
+      "correct_answer": false,
+      "explanation": "In longitudinal waves, particles move parallel (back and forth) to the direction of wave propagation.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "tf044",
+      "question": "The eardrum vibrates when sound enters the ear.",
+      "correct_answer": true,
+      "explanation": "Sound waves cause the eardrum (tympanic membrane) to vibrate, starting the hearing process.",
+      "source_section": "Human Ear"
+    },
+    {
+      "id": "tf045",
+      "question": "Noise pollution can cause hearing loss.",
+      "correct_answer": true,
+      "explanation": "Prolonged exposure to loud sounds (above 80 dB) can damage hearing.",
+      "source_section": "Noise Pollution"
+    },
+    {
+      "id": "tf046",
+      "question": "Shorter strings on a guitar produce lower pitch.",
+      "correct_answer": false,
+      "explanation": "Shorter strings vibrate faster, producing higher frequency and higher pitch sounds.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "tf047",
+      "question": "Tightening a string increases its pitch.",
+      "correct_answer": true,
+      "explanation": "Tighter strings vibrate faster, increasing frequency and thus increasing pitch.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "tf048",
+      "question": "Compression and rarefaction alternate in a sound wave.",
+      "correct_answer": true,
+      "explanation": "Sound waves consist of alternating regions of compression (high pressure) and rarefaction (low pressure).",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "tf049",
+      "question": "Megaphones work by absorbing sound.",
+      "correct_answer": false,
+      "explanation": "Megaphones work by multiple reflections of sound, directing it in a specific direction.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "tf050",
+      "question": "Ultrasound can detect cracks in metal structures.",
+      "correct_answer": true,
+      "explanation": "Ultrasound waves reflect from internal cracks, helping detect flaws in metal structures.",
+      "source_section": "Uses of Ultrasound"
+    }
+  ],
+  "total_count": 50,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

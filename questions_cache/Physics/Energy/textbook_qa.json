@@ -1,0 +1,19 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {"id": "tbq001", "question": "What is energy? State its SI unit.", "answer": "Energy is the capacity to do work. Its SI unit is Joule (J). 1 Joule is the energy required to move an object through 1 metre against a force of 1 Newton.", "source_section": "Introduction"},
+    {"id": "tbq002", "question": "Define kinetic energy with its formula.", "answer": "Kinetic energy is the energy possessed by a body due to its motion. KE = ½mv², where m is mass (kg) and v is velocity (m/s).", "source_section": "Kinetic Energy"},
+    {"id": "tbq003", "question": "Define potential energy with its formula.", "answer": "Potential energy is the energy stored in a body due to its position or configuration. Gravitational PE = mgh, where m is mass, g is acceleration due to gravity, and h is height.", "source_section": "Potential Energy"},
+    {"id": "tbq004", "question": "State and explain the law of conservation of energy.", "answer": "The law states that energy can neither be created nor destroyed; it can only be transformed from one form to another. The total energy of an isolated system remains constant.", "source_section": "Conservation"},
+    {"id": "tbq005", "question": "What is power? State its SI unit.", "answer": "Power is the rate of doing work. P = W/t. Its SI unit is Watt (W). 1 Watt = 1 Joule per second.", "source_section": "Power"},
+    {"id": "tbq006", "question": "List different forms of energy.", "answer": "Forms of energy include: Kinetic, Potential (gravitational, elastic), Heat/Thermal, Light, Sound, Electrical, Chemical, Nuclear, and Magnetic energy.", "source_section": "Forms of Energy"},
+    {"id": "tbq007", "question": "What are renewable energy sources? Give examples.", "answer": "Renewable energy sources are those that are continuously replenished by nature. Examples: Solar, Wind, Hydro (water), Geothermal, Tidal, and Biomass energy.", "source_section": "Sources"},
+    {"id": "tbq008", "question": "What are non-renewable energy sources? Give examples.", "answer": "Non-renewable energy sources have limited reserves and take millions of years to form. Examples: Coal, Petroleum (oil), Natural gas, and Nuclear fuels (uranium).", "source_section": "Sources"},
+    {"id": "tbq009", "question": "What is mechanical energy?", "answer": "Mechanical energy is the sum of kinetic and potential energy of a body. ME = KE + PE. In the absence of non-conservative forces, mechanical energy is conserved.", "source_section": "Mechanical Energy"},
+    {"id": "tbq010", "question": "Explain the energy transformation in a simple pendulum.", "answer": "At extreme positions: max PE, zero KE. As pendulum swings down: PE converts to KE. At mean position: max KE, zero PE. Then KE converts back to PE. Total mechanical energy remains constant.", "source_section": "Transformation"}
+  ],
+  "total_count": 10,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Energy"
+}

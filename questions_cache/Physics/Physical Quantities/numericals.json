@@ -1,0 +1,184 @@
+{
+  "question_type": "numericals",
+  "questions": [
+    {
+      "id": "num001",
+      "question": "The main scale reading of a vernier callipers is 3.2 cm and the 5th division of the vernier scale coincides with the main scale. If the least count is 0.01 cm, find the total reading.",
+      "answer": "**Given:**\n- Main Scale Reading (MSR) = 3.2 cm\n- Vernier Scale Reading (VSR) = 5\n- Least Count (LC) = 0.01 cm\n\n**Formula:**\nTotal Reading = MSR + (VSR × LC)\n\n**Solution:**\nTotal Reading = 3.2 + (5 × 0.01)\n= 3.2 + 0.05\n= 3.25 cm\n\n**Answer:** Total reading = 3.25 cm",
+      "formula": "Total Reading = MSR + (VSR × LC)",
+      "source_section": "Vernier Callipers"
+    },
+    {
+      "id": "num002",
+      "question": "A screw gauge has a pitch of 1 mm and 100 divisions on the circular scale. Find its least count.",
+      "answer": "**Given:**\n- Pitch = 1 mm\n- Number of divisions on circular scale = 100\n\n**Formula:**\nLeast Count = Pitch / Number of divisions\n\n**Solution:**\nLC = 1 mm / 100\n= 0.01 mm\n= 0.001 cm\n\n**Answer:** Least count = 0.01 mm or 0.001 cm",
+      "formula": "LC = Pitch / Number of divisions",
+      "source_section": "Screw Gauge"
+    },
+    {
+      "id": "num003",
+      "question": "Convert 72 km/h into m/s.",
+      "answer": "**Given:**\n- Speed = 72 km/h\n\n**Conversion:**\n1 km = 1000 m\n1 hour = 3600 s\n\n**Solution:**\n72 km/h = 72 × (1000 m)/(3600 s)\n= 72 × (1000/3600) m/s\n= 72 × (5/18) m/s\n= 72 × 5/18\n= 360/18\n= 20 m/s\n\n**Answer:** 72 km/h = 20 m/s",
+      "formula": "km/h to m/s: multiply by 5/18",
+      "source_section": "Unit Conversion"
+    },
+    {
+      "id": "num004",
+      "question": "The pitch scale reading of a screw gauge is 4 mm and the circular scale reading is 35. If the least count is 0.01 mm, calculate the total reading.",
+      "answer": "**Given:**\n- Pitch Scale Reading (PSR) = 4 mm\n- Circular Scale Reading (CSR) = 35\n- Least Count (LC) = 0.01 mm\n\n**Formula:**\nTotal Reading = PSR + (CSR × LC)\n\n**Solution:**\nTotal Reading = 4 + (35 × 0.01)\n= 4 + 0.35\n= 4.35 mm\n\n**Answer:** Total reading = 4.35 mm",
+      "formula": "Total Reading = PSR + (CSR × LC)",
+      "source_section": "Screw Gauge"
+    },
+    {
+      "id": "num005",
+      "question": "Express 0.000005 m in micrometres and nanometres.",
+      "answer": "**Given:**\n- Length = 0.000005 m = 5 × 10^-6 m\n\n**Conversions:**\n1 micrometre (μm) = 10^-6 m\n1 nanometre (nm) = 10^-9 m\n\n**Solution:**\nIn micrometres:\n5 × 10^-6 m = 5 × 10^-6 / 10^-6 μm = 5 μm\n\nIn nanometres:\n5 × 10^-6 m = 5 × 10^-6 / 10^-9 nm = 5 × 10^3 nm = 5000 nm\n\n**Answer:** 0.000005 m = 5 μm = 5000 nm",
+      "formula": "1 μm = 10^-6 m; 1 nm = 10^-9 m",
+      "source_section": "Small Units"
+    },
+    {
+      "id": "num006",
+      "question": "A vernier callipers has 20 divisions on its vernier scale which coincide with 19 divisions on the main scale. If 1 MSD = 1 mm, find the least count.",
+      "answer": "**Given:**\n- 20 VSD = 19 MSD\n- 1 MSD = 1 mm\n\n**Formula:**\n1 VSD = (19/20) MSD\nLC = 1 MSD - 1 VSD\n\n**Solution:**\n1 VSD = (19/20) × 1 mm = 0.95 mm\n\nLC = 1 MSD - 1 VSD\n= 1 mm - 0.95 mm\n= 0.05 mm\n= 0.005 cm\n\n**Answer:** Least count = 0.05 mm = 0.005 cm",
+      "formula": "LC = 1 MSD - 1 VSD",
+      "source_section": "Vernier Callipers"
+    },
+    {
+      "id": "num007",
+      "question": "A screw gauge has zero error of +0.04 mm. The pitch scale reading is 5 mm and the circular scale reading is 28. If the least count is 0.01 mm, find the correct measurement.",
+      "answer": "**Given:**\n- Zero error = +0.04 mm (positive)\n- PSR = 5 mm\n- CSR = 28\n- LC = 0.01 mm\n\n**Formula:**\nObserved reading = PSR + (CSR × LC)\nCorrect reading = Observed reading - Zero error\n\n**Solution:**\nObserved reading = 5 + (28 × 0.01)\n= 5 + 0.28 = 5.28 mm\n\nCorrect reading = 5.28 - 0.04\n= 5.24 mm\n\n**Answer:** Correct measurement = 5.24 mm",
+      "formula": "Correct reading = Observed - (+ve zero error)",
+      "source_section": "Screw Gauge"
+    },
+    {
+      "id": "num008",
+      "question": "Calculate the distance light travels in 1 nanosecond. (Speed of light = 3 × 10^8 m/s)",
+      "answer": "**Given:**\n- Speed of light (c) = 3 × 10^8 m/s\n- Time (t) = 1 ns = 10^-9 s\n\n**Formula:**\nDistance = Speed × Time\n\n**Solution:**\nDistance = 3 × 10^8 × 10^-9\n= 3 × 10^-1 m\n= 0.3 m\n= 30 cm\n\n**Answer:** Light travels 0.3 m (30 cm) in 1 nanosecond",
+      "formula": "d = v × t",
+      "source_section": "Speed of Light"
+    },
+    {
+      "id": "num009",
+      "question": "Express 1 newton in terms of dyne. (1 N = 1 kg·m/s², 1 dyne = 1 g·cm/s²)",
+      "answer": "**Given:**\n- 1 N = 1 kg·m/s²\n- 1 dyne = 1 g·cm/s²\n\n**Conversions:**\n- 1 kg = 1000 g\n- 1 m = 100 cm\n\n**Solution:**\n1 N = 1 kg·m/s²\n= 1 × (1000 g) × (100 cm)/s²\n= 1000 × 100 g·cm/s²\n= 100000 g·cm/s²\n= 10^5 dyne\n\n**Answer:** 1 newton = 10^5 dyne",
+      "formula": "Unit conversion using dimensional analysis",
+      "source_section": "CGS to SI Conversion"
+    },
+    {
+      "id": "num010",
+      "question": "The diameter of a wire measured by a screw gauge was found to be 1.32 mm, 1.34 mm, 1.33 mm, 1.31 mm, 1.35 mm in five observations. Calculate the mean diameter and the absolute error in the mean.",
+      "answer": "**Given:**\nObservations: 1.32, 1.34, 1.33, 1.31, 1.35 mm\n\n**Solution:**\n**Mean diameter:**\nMean = (1.32 + 1.34 + 1.33 + 1.31 + 1.35)/5\n= 6.65/5 = 1.33 mm\n\n**Absolute errors:**\n|1.32 - 1.33| = 0.01 mm\n|1.34 - 1.33| = 0.01 mm\n|1.33 - 1.33| = 0.00 mm\n|1.31 - 1.33| = 0.02 mm\n|1.35 - 1.33| = 0.02 mm\n\n**Mean absolute error:**\nΔd = (0.01 + 0.01 + 0.00 + 0.02 + 0.02)/5\n= 0.06/5 = 0.012 mm ≈ 0.01 mm\n\n**Answer:** Mean diameter = 1.33 ± 0.01 mm",
+      "formula": "Mean = Σx/n; Mean absolute error = Σ|xi - mean|/n",
+      "source_section": "Errors"
+    },
+    {
+      "id": "num011",
+      "question": "Convert 15 m/s to km/h.",
+      "answer": "**Given:**\n- Speed = 15 m/s\n\n**Conversion:**\n1 m = 10^-3 km\n1 s = (1/3600) h\n\n**Solution:**\n15 m/s = 15 × (10^-3 km)/(1/3600 h)\n= 15 × 10^-3 × 3600 km/h\n= 15 × 3.6 km/h\n= 54 km/h\n\nOR using the formula: m/s to km/h → multiply by 18/5\n= 15 × 18/5 = 270/5 = 54 km/h\n\n**Answer:** 15 m/s = 54 km/h",
+      "formula": "m/s to km/h: multiply by 18/5 (or 3.6)",
+      "source_section": "Unit Conversion"
+    },
+    {
+      "id": "num012",
+      "question": "A vernier callipers has zero error of -0.03 cm. When measuring the length of a rod, MSR = 4.7 cm and VSR = 6. If LC = 0.01 cm, find the correct length.",
+      "answer": "**Given:**\n- Zero error = -0.03 cm (negative)\n- MSR = 4.7 cm\n- VSR = 6\n- LC = 0.01 cm\n\n**Formula:**\nObserved reading = MSR + (VSR × LC)\nCorrect reading = Observed reading - Zero error\n\n**Solution:**\nObserved reading = 4.7 + (6 × 0.01)\n= 4.7 + 0.06 = 4.76 cm\n\nCorrect reading = 4.76 - (-0.03)\n= 4.76 + 0.03\n= 4.79 cm\n\n**Answer:** Correct length = 4.79 cm",
+      "formula": "Correct = Observed - (-ve zero error) = Observed + zero error",
+      "source_section": "Vernier Callipers"
+    },
+    {
+      "id": "num013",
+      "question": "Calculate 1 joule in terms of erg. (1 J = 1 kg·m²/s², 1 erg = 1 g·cm²/s²)",
+      "answer": "**Given:**\n- 1 J = 1 kg·m²/s²\n- 1 erg = 1 g·cm²/s²\n\n**Conversions:**\n- 1 kg = 1000 g = 10^3 g\n- 1 m = 100 cm = 10^2 cm\n- 1 m² = 10^4 cm²\n\n**Solution:**\n1 J = 1 kg·m²/s²\n= 1 × (10^3 g) × (10^4 cm²)/s²\n= 10^3 × 10^4 g·cm²/s²\n= 10^7 g·cm²/s²\n= 10^7 erg\n\n**Answer:** 1 joule = 10^7 erg",
+      "formula": "Unit conversion using SI to CGS",
+      "source_section": "CGS to SI Conversion"
+    },
+    {
+      "id": "num014",
+      "question": "The 1 MSD of a vernier callipers is 1 mm. The vernier scale has 50 divisions and 50 VSD = 49 MSD. Calculate: (a) 1 VSD (b) Least count",
+      "answer": "**Given:**\n- 1 MSD = 1 mm\n- 50 VSD = 49 MSD\n\n**Solution:**\n\n**(a) 1 VSD:**\n50 VSD = 49 MSD = 49 mm\n1 VSD = 49/50 mm = 0.98 mm\n\n**(b) Least Count:**\nLC = 1 MSD - 1 VSD\n= 1 mm - 0.98 mm\n= 0.02 mm\n= 0.002 cm\n\n**Answer:** (a) 1 VSD = 0.98 mm, (b) Least count = 0.02 mm",
+      "formula": "LC = 1 MSD - 1 VSD",
+      "source_section": "Vernier Callipers"
+    },
+    {
+      "id": "num015",
+      "question": "The distance from Earth to Sun is approximately 1.5 × 10^11 m. Express this distance in: (a) kilometres (b) astronomical units",
+      "answer": "**Given:**\n- Distance = 1.5 × 10^11 m\n- 1 AU ≈ 1.5 × 10^11 m\n\n**Solution:**\n\n**(a) In kilometres:**\n1 km = 10^3 m\nDistance = 1.5 × 10^11 m / 10^3 m/km\n= 1.5 × 10^8 km\n= 150,000,000 km\n\n**(b) In astronomical units:**\nDistance = (1.5 × 10^11 m) / (1.5 × 10^11 m/AU)\n= 1 AU\n\n**Answer:** (a) 1.5 × 10^8 km, (b) 1 AU",
+      "formula": "1 AU = 1.5 × 10^11 m",
+      "source_section": "Large Units"
+    },
+    {
+      "id": "num016",
+      "question": "A screw gauge has 50 divisions on its circular scale. If its pitch is 0.5 mm, find the least count.",
+      "answer": "**Given:**\n- Pitch = 0.5 mm\n- Number of divisions = 50\n\n**Formula:**\nLeast Count = Pitch / Number of divisions\n\n**Solution:**\nLC = 0.5 mm / 50\n= 0.01 mm\n= 10 micrometres\n= 0.001 cm\n\n**Answer:** Least count = 0.01 mm = 10 μm",
+      "formula": "LC = Pitch / Number of divisions",
+      "source_section": "Screw Gauge"
+    },
+    {
+      "id": "num017",
+      "question": "Calculate the number of seconds in 1 year (365 days).",
+      "answer": "**Given:**\n- 1 year = 365 days\n- 1 day = 24 hours\n- 1 hour = 60 minutes\n- 1 minute = 60 seconds\n\n**Solution:**\n1 year = 365 × 24 × 60 × 60 seconds\n= 365 × 24 × 3600 seconds\n= 365 × 86400 seconds\n= 31,536,000 seconds\n= 3.1536 × 10^7 seconds\n\n**Answer:** 1 year = 3.1536 × 10^7 seconds",
+      "formula": "Time conversions",
+      "source_section": "Unit Conversion"
+    },
+    {
+      "id": "num018",
+      "question": "A student measures the length of an object as 5.65 cm using vernier callipers with LC = 0.01 cm. The vernier callipers has a zero error of +0.02 cm. What is the correct length?",
+      "answer": "**Given:**\n- Observed reading = 5.65 cm\n- Zero error = +0.02 cm (positive)\n\n**Formula:**\nCorrect reading = Observed reading - Zero error\n\n**Solution:**\nCorrect length = 5.65 - (+0.02)\n= 5.65 - 0.02\n= 5.63 cm\n\n**Answer:** Correct length = 5.63 cm",
+      "formula": "Correct = Observed - Positive zero error",
+      "source_section": "Vernier Callipers"
+    },
+    {
+      "id": "num019",
+      "question": "The density of mercury is 13.6 g/cm³. Convert it to SI unit (kg/m³).",
+      "answer": "**Given:**\n- Density = 13.6 g/cm³\n\n**Conversions:**\n- 1 g = 10^-3 kg\n- 1 cm = 10^-2 m\n- 1 cm³ = 10^-6 m³\n\n**Solution:**\n13.6 g/cm³ = 13.6 × (10^-3 kg)/(10^-6 m³)\n= 13.6 × 10^-3 × 10^6 kg/m³\n= 13.6 × 10^3 kg/m³\n= 13600 kg/m³\n\n**Answer:** Density of mercury = 13600 kg/m³ = 1.36 × 10^4 kg/m³",
+      "formula": "g/cm³ to kg/m³: multiply by 1000",
+      "source_section": "Unit Conversion"
+    },
+    {
+      "id": "num020",
+      "question": "Calculate 1 light year in metres. (Speed of light = 3 × 10^8 m/s)",
+      "answer": "**Given:**\n- Speed of light (c) = 3 × 10^8 m/s\n- 1 year = 365 × 24 × 60 × 60 s = 3.1536 × 10^7 s\n\n**Formula:**\nDistance = Speed × Time\n\n**Solution:**\n1 light year = c × t\n= 3 × 10^8 × 3.1536 × 10^7 m\n= 9.46 × 10^15 m\n\n**Answer:** 1 light year = 9.46 × 10^15 metres",
+      "formula": "Light year = c × 1 year",
+      "source_section": "Large Units"
+    },
+    {
+      "id": "num021",
+      "question": "The percentage error in measuring the radius of a sphere is 2%. What will be the percentage error in calculating its volume?",
+      "answer": "**Given:**\n- Percentage error in radius = 2%\n\n**Formula:**\nVolume of sphere V = (4/3)πr³\nV ∝ r³\n\n**Solution:**\nRelative error in V = 3 × (Relative error in r)\n\nPercentage error in V = 3 × 2% = 6%\n\n**Answer:** Percentage error in volume = 6%",
+      "formula": "If y = xⁿ, then %error in y = n × %error in x",
+      "source_section": "Errors"
+    },
+    {
+      "id": "num022",
+      "question": "How many nanometres are there in 2.5 micrometres?",
+      "answer": "**Given:**\n- Length = 2.5 μm\n\n**Conversions:**\n- 1 μm = 10^-6 m\n- 1 nm = 10^-9 m\n- 1 μm = 10^-6 m = 10^-6 / 10^-9 nm = 10^3 nm = 1000 nm\n\n**Solution:**\n2.5 μm = 2.5 × 1000 nm\n= 2500 nm\n= 2.5 × 10^3 nm\n\n**Answer:** 2.5 micrometres = 2500 nanometres",
+      "formula": "1 μm = 1000 nm",
+      "source_section": "Small Units"
+    },
+    {
+      "id": "num023",
+      "question": "A screw gauge has zero error of -5 divisions. If the circular scale has 100 divisions and pitch is 1 mm, find the zero error in mm.",
+      "answer": "**Given:**\n- Zero error = -5 divisions\n- Number of divisions = 100\n- Pitch = 1 mm\n\n**Solution:**\nLeast count = Pitch / Number of divisions\n= 1 mm / 100 = 0.01 mm\n\nZero error = -5 × LC\n= -5 × 0.01 mm\n= -0.05 mm\n\n**Answer:** Zero error = -0.05 mm",
+      "formula": "Zero error (in mm) = Number of divisions × LC",
+      "source_section": "Screw Gauge"
+    },
+    {
+      "id": "num024",
+      "question": "The length and breadth of a rectangle are measured as 5.7 cm and 3.4 cm respectively using a scale of least count 0.1 cm. Calculate the area and express the result with correct significant figures.",
+      "answer": "**Given:**\n- Length (l) = 5.7 cm (2 significant figures)\n- Breadth (b) = 3.4 cm (2 significant figures)\n- LC = 0.1 cm\n\n**Formula:**\nArea = l × b\n\n**Solution:**\nArea = 5.7 × 3.4 = 19.38 cm²\n\nSince both measurements have 2 significant figures, the result should also have 2 significant figures.\n\nArea = 19 cm² (rounded to 2 significant figures)\n\nOr more precisely: Area = 19.4 cm² (keeping one extra figure)\n\n**Answer:** Area = 19 cm² (to 2 significant figures)",
+      "formula": "Area = l × b; Significant figures rule for multiplication",
+      "source_section": "Significant Figures"
+    },
+    {
+      "id": "num025",
+      "question": "Express 1 parsec in metres. (1 parsec = 3.26 light years, 1 light year = 9.46 × 10^15 m)",
+      "answer": "**Given:**\n- 1 parsec = 3.26 light years\n- 1 light year = 9.46 × 10^15 m\n\n**Solution:**\n1 parsec = 3.26 × (1 light year)\n= 3.26 × 9.46 × 10^15 m\n= 30.84 × 10^15 m\n= 3.084 × 10^16 m\n≈ 3.1 × 10^16 m\n\n**Answer:** 1 parsec ≈ 3.1 × 10^16 metres",
+      "formula": "1 parsec = 3.26 ly",
+      "source_section": "Large Units"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Physical Quantities"
+}

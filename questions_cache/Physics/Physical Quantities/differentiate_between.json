@@ -1,0 +1,113 @@
+{
+  "question_type": "differentiate_between",
+  "questions": [
+    {
+      "id": "db001",
+      "term1": "Fundamental Quantities",
+      "term2": "Derived Quantities",
+      "differences": [
+        {"aspect": "Definition", "term1_point": "Quantities that are independent and cannot be expressed in terms of other quantities", "term2_point": "Quantities obtained by combining fundamental quantities through mathematical operations"},
+        {"aspect": "Examples", "term1_point": "Length, mass, time, temperature, electric current", "term2_point": "Velocity, force, area, volume, pressure"},
+        {"aspect": "Number", "term1_point": "Seven in SI system", "term2_point": "Unlimited (can derive many)"},
+        {"aspect": "Units", "term1_point": "Have fundamental units (m, kg, s, A, K, mol, cd)", "term2_point": "Have derived units (m/s, N, m², Pa, etc.)"},
+        {"aspect": "Nature", "term1_point": "Basic building blocks of physical measurements", "term2_point": "Built from fundamental quantities"}
+      ],
+      "source_section": "Physical Quantities"
+    },
+    {
+      "id": "db002",
+      "term1": "Scalar Quantities",
+      "term2": "Vector Quantities",
+      "differences": [
+        {"aspect": "Definition", "term1_point": "Quantities having only magnitude", "term2_point": "Quantities having both magnitude and direction"},
+        {"aspect": "Examples", "term1_point": "Mass, speed, time, energy, temperature", "term2_point": "Velocity, force, displacement, acceleration"},
+        {"aspect": "Representation", "term1_point": "Represented by a number with unit", "term2_point": "Represented by an arrow with length (magnitude) and direction"},
+        {"aspect": "Addition", "term1_point": "Follow ordinary algebra rules", "term2_point": "Follow vector algebra rules (parallelogram law)"},
+        {"aspect": "Division", "term1_point": "Can be divided by another scalar", "term2_point": "Cannot be divided by another vector"}
+      ],
+      "source_section": "Scalar and Vector"
+    },
+    {
+      "id": "db003",
+      "term1": "Accuracy",
+      "term2": "Precision",
+      "differences": [
+        {"aspect": "Definition", "term1_point": "Closeness of measured value to true value", "term2_point": "Consistency or reproducibility of measurements"},
+        {"aspect": "Related Error", "term1_point": "Affected by systematic errors", "term2_point": "Affected by random errors"},
+        {"aspect": "Instrument Quality", "term1_point": "Depends on calibration and technique", "term2_point": "Depends on least count of instrument"},
+        {"aspect": "Improvement", "term1_point": "Improved by better calibration", "term2_point": "Improved by using finer instruments"},
+        {"aspect": "Example", "term1_point": "Measuring 9.99 cm when true value is 10.00 cm", "term2_point": "Getting 9.50, 9.51, 9.49 cm repeatedly"}
+      ],
+      "source_section": "Errors"
+    },
+    {
+      "id": "db004",
+      "term1": "Vernier Callipers",
+      "term2": "Screw Gauge",
+      "differences": [
+        {"aspect": "Least Count", "term1_point": "0.1 mm (0.01 cm)", "term2_point": "0.01 mm (0.001 cm)"},
+        {"aspect": "Principle", "term1_point": "Difference between MSD and VSD", "term2_point": "Screw mechanism (pitch and circular divisions)"},
+        {"aspect": "Range", "term1_point": "Can measure larger lengths (up to 15-20 cm)", "term2_point": "Limited range (up to 25 mm typically)"},
+        {"aspect": "Uses", "term1_point": "External, internal dimensions, and depth", "term2_point": "Small thicknesses like wire diameter, sheet thickness"},
+        {"aspect": "Parts", "term1_point": "Main scale, vernier scale, jaws, depth rod", "term2_point": "Anvil, spindle, sleeve, thimble, ratchet"}
+      ],
+      "source_section": "Measuring Instruments"
+    },
+    {
+      "id": "db005",
+      "term1": "SI System",
+      "term2": "CGS System",
+      "differences": [
+        {"aspect": "Full Form", "term1_point": "Système International d'Unités", "term2_point": "Centimetre-Gram-Second system"},
+        {"aspect": "Unit of Length", "term1_point": "Metre (m)", "term2_point": "Centimetre (cm)"},
+        {"aspect": "Unit of Mass", "term1_point": "Kilogram (kg)", "term2_point": "Gram (g)"},
+        {"aspect": "Unit of Force", "term1_point": "Newton (N)", "term2_point": "Dyne"},
+        {"aspect": "Current Status", "term1_point": "Internationally accepted and used worldwide", "term2_point": "Largely replaced by SI but still used in some fields"}
+      ],
+      "source_section": "Systems of Units"
+    },
+    {
+      "id": "db006",
+      "term1": "Systematic Error",
+      "term2": "Random Error",
+      "differences": [
+        {"aspect": "Nature", "term1_point": "Consistent error in same direction", "term2_point": "Unpredictable, varies randomly"},
+        {"aspect": "Cause", "term1_point": "Instrument defects, personal bias, environmental factors", "term2_point": "Human judgment, fluctuations, noise"},
+        {"aspect": "Effect", "term1_point": "Shifts all readings by same amount", "term2_point": "Causes scatter in readings"},
+        {"aspect": "Correction", "term1_point": "Can be eliminated by calibration", "term2_point": "Reduced by averaging multiple readings"},
+        {"aspect": "Affects", "term1_point": "Accuracy of measurement", "term2_point": "Precision of measurement"}
+      ],
+      "source_section": "Errors"
+    },
+    {
+      "id": "db007",
+      "term1": "Pitch",
+      "term2": "Least Count (of Screw Gauge)",
+      "differences": [
+        {"aspect": "Definition", "term1_point": "Distance moved by spindle in one complete rotation", "term2_point": "Smallest measurement that can be taken"},
+        {"aspect": "Typical Value", "term1_point": "1 mm or 0.5 mm", "term2_point": "0.01 mm or 0.001 cm"},
+        {"aspect": "Calculation", "term1_point": "Read from pitch scale markings", "term2_point": "LC = Pitch / Number of circular divisions"},
+        {"aspect": "Significance", "term1_point": "Determines how fast spindle advances", "term2_point": "Determines precision of measurement"},
+        {"aspect": "Unit", "term1_point": "Millimetre (mm)", "term2_point": "Millimetre (mm) or micrometre (μm)"}
+      ],
+      "source_section": "Screw Gauge"
+    },
+    {
+      "id": "db008",
+      "term1": "Light Year",
+      "term2": "Astronomical Unit",
+      "differences": [
+        {"aspect": "Definition", "term1_point": "Distance light travels in one year", "term2_point": "Average distance from Earth to Sun"},
+        {"aspect": "Value", "term1_point": "9.46 × 10^15 metres", "term2_point": "1.5 × 10^11 metres"},
+        {"aspect": "Usage", "term1_point": "Interstellar and intergalactic distances", "term2_point": "Distances within solar system"},
+        {"aspect": "Relation", "term1_point": "1 light year ≈ 63,000 AU", "term2_point": "1 AU ≈ 8.3 light minutes"},
+        {"aspect": "Scale", "term1_point": "Much larger unit", "term2_point": "Smaller (within solar system)"}
+      ],
+      "source_section": "Large Units"
+    }
+  ],
+  "total_count": 8,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Physical Quantities"
+}

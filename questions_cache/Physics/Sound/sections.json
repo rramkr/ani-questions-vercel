@@ -1,6 +1,6 @@
 {
   "subject": "physics",
-  "chapter": "electromagnetism",
+  "chapter": "sound",
   "sections": {
     "textbook": [
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}

@@ -1,0 +1,29 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {"id": "fib001", "question": "Energy is defined as the ability to do _______.", "answer": "work", "explanation": "Energy is the capacity to do work.", "source_section": "Introduction"},
+    {"id": "fib002", "question": "The SI unit of energy is _______.", "answer": "joule", "explanation": "Joule (J) is named after James Prescott Joule.", "source_section": "Units"},
+    {"id": "fib003", "question": "The energy possessed by a moving body is called _______ energy.", "answer": "kinetic", "explanation": "Kinetic energy is energy of motion.", "source_section": "Kinetic Energy"},
+    {"id": "fib004", "question": "The energy stored due to position is called _______ energy.", "answer": "potential", "explanation": "Potential energy is stored energy due to position or configuration.", "source_section": "Potential Energy"},
+    {"id": "fib005", "question": "The formula for kinetic energy is KE = ½_______.", "answer": "mv²", "explanation": "Kinetic energy depends on mass and velocity squared.", "source_section": "Kinetic Energy"},
+    {"id": "fib006", "question": "The formula for gravitational potential energy is PE = _______.", "answer": "mgh", "explanation": "PE = mass × gravity × height.", "source_section": "Potential Energy"},
+    {"id": "fib007", "question": "The rate of doing work is called _______.", "answer": "power", "explanation": "Power = Work/Time.", "source_section": "Power"},
+    {"id": "fib008", "question": "The SI unit of power is _______.", "answer": "watt", "explanation": "Watt (W) is named after James Watt.", "source_section": "Power"},
+    {"id": "fib009", "question": "Energy can neither be _______ nor destroyed.", "answer": "created", "explanation": "Law of conservation of energy.", "source_section": "Conservation"},
+    {"id": "fib010", "question": "1 kilowatt-hour equals _______ joules.", "answer": "3600000", "explanation": "1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ J.", "source_section": "Units"},
+    {"id": "fib011", "question": "Coal, petroleum and natural gas are called _______ fuels.", "answer": "fossil", "explanation": "Fossil fuels were formed from ancient organisms.", "source_section": "Sources"},
+    {"id": "fib012", "question": "Solar energy is a _______ source of energy.", "answer": "renewable", "explanation": "Renewable sources are continuously replenished.", "source_section": "Sources"},
+    {"id": "fib013", "question": "When velocity doubles, kinetic energy becomes _______ times.", "answer": "four", "explanation": "KE ∝ v², so doubling v gives 4 times KE.", "source_section": "Kinetic Energy"},
+    {"id": "fib014", "question": "The sum of kinetic and potential energy is called _______ energy.", "answer": "mechanical", "explanation": "Mechanical energy = KE + PE.", "source_section": "Mechanical Energy"},
+    {"id": "fib015", "question": "A generator converts mechanical energy to _______ energy.", "answer": "electrical", "explanation": "Generators use electromagnetic induction.", "source_section": "Transformation"},
+    {"id": "fib016", "question": "The ultimate source of most energy on Earth is the _______.", "answer": "sun", "explanation": "Most energy sources trace back to solar energy.", "source_section": "Sources"},
+    {"id": "fib017", "question": "1 horsepower is approximately equal to _______ watts.", "answer": "746", "explanation": "1 HP ≈ 746 W.", "source_section": "Power"},
+    {"id": "fib018", "question": "Energy stored in food and fuels is called _______ energy.", "answer": "chemical", "explanation": "Chemical energy is stored in molecular bonds.", "source_section": "Chemical Energy"},
+    {"id": "fib019", "question": "The energy stored in a stretched spring is _______ potential energy.", "answer": "elastic", "explanation": "Elastic PE is due to deformation.", "source_section": "Potential Energy"},
+    {"id": "fib020", "question": "In a freely falling body, PE converts to _______.", "answer": "KE", "explanation": "PE decreases as KE increases during fall.", "source_section": "Transformation"}
+  ],
+  "total_count": 20,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Energy"
+}

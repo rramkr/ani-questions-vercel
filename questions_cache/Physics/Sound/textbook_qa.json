@@ -1,0 +1,159 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tbq001",
+      "question": "What is sound? How is it produced?",
+      "answer": "Sound is a form of energy that is produced by vibrating objects. When an object vibrates, it creates disturbances in the surrounding medium (air, water, or solid), which travel as sound waves to our ears.",
+      "source_section": "Introduction to Sound"
+    },
+    {
+      "id": "tbq002",
+      "question": "Define vibratory motion with examples.",
+      "answer": "Vibratory motion (or oscillatory motion) is the to and fro motion of an object about its mean (rest) position. Examples include: the motion of a simple pendulum, vibration of a tuning fork's prongs, vibration of guitar strings when plucked.",
+      "source_section": "Vibratory Motion"
+    },
+    {
+      "id": "tbq003",
+      "question": "What is the human voice box called? How does it produce sound?",
+      "answer": "The human voice box is called the larynx. It is located at the top of the windpipe and contains two thin, stretched membranes called vocal cords. When air from the lungs is pushed through the gap between the vocal cords, they vibrate and produce sound.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "tbq004",
+      "question": "Why can't sound travel through vacuum?",
+      "answer": "Sound is a mechanical wave that requires a material medium (solid, liquid, or gas) to propagate. In vacuum, there are no particles to vibrate and transfer energy from one point to another. Therefore, sound cannot travel through vacuum.",
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "tbq005",
+      "question": "Explain why sound waves are called longitudinal waves.",
+      "answer": "Sound waves are called longitudinal waves because in these waves, the particles of the medium vibrate back and forth (parallel) in the same direction as the wave is travelling. This creates alternating regions of compression and rarefaction.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "tbq006",
+      "question": "Define: (a) Compression (b) Rarefaction",
+      "answer": "(a) Compression: The region in a sound wave where particles of the medium are crowded together, creating high pressure and high density. (b) Rarefaction: The region in a sound wave where particles of the medium are spread apart, creating low pressure and low density.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "tbq007",
+      "question": "Define frequency and write its SI unit.",
+      "answer": "Frequency is the number of complete oscillations (or vibrations) made by a vibrating body in one second. Its SI unit is Hertz (Hz). 1 Hz = 1 oscillation per second.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tbq008",
+      "question": "What is time period? How is it related to frequency?",
+      "answer": "Time period is the time taken to complete one oscillation. It is represented by T and its SI unit is second (s). Time period and frequency are reciprocals of each other: T = 1/f or f = 1/T.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tbq009",
+      "question": "Define wavelength. What is its symbol and unit?",
+      "answer": "Wavelength is the distance between two consecutive compressions or two consecutive rarefactions in a sound wave. It is the distance covered by a wave in one complete oscillation. Its symbol is lambda (λ) and SI unit is metre (m).",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tbq010",
+      "question": "What is amplitude? What does it determine?",
+      "answer": "Amplitude is the maximum displacement of a vibrating body from its mean (rest) position. Its SI unit is metre (m). Amplitude determines the loudness of sound - greater amplitude produces louder sound, and smaller amplitude produces softer sound.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tbq011",
+      "question": "Write the formula relating speed, frequency and wavelength of sound.",
+      "answer": "The relationship is: Speed = Frequency × Wavelength, or v = f × λ, where v is speed of sound (m/s), f is frequency (Hz), and λ is wavelength (m).",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tbq012",
+      "question": "What are the three characteristics of sound?",
+      "answer": "The three characteristics of sound are: (1) Loudness - depends on amplitude, measured in decibels (2) Pitch - depends on frequency, determines how shrill or grave a sound is (3) Quality or Timbre - depends on waveform, helps distinguish different sources of same pitch and loudness.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tbq013",
+      "question": "Why does sound travel faster in solids than in gases?",
+      "answer": "Sound travels faster in solids because the particles in solids are closely packed with strong intermolecular forces. Vibrations can be quickly transferred from one particle to the next. In gases, particles are far apart with weak forces, so vibration transfer is slower.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tbq014",
+      "question": "What is an echo? What are the conditions required for an echo to be heard?",
+      "answer": "Echo is the repetition of sound caused by reflection from a distant surface. Conditions: (1) The reflecting surface must be at least 17 metres away from the source (2) There should be a minimum time gap of 0.1 seconds between original sound and reflected sound.",
+      "source_section": "Echo"
+    },
+    {
+      "id": "tbq015",
+      "question": "What is the audible range of sound for humans?",
+      "answer": "The audible range of sound for humans is 20 Hz to 20,000 Hz (20 kHz). Sounds below 20 Hz are called infrasonic and sounds above 20,000 Hz are called ultrasonic - both cannot be heard by humans.",
+      "source_section": "Range of Hearing"
+    },
+    {
+      "id": "tbq016",
+      "question": "What are ultrasonic sounds? Name two animals that can produce them.",
+      "answer": "Ultrasonic sounds are sounds with frequency above 20,000 Hz (above the upper limit of human hearing). Bats and dolphins can produce ultrasonic sounds. They use these for echolocation - to navigate and locate prey.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "tbq017",
+      "question": "What are infrasonic sounds? Give two examples.",
+      "answer": "Infrasonic sounds are sounds with frequency below 20 Hz (below the lower limit of human hearing). Examples: Sounds produced by elephants for long-distance communication, vibrations produced by earthquakes before the main tremor.",
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "tbq018",
+      "question": "What is SONAR? What is it used for?",
+      "answer": "SONAR stands for Sound Navigation and Ranging. It uses ultrasonic waves to detect underwater objects, measure the depth of the sea, locate fish shoals, and find submarines. Ships and submarines use SONAR for underwater navigation.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "tbq019",
+      "question": "List any four uses of ultrasound.",
+      "answer": "(1) SONAR for underwater navigation and detection (2) Medical scanning (sonography/ultrasonography) of internal organs and pregnancy monitoring (3) Lithotripsy to break kidney stones (4) Industrial testing to detect cracks in metals (5) Cleaning delicate objects like jewelry.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "tbq020",
+      "question": "Why is a child's voice shriller than an adult's voice?",
+      "answer": "A child has shorter and thinner vocal cords compared to an adult. Shorter vocal cords vibrate at a higher frequency when air passes through them. Higher frequency produces higher pitch, which we perceive as a shriller voice.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "tbq021",
+      "question": "What is reverberation? How is it different from echo?",
+      "answer": "Reverberation is the persistence of sound due to multiple reflections from walls, ceiling, and floor in an enclosed space. Difference: Echo is a single distinct reflection heard after 0.1 seconds, while reverberation is the mixing of multiple reflections that prolongs the original sound.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "tbq022",
+      "question": "Name the four types of musical instruments with examples.",
+      "answer": "(1) Stringed instruments (strings vibrate): guitar, sitar, violin (2) Percussion instruments (membrane vibrates): drum, tabla (3) Wind instruments (air column vibrates): flute, trumpet (4) Reed instruments (reeds vibrate): harmonium, saxophone.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "tbq023",
+      "question": "What is noise pollution? State two harmful effects.",
+      "answer": "Noise pollution is the presence of excessive, unwanted, or disturbing sound that affects human health and environment. Harmful effects: (1) Hearing loss - prolonged exposure to sounds above 85 dB can damage hearing (2) Stress and anxiety, leading to health problems.",
+      "source_section": "Noise Pollution"
+    },
+    {
+      "id": "tbq024",
+      "question": "How does a stethoscope work?",
+      "answer": "A stethoscope works on the principle of multiple reflection of sound. The chest piece picks up body sounds (heartbeat, breathing). These sounds travel through the rubber tube by reflecting multiple times from the inner walls, reaching the doctor's ears with amplification.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "tbq025",
+      "question": "What is persistence of hearing?",
+      "answer": "Persistence of hearing is the property of the human ear by which the sensation of sound lingers in the ear for about 0.1 seconds after the sound source has stopped. This is why we need at least 0.1 seconds gap to hear two sounds as separate sounds.",
+      "source_section": "Echo"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

@@ -1,0 +1,184 @@
+{
+  "question_type": "numericals",
+  "questions": [
+    {
+      "id": "num001",
+      "question": "A tuning fork vibrates 512 times per second. What is its frequency and time period?",
+      "answer": "**Given:**\n- Number of vibrations = 512 per second\n\n**Solution:**\n\n**Frequency (f):**\nFrequency = Number of vibrations per second\nf = 512 Hz\n\n**Time Period (T):**\nT = 1/f = 1/512 seconds\nT = 0.00195 seconds ≈ 0.002 s or 1.95 milliseconds\n\n**Answer:** Frequency = 512 Hz, Time Period = 0.00195 s (or 1.95 ms)",
+      "formula": "f = vibrations per second; T = 1/f",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "num002",
+      "question": "The speed of sound in air is 340 m/s. Calculate the wavelength of a sound wave of frequency 200 Hz.",
+      "answer": "**Given:**\n- Speed of sound (v) = 340 m/s\n- Frequency (f) = 200 Hz\n\n**Formula:**\nv = f × λ\n\n**Solution:**\nλ = v/f\nλ = 340/200\nλ = 1.7 m\n\n**Answer:** Wavelength = 1.7 metres",
+      "formula": "v = f × λ, therefore λ = v/f",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "num003",
+      "question": "A sound wave has a wavelength of 2 m and frequency of 170 Hz. Calculate the speed of sound.",
+      "answer": "**Given:**\n- Wavelength (λ) = 2 m\n- Frequency (f) = 170 Hz\n\n**Formula:**\nv = f × λ\n\n**Solution:**\nv = 170 × 2\nv = 340 m/s\n\n**Answer:** Speed of sound = 340 m/s",
+      "formula": "v = f × λ",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "num004",
+      "question": "A person claps near a cliff and hears an echo after 3 seconds. If the speed of sound is 340 m/s, how far is the cliff?",
+      "answer": "**Given:**\n- Time for echo (t) = 3 seconds\n- Speed of sound (v) = 340 m/s\n\n**Solution:**\nTotal distance travelled by sound = v × t = 340 × 3 = 1020 m\n\nSince sound travels to the cliff AND back:\nDistance to cliff = Total distance ÷ 2\nDistance = 1020 ÷ 2 = 510 m\n\n**Answer:** The cliff is 510 metres away",
+      "formula": "Distance = (v × t)/2 (for echo)",
+      "source_section": "Echo"
+    },
+    {
+      "id": "num005",
+      "question": "Calculate the time period of a wave if its frequency is 250 Hz.",
+      "answer": "**Given:**\n- Frequency (f) = 250 Hz\n\n**Formula:**\nT = 1/f\n\n**Solution:**\nT = 1/250\nT = 0.004 seconds = 4 milliseconds\n\n**Answer:** Time period = 0.004 s or 4 ms",
+      "formula": "T = 1/f",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "num006",
+      "question": "A ship sends an ultrasonic signal to the sea bed and receives the echo after 6 seconds. If the speed of sound in water is 1500 m/s, what is the depth of the sea?",
+      "answer": "**Given:**\n- Time for echo (t) = 6 seconds\n- Speed of sound in water (v) = 1500 m/s\n\n**Solution:**\nTotal distance = v × t = 1500 × 6 = 9000 m\n\nSince sound travels down to sea bed AND back up:\nDepth of sea = Total distance ÷ 2\nDepth = 9000 ÷ 2 = 4500 m = 4.5 km\n\n**Answer:** Depth of sea = 4500 m or 4.5 km",
+      "formula": "Depth = (v × t)/2",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "num007",
+      "question": "The time period of a vibrating object is 0.02 s. Calculate its frequency.",
+      "answer": "**Given:**\n- Time period (T) = 0.02 s\n\n**Formula:**\nf = 1/T\n\n**Solution:**\nf = 1/0.02\nf = 50 Hz\n\n**Answer:** Frequency = 50 Hz",
+      "formula": "f = 1/T",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "num008",
+      "question": "Sound travels at 340 m/s in air and 1500 m/s in water. A source produces sound of frequency 680 Hz. Calculate the wavelength of sound in (a) air and (b) water.",
+      "answer": "**Given:**\n- Frequency (f) = 680 Hz\n- Speed in air (v₁) = 340 m/s\n- Speed in water (v₂) = 1500 m/s\n\n**Solution:**\n\n**(a) Wavelength in air:**\nλ₁ = v₁/f = 340/680 = 0.5 m\n\n**(b) Wavelength in water:**\nλ₂ = v₂/f = 1500/680 = 2.21 m\n\n**Answer:** (a) λ in air = 0.5 m, (b) λ in water = 2.21 m",
+      "formula": "λ = v/f",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "num009",
+      "question": "A bat emits an ultrasonic signal and receives its echo after 0.1 seconds. If the speed of sound in air is 340 m/s, how far is the insect (prey) from the bat?",
+      "answer": "**Given:**\n- Time for echo (t) = 0.1 seconds\n- Speed of sound (v) = 340 m/s\n\n**Solution:**\nTotal distance = v × t = 340 × 0.1 = 34 m\n\nSince sound travels to the insect AND back:\nDistance to insect = 34 ÷ 2 = 17 m\n\n**Answer:** The insect is 17 metres away from the bat",
+      "formula": "Distance = (v × t)/2",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "num010",
+      "question": "A sound wave has a frequency of 400 Hz. If the speed of sound is 340 m/s, how many wavelengths are there in a distance of 340 m?",
+      "answer": "**Given:**\n- Frequency (f) = 400 Hz\n- Speed (v) = 340 m/s\n- Distance = 340 m\n\n**Solution:**\nFirst, find wavelength:\nλ = v/f = 340/400 = 0.85 m\n\nNumber of wavelengths in 340 m:\nNumber = Distance/λ = 340/0.85 = 400 wavelengths\n\n**Answer:** There are 400 wavelengths in a distance of 340 m",
+      "formula": "Number of wavelengths = Distance/λ",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "num011",
+      "question": "The frequency of a vibrating body is doubled. What happens to its time period?",
+      "answer": "**Given:**\n- Initial frequency = f\n- New frequency = 2f\n\n**Solution:**\nWe know T = 1/f\n\nInitial time period: T₁ = 1/f\n\nNew time period: T₂ = 1/(2f) = T₁/2\n\n**Answer:** The time period becomes half (T₂ = T₁/2). When frequency doubles, time period halves.",
+      "formula": "T = 1/f; If f doubles, T halves",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "num012",
+      "question": "A person standing between two parallel cliffs fires a gun. He hears the first echo after 2 seconds and the second echo after 3 seconds. If the speed of sound is 340 m/s, find the distance between the two cliffs.",
+      "answer": "**Given:**\n- Time for first echo (t₁) = 2 s\n- Time for second echo (t₂) = 3 s\n- Speed of sound (v) = 340 m/s\n\n**Solution:**\nDistance to first cliff (d₁):\nd₁ = (v × t₁)/2 = (340 × 2)/2 = 340 m\n\nDistance to second cliff (d₂):\nd₂ = (v × t₂)/2 = (340 × 3)/2 = 510 m\n\nTotal distance between cliffs:\nDistance = d₁ + d₂ = 340 + 510 = 850 m\n\n**Answer:** Distance between the two cliffs = 850 metres",
+      "formula": "d = (v × t)/2 for each cliff; total = d₁ + d₂",
+      "source_section": "Echo"
+    },
+    {
+      "id": "num013",
+      "question": "A sound source produces 40 crests in 10 seconds. Calculate: (a) frequency (b) time period (c) wavelength if speed of sound is 340 m/s.",
+      "answer": "**Given:**\n- Number of crests = 40\n- Time = 10 seconds\n- Speed (v) = 340 m/s\n\n**Solution:**\n\n**(a) Frequency:**\nf = Number of oscillations / Time\nf = 40/10 = 4 Hz\n\n**(b) Time period:**\nT = 1/f = 1/4 = 0.25 seconds\n\n**(c) Wavelength:**\nλ = v/f = 340/4 = 85 m\n\n**Answer:** (a) Frequency = 4 Hz, (b) Time period = 0.25 s, (c) Wavelength = 85 m",
+      "formula": "f = oscillations/time; T = 1/f; λ = v/f",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "num014",
+      "question": "The wavelength of a sound wave in air is 0.5 m. If the speed of sound in air is 340 m/s, is this sound audible to humans?",
+      "answer": "**Given:**\n- Wavelength (λ) = 0.5 m\n- Speed (v) = 340 m/s\n\n**Solution:**\nFirst, find frequency:\nf = v/λ = 340/0.5 = 680 Hz\n\nAudible range for humans: 20 Hz to 20,000 Hz\n\nSince 680 Hz lies within 20-20,000 Hz, the sound IS audible.\n\n**Answer:** Frequency = 680 Hz. Yes, this sound is audible to humans (within audible range).",
+      "formula": "f = v/λ; Check if 20 Hz ≤ f ≤ 20,000 Hz",
+      "source_section": "Range of Hearing"
+    },
+    {
+      "id": "num015",
+      "question": "Calculate the minimum distance required to hear an echo if the speed of sound is 340 m/s (Given: persistence of hearing = 0.1 s).",
+      "answer": "**Given:**\n- Speed of sound (v) = 340 m/s\n- Persistence of hearing (t) = 0.1 s\n\n**Solution:**\nFor echo to be heard, minimum time = 0.1 s\n\nTotal distance = v × t = 340 × 0.1 = 34 m\n\nSince sound travels to the surface AND back:\nMinimum distance = 34/2 = 17 m\n\n**Answer:** Minimum distance = 17 metres",
+      "formula": "Minimum distance = (v × persistence of hearing)/2",
+      "source_section": "Echo"
+    },
+    {
+      "id": "num016",
+      "question": "A tuning fork has frequency 256 Hz and the sound produced has wavelength 1.33 m. Calculate the speed of sound.",
+      "answer": "**Given:**\n- Frequency (f) = 256 Hz\n- Wavelength (λ) = 1.33 m\n\n**Formula:**\nv = f × λ\n\n**Solution:**\nv = 256 × 1.33\nv = 340.48 m/s ≈ 340 m/s\n\n**Answer:** Speed of sound = 340 m/s (approximately)",
+      "formula": "v = f × λ",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "num017",
+      "question": "An observer is standing 85 m from a wall. He fires a gun. After how much time will he hear the echo? (Speed of sound = 340 m/s)",
+      "answer": "**Given:**\n- Distance to wall (d) = 85 m\n- Speed of sound (v) = 340 m/s\n\n**Solution:**\nTotal distance = 2 × d = 2 × 85 = 170 m (to wall and back)\n\nTime = Distance/Speed\nt = 170/340 = 0.5 seconds\n\n**Answer:** Echo will be heard after 0.5 seconds",
+      "formula": "t = 2d/v",
+      "source_section": "Echo"
+    },
+    {
+      "id": "num018",
+      "question": "The audible frequency range for humans is 20 Hz to 20,000 Hz. Calculate the corresponding wavelength range if speed of sound is 340 m/s.",
+      "answer": "**Given:**\n- Minimum frequency (f₁) = 20 Hz\n- Maximum frequency (f₂) = 20,000 Hz\n- Speed (v) = 340 m/s\n\n**Solution:**\nMaximum wavelength (for 20 Hz):\nλ₁ = v/f₁ = 340/20 = 17 m\n\nMinimum wavelength (for 20,000 Hz):\nλ₂ = v/f₂ = 340/20,000 = 0.017 m = 17 mm\n\n**Answer:** Wavelength range = 17 mm to 17 m",
+      "formula": "λ = v/f",
+      "source_section": "Range of Hearing"
+    },
+    {
+      "id": "num019",
+      "question": "A stone is dropped into a well and the splash is heard after 2.5 seconds. Calculate the depth of the well. (Take speed of sound = 340 m/s, g = 10 m/s²)",
+      "answer": "**Given:**\n- Total time (T) = 2.5 s\n- Speed of sound (v) = 340 m/s\n- g = 10 m/s²\n\n**Solution:**\nLet depth = d, time for stone to fall = t₁, time for sound to travel up = t₂\n\nFor stone falling: d = ½gt₁², so t₁ = √(2d/g) = √(d/5)\n\nFor sound: t₂ = d/340\n\nTotal: t₁ + t₂ = 2.5\n√(d/5) + d/340 = 2.5\n\nSolving (trial or quadratic):\nLet's try d = 30 m:\nt₁ = √(30/5) = √6 ≈ 2.45 s\nt₂ = 30/340 ≈ 0.09 s\nTotal ≈ 2.54 s ✓\n\nActual d ≈ 29 m (by exact calculation)\n\n**Answer:** Depth of well ≈ 29-30 metres",
+      "formula": "d = ½gt₁² for fall; t₂ = d/v for sound; t₁ + t₂ = total time",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "num020",
+      "question": "A submarine detects an enemy ship using SONAR. The echo is received after 8 seconds. Calculate the distance of the enemy ship if speed of sound in water is 1500 m/s.",
+      "answer": "**Given:**\n- Time for echo (t) = 8 seconds\n- Speed of sound in water (v) = 1500 m/s\n\n**Solution:**\nTotal distance = v × t = 1500 × 8 = 12,000 m\n\nSince sound travels to the ship AND back:\nDistance to ship = 12,000/2 = 6,000 m = 6 km\n\n**Answer:** Distance to enemy ship = 6 km",
+      "formula": "Distance = (v × t)/2",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "num021",
+      "question": "If the speed of sound increases by 0.6 m/s for every 1°C rise in temperature, calculate the speed of sound at 30°C if it is 332 m/s at 0°C.",
+      "answer": "**Given:**\n- Speed at 0°C (v₀) = 332 m/s\n- Rate of increase = 0.6 m/s per °C\n- Temperature = 30°C\n\n**Solution:**\nIncrease in speed = 0.6 × 30 = 18 m/s\n\nSpeed at 30°C = v₀ + increase\nv = 332 + 18 = 350 m/s\n\n**Answer:** Speed of sound at 30°C = 350 m/s",
+      "formula": "v = v₀ + (0.6 × T)",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "num022",
+      "question": "A vibrating tuning fork completes 200 oscillations in 0.5 seconds. Calculate: (a) frequency (b) time period (c) wavelength if v = 340 m/s.",
+      "answer": "**Given:**\n- Oscillations = 200\n- Time = 0.5 s\n- Speed (v) = 340 m/s\n\n**Solution:**\n\n**(a) Frequency:**\nf = 200/0.5 = 400 Hz\n\n**(b) Time period:**\nT = 1/f = 1/400 = 0.0025 s = 2.5 ms\n\n**(c) Wavelength:**\nλ = v/f = 340/400 = 0.85 m\n\n**Answer:** (a) f = 400 Hz, (b) T = 0.0025 s, (c) λ = 0.85 m",
+      "formula": "f = oscillations/time; T = 1/f; λ = v/f",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "num023",
+      "question": "Lightning is seen 3 seconds before thunder is heard. Calculate the distance of the lightning from the observer. (Speed of sound = 340 m/s)",
+      "answer": "**Given:**\n- Time gap (t) = 3 seconds\n- Speed of sound (v) = 340 m/s\n(Note: Light reaches almost instantly)\n\n**Solution:**\nDistance = Speed × Time\nd = 340 × 3 = 1020 m = 1.02 km\n\n**Answer:** Lightning is approximately 1020 m (about 1 km) away",
+      "formula": "Distance = v × t",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "num024",
+      "question": "Calculate the wavelength of ultrasound of frequency 4 MHz used in medical diagnosis. (Speed of sound in body tissue ≈ 1500 m/s)",
+      "answer": "**Given:**\n- Frequency (f) = 4 MHz = 4 × 10⁶ Hz\n- Speed (v) = 1500 m/s\n\n**Solution:**\nλ = v/f\nλ = 1500/(4 × 10⁶)\nλ = 3.75 × 10⁻⁴ m = 0.375 mm\n\n**Answer:** Wavelength = 0.375 mm (very short, allowing good resolution in imaging)",
+      "formula": "λ = v/f",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "num025",
+      "question": "A sound wave in steel has wavelength 1 m. If speed of sound in steel is 5000 m/s, calculate: (a) frequency (b) time period.",
+      "answer": "**Given:**\n- Wavelength (λ) = 1 m\n- Speed in steel (v) = 5000 m/s\n\n**Solution:**\n\n**(a) Frequency:**\nf = v/λ = 5000/1 = 5000 Hz = 5 kHz\n\n**(b) Time period:**\nT = 1/f = 1/5000 = 0.0002 s = 0.2 ms\n\n**Answer:** (a) Frequency = 5000 Hz or 5 kHz, (b) Time period = 0.0002 s or 0.2 ms",
+      "formula": "f = v/λ; T = 1/f",
+      "source_section": "Speed of Sound"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

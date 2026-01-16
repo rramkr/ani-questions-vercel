@@ -1,0 +1,189 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "instruction": "Match the following terms with their definitions:",
+      "pairs": [
+        {"left": "Sound", "right": "Form of energy produced by vibrating objects"},
+        {"left": "Vibratory motion", "right": "To and fro motion about mean position"},
+        {"left": "Compression", "right": "Region of high pressure in sound wave"},
+        {"left": "Rarefaction", "right": "Region of low pressure in sound wave"},
+        {"left": "Wavelength", "right": "Distance covered in one complete oscillation"}
+      ],
+      "source_section": "Introduction to Sound"
+    },
+    {
+      "id": "mtf002",
+      "instruction": "Match the wave parameters with their units:",
+      "pairs": [
+        {"left": "Frequency", "right": "Hertz (Hz)"},
+        {"left": "Time period", "right": "Second (s)"},
+        {"left": "Wavelength", "right": "Metre (m)"},
+        {"left": "Amplitude", "right": "Metre (m)"},
+        {"left": "Loudness", "right": "Decibel (dB)"}
+      ],
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "mtf003",
+      "instruction": "Match the characteristic of sound with the factor it depends on:",
+      "pairs": [
+        {"left": "Loudness", "right": "Amplitude"},
+        {"left": "Pitch", "right": "Frequency"},
+        {"left": "Quality (Timbre)", "right": "Waveform/Overtones"},
+        {"left": "Speed of sound", "right": "Medium and temperature"},
+        {"left": "Echo", "right": "Reflection of sound"}
+      ],
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "mtf004",
+      "instruction": "Match the musical instruments with their type:",
+      "pairs": [
+        {"left": "Guitar", "right": "Stringed instrument"},
+        {"left": "Tabla", "right": "Percussion instrument"},
+        {"left": "Flute", "right": "Wind instrument"},
+        {"left": "Harmonium", "right": "Reed instrument"},
+        {"left": "Drum", "right": "Percussion instrument"}
+      ],
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "mtf005",
+      "instruction": "Match the sound frequency range with its classification:",
+      "pairs": [
+        {"left": "Below 20 Hz", "right": "Infrasonic"},
+        {"left": "20 Hz to 20,000 Hz", "right": "Audible (for humans)"},
+        {"left": "Above 20,000 Hz", "right": "Ultrasonic"},
+        {"left": "1-15 MHz", "right": "Medical ultrasound range"},
+        {"left": "200-500 Hz", "right": "Mosquito buzz range"}
+      ],
+      "source_section": "Range of Hearing"
+    },
+    {
+      "id": "mtf006",
+      "instruction": "Match the animals with their sound abilities:",
+      "pairs": [
+        {"left": "Bat", "right": "Produces ultrasonic sounds for echolocation"},
+        {"left": "Elephant", "right": "Produces infrasonic sounds for communication"},
+        {"left": "Dolphin", "right": "Uses ultrasound for navigation underwater"},
+        {"left": "Dog", "right": "Can hear ultrasonic dog whistles"},
+        {"left": "Whale", "right": "Produces infrasonic sounds in ocean"}
+      ],
+      "source_section": "Ultrasonic and Infrasonic Sounds"
+    },
+    {
+      "id": "mtf007",
+      "instruction": "Match the speed of sound with different media:",
+      "pairs": [
+        {"left": "Air (at 20°C)", "right": "340 m/s"},
+        {"left": "Water", "right": "1500 m/s"},
+        {"left": "Steel", "right": "5000 m/s"},
+        {"left": "Vacuum", "right": "Zero (sound cannot travel)"},
+        {"left": "Light", "right": "300,000,000 m/s"}
+      ],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "mtf008",
+      "instruction": "Match the uses of ultrasound with their applications:",
+      "pairs": [
+        {"left": "SONAR", "right": "Detecting underwater objects and depth"},
+        {"left": "Sonography", "right": "Medical scanning of internal organs"},
+        {"left": "Lithotripsy", "right": "Breaking kidney stones"},
+        {"left": "Echolocation", "right": "Navigation by bats and dolphins"},
+        {"left": "Industrial testing", "right": "Detecting cracks in metals"}
+      ],
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "mtf009",
+      "instruction": "Match the human body parts with their role in sound production:",
+      "pairs": [
+        {"left": "Larynx", "right": "Voice box containing vocal cords"},
+        {"left": "Vocal cords", "right": "Vibrate to produce sound"},
+        {"left": "Lungs", "right": "Push air through vocal cords"},
+        {"left": "Eardrum", "right": "Vibrates when sound enters ear"},
+        {"left": "Cochlea", "right": "Converts vibrations to nerve signals"}
+      ],
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "mtf010",
+      "instruction": "Match the terms with their relationships:",
+      "pairs": [
+        {"left": "Frequency = 1/T", "right": "Reciprocal relationship"},
+        {"left": "v = f × λ", "right": "Wave equation"},
+        {"left": "Higher frequency", "right": "Higher pitch"},
+        {"left": "Greater amplitude", "right": "Louder sound"},
+        {"left": "Shorter strings", "right": "Higher pitch"}
+      ],
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "mtf011",
+      "instruction": "Match the reflection of sound with its applications:",
+      "pairs": [
+        {"left": "Echo", "right": "Measuring distance to obstacles"},
+        {"left": "Stethoscope", "right": "Multiple reflections to hear heartbeat"},
+        {"left": "Megaphone", "right": "Directing sound in one direction"},
+        {"left": "Concert hall ceiling", "right": "Distributing sound to audience"},
+        {"left": "Sound absorbers", "right": "Reducing echo and reverberation"}
+      ],
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "mtf012",
+      "instruction": "Match the sound levels with typical sources:",
+      "pairs": [
+        {"left": "10-20 dB", "right": "Rustling leaves, breathing"},
+        {"left": "40-60 dB", "right": "Normal conversation"},
+        {"left": "80-90 dB", "right": "Heavy traffic, factory"},
+        {"left": "100-120 dB", "right": "Rock concert, jet engine"},
+        {"left": "Above 120 dB", "right": "Pain threshold, hearing damage"}
+      ],
+      "source_section": "Noise Pollution"
+    },
+    {
+      "id": "mtf013",
+      "instruction": "Match the musical instrument vibration source:",
+      "pairs": [
+        {"left": "Sitar", "right": "Strings vibrate"},
+        {"left": "Mridangam", "right": "Stretched membrane vibrates"},
+        {"left": "Shehnai", "right": "Air column vibrates"},
+        {"left": "Saxophone", "right": "Reed vibrates"},
+        {"left": "Veena", "right": "Strings vibrate"}
+      ],
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "mtf014",
+      "instruction": "Match the factors with their effect on sound:",
+      "pairs": [
+        {"left": "Temperature increase", "right": "Speed of sound increases"},
+        {"left": "Solid medium", "right": "Fastest sound transmission"},
+        {"left": "Vacuum", "right": "No sound transmission"},
+        {"left": "Distance > 17m", "right": "Echo can be heard"},
+        {"left": "0.1 seconds gap", "right": "Minimum for hearing separate sounds"}
+      ],
+      "source_section": "Properties of Sound"
+    },
+    {
+      "id": "mtf015",
+      "instruction": "Match the wave type with its characteristics:",
+      "pairs": [
+        {"left": "Longitudinal wave", "right": "Particles vibrate parallel to wave direction"},
+        {"left": "Transverse wave", "right": "Particles vibrate perpendicular to wave direction"},
+        {"left": "Sound wave", "right": "Example of longitudinal wave"},
+        {"left": "Light wave", "right": "Example of transverse wave"},
+        {"left": "Mechanical wave", "right": "Needs medium to travel"}
+      ],
+      "source_section": "Nature of Sound Waves"
+    }
+  ],
+  "total_count": 15,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

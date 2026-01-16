@@ -1,6 +1,6 @@
 {
   "subject": "physics",
-  "chapter": "electromagnetism",
+  "chapter": "energy",
   "sections": {
     "textbook": [
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}

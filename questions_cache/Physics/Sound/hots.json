@@ -1,0 +1,129 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "hots001",
+      "question": "Why do rescue workers sometimes ask people trapped under rubble to tap on pipes or metal objects rather than shout?",
+      "answer": "Sound travels faster and farther in solids (like metal pipes) than in air. Metal pipes conduct sound vibrations efficiently with less energy loss. The tapping creates clear, distinct sounds that can travel through the debris, while shouting dissipates quickly in air and rubble. Also, tapping requires less energy for a trapped person than continuous shouting.",
+      "key_points": ["Sound faster in solids", "Metal conducts vibrations well", "Less energy loss", "Conserves trapped person's energy"],
+      "keywords": ["solids", "metal", "vibration", "rescue", "pipes"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "hots002",
+      "question": "During a thunderstorm, you see lightning and 6 seconds later you hear thunder. Approximately how far away was the lightning?",
+      "answer": "Light travels almost instantaneously (3 × 10^8 m/s), so we can assume we see the lightning at time zero. Sound travels at about 340 m/s in air. Distance = Speed × Time = 340 × 6 = 2040 metres ≈ 2 km. So the lightning was approximately 2 kilometres away. (Rule of thumb: every 3 seconds of delay means about 1 km distance.)",
+      "key_points": ["Light instant, sound at 340 m/s", "Distance = 340 × 6 = 2040 m", "About 2 km away"],
+      "keywords": ["lightning", "thunder", "distance", "speed", "calculation"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "hots003",
+      "question": "A ship sends an ultrasonic signal to the sea bed and receives the echo after 4 seconds. If the speed of sound in water is 1500 m/s, what is the depth of the sea at that point?",
+      "answer": "Total distance travelled by sound = Speed × Time = 1500 × 4 = 6000 m. However, this is the distance for the sound to go DOWN to the sea bed AND come back UP. So the actual depth = 6000 ÷ 2 = 3000 metres = 3 km. This is the principle used in SONAR for depth measurement.",
+      "key_points": ["Total distance = 6000 m", "Sound travels down AND up", "Depth = 6000/2 = 3000 m"],
+      "keywords": ["SONAR", "echo", "depth", "water", "ultrasonic"],
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "hots004",
+      "question": "Why can two astronauts standing on the moon's surface, facing each other, not hear each other even if they shout loudly?",
+      "answer": "The moon has no atmosphere - it's surrounded by vacuum. Sound is a mechanical wave that requires a material medium (solid, liquid, or gas) to travel. Without air or any other medium between the astronauts, there are no particles to vibrate and transmit the sound waves. This is why astronauts use radio communication, which uses electromagnetic waves that can travel through vacuum.",
+      "key_points": ["Moon has no atmosphere", "Sound needs medium", "No particles in vacuum", "Radio waves can travel in vacuum"],
+      "keywords": ["moon", "vacuum", "atmosphere", "medium", "radio"],
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "hots005",
+      "question": "Why do old people often have difficulty hearing high-pitched sounds like bird songs but can hear lower-pitched sounds normally?",
+      "answer": "With age, the hair cells in the cochlea that detect high-frequency sounds are usually damaged first (age-related hearing loss or presbycusis). These cells near the base of the cochlea are more vulnerable. Lower frequency sounds are detected by hair cells deeper in the cochlea which remain functional longer. This is why high-pitched sounds (bird songs, children's voices) become harder to hear while lower-pitched sounds remain audible.",
+      "key_points": ["Hair cells for high frequency damaged first", "Base of cochlea affected first", "Progressive hearing loss", "Lower frequencies preserved"],
+      "keywords": ["age", "hearing loss", "cochlea", "high frequency", "presbycusis"],
+      "source_section": "Human Ear"
+    },
+    {
+      "id": "hots006",
+      "question": "A guitar player wants to produce a lower pitched note. What are THREE different ways they can achieve this?",
+      "answer": "Three ways to lower pitch on a guitar: (1) Loosen the string - decreases tension, causing slower vibration and lower frequency; (2) Use a thicker string - heavier strings vibrate more slowly; (3) Press finger closer to the bridge to use more string length - longer vibrating length means lower frequency. All these methods decrease the vibration frequency, resulting in lower pitch.",
+      "key_points": ["Loosen string (less tension)", "Use thicker string", "Increase vibrating length", "All reduce frequency"],
+      "keywords": ["guitar", "pitch", "tension", "thickness", "length"],
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "hots007",
+      "question": "In some old Western movies, a character puts their ear to the railway track to detect an approaching train. Why is this more effective than just listening through air?",
+      "answer": "Sound travels much faster in steel (about 5000 m/s) than in air (340 m/s) - about 15 times faster. Sound also travels farther in solids with less energy loss due to the closely packed particles. By listening through the steel rail, the character can detect train vibrations much earlier than by listening through air. The rail acts as an efficient sound conductor, transmitting vibrations over long distances.",
+      "key_points": ["Steel: 5000 m/s vs Air: 340 m/s", "Less energy loss in solids", "Earlier detection", "Rail conducts vibrations well"],
+      "keywords": ["railway", "steel", "speed", "detection", "vibration"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "hots008",
+      "question": "Why are the walls of recording studios often covered with soft, irregular-shaped materials?",
+      "answer": "Soft, irregular materials serve two purposes: (1) They absorb sound rather than reflecting it, reducing unwanted echoes and reverberation that would interfere with recording; (2) The irregular shapes scatter any reflected sound in multiple directions instead of allowing strong focused reflections. This creates a 'dead' acoustic environment where only the direct sound from instruments/voices is recorded, without room acoustics affecting the quality.",
+      "key_points": ["Absorb sound, reduce echo", "Irregular shapes scatter sound", "Prevent focused reflections", "Clean recording without room acoustics"],
+      "keywords": ["studio", "absorption", "echo", "reverberation", "recording"],
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "hots009",
+      "question": "A person claps hands near a large building and hears an echo after 2 seconds. How far is the building from the person?",
+      "answer": "Time for echo = 2 seconds. Speed of sound in air ≈ 340 m/s. Total distance = Speed × Time = 340 × 2 = 680 m. Since sound travels TO the building AND BACK, the actual distance to the building = 680 ÷ 2 = 340 metres. The person is 340 metres away from the building.",
+      "key_points": ["Total distance = 680 m", "Sound goes and returns", "Distance = 680/2 = 340 m"],
+      "keywords": ["echo", "distance", "calculation", "building"],
+      "source_section": "Echo"
+    },
+    {
+      "id": "hots010",
+      "question": "Why does a thick string on a guitar produce a lower pitch than a thin string when both are at the same tension and length?",
+      "answer": "A thick string has more mass per unit length than a thin string. According to the physics of vibrating strings, heavier strings have more inertia and require more force to accelerate. At the same tension, the thick string vibrates more slowly (lower frequency) because of its greater mass. Lower frequency corresponds to lower pitch. This is why bass guitars have thicker strings than regular guitars.",
+      "key_points": ["More mass = more inertia", "Vibrates more slowly", "Lower frequency", "Lower pitch"],
+      "keywords": ["thick string", "mass", "inertia", "frequency", "pitch"],
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "hots011",
+      "question": "Why are dolphins able to communicate and navigate effectively underwater using sound, while humans find it difficult?",
+      "answer": "Dolphins have evolved special adaptations: (1) They produce and hear ultrasonic frequencies (up to 150,000 Hz) while humans are limited to 20,000 Hz; (2) Sound travels about 4.4 times faster in water than air, and dolphins' brains can process these faster signals; (3) Dolphins have specialized organs for producing clicks and whistles underwater; (4) Their ears are adapted to detect sounds in water. Humans' air-adapted ears cannot efficiently detect underwater sounds.",
+      "key_points": ["Dolphins hear ultrasonic", "Specialized organs", "Adapted to water acoustics", "Human ears adapted for air"],
+      "keywords": ["dolphin", "underwater", "ultrasonic", "echolocation", "adaptation"],
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "hots012",
+      "question": "A sound wave has a frequency of 500 Hz. If the speed of sound is 340 m/s, what is the wavelength? What happens to the wavelength if the frequency doubles?",
+      "answer": "Using v = f × λ: 340 = 500 × λ, so λ = 340/500 = 0.68 metres. If frequency doubles to 1000 Hz: λ = 340/1000 = 0.34 metres. The wavelength is halved. This demonstrates that at constant speed, wavelength and frequency are inversely proportional - when frequency doubles, wavelength becomes half.",
+      "key_points": ["λ = v/f = 340/500 = 0.68 m", "At 1000 Hz: λ = 0.34 m", "Wavelength halves when frequency doubles", "Inverse relationship"],
+      "keywords": ["wavelength", "frequency", "calculation", "inverse"],
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "hots013",
+      "question": "Why does your voice sound different when you hear a recording of yourself compared to when you hear yourself speaking normally?",
+      "answer": "When you speak normally, you hear your voice through two paths: (1) Sound traveling through air to your ears (external conduction), and (2) Sound traveling through the bones of your skull directly to your inner ear (bone conduction). Bone conduction enhances lower frequencies, making your voice sound deeper to yourself. A recording only captures the air-conducted sound, which lacks these lower frequencies from bone conduction, making it sound higher-pitched and unfamiliar.",
+      "key_points": ["Two paths: air and bone conduction", "Bone conduction adds bass", "Recording has only air-conducted sound", "Sounds higher without bone conduction"],
+      "keywords": ["recording", "bone conduction", "air conduction", "voice", "perception"],
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "hots014",
+      "question": "Why do sounds seem louder at night than during the day, especially in open areas?",
+      "answer": "During the day, the ground heats up and air near the surface is warmer than air above. Sound travels faster in warm air, so waves bend upward (refraction), away from the ground. At night, the ground cools faster than air above, creating temperature inversion. Sound waves bend downward toward the ground, following the warmer upper air. This allows sound to travel farther along the ground, making it seem louder. Also, there's less background noise at night.",
+      "key_points": ["Temperature affects sound refraction", "Day: sound bends up", "Night: sound bends down", "Less background noise at night"],
+      "keywords": ["night", "day", "temperature", "refraction", "louder"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "hots015",
+      "question": "A bat emits an ultrasonic pulse and receives the echo after 0.04 seconds. If the speed of sound in air is 340 m/s, how far is the insect (prey) from the bat?",
+      "answer": "Total distance = Speed × Time = 340 × 0.04 = 13.6 m. Since this is the distance for sound to go to the insect and return, Distance to insect = 13.6 ÷ 2 = 6.8 metres. The insect is 6.8 metres away from the bat. This shows how bats use echolocation to precisely locate prey.",
+      "key_points": ["Total distance = 13.6 m", "Sound travels to prey and back", "Distance = 13.6/2 = 6.8 m"],
+      "keywords": ["bat", "echolocation", "distance", "ultrasonic", "calculation"],
+      "source_section": "Ultrasonic Sounds"
+    }
+  ],
+  "total_count": 15,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

@@ -1,0 +1,89 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "instruction": "Match the physical quantities with their SI units:",
+      "column_a": ["Length", "Mass", "Time", "Temperature", "Electric current"],
+      "column_b": ["Kilogram", "Second", "Metre", "Ampere", "Kelvin"],
+      "correct_matches": {"Length": "Metre", "Mass": "Kilogram", "Time": "Second", "Temperature": "Kelvin", "Electric current": "Ampere"},
+      "source_section": "SI Units"
+    },
+    {
+      "id": "mtf002",
+      "instruction": "Match the prefixes with their values:",
+      "column_a": ["Kilo", "Mega", "Milli", "Micro", "Nano"],
+      "column_b": ["10^-9", "10^-6", "10^-3", "10^3", "10^6"],
+      "correct_matches": {"Kilo": "10^3", "Mega": "10^6", "Milli": "10^-3", "Micro": "10^-6", "Nano": "10^-9"},
+      "source_section": "Prefixes"
+    },
+    {
+      "id": "mtf003",
+      "instruction": "Match the instruments with what they measure:",
+      "column_a": ["Vernier callipers", "Screw gauge", "Spring balance", "Physical balance", "Stopwatch"],
+      "column_b": ["Mass", "Weight", "Small lengths (0.01 mm)", "Lengths (0.1 mm)", "Time"],
+      "correct_matches": {"Vernier callipers": "Lengths (0.1 mm)", "Screw gauge": "Small lengths (0.01 mm)", "Spring balance": "Weight", "Physical balance": "Mass", "Stopwatch": "Time"},
+      "source_section": "Measuring Instruments"
+    },
+    {
+      "id": "mtf004",
+      "instruction": "Match the quantities with their dimensional formulae:",
+      "column_a": ["Velocity", "Force", "Energy", "Pressure", "Momentum"],
+      "column_b": ["[M L T^-2]", "[M L^2 T^-2]", "[M L T^-1]", "[L T^-1]", "[M L^-1 T^-2]"],
+      "correct_matches": {"Velocity": "[L T^-1]", "Force": "[M L T^-2]", "Energy": "[M L^2 T^-2]", "Pressure": "[M L^-1 T^-2]", "Momentum": "[M L T^-1]"},
+      "source_section": "Dimensions"
+    },
+    {
+      "id": "mtf005",
+      "instruction": "Match the units with the quantities they measure:",
+      "column_a": ["Newton", "Joule", "Pascal", "Watt", "Hertz"],
+      "column_b": ["Energy", "Force", "Frequency", "Pressure", "Power"],
+      "correct_matches": {"Newton": "Force", "Joule": "Energy", "Pascal": "Pressure", "Watt": "Power", "Hertz": "Frequency"},
+      "source_section": "Derived Units"
+    },
+    {
+      "id": "mtf006",
+      "instruction": "Match the large units with their approximate values:",
+      "column_a": ["1 light year", "1 parsec", "1 AU", "1 km", "1 angstrom"],
+      "column_b": ["10^-10 m", "10^3 m", "1.5 × 10^11 m", "9.46 × 10^15 m", "3.1 × 10^16 m"],
+      "correct_matches": {"1 light year": "9.46 × 10^15 m", "1 parsec": "3.1 × 10^16 m", "1 AU": "1.5 × 10^11 m", "1 km": "10^3 m", "1 angstrom": "10^-10 m"},
+      "source_section": "Large and Small Units"
+    },
+    {
+      "id": "mtf007",
+      "instruction": "Match the parts of vernier callipers with their functions:",
+      "column_a": ["External jaws", "Internal jaws", "Depth rod", "Main scale", "Vernier scale"],
+      "column_b": ["Measures depth", "Measures internal diameter", "Graduated in mm", "Measures external dimensions", "Has 10 divisions"],
+      "correct_matches": {"External jaws": "Measures external dimensions", "Internal jaws": "Measures internal diameter", "Depth rod": "Measures depth", "Main scale": "Graduated in mm", "Vernier scale": "Has 10 divisions"},
+      "source_section": "Vernier Callipers"
+    },
+    {
+      "id": "mtf008",
+      "instruction": "Match the types of quantities:",
+      "column_a": ["Mass", "Area", "Speed", "Force", "Time"],
+      "column_b": ["Derived (scalar)", "Fundamental", "Derived (scalar)", "Fundamental", "Derived (vector)"],
+      "correct_matches": {"Mass": "Fundamental", "Area": "Derived (scalar)", "Speed": "Derived (scalar)", "Force": "Derived (vector)", "Time": "Fundamental"},
+      "source_section": "Types of Quantities"
+    },
+    {
+      "id": "mtf009",
+      "instruction": "Match the screw gauge parts with their description:",
+      "column_a": ["Anvil", "Spindle", "Thimble", "Ratchet", "Pitch scale"],
+      "column_b": ["Rotating part", "Fixed cylindrical stud", "Ensures uniform pressure", "Movable rod", "Linear scale on sleeve"],
+      "correct_matches": {"Anvil": "Fixed cylindrical stud", "Spindle": "Movable rod", "Thimble": "Rotating part", "Ratchet": "Ensures uniform pressure", "Pitch scale": "Linear scale on sleeve"},
+      "source_section": "Screw Gauge"
+    },
+    {
+      "id": "mtf010",
+      "instruction": "Match the CGS and SI units:",
+      "column_a": ["Dyne", "Erg", "Poise", "Gauss", "Centimetre"],
+      "column_b": ["Metre", "Newton", "Tesla", "Joule", "Pascal-second"],
+      "correct_matches": {"Dyne": "Newton", "Erg": "Joule", "Poise": "Pascal-second", "Gauss": "Tesla", "Centimetre": "Metre"},
+      "source_section": "CGS System"
+    }
+  ],
+  "total_count": 10,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Physical Quantities"
+}

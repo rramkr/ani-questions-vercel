@@ -1,0 +1,249 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "sa001",
+      "question": "What is sound?",
+      "answer": "Sound is a form of energy produced by vibrating bodies. It travels as longitudinal waves through a medium (solid, liquid, or gas) and is detected by our ears.",
+      "key_points": ["Form of energy", "Produced by vibration", "Travels through medium"],
+      "keywords": ["sound", "energy", "vibrating", "medium", "waves"],
+      "source_section": "Introduction to Sound"
+    },
+    {
+      "id": "sa002",
+      "question": "Define vibratory motion with an example.",
+      "answer": "Vibratory motion is the to and fro motion of an object about its mean (rest) position. Examples include the motion of a simple pendulum, a tuning fork's prongs, and guitar strings when plucked.",
+      "key_points": ["To and fro motion", "About mean position", "Pendulum, tuning fork examples"],
+      "keywords": ["vibratory motion", "to and fro", "mean position", "oscillation"],
+      "source_section": "Vibratory Motion"
+    },
+    {
+      "id": "sa003",
+      "question": "What is the larynx? What is its function?",
+      "answer": "The larynx, also called the voice box, is located at the top of the windpipe (trachea). It contains the vocal cords which vibrate when air from the lungs passes through them, producing sound.",
+      "key_points": ["Voice box", "Located at top of windpipe", "Contains vocal cords", "Produces sound"],
+      "keywords": ["larynx", "voice box", "vocal cords", "windpipe", "sound production"],
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "sa004",
+      "question": "Why can't sound travel through vacuum?",
+      "answer": "Sound requires a material medium (solid, liquid, or gas) to travel because it propagates through the vibration of particles. In vacuum, there are no particles to vibrate and transmit the sound waves.",
+      "key_points": ["Needs medium", "Requires particles to vibrate", "No particles in vacuum"],
+      "keywords": ["vacuum", "medium", "particles", "vibration", "propagate"],
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "sa005",
+      "question": "Differentiate between compression and rarefaction in a sound wave.",
+      "answer": "Compression is the region in a sound wave where particles are crowded together, creating high pressure and high density. Rarefaction is the region where particles are spread apart, creating low pressure and low density.",
+      "key_points": ["Compression: high pressure, particles close", "Rarefaction: low pressure, particles apart"],
+      "keywords": ["compression", "rarefaction", "high pressure", "low pressure", "density"],
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "sa006",
+      "question": "Define frequency and state its SI unit.",
+      "answer": "Frequency is the number of oscillations (or vibrations) completed by a vibrating body per second. Its SI unit is Hertz (Hz), where 1 Hz equals 1 oscillation per second.",
+      "key_points": ["Number of oscillations per second", "SI unit is Hertz"],
+      "keywords": ["frequency", "oscillations", "hertz", "Hz", "per second"],
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "sa007",
+      "question": "What is the relationship between frequency and time period?",
+      "answer": "Frequency and time period are reciprocals of each other. If f is frequency and T is time period, then f = 1/T and T = 1/f. When frequency increases, time period decreases and vice versa.",
+      "key_points": ["Reciprocals", "f = 1/T", "Inversely proportional"],
+      "keywords": ["frequency", "time period", "reciprocal", "inverse"],
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "sa008",
+      "question": "Define amplitude. What characteristic of sound does it determine?",
+      "answer": "Amplitude is the maximum displacement of a vibrating body from its mean (rest) position. It determines the loudness of sound - greater amplitude produces louder sound, and smaller amplitude produces softer sound.",
+      "key_points": ["Maximum displacement from mean position", "Determines loudness"],
+      "keywords": ["amplitude", "displacement", "mean position", "loudness"],
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "sa009",
+      "question": "What determines the pitch of a sound? Give an example.",
+      "answer": "The pitch of a sound is determined by its frequency. Higher frequency produces higher pitch (shriller sound), and lower frequency produces lower pitch (grave sound). For example, a whistle has high pitch while a drum has low pitch.",
+      "key_points": ["Frequency determines pitch", "High frequency = high pitch", "Low frequency = low pitch"],
+      "keywords": ["pitch", "frequency", "shrill", "high", "low"],
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "sa010",
+      "question": "What is timbre or quality of sound?",
+      "answer": "Timbre (or quality) is the characteristic of sound that helps us distinguish between two sounds of the same pitch and loudness. It depends on the waveform and overtones. This is how we recognize different voices or musical instruments.",
+      "key_points": ["Distinguishes sounds of same pitch and loudness", "Depends on waveform", "Helps identify voices/instruments"],
+      "keywords": ["timbre", "quality", "waveform", "overtones", "distinguish"],
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "sa011",
+      "question": "Why does sound travel faster in solids than in gases?",
+      "answer": "Sound travels faster in solids because the particles are closely packed and rigidly bound, allowing vibrations to be transmitted quickly. In gases, particles are far apart and loosely connected, so vibrations take longer to transfer.",
+      "key_points": ["Closely packed particles in solids", "Faster vibration transfer", "Loose particles in gases"],
+      "keywords": ["solids", "gases", "particles", "closely packed", "faster"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "sa012",
+      "question": "What is an echo? State the conditions required for an echo to be heard.",
+      "answer": "An echo is the repetition of sound due to reflection from a distant surface. For an echo to be heard distinctly: (1) the reflecting surface must be at least 17 metres away, and (2) the time gap between original sound and reflected sound must be at least 0.1 seconds.",
+      "key_points": ["Sound reflection", "Minimum 17 metres distance", "0.1 seconds time gap"],
+      "keywords": ["echo", "reflection", "17 metres", "0.1 seconds"],
+      "source_section": "Echo"
+    },
+    {
+      "id": "sa013",
+      "question": "What is the audible range of sound for humans?",
+      "answer": "The audible range for humans is 20 Hz to 20,000 Hz (20 kHz). Sounds below 20 Hz (infrasonic) and above 20,000 Hz (ultrasonic) cannot be heard by humans, though some animals can hear them.",
+      "key_points": ["20 Hz to 20,000 Hz", "Below is infrasonic", "Above is ultrasonic"],
+      "keywords": ["audible range", "20 Hz", "20,000 Hz", "human hearing"],
+      "source_section": "Range of Hearing"
+    },
+    {
+      "id": "sa014",
+      "question": "What are ultrasonic sounds? Give two examples of animals that can produce them.",
+      "answer": "Ultrasonic sounds are sounds with frequency above 20,000 Hz, beyond the upper limit of human hearing. Bats and dolphins can produce ultrasonic sounds for echolocation - to navigate and locate prey.",
+      "key_points": ["Above 20,000 Hz", "Beyond human hearing", "Bats and dolphins produce them"],
+      "keywords": ["ultrasonic", "20,000 Hz", "bats", "dolphins", "echolocation"],
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "sa015",
+      "question": "What are infrasonic sounds? Which animals can produce them?",
+      "answer": "Infrasonic sounds are sounds with frequency below 20 Hz, below the lower limit of human hearing. Elephants, whales, and rhinoceroses can produce infrasonic sounds to communicate over long distances. Earthquakes also produce infrasonic waves.",
+      "key_points": ["Below 20 Hz", "Below human hearing", "Elephants, whales produce them"],
+      "keywords": ["infrasonic", "20 Hz", "elephants", "whales", "communication"],
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "sa016",
+      "question": "What is SONAR? What is it used for?",
+      "answer": "SONAR stands for Sound Navigation and Ranging. It uses ultrasonic waves to detect underwater objects, measure the depth of sea, locate fish shoals, and find submarines. Ships and submarines use SONAR for navigation.",
+      "key_points": ["Sound Navigation and Ranging", "Uses ultrasonic waves", "Detects underwater objects"],
+      "keywords": ["SONAR", "ultrasonic", "underwater", "navigation", "depth"],
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "sa017",
+      "question": "List any four uses of ultrasound.",
+      "answer": "Uses of ultrasound include: (1) SONAR for underwater navigation and detection, (2) Medical scanning (sonography) of internal organs and pregnancy monitoring, (3) Lithotripsy to break kidney stones, (4) Cleaning delicate objects like jewelry, and (5) Industrial testing to detect cracks in metals.",
+      "key_points": ["SONAR", "Medical scanning", "Kidney stone breaking", "Cleaning", "Flaw detection"],
+      "keywords": ["ultrasound", "SONAR", "sonography", "lithotripsy", "cleaning"],
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "sa018",
+      "question": "What is echolocation? Which animals use it?",
+      "answer": "Echolocation is a biological sonar used by certain animals to navigate and locate prey. The animal emits ultrasonic sounds and listens to the echo reflected from objects to determine their location, size, and distance. Bats and dolphins are examples of animals that use echolocation.",
+      "key_points": ["Biological sonar", "Emits sounds, listens to echoes", "Used by bats, dolphins"],
+      "keywords": ["echolocation", "ultrasonic", "echo", "bats", "dolphins", "navigation"],
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "sa019",
+      "question": "Write the wave equation and explain each term.",
+      "answer": "The wave equation is v = f × λ, where v is the speed of sound (in m/s), f is the frequency (in Hz), and λ (lambda) is the wavelength (in metres). This equation shows that speed equals frequency multiplied by wavelength.",
+      "key_points": ["v = f × λ", "v is speed", "f is frequency", "λ is wavelength"],
+      "keywords": ["wave equation", "speed", "frequency", "wavelength", "v = f × λ"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "sa020",
+      "question": "Why is the voice of a child shriller than that of an adult?",
+      "answer": "A child's voice is shriller because children have shorter and thinner vocal cords compared to adults. Shorter vocal cords vibrate faster, producing sound with higher frequency, which we perceive as higher pitch (shriller voice).",
+      "key_points": ["Shorter vocal cords", "Vibrate faster", "Higher frequency", "Higher pitch"],
+      "keywords": ["child", "shriller", "vocal cords", "shorter", "higher frequency"],
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "sa021",
+      "question": "What is reverberation? How is it different from echo?",
+      "answer": "Reverberation is the persistence of sound due to multiple reflections from walls, ceiling, and floor in an enclosed space. Unlike echo (a single distinct reflection), reverberation is the mixing of multiple reflected sounds that prolongs the original sound.",
+      "key_points": ["Multiple reflections", "Prolongs sound", "Different from single echo"],
+      "keywords": ["reverberation", "multiple reflections", "enclosed space", "echo"],
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "sa022",
+      "question": "Why do we see lightning before hearing thunder?",
+      "answer": "We see lightning before hearing thunder because light travels much faster than sound. Light travels at about 300,000,000 m/s (3 × 10^8 m/s) while sound travels at only about 340 m/s in air. So light from lightning reaches us almost instantly, but sound takes longer.",
+      "key_points": ["Light travels faster", "Light: 3 × 10^8 m/s", "Sound: 340 m/s"],
+      "keywords": ["lightning", "thunder", "light faster", "sound slower"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "sa023",
+      "question": "What is noise pollution? What are its harmful effects?",
+      "answer": "Noise pollution is the presence of excessive or unwanted sound that can harm human health and wildlife. Harmful effects include: hearing loss, stress and anxiety, sleep disturbance, increased blood pressure, and difficulty in concentration.",
+      "key_points": ["Excessive unwanted sound", "Hearing loss", "Stress", "Sleep problems"],
+      "keywords": ["noise pollution", "hearing loss", "stress", "health effects"],
+      "source_section": "Noise Pollution"
+    },
+    {
+      "id": "sa024",
+      "question": "Name the four types of musical instruments based on how sound is produced.",
+      "answer": "The four types are: (1) Stringed instruments (guitar, sitar) - strings vibrate, (2) Percussion instruments (drum, tabla) - membrane vibrates, (3) Wind instruments (flute) - air column vibrates, (4) Reed instruments (harmonium) - reeds vibrate.",
+      "key_points": ["Stringed - strings", "Percussion - membrane", "Wind - air column", "Reed - reeds"],
+      "keywords": ["stringed", "percussion", "wind", "reed", "musical instruments"],
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "sa025",
+      "question": "How does temperature affect the speed of sound?",
+      "answer": "The speed of sound increases with increase in temperature. This is because at higher temperatures, air molecules move faster and can transmit vibrations more quickly. For every 1°C rise in temperature, the speed of sound in air increases by about 0.6 m/s.",
+      "key_points": ["Speed increases with temperature", "Faster molecular motion", "0.6 m/s per degree"],
+      "keywords": ["temperature", "speed of sound", "increases", "molecular motion"],
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "sa026",
+      "question": "What is persistence of hearing?",
+      "answer": "Persistence of hearing is the property of human ear by which the sensation of sound lingers in the ear for about 0.1 seconds after the source has stopped producing sound. This is why we need at least 0.1 seconds gap to hear two sounds separately.",
+      "key_points": ["Sensation lasts 0.1 seconds", "After sound stops", "Needed for separate sounds"],
+      "keywords": ["persistence", "hearing", "0.1 seconds", "sensation"],
+      "source_section": "Echo"
+    },
+    {
+      "id": "sa027",
+      "question": "How does a stethoscope work?",
+      "answer": "A stethoscope works on the principle of multiple reflection of sound. The chest piece picks up body sounds (heartbeat, breathing), and these sounds travel through the tube by reflecting multiple times from the inner walls until they reach the earpieces for the doctor to hear.",
+      "key_points": ["Multiple reflection", "Sound travels through tube", "Heartbeat and breathing sounds"],
+      "keywords": ["stethoscope", "multiple reflection", "heartbeat", "chest piece"],
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "sa028",
+      "question": "How is ultrasound used in medical diagnosis?",
+      "answer": "In medical diagnosis, ultrasound waves are sent into the body and their reflections are used to create images of internal organs. This technique (sonography/ultrasonography) is used for pregnancy monitoring, examining liver, kidney, heart, and detecting tumors without using harmful radiation.",
+      "key_points": ["Reflections create images", "Pregnancy monitoring", "No harmful radiation"],
+      "keywords": ["ultrasound", "sonography", "medical", "pregnancy", "organs"],
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "sa029",
+      "question": "What is wavelength? What is its SI unit?",
+      "answer": "Wavelength is the distance between two consecutive compressions or two consecutive rarefactions in a sound wave. It represents the distance covered by a wave in one complete oscillation. Its SI unit is metre (m), and it is represented by the Greek letter lambda (λ).",
+      "key_points": ["Distance between compressions/rarefactions", "One complete oscillation", "SI unit is metre"],
+      "keywords": ["wavelength", "compression", "rarefaction", "metre", "lambda"],
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "sa030",
+      "question": "How does increasing the tension in a guitar string affect the sound produced?",
+      "answer": "Increasing the tension (tightening) in a guitar string makes it vibrate faster, producing sound with higher frequency and therefore higher pitch. The sound becomes shriller. Conversely, loosening the string produces lower pitch sound.",
+      "key_points": ["Higher tension = faster vibration", "Higher frequency", "Higher pitch/shriller"],
+      "keywords": ["tension", "string", "frequency", "pitch", "vibrate"],
+      "source_section": "Musical Instruments"
+    }
+  ],
+  "total_count": 30,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

@@ -1,0 +1,184 @@
+{
+  "question_type": "numericals",
+  "questions": [
+    {
+      "id": "num001",
+      "question": "Calculate the kinetic energy of a body of mass 10 kg moving with a velocity of 5 m/s.",
+      "answer": "**Given:**\n- Mass (m) = 10 kg\n- Velocity (v) = 5 m/s\n\n**Formula:**\nKE = ½mv²\n\n**Solution:**\nKE = ½ × 10 × (5)²\nKE = ½ × 10 × 25\nKE = 125 J\n\n**Answer:** Kinetic Energy = 125 Joules",
+      "formula": "KE = ½mv²",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "num002",
+      "question": "A ball of mass 500 g is thrown with a velocity of 20 m/s. Calculate its kinetic energy.",
+      "answer": "**Given:**\n- Mass (m) = 500 g = 0.5 kg\n- Velocity (v) = 20 m/s\n\n**Formula:**\nKE = ½mv²\n\n**Solution:**\nKE = ½ × 0.5 × (20)²\nKE = ½ × 0.5 × 400\nKE = 100 J\n\n**Answer:** Kinetic Energy = 100 Joules",
+      "formula": "KE = ½mv²",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "num003",
+      "question": "Calculate the potential energy of an object of mass 5 kg raised to a height of 10 m above the ground. (g = 10 m/s²)",
+      "answer": "**Given:**\n- Mass (m) = 5 kg\n- Height (h) = 10 m\n- g = 10 m/s²\n\n**Formula:**\nPE = mgh\n\n**Solution:**\nPE = 5 × 10 × 10\nPE = 500 J\n\n**Answer:** Potential Energy = 500 Joules",
+      "formula": "PE = mgh",
+      "source_section": "Potential Energy"
+    },
+    {
+      "id": "num004",
+      "question": "A body of mass 2 kg falls from a height of 20 m. Calculate: (a) its initial potential energy, (b) its kinetic energy just before hitting the ground, (c) its velocity just before hitting the ground. (g = 10 m/s²)",
+      "answer": "**Given:**\n- Mass (m) = 2 kg\n- Height (h) = 20 m\n- g = 10 m/s²\n\n**Solution:**\n\n**(a) Initial Potential Energy:**\nPE = mgh = 2 × 10 × 20 = 400 J\n\n**(b) Kinetic Energy just before hitting ground:**\nBy conservation of energy, all PE converts to KE\nKE = 400 J\n\n**(c) Velocity just before hitting ground:**\nKE = ½mv²\n400 = ½ × 2 × v²\n400 = v²\nv = √400 = 20 m/s\n\n**Answer:** (a) PE = 400 J, (b) KE = 400 J, (c) v = 20 m/s",
+      "formula": "PE = mgh; KE = ½mv²; Conservation: PE = KE (at ground)",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "num005",
+      "question": "A car of mass 1000 kg is moving with a velocity of 20 m/s. The brakes are applied and it comes to rest. Calculate the work done by the brakes.",
+      "answer": "**Given:**\n- Mass (m) = 1000 kg\n- Initial velocity (u) = 20 m/s\n- Final velocity (v) = 0 m/s\n\n**Solution:**\nWork done by brakes = Change in kinetic energy\n\nInitial KE = ½mu² = ½ × 1000 × (20)² = ½ × 1000 × 400 = 200,000 J\n\nFinal KE = ½mv² = ½ × 1000 × (0)² = 0 J\n\nWork done = Final KE - Initial KE = 0 - 200,000 = -200,000 J\n\n(Negative sign indicates energy is removed from the system)\n\n**Answer:** Work done by brakes = 200,000 J (or 200 kJ) - this energy is converted to heat",
+      "formula": "Work = Change in KE = ½mv² - ½mu²",
+      "source_section": "Work and Energy"
+    },
+    {
+      "id": "num006",
+      "question": "If the velocity of a body is increased from 10 m/s to 20 m/s, by what factor does its kinetic energy increase?",
+      "answer": "**Given:**\n- Initial velocity (v₁) = 10 m/s\n- Final velocity (v₂) = 20 m/s\n\n**Solution:**\nKE₁ = ½mv₁² = ½m(10)² = 50m J\n\nKE₂ = ½mv₂² = ½m(20)² = 200m J\n\nFactor = KE₂/KE₁ = 200m/50m = 4\n\nAlternatively: Factor = (v₂/v₁)² = (20/10)² = 4\n\n**Answer:** Kinetic energy increases by a factor of 4 (becomes 4 times)",
+      "formula": "KE ∝ v², so factor = (v₂/v₁)²",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "num007",
+      "question": "A pump raises 200 kg of water to a height of 10 m in 20 seconds. Calculate: (a) Work done by the pump, (b) Power of the pump. (g = 10 m/s²)",
+      "answer": "**Given:**\n- Mass (m) = 200 kg\n- Height (h) = 10 m\n- Time (t) = 20 s\n- g = 10 m/s²\n\n**Solution:**\n\n**(a) Work done:**\nWork = Force × Distance = Weight × Height\nW = mgh = 200 × 10 × 10 = 20,000 J = 20 kJ\n\n**(b) Power:**\nP = Work/Time = 20,000/20 = 1000 W = 1 kW\n\n**Answer:** (a) Work done = 20,000 J (20 kJ), (b) Power = 1000 W (1 kW)",
+      "formula": "Work = mgh; Power = Work/Time",
+      "source_section": "Work and Power"
+    },
+    {
+      "id": "num008",
+      "question": "A person of mass 60 kg climbs a staircase of height 15 m in 30 seconds. Calculate the power expended. (g = 10 m/s²)",
+      "answer": "**Given:**\n- Mass (m) = 60 kg\n- Height (h) = 15 m\n- Time (t) = 30 s\n- g = 10 m/s²\n\n**Solution:**\nWork done = mgh = 60 × 10 × 15 = 9000 J\n\nPower = Work/Time = 9000/30 = 300 W\n\n**Answer:** Power expended = 300 Watts",
+      "formula": "Power = mgh/t",
+      "source_section": "Power"
+    },
+    {
+      "id": "num009",
+      "question": "A 60 W light bulb is used for 10 hours. Calculate: (a) energy consumed in Joules, (b) energy consumed in kWh (units).",
+      "answer": "**Given:**\n- Power (P) = 60 W\n- Time (t) = 10 hours = 10 × 3600 s = 36,000 s\n\n**Solution:**\n\n**(a) Energy in Joules:**\nE = P × t = 60 × 36,000 = 2,160,000 J = 2.16 MJ\n\n**(b) Energy in kWh:**\nP = 60 W = 0.06 kW\nt = 10 hours\nE = 0.06 × 10 = 0.6 kWh = 0.6 units\n\n**Answer:** (a) Energy = 2,160,000 J (2.16 MJ), (b) Energy = 0.6 kWh (0.6 units)",
+      "formula": "Energy = Power × Time",
+      "source_section": "Units of Energy"
+    },
+    {
+      "id": "num010",
+      "question": "A machine does 5000 J of work in 25 seconds. Calculate its power in watts and horsepower. (1 HP = 746 W)",
+      "answer": "**Given:**\n- Work (W) = 5000 J\n- Time (t) = 25 s\n- 1 HP = 746 W\n\n**Solution:**\nPower = Work/Time = 5000/25 = 200 W\n\nPower in HP = 200/746 = 0.268 HP ≈ 0.27 HP\n\n**Answer:** Power = 200 W or 0.27 HP (approximately)",
+      "formula": "Power = Work/Time",
+      "source_section": "Power"
+    },
+    {
+      "id": "num011",
+      "question": "Two bodies A and B have masses in the ratio 1:2. They move with velocities in the ratio 2:1. Find the ratio of their kinetic energies.",
+      "answer": "**Given:**\n- Mass ratio m_A : m_B = 1 : 2\n- Velocity ratio v_A : v_B = 2 : 1\n\n**Solution:**\nKE_A = ½m_A × v_A²\nKE_B = ½m_B × v_B²\n\nKE_A/KE_B = (m_A × v_A²)/(m_B × v_B²)\n\nKE_A/KE_B = (1 × 2²)/(2 × 1²) = (1 × 4)/(2 × 1) = 4/2 = 2/1\n\n**Answer:** Ratio of KE (A:B) = 2:1",
+      "formula": "KE = ½mv²",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "num012",
+      "question": "A crane lifts a load of 500 kg through a height of 20 m in 10 seconds. Calculate: (a) Work done by the crane, (b) Power of the crane. (g = 10 m/s²)",
+      "answer": "**Given:**\n- Mass (m) = 500 kg\n- Height (h) = 20 m\n- Time (t) = 10 s\n- g = 10 m/s²\n\n**Solution:**\n\n**(a) Work done:**\nW = mgh = 500 × 10 × 20 = 100,000 J = 100 kJ\n\n**(b) Power:**\nP = W/t = 100,000/10 = 10,000 W = 10 kW\n\n**Answer:** (a) Work = 100,000 J (100 kJ), (b) Power = 10,000 W (10 kW)",
+      "formula": "Work = mgh; Power = Work/Time",
+      "source_section": "Work and Power"
+    },
+    {
+      "id": "num013",
+      "question": "A ball is dropped from a height of 5 m. If it bounces back to a height of 3 m, calculate the percentage of energy lost during the bounce. (g = 10 m/s²)",
+      "answer": "**Given:**\n- Initial height (h₁) = 5 m\n- Final height (h₂) = 3 m\n- g = 10 m/s²\n\n**Solution:**\nInitial PE = mgh₁ = m × 10 × 5 = 50m J\n\nFinal PE = mgh₂ = m × 10 × 3 = 30m J\n\nEnergy lost = 50m - 30m = 20m J\n\nPercentage lost = (Energy lost/Initial energy) × 100\n= (20m/50m) × 100 = 40%\n\n**Answer:** 40% of energy is lost during the bounce (converted to heat and sound)",
+      "formula": "% loss = [(h₁ - h₂)/h₁] × 100",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "num014",
+      "question": "A body of mass 4 kg is moving with a velocity of 10 m/s. Find its momentum and kinetic energy. What would be its momentum if its kinetic energy is doubled?",
+      "answer": "**Given:**\n- Mass (m) = 4 kg\n- Velocity (v) = 10 m/s\n\n**Solution:**\nMomentum (p) = mv = 4 × 10 = 40 kg·m/s\n\nKinetic Energy (KE) = ½mv² = ½ × 4 × 100 = 200 J\n\nIf KE is doubled:\nNew KE = 400 J\n400 = ½ × 4 × v²\nv² = 200\nv = √200 = 10√2 m/s\n\nNew momentum = mv = 4 × 10√2 = 40√2 ≈ 56.57 kg·m/s\n\nRatio: New p/Old p = √2 (momentum increases by factor √2 when KE doubles)\n\n**Answer:** Momentum = 40 kg·m/s, KE = 200 J. If KE doubles, momentum = 40√2 ≈ 56.57 kg·m/s",
+      "formula": "p = mv; KE = ½mv²; KE = p²/2m",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "num015",
+      "question": "An engine develops 10 kW of power. How much time will it take to lift a mass of 500 kg through a height of 40 m? (g = 10 m/s²)",
+      "answer": "**Given:**\n- Power (P) = 10 kW = 10,000 W\n- Mass (m) = 500 kg\n- Height (h) = 40 m\n- g = 10 m/s²\n\n**Solution:**\nWork needed = mgh = 500 × 10 × 40 = 200,000 J\n\nPower = Work/Time\nTime = Work/Power = 200,000/10,000 = 20 s\n\n**Answer:** Time = 20 seconds",
+      "formula": "Time = Work/Power = mgh/P",
+      "source_section": "Power"
+    },
+    {
+      "id": "num016",
+      "question": "A 1500 kg car accelerates from rest to 20 m/s. Calculate: (a) Work done by the engine, (b) If it takes 10 s, find the average power.",
+      "answer": "**Given:**\n- Mass (m) = 1500 kg\n- Initial velocity (u) = 0 m/s\n- Final velocity (v) = 20 m/s\n- Time (t) = 10 s\n\n**Solution:**\n\n**(a) Work done = Change in KE:**\nInitial KE = 0 (at rest)\nFinal KE = ½mv² = ½ × 1500 × 400 = 300,000 J\n\nWork done = 300,000 - 0 = 300,000 J = 300 kJ\n\n**(b) Average Power:**\nP = Work/Time = 300,000/10 = 30,000 W = 30 kW\n\n**Answer:** (a) Work = 300 kJ, (b) Power = 30 kW",
+      "formula": "Work = ΔKE; Power = Work/Time",
+      "source_section": "Work and Power"
+    },
+    {
+      "id": "num017",
+      "question": "A bullet of mass 20 g is fired with a velocity of 500 m/s. Calculate its kinetic energy. If it penetrates into a sand bag and comes to rest in 0.05 s, find the average force exerted by the sand.",
+      "answer": "**Given:**\n- Mass (m) = 20 g = 0.02 kg\n- Velocity (v) = 500 m/s\n- Time to stop (t) = 0.05 s\n\n**Solution:**\nKE = ½mv² = ½ × 0.02 × (500)² = ½ × 0.02 × 250,000 = 2500 J\n\nUsing Work-Energy theorem:\nWork by sand = Change in KE = 0 - 2500 = -2500 J\n\nUsing impulse-momentum:\nChange in momentum = m(v - u) = 0.02(0 - 500) = -10 kg·m/s\nForce = Change in momentum/Time = -10/0.05 = -200 N\n\n**Answer:** KE = 2500 J, Average force = 200 N (opposing motion)",
+      "formula": "KE = ½mv²; F = Δp/t",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "num018",
+      "question": "Calculate the electrical energy consumed by a 1000 W heater used for 2 hours in: (a) Joules (b) kWh. If the cost of electricity is Rs 5 per unit, find the cost of running the heater.",
+      "answer": "**Given:**\n- Power (P) = 1000 W = 1 kW\n- Time (t) = 2 hours = 2 × 3600 s = 7200 s\n- Rate = Rs 5 per unit (kWh)\n\n**Solution:**\n\n**(a) Energy in Joules:**\nE = P × t = 1000 × 7200 = 7,200,000 J = 7.2 MJ\n\n**(b) Energy in kWh:**\nE = 1 kW × 2 h = 2 kWh = 2 units\n\n**Cost:**\nCost = Units × Rate = 2 × 5 = Rs 10\n\n**Answer:** (a) E = 7,200,000 J (7.2 MJ), (b) E = 2 kWh, Cost = Rs 10",
+      "formula": "E = P × t; Cost = Units × Rate",
+      "source_section": "Units of Energy"
+    },
+    {
+      "id": "num019",
+      "question": "A machine has an efficiency of 80%. If the input energy is 5000 J, calculate the useful output energy and the energy wasted.",
+      "answer": "**Given:**\n- Efficiency = 80% = 0.80\n- Input energy = 5000 J\n\n**Formula:**\nEfficiency = (Output/Input) × 100\n\n**Solution:**\nOutput energy = Efficiency × Input = 0.80 × 5000 = 4000 J\n\nEnergy wasted = Input - Output = 5000 - 4000 = 1000 J\n\n**Answer:** Output energy = 4000 J, Energy wasted = 1000 J",
+      "formula": "Efficiency = Output/Input × 100; Wasted = Input - Output",
+      "source_section": "Efficiency"
+    },
+    {
+      "id": "num020",
+      "question": "An object of mass 2 kg is raised through a height of 5 m. If it is then dropped, find: (a) PE at top, (b) KE at bottom, (c) Velocity at bottom. (g = 10 m/s²)",
+      "answer": "**Given:**\n- Mass (m) = 2 kg\n- Height (h) = 5 m\n- g = 10 m/s²\n\n**Solution:**\n\n**(a) PE at top:**\nPE = mgh = 2 × 10 × 5 = 100 J\n\n**(b) KE at bottom:**\nBy conservation of energy: KE at bottom = PE at top\nKE = 100 J\n\n**(c) Velocity at bottom:**\nKE = ½mv²\n100 = ½ × 2 × v²\nv² = 100\nv = 10 m/s\n\n**Answer:** (a) PE = 100 J, (b) KE = 100 J, (c) v = 10 m/s",
+      "formula": "PE = mgh; KE = ½mv²; PE (top) = KE (bottom)",
+      "source_section": "Conservation of Energy"
+    },
+    {
+      "id": "num021",
+      "question": "A body moving with velocity v has kinetic energy K. What will be its kinetic energy if velocity becomes (a) 2v, (b) v/2, (c) 3v?",
+      "answer": "**Given:**\n- Initial KE = K = ½mv²\n\n**Solution:**\nSince KE ∝ v², new KE = K × (new velocity/old velocity)²\n\n**(a) Velocity = 2v:**\nNew KE = K × (2v/v)² = K × 4 = 4K\n\n**(b) Velocity = v/2:**\nNew KE = K × (v/2/v)² = K × (1/4) = K/4\n\n**(c) Velocity = 3v:**\nNew KE = K × (3v/v)² = K × 9 = 9K\n\n**Answer:** (a) 4K, (b) K/4, (c) 9K",
+      "formula": "KE ∝ v², so new KE = old KE × (v_new/v_old)²",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "num022",
+      "question": "A household uses the following appliances: 5 bulbs of 40 W each for 6 hours, 1 fan of 60 W for 10 hours, and 1 TV of 100 W for 4 hours per day. Calculate the total electrical energy consumed in a day in kWh.",
+      "answer": "**Given:**\n- 5 bulbs × 40 W × 6 h\n- 1 fan × 60 W × 10 h\n- 1 TV × 100 W × 4 h\n\n**Solution:**\nEnergy by bulbs = 5 × 40 × 6 = 1200 Wh = 1.2 kWh\n\nEnergy by fan = 60 × 10 = 600 Wh = 0.6 kWh\n\nEnergy by TV = 100 × 4 = 400 Wh = 0.4 kWh\n\nTotal Energy = 1.2 + 0.6 + 0.4 = 2.2 kWh = 2.2 units\n\n**Answer:** Total energy consumed = 2.2 kWh (2.2 units) per day",
+      "formula": "Energy = Power × Time; Total = Sum of all",
+      "source_section": "Units of Energy"
+    },
+    {
+      "id": "num023",
+      "question": "Two objects A (mass 2 kg) and B (mass 4 kg) have the same kinetic energy. Find the ratio of their velocities.",
+      "answer": "**Given:**\n- Mass of A (m_A) = 2 kg\n- Mass of B (m_B) = 4 kg\n- KE_A = KE_B\n\n**Solution:**\n½m_A × v_A² = ½m_B × v_B²\n\nm_A × v_A² = m_B × v_B²\n\n2 × v_A² = 4 × v_B²\n\nv_A²/v_B² = 4/2 = 2\n\nv_A/v_B = √2\n\n**Answer:** Ratio of velocities v_A : v_B = √2 : 1 or approximately 1.414 : 1",
+      "formula": "For equal KE: m₁v₁² = m₂v₂²",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "num024",
+      "question": "A pump can lift 1000 L of water per minute to a height of 20 m. Calculate the power of the pump. (1 L of water = 1 kg, g = 10 m/s²)",
+      "answer": "**Given:**\n- Volume = 1000 L/min = 1000 kg/min\n- Height (h) = 20 m\n- Time (t) = 1 min = 60 s\n- g = 10 m/s²\n\n**Solution:**\nMass per minute = 1000 kg\n\nWork done per minute = mgh = 1000 × 10 × 20 = 200,000 J\n\nPower = Work/Time = 200,000/60 = 3333.33 W ≈ 3.33 kW\n\n**Answer:** Power of pump ≈ 3333 W or 3.33 kW",
+      "formula": "Power = mgh/t",
+      "source_section": "Power"
+    },
+    {
+      "id": "num025",
+      "question": "A pendulum bob of mass 100 g is raised to a height of 10 cm from its mean position. Calculate: (a) PE at extreme position, (b) KE at mean position, (c) Velocity at mean position. (g = 10 m/s²)",
+      "answer": "**Given:**\n- Mass (m) = 100 g = 0.1 kg\n- Height (h) = 10 cm = 0.1 m\n- g = 10 m/s²\n\n**Solution:**\n\n**(a) PE at extreme position:**\nPE = mgh = 0.1 × 10 × 0.1 = 0.1 J\n\n**(b) KE at mean position:**\nBy conservation: KE (mean) = PE (extreme)\nKE = 0.1 J\n\n**(c) Velocity at mean position:**\nKE = ½mv²\n0.1 = ½ × 0.1 × v²\nv² = 2\nv = √2 ≈ 1.414 m/s\n\n**Answer:** (a) PE = 0.1 J, (b) KE = 0.1 J, (c) v = √2 ≈ 1.414 m/s",
+      "formula": "PE = mgh; KE = ½mv²",
+      "source_section": "Conservation of Energy"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Energy"
+}

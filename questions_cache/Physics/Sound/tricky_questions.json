@@ -1,0 +1,149 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "tq001",
+      "question": "Sound travels faster in which - warm air or cold air?",
+      "answer": "Sound travels faster in warm air. At higher temperatures, air molecules move faster and can transmit vibrations more quickly. Speed increases by about 0.6 m/s for every 1°C rise in temperature.",
+      "explanation": "Many students think cold air is 'denser' so sound would travel faster. But density is not the only factor - molecular speed matters more for gases.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tq002",
+      "question": "Can sound travel through a solid? If yes, is it faster or slower than in air?",
+      "answer": "Yes, sound can travel through solids, and it travels FASTER in solids than in air. Sound travels at about 5000 m/s in steel compared to 340 m/s in air. This is because particles in solids are closely packed.",
+      "explanation": "Students often think sound only travels through air. Remember: sound travels in all materials (solid, liquid, gas) but not vacuum.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tq003",
+      "question": "If you increase the loudness of a sound, does its pitch increase?",
+      "answer": "No. Loudness and pitch are independent characteristics. Loudness depends on amplitude while pitch depends on frequency. Increasing loudness (by increasing amplitude) does not change the pitch.",
+      "explanation": "This confuses many students because louder sounds 'feel' different. But loudness (amplitude) and pitch (frequency) are separate properties.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tq004",
+      "question": "Can you hear ultrasonic sounds if they are very loud?",
+      "answer": "No. Ultrasonic sounds have frequency above 20,000 Hz, which is beyond the physical capability of the human ear to detect, regardless of their loudness. Our ear's cochlea simply cannot respond to such high frequencies.",
+      "explanation": "Loudness (amplitude) and audibility (frequency range) are different. You cannot make inaudible frequencies audible just by making them louder.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "tq005",
+      "question": "Two sounds have the same pitch and loudness. Can they still sound different?",
+      "answer": "Yes! They can differ in timbre (quality). This is why a violin and a piano playing the same note at the same volume sound different. Timbre depends on the waveform and overtones produced.",
+      "explanation": "Many students think pitch and loudness completely describe a sound. Timbre is the third characteristic that makes each voice/instrument unique.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tq006",
+      "question": "If a sound source is moving towards you, does the sound you hear have higher or lower pitch than the original?",
+      "answer": "You hear a higher pitch. This is the Doppler effect - when a sound source approaches, the sound waves get compressed, increasing the frequency you perceive. When it moves away, the pitch sounds lower.",
+      "explanation": "This is why an ambulance siren sounds higher-pitched as it approaches and lower as it passes.",
+      "source_section": "Doppler Effect (Advanced)"
+    },
+    {
+      "id": "tq007",
+      "question": "If you shout inside a deep well, you hear multiple echoes. Why don't you hear multiple echoes when you shout in your room?",
+      "answer": "In a well, the walls are far enough (more than 17m deep) for echoes to be heard separately. In a small room, the walls are too close - the reflected sound reaches your ear within 0.1 seconds and merges with the original sound (heard as a single, slightly prolonged sound - reverberation, not distinct echoes).",
+      "explanation": "Echo requires minimum 17m distance for 0.1s time gap (persistence of hearing).",
+      "source_section": "Echo"
+    },
+    {
+      "id": "tq008",
+      "question": "Sound travels from air into water. Does it speed up or slow down?",
+      "answer": "Sound speeds up when going from air to water. Speed of sound in air is about 340 m/s, while in water it's about 1500 m/s - approximately 4.4 times faster.",
+      "explanation": "Students often think sound slows down in denser materials. But water's greater elasticity and closer molecular packing actually speed up sound transmission.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tq009",
+      "question": "A bat emits ultrasonic waves. Can it hear its own sounds?",
+      "answer": "Yes! Bats can both produce and hear ultrasonic sounds. Their hearing range extends well above 20,000 Hz (up to about 100,000 Hz). This is essential for echolocation - they must hear the echoes of their own calls.",
+      "explanation": "The human limit (20,000 Hz) is not universal. Different animals have different hearing ranges.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "tq010",
+      "question": "Which has a longer wavelength - a bass drum or a high whistle?",
+      "answer": "The bass drum has a longer wavelength. Lower frequency sounds (bass drum) have longer wavelengths, while higher frequency sounds (whistle) have shorter wavelengths. Using v = fλ, at constant speed, lower f means higher λ.",
+      "explanation": "Frequency and wavelength are inversely related at constant speed.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tq011",
+      "question": "Can there be sound on the sun?",
+      "answer": "Yes, surprisingly! The sun is not a vacuum - it's made of plasma (ionized gas). Sound waves can and do travel through the sun. In fact, helioseismology studies the sun's interior using these sound waves. However, we can't hear these sounds from Earth.",
+      "explanation": "This is tricky because students think 'space has no sound.' But the sun itself has a medium (plasma) through which sound can travel.",
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "tq012",
+      "question": "If frequency is doubled and speed remains constant, what happens to wavelength?",
+      "answer": "Wavelength becomes half. Using v = fλ, if v is constant and f doubles, then λ must halve to maintain the equation. They are inversely proportional.",
+      "explanation": "Mathematical relationship: λ = v/f. If f ×2, then λ ÷2.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "tq013",
+      "question": "Can infrasonic sound be loud?",
+      "answer": "Yes! Infrasonic sounds (below 20 Hz) can have high amplitude and carry lots of energy. Elephants communicate using infrasonic sounds that travel many kilometers. Earthquakes produce powerful infrasonic waves. We can feel these as vibrations even though we can't hear them.",
+      "explanation": "Frequency (determines if audible) and amplitude (determines loudness/energy) are independent properties.",
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "tq014",
+      "question": "When you speak into a microphone and hear your voice through speakers, is there any sound property that changes?",
+      "answer": "The timbre (quality) changes slightly. Microphones and speakers have their own frequency response characteristics that alter the overtones in your voice. This is why recorded voices sound different. The basic pitch and volume can be preserved, but the exact waveform (timbre) changes.",
+      "explanation": "Electronic equipment introduces subtle changes to sound quality.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tq015",
+      "question": "Can two different musical instruments playing the same note produce the same sound?",
+      "answer": "They can produce sounds of the same pitch and can be adjusted to similar loudness, but they will never sound identical because each instrument has a unique timbre. The waveform and overtones differ based on the instrument's construction, material, and how sound is produced.",
+      "explanation": "This is why we can identify instruments even when they play the same note.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "tq016",
+      "question": "If you could remove all the air from a concert hall instantly while an orchestra is playing, what would happen?",
+      "answer": "The audience would immediately stop hearing the music because sound cannot travel through vacuum. However, the musicians would still feel vibrations through the floor (which is solid). Within moments, everyone would also suffocate without air!",
+      "explanation": "Sound in air requires air molecules; sound can still travel through solids in contact with the source.",
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "tq017",
+      "question": "Does sound travel in a straight line?",
+      "answer": "Not always. Sound can bend (refract) when it passes through media of different temperatures or densities. It can also bend around obstacles (diffract) and reflect off surfaces. Sound doesn't always take the straight path.",
+      "explanation": "Students often assume sound travels like light rays. But sound waves exhibit refraction, diffraction, and reflection.",
+      "source_section": "Properties of Sound"
+    },
+    {
+      "id": "tq018",
+      "question": "If you swim underwater, can you hear sounds made above the water surface?",
+      "answer": "Yes, but sounds from above water are significantly reduced (most sound is reflected at the water surface). Only about 0.1% of sound energy enters the water. However, sounds made underwater can be heard very well because sound travels efficiently through water.",
+      "explanation": "The air-water interface reflects most sound due to the large difference in acoustic impedance.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "tq019",
+      "question": "A guitar string and a tuning fork produce the same frequency. Which one is louder?",
+      "answer": "You cannot determine this from frequency alone. Loudness depends on amplitude, not frequency. A tuning fork struck gently will be quieter than a guitar string plucked vigorously, even at the same frequency. The amplitude (energy) of vibration determines loudness.",
+      "explanation": "Frequency determines pitch; amplitude determines loudness. They're independent.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "tq020",
+      "question": "Why don't we hear an echo of our voice when talking in a moving car?",
+      "answer": "The interior of a car is too small (walls are less than 17m away) and covered with soft materials (seats, carpet, fabric) that absorb sound. The reflected sound reaches our ears within 0.1 seconds and merges with the original sound. Also, soft materials absorb rather than reflect most sound.",
+      "explanation": "Small enclosed spaces with absorptive materials prevent distinct echoes.",
+      "source_section": "Echo"
+    }
+  ],
+  "total_count": 20,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

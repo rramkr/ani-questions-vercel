@@ -1,0 +1,359 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "fib001",
+      "question": "Sound is produced by _______ bodies.",
+      "answer": "vibrating",
+      "explanation": "Sound is produced when objects vibrate, creating disturbances in the surrounding medium.",
+      "source_section": "Introduction to Sound"
+    },
+    {
+      "id": "fib002",
+      "question": "The to and fro motion of an object about its mean position is called _______ motion.",
+      "answer": "vibratory",
+      "explanation": "Vibratory or oscillatory motion is the to and fro movement about a rest position.",
+      "source_section": "Vibratory Motion"
+    },
+    {
+      "id": "fib003",
+      "question": "The human voice box is called the _______.",
+      "answer": "larynx",
+      "explanation": "The larynx is located at the top of the windpipe and contains the vocal cords.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "fib004",
+      "question": "In humans, sound is produced by the vibration of _______ _______.",
+      "answer": "vocal cords",
+      "explanation": "The vocal cords in the larynx vibrate when air from the lungs passes through them.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "fib005",
+      "question": "Sound waves are _______ waves.",
+      "answer": "longitudinal",
+      "explanation": "In sound waves, particles vibrate parallel to the direction of wave propagation.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "fib006",
+      "question": "Sound cannot travel through _______.",
+      "answer": "vacuum",
+      "explanation": "Sound requires a material medium (solid, liquid, or gas) to travel.",
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "fib007",
+      "question": "The region of high pressure in a sound wave is called _______.",
+      "answer": "compression",
+      "explanation": "At compression, particles are crowded together creating high pressure.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "fib008",
+      "question": "The region of low pressure in a sound wave is called _______.",
+      "answer": "rarefaction",
+      "explanation": "At rarefaction, particles are spread apart creating low pressure.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "fib009",
+      "question": "The number of oscillations per second is called _______.",
+      "answer": "frequency",
+      "explanation": "Frequency is measured in Hertz (Hz), where 1 Hz = 1 oscillation per second.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "fib010",
+      "question": "The SI unit of frequency is _______.",
+      "answer": "hertz",
+      "explanation": "Hertz (Hz) is named after the German physicist Heinrich Hertz.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "fib011",
+      "question": "The time taken for one complete oscillation is called _______ _______.",
+      "answer": "time period",
+      "explanation": "Time period (T) is the reciprocal of frequency: T = 1/f.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "fib012",
+      "question": "The maximum displacement from mean position is called _______.",
+      "answer": "amplitude",
+      "explanation": "Amplitude determines the loudness of sound - greater amplitude means louder sound.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "fib013",
+      "question": "The distance covered by a wave in one oscillation is called _______.",
+      "answer": "wavelength",
+      "explanation": "Wavelength is represented by the Greek letter lambda (λ).",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "fib014",
+      "question": "The speed of sound in air is approximately _______ m/s.",
+      "answer": "340",
+      "explanation": "At room temperature (20°C), sound travels at approximately 340 m/s in air.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "fib015",
+      "question": "Sound travels fastest in _______.",
+      "answer": "solids",
+      "explanation": "Particles in solids are closely packed, allowing faster transmission of vibrations.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "fib016",
+      "question": "Sound travels slowest in _______.",
+      "answer": "gases",
+      "explanation": "Particles in gases are far apart, causing slower transmission of vibrations.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "fib017",
+      "question": "The loudness of sound depends on its _______.",
+      "answer": "amplitude",
+      "explanation": "Greater amplitude produces louder sound.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "fib018",
+      "question": "The pitch of sound depends on its _______.",
+      "answer": "frequency",
+      "explanation": "Higher frequency produces higher pitch (shriller sound).",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "fib019",
+      "question": "The quality of sound that distinguishes between two sources is called _______.",
+      "answer": "timbre",
+      "explanation": "Timbre (or quality) helps us identify different voices or instruments.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "fib020",
+      "question": "The audible range for humans is _______ Hz to _______ Hz.",
+      "answer": "20, 20000",
+      "explanation": "Humans can hear sounds in the frequency range of 20 Hz to 20,000 Hz (20 kHz).",
+      "source_section": "Range of Hearing"
+    },
+    {
+      "id": "fib021",
+      "question": "Sounds with frequency above 20,000 Hz are called _______ sounds.",
+      "answer": "ultrasonic",
+      "explanation": "Ultrasonic sounds are beyond the upper limit of human hearing.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "fib022",
+      "question": "Sounds with frequency below 20 Hz are called _______ sounds.",
+      "answer": "infrasonic",
+      "explanation": "Infrasonic sounds are below the lower limit of human hearing.",
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "fib023",
+      "question": "The reflection of sound from a surface is called _______.",
+      "answer": "echo",
+      "explanation": "Echo is the repetition of sound due to reflection from a distant surface.",
+      "source_section": "Echo"
+    },
+    {
+      "id": "fib024",
+      "question": "For an echo to be heard distinctly, the minimum distance should be _______ metres.",
+      "answer": "17",
+      "explanation": "This ensures a time gap of at least 0.1 seconds between original sound and echo.",
+      "source_section": "Echo"
+    },
+    {
+      "id": "fib025",
+      "question": "SONAR stands for Sound _______ and Ranging.",
+      "answer": "Navigation",
+      "explanation": "SONAR = Sound Navigation and Ranging, used to detect underwater objects.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "fib026",
+      "question": "_______ use echolocation to navigate in the dark.",
+      "answer": "Bats",
+      "explanation": "Bats emit ultrasonic sounds and detect objects from the reflected echoes.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "fib027",
+      "question": "_______ can produce infrasonic sounds to communicate.",
+      "answer": "Elephants",
+      "explanation": "Elephants produce infrasonic sounds below 20 Hz to communicate over long distances.",
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "fib028",
+      "question": "The unit of loudness is _______.",
+      "answer": "decibel",
+      "explanation": "Loudness is measured in decibels (dB) on a logarithmic scale.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "fib029",
+      "question": "The formula relating speed, frequency and wavelength is v = f × _______.",
+      "answer": "wavelength",
+      "explanation": "Speed (v) = frequency (f) × wavelength (λ).",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "fib030",
+      "question": "Wavelength is represented by the Greek letter _______.",
+      "answer": "lambda",
+      "explanation": "Lambda (λ) is the standard symbol for wavelength.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "fib031",
+      "question": "In a tuning fork, sound is produced by vibrating _______.",
+      "answer": "prongs",
+      "explanation": "The prongs (or tines) of a tuning fork vibrate when struck.",
+      "source_section": "Sources of Sound"
+    },
+    {
+      "id": "fib032",
+      "question": "Guitar, sitar, and veena are _______ instruments.",
+      "answer": "stringed",
+      "explanation": "These instruments produce sound through vibrating strings.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "fib033",
+      "question": "Drum and tabla are _______ instruments.",
+      "answer": "percussion",
+      "explanation": "Sound is produced by striking a stretched membrane in these instruments.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "fib034",
+      "question": "Flute is a _______ instrument.",
+      "answer": "wind",
+      "explanation": "In wind instruments, sound is produced by vibrating air column.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "fib035",
+      "question": "In harmonium, sound is produced by vibrating _______.",
+      "answer": "reeds",
+      "explanation": "Reed instruments produce sound when air passes over thin metal strips called reeds.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "fib036",
+      "question": "The persistence of hearing in humans is about _______ seconds.",
+      "answer": "0.1",
+      "explanation": "The human ear retains the sensation of sound for about 0.1 seconds.",
+      "source_section": "Echo"
+    },
+    {
+      "id": "fib037",
+      "question": "Multiple reflections of sound in an enclosed space is called _______.",
+      "answer": "reverberation",
+      "explanation": "Reverberation prolongs the sound due to repeated reflections from walls.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "fib038",
+      "question": "The speed of sound in water is approximately _______ m/s.",
+      "answer": "1500",
+      "explanation": "Sound travels about 4.4 times faster in water than in air.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "fib039",
+      "question": "The speed of sound _______ with increase in temperature.",
+      "answer": "increases",
+      "explanation": "Higher temperature means faster molecular motion and higher speed of sound.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "fib040",
+      "question": "The medical technique using ultrasound to break kidney stones is called _______.",
+      "answer": "lithotripsy",
+      "explanation": "Lithotripsy uses high-intensity ultrasound to shatter kidney stones.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "fib041",
+      "question": "Sound waves are also called _______ waves because they need a medium.",
+      "answer": "mechanical",
+      "explanation": "Mechanical waves require a material medium for propagation.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "fib042",
+      "question": "We see lightning before hearing thunder because light travels _______ than sound.",
+      "answer": "faster",
+      "explanation": "Light travels at 3 × 10^8 m/s while sound travels at only 340 m/s.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "fib043",
+      "question": "The _______ vibrates when sound enters the ear.",
+      "answer": "eardrum",
+      "explanation": "The eardrum (tympanic membrane) converts sound waves to vibrations.",
+      "source_section": "Human Ear"
+    },
+    {
+      "id": "fib044",
+      "question": "Sound waves transfer _______ without transferring matter.",
+      "answer": "energy",
+      "explanation": "Sound waves carry energy from one place to another through particle vibrations.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "fib045",
+      "question": "A child's voice is shriller because their vocal cords are _______.",
+      "answer": "shorter",
+      "explanation": "Shorter vocal cords vibrate faster, producing higher frequency (shriller) sound.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "fib046",
+      "question": "Frequency and time period are _______ of each other.",
+      "answer": "reciprocals",
+      "explanation": "f = 1/T and T = 1/f, so they are inversely related.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "fib047",
+      "question": "Density of medium is maximum at _______ in a sound wave.",
+      "answer": "compression",
+      "explanation": "At compression, particles are crowded together, increasing density.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "fib048",
+      "question": "Pressure is minimum at _______ in a sound wave.",
+      "answer": "rarefaction",
+      "explanation": "At rarefaction, particles are spread apart, decreasing pressure.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "fib049",
+      "question": "_______ use SONAR to detect fish and submarines.",
+      "answer": "Ships",
+      "explanation": "Ships use SONAR (ultrasonic waves) for underwater navigation and detection.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "fib050",
+      "question": "Normal conversation has a sound level of approximately _______-_______ decibels.",
+      "answer": "40, 60",
+      "explanation": "Normal speech is typically in the 40-60 dB range.",
+      "source_section": "Noise Pollution"
+    }
+  ],
+  "total_count": 50,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

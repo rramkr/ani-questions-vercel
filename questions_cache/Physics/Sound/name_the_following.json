@@ -1,0 +1,184 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "ntf001",
+      "question": "The voice box in humans.",
+      "answer": "Larynx",
+      "explanation": "The larynx, located at the top of the windpipe, contains the vocal cords that vibrate to produce sound.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "ntf002",
+      "question": "The type of waves that sound travels as.",
+      "answer": "Longitudinal waves",
+      "explanation": "In longitudinal waves, particles of the medium vibrate parallel to the direction of wave propagation.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "ntf003",
+      "question": "The SI unit of frequency.",
+      "answer": "Hertz (Hz)",
+      "explanation": "Hertz is named after German physicist Heinrich Hertz. 1 Hz = 1 oscillation per second.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "ntf004",
+      "question": "The region of high pressure in a sound wave.",
+      "answer": "Compression",
+      "explanation": "At compression, particles of the medium are crowded together, creating high pressure.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "ntf005",
+      "question": "The region of low pressure in a sound wave.",
+      "answer": "Rarefaction",
+      "explanation": "At rarefaction, particles of the medium are spread apart, creating low pressure.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "ntf006",
+      "question": "The characteristic of sound that depends on amplitude.",
+      "answer": "Loudness",
+      "explanation": "Greater amplitude produces louder sound. Loudness is measured in decibels (dB).",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "ntf007",
+      "question": "The characteristic of sound that depends on frequency.",
+      "answer": "Pitch",
+      "explanation": "Higher frequency produces higher pitch (shriller sound), and lower frequency produces lower pitch.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "ntf008",
+      "question": "The quality of sound that helps us identify different voices or instruments.",
+      "answer": "Timbre (or Quality)",
+      "explanation": "Timbre depends on the waveform and overtones, allowing us to distinguish different sound sources.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "ntf009",
+      "question": "Sounds with frequency above 20,000 Hz.",
+      "answer": "Ultrasonic sounds (Ultrasound)",
+      "explanation": "Ultrasonic sounds are beyond the upper limit of human hearing. Bats and dolphins can produce and hear them.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "ntf010",
+      "question": "Sounds with frequency below 20 Hz.",
+      "answer": "Infrasonic sounds (Infrasound)",
+      "explanation": "Infrasonic sounds are below the lower limit of human hearing. Elephants and earthquakes produce them.",
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "ntf011",
+      "question": "The reflection of sound that we hear after the original sound.",
+      "answer": "Echo",
+      "explanation": "Echo occurs when sound reflects from a surface at least 17 metres away.",
+      "source_section": "Echo"
+    },
+    {
+      "id": "ntf012",
+      "question": "The technique used by bats to navigate in the dark.",
+      "answer": "Echolocation",
+      "explanation": "Bats emit ultrasonic sounds and detect objects from the reflected echoes.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "ntf013",
+      "question": "The technology that uses ultrasonic waves for underwater detection.",
+      "answer": "SONAR (Sound Navigation and Ranging)",
+      "explanation": "SONAR is used to detect submarines, measure sea depth, and locate fish shoals.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "ntf014",
+      "question": "The unit used to measure loudness of sound.",
+      "answer": "Decibel (dB)",
+      "explanation": "The decibel scale is logarithmic. Normal conversation is about 40-60 dB.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "ntf015",
+      "question": "The Greek letter used to represent wavelength.",
+      "answer": "Lambda (λ)",
+      "explanation": "Wavelength (λ) is the distance covered by a wave in one complete oscillation.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "ntf016",
+      "question": "The medical technique using ultrasound to break kidney stones.",
+      "answer": "Lithotripsy",
+      "explanation": "Lithotripsy uses high-intensity focused ultrasound to shatter kidney stones into small pieces.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "ntf017",
+      "question": "The persistence of sound due to multiple reflections in an enclosed space.",
+      "answer": "Reverberation",
+      "explanation": "Reverberation is different from echo - it's the mixing of multiple reflected sounds.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "ntf018",
+      "question": "The part of the ear that vibrates when sound enters.",
+      "answer": "Eardrum (Tympanic membrane)",
+      "explanation": "The eardrum is a thin membrane that converts sound waves into mechanical vibrations.",
+      "source_section": "Human Ear"
+    },
+    {
+      "id": "ntf019",
+      "question": "The spiral-shaped structure in the inner ear that converts vibrations to electrical signals.",
+      "answer": "Cochlea",
+      "explanation": "The cochlea is filled with fluid and contains hair cells that detect vibrations.",
+      "source_section": "Human Ear"
+    },
+    {
+      "id": "ntf020",
+      "question": "A type of musical instrument where sound is produced by vibrating strings.",
+      "answer": "Stringed instrument (e.g., guitar, sitar, violin)",
+      "explanation": "In stringed instruments, the strings vibrate when plucked, struck, or bowed.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "ntf021",
+      "question": "A type of musical instrument where sound is produced by vibrating air column.",
+      "answer": "Wind instrument (e.g., flute, trumpet)",
+      "explanation": "In wind instruments, the player blows air to create vibrations in the air column.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "ntf022",
+      "question": "A type of musical instrument where sound is produced by striking a stretched membrane.",
+      "answer": "Percussion instrument (e.g., drum, tabla)",
+      "explanation": "In percussion instruments, the membrane vibrates when struck.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "ntf023",
+      "question": "The thin muscular membranes in the larynx that produce sound.",
+      "answer": "Vocal cords",
+      "explanation": "Vocal cords vibrate when air from the lungs passes through them.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "ntf024",
+      "question": "The property of human ear by which sound sensation persists for about 0.1 seconds.",
+      "answer": "Persistence of hearing",
+      "explanation": "Due to persistence of hearing, we need at least 0.1 seconds gap to hear two sounds separately.",
+      "source_section": "Echo"
+    },
+    {
+      "id": "ntf025",
+      "question": "An animal that can produce and detect infrasonic sounds for communication.",
+      "answer": "Elephant",
+      "explanation": "Elephants produce infrasonic sounds below 20 Hz to communicate over long distances.",
+      "source_section": "Infrasonic Sounds"
+    }
+  ],
+  "total_count": 25,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

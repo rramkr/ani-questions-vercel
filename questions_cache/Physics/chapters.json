@@ -10,6 +10,21 @@
       "name": "Electromagnetism",
       "slug": "electromagnetism",
       "has_questions": true
+    },
+    {
+      "name": "Sound",
+      "slug": "sound",
+      "has_questions": true
+    },
+    {
+      "name": "Energy",
+      "slug": "energy",
+      "has_questions": true
+    },
+    {
+      "name": "Physical Quantities",
+      "slug": "Physical Quantities",
+      "has_questions": true
     }
   ]
 }

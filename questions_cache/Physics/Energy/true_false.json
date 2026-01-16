@@ -1,0 +1,29 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {"id": "tf001", "question": "Energy is a scalar quantity.", "correct_answer": true, "explanation": "Energy has magnitude only, no direction.", "source_section": "Introduction"},
+    {"id": "tf002", "question": "Kinetic energy can be negative.", "correct_answer": false, "explanation": "KE = ½mv² is always positive since m and v² are positive.", "source_section": "Kinetic Energy"},
+    {"id": "tf003", "question": "Potential energy depends on the reference point chosen.", "correct_answer": true, "explanation": "PE is measured relative to a chosen reference level.", "source_section": "Potential Energy"},
+    {"id": "tf004", "question": "Energy can be created from nothing.", "correct_answer": false, "explanation": "Law of conservation: energy cannot be created or destroyed.", "source_section": "Conservation"},
+    {"id": "tf005", "question": "Power is the rate of doing work.", "correct_answer": true, "explanation": "Power = Work/Time.", "source_section": "Power"},
+    {"id": "tf006", "question": "Work and energy have the same unit.", "correct_answer": true, "explanation": "Both are measured in Joules.", "source_section": "Units"},
+    {"id": "tf007", "question": "If velocity doubles, kinetic energy also doubles.", "correct_answer": false, "explanation": "KE ∝ v², so doubling v makes KE four times.", "source_section": "Kinetic Energy"},
+    {"id": "tf008", "question": "Coal is a renewable source of energy.", "correct_answer": false, "explanation": "Coal is non-renewable; takes millions of years to form.", "source_section": "Sources"},
+    {"id": "tf009", "question": "Solar energy is renewable.", "correct_answer": true, "explanation": "Sun continuously provides energy.", "source_section": "Sources"},
+    {"id": "tf010", "question": "A body at rest has zero total energy.", "correct_answer": false, "explanation": "It has zero KE but can have PE due to position.", "source_section": "Mechanical Energy"},
+    {"id": "tf011", "question": "In a pendulum, total mechanical energy remains constant.", "correct_answer": true, "explanation": "KE and PE interchange but total stays constant (ignoring friction).", "source_section": "Conservation"},
+    {"id": "tf012", "question": "An electric motor converts electrical energy to mechanical energy.", "correct_answer": true, "explanation": "Motors produce rotational motion from electricity.", "source_section": "Transformation"},
+    {"id": "tf013", "question": "Nuclear energy is released by chemical reactions.", "correct_answer": false, "explanation": "Nuclear energy is released by fission or fusion, not chemical reactions.", "source_section": "Nuclear Energy"},
+    {"id": "tf014", "question": "1 kWh = 3600 J.", "correct_answer": false, "explanation": "1 kWh = 1000 W × 3600 s = 3,600,000 J.", "source_section": "Units"},
+    {"id": "tf015", "question": "Efficiency of a machine can be more than 100%.", "correct_answer": false, "explanation": "Due to losses, efficiency is always less than 100%.", "source_section": "Efficiency"},
+    {"id": "tf016", "question": "A flying bird has both kinetic and potential energy.", "correct_answer": true, "explanation": "KE due to motion, PE due to height.", "source_section": "Mechanical Energy"},
+    {"id": "tf017", "question": "Wind energy is actually a form of solar energy.", "correct_answer": true, "explanation": "Wind is caused by uneven solar heating of Earth.", "source_section": "Sources"},
+    {"id": "tf018", "question": "The sun produces energy by nuclear fission.", "correct_answer": false, "explanation": "Sun produces energy by nuclear fusion.", "source_section": "Nuclear Energy"},
+    {"id": "tf019", "question": "Work is done when a force causes displacement.", "correct_answer": true, "explanation": "W = F × d × cos θ.", "source_section": "Work"},
+    {"id": "tf020", "question": "If you push a wall and it doesn't move, work done is zero.", "correct_answer": true, "explanation": "No displacement means zero work.", "source_section": "Work"}
+  ],
+  "total_count": 20,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Energy"
+}

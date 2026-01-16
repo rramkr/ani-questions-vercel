@@ -1,0 +1,809 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "mcq001",
+      "question": "Energy is defined as:",
+      "options": ["A. The ability to do work", "B. The rate of doing work", "C. Force times distance", "D. Mass times velocity"],
+      "correct_answer": "A. The ability to do work",
+      "explanation": "Energy is defined as the capacity or ability to do work. Different forms of energy can be converted to do useful work.",
+      "source_section": "Introduction to Energy"
+    },
+    {
+      "id": "mcq002",
+      "question": "The SI unit of energy is:",
+      "options": ["A. Newton", "B. Watt", "C. Joule", "D. Pascal"],
+      "correct_answer": "C. Joule",
+      "explanation": "The SI unit of energy is Joule (J), named after James Prescott Joule. 1 Joule = 1 Newton × 1 metre.",
+      "source_section": "Units of Energy"
+    },
+    {
+      "id": "mcq003",
+      "question": "The energy possessed by a moving object is called:",
+      "options": ["A. Potential energy", "B. Kinetic energy", "C. Chemical energy", "D. Nuclear energy"],
+      "correct_answer": "B. Kinetic energy",
+      "explanation": "Kinetic energy is the energy possessed by an object due to its motion. The word 'kinetic' comes from Greek 'kinesis' meaning motion.",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq004",
+      "question": "The energy stored in an object due to its position or configuration is called:",
+      "options": ["A. Kinetic energy", "B. Thermal energy", "C. Potential energy", "D. Electrical energy"],
+      "correct_answer": "C. Potential energy",
+      "explanation": "Potential energy is stored energy due to position (like height above ground) or configuration (like a stretched spring).",
+      "source_section": "Potential Energy"
+    },
+    {
+      "id": "mcq005",
+      "question": "The formula for kinetic energy is:",
+      "options": ["A. KE = mgh", "B. KE = ½mv²", "C. KE = Fd", "D. KE = P×t"],
+      "correct_answer": "B. KE = ½mv²",
+      "explanation": "Kinetic energy = ½ × mass × velocity squared. KE depends on both mass and the square of velocity.",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq006",
+      "question": "The formula for gravitational potential energy is:",
+      "options": ["A. PE = ½mv²", "B. PE = mgh", "C. PE = Fd", "D. PE = W/t"],
+      "correct_answer": "B. PE = mgh",
+      "explanation": "Gravitational potential energy = mass × acceleration due to gravity × height. It depends on position relative to a reference point.",
+      "source_section": "Potential Energy"
+    },
+    {
+      "id": "mcq007",
+      "question": "When the velocity of an object is doubled, its kinetic energy becomes:",
+      "options": ["A. Double", "B. Half", "C. Four times", "D. Same"],
+      "correct_answer": "C. Four times",
+      "explanation": "KE = ½mv². Since KE depends on v², doubling velocity makes KE = ½m(2v)² = ½m×4v² = 4 times the original KE.",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq008",
+      "question": "The law of conservation of energy states that:",
+      "options": ["A. Energy can be created", "B. Energy can be destroyed", "C. Energy can neither be created nor destroyed", "D. Energy always increases"],
+      "correct_answer": "C. Energy can neither be created nor destroyed",
+      "explanation": "The law of conservation of energy states that energy can neither be created nor destroyed; it can only be transformed from one form to another.",
+      "source_section": "Conservation of Energy"
+    },
+    {
+      "id": "mcq009",
+      "question": "The rate of doing work is called:",
+      "options": ["A. Energy", "B. Force", "C. Power", "D. Momentum"],
+      "correct_answer": "C. Power",
+      "explanation": "Power is the rate at which work is done or energy is transferred. Power = Work done / Time taken.",
+      "source_section": "Power"
+    },
+    {
+      "id": "mcq010",
+      "question": "The SI unit of power is:",
+      "options": ["A. Joule", "B. Newton", "C. Watt", "D. Pascal"],
+      "correct_answer": "C. Watt",
+      "explanation": "The SI unit of power is Watt (W), named after James Watt. 1 Watt = 1 Joule per second.",
+      "source_section": "Power"
+    },
+    {
+      "id": "mcq011",
+      "question": "1 kilowatt-hour (kWh) is equal to:",
+      "options": ["A. 3600 J", "B. 36000 J", "C. 360000 J", "D. 3600000 J"],
+      "correct_answer": "D. 3600000 J",
+      "explanation": "1 kWh = 1000 W × 3600 s = 3,600,000 J = 3.6 × 10⁶ J. It's the commercial unit of electrical energy.",
+      "source_section": "Units of Energy"
+    },
+    {
+      "id": "mcq012",
+      "question": "Which of the following is NOT a form of energy?",
+      "options": ["A. Heat energy", "B. Light energy", "C. Force", "D. Sound energy"],
+      "correct_answer": "C. Force",
+      "explanation": "Force is not a form of energy. Force is a push or pull that can cause an object to accelerate. Heat, light, and sound are all forms of energy.",
+      "source_section": "Forms of Energy"
+    },
+    {
+      "id": "mcq013",
+      "question": "The energy stored in food is:",
+      "options": ["A. Kinetic energy", "B. Chemical energy", "C. Electrical energy", "D. Nuclear energy"],
+      "correct_answer": "B. Chemical energy",
+      "explanation": "Food contains chemical energy stored in the bonds of molecules. This energy is released during digestion and respiration.",
+      "source_section": "Chemical Energy"
+    },
+    {
+      "id": "mcq014",
+      "question": "The energy stored in a stretched rubber band is:",
+      "options": ["A. Kinetic energy", "B. Elastic potential energy", "C. Chemical energy", "D. Heat energy"],
+      "correct_answer": "B. Elastic potential energy",
+      "explanation": "A stretched rubber band stores elastic potential energy due to its deformed configuration. This energy is released when it snaps back.",
+      "source_section": "Potential Energy"
+    },
+    {
+      "id": "mcq015",
+      "question": "When a ball is thrown upward, its kinetic energy:",
+      "options": ["A. Increases", "B. Decreases", "C. Remains constant", "D. Becomes zero instantly"],
+      "correct_answer": "B. Decreases",
+      "explanation": "As the ball rises, its velocity decreases, so kinetic energy decreases. This KE converts to potential energy.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq016",
+      "question": "At the highest point of its path, a thrown ball has:",
+      "options": ["A. Maximum kinetic energy", "B. Maximum potential energy", "C. Zero total energy", "D. Both KE and PE are maximum"],
+      "correct_answer": "B. Maximum potential energy",
+      "explanation": "At the highest point, velocity is momentarily zero (minimum KE) and height is maximum (maximum PE).",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq017",
+      "question": "Solar cells convert:",
+      "options": ["A. Heat energy to electrical energy", "B. Light energy to electrical energy", "C. Chemical energy to electrical energy", "D. Mechanical energy to electrical energy"],
+      "correct_answer": "B. Light energy to electrical energy",
+      "explanation": "Solar cells (photovoltaic cells) convert light energy from the sun directly into electrical energy.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq018",
+      "question": "In a hydroelectric power plant, the energy transformation is:",
+      "options": ["A. Electrical → Mechanical", "B. Potential → Kinetic → Electrical", "C. Chemical → Electrical", "D. Nuclear → Electrical"],
+      "correct_answer": "B. Potential → Kinetic → Electrical",
+      "explanation": "Water stored at height has potential energy, which converts to kinetic energy as it falls, then to electrical energy via turbines and generators.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq019",
+      "question": "Which of the following is a renewable source of energy?",
+      "options": ["A. Coal", "B. Petroleum", "C. Natural gas", "D. Solar energy"],
+      "correct_answer": "D. Solar energy",
+      "explanation": "Solar energy is renewable as the sun continuously provides energy. Coal, petroleum, and natural gas are non-renewable fossil fuels.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq020",
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": ["A. Wind energy", "B. Tidal energy", "C. Coal", "D. Geothermal energy"],
+      "correct_answer": "C. Coal",
+      "explanation": "Coal is a non-renewable fossil fuel that takes millions of years to form and has limited reserves.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq021",
+      "question": "The mechanical energy of an object is the sum of its:",
+      "options": ["A. Mass and velocity", "B. Kinetic and potential energy", "C. Force and distance", "D. Power and time"],
+      "correct_answer": "B. Kinetic and potential energy",
+      "explanation": "Mechanical energy = Kinetic energy + Potential energy. In the absence of friction, mechanical energy is conserved.",
+      "source_section": "Mechanical Energy"
+    },
+    {
+      "id": "mcq022",
+      "question": "A body at rest on a table has:",
+      "options": ["A. Only kinetic energy", "B. Only potential energy", "C. Both kinetic and potential energy", "D. Neither kinetic nor potential energy"],
+      "correct_answer": "B. Only potential energy",
+      "explanation": "A body at rest has zero velocity (KE = 0) but has potential energy due to its height above the floor.",
+      "source_section": "Mechanical Energy"
+    },
+    {
+      "id": "mcq023",
+      "question": "1 horsepower (HP) is equal to approximately:",
+      "options": ["A. 476 W", "B. 576 W", "C. 746 W", "D. 846 W"],
+      "correct_answer": "C. 746 W",
+      "explanation": "1 horsepower ≈ 746 watts. This unit was defined by James Watt based on the power of draft horses.",
+      "source_section": "Power"
+    },
+    {
+      "id": "mcq024",
+      "question": "The energy stored in a battery is:",
+      "options": ["A. Kinetic energy", "B. Nuclear energy", "C. Chemical energy", "D. Mechanical energy"],
+      "correct_answer": "C. Chemical energy",
+      "explanation": "Batteries store chemical energy which is converted to electrical energy when the battery is used.",
+      "source_section": "Chemical Energy"
+    },
+    {
+      "id": "mcq025",
+      "question": "In a nuclear power plant, the source of energy is:",
+      "options": ["A. Chemical reactions", "B. Nuclear fission", "C. Burning of coal", "D. Water flow"],
+      "correct_answer": "B. Nuclear fission",
+      "explanation": "Nuclear power plants use nuclear fission (splitting of heavy atoms like uranium) to release enormous amounts of energy.",
+      "source_section": "Nuclear Energy"
+    },
+    {
+      "id": "mcq026",
+      "question": "When you rub your hands together, mechanical energy is converted to:",
+      "options": ["A. Light energy", "B. Sound energy", "C. Heat energy", "D. Electrical energy"],
+      "correct_answer": "C. Heat energy",
+      "explanation": "Friction between hands converts mechanical energy (motion) to heat energy, making hands feel warm.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq027",
+      "question": "The energy of a waterfall is:",
+      "options": ["A. Only kinetic", "B. Only potential", "C. Both kinetic and potential", "D. Neither"],
+      "correct_answer": "C. Both kinetic and potential",
+      "explanation": "Water in a waterfall has potential energy due to height and kinetic energy due to its motion as it falls.",
+      "source_section": "Mechanical Energy"
+    },
+    {
+      "id": "mcq028",
+      "question": "Which device converts electrical energy to light energy?",
+      "options": ["A. Motor", "B. Generator", "C. Electric bulb", "D. Battery"],
+      "correct_answer": "C. Electric bulb",
+      "explanation": "An electric bulb converts electrical energy to light energy (and some heat).",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq029",
+      "question": "Which device converts electrical energy to mechanical energy?",
+      "options": ["A. Generator", "B. Electric motor", "C. Solar cell", "D. Battery"],
+      "correct_answer": "B. Electric motor",
+      "explanation": "An electric motor converts electrical energy to mechanical energy (rotational motion).",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq030",
+      "question": "Which device converts mechanical energy to electrical energy?",
+      "options": ["A. Motor", "B. Generator", "C. Heater", "D. Fan"],
+      "correct_answer": "B. Generator",
+      "explanation": "A generator (or dynamo) converts mechanical energy to electrical energy through electromagnetic induction.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq031",
+      "question": "If the mass of a moving object is doubled (velocity remaining same), its kinetic energy:",
+      "options": ["A. Remains same", "B. Becomes half", "C. Becomes double", "D. Becomes four times"],
+      "correct_answer": "C. Becomes double",
+      "explanation": "KE = ½mv². If m doubles and v stays same, KE becomes 2 times (directly proportional to mass).",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq032",
+      "question": "The energy possessed by wind is:",
+      "options": ["A. Potential energy", "B. Kinetic energy", "C. Chemical energy", "D. Nuclear energy"],
+      "correct_answer": "B. Kinetic energy",
+      "explanation": "Wind is moving air, so it possesses kinetic energy. Wind turbines convert this to electrical energy.",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq033",
+      "question": "The energy from the sun reaches Earth as:",
+      "options": ["A. Kinetic energy", "B. Potential energy", "C. Light and heat energy", "D. Sound energy"],
+      "correct_answer": "C. Light and heat energy",
+      "explanation": "Solar energy reaches Earth primarily as light (electromagnetic radiation) and heat (infrared radiation).",
+      "source_section": "Solar Energy"
+    },
+    {
+      "id": "mcq034",
+      "question": "Geothermal energy is obtained from:",
+      "options": ["A. The sun", "B. Wind", "C. Heat inside the Earth", "D. Ocean tides"],
+      "correct_answer": "C. Heat inside the Earth",
+      "explanation": "Geothermal energy comes from the heat stored inside the Earth, which can be used to generate electricity.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq035",
+      "question": "Tidal energy is obtained from:",
+      "options": ["A. Burning of tides", "B. Rise and fall of sea water due to tides", "C. Chemical reactions in sea", "D. Sunlight on water"],
+      "correct_answer": "B. Rise and fall of sea water due to tides",
+      "explanation": "Tidal energy harnesses the potential and kinetic energy of tides caused by gravitational pull of moon and sun.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq036",
+      "question": "The ultimate source of most energy on Earth is:",
+      "options": ["A. Moon", "B. Earth's core", "C. Sun", "D. Stars"],
+      "correct_answer": "C. Sun",
+      "explanation": "The sun is the ultimate source of most energy. Fossil fuels are stored solar energy, wind is caused by solar heating, etc.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq037",
+      "question": "In photosynthesis, plants convert:",
+      "options": ["A. Light energy to chemical energy", "B. Chemical energy to light energy", "C. Heat energy to chemical energy", "D. Kinetic energy to potential energy"],
+      "correct_answer": "A. Light energy to chemical energy",
+      "explanation": "Plants use light energy to convert CO₂ and water into glucose (chemical energy stored in food).",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq038",
+      "question": "Biomass energy is obtained from:",
+      "options": ["A. Fossil fuels", "B. Nuclear reactions", "C. Plant and animal waste", "D. Tidal waves"],
+      "correct_answer": "C. Plant and animal waste",
+      "explanation": "Biomass energy comes from organic materials like plant matter, animal waste, and agricultural residues.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq039",
+      "question": "Which of the following has maximum kinetic energy?",
+      "options": ["A. A car at rest", "B. A moving car", "C. A parked truck", "D. A stationary train"],
+      "correct_answer": "B. A moving car",
+      "explanation": "Only the moving car has kinetic energy. Objects at rest have zero kinetic energy.",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq040",
+      "question": "The efficiency of a machine is:",
+      "options": ["A. Always 100%", "B. Always more than 100%", "C. Always less than 100%", "D. Can be any value"],
+      "correct_answer": "C. Always less than 100%",
+      "explanation": "Due to friction and other losses, no machine can be 100% efficient. Some energy is always lost as heat.",
+      "source_section": "Efficiency"
+    },
+    {
+      "id": "mcq041",
+      "question": "A pendulum at its mean position has:",
+      "options": ["A. Maximum potential energy", "B. Maximum kinetic energy", "C. Zero total energy", "D. Equal KE and PE"],
+      "correct_answer": "B. Maximum kinetic energy",
+      "explanation": "At mean position, pendulum has maximum velocity (max KE) and minimum height (min PE).",
+      "source_section": "Mechanical Energy"
+    },
+    {
+      "id": "mcq042",
+      "question": "A pendulum at its extreme position has:",
+      "options": ["A. Maximum kinetic energy", "B. Maximum potential energy", "C. Zero total energy", "D. Equal KE and PE"],
+      "correct_answer": "B. Maximum potential energy",
+      "explanation": "At extreme position, pendulum momentarily stops (KE = 0) and has maximum height (max PE).",
+      "source_section": "Mechanical Energy"
+    },
+    {
+      "id": "mcq043",
+      "question": "Work is said to be done when:",
+      "options": ["A. Force is applied", "B. Body moves", "C. Force causes displacement", "D. Body is at rest"],
+      "correct_answer": "C. Force causes displacement",
+      "explanation": "Work is done when a force causes displacement in the direction of the force. W = F × d × cos θ.",
+      "source_section": "Work"
+    },
+    {
+      "id": "mcq044",
+      "question": "The SI unit of work is:",
+      "options": ["A. Newton", "B. Watt", "C. Joule", "D. Pascal"],
+      "correct_answer": "C. Joule",
+      "explanation": "Work and energy have the same unit - Joule. 1 J = 1 N × 1 m.",
+      "source_section": "Work"
+    },
+    {
+      "id": "mcq045",
+      "question": "If you push a wall but it doesn't move, the work done is:",
+      "options": ["A. Positive", "B. Negative", "C. Zero", "D. Cannot be determined"],
+      "correct_answer": "C. Zero",
+      "explanation": "Work = Force × Displacement. Since displacement is zero, work done is zero regardless of force applied.",
+      "source_section": "Work"
+    },
+    {
+      "id": "mcq046",
+      "question": "The energy stored in coal is:",
+      "options": ["A. Kinetic energy", "B. Chemical energy", "C. Nuclear energy", "D. Electrical energy"],
+      "correct_answer": "B. Chemical energy",
+      "explanation": "Coal contains chemical energy stored in carbon compounds, released as heat when burned.",
+      "source_section": "Chemical Energy"
+    },
+    {
+      "id": "mcq047",
+      "question": "CFL and LED bulbs are preferred over incandescent bulbs because:",
+      "options": ["A. They are brighter", "B. They are more efficient", "C. They produce more heat", "D. They are louder"],
+      "correct_answer": "B. They are more efficient",
+      "explanation": "CFL and LED bulbs convert more electrical energy to light and less to heat, making them more efficient.",
+      "source_section": "Energy Conservation"
+    },
+    {
+      "id": "mcq048",
+      "question": "The energy transformation in a loudspeaker is:",
+      "options": ["A. Electrical to sound", "B. Sound to electrical", "C. Light to sound", "D. Heat to sound"],
+      "correct_answer": "A. Electrical to sound",
+      "explanation": "A loudspeaker converts electrical energy (audio signals) to sound energy (vibrations in air).",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq049",
+      "question": "The energy transformation in a microphone is:",
+      "options": ["A. Electrical to sound", "B. Sound to electrical", "C. Light to electrical", "D. Heat to electrical"],
+      "correct_answer": "B. Sound to electrical",
+      "explanation": "A microphone converts sound energy (vibrations) to electrical signals.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq050",
+      "question": "Which has more kinetic energy - a 1 kg ball moving at 10 m/s or a 2 kg ball moving at 5 m/s?",
+      "options": ["A. 1 kg ball", "B. 2 kg ball", "C. Both have equal KE", "D. Cannot be determined"],
+      "correct_answer": "A. 1 kg ball",
+      "explanation": "KE₁ = ½(1)(10)² = 50 J; KE₂ = ½(2)(5)² = 25 J. The 1 kg ball has more KE because KE depends on v².",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq051",
+      "question": "Energy cannot be:",
+      "options": ["A. Transformed", "B. Transferred", "C. Stored", "D. Created"],
+      "correct_answer": "D. Created",
+      "explanation": "According to the law of conservation of energy, energy cannot be created or destroyed, only transformed.",
+      "source_section": "Conservation of Energy"
+    },
+    {
+      "id": "mcq052",
+      "question": "The potential energy of a body depends on:",
+      "options": ["A. Its velocity", "B. Its position", "C. Its color", "D. Its shape only"],
+      "correct_answer": "B. Its position",
+      "explanation": "Gravitational PE depends on height (position). Elastic PE depends on deformation (configuration).",
+      "source_section": "Potential Energy"
+    },
+    {
+      "id": "mcq053",
+      "question": "A body falling freely from a height has:",
+      "options": ["A. Increasing KE, decreasing PE", "B. Decreasing KE, increasing PE", "C. Both increasing", "D. Both decreasing"],
+      "correct_answer": "A. Increasing KE, decreasing PE",
+      "explanation": "As the body falls, height decreases (PE decreases) and velocity increases (KE increases). Total mechanical energy remains constant.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq054",
+      "question": "Which energy transformation occurs in a thermal power plant?",
+      "options": ["A. Nuclear → Electrical", "B. Chemical → Heat → Mechanical → Electrical", "C. Solar → Electrical", "D. Wind → Electrical"],
+      "correct_answer": "B. Chemical → Heat → Mechanical → Electrical",
+      "explanation": "Coal (chemical) is burned for heat, which produces steam to drive turbines (mechanical), which run generators (electrical).",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq055",
+      "question": "The energy stored in a compressed spring is:",
+      "options": ["A. Kinetic energy", "B. Gravitational potential energy", "C. Elastic potential energy", "D. Chemical energy"],
+      "correct_answer": "C. Elastic potential energy",
+      "explanation": "A compressed spring stores elastic potential energy due to its deformed configuration.",
+      "source_section": "Potential Energy"
+    },
+    {
+      "id": "mcq056",
+      "question": "If power is 100 W and time is 10 seconds, the work done is:",
+      "options": ["A. 10 J", "B. 100 J", "C. 1000 J", "D. 10000 J"],
+      "correct_answer": "C. 1000 J",
+      "explanation": "Power = Work/Time, so Work = Power × Time = 100 × 10 = 1000 J.",
+      "source_section": "Power"
+    },
+    {
+      "id": "mcq057",
+      "question": "Natural gas is a:",
+      "options": ["A. Renewable source", "B. Non-renewable source", "C. Inexhaustible source", "D. Man-made source"],
+      "correct_answer": "B. Non-renewable source",
+      "explanation": "Natural gas is a fossil fuel that took millions of years to form and has limited reserves.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq058",
+      "question": "Which of the following is an example of energy conservation?",
+      "options": ["A. Leaving lights on when not needed", "B. Using CFL bulbs instead of incandescent", "C. Keeping doors open while AC is on", "D. Running tap water continuously"],
+      "correct_answer": "B. Using CFL bulbs instead of incandescent",
+      "explanation": "Using efficient devices like CFL bulbs reduces energy consumption while providing the same service.",
+      "source_section": "Energy Conservation"
+    },
+    {
+      "id": "mcq059",
+      "question": "The energy in fossil fuels originally came from:",
+      "options": ["A. The moon", "B. The sun", "C. Volcanoes", "D. Ocean currents"],
+      "correct_answer": "B. The sun",
+      "explanation": "Fossil fuels were formed from ancient plants and animals that stored solar energy through photosynthesis millions of years ago.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq060",
+      "question": "A 100 W bulb used for 10 hours consumes:",
+      "options": ["A. 1 unit", "B. 10 units", "C. 100 units", "D. 1000 units"],
+      "correct_answer": "A. 1 unit",
+      "explanation": "1 unit = 1 kWh. Energy = 100 W × 10 h = 1000 Wh = 1 kWh = 1 unit.",
+      "source_section": "Units of Energy"
+    },
+    {
+      "id": "mcq061",
+      "question": "Nuclear energy is released by:",
+      "options": ["A. Burning", "B. Fission or fusion", "C. Evaporation", "D. Condensation"],
+      "correct_answer": "B. Fission or fusion",
+      "explanation": "Nuclear energy is released by fission (splitting heavy nuclei) or fusion (combining light nuclei).",
+      "source_section": "Nuclear Energy"
+    },
+    {
+      "id": "mcq062",
+      "question": "The kinetic energy of an object is zero when:",
+      "options": ["A. Mass is zero", "B. Velocity is zero", "C. Height is zero", "D. Force is zero"],
+      "correct_answer": "B. Velocity is zero",
+      "explanation": "KE = ½mv². When v = 0, KE = 0 regardless of mass.",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq063",
+      "question": "A flying bird has:",
+      "options": ["A. Only kinetic energy", "B. Only potential energy", "C. Both kinetic and potential energy", "D. Neither"],
+      "correct_answer": "C. Both kinetic and potential energy",
+      "explanation": "A flying bird has KE due to motion and PE due to height above ground.",
+      "source_section": "Mechanical Energy"
+    },
+    {
+      "id": "mcq064",
+      "question": "In a nuclear reaction, a small amount of mass is converted to:",
+      "options": ["A. Light only", "B. Heat only", "C. Enormous amount of energy", "D. Sound"],
+      "correct_answer": "C. Enormous amount of energy",
+      "explanation": "According to Einstein's E = mc², a small mass converts to enormous energy (c² is very large).",
+      "source_section": "Nuclear Energy"
+    },
+    {
+      "id": "mcq065",
+      "question": "Which of the following is NOT a renewable energy source?",
+      "options": ["A. Hydropower", "B. Uranium", "C. Biomass", "D. Geothermal"],
+      "correct_answer": "B. Uranium",
+      "explanation": "Uranium is a non-renewable nuclear fuel with limited reserves. Others are renewable.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq066",
+      "question": "The commercial unit of electrical energy is:",
+      "options": ["A. Joule", "B. Watt", "C. Kilowatt-hour", "D. Newton"],
+      "correct_answer": "C. Kilowatt-hour",
+      "explanation": "The kilowatt-hour (kWh or unit) is used commercially for billing electrical energy consumption.",
+      "source_section": "Units of Energy"
+    },
+    {
+      "id": "mcq067",
+      "question": "When brakes are applied to a moving car, kinetic energy is converted to:",
+      "options": ["A. Potential energy", "B. Heat energy", "C. Light energy", "D. Sound energy only"],
+      "correct_answer": "B. Heat energy",
+      "explanation": "Friction between brake pads and wheels converts kinetic energy to heat energy.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq068",
+      "question": "A ball dropped from height h bounces back to height h/2. The energy lost is:",
+      "options": ["A. 0%", "B. 25%", "C. 50%", "D. 75%"],
+      "correct_answer": "C. 50%",
+      "explanation": "Initial PE = mgh, Final PE = mg(h/2). Energy lost = mgh - mgh/2 = mgh/2 = 50% of original.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq069",
+      "question": "The energy transformation in an electric heater is:",
+      "options": ["A. Electrical to mechanical", "B. Electrical to heat", "C. Heat to electrical", "D. Chemical to heat"],
+      "correct_answer": "B. Electrical to heat",
+      "explanation": "An electric heater converts electrical energy to heat energy for warming.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq070",
+      "question": "Which has the highest energy content per unit mass?",
+      "options": ["A. Coal", "B. Petrol", "C. Uranium", "D. Natural gas"],
+      "correct_answer": "C. Uranium",
+      "explanation": "Nuclear fuels like uranium have millions of times more energy per unit mass than chemical fuels.",
+      "source_section": "Nuclear Energy"
+    },
+    {
+      "id": "mcq071",
+      "question": "A man carrying a heavy load walks on a level road. The work done against gravity is:",
+      "options": ["A. Positive", "B. Negative", "C. Zero", "D. Cannot be determined"],
+      "correct_answer": "C. Zero",
+      "explanation": "On level ground, there is no vertical displacement, so work done against gravity is zero.",
+      "source_section": "Work"
+    },
+    {
+      "id": "mcq072",
+      "question": "The potential energy of an object at ground level is usually taken as:",
+      "options": ["A. Maximum", "B. Minimum (zero)", "C. Negative", "D. Infinite"],
+      "correct_answer": "B. Minimum (zero)",
+      "explanation": "Ground level is usually chosen as the reference point where PE = 0 (h = 0 in PE = mgh).",
+      "source_section": "Potential Energy"
+    },
+    {
+      "id": "mcq073",
+      "question": "Energy transformation in a burning candle is:",
+      "options": ["A. Electrical to light", "B. Chemical to light and heat", "C. Nuclear to heat", "D. Mechanical to light"],
+      "correct_answer": "B. Chemical to light and heat",
+      "explanation": "The wax (chemical energy) burns to produce light and heat energy.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq074",
+      "question": "The efficiency of a machine that gives 80 J output for 100 J input is:",
+      "options": ["A. 80%", "B. 100%", "C. 125%", "D. 20%"],
+      "correct_answer": "A. 80%",
+      "explanation": "Efficiency = (Output/Input) × 100 = (80/100) × 100 = 80%.",
+      "source_section": "Efficiency"
+    },
+    {
+      "id": "mcq075",
+      "question": "Wind energy is actually a form of:",
+      "options": ["A. Nuclear energy", "B. Solar energy", "C. Geothermal energy", "D. Tidal energy"],
+      "correct_answer": "B. Solar energy",
+      "explanation": "Wind is caused by uneven heating of Earth's surface by the sun, so wind energy is indirect solar energy.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq076",
+      "question": "An object of mass m moving with velocity v has kinetic energy KE. If its velocity becomes 3v, its new KE is:",
+      "options": ["A. 3 KE", "B. 6 KE", "C. 9 KE", "D. 27 KE"],
+      "correct_answer": "C. 9 KE",
+      "explanation": "KE ∝ v². If v becomes 3v, KE becomes (3)² = 9 times.",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq077",
+      "question": "James Prescott Joule is associated with:",
+      "options": ["A. Discovery of gravity", "B. Mechanical equivalent of heat", "C. Discovery of electron", "D. Laws of motion"],
+      "correct_answer": "B. Mechanical equivalent of heat",
+      "explanation": "Joule established the relationship between mechanical energy and heat, leading to the unit Joule being named after him.",
+      "source_section": "History of Energy"
+    },
+    {
+      "id": "mcq078",
+      "question": "In a freely falling body, the total mechanical energy:",
+      "options": ["A. Increases", "B. Decreases", "C. Remains constant", "D. Becomes zero"],
+      "correct_answer": "C. Remains constant",
+      "explanation": "In absence of air resistance, PE converts to KE but total mechanical energy (PE + KE) remains constant.",
+      "source_section": "Conservation of Energy"
+    },
+    {
+      "id": "mcq079",
+      "question": "A crane lifts a load. The energy transformation is:",
+      "options": ["A. PE to KE", "B. Electrical to potential", "C. Chemical to electrical", "D. Heat to mechanical"],
+      "correct_answer": "B. Electrical to potential",
+      "explanation": "The crane's motor converts electrical energy to gravitational potential energy of the lifted load.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq080",
+      "question": "The disadvantage of nuclear energy is:",
+      "options": ["A. Low energy output", "B. High cost of fuel", "C. Radioactive waste disposal", "D. Unavailability of fuel"],
+      "correct_answer": "C. Radioactive waste disposal",
+      "explanation": "Nuclear power produces radioactive waste that remains hazardous for thousands of years.",
+      "source_section": "Nuclear Energy"
+    },
+    {
+      "id": "mcq081",
+      "question": "If 1000 J of work is done in 10 seconds, the power is:",
+      "options": ["A. 10 W", "B. 100 W", "C. 1000 W", "D. 10000 W"],
+      "correct_answer": "B. 100 W",
+      "explanation": "Power = Work/Time = 1000/10 = 100 W.",
+      "source_section": "Power"
+    },
+    {
+      "id": "mcq082",
+      "question": "The major disadvantage of solar energy is:",
+      "options": ["A. Pollution", "B. Not available at night", "C. Very costly fuel", "D. Radioactive waste"],
+      "correct_answer": "B. Not available at night",
+      "explanation": "Solar energy is intermittent - not available at night or on cloudy days without storage systems.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq083",
+      "question": "Energy stored in the nucleus of an atom is called:",
+      "options": ["A. Chemical energy", "B. Electrical energy", "C. Nuclear energy", "D. Kinetic energy"],
+      "correct_answer": "C. Nuclear energy",
+      "explanation": "Nuclear energy is stored in the nucleus due to strong nuclear forces binding protons and neutrons.",
+      "source_section": "Nuclear Energy"
+    },
+    {
+      "id": "mcq084",
+      "question": "When a spring is stretched, work is done:",
+      "options": ["A. By the spring", "B. On the spring", "C. No work is done", "D. Against gravity"],
+      "correct_answer": "B. On the spring",
+      "explanation": "Work is done on the spring to stretch it, which gets stored as elastic potential energy.",
+      "source_section": "Work"
+    },
+    {
+      "id": "mcq085",
+      "question": "The principle of conservation of energy was established by:",
+      "options": ["A. Newton", "B. Einstein", "C. Joule and Helmholtz", "D. Galileo"],
+      "correct_answer": "C. Joule and Helmholtz",
+      "explanation": "James Joule and Hermann von Helmholtz were key figures in establishing energy conservation.",
+      "source_section": "Conservation of Energy"
+    },
+    {
+      "id": "mcq086",
+      "question": "A 60 W bulb and a 100 W bulb operate for the same time. Which consumes more energy?",
+      "options": ["A. 60 W bulb", "B. 100 W bulb", "C. Both consume equal", "D. Cannot be determined"],
+      "correct_answer": "B. 100 W bulb",
+      "explanation": "Energy = Power × Time. For same time, higher power means more energy consumption.",
+      "source_section": "Power"
+    },
+    {
+      "id": "mcq087",
+      "question": "A stationary object can have:",
+      "options": ["A. Kinetic energy", "B. Potential energy", "C. Both", "D. Neither"],
+      "correct_answer": "B. Potential energy",
+      "explanation": "A stationary object has zero KE (no motion) but can have PE due to its position.",
+      "source_section": "Mechanical Energy"
+    },
+    {
+      "id": "mcq088",
+      "question": "Biofuels are made from:",
+      "options": ["A. Crude oil", "B. Coal", "C. Plant and animal materials", "D. Nuclear waste"],
+      "correct_answer": "C. Plant and animal materials",
+      "explanation": "Biofuels (like bioethanol, biodiesel) are made from biomass - plant and animal materials.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq089",
+      "question": "The sun produces energy by:",
+      "options": ["A. Nuclear fission", "B. Nuclear fusion", "C. Burning of hydrogen", "D. Chemical reactions"],
+      "correct_answer": "B. Nuclear fusion",
+      "explanation": "The sun produces energy by nuclear fusion, combining hydrogen nuclei to form helium.",
+      "source_section": "Nuclear Energy"
+    },
+    {
+      "id": "mcq090",
+      "question": "The kinetic energy of a body is always:",
+      "options": ["A. Positive", "B. Negative", "C. Zero", "D. Can be positive or negative"],
+      "correct_answer": "A. Positive",
+      "explanation": "KE = ½mv². Both m and v² are always positive, so KE is always positive (or zero when v=0).",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq091",
+      "question": "A stone thrown vertically upward has maximum potential energy at:",
+      "options": ["A. Starting point", "B. Midway", "C. Highest point", "D. While falling"],
+      "correct_answer": "C. Highest point",
+      "explanation": "At the highest point, the stone has maximum height and therefore maximum PE.",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq092",
+      "question": "Which of the following is NOT a fossil fuel?",
+      "options": ["A. Coal", "B. Wood", "C. Petroleum", "D. Natural gas"],
+      "correct_answer": "B. Wood",
+      "explanation": "Wood is biomass, not a fossil fuel. Fossil fuels are coal, petroleum, and natural gas.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq093",
+      "question": "The potential energy of a body of mass m at height h is mgh. If both mass and height are doubled, PE becomes:",
+      "options": ["A. Double", "B. Four times", "C. Same", "D. Eight times"],
+      "correct_answer": "B. Four times",
+      "explanation": "New PE = (2m)g(2h) = 4mgh = 4 times original PE.",
+      "source_section": "Potential Energy"
+    },
+    {
+      "id": "mcq094",
+      "question": "Energy is a:",
+      "options": ["A. Vector quantity", "B. Scalar quantity", "C. Neither", "D. Sometimes vector, sometimes scalar"],
+      "correct_answer": "B. Scalar quantity",
+      "explanation": "Energy has magnitude only, no direction. It's a scalar quantity.",
+      "source_section": "Introduction to Energy"
+    },
+    {
+      "id": "mcq095",
+      "question": "Which of the following has the least environmental impact?",
+      "options": ["A. Coal power", "B. Nuclear power", "C. Solar power", "D. Thermal power"],
+      "correct_answer": "C. Solar power",
+      "explanation": "Solar power produces no emissions during operation and has minimal environmental impact.",
+      "source_section": "Sources of Energy"
+    },
+    {
+      "id": "mcq096",
+      "question": "An archer stretches a bow. The energy stored is:",
+      "options": ["A. Kinetic energy", "B. Elastic potential energy", "C. Gravitational potential energy", "D. Heat energy"],
+      "correct_answer": "B. Elastic potential energy",
+      "explanation": "The stretched bow stores elastic potential energy, released when the arrow is shot.",
+      "source_section": "Potential Energy"
+    },
+    {
+      "id": "mcq097",
+      "question": "The work done by gravity on a satellite orbiting Earth in a circular orbit is:",
+      "options": ["A. Positive", "B. Negative", "C. Zero", "D. Variable"],
+      "correct_answer": "C. Zero",
+      "explanation": "For circular orbit, gravitational force is perpendicular to displacement, so work = F × d × cos 90° = 0.",
+      "source_section": "Work"
+    },
+    {
+      "id": "mcq098",
+      "question": "Which of the following energy transformations occurs in a TV?",
+      "options": ["A. Electrical to light and sound", "B. Light to electrical", "C. Chemical to electrical", "D. Sound to light"],
+      "correct_answer": "A. Electrical to light and sound",
+      "explanation": "A TV converts electrical energy to light (display) and sound (speakers).",
+      "source_section": "Energy Transformation"
+    },
+    {
+      "id": "mcq099",
+      "question": "If the speed of a moving object is halved, its kinetic energy becomes:",
+      "options": ["A. Half", "B. One-fourth", "C. Double", "D. Four times"],
+      "correct_answer": "B. One-fourth",
+      "explanation": "KE ∝ v². If v becomes v/2, KE becomes (1/2)² = 1/4 times.",
+      "source_section": "Kinetic Energy"
+    },
+    {
+      "id": "mcq100",
+      "question": "The energy required to lift a 10 kg mass through 5 m height is: (g = 10 m/s²)",
+      "options": ["A. 50 J", "B. 100 J", "C. 500 J", "D. 5000 J"],
+      "correct_answer": "C. 500 J",
+      "explanation": "Energy = Work = mgh = 10 × 10 × 5 = 500 J.",
+      "source_section": "Work"
+    }
+  ],
+  "total_count": 100,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Energy"
+}

@@ -1,0 +1,189 @@
+{
+  "question_type": "differentiate_between",
+  "questions": [
+    {
+      "id": "db001",
+      "question": "Longitudinal waves and Transverse waves",
+      "answer": {
+        "headers": ["Property", "Longitudinal Waves", "Transverse Waves"],
+        "rows": [
+          ["Particle motion", "Parallel to wave direction", "Perpendicular to wave direction"],
+          ["Composition", "Compressions and rarefactions", "Crests and troughs"],
+          ["Medium required", "Needs material medium", "Can travel through vacuum (for light)"],
+          ["Example", "Sound waves", "Light waves, water surface waves"],
+          ["Speed", "Slower than transverse in same medium", "Generally faster"]
+        ]
+      },
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "db002",
+      "question": "Compression and Rarefaction",
+      "answer": {
+        "headers": ["Property", "Compression", "Rarefaction"],
+        "rows": [
+          ["Particle spacing", "Particles close together", "Particles spread apart"],
+          ["Pressure", "High pressure region", "Low pressure region"],
+          ["Density", "High density", "Low density"],
+          ["Particle movement", "Particles move towards each other", "Particles move away from each other"],
+          ["Representation", "Dense region in diagram", "Sparse region in diagram"]
+        ]
+      },
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "db003",
+      "question": "Loudness and Pitch",
+      "answer": {
+        "headers": ["Property", "Loudness", "Pitch"],
+        "rows": [
+          ["Definition", "How loud or soft a sound is", "How shrill or grave a sound is"],
+          ["Depends on", "Amplitude of wave", "Frequency of wave"],
+          ["Unit", "Decibel (dB)", "Hertz (Hz) - though pitch is perception"],
+          ["Physical quantity", "Related to intensity", "Related to frequency"],
+          ["Example", "Whisper vs shout", "Whistle vs bass drum"]
+        ]
+      },
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "db004",
+      "question": "Ultrasonic and Infrasonic sounds",
+      "answer": {
+        "headers": ["Property", "Ultrasonic Sounds", "Infrasonic Sounds"],
+        "rows": [
+          ["Frequency range", "Above 20,000 Hz", "Below 20 Hz"],
+          ["Human hearing", "Cannot be heard by humans", "Cannot be heard by humans"],
+          ["Wavelength", "Very short", "Very long"],
+          ["Animal examples", "Bats, dolphins", "Elephants, whales"],
+          ["Applications", "SONAR, medical scanning, cleaning", "Earthquake detection, animal communication"]
+        ]
+      },
+      "source_section": "Ultrasonic and Infrasonic Sounds"
+    },
+    {
+      "id": "db005",
+      "question": "Frequency and Time Period",
+      "answer": {
+        "headers": ["Property", "Frequency", "Time Period"],
+        "rows": [
+          ["Definition", "Number of oscillations per second", "Time for one complete oscillation"],
+          ["Symbol", "f", "T"],
+          ["SI Unit", "Hertz (Hz)", "Second (s)"],
+          ["Relationship", "f = 1/T", "T = 1/f"],
+          ["For high frequency sound", "Value is high", "Value is low"]
+        ]
+      },
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "db006",
+      "question": "Echo and Reverberation",
+      "answer": {
+        "headers": ["Property", "Echo", "Reverberation"],
+        "rows": [
+          ["Definition", "Single distinct reflection of sound", "Multiple reflections of sound"],
+          ["Time gap", "Heard separately after 0.1 s", "Continuous prolongation of sound"],
+          ["Minimum distance", "17 metres", "Can occur in smaller spaces"],
+          ["Effect on hearing", "Distinct repetition of sound", "Sound seems to persist longer"],
+          ["Desired/Undesired", "Used in SONAR, echolocation", "Often undesired in halls"]
+        ]
+      },
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "db007",
+      "question": "Audible and Inaudible sounds",
+      "answer": {
+        "headers": ["Property", "Audible Sounds", "Inaudible Sounds"],
+        "rows": [
+          ["Frequency range", "20 Hz to 20,000 Hz", "Below 20 Hz or above 20,000 Hz"],
+          ["Human perception", "Can be heard by humans", "Cannot be heard by humans"],
+          ["Types", "All sounds we normally hear", "Infrasonic and ultrasonic"],
+          ["Examples", "Music, speech, traffic", "Bat sounds, earthquake tremors"],
+          ["Detection", "Human ear", "Special instruments needed"]
+        ]
+      },
+      "source_section": "Range of Hearing"
+    },
+    {
+      "id": "db008",
+      "question": "Musical sound and Noise",
+      "answer": {
+        "headers": ["Property", "Musical Sound", "Noise"],
+        "rows": [
+          ["Pattern", "Regular and periodic vibrations", "Irregular and non-periodic vibrations"],
+          ["Pleasantness", "Pleasant to hear", "Unpleasant to hear"],
+          ["Frequency", "Definite frequency", "Random frequencies mixed"],
+          ["Examples", "Music from instruments, singing", "Traffic, construction, shouting"],
+          ["Waveform", "Regular pattern", "Irregular jagged pattern"]
+        ]
+      },
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "db009",
+      "question": "Speed of sound in solids and gases",
+      "answer": {
+        "headers": ["Property", "Sound in Solids", "Sound in Gases"],
+        "rows": [
+          ["Speed", "Highest (e.g., steel: 5000 m/s)", "Lowest (e.g., air: 340 m/s)"],
+          ["Particle arrangement", "Closely packed", "Far apart"],
+          ["Intermolecular forces", "Strong", "Weak"],
+          ["Energy transfer", "Quick", "Slow"],
+          ["Example", "Sound through iron rail", "Sound through air"]
+        ]
+      },
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "db010",
+      "question": "Stringed instruments and Wind instruments",
+      "answer": {
+        "headers": ["Property", "Stringed Instruments", "Wind Instruments"],
+        "rows": [
+          ["Vibrating part", "Strings", "Air column"],
+          ["How played", "Plucked, bowed, or struck", "Blown into"],
+          ["Pitch control", "String length, tension, thickness", "Length of air column, holes"],
+          ["Examples", "Guitar, sitar, violin", "Flute, trumpet, clarinet"],
+          ["Resonator", "Hollow body of instrument", "Body of instrument itself"]
+        ]
+      },
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "db011",
+      "question": "Wavelength and Amplitude",
+      "answer": {
+        "headers": ["Property", "Wavelength", "Amplitude"],
+        "rows": [
+          ["Definition", "Distance of one complete wave", "Maximum displacement from mean position"],
+          ["Symbol", "λ (lambda)", "A"],
+          ["SI Unit", "Metre (m)", "Metre (m)"],
+          ["Determines", "Related to pitch (inversely with frequency)", "Loudness of sound"],
+          ["In wave diagram", "Distance compression to compression", "Height of wave from rest position"]
+        ]
+      },
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "db012",
+      "question": "SONAR and Echolocation",
+      "answer": {
+        "headers": ["Property", "SONAR", "Echolocation"],
+        "rows": [
+          ["Type", "Man-made technology", "Natural biological process"],
+          ["Used by", "Ships, submarines", "Bats, dolphins"],
+          ["Purpose", "Navigation, depth finding, detection", "Navigation, hunting prey"],
+          ["Wave type", "Ultrasonic waves", "Ultrasonic waves"],
+          ["Full form", "Sound Navigation and Ranging", "Not applicable (biological adaptation)"]
+        ]
+      },
+      "source_section": "Uses of Ultrasound"
+    }
+  ],
+  "total_count": 12,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}

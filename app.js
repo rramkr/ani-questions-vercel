@@ -619,22 +619,31 @@ function renderChapters(chapters) {
         </div>
     `;
 
-    elements.chaptersList.innerHTML = motivationalBanner + chapters.map((chapter, index) => {
-        const hasQuestions = chapter.has_questions;
-        const badge = hasQuestions
-            ? `<span class="chapter-badge ready">Ready to Play!</span>`
-            : `<span class="chapter-badge pending">Coming Soon</span>`;
+    // Filter to only show chapters that have questions
+    const availableChapters = chapters.filter(chapter => chapter.has_questions);
+
+    if (availableChapters.length === 0) {
+        elements.chaptersList.innerHTML = `
+            <div class="no-chapters-message">
+                <div class="no-chapters-icon">📚</div>
+                <p>Questions coming soon for this subject!</p>
+            </div>
+        `;
+        return;
+    }
+
+    elements.chaptersList.innerHTML = motivationalBanner + availableChapters.map((chapter, index) => {
         const chapterEmojis = ['📚', '⚡', '🔬', '🧪', '🌟', '💡', '🎓', '📖'];
         const emoji = chapterEmojis[index % chapterEmojis.length];
 
         return `
-            <div class="chapter-item ${!hasQuestions ? 'disabled' : ''}"
-                 onclick="${hasQuestions ? `loadSections(${JSON.stringify(chapter).replace(/"/g, '&quot;')})` : ''}">
+            <div class="chapter-item"
+                 onclick="loadSections(${JSON.stringify(chapter).replace(/"/g, '&quot;')})">
                 <div class="chapter-info">
                     <span class="chapter-emoji">${emoji}</span>
                     <span class="chapter-name">${chapter.name}</span>
                 </div>
-                ${badge}
+                <span class="chapter-badge ready">Ready to Play!</span>
             </div>
         `;
     }).join('');

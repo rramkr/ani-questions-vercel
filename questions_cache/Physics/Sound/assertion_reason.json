@@ -1,0 +1,289 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ar001",
+      "assertion": "Sound cannot travel through vacuum.",
+      "reason": "Sound is a mechanical wave that requires a material medium for propagation.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Sound waves are mechanical waves that travel through the vibration of particles. In vacuum, there are no particles to vibrate, so sound cannot propagate.",
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "ar002",
+      "assertion": "Sound travels faster in steel than in air.",
+      "reason": "Particles in solids are closely packed.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "In solids like steel, particles are closely packed with strong intermolecular forces, allowing vibrations to transfer quickly. This is why sound travels faster in steel (~5000 m/s) than in air (~340 m/s).",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "ar003",
+      "assertion": "We see lightning before we hear thunder.",
+      "reason": "Light travels faster than sound.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Light travels at 3 × 10^8 m/s while sound travels at only 340 m/s in air. This huge difference causes us to see lightning almost instantly while thunder takes longer to reach us.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "ar004",
+      "assertion": "A child's voice is shriller than an adult's voice.",
+      "reason": "Children speak more loudly than adults.",
+      "correct_answer": "C",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "A child's voice is shriller because children have shorter vocal cords that vibrate at higher frequencies. Loudness (speaking loudly) is unrelated to pitch (shrillness).",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "ar005",
+      "assertion": "Bats can fly in complete darkness without colliding with obstacles.",
+      "reason": "Bats have very good eyesight.",
+      "correct_answer": "C",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Bats navigate in darkness using echolocation, not eyesight. They emit ultrasonic sounds and detect objects from the reflected echoes.",
+      "source_section": "Ultrasonic Sounds"
+    },
+    {
+      "id": "ar006",
+      "assertion": "Echo is not heard in a small room.",
+      "reason": "The walls are too close for the reflected sound to be heard separately.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "For an echo to be heard, the reflecting surface must be at least 17 metres away (giving 0.1 seconds time gap). In small rooms, reflected sound merges with the original sound.",
+      "source_section": "Echo"
+    },
+    {
+      "id": "ar007",
+      "assertion": "Ultrasound is used for medical scanning during pregnancy.",
+      "reason": "Ultrasound uses harmless sound waves instead of harmful radiation.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Ultrasound uses non-ionizing sound waves which are safe for the mother and fetus, unlike X-rays which use harmful ionizing radiation.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "ar008",
+      "assertion": "Tightening a guitar string produces a higher pitch sound.",
+      "reason": "Tighter strings vibrate faster, producing higher frequency.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Increasing string tension makes it vibrate faster when plucked. Higher vibration frequency produces higher frequency sound waves, which we perceive as higher pitch.",
+      "source_section": "Musical Instruments"
+    },
+    {
+      "id": "ar009",
+      "assertion": "Sound waves are longitudinal waves.",
+      "reason": "In sound waves, particles vibrate perpendicular to the direction of wave propagation.",
+      "correct_answer": "C",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Sound waves are indeed longitudinal waves, but in longitudinal waves, particles vibrate PARALLEL (not perpendicular) to the direction of wave propagation.",
+      "source_section": "Nature of Sound Waves"
+    },
+    {
+      "id": "ar010",
+      "assertion": "Frequency and time period are inversely proportional.",
+      "reason": "When frequency increases, time period also increases.",
+      "correct_answer": "C",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Frequency and time period are indeed inversely proportional (f = 1/T), but the reason is wrong. When frequency increases, time period DECREASES, not increases.",
+      "source_section": "Wave Parameters"
+    },
+    {
+      "id": "ar011",
+      "assertion": "Sound absorbing materials are used in auditoriums.",
+      "reason": "They help to increase the loudness of sound.",
+      "correct_answer": "C",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Sound absorbing materials are used in auditoriums, but to reduce echo and reverberation (not increase loudness). They absorb excess reflected sound for clearer hearing.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "ar012",
+      "assertion": "Elephants can sense earthquakes before humans.",
+      "reason": "Elephants can detect infrasonic sounds that humans cannot hear.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Earthquakes produce infrasonic vibrations (below 20 Hz) before major tremors. Elephants can detect these infrasonic sounds through their feet and ears, while humans cannot.",
+      "source_section": "Infrasonic Sounds"
+    },
+    {
+      "id": "ar013",
+      "assertion": "Speed of sound increases with increase in temperature.",
+      "reason": "At higher temperatures, molecules move faster.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Higher temperature means molecules have more kinetic energy and move faster, allowing them to transmit vibrations more quickly, thus increasing sound speed.",
+      "source_section": "Speed of Sound"
+    },
+    {
+      "id": "ar014",
+      "assertion": "SONAR uses ultrasonic waves.",
+      "reason": "Ultrasonic waves are highly directional and can travel long distances underwater.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "SONAR (Sound Navigation and Ranging) uses ultrasonic waves because they are highly directional (due to short wavelength), can penetrate water well, and provide clear echoes for detection.",
+      "source_section": "Uses of Ultrasound"
+    },
+    {
+      "id": "ar015",
+      "assertion": "The loudness of a sound depends on its frequency.",
+      "reason": "Higher frequency sounds are louder.",
+      "correct_answer": "D",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Loudness depends on amplitude, not frequency. Frequency determines pitch, not loudness. Both the assertion and reason are false.",
+      "source_section": "Characteristics of Sound"
+    },
+    {
+      "id": "ar016",
+      "assertion": "A stethoscope works on the principle of multiple reflection of sound.",
+      "reason": "Sound travels through the tube by reflecting multiple times from the inner walls.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "In a stethoscope, sound from the chest piece travels through the tube by reflecting multiple times from the inner walls until it reaches the doctor's ears.",
+      "source_section": "Reflection of Sound"
+    },
+    {
+      "id": "ar017",
+      "assertion": "Men have deeper voices than women.",
+      "reason": "Men have longer and thicker vocal cords.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Men's vocal cords are about 20mm long while women's are about 15mm. Longer, thicker vocal cords vibrate at lower frequencies, producing deeper (lower pitched) sounds.",
+      "source_section": "Sound in Humans"
+    },
+    {
+      "id": "ar018",
+      "assertion": "Noise pollution can cause hearing loss.",
+      "reason": "Loud sounds damage the hair cells in the cochlea.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Prolonged exposure to loud sounds (above 85 dB) can damage the delicate hair cells in the cochlea. These cells cannot regenerate, leading to permanent hearing loss.",
+      "source_section": "Noise Pollution"
+    },
+    {
+      "id": "ar019",
+      "assertion": "Astronauts on the moon cannot hear each other's voices directly.",
+      "reason": "The moon has no atmosphere.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "The moon has no atmosphere (vacuum), and sound cannot travel through vacuum. Astronauts must use radio communication which uses electromagnetic waves that can travel through vacuum.",
+      "source_section": "Medium for Sound"
+    },
+    {
+      "id": "ar020",
+      "assertion": "Timbre helps us distinguish between different musical instruments playing the same note.",
+      "reason": "Each instrument has a unique waveform due to different harmonics.",
+      "correct_answer": "A",
+      "options": [
+        "A. Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+        "B. Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+        "C. Assertion is true but Reason is false.",
+        "D. Assertion is false but Reason is true."
+      ],
+      "explanation": "Timbre (quality of sound) depends on the waveform and overtones/harmonics produced. Different instruments produce different combinations of harmonics, giving each a unique timbre even when playing the same note.",
+      "source_section": "Characteristics of Sound"
+    }
+  ],
+  "total_count": 20,
+  "generated_at": "2026-01-16T12:00:00",
+  "subject": "Physics",
+  "chapter": "Sound"
+}
