@@ -1,0 +1,527 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "exercise": "A",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'Suresh has bought a new car.'",
+      "answer": "S (Simple)",
+      "explanation": "This sentence has only one independent clause with one subject (Suresh) and one finite verb (has bought)."
+    },
+    {
+      "id": "tqa002",
+      "exercise": "A",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'The architect went to his office and started working on his project.'",
+      "answer": "C (Compound)",
+      "explanation": "This sentence has two independent clauses ('went to his office' and 'started working') joined by the coordinating conjunction 'and'."
+    },
+    {
+      "id": "tqa003",
+      "exercise": "A",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'The fire brigade was called as soon as the fire broke out in the building.'",
+      "answer": "Cx (Complex)",
+      "explanation": "This sentence has a main clause ('The fire brigade was called') and a subordinate clause ('as soon as the fire broke out') joined by the subordinating conjunction 'as soon as'."
+    },
+    {
+      "id": "tqa004",
+      "exercise": "A",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'Besides being hard-working, Shweta is also very intelligent.'",
+      "answer": "S (Simple)",
+      "explanation": "This is a simple sentence with a participial phrase ('Besides being hard-working'). It has only one main clause."
+    },
+    {
+      "id": "tqa005",
+      "exercise": "A",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'Neither Harish nor his brothers attended the party yesterday.'",
+      "answer": "S (Simple)",
+      "explanation": "This is a simple sentence with a compound subject ('Neither Harish nor his brothers') but only one finite verb ('attended')."
+    },
+    {
+      "id": "tqa006",
+      "exercise": "A",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'Mehak likes talking to her friends for hours.'",
+      "answer": "S (Simple)",
+      "explanation": "This is a simple sentence with one subject (Mehak) and one finite verb (likes)."
+    },
+    {
+      "id": "tqa007",
+      "exercise": "A",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'You clean the room, and I will wash the car.'",
+      "answer": "C (Compound)",
+      "explanation": "This sentence has two independent clauses ('You clean the room' and 'I will wash the car') joined by the coordinating conjunction 'and'."
+    },
+    {
+      "id": "tqa008",
+      "exercise": "A",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'Please take care of your grandparents when your parents are away.'",
+      "answer": "Cx (Complex)",
+      "explanation": "This sentence has a main clause and a subordinate clause ('when your parents are away') introduced by the subordinating conjunction 'when'."
+    },
+    {
+      "id": "tqa009",
+      "exercise": "B",
+      "question": "Change the assertive sentence to exclamatory: 'It was an incredible sight.'",
+      "answer": "What an incredible sight it was!",
+      "explanation": "To change to exclamatory, we add 'What' at the beginning and change the word order to emphasize the feeling."
+    },
+    {
+      "id": "tqa010",
+      "exercise": "B",
+      "question": "Change the assertive sentence to exclamatory: 'The students of Class 2 danced beautifully.'",
+      "answer": "How beautifully the students of Class 2 danced!",
+      "explanation": "We use 'How' + adverb to create an exclamatory sentence expressing strong feeling."
+    },
+    {
+      "id": "tqa011",
+      "exercise": "B",
+      "question": "Change the assertive sentence to exclamatory: 'Shreya works efficiently.'",
+      "answer": "How efficiently Shreya works!",
+      "explanation": "We use 'How' followed by the adverb 'efficiently' to express strong feeling."
+    },
+    {
+      "id": "tqa012",
+      "exercise": "B",
+      "question": "Change the assertive sentence to exclamatory: 'It was a remarkable discovery.'",
+      "answer": "What a remarkable discovery it was!",
+      "explanation": "We use 'What' + noun phrase to create an exclamatory sentence."
+    },
+    {
+      "id": "tqa013",
+      "exercise": "B",
+      "question": "Change the assertive sentence to exclamatory: 'It is unfortunate that so many people were injured.'",
+      "answer": "How unfortunate that so many people were injured!",
+      "explanation": "We use 'How' + adjective to express a strong feeling about the situation."
+    },
+    {
+      "id": "tqa014",
+      "exercise": "B",
+      "question": "Change the assertive sentence to exclamatory: 'You behaved very diplomatically yesterday.'",
+      "answer": "How diplomatically you behaved yesterday!",
+      "explanation": "We use 'How' + adverb and change the word order to create an exclamation."
+    },
+    {
+      "id": "tqa015",
+      "exercise": "B",
+      "question": "Change the assertive sentence to exclamatory: 'William Shakespeare was an unbelievably talented dramatist.'",
+      "answer": "What an unbelievably talented dramatist William Shakespeare was!",
+      "explanation": "We use 'What' + noun phrase with adjective to create an exclamatory sentence."
+    },
+    {
+      "id": "tqa016",
+      "exercise": "C",
+      "question": "Change the exclamatory sentence to assertive: 'What a great time we had last summer!'",
+      "answer": "We had a great time last summer.",
+      "explanation": "Remove 'What' and rearrange to make a statement with a full stop."
+    },
+    {
+      "id": "tqa017",
+      "exercise": "C",
+      "question": "Change the exclamatory sentence to assertive: 'How I wish my friends were here!'",
+      "answer": "I wish my friends were here.",
+      "explanation": "Remove 'How' and make it a simple statement."
+    },
+    {
+      "id": "tqa018",
+      "exercise": "C",
+      "question": "Change the exclamatory sentence to assertive: 'How unbearably hot the day is!'",
+      "answer": "The day is unbearably hot.",
+      "explanation": "Remove 'How' and rearrange to subject-verb-complement order."
+    },
+    {
+      "id": "tqa019",
+      "exercise": "C",
+      "question": "Change the exclamatory sentence to assertive: 'How smart of Ritesh to come up with such an excuse!'",
+      "answer": "It is very smart of Ritesh to come up with such an excuse.",
+      "explanation": "Add 'It is very' to convert the exclamation to a statement."
+    },
+    {
+      "id": "tqa020",
+      "exercise": "C",
+      "question": "Change the exclamatory sentence to assertive: 'What an imaginative poet John Keats was!'",
+      "answer": "John Keats was a very imaginative poet.",
+      "explanation": "Remove 'What' and rearrange with 'very' to make an assertive sentence."
+    },
+    {
+      "id": "tqa021",
+      "exercise": "C",
+      "question": "Change the exclamatory sentence to assertive: 'How beautiful and serene the lake appears in the moonlight!'",
+      "answer": "The lake appears very beautiful and serene in the moonlight.",
+      "explanation": "Remove 'How', add 'very', and rearrange to assertive form."
+    },
+    {
+      "id": "tqa022",
+      "exercise": "C",
+      "question": "Change the exclamatory sentence to assertive: 'How I wish I could turn back time!'",
+      "answer": "I wish I could turn back time.",
+      "explanation": "Remove 'How' to convert to a simple assertive statement."
+    },
+    {
+      "id": "tqa023",
+      "exercise": "D",
+      "question": "Change the assertive sentence to interrogative: 'Time is the most precious commodity in life.'",
+      "answer": "Isn't time the most precious commodity in life?",
+      "explanation": "For positive assertive sentences, we often create negative interrogatives to maintain the same meaning."
+    },
+    {
+      "id": "tqa024",
+      "exercise": "D",
+      "question": "Change the assertive sentence to interrogative: 'Truth is always bitter.'",
+      "answer": "Isn't truth always bitter?",
+      "explanation": "We use 'Isn't' to create a rhetorical question that implies agreement with the statement."
+    },
+    {
+      "id": "tqa025",
+      "exercise": "D",
+      "question": "Change the assertive sentence to interrogative: 'Childhood is the best period of one's life.'",
+      "answer": "Isn't childhood the best period of one's life?",
+      "explanation": "The negative interrogative form maintains the positive meaning of the original."
+    },
+    {
+      "id": "tqa026",
+      "exercise": "D",
+      "question": "Change the assertive sentence to interrogative: 'A wolf can never be trusted.'",
+      "answer": "Can a wolf ever be trusted?",
+      "explanation": "The negative 'never' in assertive becomes positive 'ever' in interrogative form."
+    },
+    {
+      "id": "tqa027",
+      "exercise": "D",
+      "question": "Change the assertive sentence to interrogative: 'Wealth alone cannot bring you happiness.'",
+      "answer": "Can wealth alone bring you happiness?",
+      "explanation": "The negative 'cannot' in assertive becomes positive 'can' in interrogative."
+    },
+    {
+      "id": "tqa028",
+      "exercise": "D",
+      "question": "Change the assertive sentence to interrogative: 'It is time you started preparing for your exams.'",
+      "answer": "Isn't it time you started preparing for your exams?",
+      "explanation": "We use 'Isn't it' to form a rhetorical question."
+    },
+    {
+      "id": "tqa029",
+      "exercise": "D",
+      "question": "Change the assertive sentence to interrogative: 'No one can achieve anything without hard work.'",
+      "answer": "Can anyone achieve anything without hard work?",
+      "explanation": "'No one' becomes 'anyone' when converting to interrogative form."
+    },
+    {
+      "id": "tqa030",
+      "exercise": "E",
+      "question": "Change the interrogative sentence to assertive: 'Can we ever forget the days of our friendship?'",
+      "answer": "We can never forget the days of our friendship.",
+      "explanation": "The question implies a negative answer, so we use 'never' in the assertive form."
+    },
+    {
+      "id": "tqa031",
+      "exercise": "E",
+      "question": "Change the interrogative sentence to assertive: 'Will they ever realise the value of education?'",
+      "answer": "They will never realise the value of education.",
+      "explanation": "The rhetorical question implies 'no', so the assertive uses 'never'."
+    },
+    {
+      "id": "tqa032",
+      "exercise": "E",
+      "question": "Change the interrogative sentence to assertive: 'Can he ever change himself?'",
+      "answer": "He can never change himself.",
+      "explanation": "'Ever' in the question becomes 'never' in the assertive statement."
+    },
+    {
+      "id": "tqa033",
+      "exercise": "E",
+      "question": "Change the interrogative sentence to assertive: 'Can't we resolve our differences?'",
+      "answer": "We can resolve our differences.",
+      "explanation": "The negative question 'Can't we' implies a positive possibility in the assertive."
+    },
+    {
+      "id": "tqa034",
+      "exercise": "E",
+      "question": "Change the interrogative sentence to assertive: 'Who does not respect a truthful person?'",
+      "answer": "Everyone respects a truthful person.",
+      "explanation": "'Who does not' implies 'everyone does', so we use 'Everyone' in assertive."
+    },
+    {
+      "id": "tqa035",
+      "exercise": "E",
+      "question": "Change the interrogative sentence to assertive: 'Has anything ever been achieved without perseverance?'",
+      "answer": "Nothing has ever been achieved without perseverance.",
+      "explanation": "The question implies 'no', so 'anything' becomes 'nothing' in assertive."
+    },
+    {
+      "id": "tqa036",
+      "exercise": "E",
+      "question": "Change the interrogative sentence to assertive: 'Is there anything more valuable than a good book?'",
+      "answer": "There is nothing more valuable than a good book.",
+      "explanation": "'Anything' becomes 'nothing' to express the implied negative answer."
+    },
+    {
+      "id": "tqa037",
+      "exercise": "F",
+      "question": "Change the simple sentence to compound: 'Ekta is greatly admired for her talent.'",
+      "answer": "Ekta has great talent, and she is greatly admired for it.",
+      "explanation": "We split into two independent clauses joined by 'and'."
+    },
+    {
+      "id": "tqa038",
+      "exercise": "F",
+      "question": "Change the simple sentence to compound: 'Besides working in a school, Mahima also takes care of her ailing father.'",
+      "answer": "Mahima works in a school, and she also takes care of her ailing father.",
+      "explanation": "The participial phrase becomes a separate clause joined by 'and'."
+    },
+    {
+      "id": "tqa039",
+      "exercise": "F",
+      "question": "Change the simple sentence to compound: 'The day being sunny, we went for a swim in the lake.'",
+      "answer": "The day was sunny, so we went for a swim in the lake.",
+      "explanation": "The absolute phrase becomes a clause, joined by 'so' to show cause-effect."
+    },
+    {
+      "id": "tqa040",
+      "exercise": "F",
+      "question": "Change the simple sentence to compound: 'The students are excited about the approaching festival.'",
+      "answer": "The festival is approaching, and the students are excited about it.",
+      "explanation": "We create two independent clauses from the simple sentence."
+    },
+    {
+      "id": "tqa041",
+      "exercise": "F",
+      "question": "Change the simple sentence to compound: 'We must practise regularly to win the match.'",
+      "answer": "We must practise regularly, or we will not win the match.",
+      "explanation": "The infinitive of purpose becomes a separate clause with 'or' showing alternative."
+    },
+    {
+      "id": "tqa042",
+      "exercise": "F",
+      "question": "Change the simple sentence to compound: 'Notwithstanding her physical disability, the old lady does all the work herself.'",
+      "answer": "The old lady has a physical disability, yet she does all the work herself.",
+      "explanation": "'Notwithstanding' becomes 'yet' to show contrast between two clauses."
+    },
+    {
+      "id": "tqa043",
+      "exercise": "F",
+      "question": "Change the simple sentence to compound: 'Being the only child of her parents, Mita misses the company of siblings.'",
+      "answer": "Mita is the only child of her parents, so she misses the company of siblings.",
+      "explanation": "The participial phrase becomes a clause, 'so' shows the result."
+    },
+    {
+      "id": "tqa044",
+      "exercise": "G",
+      "question": "Change the simple sentence to complex: 'The damaged furniture could not be repaired.'",
+      "answer": "The furniture that was damaged could not be repaired.",
+      "explanation": "The adjective 'damaged' becomes a relative clause 'that was damaged'."
+    },
+    {
+      "id": "tqa045",
+      "exercise": "G",
+      "question": "Change the simple sentence to complex: 'We do not know the time of the inauguration of the auditorium.'",
+      "answer": "We do not know when the auditorium will be inaugurated.",
+      "explanation": "The noun phrase becomes a noun clause starting with 'when'."
+    },
+    {
+      "id": "tqa046",
+      "exercise": "G",
+      "question": "Change the simple sentence to complex: 'She is singing too softly to be heard.'",
+      "answer": "She is singing so softly that she cannot be heard.",
+      "explanation": "'Too...to' becomes 'so...that' in complex sentence form."
+    },
+    {
+      "id": "tqa047",
+      "exercise": "G",
+      "question": "Change the simple sentence to complex: 'The workers are hoping to finish the work by evening.'",
+      "answer": "The workers are hoping that they will finish the work by evening.",
+      "explanation": "The infinitive becomes a noun clause starting with 'that'."
+    },
+    {
+      "id": "tqa048",
+      "exercise": "G",
+      "question": "Change the simple sentence to complex: 'His excuses are too silly to be true.'",
+      "answer": "His excuses are so silly that they cannot be true.",
+      "explanation": "'Too...to' transforms to 'so...that' with a subordinate clause."
+    },
+    {
+      "id": "tqa049",
+      "exercise": "G",
+      "question": "Change the simple sentence to complex: 'The spectators stood up to cheer the players.'",
+      "answer": "The spectators stood up so that they could cheer the players.",
+      "explanation": "The infinitive of purpose becomes an adverbial clause of purpose."
+    },
+    {
+      "id": "tqa050",
+      "exercise": "G",
+      "question": "Change the simple sentence to complex: 'The students became silent upon the teacher's arrival.'",
+      "answer": "The students became silent when the teacher arrived.",
+      "explanation": "The prepositional phrase becomes a time clause with 'when'."
+    },
+    {
+      "id": "tqa051",
+      "exercise": "H",
+      "question": "Change the compound sentence to simple: 'Winter has set in, yet the days are warm.'",
+      "answer": "Despite winter having set in, the days are warm.",
+      "explanation": "We use 'Despite' with a gerund phrase to replace the compound structure."
+    },
+    {
+      "id": "tqa052",
+      "exercise": "H",
+      "question": "Change the compound sentence to simple: 'The chief guest arrived, the programme began.'",
+      "answer": "On the chief guest's arrival, the programme began.",
+      "explanation": "We use a prepositional phrase 'On...arrival' to combine the clauses."
+    },
+    {
+      "id": "tqa053",
+      "exercise": "H",
+      "question": "Change the compound sentence to simple: 'He cancelled his plans with his friends, for he was unwell.'",
+      "answer": "Being unwell, he cancelled his plans with his friends.",
+      "explanation": "The causal clause becomes a participial phrase."
+    },
+    {
+      "id": "tqa054",
+      "exercise": "H",
+      "question": "Change the compound sentence to simple: 'Nikita locked the door and left for her office.'",
+      "answer": "After locking the door, Nikita left for her office.",
+      "explanation": "We use a gerund phrase with 'After' to show sequence."
+    },
+    {
+      "id": "tqa055",
+      "exercise": "H",
+      "question": "Change the compound sentence to simple: 'I had not read the book, so I did not return it.'",
+      "answer": "Not having read the book, I did not return it.",
+      "explanation": "The first clause becomes a perfect participial phrase."
+    },
+    {
+      "id": "tqa056",
+      "exercise": "H",
+      "question": "Change the compound sentence to simple: 'The accident was a serious one, yet there were no casualties.'",
+      "answer": "Despite the accident being serious, there were no casualties.",
+      "explanation": "'Yet' is replaced by 'Despite' with a gerund structure."
+    },
+    {
+      "id": "tqa057",
+      "exercise": "H",
+      "question": "Change the compound sentence to simple: 'The rain stopped, and we returned home.'",
+      "answer": "The rain having stopped, we returned home.",
+      "explanation": "We use an absolute phrase (nominative absolute) to combine the clauses."
+    },
+    {
+      "id": "tqa058",
+      "exercise": "I",
+      "question": "Change the complex sentence to simple: 'Vivek was delighted when he received his report card.'",
+      "answer": "Vivek was delighted on receiving his report card.",
+      "explanation": "The time clause becomes a prepositional phrase with gerund."
+    },
+    {
+      "id": "tqa059",
+      "exercise": "I",
+      "question": "Change the complex sentence to simple: 'As soon as the girls saw the principal, they stopped whispering to each other.'",
+      "answer": "On seeing the principal, the girls stopped whispering to each other.",
+      "explanation": "The adverbial clause becomes a prepositional phrase."
+    },
+    {
+      "id": "tqa060",
+      "exercise": "I",
+      "question": "Change the complex sentence to simple: 'As the monsoons have failed, the crops have been affected.'",
+      "answer": "Due to the failure of monsoons, the crops have been affected.",
+      "explanation": "The causal clause becomes a prepositional phrase with 'Due to'."
+    },
+    {
+      "id": "tqa061",
+      "exercise": "I",
+      "question": "Change the complex sentence to simple: 'If you wish to remain healthy, you must eat plenty of vegetables and fruits.'",
+      "answer": "To remain healthy, you must eat plenty of vegetables and fruits.",
+      "explanation": "The conditional clause becomes an infinitive phrase."
+    },
+    {
+      "id": "tqa062",
+      "exercise": "I",
+      "question": "Change the complex sentence to simple: 'The sculpture that is made from bronze was bought from Cuttack.'",
+      "answer": "The bronze sculpture was bought from Cuttack.",
+      "explanation": "The relative clause becomes an adjective 'bronze'."
+    },
+    {
+      "id": "tqa063",
+      "exercise": "I",
+      "question": "Change the complex sentence to simple: 'Although Aditi was deeply hurt by her friend's words, she was smiling.'",
+      "answer": "Despite being deeply hurt by her friend's words, Aditi was smiling.",
+      "explanation": "'Although' clause becomes 'Despite' + gerund phrase."
+    },
+    {
+      "id": "tqa064",
+      "exercise": "I",
+      "question": "Change the complex sentence to simple: 'The city is not only crowded but also very polluted.'",
+      "answer": "Besides being crowded, the city is very polluted.",
+      "explanation": "We use 'Besides' with a gerund to combine the ideas."
+    },
+    {
+      "id": "tqa065",
+      "exercise": "E (p118)",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'As soon as Mother read the letter, she was delighted.'",
+      "answer": "Cx (Complex)",
+      "explanation": "This sentence has a subordinate clause ('As soon as Mother read the letter') and a main clause."
+    },
+    {
+      "id": "tqa066",
+      "exercise": "E (p118)",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'Mohan was trying his best to solve the problem.'",
+      "answer": "S (Simple)",
+      "explanation": "This is a simple sentence with one finite verb ('was trying') and an infinitive phrase."
+    },
+    {
+      "id": "tqa067",
+      "exercise": "E (p118)",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'Shreya was fond of her puppy and took good care of it.'",
+      "answer": "C (Compound)",
+      "explanation": "Two independent clauses are joined by 'and'."
+    },
+    {
+      "id": "tqa068",
+      "exercise": "E (p118)",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'Neither Rita nor her brother liked the pizza.'",
+      "answer": "S (Simple)",
+      "explanation": "This is a simple sentence with a compound subject but only one finite verb."
+    },
+    {
+      "id": "tqa069",
+      "exercise": "E (p118)",
+      "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'The members accepted the proposal that was placed before them.'",
+      "answer": "Cx (Complex)",
+      "explanation": "This has a main clause and a relative clause ('that was placed before them')."
+    },
+    {
+      "id": "tqa070",
+      "exercise": "F (p118)",
+      "question": "Rewrite as directed: 'Besides cleaning the classroom, the students also decorated it.' (change to compound)",
+      "answer": "The students cleaned the classroom, and they also decorated it.",
+      "explanation": "The participial phrase becomes a separate clause joined by 'and'."
+    },
+    {
+      "id": "tqa071",
+      "exercise": "F (p118)",
+      "question": "Rewrite as directed: 'On seeing the timid deer, the hungry lion pounced on it.' (change to complex)",
+      "answer": "When the hungry lion saw the timid deer, it pounced on it.",
+      "explanation": "The prepositional phrase becomes a time clause with 'When'."
+    },
+    {
+      "id": "tqa072",
+      "exercise": "F (p118)",
+      "question": "Rewrite as directed: 'All the visitors appreciated the paintings which were displayed in the room.' (change to simple)",
+      "answer": "All the visitors appreciated the paintings displayed in the room.",
+      "explanation": "The relative clause becomes a past participle phrase."
+    },
+    {
+      "id": "tqa073",
+      "exercise": "F (p118)",
+      "question": "Rewrite as directed: 'Harish could not help me as he was very busy.' (change to compound)",
+      "answer": "Harish was very busy, so he could not help me.",
+      "explanation": "The subordinate clause becomes an independent clause joined by 'so'."
+    },
+    {
+      "id": "tqa074",
+      "exercise": "F (p118)",
+      "question": "Rewrite as directed: 'The story is too boring for me to read.' (change to complex)",
+      "answer": "The story is so boring that I cannot read it.",
+      "explanation": "'Too...to' becomes 'so...that' with a result clause."
+    }
+  ],
+  "total_count": 74,
+  "generated_at": "2025-01-17T12:00:00",
+  "subject": "English",
+  "chapter": "Sentences"
+}

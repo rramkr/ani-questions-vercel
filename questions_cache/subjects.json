@@ -5,6 +5,12 @@
       "slug": "physics",
       "icon": "⚛️",
       "chapter_count": 5
+    },
+    {
+      "name": "English",
+      "slug": "english",
+      "icon": "📚",
+      "chapter_count": 2
     }
   ]
 }

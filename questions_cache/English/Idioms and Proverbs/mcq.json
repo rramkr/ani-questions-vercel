@@ -1,0 +1,289 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "mcq001",
+      "question": "What does the idiom 'eager beaver' mean?",
+      "options": ["A person who is always tired", "A very enthusiastic and hard-working person", "Someone who likes animals", "A lazy person"],
+      "correct_answer": "B",
+      "explanation": "'Eager beaver' describes someone who is very enthusiastic and hard-working, always eager to do tasks."
+    },
+    {
+      "id": "mcq002",
+      "question": "What does 'let the cat out of the bag' mean?",
+      "options": ["To set a cat free", "To reveal a secret", "To buy a cat", "To catch a cat"],
+      "correct_answer": "B",
+      "explanation": "This idiom means to reveal a secret accidentally or carelessly."
+    },
+    {
+      "id": "mcq003",
+      "question": "What does 'a red rag to a bull' mean?",
+      "options": ["A piece of red cloth", "Something that makes someone very angry", "A bullfighting term", "A warning sign"],
+      "correct_answer": "B",
+      "explanation": "Something that is 'a red rag to a bull' is something that makes a person very angry or provokes them."
+    },
+    {
+      "id": "mcq004",
+      "question": "What does 'cut a long story short' mean?",
+      "options": ["To edit a story", "To be precise and get to the point", "To write a short story", "To interrupt someone"],
+      "correct_answer": "B",
+      "explanation": "'Cut a long story short' means to tell only the essential parts and be precise."
+    },
+    {
+      "id": "mcq005",
+      "question": "What does 'be all ears' mean?",
+      "options": ["To have big ears", "To listen very attentively", "To gossip a lot", "To be deaf"],
+      "correct_answer": "B",
+      "explanation": "To 'be all ears' means to listen very attentively and with great interest."
+    },
+    {
+      "id": "mcq006",
+      "question": "What does 'barking up the wrong tree' mean?",
+      "options": ["A dog barking at a tree", "Doing something that will not get the result you want", "Being lost in a forest", "Training a dog"],
+      "correct_answer": "B",
+      "explanation": "This idiom means pursuing the wrong course of action or looking in the wrong direction for a solution."
+    },
+    {
+      "id": "mcq007",
+      "question": "What does 'break every rule in the book' mean?",
+      "options": ["To tear a book", "To do something completely unacceptable", "To read all the rules", "To follow the rules"],
+      "correct_answer": "B",
+      "explanation": "This idiom means to do something completely unacceptable or against all the rules."
+    },
+    {
+      "id": "mcq008",
+      "question": "What does 'get on your high horse' mean?",
+      "options": ["To ride a tall horse", "To behave haughtily or arrogantly", "To win a horse race", "To climb on something"],
+      "correct_answer": "B",
+      "explanation": "To 'get on your high horse' means to behave in a superior or arrogant manner."
+    },
+    {
+      "id": "mcq009",
+      "question": "What does 'keep your nose to the grindstone' mean?",
+      "options": ["To hurt your nose", "To keep working hard", "To sharpen your nose", "To smell something"],
+      "correct_answer": "B",
+      "explanation": "This idiom means to continue working hard without taking a break."
+    },
+    {
+      "id": "mcq010",
+      "question": "What does 'set the world on fire' mean?",
+      "options": ["To cause destruction", "To do something remarkable", "To start a fire", "To travel the world"],
+      "correct_answer": "B",
+      "explanation": "'Set the world on fire' means to do something remarkable or extraordinary that gains a lot of attention."
+    },
+    {
+      "id": "mcq011",
+      "question": "Which proverb means 'It is easier to stop something from happening than to repair the damage after it has happened'?",
+      "options": ["A stitch in time saves nine", "Prevention is better than cure", "The early bird catches the worm", "Birds of a feather flock together"],
+      "correct_answer": "B",
+      "explanation": "'Prevention is better than cure' means it's easier to prevent a problem than to fix it after it occurs."
+    },
+    {
+      "id": "mcq012",
+      "question": "Which proverb means 'A true friend is one who helps you in times of trouble'?",
+      "options": ["Birds of a feather flock together", "A friend in need is a friend indeed", "Still waters run deep", "The early bird catches the worm"],
+      "correct_answer": "B",
+      "explanation": "'A friend in need is a friend indeed' means a real friend is one who helps you when you are in difficulty."
+    },
+    {
+      "id": "mcq013",
+      "question": "Which proverb means 'Make the most of your opportunities'?",
+      "options": ["A stitch in time saves nine", "Make hay while the sun shines", "Still waters run deep", "Half a loaf is better than no bread"],
+      "correct_answer": "B",
+      "explanation": "'Make hay while the sun shines' means to take advantage of favorable circumstances while they last."
+    },
+    {
+      "id": "mcq014",
+      "question": "What does 'A little knowledge is a dangerous thing' mean?",
+      "options": ["Knowledge is power", "Having incomplete knowledge can lead to mistakes", "Small things are important", "Education is important"],
+      "correct_answer": "B",
+      "explanation": "This proverb warns that having only partial knowledge about something can be more harmful than having no knowledge at all."
+    },
+    {
+      "id": "mcq015",
+      "question": "What does 'Coming events cast their shadows before' mean?",
+      "options": ["Shadows are caused by the sun", "There are often warning signs before something happens", "Events happen in shadows", "The future is dark"],
+      "correct_answer": "B",
+      "explanation": "This proverb means that there are usually signs or hints that indicate what is going to happen in the future."
+    },
+    {
+      "id": "mcq016",
+      "question": "What does 'Half a loaf is better than no bread' mean?",
+      "options": ["Bread is nutritious", "Something is better than nothing", "Half portions are healthy", "Always eat bread"],
+      "correct_answer": "B",
+      "explanation": "This proverb means that having something, even if less than desired, is better than having nothing at all."
+    },
+    {
+      "id": "mcq017",
+      "question": "What does 'Charity begins at home' mean?",
+      "options": ["Only help your family", "You should first help your family and close ones before helping others", "Home is important", "Charity is expensive"],
+      "correct_answer": "B",
+      "explanation": "This proverb means that one should first take care of their own family and close ones before extending help to others."
+    },
+    {
+      "id": "mcq018",
+      "question": "Choose the correct preposition: He must abstain ___ all the things that are not good for him.",
+      "options": ["to", "from", "with", "by"],
+      "correct_answer": "B",
+      "explanation": "'Abstain from' means to keep away from something. The correct usage is 'abstain from'."
+    },
+    {
+      "id": "mcq019",
+      "question": "Choose the correct preposition: Father acceded ___ our suggestion immediately.",
+      "options": ["with", "by", "to", "from"],
+      "correct_answer": "C",
+      "explanation": "'Accede to' means to agree or consent to something. The correct usage is 'accede to'."
+    },
+    {
+      "id": "mcq020",
+      "question": "Choose the correct preposition: She was always accompanied ___ her mother.",
+      "options": ["with", "to", "by", "from"],
+      "correct_answer": "C",
+      "explanation": "'Accompanied by' means to go with someone. The correct usage is 'accompanied by'."
+    },
+    {
+      "id": "mcq021",
+      "question": "Choose the correct preposition: I completely agree ___ what the article suggests.",
+      "options": ["to", "by", "with", "from"],
+      "correct_answer": "C",
+      "explanation": "'Agree with' means to have the same opinion about something. The correct usage is 'agree with'."
+    },
+    {
+      "id": "mcq022",
+      "question": "Choose the correct preposition: He is addicted ___ playing video games.",
+      "options": ["with", "to", "by", "from"],
+      "correct_answer": "B",
+      "explanation": "'Addicted to' means obsessed with a particular activity. The correct usage is 'addicted to'."
+    },
+    {
+      "id": "mcq023",
+      "question": "Choose the correct preposition: Beware ___ chain snatchers in this area.",
+      "options": ["from", "by", "of", "with"],
+      "correct_answer": "C",
+      "explanation": "'Beware of' means to be cautious of something. The correct usage is 'beware of'."
+    },
+    {
+      "id": "mcq024",
+      "question": "Choose the correct preposition: She is capable ___ memorising a poem very quickly.",
+      "options": ["to", "of", "by", "with"],
+      "correct_answer": "B",
+      "explanation": "'Capable of' means able to do something. The correct usage is 'capable of'."
+    },
+    {
+      "id": "mcq025",
+      "question": "Choose the correct preposition: Very often children are compared ___ wet clay.",
+      "options": ["with", "by", "to", "from"],
+      "correct_answer": "C",
+      "explanation": "'Compare to' is used when comparing things that are different to note similarities. The correct usage here is 'compared to'."
+    },
+    {
+      "id": "mcq026",
+      "question": "Choose the correct preposition: The dessert consists ___ fruits, cream and sugar.",
+      "options": ["with", "of", "by", "to"],
+      "correct_answer": "B",
+      "explanation": "'Consist of' means to be made up of something. The correct usage is 'consist of'."
+    },
+    {
+      "id": "mcq027",
+      "question": "Choose the correct preposition: Sheena and her cousin differ ___ each other in several aspects.",
+      "options": ["with", "to", "from", "by"],
+      "correct_answer": "C",
+      "explanation": "'Differ from' means to be different from something. The correct usage is 'differ from'."
+    },
+    {
+      "id": "mcq028",
+      "question": "Choose the correct preposition: My uncle is engaged ___ reading the plays of Shakespeare.",
+      "options": ["to", "with", "in", "by"],
+      "correct_answer": "C",
+      "explanation": "'Engaged in' means to be occupied or involved in something. The correct usage is 'engaged in'."
+    },
+    {
+      "id": "mcq029",
+      "question": "Which idiom means 'to listen very attentively'?",
+      "options": ["On cloud nine", "Be all ears", "Hold the fort", "Face the music"],
+      "correct_answer": "B",
+      "explanation": "'Be all ears' means to listen very attentively and with great interest."
+    },
+    {
+      "id": "mcq030",
+      "question": "Which idiom means 'to face the consequences of one's actions'?",
+      "options": ["Weather the storm", "Face the music", "Take the bull by the horns", "Change horses in midstream"],
+      "correct_answer": "B",
+      "explanation": "'Face the music' means to accept the unpleasant consequences of your actions."
+    },
+    {
+      "id": "mcq031",
+      "question": "If someone is 'on the mend', they are:",
+      "options": ["Very happy", "Recovering from illness", "Very angry", "Making something"],
+      "correct_answer": "B",
+      "explanation": "To be 'on the mend' means to be recovering from an illness or injury."
+    },
+    {
+      "id": "mcq032",
+      "question": "The proverb 'Still waters run deep' means:",
+      "options": ["Deep water is still", "A quiet person may have hidden depths", "Water is important", "Rivers are dangerous"],
+      "correct_answer": "B",
+      "explanation": "This proverb means that a quiet or reserved person may have a lot more intelligence, knowledge, or emotions than they show."
+    },
+    {
+      "id": "mcq033",
+      "question": "Which proverb advises to act quickly to prevent small problems from becoming big ones?",
+      "options": ["Birds of a feather flock together", "A stitch in time saves nine", "The early bird catches the worm", "Make hay while the sun shines"],
+      "correct_answer": "B",
+      "explanation": "'A stitch in time saves nine' means fixing a small problem immediately prevents it from becoming a bigger problem."
+    },
+    {
+      "id": "mcq034",
+      "question": "What does 'A new broom sweeps clean' suggest about new people in charge?",
+      "options": ["They clean well", "They make many changes at first but may not continue", "They are always better", "They should be respected"],
+      "correct_answer": "B",
+      "explanation": "This proverb suggests that new people in positions of authority often make many changes initially, but their enthusiasm may fade over time."
+    },
+    {
+      "id": "mcq035",
+      "question": "Choose the correct preposition: Once Ajit makes a promise, he always abides ___ it.",
+      "options": ["with", "to", "from", "by"],
+      "correct_answer": "D",
+      "explanation": "'Abide by' means to follow or comply with something. The correct usage is 'abide by'."
+    },
+    {
+      "id": "mcq036",
+      "question": "Choose the correct preposition: They seem bent ___ going ahead with their programme.",
+      "options": ["to", "on", "with", "from"],
+      "correct_answer": "B",
+      "explanation": "'Bent on' means very determined to do something. The correct usage is 'bent on'."
+    },
+    {
+      "id": "mcq037",
+      "question": "Choose the correct preposition: He is blind ___ his sister's faults.",
+      "options": ["at", "of", "to", "by"],
+      "correct_answer": "C",
+      "explanation": "'Blind to' means to fail to notice something. The correct usage is 'blind to'."
+    },
+    {
+      "id": "mcq038",
+      "question": "Choose the correct preposition: She is content ___ whatever she has.",
+      "options": ["by", "to", "with", "from"],
+      "correct_answer": "C",
+      "explanation": "'Content with' means satisfied with something. The correct usage is 'content with'."
+    },
+    {
+      "id": "mcq039",
+      "question": "Choose the correct preposition: I differ ___ you on the choice of material.",
+      "options": ["from", "with", "to", "by"],
+      "correct_answer": "B",
+      "explanation": "'Differ with' means to disagree with someone. The correct usage is 'differ with' when expressing disagreement."
+    },
+    {
+      "id": "mcq040",
+      "question": "Choose the correct preposition: The two brothers constantly differ ___ some issue or the other.",
+      "options": ["with", "from", "on", "to"],
+      "correct_answer": "C",
+      "explanation": "'Differ on/over' means to disagree about some point or issue. The correct usage is 'differ on' or 'differ over'."
+    }
+  ],
+  "total_count": 40,
+  "generated_at": "2025-01-17T12:00:00",
+  "subject": "English",
+  "chapter": "Idioms and Proverbs"
+}

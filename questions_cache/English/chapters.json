@@ -1,0 +1,17 @@
+{
+  "subject": "english",
+  "chapters": [
+    {
+      "name": "Idioms and Proverbs",
+      "slug": "Idioms and Proverbs",
+      "has_questions": true,
+      "icon": "💬"
+    },
+    {
+      "name": "Sentences",
+      "slug": "Sentences",
+      "has_questions": true,
+      "icon": "📝"
+    }
+  ]
+}

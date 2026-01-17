@@ -1,0 +1,282 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "exercise": "A",
+      "question": "Match the idiom 'like a bear with a sore head' with its meaning.",
+      "answer": "very irritated",
+      "explanation": "When someone is 'like a bear with a sore head', they are in a very bad mood and easily annoyed, just like a bear would be if it had a painful head."
+    },
+    {
+      "id": "tqa002",
+      "exercise": "A",
+      "question": "Match the idiom 'like a bull in a china shop' with its meaning.",
+      "answer": "make mistakes or damage things",
+      "explanation": "A bull in a china shop would break all the delicate items. This idiom describes someone who is clumsy or careless in a delicate situation."
+    },
+    {
+      "id": "tqa003",
+      "exercise": "A",
+      "question": "Match the idiom 'laugh up your sleeve' with its meaning.",
+      "answer": "have a secret laugh at someone's problems",
+      "explanation": "This idiom means to be secretly amused, especially at someone else's misfortune, while hiding your laughter."
+    },
+    {
+      "id": "tqa004",
+      "exercise": "A",
+      "question": "Match the idiom 'hold the fort' with its meaning.",
+      "answer": "take care of an organisation or business when the person in charge is away",
+      "explanation": "Like a soldier guarding a fort, this means to take responsibility for something while the usual person is absent."
+    },
+    {
+      "id": "tqa005",
+      "exercise": "A",
+      "question": "Match the idiom 'paddle one's own canoe' with its meaning.",
+      "answer": "do something without anyone's help or interference",
+      "explanation": "Just as someone paddling their own canoe is self-reliant, this idiom means to be independent and manage on your own."
+    },
+    {
+      "id": "tqa006",
+      "exercise": "A",
+      "question": "Match the idiom 'put the cart before the horse' with its meaning.",
+      "answer": "do something in the wrong order",
+      "explanation": "A horse pulls the cart, not the other way around. This idiom means to do things in the wrong sequence."
+    },
+    {
+      "id": "tqa007",
+      "exercise": "A",
+      "question": "Match the idiom 'on cloud nine' with its meaning.",
+      "answer": "very happy",
+      "explanation": "Being 'on cloud nine' means being extremely happy or elated, as if floating on the highest cloud."
+    },
+    {
+      "id": "tqa008",
+      "exercise": "A",
+      "question": "Match the idiom 'make a beeline for' with its meaning.",
+      "answer": "go directly for something",
+      "explanation": "Bees fly directly to flowers. This idiom means to go straight towards something without any deviation."
+    },
+    {
+      "id": "tqa009",
+      "exercise": "B",
+      "question": "'Take the bull by the horns' means:\na. tame the bull by holding its horns\nb. handle the difficulty boldly",
+      "answer": "b. handle the difficulty boldly",
+      "explanation": "This idiom means to face a difficult situation directly and with courage, just as one would grab a bull by its horns to control it."
+    },
+    {
+      "id": "tqa010",
+      "exercise": "B",
+      "question": "'Face the music' means:\na. face the consequences of one's actions\nb. take up music classes",
+      "answer": "a. face the consequences of one's actions",
+      "explanation": "To 'face the music' means to accept the unpleasant consequences of your actions."
+    },
+    {
+      "id": "tqa011",
+      "exercise": "B",
+      "question": "'A dog in the manger' means:\na. keeping a watch over what is yours\nb. preventing someone from having or using what you yourself don't use",
+      "answer": "b. preventing someone from having or using what you yourself don't use",
+      "explanation": "Like a dog lying in a manger and not letting the horse eat the hay (which the dog cannot eat), this describes someone who prevents others from using something they don't need themselves."
+    },
+    {
+      "id": "tqa012",
+      "exercise": "B",
+      "question": "'To keep one on their toes' means:\na. be ready to dance and walk on your toes\nb. be always ready to deal with anything that might happen",
+      "answer": "b. be always ready to deal with anything that might happen",
+      "explanation": "Being 'on your toes' means being alert and prepared for any situation, like a runner ready to sprint."
+    },
+    {
+      "id": "tqa013",
+      "exercise": "B",
+      "question": "'To be on the mend' means:\na. trying to be cheerful despite being ill\nb. on the path of recovery",
+      "answer": "b. on the path of recovery",
+      "explanation": "To be 'on the mend' means to be recovering from an illness or injury, getting better gradually."
+    },
+    {
+      "id": "tqa014",
+      "exercise": "B",
+      "question": "'Change horses in midstream' means:\na. prefer a fresh horse that is not tired\nb. make changes in an activity that has already begun",
+      "answer": "b. make changes in an activity that has already begun",
+      "explanation": "This idiom warns against making major changes when you are already in the middle of something, as it can be risky and disruptive."
+    },
+    {
+      "id": "tqa015",
+      "exercise": "B",
+      "question": "'Water off a duck's back' means:\na. a duck which is completely dry\nb. comments that have no effect on the listener",
+      "answer": "b. comments that have no effect on the listener",
+      "explanation": "Just as water rolls off a duck's waterproof feathers without wetting them, criticism or insults that are 'water off a duck's back' have no effect on the person."
+    },
+    {
+      "id": "tqa016",
+      "exercise": "B",
+      "question": "'Weather the storm' means:\na. succeed in overcoming a difficult situation\nb. succeed in keeping themselves away from the storm that is brewing",
+      "answer": "a. succeed in overcoming a difficult situation",
+      "explanation": "To 'weather the storm' means to survive or get through a difficult period successfully, like a ship safely passing through a storm."
+    },
+    {
+      "id": "tqa017",
+      "exercise": "C",
+      "question": "Complete the proverb: 'Nothing ventured, ___'",
+      "answer": "nothing gained",
+      "explanation": "This proverb means that you cannot achieve anything without taking some risk or making an effort."
+    },
+    {
+      "id": "tqa018",
+      "exercise": "C",
+      "question": "Complete the proverb: 'Prevention ___'",
+      "answer": "is better than cure",
+      "explanation": "It is easier to stop something from happening than to deal with the consequences later."
+    },
+    {
+      "id": "tqa019",
+      "exercise": "C",
+      "question": "Complete the proverb: 'The proof of the pudding ___'",
+      "answer": "is in the eating",
+      "explanation": "The real value of something can only be judged by practical experience, not just by appearance."
+    },
+    {
+      "id": "tqa020",
+      "exercise": "C",
+      "question": "Complete the proverb: 'The early bird ___'",
+      "answer": "catches the worm",
+      "explanation": "Those who act promptly and start early get the best opportunities."
+    },
+    {
+      "id": "tqa021",
+      "exercise": "C",
+      "question": "Complete the proverb: 'Birds of a feather ___'",
+      "answer": "flock together",
+      "explanation": "People with similar interests, tastes, or characteristics tend to associate with each other."
+    },
+    {
+      "id": "tqa022",
+      "exercise": "C",
+      "question": "Complete the proverb: 'You can take a horse to water, ___'",
+      "answer": "but you can't make it drink",
+      "explanation": "You can give someone an opportunity, but you cannot force them to take advantage of it."
+    },
+    {
+      "id": "tqa023",
+      "exercise": "C",
+      "question": "Complete the proverb: 'A fool and his money ___'",
+      "answer": "are soon parted",
+      "explanation": "A foolish person will quickly lose their money through unwise spending or decisions."
+    },
+    {
+      "id": "tqa024",
+      "exercise": "C",
+      "question": "Complete the proverb: 'Still waters ___'",
+      "answer": "run deep",
+      "explanation": "A quiet person may have a lot more knowledge, intelligence, or emotions than they show outwardly."
+    },
+    {
+      "id": "tqa025",
+      "exercise": "D",
+      "question": "Vera was careless and lost her bracelet because she didn't fix the loose clasp when her mother asked. Which proverb fits this situation?",
+      "answer": "A stitch in time saves nine",
+      "explanation": "If Vera had fixed the clasp when it was first noticed, she wouldn't have lost the bracelet. Acting promptly to fix a small problem prevents bigger problems later."
+    },
+    {
+      "id": "tqa026",
+      "exercise": "D",
+      "question": "Vikram's chart was not selected for display, but instead of accepting it, he blamed his sketch pens and pictures. Which proverb fits this situation?",
+      "answer": "A bad workman blames his tools",
+      "explanation": "Instead of accepting that he didn't pay attention to his work, Vikram blamed his tools. A skilled person doesn't blame their equipment for poor results."
+    },
+    {
+      "id": "tqa027",
+      "exercise": "D",
+      "question": "Harish almost drowned two years back and now he cannot imagine getting into the pool again. Which proverb fits this situation?",
+      "answer": "A burnt child dreads the fire",
+      "explanation": "Just as a child who has been burned fears fire, Harish fears swimming because of his traumatic past experience."
+    },
+    {
+      "id": "tqa028",
+      "exercise": "D",
+      "question": "Nita's friend had a serious accident but doctors were confident she would recover. Which proverb fits this situation?",
+      "answer": "The darkest hour is just before the dawn",
+      "explanation": "Things were looking very bad, but recovery was near. The most difficult time often comes just before things improve."
+    },
+    {
+      "id": "tqa029",
+      "exercise": "D",
+      "question": "Mehak worked hard all day preparing for her Board examination and topped both her school and the state. Which proverb fits this situation?",
+      "answer": "Hard work always pays off",
+      "explanation": "Mehak's dedication and hard work resulted in excellent results. Consistent effort leads to success."
+    },
+    {
+      "id": "tqa030",
+      "exercise": "D",
+      "question": "The new manager started enthusiastically making changes but soon lost interest. Which proverb fits this situation?",
+      "answer": "A new broom sweeps clean",
+      "explanation": "A new person in charge often makes many changes at first, but their enthusiasm may not last. The proverb describes the initial burst of energy that often fades."
+    },
+    {
+      "id": "tqa031",
+      "exercise": "D",
+      "question": "The school was doing well, results were excellent, and the state benefited from having such educational institutions. Which proverb fits this situation?",
+      "answer": "A rising tide lifts all boats",
+      "explanation": "When one thing improves, it benefits everyone connected to it. The school's success benefited the whole community."
+    },
+    {
+      "id": "tqa032",
+      "exercise": "D",
+      "question": "A girl started learning basket weaving and eventually became so skilled that she held exhibitions and earned fame. Which proverb fits this situation?",
+      "answer": "Tall oaks from small acorns grow",
+      "explanation": "Great achievements can have humble beginnings. Her success started from learning to weave one simple basket."
+    },
+    {
+      "id": "tqa033",
+      "exercise": "E",
+      "question": "Use 'accustomed to' in a sentence.",
+      "answer": "He is not accustomed to waking up early in the morning.",
+      "explanation": "'Accustomed to' means 'used to' something. It shows familiarity or habit with a particular activity or situation."
+    },
+    {
+      "id": "tqa034",
+      "exercise": "E",
+      "question": "Use 'addicted to' in a sentence.",
+      "answer": "Many teenagers are addicted to social media.",
+      "explanation": "'Addicted to' means being obsessed with or unable to stop doing a particular activity."
+    },
+    {
+      "id": "tqa035",
+      "exercise": "E",
+      "question": "Use 'approve of' in a sentence.",
+      "answer": "My parents do not approve of my decision to drop out of college.",
+      "explanation": "'Approve of' means to have a positive feeling towards something or to agree with it."
+    },
+    {
+      "id": "tqa036",
+      "exercise": "E",
+      "question": "Use 'bent on' in a sentence.",
+      "answer": "The young athlete is bent on winning the gold medal.",
+      "explanation": "'Bent on' means very determined to do something, often with strong resolve."
+    },
+    {
+      "id": "tqa037",
+      "exercise": "E",
+      "question": "Use 'blind to' in a sentence.",
+      "answer": "She is blind to her own faults.",
+      "explanation": "'Blind to' means to fail to notice or acknowledge something, especially something obvious."
+    },
+    {
+      "id": "tqa038",
+      "exercise": "E",
+      "question": "Use 'content with' in a sentence.",
+      "answer": "The old man is content with his simple life.",
+      "explanation": "'Content with' means to be satisfied with something."
+    },
+    {
+      "id": "tqa039",
+      "exercise": "E",
+      "question": "Use 'distinguish between' in a sentence.",
+      "answer": "A child can easily distinguish between right and wrong.",
+      "explanation": "'Distinguish between' means to tell the difference between two things."
+    }
+  ],
+  "total_count": 39,
+  "generated_at": "2025-01-17T12:00:00",
+  "subject": "English",
+  "chapter": "Idioms and Proverbs"
+}

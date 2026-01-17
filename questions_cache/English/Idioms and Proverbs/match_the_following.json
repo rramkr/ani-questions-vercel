@@ -1,0 +1,189 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "instruction": "Match the idioms with their meanings:",
+      "pairs": [
+        {"left": "eager beaver", "right": "very enthusiastic and hard-working"},
+        {"left": "let the cat out of the bag", "right": "reveal a secret"},
+        {"left": "a red rag to a bull", "right": "something that makes someone very angry"},
+        {"left": "cut a long story short", "right": "be precise"},
+        {"left": "be all ears", "right": "listen very attentively"}
+      ],
+      "source_section": "Idioms"
+    },
+    {
+      "id": "mtf002",
+      "instruction": "Match the idioms with their meanings:",
+      "pairs": [
+        {"left": "barking up the wrong tree", "right": "doing something that won't get results"},
+        {"left": "break every rule in the book", "right": "do something unacceptable"},
+        {"left": "get on your high horse", "right": "behave haughtily"},
+        {"left": "keep your nose to the grindstone", "right": "keep working hard"},
+        {"left": "set the world on fire", "right": "do something remarkable"}
+      ],
+      "source_section": "Idioms"
+    },
+    {
+      "id": "mtf003",
+      "instruction": "Match the idioms with their meanings:",
+      "pairs": [
+        {"left": "like a bear with a sore head", "right": "very irritated"},
+        {"left": "like a bull in a china shop", "right": "make mistakes or damage things"},
+        {"left": "laugh up your sleeve", "right": "have a secret laugh at someone"},
+        {"left": "hold the fort", "right": "take care when person in charge is away"},
+        {"left": "paddle one's own canoe", "right": "do something independently"}
+      ],
+      "source_section": "Idioms"
+    },
+    {
+      "id": "mtf004",
+      "instruction": "Match the idioms with their meanings:",
+      "pairs": [
+        {"left": "put the cart before the horse", "right": "do things in wrong order"},
+        {"left": "on cloud nine", "right": "very happy"},
+        {"left": "make a beeline for", "right": "go directly towards something"},
+        {"left": "take the bull by the horns", "right": "handle difficulty boldly"},
+        {"left": "face the music", "right": "face the consequences"}
+      ],
+      "source_section": "Idioms"
+    },
+    {
+      "id": "mtf005",
+      "instruction": "Match the idioms with their meanings:",
+      "pairs": [
+        {"left": "a dog in the manger", "right": "preventing others from using what you don't need"},
+        {"left": "keep one on their toes", "right": "be always ready to deal with anything"},
+        {"left": "on the mend", "right": "on the path of recovery"},
+        {"left": "change horses in midstream", "right": "make changes in an ongoing activity"},
+        {"left": "water off a duck's back", "right": "comments having no effect"}
+      ],
+      "source_section": "Idioms"
+    },
+    {
+      "id": "mtf006",
+      "instruction": "Complete the proverbs by matching Column A with Column B:",
+      "pairs": [
+        {"left": "Nothing ventured,", "right": "nothing gained."},
+        {"left": "Prevention", "right": "is better than cure."},
+        {"left": "The proof of the pudding", "right": "is in the eating."},
+        {"left": "The early bird", "right": "catches the worm."},
+        {"left": "Birds of a feather", "right": "flock together."}
+      ],
+      "source_section": "Proverbs"
+    },
+    {
+      "id": "mtf007",
+      "instruction": "Complete the proverbs by matching Column A with Column B:",
+      "pairs": [
+        {"left": "You can take a horse to water,", "right": "but you can't make it drink."},
+        {"left": "A fool and his money", "right": "are soon parted."},
+        {"left": "Still waters", "right": "run deep."},
+        {"left": "A friend in need", "right": "is a friend indeed."},
+        {"left": "Make hay", "right": "while the sun shines."}
+      ],
+      "source_section": "Proverbs"
+    },
+    {
+      "id": "mtf008",
+      "instruction": "Complete the proverbs by matching Column A with Column B:",
+      "pairs": [
+        {"left": "A stitch in time", "right": "saves nine."},
+        {"left": "A burnt child", "right": "dreads the fire."},
+        {"left": "Hard work always", "right": "pays off."},
+        {"left": "A new broom", "right": "sweeps clean."},
+        {"left": "Tall oaks from small acorns", "right": "grow."}
+      ],
+      "source_section": "Proverbs"
+    },
+    {
+      "id": "mtf009",
+      "instruction": "Match the words followed by prepositions with their meanings:",
+      "pairs": [
+        {"left": "abide by", "right": "follow or comply with"},
+        {"left": "abstain from", "right": "keep away from"},
+        {"left": "accede to", "right": "agree or consent"},
+        {"left": "acceptable to", "right": "agreeable to someone"},
+        {"left": "accompanied by", "right": "to go with someone"}
+      ],
+      "source_section": "Words Followed by Prepositions"
+    },
+    {
+      "id": "mtf010",
+      "instruction": "Match the words followed by prepositions with their meanings:",
+      "pairs": [
+        {"left": "accustomed to", "right": "used to something"},
+        {"left": "agree with", "right": "have the same opinion"},
+        {"left": "agree to", "right": "consent to a suggestion"},
+        {"left": "addicted to", "right": "obsessed with an activity"},
+        {"left": "approve of", "right": "have positive feeling towards"}
+      ],
+      "source_section": "Words Followed by Prepositions"
+    },
+    {
+      "id": "mtf011",
+      "instruction": "Match the words followed by prepositions with their meanings:",
+      "pairs": [
+        {"left": "bent on", "right": "very determined"},
+        {"left": "beware of", "right": "be cautious of"},
+        {"left": "blind to", "right": "fail to notice"},
+        {"left": "capable of", "right": "able to do"},
+        {"left": "compare to", "right": "note similarities between different things"}
+      ],
+      "source_section": "Words Followed by Prepositions"
+    },
+    {
+      "id": "mtf012",
+      "instruction": "Match the words followed by prepositions with their meanings:",
+      "pairs": [
+        {"left": "compare with", "right": "compare things of same class"},
+        {"left": "content with", "right": "satisfied with"},
+        {"left": "consist of", "right": "be made up of"},
+        {"left": "differ from", "right": "be different from"},
+        {"left": "differ with", "right": "disagree with someone"}
+      ],
+      "source_section": "Words Followed by Prepositions"
+    },
+    {
+      "id": "mtf013",
+      "instruction": "Match the words followed by prepositions with their meanings:",
+      "pairs": [
+        {"left": "differ on/over", "right": "disagree on some point"},
+        {"left": "distinguish between/from", "right": "tell the difference"},
+        {"left": "engaged in", "right": "occupied in"},
+        {"left": "engaged to", "right": "formally agreed to marry"},
+        {"left": "accompanied with", "right": "appearing with something else"}
+      ],
+      "source_section": "Words Followed by Prepositions"
+    },
+    {
+      "id": "mtf014",
+      "instruction": "Match the situations with appropriate proverbs:",
+      "pairs": [
+        {"left": "Vera lost her bracelet by not fixing the loose clasp", "right": "A stitch in time saves nine"},
+        {"left": "Vikram blamed his tools for poor work", "right": "A bad workman blames his tools"},
+        {"left": "Harish fears swimming after almost drowning", "right": "A burnt child dreads the fire"},
+        {"left": "Nita's friend recovered after a serious accident", "right": "The darkest hour is just before the dawn"},
+        {"left": "Mehak topped by working hard", "right": "Hard work always pays off"}
+      ],
+      "source_section": "Proverbs Application"
+    },
+    {
+      "id": "mtf015",
+      "instruction": "Match the situations with appropriate proverbs:",
+      "pairs": [
+        {"left": "New manager made changes but lost interest later", "right": "A new broom sweeps clean"},
+        {"left": "School's success benefited the entire state", "right": "A rising tide lifts all boats"},
+        {"left": "Girl became successful starting from one basket", "right": "Tall oaks from small acorns grow"},
+        {"left": "Friend helps only during difficult times", "right": "A friend in need is a friend indeed"},
+        {"left": "Missing opportunities that won't come again", "right": "Make hay while the sun shines"}
+      ],
+      "source_section": "Proverbs Application"
+    }
+  ],
+  "total_count": 15,
+  "generated_at": "2025-01-17T12:00:00",
+  "subject": "English",
+  "chapter": "Idioms and Proverbs"
+}

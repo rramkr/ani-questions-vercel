@@ -1,0 +1,129 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "sa001",
+      "question": "What is a simple sentence? Give an example.",
+      "answer": "A simple sentence consists of one main or independent clause with its own subject and finite verb. Example: 'Mother went to meet her friend today.' It has one subject (Mother) and one finite verb (went).",
+      "keywords": ["one", "main clause", "independent", "subject", "finite verb"]
+    },
+    {
+      "id": "sa002",
+      "question": "What is a compound sentence? Give an example.",
+      "answer": "A compound sentence has two or more independent clauses of equal importance joined by coordinating conjunctions (and, but, or, so). Example: 'Varun likes oranges, and Sheela likes grapes.'",
+      "keywords": ["two", "independent clauses", "equal importance", "coordinating conjunction"]
+    },
+    {
+      "id": "sa003",
+      "question": "What is a complex sentence? Give an example.",
+      "answer": "A complex sentence consists of a main clause and one or more subordinate (dependent) clauses. Example: 'The boy took to his heels as soon as he saw the landlord.' The main clause is 'The boy took to his heels' and the subordinate clause is 'as soon as he saw the landlord'.",
+      "keywords": ["main clause", "subordinate clause", "dependent"]
+    },
+    {
+      "id": "sa004",
+      "question": "What are the four types of sentences based on their purpose?",
+      "answer": "The four types are: (1) Assertive/Declarative - makes a statement, (2) Interrogative - asks a question, (3) Imperative - gives a command or makes a request, (4) Exclamatory - expresses strong feeling.",
+      "keywords": ["assertive", "declarative", "interrogative", "imperative", "exclamatory"]
+    },
+    {
+      "id": "sa005",
+      "question": "What is transformation of a sentence?",
+      "answer": "Transformation of a sentence means changing a sentence from one type to another without changing its meaning. For example, changing an assertive sentence to exclamatory or interrogative, or changing a simple sentence to compound or complex.",
+      "keywords": ["changing", "one type", "another", "without changing meaning"]
+    },
+    {
+      "id": "sa006",
+      "question": "How do you change an assertive sentence to exclamatory?",
+      "answer": "To change assertive to exclamatory: Use 'What' before nouns (What a beautiful day it is!) or 'How' before adjectives/adverbs (How beautifully she sings!). Change the word order and end with an exclamation mark.",
+      "keywords": ["What", "How", "exclamation mark", "word order"]
+    },
+    {
+      "id": "sa007",
+      "question": "How do you change an exclamatory sentence to assertive?",
+      "answer": "To change exclamatory to assertive: Remove 'What' or 'How', add 'very' to maintain emphasis, rearrange to subject-verb order, and end with a full stop. Example: 'What a clever boy!' becomes 'He is a very clever boy.'",
+      "keywords": ["remove", "What", "How", "add", "very", "full stop"]
+    },
+    {
+      "id": "sa008",
+      "question": "How do you change an assertive sentence to interrogative?",
+      "answer": "To change assertive to interrogative: Use helping verbs (is, are, do, does, can, will) at the beginning. A positive assertive often becomes a negative interrogative. Example: 'He is honest' becomes 'Isn't he honest?' or 'Is he not honest?'",
+      "keywords": ["helping verb", "positive", "negative", "question mark"]
+    },
+    {
+      "id": "sa009",
+      "question": "What are coordinating conjunctions? Give examples.",
+      "answer": "Coordinating conjunctions join words, phrases, or clauses of equal importance. The main ones are: for, and, nor, but, or, yet, so (remembered as FANBOYS). Example: 'She was tired, but she continued working.'",
+      "keywords": ["equal importance", "FANBOYS", "for", "and", "nor", "but", "or", "yet", "so"]
+    },
+    {
+      "id": "sa010",
+      "question": "What are subordinating conjunctions? Give examples.",
+      "answer": "Subordinating conjunctions introduce dependent clauses and join them to main clauses. Examples include: because, although, when, if, unless, while, before, after, since, until. Example: 'I will wait until you come.'",
+      "keywords": ["dependent clause", "because", "although", "when", "if"]
+    },
+    {
+      "id": "sa011",
+      "question": "How do you convert 'too...to' to a complex sentence?",
+      "answer": "'Too...to' in a simple sentence becomes 'so...that + cannot/could not' in a complex sentence. Example: 'He is too weak to walk' becomes 'He is so weak that he cannot walk.'",
+      "keywords": ["so", "that", "cannot", "could not"]
+    },
+    {
+      "id": "sa012",
+      "question": "How do you change a simple sentence to compound?",
+      "answer": "To change simple to compound: Identify the implied relationship (cause-effect, contrast, etc.), create two independent clauses, and join them with appropriate coordinating conjunctions. Example: 'Being tired, he slept' becomes 'He was tired, so he slept.'",
+      "keywords": ["two clauses", "coordinating conjunction", "independent"]
+    },
+    {
+      "id": "sa013",
+      "question": "How do you change a compound sentence to simple?",
+      "answer": "To change compound to simple: Convert one clause into a phrase (participial, prepositional, or infinitive). Example: 'He worked hard, and he succeeded' becomes 'Working hard, he succeeded' or 'He succeeded by working hard.'",
+      "keywords": ["phrase", "participial", "prepositional", "infinitive"]
+    },
+    {
+      "id": "sa014",
+      "question": "What is a noun clause? Give an example.",
+      "answer": "A noun clause is a dependent clause that functions as a noun in a sentence. It can be the subject, object, or complement. Example: 'I believe that he is honest.' Here 'that he is honest' is a noun clause acting as the object.",
+      "keywords": ["dependent clause", "functions as noun", "subject", "object", "complement"]
+    },
+    {
+      "id": "sa015",
+      "question": "What is a relative (adjective) clause? Give an example.",
+      "answer": "A relative clause is a dependent clause that describes or modifies a noun. It begins with relative pronouns like who, which, that, whom, whose. Example: 'The book which I bought is interesting.' The clause 'which I bought' modifies 'book'.",
+      "keywords": ["modifies", "noun", "who", "which", "that"]
+    },
+    {
+      "id": "sa016",
+      "question": "What is an adverb clause? Give an example.",
+      "answer": "An adverb clause is a dependent clause that modifies a verb, adjective, or adverb, telling when, where, why, how, or under what condition. Example: 'When the bell rang, the students left.' The clause 'When the bell rang' tells when.",
+      "keywords": ["modifies", "verb", "when", "where", "why", "how", "condition"]
+    },
+    {
+      "id": "sa017",
+      "question": "Differentiate between simple sentence and compound sentence.",
+      "answer": "A simple sentence has one independent clause with one finite verb (e.g., 'The cat sleeps'). A compound sentence has two or more independent clauses joined by coordinating conjunctions (e.g., 'The cat sleeps, and the dog plays'). Simple has one clause; compound has multiple equal clauses.",
+      "keywords": ["one clause", "multiple clauses", "coordinating conjunction", "finite verb"]
+    },
+    {
+      "id": "sa018",
+      "question": "Differentiate between compound sentence and complex sentence.",
+      "answer": "A compound sentence joins clauses of equal importance using coordinating conjunctions (and, but, or, so). A complex sentence has one main clause and one or more subordinate clauses joined by subordinating conjunctions (because, when, although). Compound = equal clauses; Complex = unequal clauses.",
+      "keywords": ["equal importance", "subordinate", "coordinating", "subordinating"]
+    },
+    {
+      "id": "sa019",
+      "question": "How do you change a complex sentence to simple?",
+      "answer": "To change complex to simple: Convert the subordinate clause into a phrase (participial, prepositional, infinitive, or absolute). Example: 'When he saw the tiger, he ran' becomes 'On seeing the tiger, he ran' (prepositional phrase with gerund).",
+      "keywords": ["clause to phrase", "participial", "prepositional", "gerund"]
+    },
+    {
+      "id": "sa020",
+      "question": "How do you change a simple sentence to complex?",
+      "answer": "To change simple to complex: Convert a phrase into a subordinate clause by adding a subject, finite verb, and subordinating conjunction. Example: 'On hearing the news, she cried' becomes 'When she heard the news, she cried.'",
+      "keywords": ["phrase to clause", "subject", "finite verb", "subordinating conjunction"]
+    }
+  ],
+  "total_count": 20,
+  "generated_at": "2025-01-17T12:00:00",
+  "subject": "English",
+  "chapter": "Sentences"
+}

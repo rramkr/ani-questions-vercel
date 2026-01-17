@@ -1,0 +1,129 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "sa001",
+      "question": "What is an idiom? Give an example.",
+      "answer": "An idiom is an expression which is commonly used in everyday conversation. The meaning of an idiom is different from the meanings of its individual words. Example: 'let the cat out of the bag' means to reveal a secret.",
+      "keywords": ["expression", "commonly used", "different meaning", "individual words"]
+    },
+    {
+      "id": "sa002",
+      "question": "What is a proverb? Give an example.",
+      "answer": "A proverb is a short saying that expresses a general truth or wisdom. Proverbs are passed on from one generation to another and give advice based on experience. Example: 'A friend in need is a friend indeed.'",
+      "keywords": ["short saying", "general truth", "wisdom", "generation", "advice"]
+    },
+    {
+      "id": "sa003",
+      "question": "Explain the meaning of the idiom 'eager beaver'.",
+      "answer": "'Eager beaver' means someone who is very enthusiastic and hard-working. Such a person is always eager to do tasks and shows great energy in their work.",
+      "keywords": ["enthusiastic", "hard-working", "eager", "energy"]
+    },
+    {
+      "id": "sa004",
+      "question": "What does the idiom 'barking up the wrong tree' mean?",
+      "answer": "'Barking up the wrong tree' means doing something that will not get the result you want. It refers to pursuing the wrong course of action or making a wrong assumption.",
+      "keywords": ["wrong", "result", "wrong course", "wrong assumption"]
+    },
+    {
+      "id": "sa005",
+      "question": "Explain the idiom 'take the bull by the horns'.",
+      "answer": "'Take the bull by the horns' means to handle a difficult situation directly and with courage. It suggests facing challenges boldly rather than avoiding them.",
+      "keywords": ["handle", "difficult", "directly", "courage", "boldly"]
+    },
+    {
+      "id": "sa006",
+      "question": "What does the idiom 'face the music' mean?",
+      "answer": "'Face the music' means to accept the unpleasant consequences of one's actions. It refers to taking responsibility for what you have done.",
+      "keywords": ["accept", "consequences", "actions", "responsibility"]
+    },
+    {
+      "id": "sa007",
+      "question": "Explain the meaning of the idiom 'a dog in the manger'.",
+      "answer": "'A dog in the manger' describes a person who prevents others from having or using something that they themselves do not need or use. Like a dog lying in a manger and not letting the horse eat hay that the dog cannot eat.",
+      "keywords": ["prevents", "others", "having", "don't need", "don't use"]
+    },
+    {
+      "id": "sa008",
+      "question": "What does the idiom 'on cloud nine' mean?",
+      "answer": "'On cloud nine' means to be extremely happy or elated. It describes a state of great joy as if floating on the highest cloud.",
+      "keywords": ["extremely happy", "elated", "great joy"]
+    },
+    {
+      "id": "sa009",
+      "question": "Explain the idiom 'weather the storm'.",
+      "answer": "'Weather the storm' means to succeed in overcoming a difficult situation. Like a ship safely passing through a storm, it refers to surviving or getting through hard times.",
+      "keywords": ["succeed", "overcoming", "difficult", "survive", "hard times"]
+    },
+    {
+      "id": "sa010",
+      "question": "What does the proverb 'Prevention is better than cure' mean?",
+      "answer": "This proverb means that it is easier to stop something bad from happening in the first place than to deal with the consequences after it has happened. Taking precautions is better than finding solutions later.",
+      "keywords": ["stop", "happening", "consequences", "precautions", "solutions"]
+    },
+    {
+      "id": "sa011",
+      "question": "Explain the meaning of 'A stitch in time saves nine'.",
+      "answer": "This proverb means that if you fix a small problem immediately, you will prevent it from becoming a much bigger problem. Acting quickly on minor issues saves effort later.",
+      "keywords": ["fix", "small problem", "immediately", "prevent", "bigger problem"]
+    },
+    {
+      "id": "sa012",
+      "question": "What does the proverb 'Birds of a feather flock together' mean?",
+      "answer": "This proverb means that people with similar interests, characteristics, or backgrounds tend to associate with each other. Like birds of the same species staying together.",
+      "keywords": ["similar interests", "characteristics", "associate", "same species"]
+    },
+    {
+      "id": "sa013",
+      "question": "Explain the meaning of 'The early bird catches the worm'.",
+      "answer": "This proverb means that those who act promptly and start early get the best opportunities. Being proactive and punctual leads to success.",
+      "keywords": ["act promptly", "start early", "opportunities", "proactive"]
+    },
+    {
+      "id": "sa014",
+      "question": "What does 'Still waters run deep' mean?",
+      "answer": "This proverb means that a quiet or reserved person may have a lot more knowledge, intelligence, or emotions than they show outwardly. Don't underestimate someone just because they are quiet.",
+      "keywords": ["quiet", "reserved", "knowledge", "intelligence", "outwardly"]
+    },
+    {
+      "id": "sa015",
+      "question": "Explain the meaning of 'A burnt child dreads the fire'.",
+      "answer": "This proverb means that a bad or painful experience makes one very cautious about similar situations. Someone who has suffered once will be very careful to avoid the same problem.",
+      "keywords": ["bad experience", "painful", "cautious", "avoid"]
+    },
+    {
+      "id": "sa016",
+      "question": "What does 'abide by' mean? Use it in a sentence.",
+      "answer": "'Abide by' means to follow or comply with something. Example: Once Ajit makes a promise, he always abides by it.",
+      "keywords": ["follow", "comply", "promise"]
+    },
+    {
+      "id": "sa017",
+      "question": "What does 'abstain from' mean? Use it in a sentence.",
+      "answer": "'Abstain from' means to keep away from something. Example: He must abstain from all the things that are not good for him.",
+      "keywords": ["keep away", "refrain"]
+    },
+    {
+      "id": "sa018",
+      "question": "What does 'accustomed to' mean? Use it in a sentence.",
+      "answer": "'Accustomed to' means used to something, familiar with a particular activity or situation. Example: I am not accustomed to having a heavy breakfast.",
+      "keywords": ["used to", "familiar", "habit"]
+    },
+    {
+      "id": "sa019",
+      "question": "Explain the difference between 'compare to' and 'compare with'.",
+      "answer": "'Compare to' is used when comparing things that are different to note similarities (e.g., children compared to wet clay). 'Compare with' is used when comparing people or things of the same class (e.g., comparing me with my sister).",
+      "keywords": ["different", "similarities", "same class"]
+    },
+    {
+      "id": "sa020",
+      "question": "Explain the difference between 'differ from' and 'differ with'.",
+      "answer": "'Differ from' means to be different from something (e.g., Sheena differs from her cousin). 'Differ with' means to disagree with someone (e.g., I differ with you on this matter).",
+      "keywords": ["be different", "disagree"]
+    }
+  ],
+  "total_count": 20,
+  "generated_at": "2025-01-17T12:00:00",
+  "subject": "English",
+  "chapter": "Idioms and Proverbs"
+}
