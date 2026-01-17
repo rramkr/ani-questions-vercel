@@ -1528,14 +1528,10 @@ function saveSubAnswer(questionId, subIndex, answer) {
     state.userAnswers[questionId][subIndex] = answer;
 }
 
-// New handlers that re-render the specific question when answers are revealed
+// Handlers for answer changes - just save the answer, don't auto-reveal
 function handleAnswerChange(questionId, answer) {
     state.userAnswers[questionId] = answer;
-
-    // If answers are already revealed, re-render to show the answer for this question
-    if (state.answersRevealed) {
-        renderQuiz();
-    }
+    // Don't auto-reveal - user must click "Check Answers" again to see answers
 }
 
 function handleSubAnswerChange(questionId, subIndex, answer) {
@@ -1543,11 +1539,7 @@ function handleSubAnswerChange(questionId, subIndex, answer) {
         state.userAnswers[questionId] = {};
     }
     state.userAnswers[questionId][subIndex] = answer;
-
-    // If answers are already revealed, re-render to show the answer for this question
-    if (state.answersRevealed) {
-        renderQuiz();
-    }
+    // Don't auto-reveal - user must click "Check Answers" again to see answers
 }
 
 function showEmptyState(message) {
