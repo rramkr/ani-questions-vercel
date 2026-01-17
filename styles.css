@@ -1451,6 +1451,202 @@ body {
     font-size: 1.15rem;
 }
 
+/* Login View */
+.login-view {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+    padding: 20px;
+}
+
+.login-view:not(.active) {
+    display: none;
+}
+
+.login-container {
+    background: white;
+    border-radius: 30px;
+    padding: 50px 40px;
+    width: 100%;
+    max-width: 420px;
+    box-shadow: 0 25px 60px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+.login-header {
+    margin-bottom: 40px;
+}
+
+.login-icon {
+    font-size: 60px;
+    margin-bottom: 20px;
+    animation: float 3s ease-in-out infinite;
+}
+
+.login-header h1 {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--text);
+    margin-bottom: 8px;
+}
+
+.login-header p {
+    color: var(--text-light);
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-group {
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 8px;
+    color: var(--text);
+    font-size: 1rem;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 16px 20px;
+    border: 3px solid var(--border);
+    border-radius: 14px;
+    font-size: 1.1rem;
+    font-family: 'Nunito', sans-serif;
+    transition: all 0.3s;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 4px rgba(124, 58, 237, 0.15);
+}
+
+.login-error {
+    background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
+    color: #dc2626;
+    padding: 14px 20px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+.btn-login {
+    width: 100%;
+    margin-top: 10px;
+    padding: 18px;
+    font-size: 1.2rem;
+}
+
+/* Header Right Section */
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.btn-logout {
+    background: rgba(255,255,255,0.2);
+    border: 2px solid rgba(255,255,255,0.5);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-family: 'Nunito', sans-serif;
+}
+
+.btn-logout:hover {
+    background: rgba(255,255,255,0.3);
+    border-color: white;
+    transform: scale(1.05);
+}
+
+/* Main App Container */
+.main-app {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Previously Wrong Section */
+.wrong-answers-section {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border: 3px dashed #f59e0b;
+    margin-bottom: 24px;
+}
+
+.wrong-answers-section .section-header {
+    color: #92400e;
+    border-bottom-color: #f59e0b;
+}
+
+.wrong-answers-section .section-header::before {
+    content: "🔄";
+}
+
+.type-item.wrong-type {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border: 2px solid #f59e0b;
+}
+
+.type-item.wrong-type:hover {
+    background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+    color: white;
+}
+
+/* Admin Panel Styles */
+.admin-section {
+    background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
+    border: 3px solid var(--fun-blue);
+}
+
+.admin-section .section-header {
+    color: #1e40af;
+    border-bottom-color: var(--fun-blue);
+}
+
+.admin-section .section-header::before {
+    content: "👨‍💼";
+}
+
+.wrong-questions-list {
+    max-height: 400px;
+    overflow-y: auto;
+    padding: 16px;
+    background: white;
+    border-radius: 12px;
+    margin-top: 12px;
+}
+
+.wrong-question-item {
+    padding: 12px 16px;
+    border-bottom: 2px solid var(--border);
+    font-size: 1rem;
+}
+
+.wrong-question-item:last-child {
+    border-bottom: none;
+}
+
+.wrong-question-meta {
+    font-size: 0.9rem;
+    color: var(--text-light);
+    margin-top: 6px;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
     .question-row {
@@ -1514,5 +1710,18 @@ body {
 
     .chapter-item:hover:not(.disabled)::after {
         display: none;
+    }
+
+    .login-container {
+        padding: 40px 25px;
+    }
+
+    .login-header h1 {
+        font-size: 1.5rem;
+    }
+
+    .header-right {
+        flex-direction: column;
+        gap: 10px;
     }
 }

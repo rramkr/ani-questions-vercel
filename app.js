@@ -7,6 +7,175 @@ const GITHUB_BASE_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITH
 // Configuration
 const QUESTIONS_PER_BATCH = 10; // Changed from 20 to 10 for gamification
 
+// ============== AUTHENTICATION ==============
+// Simple hash function for client-side password verification
+function simpleHash(str) {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        const char = str.charCodeAt(i);
+        hash = ((hash << 5) - hash) + char;
+        hash = hash & hash;
+    }
+    return hash.toString(16);
+}
+
+// User database (hashed passwords for basic security)
+const USERS = {
+    'rramkr@gmail.com': {
+        passwordHash: simpleHash('Ani1@unni2'),
+        name: 'Admin',
+        role: 'admin'
+    },
+    'anirudh.ramkr@gmail.com': {
+        passwordHash: simpleHash('Sishya@1234'),
+        name: 'Anirudh',
+        role: 'student'
+    }
+};
+
+// Current logged in user
+let currentUser = null;
+
+// Wrong answers tracking - stored in localStorage
+const WRONG_ANSWERS_KEY = 'aniQuiz_wrongAnswers';
+
+function getWrongAnswers() {
+    try {
+        return JSON.parse(localStorage.getItem(WRONG_ANSWERS_KEY)) || {};
+    } catch {
+        return {};
+    }
+}
+
+function saveWrongAnswers(data) {
+    localStorage.setItem(WRONG_ANSWERS_KEY, JSON.stringify(data));
+}
+
+function addWrongAnswer(subject, chapter, questionType, question) {
+    const wrongAnswers = getWrongAnswers();
+    const key = `${subject}|${chapter}|${questionType}`;
+
+    if (!wrongAnswers[key]) {
+        wrongAnswers[key] = [];
+    }
+
+    // Check if question already exists (by ID)
+    const exists = wrongAnswers[key].some(q => q.id === question.id);
+    if (!exists) {
+        wrongAnswers[key].push({
+            id: question.id,
+            question: question.question || question.statement,
+            correct_answer: question.correct_answer || question.answer,
+            explanation: question.explanation,
+            type: questionType,
+            addedAt: new Date().toISOString()
+        });
+        saveWrongAnswers(wrongAnswers);
+    }
+}
+
+function removeWrongAnswer(subject, chapter, questionType, questionId) {
+    const wrongAnswers = getWrongAnswers();
+    const key = `${subject}|${chapter}|${questionType}`;
+
+    if (wrongAnswers[key]) {
+        wrongAnswers[key] = wrongAnswers[key].filter(q => q.id !== questionId);
+        if (wrongAnswers[key].length === 0) {
+            delete wrongAnswers[key];
+        }
+        saveWrongAnswers(wrongAnswers);
+    }
+}
+
+function getWrongAnswersForChapter(subject, chapter) {
+    const wrongAnswers = getWrongAnswers();
+    const result = {};
+
+    Object.keys(wrongAnswers).forEach(key => {
+        const [s, c, type] = key.split('|');
+        if (s === subject && c === chapter) {
+            result[type] = wrongAnswers[key];
+        }
+    });
+
+    return result;
+}
+
+function getAllWrongAnswers() {
+    return getWrongAnswers();
+}
+
+// Check if user is logged in
+function checkAuth() {
+    const savedUser = localStorage.getItem('aniQuiz_user');
+    if (savedUser) {
+        try {
+            currentUser = JSON.parse(savedUser);
+            return true;
+        } catch {
+            return false;
+        }
+    }
+    return false;
+}
+
+// Login function
+function login(email, password) {
+    const user = USERS[email.toLowerCase()];
+    if (user && user.passwordHash === simpleHash(password)) {
+        currentUser = {
+            email: email.toLowerCase(),
+            name: user.name,
+            role: user.role
+        };
+        localStorage.setItem('aniQuiz_user', JSON.stringify(currentUser));
+        return true;
+    }
+    return false;
+}
+
+// Logout function
+function logout() {
+    currentUser = null;
+    localStorage.removeItem('aniQuiz_user');
+    showLoginView();
+}
+
+// Show login view
+function showLoginView() {
+    document.getElementById('login-view').classList.add('active');
+    document.getElementById('main-app').style.display = 'none';
+}
+
+// Show main app
+function showMainApp() {
+    document.getElementById('login-view').classList.remove('active');
+    document.getElementById('main-app').style.display = 'flex';
+
+    // Update welcome message with user's name
+    const welcomeBanner = document.querySelector('.welcome-banner h1');
+    if (welcomeBanner && currentUser) {
+        welcomeBanner.textContent = `Hey ${currentUser.name}! Ready to be awesome? 🚀`;
+    }
+}
+
+// Handle login form submission
+function handleLogin(e) {
+    e.preventDefault();
+    const email = document.getElementById('email').value;
+    const password = document.getElementById('password').value;
+    const errorDiv = document.getElementById('login-error');
+
+    if (login(email, password)) {
+        errorDiv.style.display = 'none';
+        showMainApp();
+        // Reload subjects after login
+        loadSubjects();
+    } else {
+        errorDiv.style.display = 'block';
+    }
+}
+
 // State
 const state = {
     currentSubject: null,
@@ -97,6 +266,26 @@ if (document.readyState === 'loading') {
 }
 
 async function init() {
+    // Setup login form handler
+    const loginForm = document.getElementById('login-form');
+    if (loginForm) {
+        loginForm.addEventListener('submit', handleLogin);
+    }
+
+    // Setup logout button
+    const logoutBtn = document.getElementById('logout-btn');
+    if (logoutBtn) {
+        logoutBtn.addEventListener('click', logout);
+    }
+
+    // Check if user is already logged in
+    if (!checkAuth()) {
+        showLoginView();
+        return;
+    }
+
+    // User is logged in, show main app
+    showMainApp();
     showLoading(true);
 
     // Load subjects first
@@ -545,6 +734,50 @@ async function loadMoreQuestions() {
     await loadQuestions(state.currentType, state.currentOffset);
 }
 
+// Load previously wrong questions for review
+async function loadWrongQuestions(questionType) {
+    showLoading(true);
+
+    const wrongAnswers = getWrongAnswersForChapter(
+        state.currentSubject.name,
+        state.currentChapter.name
+    );
+
+    const questions = wrongAnswers[questionType] || [];
+
+    if (questions.length === 0) {
+        alert('No wrong questions to review!');
+        showLoading(false);
+        return;
+    }
+
+    // Set up state for wrong questions review
+    const typeLabel = questionType.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+    state.currentType = {
+        value: questionType,
+        label: `Review: ${typeLabel}`,
+        icon: '🔄'
+    };
+
+    // Process questions to match expected format
+    const processedQuestions = questions.map(q => processQuestion(q, questionType));
+
+    state.questions = processedQuestions;
+    state.answersRevealed = false;
+    state.userAnswers = {};
+    state.currentScore = 0;
+    state.totalAnswered = 0;
+    state.allQuestionsAnswered = false;
+    state.showAllMode = false;
+    state.currentOffset = questions.length;
+    state.hasMore = false; // No more for wrong questions
+    state.allQuestions = processedQuestions;
+
+    renderQuiz();
+    showView('quiz');
+    showLoading(false);
+}
+
 function calculateScore() {
     let score = 0;
     let total = state.questions.length;
@@ -646,6 +879,36 @@ function revealAnswers() {
     // Calculate score
     const { score, total } = calculateScore();
     const result = getResultMessage(score, total);
+
+    // Track wrong answers for students (not for admin)
+    if (currentUser && currentUser.role === 'student') {
+        state.questions.forEach(q => {
+            const userAnswer = state.userAnswers[q.id];
+            const isAnswered = userAnswer !== undefined && userAnswer !== '' &&
+                (typeof userAnswer !== 'object' || Object.values(userAnswer).some(v => v && v !== ''));
+
+            if (isAnswered) {
+                const correct = isAnswerCorrect(q, userAnswer);
+                if (!correct) {
+                    // Add to wrong answers
+                    addWrongAnswer(
+                        state.currentSubject.name,
+                        state.currentChapter.name,
+                        state.currentType.value,
+                        q
+                    );
+                } else {
+                    // If answered correctly, remove from wrong answers (if present)
+                    removeWrongAnswer(
+                        state.currentSubject.name,
+                        state.currentChapter.name,
+                        state.currentType.value,
+                        q.id
+                    );
+                }
+            }
+        });
+    }
 
     // Update results banner
     elements.resultsIcon.textContent = result.icon;
@@ -874,6 +1137,15 @@ function renderChapters(chapters) {
 function renderSections(sections) {
     elements.sectionsTitle.textContent = `${state.currentChapter.name}`;
 
+    // Get the sections container
+    const sectionsContainer = document.getElementById('sections-container');
+
+    // Remove any existing wrong-answers or admin sections
+    const existingWrongSection = document.getElementById('wrong-answers-section');
+    if (existingWrongSection) existingWrongSection.remove();
+    const existingAdminSection = document.getElementById('admin-section');
+    if (existingAdminSection) existingAdminSection.remove();
+
     // Render each section
     renderSectionTypes(elements.textbookTypes, sections.textbook, 'textbook-section');
     renderSectionTypes(elements.examTypes, sections.exam, 'exam-section');
@@ -883,6 +1155,76 @@ function renderSections(sections) {
     elements.textbookSection.style.display = sections.textbook.length > 0 ? 'block' : 'none';
     elements.examSection.style.display = sections.exam.length > 0 ? 'block' : 'none';
     elements.miscSection.style.display = sections.miscellaneous.length > 0 ? 'block' : 'none';
+
+    // For students: Show "Previously Wrong" section
+    if (currentUser && currentUser.role === 'student') {
+        const wrongAnswers = getWrongAnswersForChapter(
+            state.currentSubject.name,
+            state.currentChapter.name
+        );
+
+        const wrongTypes = Object.keys(wrongAnswers);
+        if (wrongTypes.length > 0) {
+            const wrongSection = document.createElement('div');
+            wrongSection.id = 'wrong-answers-section';
+            wrongSection.className = 'section-block wrong-answers-section';
+            wrongSection.innerHTML = `
+                <h3 class="section-header">Practice Again (Questions you got wrong)</h3>
+                <div class="section-types">
+                    ${wrongTypes.map(type => {
+                        const count = wrongAnswers[type].length;
+                        const typeLabel = type.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                        return `
+                            <div class="type-item wrong-type" onclick="loadWrongQuestions('${type}')">
+                                <span class="type-icon">🔄</span>
+                                <span class="type-label">${typeLabel} (${count})</span>
+                            </div>
+                        `;
+                    }).join('')}
+                </div>
+            `;
+            sectionsContainer.insertBefore(wrongSection, sectionsContainer.firstChild);
+        }
+    }
+
+    // For admin: Show admin panel with wrong answers summary
+    if (currentUser && currentUser.role === 'admin') {
+        const allWrong = getAllWrongAnswers();
+        const chapterKey = `${state.currentSubject.name}|${state.currentChapter.name}`;
+        const chapterWrongAnswers = Object.entries(allWrong)
+            .filter(([key]) => key.startsWith(chapterKey))
+            .map(([key, questions]) => {
+                const [, , type] = key.split('|');
+                return { type, questions };
+            });
+
+        if (chapterWrongAnswers.length > 0) {
+            const totalWrong = chapterWrongAnswers.reduce((sum, item) => sum + item.questions.length, 0);
+            const adminSection = document.createElement('div');
+            adminSection.id = 'admin-section';
+            adminSection.className = 'section-block admin-section';
+            adminSection.innerHTML = `
+                <h3 class="section-header">Admin: Student's Wrong Answers (${totalWrong})</h3>
+                <div class="wrong-questions-list">
+                    ${chapterWrongAnswers.map(item => `
+                        <div style="margin-bottom: 16px;">
+                            <strong>${item.type.replace(/_/g, ' ').toUpperCase()}</strong>
+                            ${item.questions.map(q => `
+                                <div class="wrong-question-item">
+                                    <div>${q.question}</div>
+                                    <div class="wrong-question-meta">
+                                        Correct answer: <strong>${q.correct_answer}</strong>
+                                        ${q.addedAt ? `<br>Added: ${new Date(q.addedAt).toLocaleDateString()}` : ''}
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+            sectionsContainer.appendChild(adminSection);
+        }
+    }
 }
 
 function renderSectionTypes(container, types, sectionId) {
@@ -1581,9 +1923,11 @@ function showEmptyState(message) {
 window.loadChapters = loadChapters;
 window.loadSections = loadSections;
 window.loadQuestions = loadQuestions;
+window.loadWrongQuestions = loadWrongQuestions;
 window.showView = showView;
 window.navigateTo = navigateTo;
 window.saveAnswer = saveAnswer;
 window.saveSubAnswer = saveSubAnswer;
 window.handleAnswerChange = handleAnswerChange;
 window.handleSubAnswerChange = handleSubAnswerChange;
+window.logout = logout;
