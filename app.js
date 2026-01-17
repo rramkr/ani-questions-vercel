@@ -421,7 +421,6 @@ function processQuestion(q, questionType) {
                        trimmedOpt.charAt(0).toUpperCase() === correctLetter;
             });
             processed.correct_answer = fullOption || q.correct_answer || '';
-            console.log('Assertion-Reason Debug:', { correctLetter, fullOption, finalAnswer: processed.correct_answer });
         }
     } else if (questionType === 'true_false') {
         processed.question = q.statement || q.question || '';
@@ -493,8 +492,13 @@ function calculateScore() {
 function isAnswerCorrect(question, userAnswer) {
     const qType = question.type;
 
-    if (qType === 'mcq' || qType === 'assertion_reason') {
+    if (qType === 'mcq') {
         return userAnswer === question.correct_answer;
+    } else if (qType === 'assertion_reason') {
+        // For assertion-reason, compare by the letter prefix (A, B, C, D)
+        const userLetter = (userAnswer || '').trim().charAt(0).toUpperCase();
+        const correctLetter = (question.correct_answer || '').trim().charAt(0).toUpperCase();
+        return userLetter === correctLetter && userLetter !== '';
     } else if (qType === 'true_false') {
         const correctBool = question.correct_answer === true || question.correct_answer === 'True' || question.correct_answer === 'true';
         return (userAnswer === 'True' && correctBool) || (userAnswer === 'False' && !correctBool);
@@ -1102,7 +1106,7 @@ function renderCaseStudyQuestion(q, index, showUnansweredHighlight = false) {
 // Answer renderers - Always show justification from text
 function renderMCQAnswer(q) {
     const userAnswer = state.userAnswers[q.id] || '';
-    const isCorrect = userAnswer === q.correct_answer;
+    const isCorrect = isAnswerCorrect(q, userAnswer);
     const justification = q.explanation || (q.source_section ? `Source: "${q.source_section}"` : '');
     return `
         <div class="answer-status ${userAnswer ? (isCorrect ? 'correct' : 'incorrect') : ''}">
