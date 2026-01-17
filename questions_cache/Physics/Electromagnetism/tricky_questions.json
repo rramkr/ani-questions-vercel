@@ -90,46 +90,6 @@
       "source_section": "Introduction to Electromagnetism"
     },
     {
-      "id": "tq012",
-      "question": "Michael Faraday discovered electromagnetic induction in 1831. Why didn't he invent the electric generator immediately?",
-      "answer": "Actually, Faraday did demonstrate the basic principle that led to generators. However, turning a scientific discovery into practical technology takes time - engineering challenges, materials development, and manufacturing capabilities all needed to catch up. But his discovery was indeed the foundation for all generators.",
-      "why_tricky": "Students might not realize the gap between scientific discovery and practical application. Faraday's work did directly lead to generators.",
-      "key_points": ["Discovery was foundation for generators", "Practical development takes time", "Engineering challenges needed solving"],
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
-      "id": "tq013",
-      "question": "A transformer is connected to a battery (DC). Will it work?",
-      "answer": "No, a transformer will not work with DC (direct current). Transformers require changing magnetic field for electromagnetic induction. DC creates a constant magnetic field, which cannot induce current in the secondary coil. Transformers need AC (alternating current) which constantly changes direction.",
-      "why_tricky": "Students might think any electrical source works with transformers. Understanding that changing magnetic field is essential helps clarify this.",
-      "key_points": ["DC won't work", "Need changing magnetic field", "AC required for transformers"],
-      "source_section": "Electromagnetic Induction"
-    },
-    {
-      "id": "tq014",
-      "question": "If magnetic lines of force could intersect, what problem would this create?",
-      "answer": "If lines intersected, at that point there would be two different directions for the magnetic field. This is impossible because a magnetic field can only have one direction at any point. A compass placed there would have to point two ways at once - physically impossible.",
-      "why_tricky": "Students might not see why intersection is impossible. Linking it to compass behavior makes it concrete.",
-      "key_points": ["Two directions at one point impossible", "Compass can only point one way", "Field has unique direction everywhere"],
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq015",
-      "question": "An ammeter is connected to detect induced current in a simple experiment, but shows no deflection. Does this mean there is no induced current?",
-      "answer": "Not necessarily. The induced current might be too small for the ammeter to detect. Ammeters are less sensitive than galvanometers. A galvanometer, being more sensitive, might detect the small induced current that the ammeter cannot.",
-      "why_tricky": "Students might conclude no deflection means no current. Instrument sensitivity is important to consider.",
-      "key_points": ["Ammeter less sensitive", "Small currents may go undetected", "Use galvanometer for small currents"],
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq016",
-      "question": "Can an electric motor work as a generator?",
-      "answer": "Yes! Motors and generators are essentially the same device working in reverse. If you supply electricity to a motor, it rotates (electrical to mechanical energy). If you rotate a motor mechanically, it generates electricity (mechanical to electrical energy). This reversibility shows they work on related principles.",
-      "why_tricky": "Students might think motors and generators are completely different devices. Understanding their reversibility deepens comprehension.",
-      "key_points": ["Same device, reverse operation", "Motor = electricity to rotation", "Generator = rotation to electricity"],
-      "source_section": "Electromagnetic Induction"
-    },
-    {
       "id": "tq017",
       "question": "If you move a magnet very slowly towards a coil, will there be any induced current?",
       "answer": "Yes, there will be induced current, but it will be very weak. The induced current depends on the RATE of change of magnetic flux. Slow movement means slow change, resulting in weak current. Moving faster produces stronger induced current.",
@@ -202,7 +162,7 @@
       "source_section": "Factors Affecting Strength of Electromagnet"
     }
   ],
-  "total_count": 25,
+  "total_count": 20,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

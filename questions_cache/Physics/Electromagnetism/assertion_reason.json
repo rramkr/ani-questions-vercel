@@ -142,34 +142,6 @@
       "source_section": "Introduction to Electromagnetism"
     },
     {
-      "id": "ar011",
-      "assertion": "Michael Faraday discovered electromagnetic induction in 1831.",
-      "reason": "Electromagnetic induction requires relative motion between magnet and conductor.",
-      "correct_option": "B",
-      "options": [
-        "A. Both A and R are true, and R is the correct explanation of A",
-        "B. Both A and R are true, but R is not the correct explanation of A",
-        "C. A is true but R is false",
-        "D. A is false but R is true"
-      ],
-      "explanation": "Both facts are true - Faraday did discover induction in 1831, and relative motion is required. However, the reason doesn't explain the discovery date.",
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
-      "id": "ar012",
-      "assertion": "A galvanometer is used to detect induced current.",
-      "reason": "Galvanometers are more sensitive than ammeters.",
-      "correct_option": "A",
-      "options": [
-        "A. Both A and R are true, and R is the correct explanation of A",
-        "B. Both A and R are true, but R is not the correct explanation of A",
-        "C. A is true but R is false",
-        "D. A is false but R is true"
-      ],
-      "explanation": "Galvanometers are used for detecting induced current because they are more sensitive and can detect the small currents typically produced in simple induction experiments.",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
       "id": "ar013",
       "assertion": "U-shaped electromagnets are used in electric bells.",
       "reason": "U-shaped electromagnets have both poles on the same side.",
@@ -182,34 +154,6 @@
       ],
       "explanation": "U-shaped electromagnets are preferred in bells because having both poles on the same side creates a concentrated field that attracts the armature more effectively.",
       "source_section": "The Electric Bell - Application of Electromagnet"
-    },
-    {
-      "id": "ar014",
-      "assertion": "Electric generators convert mechanical energy to electrical energy.",
-      "reason": "Generators work on the principle of electromagnetic induction.",
-      "correct_option": "A",
-      "options": [
-        "A. Both A and R are true, and R is the correct explanation of A",
-        "B. Both A and R are true, but R is not the correct explanation of A",
-        "C. A is true but R is false",
-        "D. A is false but R is true"
-      ],
-      "explanation": "Generators do convert mechanical to electrical energy, and electromagnetic induction is exactly the principle that enables this conversion.",
-      "source_section": "Electromagnetic Induction"
-    },
-    {
-      "id": "ar015",
-      "assertion": "Transformers work only with alternating current.",
-      "reason": "Electromagnetic induction requires a changing magnetic field.",
-      "correct_option": "A",
-      "options": [
-        "A. Both A and R are true, and R is the correct explanation of A",
-        "B. Both A and R are true, but R is not the correct explanation of A",
-        "C. A is true but R is false",
-        "D. A is false but R is true"
-      ],
-      "explanation": "Transformers need AC because only changing current creates a changing magnetic field, which is essential for electromagnetic induction to occur in the secondary coil.",
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "ar016",
@@ -324,20 +268,6 @@
       "source_section": "Types of Electromagnets"
     },
     {
-      "id": "ar024",
-      "assertion": "Electric motors convert electrical energy to mechanical energy.",
-      "reason": "Motors work on the same principle as generators.",
-      "correct_option": "C",
-      "options": [
-        "A. Both A and R are true, and R is the correct explanation of A",
-        "B. Both A and R are true, but R is not the correct explanation of A",
-        "C. A is true but R is false",
-        "D. A is false but R is true"
-      ],
-      "explanation": "Motors do convert electrical to mechanical energy (true). However, the reason is partially false - motors work on the reverse principle to generators (magnetic effect of current vs electromagnetic induction).",
-      "source_section": "Electromagnetic Induction"
-    },
-    {
       "id": "ar025",
       "assertion": "A control experiment is needed for a fair test of the electromagnet activity.",
       "reason": "We must check if the nail alone picks up paper clips.",
@@ -352,7 +282,7 @@
       "source_section": "Activity: Making an Electromagnet"
     }
   ],
-  "total_count": 25,
+  "total_count": 20,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

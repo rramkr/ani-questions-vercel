@@ -282,20 +282,6 @@
       "source_section": "Introduction to Electromagnetism"
     },
     {
-      "id": "tf041",
-      "statement": "Michael Faraday discovered electromagnetic induction in 1831.",
-      "answer": true,
-      "explanation": "Michael Faraday discovered electromagnetic induction through his experiments in 1831.",
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
-      "id": "tf042",
-      "statement": "A galvanometer is used to measure temperature in a circuit.",
-      "answer": false,
-      "explanation": "A galvanometer is used to detect electric current, not temperature.",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
       "id": "tf043",
       "statement": "For electromagnetic induction, relative motion between magnet and conductor is essential.",
       "answer": true,
@@ -303,32 +289,11 @@
       "source_section": "Electromagnetic Induction"
     },
     {
-      "id": "tf044",
-      "statement": "Magnetic lines of force are continuous curves that never intersect.",
-      "answer": true,
-      "explanation": "Magnetic lines of force are continuous closed curves and they never intersect each other.",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
       "id": "tf045",
       "statement": "Soft iron has high retentivity which makes it ideal for electromagnets.",
       "answer": false,
       "explanation": "Soft iron has low retentivity, which is why it loses magnetism quickly when current stops.",
       "source_section": "Introduction to Electromagnetism"
-    },
-    {
-      "id": "tf046",
-      "statement": "Generators convert mechanical energy into electrical energy.",
-      "answer": true,
-      "explanation": "Generators use electromagnetic induction to convert mechanical energy to electrical energy.",
-      "source_section": "Electromagnetic Induction"
-    },
-    {
-      "id": "tf047",
-      "statement": "Electric motors convert electrical energy into mechanical energy.",
-      "answer": true,
-      "explanation": "Motors work opposite to generators, converting electrical to mechanical energy.",
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "tf048",
@@ -364,13 +329,6 @@
       "answer": false,
       "explanation": "Permanent magnets cannot be switched off; electromagnets can be switched off to release loads.",
       "source_section": "Uses of Electromagnets"
-    },
-    {
-      "id": "tf053",
-      "statement": "Transformers work on the principle of electromagnetic induction.",
-      "answer": true,
-      "explanation": "Transformers use electromagnetic induction to change voltage levels.",
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "tf054",
@@ -562,7 +520,7 @@
       "source_section": "Electromagnetic Induction"
     }
   ],
-  "total_count": 80,
+  "total_count": 74,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

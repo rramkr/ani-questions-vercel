@@ -289,20 +289,6 @@
       "source_section": "Electromagnetic Induction"
     },
     {
-      "id": "fib042",
-      "question": "A _____ is used to detect the presence of electric current in a circuit.",
-      "answer": "galvanometer",
-      "explanation": "A galvanometer is an instrument used to detect electric current in a circuit.",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "fib043",
-      "question": "Michael _____ discovered electromagnetic induction in 1831.",
-      "answer": "Faraday",
-      "explanation": "Michael Faraday discovered electromagnetic induction through his experiments in 1831.",
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
       "id": "fib044",
       "question": "The core of an electromagnet should be made of _____ iron, not steel.",
       "answer": "soft",
@@ -315,13 +301,6 @@
       "answer": "armature",
       "explanation": "The hammer is attached to the armature, so when armature moves, hammer strikes the gong.",
       "source_section": "The Electric Bell - Application of Electromagnet"
-    },
-    {
-      "id": "fib046",
-      "question": "A _____ converts mechanical energy into electrical energy using electromagnetic induction.",
-      "answer": "generator",
-      "explanation": "A generator uses the principle of electromagnetic induction to convert mechanical to electrical energy.",
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "fib047",
@@ -422,13 +401,6 @@
       "source_section": "Introduction to Electromagnetism"
     },
     {
-      "id": "fib061",
-      "question": "A _____ uses electromagnetic induction to change voltage levels.",
-      "answer": "transformer",
-      "explanation": "Transformers use electromagnetic induction to step up or step down voltage.",
-      "source_section": "Electromagnetic Induction"
-    },
-    {
       "id": "fib062",
       "question": "In the electromagnet activity, paper clips are attracted at the _____ of the nail.",
       "answer": "ends",
@@ -455,13 +427,6 @@
       "answer": "demagnetized",
       "explanation": "Soft iron loses its magnetism (gets demagnetized) immediately when current is switched off.",
       "source_section": "Introduction to Electromagnetism"
-    },
-    {
-      "id": "fib066",
-      "question": "Electric _____ convert electrical energy to mechanical energy.",
-      "answer": "motors",
-      "explanation": "Electric motors work opposite to generators, converting electrical to mechanical energy.",
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "fib067",
@@ -562,7 +527,7 @@
       "source_section": "Activity: Making an Electromagnet"
     }
   ],
-  "total_count": 80,
+  "total_count": 75,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

@@ -40,9 +40,9 @@
     {
       "id": "la005",
       "question": "Explain electromagnetic induction and its significance in understanding the relationship between electricity and magnetism.",
-      "answer": "Electromagnetic Induction:\nElectromagnetic induction is the phenomenon of producing an electric current in a conductor due to change in the magnetic lines of force associated with the conductor. The current produced by this process is called induced current.\n\nRelationship between Electricity and Magnetism:\nElectromagnetism demonstrates two important relationships:\n\n1. Electricity produces Magnetism: When electric current flows through a conductor (like a coil), it produces a magnetic field. This is the principle behind electromagnets. A soft iron core becomes magnetized when current flows through the coil wound around it.\n\n2. Magnetism produces Electricity: The reverse effect is also possible through electromagnetic induction. When magnetic lines of force change around a conductor, electric current is induced in it. This is the principle behind generators.\n\nSignificance:\n- This relationship forms the foundation of electrical engineering\n- Electric generators work on electromagnetic induction to produce electricity\n- Electric motors work on the magnetic effect of current\n- Transformers use electromagnetic induction to change voltage levels\n- This understanding led to the development of modern electrical power systems\n\nThe discovery of electromagnetic induction by Michael Faraday revolutionized our ability to generate and use electricity.",
+      "answer": "Electromagnetic Induction:\nElectromagnetic induction is the phenomenon of producing an electric current in a conductor due to change in the magnetic lines of force associated with the conductor. The current produced by this process is called induced current.\n\nRelationship between Electricity and Magnetism:\nElectromagnetism demonstrates two important relationships:\n\n1. Electricity produces Magnetism: When electric current flows through a conductor (like a coil), it produces a magnetic field. This is the principle behind electromagnets. A soft iron core becomes magnetized when current flows through the coil wound around it.\n\n2. Magnetism produces Electricity: The reverse effect is also possible through electromagnetic induction. When magnetic lines of force change around a conductor, electric current is induced in it.\n\nSignificance:\n- This relationship forms the foundation of electrical engineering\n- Electric generators work on electromagnetic induction to produce electricity\n- Electric motors work on the magnetic effect of current\n- This understanding led to the development of modern electrical power systems\n\nFor electromagnetic induction to occur, relative motion between a magnet and conductor is essential. Without change in magnetic field, no current is induced.",
       "key_points": ["Definition of electromagnetic induction", "Induced current", "Electricity produces magnetism", "Magnetism produces electricity", "Practical applications", "Foundation of electrical engineering"],
-      "keywords": ["electromagnetic induction", "induced current", "magnetic lines of force", "generator", "motor", "electricity", "magnetism"],
+      "keywords": ["electromagnetic induction", "induced current", "magnetic lines of force", "electricity", "magnetism"],
       "word_limit": 200,
       "source_section": "Electromagnetic Induction"
     },
@@ -54,15 +54,6 @@
       "keywords": ["iron nail", "copper wire", "battery", "switch", "paper clips", "turns", "temporary magnet"],
       "word_limit": 200,
       "source_section": "Activity: Making an Electromagnet"
-    },
-    {
-      "id": "la007",
-      "question": "Explain the contribution of Michael Faraday to the field of electromagnetism and how his discoveries are used today.",
-      "answer": "Michael Faraday's Contribution:\nMichael Faraday was a British scientist who made groundbreaking discoveries in electromagnetism. In 1831, he discovered electromagnetic induction - the phenomenon where a changing magnetic field produces an electric current in a conductor.\n\nKey Discoveries:\n1. Electromagnetic Induction: Faraday showed that moving a magnet near a conductor or moving a conductor in a magnetic field induces electric current. He established that relative motion between magnet and conductor is essential for induction.\n\n2. Laws of Electromagnetic Induction: He formulated the laws governing the magnitude and direction of induced current, which depend on the rate of change of magnetic flux.\n\n3. Connection between Electricity and Magnetism: He proved that electricity and magnetism are two aspects of the same force - electromagnetism.\n\nModern Applications:\nFaraday's discoveries form the basis of:\n1. Electric Generators: Power stations use electromagnetic induction to convert mechanical energy to electrical energy, powering homes and industries worldwide.\n2. Transformers: These devices use electromagnetic induction to step up or step down voltage for efficient power transmission.\n3. Electric Motors: Work on the reverse principle - current in magnetic field produces motion.\n4. Induction Cooking: Uses electromagnetic induction to heat cooking vessels.\n5. Wireless Charging: Uses electromagnetic induction to transfer energy without wires.\n\nWithout Faraday's discoveries, our modern electrical civilization would not exist.",
-      "key_points": ["Faraday discovered electromagnetic induction in 1831", "Relative motion essential", "Established electromagnetism", "Generators and transformers based on his work", "Foundation of electrical engineering"],
-      "keywords": ["Faraday", "electromagnetic induction", "1831", "generator", "transformer", "motor", "electricity"],
-      "word_limit": 200,
-      "source_section": "Physics Extra - Michael Faraday"
     },
     {
       "id": "la008",
@@ -81,18 +72,9 @@
       "keywords": ["iron ore", "separation", "impurities", "conveyor belt", "magnetic", "non-magnetic", "mining"],
       "word_limit": 200,
       "source_section": "Uses of Electromagnets"
-    },
-    {
-      "id": "la010",
-      "question": "Describe the differences between electric generators and electric motors, and explain how they are related through electromagnetic principles.",
-      "answer": "Electric Generator:\nDefinition: A device that converts mechanical energy into electrical energy.\n\nPrinciple: Works on electromagnetic induction - when a conductor moves in a magnetic field, electric current is induced in it.\n\nWorking:\n1. A coil of wire (conductor) is rotated in a magnetic field\n2. As coil cuts through magnetic lines of force, current is induced\n3. Mechanical energy of rotation converts to electrical energy\n4. Used in power stations to generate electricity\n\nExamples: Power plant generators, bicycle dynamos, wind turbines\n\nElectric Motor:\nDefinition: A device that converts electrical energy into mechanical energy.\n\nPrinciple: Works on the magnetic effect of current - when current-carrying conductor is placed in a magnetic field, it experiences a force.\n\nWorking:\n1. Current flows through a coil placed in a magnetic field\n2. Magnetic force causes the coil to rotate\n3. Electrical energy converts to mechanical energy of rotation\n4. Used to run machines and appliances\n\nExamples: Electric fans, washing machines, electric vehicles\n\nRelationship:\n- Both use the same components: coil, magnet, connections\n- Generator: Motion → Electricity (Faraday's discovery)\n- Motor: Electricity → Motion (reverse of generator)\n- Same device can work as generator or motor depending on input\n- Both demonstrate the connection between electricity and magnetism\n\nThis reversibility shows that electricity and magnetism are fundamentally connected - the core principle of electromagnetism.",
-      "key_points": ["Generator: mechanical to electrical", "Motor: electrical to mechanical", "Generator uses electromagnetic induction", "Motor uses magnetic effect of current", "Same components, reverse operation", "Both demonstrate electromagnetism"],
-      "keywords": ["generator", "motor", "electromagnetic induction", "magnetic effect", "mechanical energy", "electrical energy"],
-      "word_limit": 200,
-      "source_section": "Electromagnetic Induction"
     }
   ],
-  "total_count": 10,
+  "total_count": 8,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

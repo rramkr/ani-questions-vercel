@@ -322,22 +322,6 @@
       "source_section": "Activity: Making an Electromagnet"
     },
     {
-      "id": "mcq041",
-      "question": "Which instrument is used to detect electric current in an electric circuit?",
-      "options": ["A. Ammeter", "B. Thermometer", "C. Electrometer", "D. Galvanometer"],
-      "correct_answer": "D. Galvanometer",
-      "explanation": "A galvanometer is used to detect the presence and direction of electric current in a circuit.",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "mcq042",
-      "question": "Who discovered electromagnetic induction?",
-      "options": ["A. Isaac Newton", "B. Michael Faraday", "C. Albert Einstein", "D. Thomas Edison"],
-      "correct_answer": "B. Michael Faraday",
-      "explanation": "Michael Faraday discovered electromagnetic induction in 1831.",
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
       "id": "mcq043",
       "question": "What is essential for electromagnetic induction to occur between a magnet and a conductor?",
       "options": ["A. Both must be stationary", "B. Relative motion between them", "C. Only the conductor should move", "D. Only the magnet should move"],
@@ -392,14 +376,6 @@
       "correct_answer": "C. Doubled",
       "explanation": "The strength of an electromagnet is directly proportional to current, so doubling current doubles the magnetic strength.",
       "source_section": "Factors Affecting Strength of Electromagnet"
-    },
-    {
-      "id": "mcq050",
-      "question": "Which scientist's work on electromagnetic induction led to the development of electric generators?",
-      "options": ["A. Newton", "B. Faraday", "C. Galileo", "D. Archimedes"],
-      "correct_answer": "B. Faraday",
-      "explanation": "Michael Faraday's discovery of electromagnetic induction led to the development of electric generators and transformers.",
-      "source_section": "Physics Extra - Michael Faraday"
     },
     {
       "id": "mcq051",
@@ -522,14 +498,6 @@
       "source_section": "Introduction to Electromagnetism"
     },
     {
-      "id": "mcq066",
-      "question": "What converts mechanical energy to electrical energy using electromagnetic induction?",
-      "options": ["A. Motor", "B. Generator", "C. Battery", "D. Electromagnet"],
-      "correct_answer": "B. Generator",
-      "explanation": "A generator converts mechanical energy to electrical energy using the principle of electromagnetic induction.",
-      "source_section": "Electromagnetic Induction"
-    },
-    {
       "id": "mcq067",
       "question": "When an electromagnet is switched off, the soft iron core:",
       "options": ["A. Becomes a permanent magnet", "B. Gets demagnetized instantly", "C. Retains some magnetism permanently", "D. Heats up"],
@@ -568,14 +536,6 @@
       "correct_answer": "B. Length of the core",
       "explanation": "Number of turns per unit length refers to how many turns are wound per unit length of the core.",
       "source_section": "Factors Affecting Strength of Electromagnet"
-    },
-    {
-      "id": "mcq072",
-      "question": "Electric motors work on the principle opposite to:",
-      "options": ["A. Electrochemistry", "B. Electromagnetic induction", "C. Thermodynamics", "D. Nuclear physics"],
-      "correct_answer": "B. Electromagnetic induction",
-      "explanation": "Motors convert electrical energy to mechanical energy, opposite to generators which use electromagnetic induction.",
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "mcq073",
@@ -618,14 +578,6 @@
       "source_section": "The Electric Bell - Application of Electromagnet"
     },
     {
-      "id": "mcq078",
-      "question": "Faraday's experiments on electromagnetic induction were performed in:",
-      "options": ["A. 1801", "B. 1821", "C. 1831", "D. 1851"],
-      "correct_answer": "C. 1831",
-      "explanation": "Michael Faraday discovered electromagnetic induction through his experiments in 1831.",
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
       "id": "mcq079",
       "question": "Which property allows soft iron to be used as an electromagnet core?",
       "options": ["A. High electrical resistance", "B. High retentivity", "C. Low retentivity", "D. High cost"],
@@ -656,14 +608,6 @@
       "correct_answer": "B. Electromagnetism",
       "explanation": "Electromagnetism is the branch dealing with magnetic effects of electric current.",
       "source_section": "Introduction to Electromagnetism"
-    },
-    {
-      "id": "mcq083",
-      "question": "Which device uses electromagnetic induction to work?",
-      "options": ["A. Dry cell", "B. Transformer", "C. LED bulb", "D. Electric heater"],
-      "correct_answer": "B. Transformer",
-      "explanation": "Transformers use electromagnetic induction to change voltage levels.",
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "mcq084",
@@ -704,14 +648,6 @@
       "correct_answer": "B. Poles are reversed",
       "explanation": "Reversing current direction reverses the direction of current flow at each end, swapping the poles.",
       "source_section": "Types of Electromagnets"
-    },
-    {
-      "id": "mcq089",
-      "question": "The working principle of a generator is:",
-      "options": ["A. Current produces magnetism", "B. Changing magnetism produces current", "C. Heat produces magnetism", "D. Magnetism produces heat"],
-      "correct_answer": "B. Changing magnetism produces current",
-      "explanation": "Generators work on electromagnetic induction where changing magnetic field produces current.",
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "mcq090",
@@ -802,7 +738,7 @@
       "source_section": "Activity: Making an Electromagnet"
     }
   ],
-  "total_count": 100,
+  "total_count": 92,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

@@ -122,14 +122,6 @@
       "source_section": "Activity: Making an Electromagnet"
     },
     {
-      "id": "gr016",
-      "statement": "A galvanometer is used to detect induced current instead of an ammeter.",
-      "reason": "A galvanometer is more sensitive than an ammeter and can detect very small currents. Induced currents in simple experiments are often small. Additionally, a galvanometer can show the direction of current flow, which is important for understanding electromagnetic induction.",
-      "key_points": ["More sensitive than ammeter", "Detects small currents", "Shows current direction"],
-      "keywords": ["galvanometer", "sensitive", "detect", "current direction"],
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
       "id": "gr017",
       "statement": "U-shaped electromagnets are preferred in electric bells over bar-shaped ones.",
       "reason": "U-shaped electromagnets have both poles on the same side, creating a concentrated magnetic field. This provides stronger attraction for the armature compared to bar-shaped electromagnets where poles are at opposite ends. The stronger attraction makes the bell mechanism work more effectively.",
@@ -144,22 +136,6 @@
       "key_points": ["Wood and plastic are insulators", "Prevents short circuits", "Ensures proper current flow"],
       "keywords": ["insulator", "wooden", "plastic", "short circuit"],
       "source_section": "The Electric Bell - Application of Electromagnet"
-    },
-    {
-      "id": "gr019",
-      "statement": "Generators produce alternating current when a coil is rotated continuously.",
-      "reason": "As the coil rotates in the magnetic field, it cuts through magnetic lines of force in alternating directions. When moving one way, current flows in one direction; when moving the opposite way, current reverses. This continuous reversal produces alternating current.",
-      "key_points": ["Coil cuts field in alternating directions", "Current direction reverses", "Continuous reversal = AC"],
-      "keywords": ["generator", "alternating current", "rotation", "reverses"],
-      "source_section": "Electromagnetic Induction"
-    },
-    {
-      "id": "gr020",
-      "statement": "Transformers only work with alternating current, not direct current.",
-      "reason": "Transformers use electromagnetic induction, which requires a changing magnetic field. AC continuously changes direction, creating a changing magnetic field in the primary coil. DC is constant, so it creates a constant magnetic field that cannot induce current in the secondary coil.",
-      "key_points": ["Need changing magnetic field", "AC changes direction", "DC is constant"],
-      "keywords": ["transformer", "alternating current", "changing field", "direct current"],
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "gr021",
@@ -242,7 +218,7 @@
       "source_section": "Types of Electromagnets"
     }
   ],
-  "total_count": 30,
+  "total_count": 27,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

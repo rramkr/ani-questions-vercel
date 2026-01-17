@@ -79,17 +79,6 @@
       "source_section": "Factors Affecting Strength of Electromagnet"
     },
     {
-      "id": "cs008",
-      "case_text": "Michael Faraday, born in 1791, was a British scientist who made groundbreaking discoveries in electromagnetism. Despite having very little formal education, he became one of the most influential scientists in history. In 1831, he discovered electromagnetic induction, which became the foundation for modern electrical technology.",
-      "questions": [
-        {"question": "What important discovery did Faraday make in 1831?", "answer": "Michael Faraday discovered electromagnetic induction in 1831 - the phenomenon where a changing magnetic field produces an electric current in a conductor."},
-        {"question": "How did Faraday's discovery impact modern technology?", "answer": "Faraday's discovery of electromagnetic induction is the foundation for electric generators, transformers, and much of our modern electrical infrastructure. It enabled the large-scale generation and distribution of electricity."},
-        {"question": "What must be present for electromagnetic induction to occur?", "answer": "There must be relative motion between a magnet and a conductor, or more generally, a changing magnetic field associated with the conductor. A constant magnetic field will not produce induced current."},
-        {"question": "What devices work on the principle Faraday discovered?", "answer": "Electric generators, transformers, induction cooktops, and wireless charging devices all work on the principle of electromagnetic induction that Faraday discovered."}
-      ],
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
       "id": "cs009",
       "case_text": "Japan's famous bullet trains (Shinkansen) and China's maglev trains use electromagnets for high-speed transportation. The Shanghai Maglev train can reach speeds over 430 km/h. Unlike conventional trains that run on wheels, maglev trains float above the track using magnetic levitation.",
       "questions": [
@@ -112,7 +101,7 @@
       "source_section": "Activity: Making an Electromagnet"
     }
   ],
-  "total_count": 10,
+  "total_count": 9,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

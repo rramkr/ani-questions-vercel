@@ -162,35 +162,11 @@
       "source_section": "The Electric Bell - Application of Electromagnet"
     },
     {
-      "id": "sa021",
-      "question": "Who discovered electromagnetic induction and when?",
-      "answer": "Michael Faraday discovered electromagnetic induction in 1831 through his experiments. His discovery led to the development of electric generators and transformers.",
-      "key_points": ["Michael Faraday", "Discovered in 1831", "Led to generators and transformers"],
-      "keywords": ["Faraday", "1831", "electromagnetic induction", "discovery"],
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
-      "id": "sa022",
-      "question": "What is a galvanometer used for?",
-      "answer": "A galvanometer is an instrument used to detect the presence and direction of electric current in a circuit. It can show whether current is flowing and in which direction.",
-      "key_points": ["Detects electric current", "Shows current direction", "Used in circuits"],
-      "keywords": ["galvanometer", "detect", "current", "direction"],
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
       "id": "sa023",
       "question": "What is essential for electromagnetic induction to occur?",
       "answer": "Relative motion between a magnet and a conductor is essential for electromagnetic induction. Either the magnet or the conductor must be moving relative to the other to cause a change in magnetic flux.",
       "key_points": ["Relative motion required", "Between magnet and conductor", "Change in magnetic flux"],
       "keywords": ["relative motion", "magnet", "conductor", "electromagnetic induction"],
-      "source_section": "Electromagnetic Induction"
-    },
-    {
-      "id": "sa024",
-      "question": "How does a generator work?",
-      "answer": "A generator works on the principle of electromagnetic induction. When a conductor (coil) is rotated in a magnetic field, it cuts through magnetic lines of force, which induces an electric current in the conductor.",
-      "key_points": ["Uses electromagnetic induction", "Conductor rotates in magnetic field", "Induces electric current"],
-      "keywords": ["generator", "electromagnetic induction", "conductor", "magnetic field"],
       "source_section": "Electromagnetic Induction"
     },
     {
@@ -234,14 +210,6 @@
       "source_section": "The Electric Bell - Application of Electromagnet"
     },
     {
-      "id": "sa030",
-      "question": "How does a transformer use electromagnetic induction?",
-      "answer": "A transformer uses electromagnetic induction to change voltage levels. Alternating current in the primary coil creates a changing magnetic field, which induces current in the secondary coil at a different voltage.",
-      "key_points": ["Changes voltage levels", "AC creates changing magnetic field", "Induces current in secondary coil"],
-      "keywords": ["transformer", "electromagnetic induction", "voltage", "coil"],
-      "source_section": "Electromagnetic Induction"
-    },
-    {
       "id": "sa031",
       "question": "Why can't we have a single-pole magnet?",
       "answer": "A single-pole magnet is a myth. All magnets have two poles - north and south. Even if a magnet is labelled as single pole, it actually has both poles with one covered by adhesive, plastic, or metal casing.",
@@ -282,14 +250,6 @@
       "source_section": "Activity: Making an Electromagnet"
     },
     {
-      "id": "sa036",
-      "question": "What is the difference between a generator and a motor?",
-      "answer": "A generator converts mechanical energy to electrical energy using electromagnetic induction. A motor does the opposite - it converts electrical energy to mechanical energy. They use the same principle in reverse.",
-      "key_points": ["Generator: mechanical to electrical", "Motor: electrical to mechanical", "Same principle reversed"],
-      "keywords": ["generator", "motor", "mechanical", "electrical", "energy conversion"],
-      "source_section": "Electromagnetic Induction"
-    },
-    {
       "id": "sa037",
       "question": "How does an electromagnet attract paper clips in the activity?",
       "answer": "When current flows through the wire coil, the iron nail becomes magnetized and acts as an electromagnet. The magnetic field at the ends (poles) of the nail attracts the iron paper clips.",
@@ -322,7 +282,7 @@
       "source_section": "Factors Affecting Strength of Electromagnet"
     }
   ],
-  "total_count": 40,
+  "total_count": 35,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

@@ -122,30 +122,6 @@
       "source_section": "Introduction to Electromagnetism"
     },
     {
-      "id": "mtf011",
-      "instruction": "Match the scientists with their contributions:",
-      "pairs": [
-        {"left": "Michael Faraday", "right": "Discovered electromagnetic induction"},
-        {"left": "Alessandro Volta", "right": "Invented the first battery"},
-        {"left": "Faraday's discovery year", "right": "1831"},
-        {"left": "Electromagnetic induction", "right": "Basis of electric generators"},
-        {"left": "Faraday's principle", "right": "Changing magnetic field produces current"}
-      ],
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
-      "id": "mtf012",
-      "instruction": "Match the devices with their working principle:",
-      "pairs": [
-        {"left": "Electric generator", "right": "Electromagnetic induction"},
-        {"left": "Electric motor", "right": "Magnetic effect of current"},
-        {"left": "Transformer", "right": "Electromagnetic induction"},
-        {"left": "Electromagnet", "right": "Current produces magnetic field"},
-        {"left": "Galvanometer", "right": "Detects electric current"}
-      ],
-      "source_section": "Electromagnetic Induction"
-    },
-    {
       "id": "mtf013",
       "instruction": "Match the electromagnet applications with their purpose:",
       "pairs": [
@@ -168,18 +144,6 @@
         {"left": "Contact screw", "right": "Metal conductor"}
       ],
       "source_section": "The Electric Bell - Application of Electromagnet"
-    },
-    {
-      "id": "mtf015",
-      "instruction": "Match the energy conversions:",
-      "pairs": [
-        {"left": "Generator", "right": "Mechanical to electrical"},
-        {"left": "Motor", "right": "Electrical to mechanical"},
-        {"left": "Battery", "right": "Chemical to electrical"},
-        {"left": "Electric bell", "right": "Electrical to sound"},
-        {"left": "Electromagnet in crane", "right": "Electrical to magnetic"}
-      ],
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "mtf016",
@@ -242,7 +206,7 @@
       "source_section": "Introduction to Electromagnetism"
     }
   ],
-  "total_count": 20,
+  "total_count": 17,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"

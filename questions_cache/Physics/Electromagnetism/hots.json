@@ -92,24 +92,6 @@
       "source_section": "Electromagnetic Induction"
     },
     {
-      "id": "hots011",
-      "question": "Faraday discovered electromagnetic induction in 1831. How did this discovery change the world?",
-      "context": "Understanding the historical impact of scientific discovery.",
-      "answer": "Faraday's discovery revolutionized the world by enabling the generation of electricity on a large scale. It led to the invention of generators which convert mechanical energy to electrical energy. This made electric power available to homes and industries, powering everything from lights to machines. Transformers, motors, and the entire electrical power grid are all based on his discovery.",
-      "key_points": ["Enabled large-scale electricity generation", "Led to generators and transformers", "Powered industrial revolution"],
-      "keywords": ["Faraday", "1831", "generator", "transformer", "electricity"],
-      "source_section": "Physics Extra - Michael Faraday"
-    },
-    {
-      "id": "hots012",
-      "question": "A galvanometer is more suitable than an ammeter for detecting induced current in a simple electromagnetic induction experiment. Why?",
-      "context": "Understanding instrument selection in experiments.",
-      "answer": "A galvanometer is more suitable because: (1) It is more sensitive than an ammeter and can detect very small currents - induced currents in simple experiments are typically small. (2) It can show the direction of current flow, helping understand how current direction changes with motion direction. (3) It responds quickly to small changes in current.",
-      "key_points": ["More sensitive than ammeter", "Can detect small currents", "Shows current direction"],
-      "keywords": ["galvanometer", "ammeter", "sensitive", "induced current"],
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
       "id": "hots013",
       "question": "In an electric bell, if the spring is removed, what would happen when the push button is pressed?",
       "context": "Analyzing the role of spring in bell mechanism.",
@@ -119,15 +101,6 @@
       "source_section": "The Electric Bell - Application of Electromagnet"
     },
     {
-      "id": "hots014",
-      "question": "Why can't transformers work with direct current (DC)? What type of current do they need?",
-      "context": "Understanding transformer operation requirements.",
-      "answer": "Transformers cannot work with DC because electromagnetic induction requires a changing magnetic field. DC provides constant current, which creates a constant magnetic field in the primary coil. A constant field cannot induce current in the secondary coil. Transformers need alternating current (AC) because AC constantly changes direction, creating a continuously changing magnetic field that can induce current.",
-      "key_points": ["DC creates constant field", "Constant field can't induce current", "AC creates changing field", "Transformers need AC"],
-      "keywords": ["transformer", "DC", "AC", "changing field", "constant"],
-      "source_section": "Electromagnetic Induction"
-    },
-    {
       "id": "hots015",
       "question": "A student wants to increase the number of paper clips an electromagnet can pick up. What two things can the student do without changing the core or wire?",
       "context": "Practical application of factors affecting electromagnet strength.",
@@ -135,15 +108,6 @@
       "key_points": ["Increase current (more batteries)", "Increase number of turns", "Both directly proportional to strength"],
       "keywords": ["current", "turns", "batteries", "strength", "paper clips"],
       "source_section": "Factors Affecting Strength of Electromagnet"
-    },
-    {
-      "id": "hots016",
-      "question": "Magnetic lines of force never intersect each other. What would it mean if they did intersect?",
-      "context": "Understanding properties of magnetic field lines.",
-      "answer": "If magnetic lines of force intersected, it would mean that at the point of intersection, there would be two different directions of the magnetic field. This is impossible because the magnetic field can have only one direction at any given point. A compass placed at that point would have to point in two directions simultaneously, which is physically impossible. Hence, magnetic lines never intersect.",
-      "key_points": ["Two directions at one point impossible", "Compass can only point one way", "Field has single direction at each point"],
-      "keywords": ["magnetic lines", "intersect", "direction", "impossible"],
-      "source_section": "Physics Extra - Evaluation"
     },
     {
       "id": "hots017",
@@ -162,15 +126,6 @@
       "key_points": ["Only iron becomes electromagnet", "Iron is magnetic material", "Copper is non-magnetic", "Core must be magnetic material"],
       "keywords": ["iron", "copper", "magnetic", "non-magnetic", "core"],
       "source_section": "Introduction to Electromagnetism"
-    },
-    {
-      "id": "hots019",
-      "question": "Electric generators and electric motors have similar components but do opposite things. Explain this relationship.",
-      "context": "Understanding the reversibility of electromagnetic devices.",
-      "answer": "Generators and motors are reverse of each other: A generator receives mechanical energy (rotation) and uses electromagnetic induction to produce electrical energy. A motor receives electrical energy and uses the magnetic effect of current to produce mechanical energy (rotation). They have similar components (coil, magnet, connections) but work on opposite principles. In fact, a generator can work as a motor and vice versa depending on what input is provided.",
-      "key_points": ["Generator: mechanical to electrical", "Motor: electrical to mechanical", "Same components, opposite function", "Reversible operation"],
-      "keywords": ["generator", "motor", "mechanical", "electrical", "reversible"],
-      "source_section": "Electromagnetic Induction"
     },
     {
       "id": "hots020",
@@ -227,7 +182,7 @@
       "source_section": "The Electric Bell - Application of Electromagnet"
     }
   ],
-  "total_count": 25,
+  "total_count": 20,
   "generated_at": "2025-01-15T12:00:00",
   "subject": "Physics",
   "chapter": "Electromagnetism"
