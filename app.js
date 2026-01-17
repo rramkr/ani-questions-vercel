@@ -573,13 +573,13 @@ async function loadSections(chapter) {
     showLoading(false);
 }
 
-async function loadQuestions(type, offset = 0) {
+async function loadQuestions(type, offset = 0, isTextbookSection = false) {
     showLoading(true);
     try {
         let allQuestions;
 
-        // Check if this is textbook Q&A - show all at once, no shuffling
-        const isTextbook = type.value === 'textbook_qa';
+        // Check if this is from textbook section - show all at once, no shuffling
+        const isTextbook = isTextbookSection || type.value === 'textbook_qa';
 
         // For offset > 0, use already stored shuffled questions
         if (offset > 0 && state.allQuestions && state.allQuestions.length > 0) {
@@ -626,6 +626,7 @@ async function loadQuestions(type, offset = 0) {
             state.allQuestionsAnswered = false;
             state.showAllMode = false; // Reset show all mode
             state.allQuestions = allQuestions; // Store all for pagination
+            state.isTextbookMode = isTextbook; // Store textbook flag
         } else {
             // For "Try More", replace questions with new batch (not append)
             state.questions = processedQuestions;
@@ -1243,8 +1244,11 @@ function renderSectionTypes(container, types, sectionId) {
         return;
     }
 
+    // Check if this is the textbook section - show all questions at once
+    const isTextbookSection = sectionId === 'textbook-section';
+
     container.innerHTML = types.map(type => `
-        <div class="type-item" onclick="loadQuestions(${JSON.stringify(type).replace(/"/g, '&quot;')})">
+        <div class="type-item" onclick="loadQuestions(${JSON.stringify(type).replace(/"/g, '&quot;')}, 0, ${isTextbookSection})">
             <span class="type-icon">${type.icon}</span>
             <span class="type-label">${type.label}</span>
         </div>
