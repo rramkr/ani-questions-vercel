@@ -89,16 +89,38 @@ elements.appTitle.addEventListener('click', () => {
     updateHash();
 });
 
-// Initialize
-init();
+// Initialize when DOM is ready
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+} else {
+    init();
+}
 
 async function init() {
     showLoading(true);
-    await loadSubjects();
-    showLoading(false);
 
-    // Handle initial URL hash on page load
-    await handleHashChange();
+    // Load subjects first
+    await loadSubjects();
+
+    // Check if there's a hash to restore (or fallback to sessionStorage)
+    let hash = window.location.hash.slice(1);
+
+    // If no hash, check sessionStorage backup
+    if (!hash) {
+        const savedNav = sessionStorage.getItem('quizAppNav');
+        if (savedNav) {
+            hash = savedNav;
+            // Restore the hash in URL
+            history.replaceState(null, '', `#${hash}`);
+        }
+    }
+
+    if (hash) {
+        // Try to restore state from hash
+        await handleHashChange();
+    }
+
+    showLoading(false);
 
     // Listen for hash changes (back/forward buttons)
     window.addEventListener('hashchange', handleHashChange);
@@ -122,8 +144,15 @@ function updateHash() {
 
     // Update URL without triggering hashchange event
     const newUrl = hash ? `#${hash}` : window.location.pathname;
-    if (window.location.hash !== `#${hash}`) {
+    if (window.location.hash !== `#${hash}` && window.location.hash !== (hash ? `#${hash}` : '')) {
         history.replaceState(null, '', newUrl);
+    }
+
+    // Also save to sessionStorage as backup
+    if (hash) {
+        sessionStorage.setItem('quizAppNav', hash);
+    } else {
+        sessionStorage.removeItem('quizAppNav');
     }
 }
 
@@ -826,8 +855,8 @@ function renderChapters(chapters) {
     }
 
     elements.chaptersList.innerHTML = motivationalBanner + availableChapters.map((chapter, index) => {
-        const chapterEmojis = ['📚', '⚡', '🔬', '🧪', '🌟', '💡', '🎓', '📖'];
-        const emoji = chapterEmojis[index % chapterEmojis.length];
+        // Use icon from chapter data, fallback to default
+        const emoji = chapter.icon || '📚';
 
         return `
             <div class="chapter-item"

@@ -4,27 +4,32 @@
     {
       "name": "Electricity",
       "slug": "electricity",
-      "has_questions": true
+      "has_questions": true,
+      "icon": "⚡"
     },
     {
       "name": "Electromagnetism",
       "slug": "electromagnetism",
-      "has_questions": true
+      "has_questions": true,
+      "icon": "🧲"
     },
     {
       "name": "Sound",
       "slug": "sound",
-      "has_questions": true
+      "has_questions": true,
+      "icon": "🔊"
     },
     {
       "name": "Energy",
       "slug": "energy",
-      "has_questions": true
+      "has_questions": true,
+      "icon": "🔋"
     },
     {
       "name": "Physical Quantities",
       "slug": "Physical Quantities",
-      "has_questions": true
+      "has_questions": true,
+      "icon": "📏"
     }
   ]
 }
