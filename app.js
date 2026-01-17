@@ -578,6 +578,9 @@ async function loadQuestions(type, offset = 0) {
     try {
         let allQuestions;
 
+        // Check if this is textbook Q&A - show all at once, no shuffling
+        const isTextbook = type.value === 'textbook_qa';
+
         // For offset > 0, use already stored shuffled questions
         if (offset > 0 && state.allQuestions && state.allQuestions.length > 0) {
             allQuestions = state.allQuestions;
@@ -596,12 +599,19 @@ async function loadQuestions(type, offset = 0) {
             const data = await response.json();
             allQuestions = data.questions || [];
 
-            // Shuffle questions only once on first load
-            allQuestions = shuffleArray([...allQuestions]);
+            // For textbook Q&A: keep original order. For others: shuffle
+            if (!isTextbook) {
+                allQuestions = shuffleArray([...allQuestions]);
+            }
         }
 
-        // Get batch based on offset
-        const batchQuestions = allQuestions.slice(offset, offset + QUESTIONS_PER_BATCH);
+        // For textbook Q&A: show ALL questions. For others: batch by QUESTIONS_PER_BATCH
+        let batchQuestions;
+        if (isTextbook) {
+            batchQuestions = allQuestions; // Show all textbook questions at once
+        } else {
+            batchQuestions = allQuestions.slice(offset, offset + QUESTIONS_PER_BATCH);
+        }
 
         // Process questions to match expected format
         const processedQuestions = batchQuestions.map(q => processQuestion(q, type.value));
@@ -627,8 +637,8 @@ async function loadQuestions(type, offset = 0) {
             state.showAllMode = false;
         }
 
-        state.currentOffset = offset + batchQuestions.length;
-        state.hasMore = (offset + QUESTIONS_PER_BATCH) < allQuestions.length;
+        state.currentOffset = isTextbook ? allQuestions.length : offset + batchQuestions.length;
+        state.hasMore = isTextbook ? false : (offset + QUESTIONS_PER_BATCH) < allQuestions.length;
 
         renderQuiz();
         showView('quiz');
