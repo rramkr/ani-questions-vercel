@@ -432,14 +432,24 @@ function processQuestion(q, questionType) {
         processed.right_items = shuffleArray(pairs.map(p => p.right));
         processed.pairs = pairs;
     } else if (questionType === 'give_reason') {
-        processed.question = `Give reason: ${q.statement || ''}`;
+        // Handle both naming conventions: statement/question
+        const statement = q.statement || q.question || '';
+        processed.question = `Give reason: ${statement}`;
         processed.correct_answer = q.reason || q.answer || '';
         processed.key_points = q.key_points || [];
     } else if (questionType === 'differentiate_between') {
-        processed.question = `Differentiate between ${q.concept_a || ''} and ${q.concept_b || ''}`;
-        processed.differences = q.differences || [];
-        processed.concept_a = q.concept_a;
-        processed.concept_b = q.concept_b;
+        // Handle both naming conventions: term1/term2 and concept_a/concept_b
+        const conceptA = q.term1 || q.concept_a || '';
+        const conceptB = q.term2 || q.concept_b || '';
+        processed.question = `Differentiate between ${conceptA} and ${conceptB}`;
+        // Map differences to use consistent naming
+        processed.differences = (q.differences || []).map(d => ({
+            aspect: d.aspect || '',
+            concept_a_point: d.term1_point || d.concept_a_point || '',
+            concept_b_point: d.term2_point || d.concept_b_point || ''
+        }));
+        processed.concept_a = conceptA;
+        processed.concept_b = conceptB;
     } else if (questionType === 'case_study') {
         processed.question = q.case_text || q.question || '';
         processed.sub_questions = q.questions || [];
@@ -920,20 +930,24 @@ function renderMCQQuestion(q, index, showUnansweredHighlight = false) {
     const options = q.options || [];
     const userAnswer = state.userAnswers[q.id] || '';
     const isRevealed = state.answersRevealed;
+    const qType = q.type || 'mcq';
 
     return `
         <div class="question-text">${q.question}</div>
         <div class="mcq-options ${showUnansweredHighlight ? 'unanswered-input' : ''}">
             ${options.map((opt, i) => {
                 const isSelected = userAnswer === opt;
-                const isCorrect = opt === q.correct_answer;
+                // For assertion-reason, compare by first letter
+                const isCorrectOption = qType === 'assertion_reason'
+                    ? opt.trim().charAt(0).toUpperCase() === (q.correct_answer || '').trim().charAt(0).toUpperCase()
+                    : opt === q.correct_answer;
                 let optionClass = '';
                 if (isRevealed && isSelected) {
-                    optionClass = isCorrect ? 'selected-correct' : 'selected-incorrect';
+                    optionClass = isCorrectOption ? 'selected-correct' : 'selected-incorrect';
                 }
                 return `
                 <label class="option-label ${optionClass}">
-                    <input type="radio" name="q-${q.id}" value="${opt}" ${isSelected ? 'checked' : ''} onchange="saveAnswer('${q.id}', this.value)" ${isRevealed ? 'disabled' : ''}>
+                    <input type="radio" name="q-${q.id}" value="${opt}" ${isSelected ? 'checked' : ''} onchange="handleAnswerChange('${q.id}', this.value)">
                     <span class="option-text">${opt}</span>
                     ${isRevealed && isSelected ? `<span class="your-choice-marker">← Your answer</span>` : ''}
                 </label>
@@ -949,19 +963,21 @@ function renderTrueFalseQuestion(q, index, showUnansweredHighlight = false) {
 
     const getTFClass = (option) => {
         if (!isRevealed || userAnswer !== option) return '';
-        return userAnswer === correctAnswer ? 'selected-correct' : 'selected-incorrect';
+        const correctBool = correctAnswer === true || correctAnswer === 'True' || correctAnswer === 'true';
+        const isCorrect = (option === 'True' && correctBool) || (option === 'False' && !correctBool);
+        return isCorrect ? 'selected-correct' : 'selected-incorrect';
     };
 
     return `
         <div class="question-text">${q.question}</div>
         <div class="tf-options ${showUnansweredHighlight ? 'unanswered-input' : ''}">
             <label class="tf-label ${getTFClass('True')}">
-                <input type="radio" name="q-${q.id}" value="True" ${userAnswer === 'True' ? 'checked' : ''} onchange="saveAnswer('${q.id}', 'True')" ${isRevealed ? 'disabled' : ''}>
+                <input type="radio" name="q-${q.id}" value="True" ${userAnswer === 'True' ? 'checked' : ''} onchange="handleAnswerChange('${q.id}', 'True')">
                 <span>True</span>
                 ${isRevealed && userAnswer === 'True' ? `<span class="your-choice-marker">← Your answer</span>` : ''}
             </label>
             <label class="tf-label ${getTFClass('False')}">
-                <input type="radio" name="q-${q.id}" value="False" ${userAnswer === 'False' ? 'checked' : ''} onchange="saveAnswer('${q.id}', 'False')" ${isRevealed ? 'disabled' : ''}>
+                <input type="radio" name="q-${q.id}" value="False" ${userAnswer === 'False' ? 'checked' : ''} onchange="handleAnswerChange('${q.id}', 'False')">
                 <span>False</span>
                 ${isRevealed && userAnswer === 'False' ? `<span class="your-choice-marker">← Your answer</span>` : ''}
             </label>
@@ -978,9 +994,8 @@ function renderTextInputQuestion(q, index, showUnansweredHighlight = false) {
         <input type="text" class="text-input ${showUnansweredHighlight ? 'unanswered-input' : ''}"
                placeholder="Type your answer..."
                value="${userAnswer.replace(/"/g, '&quot;')}"
-               onchange="saveAnswer('${q.id}', this.value)"
-               id="input-${q.id}"
-               ${isRevealed ? 'disabled' : ''}>
+               onchange="handleAnswerChange('${q.id}', this.value)"
+               id="input-${q.id}">
         ${isRevealed && userAnswer ? `<div class="your-typed-answer">Your answer: <strong>${userAnswer}</strong></div>` : ''}
     `;
 }
@@ -1014,7 +1029,7 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
                         }
                         return `
                         <label class="option-label ${optionClass}">
-                            <input type="radio" name="q-${q.id}" value="${opt}" ${isSelected ? 'checked' : ''} onchange="saveAnswer('${q.id}', this.value)" ${isRevealed ? 'disabled' : ''}>
+                            <input type="radio" name="q-${q.id}" value="${opt}" ${isSelected ? 'checked' : ''} onchange="handleAnswerChange('${q.id}', this.value)">
                             <span class="option-text">${opt}</span>
                             ${isRevealed && isSelected ? `<span class="your-choice-marker">← Your answer</span>` : ''}
                         </label>
@@ -1030,9 +1045,8 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
         <div class="question-text">${q.question}</div>
         <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}"
                   placeholder="Type your answer..."
-                  onchange="saveAnswer('${q.id}', this.value)"
-                  id="input-${q.id}"
-                  ${isRevealed ? 'disabled' : ''}>${userAnswer}</textarea>
+                  onchange="handleAnswerChange('${q.id}', this.value)"
+                  id="input-${q.id}">${userAnswer}</textarea>
         ${isRevealed && userAnswer ? `<div class="your-typed-answer">Your answer: <strong>${userAnswer}</strong></div>` : ''}
     `;
 }
@@ -1040,6 +1054,7 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
 function renderMatchQuestion(q, index, showUnansweredHighlight = false) {
     const leftItems = q.left_items || [];
     const rightItems = q.right_items || [];
+    const userAnswer = state.userAnswers[q.id] || '';
     return `
         <div class="question-text">${q.question}</div>
         <div class="match-grid">
@@ -1059,21 +1074,24 @@ function renderMatchQuestion(q, index, showUnansweredHighlight = false) {
         <div class="match-input">
             <label>Enter matches (e.g., 1-A, 2-B, 3-C...):</label>
             <input type="text" class="text-input ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="1-A, 2-B, 3-C, 4-D, 5-E"
-                   onchange="saveAnswer('${q.id}', this.value)">
+                   value="${userAnswer.replace(/"/g, '&quot;')}"
+                   onchange="handleAnswerChange('${q.id}', this.value)">
         </div>
     `;
 }
 
 function renderDifferentiateQuestion(q, index, showUnansweredHighlight = false) {
+    const userAnswer = state.userAnswers[q.id] || '';
     return `
         <div class="question-text">${q.question}</div>
         <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="Write the differences..."
-                  onchange="saveAnswer('${q.id}', this.value)"></textarea>
+                  onchange="handleAnswerChange('${q.id}', this.value)">${userAnswer}</textarea>
     `;
 }
 
 function renderNumericalQuestion(q, index, showUnansweredHighlight = false) {
     const givenData = q.given_data || [];
+    const userAnswer = state.userAnswers[q.id] || '';
     return `
         <div class="question-text">${q.question}</div>
         ${givenData.length > 0 ? `
@@ -1083,12 +1101,13 @@ function renderNumericalQuestion(q, index, showUnansweredHighlight = false) {
         ` : ''}
         ${q.formula ? `<div class="formula"><strong>Formula:</strong> ${q.formula}</div>` : ''}
         <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="Show your working and answer..."
-                  onchange="saveAnswer('${q.id}', this.value)"></textarea>
+                  onchange="handleAnswerChange('${q.id}', this.value)">${userAnswer}</textarea>
     `;
 }
 
 function renderCaseStudyQuestion(q, index, showUnansweredHighlight = false) {
     const subQuestions = q.sub_questions || [];
+    const userAnswers = state.userAnswers[q.id] || {};
     return `
         <div class="case-text">${q.question}</div>
         <div class="sub-questions">
@@ -1096,7 +1115,7 @@ function renderCaseStudyQuestion(q, index, showUnansweredHighlight = false) {
                 <div class="sub-question">
                     <span class="sub-q-num">(${String.fromCharCode(97 + i)})</span> ${sq.question}
                     <textarea class="text-area small ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="Your answer..."
-                              onchange="saveSubAnswer('${q.id}', ${i}, this.value)"></textarea>
+                              onchange="handleSubAnswerChange('${q.id}', ${i}, this.value)">${userAnswers[i] || ''}</textarea>
                 </div>
             `).join('')}
         </div>
@@ -1463,6 +1482,28 @@ function saveSubAnswer(questionId, subIndex, answer) {
     state.userAnswers[questionId][subIndex] = answer;
 }
 
+// New handlers that re-render the specific question when answers are revealed
+function handleAnswerChange(questionId, answer) {
+    state.userAnswers[questionId] = answer;
+
+    // If answers are already revealed, re-render to show the answer for this question
+    if (state.answersRevealed) {
+        renderQuiz();
+    }
+}
+
+function handleSubAnswerChange(questionId, subIndex, answer) {
+    if (!state.userAnswers[questionId]) {
+        state.userAnswers[questionId] = {};
+    }
+    state.userAnswers[questionId][subIndex] = answer;
+
+    // If answers are already revealed, re-render to show the answer for this question
+    if (state.answersRevealed) {
+        renderQuiz();
+    }
+}
+
 function showEmptyState(message) {
     elements.emptyState.style.display = 'block';
     elements.emptyMessage.textContent = message;
@@ -1476,3 +1517,5 @@ window.loadQuestions = loadQuestions;
 window.showView = showView;
 window.saveAnswer = saveAnswer;
 window.saveSubAnswer = saveSubAnswer;
+window.handleAnswerChange = handleAnswerChange;
+window.handleSubAnswerChange = handleSubAnswerChange;
