@@ -137,76 +137,88 @@ async function handleHashChange() {
         return;
     }
 
-    const parts = hash.split('/').map(p => decodeURIComponent(p));
+    try {
+        const parts = hash.split('/').map(p => decodeURIComponent(p));
 
-    if (parts.length >= 1 && parts[0]) {
-        // Find subject
-        const subjectName = parts[0];
-        const subjectsResponse = await fetch(`${GITHUB_BASE_URL}/subjects.json`);
-        const subjectsData = await subjectsResponse.json();
-        const subject = subjectsData.subjects.find(s => s.name === subjectName);
+        if (parts.length >= 1 && parts[0]) {
+            // Find subject
+            const subjectName = parts[0];
+            const subjectsResponse = await fetch(`${GITHUB_BASE_URL}/subjects.json`);
+            if (!subjectsResponse.ok) throw new Error('Failed to load subjects');
+            const subjectsData = await subjectsResponse.json();
+            const subject = subjectsData.subjects.find(s => s.name === subjectName);
 
-        if (!subject) {
-            resetState();
-            showView('subjects');
-            return;
-        }
-
-        // Load chapters for this subject
-        const subjectFolder = subject.name.replace(/ /g, '_');
-        const chaptersResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/chapters.json`);
-        const chaptersData = await chaptersResponse.json();
-        state.currentSubject = subject;
-
-        if (parts.length >= 2 && parts[1]) {
-            // Find chapter
-            const chapterName = parts[1];
-            const chapter = chaptersData.chapters.find(c => c.name === chapterName);
-
-            if (!chapter || !chapter.has_questions) {
-                renderChapters(chaptersData.chapters);
-                showView('chapters');
+            if (!subject) {
+                resetState();
+                showView('subjects');
                 return;
             }
 
-            state.currentChapter = chapter;
+            // Load chapters for this subject
+            const subjectFolder = subject.name.replace(/ /g, '_');
+            const chaptersResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/chapters.json`);
+            if (!chaptersResponse.ok) throw new Error('Failed to load chapters');
+            const chaptersData = await chaptersResponse.json();
+            state.currentSubject = subject;
 
-            // Load sections
-            const chapterFolder = chapter.name.replace(/ /g, '_');
-            const sectionsResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/sections.json`);
+            if (parts.length >= 2 && parts[1]) {
+                // Find chapter
+                const chapterName = parts[1];
+                const chapter = chaptersData.chapters.find(c => c.name === chapterName);
 
-            if (!sectionsResponse.ok) {
-                renderChapters(chaptersData.chapters);
-                showView('chapters');
-                return;
-            }
-
-            const sectionsData = await sectionsResponse.json();
-
-            if (parts.length >= 3 && parts[2]) {
-                // Find question type and load quiz
-                const typeValue = parts[2];
-                const allTypes = [
-                    ...(sectionsData.sections.textbook || []),
-                    ...(sectionsData.sections.exam || []),
-                    ...(sectionsData.sections.miscellaneous || [])
-                ];
-                const questionType = allTypes.find(t => t.value === typeValue);
-
-                if (questionType) {
-                    await loadQuestions(questionType, 0);
+                if (!chapter || !chapter.has_questions) {
+                    renderChapters(chaptersData.chapters);
+                    showView('chapters');
+                    updateHash();
                     return;
                 }
-            }
 
-            // Show sections view
-            renderSections(sectionsData.sections);
-            showView('sections');
-        } else {
-            // Show chapters view
-            renderChapters(chaptersData.chapters);
-            showView('chapters');
+                state.currentChapter = chapter;
+
+                // Load sections
+                const chapterFolder = chapter.name.replace(/ /g, '_');
+                const sectionsResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/sections.json`);
+
+                if (!sectionsResponse.ok) {
+                    renderChapters(chaptersData.chapters);
+                    showView('chapters');
+                    updateHash();
+                    return;
+                }
+
+                const sectionsData = await sectionsResponse.json();
+
+                if (parts.length >= 3 && parts[2]) {
+                    // Find question type and load quiz
+                    const typeValue = parts[2];
+                    const allTypes = [
+                        ...(sectionsData.sections.textbook || []),
+                        ...(sectionsData.sections.exam || []),
+                        ...(sectionsData.sections.miscellaneous || [])
+                    ];
+                    const questionType = allTypes.find(t => t.value === typeValue);
+
+                    if (questionType) {
+                        await loadQuestions(questionType, 0);
+                        return;
+                    }
+                }
+
+                // Show sections view
+                renderSections(sectionsData.sections);
+                showView('sections');
+            } else {
+                // Show chapters view
+                renderChapters(chaptersData.chapters);
+                showView('chapters');
+            }
         }
+    } catch (error) {
+        console.error('Error in hash navigation:', error);
+        // Fall back to subjects view on error
+        resetState();
+        showView('subjects');
+        updateHash();
     }
 }
 
@@ -225,18 +237,42 @@ function updateBreadcrumb(viewName) {
     let breadcrumb = '';
 
     if (viewName === 'chapters' || viewName === 'sections' || viewName === 'quiz') {
-        breadcrumb += `<a href="#" onclick="showView('subjects'); return false;">Subjects</a>`;
+        breadcrumb += `<a href="#" onclick="navigateTo('subjects'); return false;">Subjects</a>`;
     }
 
     if ((viewName === 'sections' || viewName === 'quiz') && state.currentSubject) {
-        breadcrumb += `<span>></span><a href="#" onclick="showView('chapters'); return false;">${state.currentSubject.name}</a>`;
+        breadcrumb += `<span>></span><a href="#" onclick="navigateTo('chapters'); return false;">${state.currentSubject.name}</a>`;
     }
 
     if (viewName === 'quiz' && state.currentChapter) {
-        breadcrumb += `<span>></span><a href="#" onclick="showView('sections'); return false;">${state.currentChapter.name}</a>`;
+        breadcrumb += `<span>></span><a href="#" onclick="navigateTo('sections'); return false;">${state.currentChapter.name}</a>`;
     }
 
     elements.breadcrumb.innerHTML = breadcrumb;
+}
+
+// Proper navigation function for breadcrumbs that updates state and hash
+function navigateTo(viewName) {
+    if (viewName === 'subjects') {
+        resetState();
+        showView('subjects');
+        updateHash();
+    } else if (viewName === 'chapters') {
+        state.currentChapter = null;
+        state.currentType = null;
+        state.questions = [];
+        state.answersRevealed = false;
+        state.userAnswers = {};
+        showView('chapters');
+        updateHash();
+    } else if (viewName === 'sections') {
+        state.currentType = null;
+        state.questions = [];
+        state.answersRevealed = false;
+        state.userAnswers = {};
+        showView('sections');
+        updateHash();
+    }
 }
 
 function resetState() {
@@ -947,7 +983,7 @@ function renderMCQQuestion(q, index, showUnansweredHighlight = false) {
                 }
                 return `
                 <label class="option-label ${optionClass}">
-                    <input type="radio" name="q-${q.id}" value="${opt}" ${isSelected ? 'checked' : ''} onchange="handleAnswerChange('${q.id}', this.value)">
+                    <input type="radio" name="q-${q.id}" value="${escapeHtml(opt)}" ${isSelected ? 'checked' : ''} onchange="handleAnswerChange('${q.id}', this.value)">
                     <span class="option-text">${opt}</span>
                     ${isRevealed && isSelected ? `<span class="your-choice-marker">← Your answer</span>` : ''}
                 </label>
@@ -993,10 +1029,10 @@ function renderTextInputQuestion(q, index, showUnansweredHighlight = false) {
         <div class="question-text">${q.question}</div>
         <input type="text" class="text-input ${showUnansweredHighlight ? 'unanswered-input' : ''}"
                placeholder="Type your answer..."
-               value="${userAnswer.replace(/"/g, '&quot;')}"
-               onchange="handleAnswerChange('${q.id}', this.value)"
+               value="${escapeHtml(userAnswer)}"
+               oninput="handleAnswerChange('${q.id}', this.value)"
                id="input-${q.id}">
-        ${isRevealed && userAnswer ? `<div class="your-typed-answer">Your answer: <strong>${userAnswer}</strong></div>` : ''}
+        ${isRevealed && userAnswer ? `<div class="your-typed-answer">Your answer: <strong>${escapeHtml(userAnswer)}</strong></div>` : ''}
     `;
 }
 
@@ -1029,7 +1065,7 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
                         }
                         return `
                         <label class="option-label ${optionClass}">
-                            <input type="radio" name="q-${q.id}" value="${opt}" ${isSelected ? 'checked' : ''} onchange="handleAnswerChange('${q.id}', this.value)">
+                            <input type="radio" name="q-${q.id}" value="${escapeHtml(opt)}" ${isSelected ? 'checked' : ''} onchange="handleAnswerChange('${q.id}', this.value)">
                             <span class="option-text">${opt}</span>
                             ${isRevealed && isSelected ? `<span class="your-choice-marker">← Your answer</span>` : ''}
                         </label>
@@ -1045,9 +1081,9 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
         <div class="question-text">${q.question}</div>
         <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}"
                   placeholder="Type your answer..."
-                  onchange="handleAnswerChange('${q.id}', this.value)"
-                  id="input-${q.id}">${userAnswer}</textarea>
-        ${isRevealed && userAnswer ? `<div class="your-typed-answer">Your answer: <strong>${userAnswer}</strong></div>` : ''}
+                  oninput="handleAnswerChange('${q.id}', this.value)"
+                  id="input-${q.id}">${escapeHtml(userAnswer)}</textarea>
+        ${isRevealed && userAnswer ? `<div class="your-typed-answer">Your answer: <strong>${escapeHtml(userAnswer)}</strong></div>` : ''}
     `;
 }
 
@@ -1074,8 +1110,8 @@ function renderMatchQuestion(q, index, showUnansweredHighlight = false) {
         <div class="match-input">
             <label>Enter matches (e.g., 1-A, 2-B, 3-C...):</label>
             <input type="text" class="text-input ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="1-A, 2-B, 3-C, 4-D, 5-E"
-                   value="${userAnswer.replace(/"/g, '&quot;')}"
-                   onchange="handleAnswerChange('${q.id}', this.value)">
+                   value="${escapeHtml(userAnswer)}"
+                   oninput="handleAnswerChange('${q.id}', this.value)">
         </div>
     `;
 }
@@ -1085,7 +1121,7 @@ function renderDifferentiateQuestion(q, index, showUnansweredHighlight = false) 
     return `
         <div class="question-text">${q.question}</div>
         <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="Write the differences..."
-                  onchange="handleAnswerChange('${q.id}', this.value)">${userAnswer}</textarea>
+                  oninput="handleAnswerChange('${q.id}', this.value)">${escapeHtml(userAnswer)}</textarea>
     `;
 }
 
@@ -1101,7 +1137,7 @@ function renderNumericalQuestion(q, index, showUnansweredHighlight = false) {
         ` : ''}
         ${q.formula ? `<div class="formula"><strong>Formula:</strong> ${q.formula}</div>` : ''}
         <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="Show your working and answer..."
-                  onchange="handleAnswerChange('${q.id}', this.value)">${userAnswer}</textarea>
+                  oninput="handleAnswerChange('${q.id}', this.value)">${escapeHtml(userAnswer)}</textarea>
     `;
 }
 
@@ -1115,7 +1151,7 @@ function renderCaseStudyQuestion(q, index, showUnansweredHighlight = false) {
                 <div class="sub-question">
                     <span class="sub-q-num">(${String.fromCharCode(97 + i)})</span> ${sq.question}
                     <textarea class="text-area small ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="Your answer..."
-                              onchange="handleSubAnswerChange('${q.id}', ${i}, this.value)">${userAnswers[i] || ''}</textarea>
+                              oninput="handleSubAnswerChange('${q.id}', ${i}, this.value)">${escapeHtml(userAnswers[i] || '')}</textarea>
                 </div>
             `).join('')}
         </div>
@@ -1471,6 +1507,16 @@ function renderCaseStudyAnswer(q) {
 }
 
 // Utility functions
+function escapeHtml(text) {
+    if (!text) return '';
+    return String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+}
+
 function saveAnswer(questionId, answer) {
     state.userAnswers[questionId] = answer;
 }
@@ -1515,6 +1561,7 @@ window.loadChapters = loadChapters;
 window.loadSections = loadSections;
 window.loadQuestions = loadQuestions;
 window.showView = showView;
+window.navigateTo = navigateTo;
 window.saveAnswer = saveAnswer;
 window.saveSubAnswer = saveSubAnswer;
 window.handleAnswerChange = handleAnswerChange;
