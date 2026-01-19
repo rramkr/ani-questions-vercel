@@ -1,3 +1,4 @@
+// Version: 2.0 - One-by-one question mode enabled
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
