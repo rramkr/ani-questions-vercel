@@ -1,4 +1,4 @@
-// Version: 2.0 - One-by-one question mode enabled
+// Version: 3.0 - Compact one-by-one mode, loads all questions, requires answer/reveal to proceed
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
@@ -613,13 +613,8 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
             }
         }
 
-        // For textbook Q&A: show ALL questions. For others: batch by QUESTIONS_PER_BATCH
-        let batchQuestions;
-        if (isTextbook) {
-            batchQuestions = allQuestions; // Show all textbook questions at once
-        } else {
-            batchQuestions = allQuestions.slice(offset, offset + QUESTIONS_PER_BATCH);
-        }
+        // Since we're in one-by-one mode, load ALL questions at once
+        let batchQuestions = allQuestions;
 
         // Process questions to match expected format
         const processedQuestions = batchQuestions.map(q => processQuestion(q, type.value));
@@ -653,8 +648,8 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
             state.currentAnswerRevealed = false;
         }
 
-        state.currentOffset = isTextbook ? allQuestions.length : offset + batchQuestions.length;
-        state.hasMore = isTextbook ? false : (offset + QUESTIONS_PER_BATCH) < allQuestions.length;
+        state.currentOffset = allQuestions.length;
+        state.hasMore = false; // No pagination in one-by-one mode
 
         renderQuiz();
         showView('quiz');
@@ -1331,64 +1326,60 @@ function renderOneByOneQuiz() {
     const isFirst = state.currentQuestionIndex === 0;
     const isLast = state.currentQuestionIndex === totalQuestions - 1;
 
+    // Check if user can proceed: must have answered OR revealed the answer
+    const hasAnswered = state.userAnswers[currentQuestion.id] !== undefined && state.userAnswers[currentQuestion.id] !== '';
+    const canProceed = hasAnswered || state.currentAnswerRevealed;
+
     elements.questionsContainer.innerHTML = `
-        <div class="one-by-one-container">
-            <div class="question-progress">
-                <span class="progress-text">Question ${currentNum} of ${totalQuestions}</span>
-                <div class="progress-bar">
+        <div class="one-by-one-container compact">
+            <div class="question-progress-compact">
+                <span class="progress-text">Q${currentNum} of ${totalQuestions}</span>
+                <div class="progress-bar-mini">
                     <div class="progress-fill" style="width: ${(currentNum / totalQuestions) * 100}%"></div>
                 </div>
             </div>
 
-            <div class="single-question-card">
-                <div class="question-header">
-                    <span class="question-badge">Q${currentNum}</span>
-                </div>
-                <div class="question-body">
+            <div class="single-question-card compact">
+                <div class="question-body compact">
                     ${questionContent}
                 </div>
 
                 ${!state.currentAnswerRevealed ? `
-                    <div class="see-answer-section">
-                        <button class="see-answer-btn" onclick="revealCurrentAnswer()">
-                            <span class="btn-icon">👁️</span> See Answer
+                    <div class="see-answer-section compact">
+                        <button class="see-answer-btn compact" onclick="revealCurrentAnswer()">
+                            👁️ See Answer
                         </button>
                     </div>
                 ` : `
-                    <div class="answer-revealed-section">
-                        <div class="answer-header">
-                            <span class="answer-badge">Answer</span>
-                        </div>
-                        <div class="answer-body">
+                    <div class="answer-revealed-section compact">
+                        <div class="answer-label">Answer:</div>
+                        <div class="answer-body compact">
                             ${answerContent}
                         </div>
                     </div>
                 `}
             </div>
 
-            <div class="navigation-buttons">
+            <div class="navigation-buttons compact">
                 <button class="nav-btn back-btn ${isFirst ? 'disabled' : ''}"
                         onclick="goToPreviousQuestion()"
                         ${isFirst ? 'disabled' : ''}>
-                    <span class="btn-icon">←</span> Back
+                    ← Back
                 </button>
 
                 ${isLast ? `
-                    <button class="nav-btn finish-btn" onclick="finishOneByOneQuiz()">
-                        Finish <span class="btn-icon">🏁</span>
+                    <button class="nav-btn finish-btn ${!canProceed ? 'disabled' : ''}"
+                            onclick="finishOneByOneQuiz()"
+                            ${!canProceed ? 'disabled' : ''}>
+                        Finish 🏁
                     </button>
                 ` : `
-                    <button class="nav-btn next-btn" onclick="goToNextQuestion()">
-                        Next <span class="btn-icon">→</span>
+                    <button class="nav-btn next-btn ${!canProceed ? 'disabled' : ''}"
+                            onclick="goToNextQuestion()"
+                            ${!canProceed ? 'disabled' : ''}>
+                        Next →
                     </button>
                 `}
-            </div>
-
-            <div class="question-dots">
-                ${state.questions.map((_, i) => `
-                    <span class="dot ${i === state.currentQuestionIndex ? 'active' : ''} ${state.userAnswers[state.questions[i].id] !== undefined ? 'answered' : ''}"
-                          onclick="goToQuestion(${i})"></span>
-                `).join('')}
             </div>
         </div>
     `;
