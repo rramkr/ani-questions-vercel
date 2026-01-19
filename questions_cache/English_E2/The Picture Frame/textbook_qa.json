@@ -1,5 +1,5 @@
 {
-  "subject": "English",
+  "subject": "English E2",
   "chapter": "The Picture Frame",
   "type": "textbook_qa",
   "questions": [
@@ -158,6 +158,108 @@
       "question": "Working with Words: Form adjectives and adverbs from the following nouns: beauty, wonder, skill, care.",
       "answer": "beauty - beautiful (adjective), beautifully (adverb)\nwonder - wonderful (adjective), wonderfully (adverb)\nskill - skilful/skillful (adjective), skilfully/skillfully (adverb)\ncare - careful (adjective), carefully (adverb)",
       "justification": "Adjectives describe nouns; adverbs describe verbs, adjectives, or other adverbs."
+    },
+    {
+      "id": "tpf_tb_27",
+      "question": "True or False: Mr and Mrs Barton lived in the USA.",
+      "answer": "False. Mr and Mrs Barton lived in a small seaside town in England, not in the USA.",
+      "justification": "The story clearly states they lived in a seaside town in England."
+    },
+    {
+      "id": "tpf_tb_28",
+      "question": "True or False: Mrs Barton did not like to go for walks.",
+      "answer": "True. The story mentions that Mrs Barton seldom went out with her husband and preferred to stay indoors, well away from the cold. She did not like to go for walks.",
+      "justification": "The text states she preferred to stay indoors and rarely accompanied her husband."
+    },
+    {
+      "id": "tpf_tb_29",
+      "question": "True or False: There was a brass elephant on the stall.",
+      "answer": "False. The story mentions a brass monkey on the stall, not a brass elephant.",
+      "justification": "The items listed include a brass monkey, not an elephant."
+    },
+    {
+      "id": "tpf_tb_30",
+      "question": "True or False: The stallholder had bought the mirror for two pounds.",
+      "answer": "True. At the end of the story, we learn that the stallholder had actually bought the mirror for only two pounds, though he claimed he paid ten pounds.",
+      "justification": "The story reveals his actual purchase price was two pounds."
+    },
+    {
+      "id": "tpf_tb_31",
+      "question": "True or False: The photograph was worth a lot of money.",
+      "answer": "False. It was the painting (not a photograph) that was worth a lot of money - about half a million pounds. The photograph of Mr. Barton's father was a personal treasure but not financially valuable.",
+      "justification": "The valuable item was the oil painting, not a photograph."
+    },
+    {
+      "id": "tpf_tb_32",
+      "question": "True or False: The painting was old and dirty.",
+      "answer": "True. When Mr. Barton first discovered the painting, it was described as old and covered in grime, with details that were not clear because of its dirty condition.",
+      "justification": "The painting was described as old and covered in grime."
+    },
+    {
+      "id": "tpf_tb_33",
+      "question": "True or False: Mr and Mrs Barton drove to the art gallery in their car.",
+      "answer": "False. The story does not mention them driving. It says they walked to the high street and went into an art gallery there.",
+      "justification": "The story mentions walking to the high street, not driving."
+    },
+    {
+      "id": "tpf_tb_34",
+      "question": "Reference to Context: 'Mr Barton felt the stallholder's gaze upon him and, rather abruptly, stopped caressing the frame.' - What does 'rather abruptly' mean?",
+      "answer": "'Rather abruptly' means suddenly and unexpectedly, without warning. Mr. Barton suddenly stopped touching the frame when he sensed the stallholder was watching him closely.",
+      "justification": "This question is from the textbook's Reference to Context section."
+    },
+    {
+      "id": "tpf_tb_35",
+      "question": "Reference to Context: 'Mr Barton felt the stallholder's gaze upon him and, rather abruptly, stopped caressing the frame.' - Why did Mr. Barton behave in this way?",
+      "answer": "Mr. Barton behaved this way because he did not want the stallholder to know how much he was interested in the frame. If the stallholder saw his enthusiasm, he might raise the price or refuse to negotiate. Mr. Barton pretended to be less interested to get a better deal.",
+      "justification": "This shows Mr. Barton's shrewd bargaining strategy."
+    },
+    {
+      "id": "tpf_tb_36",
+      "question": "Reference to Context: 'Mr Barton felt the stallholder's gaze upon him and, rather abruptly, stopped caressing the frame.' - What kind of a man was the stallholder?",
+      "answer": "The stallholder was a cunning and shrewd businessman. He was alert and observant, watching his customers closely. He was also dishonest - he lied about how much he paid for items to justify higher prices. He thought himself clever for selling 'rubbish' for profit and called Mr. Barton a 'silly old fool.'",
+      "justification": "The stallholder's character is revealed through his actions and the story's ending."
+    },
+    {
+      "id": "tpf_tb_37",
+      "question": "(HOTS) What kind of man was Mr Barton? Was he kind? Was he thoughtful? Make a list of his qualities and his weaknesses.",
+      "answer": "Mr. Barton's Qualities:\n1. Passionate - deeply loved antiques and old objects\n2. Patient - spent mornings searching for treasures\n3. Shrewd - skilled at bargaining and noticing value\n4. Careful and thorough - cleaned purchases lovingly\n5. Curious - examined things closely, leading to discoveries\n6. Appreciative - valued his possessions and memories\n7. Kind - wanted to help the stallholder who had 'fallen on hard times'\n\nWeaknesses:\n1. Sometimes stubborn - wife got upset about his purchases\n2. Impulsive - bought things that caused family tension\n3. Obsessive about antiques - prioritized hobby over family peace\n\nOverall, Mr. Barton was a thoughtful, kind gentleman whose genuine passion and careful nature brought him unexpected fortune.",
+      "justification": "This HOTS question requires analysis of character traits from the story."
+    },
+    {
+      "id": "tpf_tb_38",
+      "question": "Working with Words: Use the phrase 'liked nothing better' in a sentence.",
+      "answer": "Sentence: My grandfather liked nothing better than sitting in his rocking chair and telling stories about his childhood adventures.\n\nMeaning: This phrase means that something is one's favourite activity or brings the greatest pleasure.",
+      "justification": "This phrase appears in the story describing Mr. Barton's love for hunting antiques."
+    },
+    {
+      "id": "tpf_tb_39",
+      "question": "Working with Words: Use the phrase 'more than life itself' in a sentence.",
+      "answer": "Sentence: The mother protected her children more than life itself, always putting their safety before her own needs.\n\nMeaning: This phrase expresses the deepest possible devotion or love for something - valuing it even more than one's own life.",
+      "justification": "The story uses this phrase to describe how Mr. Barton treasured his father's portrait."
+    },
+    {
+      "id": "tpf_tb_40",
+      "question": "Working with Words: Use the phrase 'there was little left' in a sentence.",
+      "answer": "Sentence: After paying all the bills and expenses, there was little left in our savings account for the vacation.\n\nMeaning: This phrase indicates that only a small amount remains after other things have been taken care of.",
+      "justification": "The story uses this to describe the Bartons' modest financial situation."
+    },
+    {
+      "id": "tpf_tb_41",
+      "question": "Working with Words: Use the phrase 'done properly' in a sentence.",
+      "answer": "Sentence: The carpenter insisted that the furniture restoration be done properly, even if it took extra time.\n\nMeaning: This phrase means completing something correctly, thoroughly, and according to proper standards.",
+      "justification": "Mrs. Barton uses this phrase when suggesting they get the portrait framed professionally."
+    },
+    {
+      "id": "tpf_tb_42",
+      "question": "Working with Words: Use the phrase 'quite afraid' in a sentence.",
+      "answer": "Sentence: The young boy was quite afraid of the thunderstorm and hid under his blanket until it passed.\n\nMeaning: This phrase indicates a significant level of fear, though not extreme terror.",
+      "justification": "The story mentions Mr. Barton was quite afraid of his wife's reaction."
+    },
+    {
+      "id": "tpf_tb_43",
+      "question": "Working with Words: Use the phrase 'if I am not mistaken' in a sentence.",
+      "answer": "Sentence: If I am not mistaken, the museum closes at 5 PM on weekdays and stays open later on weekends.\n\nMeaning: This phrase is used to express polite uncertainty or to qualify a statement one believes to be true but isn't absolutely certain about.",
+      "justification": "The art gallery expert uses this phrase when identifying the valuable painting."
     }
   ]
 }
