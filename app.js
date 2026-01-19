@@ -1,4 +1,4 @@
-// Version: 3.7 - Wrong answers section moved to end, clearAllWrongAnswers function
+// Version: 3.8 - Per-user wrong answers tracking, Clear All button
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
@@ -37,19 +37,25 @@ const USERS = {
 // Current logged in user
 let currentUser = null;
 
-// Wrong answers tracking - stored in localStorage
-const WRONG_ANSWERS_KEY = 'aniQuiz_wrongAnswers';
+// Wrong answers tracking - stored in localStorage (per user)
+const WRONG_ANSWERS_KEY_PREFIX = 'aniQuiz_wrongAnswers_';
+
+// Get user-specific storage key
+function getWrongAnswersKey() {
+    const userEmail = currentUser?.email || 'anonymous';
+    return WRONG_ANSWERS_KEY_PREFIX + userEmail.replace(/[^a-zA-Z0-9]/g, '_');
+}
 
 function getWrongAnswers() {
     try {
-        return JSON.parse(localStorage.getItem(WRONG_ANSWERS_KEY)) || {};
+        return JSON.parse(localStorage.getItem(getWrongAnswersKey())) || {};
     } catch {
         return {};
     }
 }
 
 function saveWrongAnswers(data) {
-    localStorage.setItem(WRONG_ANSWERS_KEY, JSON.stringify(data));
+    localStorage.setItem(getWrongAnswersKey(), JSON.stringify(data));
 }
 
 function addWrongAnswer(subject, chapter, questionType, question) {
@@ -107,8 +113,30 @@ function getAllWrongAnswers() {
 }
 
 function clearAllWrongAnswers() {
-    localStorage.removeItem(WRONG_ANSWERS_KEY);
-    console.log('All wrong answers cleared!');
+    localStorage.removeItem(getWrongAnswersKey());
+    console.log('All wrong answers cleared for current user!');
+}
+
+// Clear wrong answers and refresh the sections view
+function clearWrongAnswersAndRefresh() {
+    if (confirm('Clear all wrong answers? This cannot be undone.')) {
+        clearAllWrongAnswers();
+        // Refresh the sections view to remove the wrong answers section
+        if (state.currentSubject && state.currentChapter) {
+            loadSections(state.currentChapter);
+        }
+    }
+}
+
+// Clear old global wrong answers (migration from old system)
+function migrateOldWrongAnswers() {
+    const oldKey = 'aniQuiz_wrongAnswers';
+    const oldData = localStorage.getItem(oldKey);
+    if (oldData) {
+        // Remove old global data - each user starts fresh
+        localStorage.removeItem(oldKey);
+        console.log('Old global wrong answers data removed. Each user now has their own tracking.');
+    }
 }
 
 // Check if user is logged in
@@ -299,6 +327,9 @@ async function init() {
     // User is logged in, show main app
     showMainApp();
     showLoading(true);
+
+    // Migrate from old global wrong answers to per-user system
+    migrateOldWrongAnswers();
 
     // Load subjects first
     await loadSubjects();
@@ -1203,11 +1234,15 @@ function renderSections(sections) {
 
         const wrongTypes = Object.keys(wrongAnswers);
         if (wrongTypes.length > 0) {
+            const totalWrongCount = wrongTypes.reduce((sum, type) => sum + wrongAnswers[type].length, 0);
             const wrongSection = document.createElement('div');
             wrongSection.id = 'wrong-answers-section';
             wrongSection.className = 'section-block wrong-answers-section';
             wrongSection.innerHTML = `
-                <h3 class="section-header">Practice Again (Questions you got wrong)</h3>
+                <div class="section-header-row">
+                    <h3 class="section-header">Practice Again (${totalWrongCount} questions you got wrong)</h3>
+                    <button class="clear-wrong-btn" onclick="clearWrongAnswersAndRefresh()">🗑️ Clear All</button>
+                </div>
                 <div class="section-types">
                     ${wrongTypes.map(type => {
                         const count = wrongAnswers[type].length;
@@ -1364,25 +1399,11 @@ function renderOneByOneQuiz() {
                     ${questionContent}
                     ${!state.currentAnswerRevealed ? `
                         <div class="action-buttons-inline">
-                            <button class="evaluate-btn inline ${!hasAnswered ? 'disabled' : ''}"
-                                    onclick="evaluateCurrentAnswer()"
-                                    ${!hasAnswered ? 'disabled' : ''}>
-                                🎯 Evaluate
-                            </button>
                             <button class="see-answer-btn inline" onclick="revealCurrentAnswer()">
                                 👁️ See Answer
                             </button>
                         </div>
                     ` : `
-                        ${state.currentEvaluation ? `
-                            <div class="evaluation-result">
-                                <div class="evaluation-header">🎯 Evaluation Result</div>
-                                <div class="evaluation-score ${getScoreClass(state.currentEvaluation.score || state.currentEvaluation.overallScore || '')}">${state.currentEvaluation.score || state.currentEvaluation.overallScore || ''}</div>
-                                <div class="evaluation-feedback">${state.currentEvaluation.feedback || ''}</div>
-                                ${state.currentEvaluation.wordCount ? `<div class="evaluation-detail">📝 Word count: ${state.currentEvaluation.wordCount}</div>` : ''}
-                                ${state.currentEvaluation.keyPointsCovered ? `<div class="evaluation-detail">📊 Key points covered: ${state.currentEvaluation.keyPointsCovered}</div>` : ''}
-                            </div>
-                        ` : ''}
                         <div class="answer-inline">
                             <span class="answer-label-inline">📖 Reference Answer:</span> ${answerContent}
                         </div>
@@ -2387,10 +2408,6 @@ function saveSubAnswer(questionId, subIndex, answer) {
 // Handlers for answer changes - save the answer and re-render to update button states
 function handleAnswerChange(questionId, answer) {
     state.userAnswers[questionId] = answer;
-    // Re-render in one-by-one mode to update Evaluate button state
-    if (state.oneByOneMode) {
-        renderQuiz();
-    }
 }
 
 function handleSubAnswerChange(questionId, subIndex, answer) {
@@ -2424,6 +2441,7 @@ window.loadSections = loadSections;
 window.loadQuestions = loadQuestions;
 window.loadWrongQuestions = loadWrongQuestions;
 window.clearAllWrongAnswers = clearAllWrongAnswers;
+window.clearWrongAnswersAndRefresh = clearWrongAnswersAndRefresh;
 window.showView = showView;
 window.navigateTo = navigateTo;
 window.saveAnswer = saveAnswer;

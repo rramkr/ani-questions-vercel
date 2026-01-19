@@ -12,6 +12,18 @@
       "slug": "The Picture Frame",
       "has_questions": true,
       "icon": "🖼️"
+    },
+    {
+      "name": "Shree Krishna Eating House",
+      "slug": "Shree Krishna Eating House",
+      "has_questions": true,
+      "icon": "🍽️"
+    },
+    {
+      "name": "The Listeners",
+      "slug": "The Listeners",
+      "has_questions": true,
+      "icon": "👻"
     }
   ]
 }

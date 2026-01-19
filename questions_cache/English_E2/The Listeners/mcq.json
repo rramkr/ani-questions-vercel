@@ -1,0 +1,252 @@
+{
+  "subject": "English E2",
+  "chapter": "The Listeners",
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "tl_mcq_1",
+      "question": "Who wrote the poem 'The Listeners'?",
+      "options": ["A. William Wordsworth", "B. Walter de la Mare", "C. Robert Frost", "D. John Keats"],
+      "correct_answer": "B. Walter de la Mare",
+      "explanation": "The poem 'The Listeners' was written by Walter de la Mare."
+    },
+    {
+      "id": "tl_mcq_2",
+      "question": "Where does the Traveller arrive in the poem?",
+      "options": ["A. A busy marketplace", "B. A castle by the sea", "C. A deserted house in a forest", "D. A village inn"],
+      "correct_answer": "C. A deserted house in a forest",
+      "explanation": "The Traveller arrives at a deserted house in a forest at night."
+    },
+    {
+      "id": "tl_mcq_3",
+      "question": "What time of day does the poem take place?",
+      "options": ["A. Early morning", "B. Afternoon", "C. Evening", "D. Night"],
+      "correct_answer": "D. Night",
+      "explanation": "The poem takes place at night, as indicated by the moonlit door."
+    },
+    {
+      "id": "tl_mcq_4",
+      "question": "What lights up the door in the poem?",
+      "options": ["A. Sunlight", "B. Torchlight", "C. Moonlight", "D. Candlelight"],
+      "correct_answer": "C. Moonlight",
+      "explanation": "The door is described as 'moonlit door', illuminated by moonlight."
+    },
+    {
+      "id": "tl_mcq_5",
+      "question": "What was the horse doing while the Traveller knocked?",
+      "options": ["A. Sleeping", "B. Eating grass", "C. Running away", "D. Neighing loudly"],
+      "correct_answer": "B. Eating grass",
+      "explanation": "The horse 'champed the grasses of the forest's ferny floor' - it was eating grass."
+    },
+    {
+      "id": "tl_mcq_6",
+      "question": "What flew out of the turret when the Traveller knocked?",
+      "options": ["A. A bat", "B. A bird", "C. An owl", "D. A butterfly"],
+      "correct_answer": "B. A bird",
+      "explanation": "A bird flew up out of the turret above the Traveller's head."
+    },
+    {
+      "id": "tl_mcq_7",
+      "question": "Who are the 'listeners' in the poem?",
+      "options": ["A. The Traveller's friends", "B. Village people", "C. Phantom/ghostly beings", "D. Animals in the forest"],
+      "correct_answer": "C. Phantom/ghostly beings",
+      "explanation": "The listeners are 'phantom listeners' - ghostly, supernatural beings."
+    },
+    {
+      "id": "tl_mcq_8",
+      "question": "Where were the phantom listeners standing?",
+      "options": ["A. Outside the house", "B. On the dark stair", "C. In the garden", "D. At the window"],
+      "correct_answer": "B. On the dark stair",
+      "explanation": "The listeners stood 'thronging the faint moonbeams on the dark stair'."
+    },
+    {
+      "id": "tl_mcq_9",
+      "question": "What does the Traveller say he has kept?",
+      "options": ["A. A secret", "B. His belongings", "C. His word/promise", "D. His horse"],
+      "correct_answer": "C. His word/promise",
+      "explanation": "The Traveller says 'Tell them I kept my word' - he kept his promise."
+    },
+    {
+      "id": "tl_mcq_10",
+      "question": "How many times does the Traveller knock on the door?",
+      "options": ["A. Once", "B. Twice", "C. Three times", "D. Four times"],
+      "correct_answer": "C. Three times",
+      "explanation": "The Traveller knocks multiple times - first, then 'a second time', and later 'louder'."
+    },
+    {
+      "id": "tl_mcq_11",
+      "question": "What does 'smote' mean in the poem?",
+      "options": ["A. Whispered", "B. Struck/knocked", "C. Touched gently", "D. Pushed"],
+      "correct_answer": "B. Struck/knocked",
+      "explanation": "'Smote' means struck or hit forcefully - the Traveller knocked hard."
+    },
+    {
+      "id": "tl_mcq_12",
+      "question": "What is the 'ferny floor'?",
+      "options": ["A. A wooden floor", "B. The forest ground covered with ferns", "C. A carpet", "D. A stone path"],
+      "correct_answer": "B. The forest ground covered with ferns",
+      "explanation": "The ferny floor is the forest ground where ferns grow."
+    },
+    {
+      "id": "tl_mcq_13",
+      "question": "How is the house described in the poem?",
+      "options": ["A. Busy and noisy", "B. Lone and still", "C. Small and cozy", "D. Bright and welcoming"],
+      "correct_answer": "B. Lone and still",
+      "explanation": "The house is described as 'lone' (solitary) and 'still' (silent)."
+    },
+    {
+      "id": "tl_mcq_14",
+      "question": "What did the Traveller feel in his heart?",
+      "options": ["A. Joy", "B. Anger", "C. The strangeness of the listeners", "D. Fear"],
+      "correct_answer": "C. The strangeness of the listeners",
+      "explanation": "'He felt in his heart their strangeness' - he sensed something unusual."
+    },
+    {
+      "id": "tl_mcq_15",
+      "question": "What sound did the listeners hear as the Traveller left?",
+      "options": ["A. His voice calling", "B. Thunder", "C. Iron on stone (horseshoes)", "D. Music"],
+      "correct_answer": "C. Iron on stone (horseshoes)",
+      "explanation": "They heard 'the sound of iron on stone' - the horse's iron shoes on the path."
+    },
+    {
+      "id": "tl_mcq_16",
+      "question": "What does 'thronging' mean?",
+      "options": ["A. Standing alone", "B. Crowding together", "C. Running away", "D. Hiding"],
+      "correct_answer": "B. Crowding together",
+      "explanation": "'Thronging' means crowding or gathering together in large numbers."
+    },
+    {
+      "id": "tl_mcq_17",
+      "question": "What does 'phantom' mean?",
+      "options": ["A. Real person", "B. Ghost or spirit", "C. Animal", "D. Visitor"],
+      "correct_answer": "B. Ghost or spirit",
+      "explanation": "Phantom means a ghost or supernatural being."
+    },
+    {
+      "id": "tl_mcq_18",
+      "question": "Why is the hall described as 'empty'?",
+      "options": ["A. No furniture", "B. No humans, only invisible phantoms", "C. Too dark to see", "D. Recently cleaned"],
+      "correct_answer": "B. No humans, only invisible phantoms",
+      "explanation": "The hall appears empty because the phantom listeners are invisible to humans."
+    },
+    {
+      "id": "tl_mcq_19",
+      "question": "What happened to the silence when the Traveller left?",
+      "options": ["A. It broke", "B. It surged softly backward", "C. It disappeared", "D. It became louder"],
+      "correct_answer": "B. It surged softly backward",
+      "explanation": "'The silence surged softly backward' - it returned after the Traveller left."
+    },
+    {
+      "id": "tl_mcq_20",
+      "question": "What is the main mood of the poem?",
+      "options": ["A. Happy and joyful", "B. Mysterious and eerie", "C. Sad and tragic", "D. Angry and violent"],
+      "correct_answer": "B. Mysterious and eerie",
+      "explanation": "The poem creates a mysterious, eerie atmosphere throughout."
+    },
+    {
+      "id": "tl_mcq_21",
+      "question": "What does 'dwelt' mean?",
+      "options": ["A. Visited", "B. Lived/resided", "C. Worked", "D. Traveled"],
+      "correct_answer": "B. Lived/resided",
+      "explanation": "'Dwelt' means lived or resided - the phantoms lived in the house."
+    },
+    {
+      "id": "tl_mcq_22",
+      "question": "The Traveller is described as:",
+      "options": ["A. The one man left asleep", "B. The one man left awake", "C. One of many visitors", "D. A resident of the house"],
+      "correct_answer": "B. The one man left awake",
+      "explanation": "He is called 'the one man left awake' - the only living, conscious person there."
+    },
+    {
+      "id": "tl_mcq_23",
+      "question": "What is a 'turret'?",
+      "options": ["A. A window", "B. A small tower on a building", "C. A door", "D. A chimney"],
+      "correct_answer": "B. A small tower on a building",
+      "explanation": "A turret is a small tower, usually at the corner of a building or castle."
+    },
+    {
+      "id": "tl_mcq_24",
+      "question": "What did the Traveller ask the listeners to tell 'them'?",
+      "options": ["A. That he was angry", "B. That he came and kept his word", "C. That he would return", "D. That he was lost"],
+      "correct_answer": "B. That he came and kept his word",
+      "explanation": "He asked them to tell 'them' that he came, no one answered, and he kept his word."
+    },
+    {
+      "id": "tl_mcq_25",
+      "question": "What does 'stillness answering his cry' mean?",
+      "options": ["A. Someone replied quietly", "B. Silence was the only response", "C. The echo answered", "D. The wind replied"],
+      "correct_answer": "B. Silence was the only response",
+      "explanation": "It means that only silence answered his calls - no verbal response came."
+    },
+    {
+      "id": "tl_mcq_26",
+      "question": "The horse's hoofs are described as:",
+      "options": ["A. Gentle", "B. Silent", "C. Plunging", "D. Slow"],
+      "correct_answer": "C. Plunging",
+      "explanation": "The 'plunging hoofs' suggests the horse galloped away quickly."
+    },
+    {
+      "id": "tl_mcq_27",
+      "question": "What does 'shadowiness' suggest about the house?",
+      "options": ["A. It was well-lit", "B. It was dark and mysterious", "C. It was colorful", "D. It was newly painted"],
+      "correct_answer": "B. It was dark and mysterious",
+      "explanation": "'Shadowiness' suggests darkness, mystery, and hidden things."
+    },
+    {
+      "id": "tl_mcq_28",
+      "question": "Who did the Traveller want the listeners to give his message to?",
+      "options": ["A. His family", "B. 'Them' - unspecified people", "C. The king", "D. The villagers"],
+      "correct_answer": "B. 'Them' - unspecified people",
+      "explanation": "He says 'Tell them' but we never learn who 'they' are - it remains mysterious."
+    },
+    {
+      "id": "tl_mcq_29",
+      "question": "What is the contrast in the poem?",
+      "options": ["A. Day and night", "B. Human world and spirit world", "C. Young and old", "D. Rich and poor"],
+      "correct_answer": "B. Human world and spirit world",
+      "explanation": "The poem contrasts the living Traveller with the silent, unseen spirit world."
+    },
+    {
+      "id": "tl_mcq_30",
+      "question": "What literary device is 'silence surged softly backward'?",
+      "options": ["A. Simile", "B. Personification", "C. Hyperbole", "D. Metaphor"],
+      "correct_answer": "B. Personification",
+      "explanation": "Silence is given human qualities (surging) - this is personification."
+    },
+    {
+      "id": "tl_mcq_31",
+      "question": "Why did the listeners not respond to the Traveller?",
+      "options": ["A. They were deaf", "B. They were sleeping", "C. They are supernatural beings who don't interact with humans", "D. They didn't hear him"],
+      "correct_answer": "C. They are supernatural beings who don't interact with humans",
+      "explanation": "As phantom/ghostly beings, they listened but could not or would not respond."
+    },
+    {
+      "id": "tl_mcq_32",
+      "question": "What does 'champed' mean?",
+      "options": ["A. Slept", "B. Chewed/ate noisily", "C. Ran", "D. Stood still"],
+      "correct_answer": "B. Chewed/ate noisily",
+      "explanation": "'Champed' means chewed or munched - the horse was eating grass."
+    },
+    {
+      "id": "tl_mcq_33",
+      "question": "The phrase 'host of phantom listeners' suggests:",
+      "options": ["A. One ghost", "B. Two ghosts", "C. Many ghosts", "D. No ghosts"],
+      "correct_answer": "C. Many ghosts",
+      "explanation": "'Host' means a large number, so there were many phantom listeners."
+    },
+    {
+      "id": "tl_mcq_34",
+      "question": "What does the poem suggest about promises?",
+      "options": ["A. They should be broken", "B. They should be kept even without acknowledgment", "C. They are unimportant", "D. They always bring reward"],
+      "correct_answer": "B. They should be kept even without acknowledgment",
+      "explanation": "The Traveller kept his word even though no one answered - he values honor."
+    },
+    {
+      "id": "tl_mcq_35",
+      "question": "What emotion does the poem evoke in readers?",
+      "options": ["A. Happiness", "B. Excitement", "C. Mystery and loneliness", "D. Anger"],
+      "correct_answer": "C. Mystery and loneliness",
+      "explanation": "The poem evokes feelings of mystery, loneliness, and the unknown."
+    }
+  ]
+}

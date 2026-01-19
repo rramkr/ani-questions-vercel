@@ -1,0 +1,287 @@
+{
+  "subject": "English E2",
+  "chapter": "Shree Krishna Eating House",
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "skeh_mcq_1",
+      "question": "From which novel is this excerpt taken?",
+      "options": ["A. The God of Small Things", "B. The Village by the Sea", "C. A Suitable Boy", "D. The White Tiger"],
+      "correct_answer": "B. The Village by the Sea",
+      "explanation": "The excerpt is from 'The Village by the Sea' by Anita Desai."
+    },
+    {
+      "id": "skeh_mcq_2",
+      "question": "Who is the author of 'The Village by the Sea'?",
+      "options": ["A. Arundhati Roy", "B. Ruskin Bond", "C. Anita Desai", "D. R.K. Narayan"],
+      "correct_answer": "C. Anita Desai",
+      "explanation": "Anita Desai is the author of 'The Village by the Sea'."
+    },
+    {
+      "id": "skeh_mcq_3",
+      "question": "Where is Hari originally from?",
+      "options": ["A. Mumbai", "B. Delhi", "C. Thul", "D. Chennai"],
+      "correct_answer": "C. Thul",
+      "explanation": "Hari is a young boy from a village called Thul."
+    },
+    {
+      "id": "skeh_mcq_4",
+      "question": "What is the name of the eating house where Hari works?",
+      "options": ["A. Mumbai Food Corner", "B. Sri Krishna Eating House", "C. Shanti Restaurant", "D. Annapurna Bhavan"],
+      "correct_answer": "B. Sri Krishna Eating House",
+      "explanation": "Hari works at a makeshift restaurant called the Sri Krishna Eating House."
+    },
+    {
+      "id": "skeh_mcq_5",
+      "question": "Who were the main customers of the eating house?",
+      "options": ["A. Rich businessmen", "B. Office workers", "C. Tourists", "D. Beggars, labourers and underprivileged"],
+      "correct_answer": "D. Beggars, labourers and underprivileged",
+      "explanation": "The restaurant catered primarily to the city's outliers – beggars, hard labourers and the underprivileged."
+    },
+    {
+      "id": "skeh_mcq_6",
+      "question": "What covered the ceiling of the eating house?",
+      "options": ["A. Paint and decorations", "B. Fans and lights", "C. Cobwebs and soot", "D. Pictures and posters"],
+      "correct_answer": "C. Cobwebs and soot",
+      "explanation": "The ceiling was obscured by cobwebs and soot, showing the poor conditions."
+    },
+    {
+      "id": "skeh_mcq_7",
+      "question": "What food was cooked at the eating house?",
+      "options": ["A. Rice and sambar", "B. Lentil curry and chapattis", "C. Biryani", "D. Idli and dosa"],
+      "correct_answer": "B. Lentil curry and chapattis",
+      "explanation": "Lentil curry and chapattis were cooked over open stoves at the eating house."
+    },
+    {
+      "id": "skeh_mcq_8",
+      "question": "How many young boys worked as unpaid help at the eating house?",
+      "options": ["A. One", "B. Two", "C. Three", "D. Four"],
+      "correct_answer": "B. Two",
+      "explanation": "The owner retained two young boys as unpaid help."
+    },
+    {
+      "id": "skeh_mcq_9",
+      "question": "What arrangement did Hari make with the owner?",
+      "options": ["A. He paid rent to stay", "B. He worked for wages", "C. He worked in exchange for food", "D. He borrowed money"],
+      "correct_answer": "C. He worked in exchange for food",
+      "explanation": "Hari offered to work in exchange for food, and the owner agreed."
+    },
+    {
+      "id": "skeh_mcq_10",
+      "question": "What language did Hari's co-workers speak?",
+      "options": ["A. Hindi", "B. Marathi", "C. Tamil", "D. Bengali"],
+      "correct_answer": "C. Tamil",
+      "explanation": "Hari's co-workers spoke only Tamil, creating a language barrier."
+    },
+    {
+      "id": "skeh_mcq_11",
+      "question": "What was the name of the watchmaker's shop?",
+      "options": ["A. Time Zone", "B. Ding Dong Watch Works", "C. Clock House", "D. Watch World"],
+      "correct_answer": "B. Ding Dong Watch Works",
+      "explanation": "The old watchmaker ran a shop named 'Ding Dong Watch Works'."
+    },
+    {
+      "id": "skeh_mcq_12",
+      "question": "Where was the watchmaker's shop located?",
+      "options": ["A. Across the street", "B. Next door to the eating house", "C. In the market", "D. At the railway station"],
+      "correct_answer": "B. Next door to the eating house",
+      "explanation": "The watchmaker's shop was located next door to the Sri Krishna Eating House."
+    },
+    {
+      "id": "skeh_mcq_13",
+      "question": "How did the co-workers' parents die?",
+      "options": ["A. In a fire", "B. Due to illness", "C. In a railway accident", "D. In a flood"],
+      "correct_answer": "C. In a railway accident",
+      "explanation": "The co-workers' parents were killed in a railway accident."
+    },
+    {
+      "id": "skeh_mcq_14",
+      "question": "What did the watchmaker lend Hari money for?",
+      "options": ["A. To buy food", "B. To buy clothes", "C. To buy a postcard", "D. To pay rent"],
+      "correct_answer": "C. To buy a postcard",
+      "explanation": "The watchmaker lent Hari money to buy a postcard to write to his family."
+    },
+    {
+      "id": "skeh_mcq_15",
+      "question": "What did Hari's postcard to his family indicate?",
+      "options": ["A. He was coming home", "B. He decided to stay in Mumbai", "C. He needed money", "D. He was sick"],
+      "correct_answer": "B. He decided to stay in Mumbai",
+      "explanation": "The postcard indicated Hari's decision to stay in Mumbai."
+    },
+    {
+      "id": "skeh_mcq_16",
+      "question": "Why couldn't the owner maintain the eating house?",
+      "options": ["A. He was lazy", "B. He was sick", "C. He had no time and money", "D. He didn't care"],
+      "correct_answer": "C. He had no time and money",
+      "explanation": "The owner was overworked and had neither the time nor the money to maintain the place."
+    },
+    {
+      "id": "skeh_mcq_17",
+      "question": "How did Hari and his co-workers develop friendship despite the language barrier?",
+      "options": ["A. Through a translator", "B. Through shared hardship of work", "C. Through sign language", "D. Through written notes"],
+      "correct_answer": "B. Through shared hardship of work",
+      "explanation": "Camaraderie formed through the shared hardship of their tasks."
+    },
+    {
+      "id": "skeh_mcq_18",
+      "question": "Who did the watchmaker remind Hari of?",
+      "options": ["A. His father", "B. His teacher", "C. A man he met at a village meeting", "D. His grandfather"],
+      "correct_answer": "C. A man he met at a village meeting",
+      "explanation": "The watchmaker reminded Hari of a man he had met at a meeting in his village."
+    },
+    {
+      "id": "skeh_mcq_19",
+      "question": "What were the working conditions like at the eating house?",
+      "options": ["A. Cool and comfortable", "B. Air-conditioned", "C. Stifling heat without respite", "D. Well-ventilated"],
+      "correct_answer": "C. Stifling heat without respite",
+      "explanation": "Workers served customers in stifling heat without respite or conversation."
+    },
+    {
+      "id": "skeh_mcq_20",
+      "question": "What tasks did the workers perform at the eating house?",
+      "options": ["A. Only serving customers", "B. Kneading dough, baking chapattis, serving customers", "C. Only cooking", "D. Cleaning only"],
+      "correct_answer": "B. Kneading dough, baking chapattis, serving customers",
+      "explanation": "Tasks included kneading dough, baking chapattis and serving customers."
+    },
+    {
+      "id": "skeh_mcq_21",
+      "question": "How is Mumbai described in the excerpt?",
+      "options": ["A. Peaceful and quiet", "B. Chaotic and foreign", "C. Small and familiar", "D. Clean and organized"],
+      "correct_answer": "B. Chaotic and foreign",
+      "explanation": "Mumbai is described as a 'chaotic, foreign city' from Hari's perspective."
+    },
+    {
+      "id": "skeh_mcq_22",
+      "question": "What provided hope to Hari in his difficult situation?",
+      "options": ["A. Money from home", "B. Promise of promotion", "C. Friendships, especially with the watchmaker", "D. A letter from his family"],
+      "correct_answer": "C. Friendships, especially with the watchmaker",
+      "explanation": "The friendships he was building, especially with the watchmaker, provided a beacon of hope."
+    },
+    {
+      "id": "skeh_mcq_23",
+      "question": "What does the word 'camaraderie' mean?",
+      "options": ["A. Competition", "B. Argument", "C. Friendly fellowship", "D. Jealousy"],
+      "correct_answer": "C. Friendly fellowship",
+      "explanation": "Camaraderie means a spirit of friendly fellowship and mutual trust."
+    },
+    {
+      "id": "skeh_mcq_24",
+      "question": "What does 'abysmal conditions' suggest about the eating house?",
+      "options": ["A. Excellent facilities", "B. Average conditions", "C. Extremely poor conditions", "D. Luxurious setting"],
+      "correct_answer": "C. Extremely poor conditions",
+      "explanation": "Abysmal means extremely bad or appalling, indicating very poor conditions."
+    },
+    {
+      "id": "skeh_mcq_25",
+      "question": "Who helped Hari locate the post office?",
+      "options": ["A. The eating house owner", "B. His co-workers", "C. The watchmaker", "D. A policeman"],
+      "correct_answer": "C. The watchmaker",
+      "explanation": "The watchmaker helped Hari locate the post office."
+    },
+    {
+      "id": "skeh_mcq_26",
+      "question": "What does the phrase 'beacon of hope' mean?",
+      "options": ["A. A warning sign", "B. A source of light and guidance", "C. A type of food", "D. A place to rest"],
+      "correct_answer": "B. A source of light and guidance",
+      "explanation": "A beacon of hope means something that provides guidance and optimism in difficult times."
+    },
+    {
+      "id": "skeh_mcq_27",
+      "question": "What type of restaurant was the Sri Krishna Eating House?",
+      "options": ["A. A fancy restaurant", "B. A makeshift restaurant", "C. A chain restaurant", "D. A five-star hotel"],
+      "correct_answer": "B. A makeshift restaurant",
+      "explanation": "It was described as a makeshift restaurant catering to poor people."
+    },
+    {
+      "id": "skeh_mcq_28",
+      "question": "What was the tone of this chapter?",
+      "options": ["A. Humorous and light", "B. Intimate and sobering", "C. Exciting and adventurous", "D. Mysterious and scary"],
+      "correct_answer": "B. Intimate and sobering",
+      "explanation": "The chapter is described as an intimate and sobering look into Hari's life."
+    },
+    {
+      "id": "skeh_mcq_29",
+      "question": "What does 'outliers' refer to in the context of the eating house customers?",
+      "options": ["A. Rich people", "B. Tourists", "C. People on the margins of society", "D. Government officials"],
+      "correct_answer": "C. People on the margins of society",
+      "explanation": "Outliers refers to beggars, hard labourers, and underprivileged people on society's margins."
+    },
+    {
+      "id": "skeh_mcq_30",
+      "question": "What does the word 'grappling' suggest about Hari's situation?",
+      "options": ["A. He was enjoying his new life", "B. He was struggling with his circumstances", "C. He was relaxed", "D. He was indifferent"],
+      "correct_answer": "B. He was struggling with his circumstances",
+      "explanation": "Grappling means struggling or wrestling with something difficult."
+    },
+    {
+      "id": "skeh_mcq_31",
+      "question": "How were the young boys at the eating house compensated?",
+      "options": ["A. They received good wages", "B. They were unpaid", "C. They were paid daily", "D. They received tips"],
+      "correct_answer": "B. They were unpaid",
+      "explanation": "The young boys were described as 'unpaid help'."
+    },
+    {
+      "id": "skeh_mcq_32",
+      "question": "What does the 'chasm between his past life and new one' suggest?",
+      "options": ["A. A small difference", "B. A huge gap or difference", "C. Similarity", "D. No change"],
+      "correct_answer": "B. A huge gap or difference",
+      "explanation": "Chasm means a huge, unbridgeable gap between Hari's village life and city life."
+    },
+    {
+      "id": "skeh_mcq_33",
+      "question": "Why was communication difficult for Hari at work?",
+      "options": ["A. The kitchen was too noisy", "B. His co-workers spoke only Tamil", "C. He was deaf", "D. It was too crowded"],
+      "correct_answer": "B. His co-workers spoke only Tamil",
+      "explanation": "Hari faced difficulty communicating because his co-workers spoke only Tamil."
+    },
+    {
+      "id": "skeh_mcq_34",
+      "question": "What quality of the watchmaker is highlighted in the excerpt?",
+      "options": ["A. His wealth", "B. His kindness and open-mindedness", "C. His strictness", "D. His age"],
+      "correct_answer": "B. His kindness and open-mindedness",
+      "explanation": "The watchmaker appears kind and open-minded."
+    },
+    {
+      "id": "skeh_mcq_35",
+      "question": "What happened to Hari's co-workers' parents?",
+      "options": ["A. They abandoned them", "B. They moved abroad", "C. They were killed in a railway accident", "D. They were sick"],
+      "correct_answer": "C. They were killed in a railway accident",
+      "explanation": "Their parents were killed in a railway accident, leaving them orphaned."
+    },
+    {
+      "id": "skeh_mcq_36",
+      "question": "Where was the eating house located?",
+      "options": ["A. In Thul village", "B. In Mumbai", "C. In Chennai", "D. In Delhi"],
+      "correct_answer": "B. In Mumbai",
+      "explanation": "Hari found himself alone in Mumbai working at the eating house."
+    },
+    {
+      "id": "skeh_mcq_37",
+      "question": "What does 'grimy appearance' suggest about the eating house?",
+      "options": ["A. It was clean and shiny", "B. It was dirty and covered with grime", "C. It was newly painted", "D. It was well-maintained"],
+      "correct_answer": "B. It was dirty and covered with grime",
+      "explanation": "Grimy means covered with dirt or grime, indicating poor hygiene."
+    },
+    {
+      "id": "skeh_mcq_38",
+      "question": "What was Hari's situation when he arrived in Mumbai?",
+      "options": ["A. He had a job waiting", "B. He was with his family", "C. He was alone with no money", "D. He was on a vacation"],
+      "correct_answer": "C. He was alone with no money",
+      "explanation": "Hari found himself alone in Mumbai and offered to work for food, suggesting he had no money."
+    },
+    {
+      "id": "skeh_mcq_39",
+      "question": "How did Hari learn about his co-workers' tragic past?",
+      "options": ["A. The co-workers told him directly", "B. The owner told him", "C. Through conversations with the watchmaker", "D. He read about it"],
+      "correct_answer": "C. Through conversations with the watchmaker",
+      "explanation": "Hari learned about his co-workers' past through conversations with the watchmaker."
+    },
+    {
+      "id": "skeh_mcq_40",
+      "question": "What cooking equipment was used at the eating house?",
+      "options": ["A. Modern ovens", "B. Microwave", "C. Open stoves", "D. Electric cookers"],
+      "correct_answer": "C. Open stoves",
+      "explanation": "Food was cooked over open stoves at the eating house."
+    }
+  ]
+}

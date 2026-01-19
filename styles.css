@@ -1593,11 +1593,41 @@ body {
 
 .wrong-answers-section .section-header {
     color: #92400e;
-    border-bottom-color: #f59e0b;
+    border-bottom-color: transparent;
+    margin: 0;
+    padding-bottom: 0;
 }
 
 .wrong-answers-section .section-header::before {
-    content: "🔄";
+    content: "";
+}
+
+.section-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #f59e0b;
+    margin-bottom: 16px;
+}
+
+.clear-wrong-btn {
+    background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(220, 38, 38, 0.3);
+}
+
+.clear-wrong-btn:hover {
+    background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(220, 38, 38, 0.4);
 }
 
 .type-item.wrong-type {

@@ -1,0 +1,127 @@
+{
+  "subject": "English E2",
+  "chapter": "Shree Krishna Eating House",
+  "type": "make_sentences",
+  "questions": [
+    {
+      "id": "skeh_ms_1",
+      "word": "Camaraderie",
+      "meaning": "A spirit of friendly fellowship and mutual trust developed among people who spend time together",
+      "sample_sentence": "Despite their different backgrounds and the language barrier, a strong sense of camaraderie developed among the workers at the eating house through their shared hardships."
+    },
+    {
+      "id": "skeh_ms_2",
+      "word": "Abysmal",
+      "meaning": "Extremely bad or appalling; resembling an abyss in depth",
+      "sample_sentence": "The abysmal conditions of the restaurant, with its dirty ceiling and lack of ventilation, shocked the health inspector during his visit."
+    },
+    {
+      "id": "skeh_ms_3",
+      "word": "Grimy",
+      "meaning": "Covered with or characterized by dirt, soot, or grime",
+      "sample_sentence": "After working all day in the factory, the workers' clothes were grimy with oil and dust."
+    },
+    {
+      "id": "skeh_ms_4",
+      "word": "Stifling",
+      "meaning": "Very hot, airless, and uncomfortable; oppressive",
+      "sample_sentence": "The stifling heat inside the kitchen made it difficult for the cooks to work during the summer months."
+    },
+    {
+      "id": "skeh_ms_5",
+      "word": "Respite",
+      "meaning": "A short period of rest or relief from something difficult or unpleasant",
+      "sample_sentence": "The tired travelers found respite under the shade of a large banyan tree after walking for hours in the hot sun."
+    },
+    {
+      "id": "skeh_ms_6",
+      "word": "Underprivileged",
+      "meaning": "Lacking the basic necessities or advantages that most people enjoy; disadvantaged",
+      "sample_sentence": "The charity organization works tirelessly to provide education and healthcare to underprivileged children in rural areas."
+    },
+    {
+      "id": "skeh_ms_7",
+      "word": "Outliers",
+      "meaning": "People or things that exist outside or at the edge of a main group or system",
+      "sample_sentence": "The social workers dedicated their lives to helping the outliers of society who had been forgotten by mainstream services."
+    },
+    {
+      "id": "skeh_ms_8",
+      "word": "Makeshift",
+      "meaning": "Serving as a temporary substitute; improvised or put together hastily",
+      "sample_sentence": "During the flood, the villagers built a makeshift shelter using bamboo poles and plastic sheets to protect themselves from the rain."
+    },
+    {
+      "id": "skeh_ms_9",
+      "word": "Grappling",
+      "meaning": "Struggling or wrestling with a difficult problem or situation",
+      "sample_sentence": "The young entrepreneur spent months grappling with the challenges of starting her own business before finally achieving success."
+    },
+    {
+      "id": "skeh_ms_10",
+      "word": "Chasm",
+      "meaning": "A deep gap or difference between two things, ideas, or groups",
+      "sample_sentence": "There was a wide chasm between the living conditions of the wealthy businessmen and the poor laborers in the industrial town."
+    },
+    {
+      "id": "skeh_ms_11",
+      "word": "Beacon",
+      "meaning": "A light or signal that guides or gives hope; something that inspires",
+      "sample_sentence": "The lighthouse served as a beacon for the ships sailing through the stormy waters at night."
+    },
+    {
+      "id": "skeh_ms_12",
+      "word": "Sobering",
+      "meaning": "Making one think seriously; creating a thoughtful or serious mood",
+      "sample_sentence": "The documentary about climate change was a sobering reminder of the environmental challenges facing our planet."
+    },
+    {
+      "id": "skeh_ms_13",
+      "word": "Intimate",
+      "meaning": "Close and personal; detailed and thorough in understanding",
+      "sample_sentence": "The author's intimate knowledge of village life helped her write a realistic novel about rural communities."
+    },
+    {
+      "id": "skeh_ms_14",
+      "word": "Notwithstanding",
+      "meaning": "In spite of; despite; regardless of",
+      "sample_sentence": "Notwithstanding the heavy rain, the determined athletes continued their marathon and finished the race."
+    },
+    {
+      "id": "skeh_ms_15",
+      "word": "Linguistic",
+      "meaning": "Related to language or the study of languages",
+      "sample_sentence": "The linguistic diversity of India, with its hundreds of languages and dialects, makes it one of the most culturally rich nations in the world."
+    },
+    {
+      "id": "skeh_ms_16",
+      "word": "Tragic",
+      "meaning": "Causing or involving great sadness or suffering; disastrous",
+      "sample_sentence": "The tragic accident that claimed many lives prompted the government to implement stricter safety regulations on highways."
+    },
+    {
+      "id": "skeh_ms_17",
+      "word": "Overworked",
+      "meaning": "Made to work too hard or for too long; exhausted from excessive work",
+      "sample_sentence": "The overworked nurse finally collapsed from exhaustion after working three consecutive night shifts at the hospital."
+    },
+    {
+      "id": "skeh_ms_18",
+      "word": "Chaotic",
+      "meaning": "In a state of complete confusion and disorder",
+      "sample_sentence": "The chaotic traffic at the busy intersection during rush hour made it nearly impossible for pedestrians to cross safely."
+    },
+    {
+      "id": "skeh_ms_19",
+      "word": "Obscured",
+      "meaning": "Made difficult to see, hear, or understand; hidden from view",
+      "sample_sentence": "The mountain peak was obscured by thick clouds, disappointing the tourists who had hoped for a clear view."
+    },
+    {
+      "id": "skeh_ms_20",
+      "word": "Sustenance",
+      "meaning": "Food and drink as a source of strength; nourishment necessary for survival",
+      "sample_sentence": "The remote village relied on the forest for sustenance, gathering fruits, vegetables, and hunting small animals for food."
+    }
+  ]
+}

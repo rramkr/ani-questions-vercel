@@ -1,0 +1,217 @@
+{
+  "subject": "English E2",
+  "chapter": "Shree Krishna Eating House",
+  "type": "reference_to_context",
+  "questions": [
+    {
+      "id": "skeh_rtc_1",
+      "extract": "This restaurant caters primarily to the city's outliers – the beggars, the hard labourers and the underprivileged who could just about afford a meal.",
+      "question": "Who were the main customers of the Sri Krishna Eating House?",
+      "answer": "The main customers of the Sri Krishna Eating House were the city's outliers - beggars, hard labourers, and underprivileged people who could barely afford a meal.",
+      "justification": "The extract clearly states that the restaurant catered to 'the city's outliers – the beggars, the hard labourers and the underprivileged'."
+    },
+    {
+      "id": "skeh_rtc_2",
+      "extract": "The eating house is described vividly, from its grimy appearance to its abysmal conditions, where the ceiling is obscured by cobwebs and soot.",
+      "question": "What was the condition of the ceiling in the eating house?",
+      "answer": "The ceiling of the eating house was obscured by cobwebs and soot, indicating very poor hygiene and neglected maintenance.",
+      "justification": "The extract mentions that 'the ceiling is obscured by cobwebs and soot'."
+    },
+    {
+      "id": "skeh_rtc_3",
+      "extract": "Its owner, despite retaining two young boys as unpaid help, is overworked and has neither the time nor the money to maintain or decorate the place.",
+      "question": "Why couldn't the owner maintain the eating house properly?",
+      "answer": "The owner couldn't maintain the eating house properly because he was overworked and had neither the time nor the money to maintain or decorate the place.",
+      "justification": "The extract explicitly states the owner 'has neither the time nor the money to maintain or decorate the place'."
+    },
+    {
+      "id": "skeh_rtc_4",
+      "extract": "When Hari awakens and grasps the reality of his surroundings, he offers to work in exchange for food, and the owner agrees.",
+      "question": "What arrangement did Hari make with the owner of the eating house?",
+      "answer": "Hari offered to work in exchange for food, and the owner agreed to this arrangement.",
+      "justification": "The extract clearly states that 'he offers to work in exchange for food, and the owner agrees'."
+    },
+    {
+      "id": "skeh_rtc_5",
+      "extract": "During the course of his work, Hari realises the difficulty in communicating with his co-workers who speak only Tamil.",
+      "question": "What language barrier did Hari face at work?",
+      "answer": "Hari faced difficulty communicating with his co-workers because they spoke only Tamil, a language he did not understand.",
+      "justification": "The extract mentions 'the difficulty in communicating with his co-workers who speak only Tamil'."
+    },
+    {
+      "id": "skeh_rtc_6",
+      "extract": "Notwithstanding the language barrier, a camaraderie forms through the shared hardship of their tasks – kneading dough, baking chapattis and serving customers in stifling heat.",
+      "question": "How did Hari and his co-workers develop camaraderie despite the language barrier?",
+      "answer": "Despite the language barrier, Hari and his co-workers developed camaraderie through their shared hardship of tasks like kneading dough, baking chapattis, and serving customers in stifling heat.",
+      "justification": "The extract explains that 'camaraderie forms through the shared hardship of their tasks'."
+    },
+    {
+      "id": "skeh_rtc_7",
+      "extract": "A friendship brews between Hari and the old watchmaker next door, who runs a shop named Ding Dong Watch Works.",
+      "question": "Who was the old watchmaker and what was the name of his shop?",
+      "answer": "The old watchmaker was a kind gentleman who ran a shop next door to the eating house called 'Ding Dong Watch Works'.",
+      "justification": "The extract mentions the watchmaker 'who runs a shop named Ding Dong Watch Works'."
+    },
+    {
+      "id": "skeh_rtc_8",
+      "extract": "This gentleman appears kind and open-minded, reminding Hari of a man he met at a meeting in his village.",
+      "question": "What was Hari's impression of the watchmaker?",
+      "answer": "Hari found the watchmaker to be kind and open-minded. The watchmaker reminded Hari of a man he had met at a meeting in his village.",
+      "justification": "The extract describes the watchmaker as appearing 'kind and open-minded'."
+    },
+    {
+      "id": "skeh_rtc_9",
+      "extract": "Through conversations with the watchmaker, Hari learns about the tragic past of his co-workers, whose parents were killed in a railway accident.",
+      "question": "What tragic information did Hari learn about his co-workers?",
+      "answer": "Hari learned from the watchmaker that his co-workers' parents had been killed in a railway accident, leaving them orphaned.",
+      "justification": "The extract states 'his co-workers, whose parents were killed in a railway accident'."
+    },
+    {
+      "id": "skeh_rtc_10",
+      "extract": "The watchmaker also helps him locate the post office and lends him money to buy a postcard to write to his family.",
+      "question": "How did the watchmaker help Hari communicate with his family?",
+      "answer": "The watchmaker helped Hari by locating the post office for him and lending him money to buy a postcard so he could write to his family.",
+      "justification": "The extract mentions the watchmaker 'helps him locate the post office and lends him money to buy a postcard'."
+    },
+    {
+      "id": "skeh_rtc_11",
+      "extract": "Hari, a young boy from Thul who has found himself alone in Mumbai and working in a makeshift restaurant called the Sri Krishna Eating House.",
+      "question": "Where was Hari originally from and where did he end up?",
+      "answer": "Hari was originally from a village called Thul, but he found himself alone in Mumbai, working at the Sri Krishna Eating House.",
+      "justification": "The extract identifies Hari as 'a young boy from Thul who has found himself alone in Mumbai'."
+    },
+    {
+      "id": "skeh_rtc_12",
+      "extract": "Lentil curry and chapattis are cooked over open stoves.",
+      "question": "What food was prepared at the Sri Krishna Eating House and how was it cooked?",
+      "answer": "At the Sri Krishna Eating House, lentil curry (dal) and chapattis were prepared, cooked over open stoves.",
+      "justification": "The extract specifically mentions 'lentil curry and chapattis are cooked over open stoves'."
+    },
+    {
+      "id": "skeh_rtc_13",
+      "extract": "The abysmal conditions of his workplace, the linguistic barriers, and the grim understanding of his peers' past bring to light the chasm between his past life and his new one.",
+      "question": "What factors highlighted the difference between Hari's past and present life?",
+      "answer": "The abysmal working conditions, the language barriers with Tamil-speaking co-workers, and learning about the tragic past of his peers highlighted the vast difference between Hari's village life and his new life in Mumbai.",
+      "justification": "The extract lists 'the abysmal conditions of his workplace, the linguistic barriers, and the grim understanding of his peers' past' as factors."
+    },
+    {
+      "id": "skeh_rtc_14",
+      "extract": "However, the friendships he is slowly building in this chaotic, foreign city, especially with the old watchmaker, provide a beacon of hope amid the grim reality.",
+      "question": "What gave Hari hope in the difficult circumstances of Mumbai?",
+      "answer": "The friendships Hari was slowly building, especially his friendship with the old watchmaker, provided a beacon of hope amid the grim reality of his life in Mumbai.",
+      "justification": "The extract states that 'the friendships he is slowly building... provide a beacon of hope'."
+    },
+    {
+      "id": "skeh_rtc_15",
+      "extract": "This excerpt from the novel 'The Village by the Sea' by Anita Desai.",
+      "question": "From which novel is this excerpt taken and who is the author?",
+      "answer": "This excerpt is taken from the novel 'The Village by the Sea' written by Anita Desai.",
+      "justification": "The extract clearly mentions the source as 'the novel The Village by the Sea by Anita Desai'."
+    },
+    {
+      "id": "skeh_rtc_16",
+      "extract": "Serving customers in stifling heat without respite or conversation.",
+      "question": "Describe the working conditions at the eating house.",
+      "answer": "The working conditions at the eating house were harsh - the workers served customers in stifling heat without any break (respite) or opportunity for conversation.",
+      "justification": "The extract describes working 'in stifling heat without respite or conversation'."
+    },
+    {
+      "id": "skeh_rtc_17",
+      "extract": "The watchmaker also helps him locate the post office and lends him money to buy a postcard to write to his family, indicating his decision to stay in Mumbai.",
+      "question": "What did Hari's postcard to his family indicate?",
+      "answer": "Hari's postcard to his family indicated his decision to stay in Mumbai rather than return to his village.",
+      "justification": "The extract mentions the postcard was 'indicating his decision to stay in Mumbai'."
+    },
+    {
+      "id": "skeh_rtc_18",
+      "extract": "Its owner, despite retaining two young boys as unpaid help, is overworked.",
+      "question": "How were the young boys at the eating house compensated for their work?",
+      "answer": "The young boys at the eating house were unpaid help - they worked without receiving any wages, likely just getting food in return.",
+      "justification": "The extract clearly states they were 'two young boys as unpaid help'."
+    },
+    {
+      "id": "skeh_rtc_19",
+      "extract": "This chapter is an intimate and sobering look into the life of Hari, a young boy grappling with his new harsh reality.",
+      "question": "How would you describe the overall tone of this chapter?",
+      "answer": "The chapter has an intimate and sobering tone as it portrays a young boy named Hari struggling to cope with the harsh realities of his new life in Mumbai.",
+      "justification": "The extract describes the chapter as 'an intimate and sobering look into the life of Hari'."
+    },
+    {
+      "id": "skeh_rtc_20",
+      "extract": "Kneading dough, baking chapattis and serving customers.",
+      "question": "What were the main tasks performed at the eating house?",
+      "answer": "The main tasks performed at the eating house included kneading dough, baking chapattis, and serving customers.",
+      "justification": "The extract lists the tasks as 'kneading dough, baking chapattis and serving customers'."
+    },
+    {
+      "id": "skeh_rtc_21",
+      "extract": "The eating house is described vividly, from its grimy appearance to its abysmal conditions.",
+      "question": "What words are used to describe the appearance of the eating house?",
+      "answer": "The eating house is described as having a 'grimy appearance' with 'abysmal conditions', indicating it was dirty and in very poor state.",
+      "justification": "The extract uses the words 'grimy appearance' and 'abysmal conditions' to describe the eating house."
+    },
+    {
+      "id": "skeh_rtc_22",
+      "extract": "A camaraderie forms through the shared hardship of their tasks.",
+      "question": "What does the word 'camaraderie' mean in this context?",
+      "answer": "In this context, 'camaraderie' means a spirit of friendly fellowship and mutual trust that developed between Hari and his co-workers through their shared difficult experiences and hard work.",
+      "justification": "The extract shows camaraderie forming 'through the shared hardship of their tasks'."
+    },
+    {
+      "id": "skeh_rtc_23",
+      "extract": "The friendships he is slowly building in this chaotic, foreign city.",
+      "question": "How is Mumbai described in the extract?",
+      "answer": "Mumbai is described as a 'chaotic, foreign city' from Hari's perspective, indicating it was overwhelming and unfamiliar to him as a village boy.",
+      "justification": "The extract refers to Mumbai as 'this chaotic, foreign city'."
+    },
+    {
+      "id": "skeh_rtc_24",
+      "extract": "Through conversations with the watchmaker, Hari learns about the tragic past of his co-workers.",
+      "question": "How did Hari learn about his co-workers' background?",
+      "answer": "Hari learned about his co-workers' tragic background through conversations with the watchmaker, since he couldn't communicate directly with the Tamil-speaking boys.",
+      "justification": "The extract states 'through conversations with the watchmaker, Hari learns about the tragic past'."
+    },
+    {
+      "id": "skeh_rtc_25",
+      "extract": "The chasm between his past life and his new one.",
+      "question": "What does the word 'chasm' suggest about Hari's two lives?",
+      "answer": "The word 'chasm' suggests a huge, unbridgeable gap or difference between Hari's peaceful village life in Thul and his harsh new life working in Mumbai.",
+      "justification": "The extract uses 'chasm' to describe 'the difference between his past life and his new one'."
+    },
+    {
+      "id": "skeh_rtc_26",
+      "extract": "Provide a beacon of hope amid the grim reality.",
+      "question": "What is meant by 'beacon of hope' in this context?",
+      "answer": "A 'beacon of hope' refers to something that provides guidance and optimism in difficult times. Here, it means that the friendships Hari made gave him hope and light in his otherwise dark and difficult situation.",
+      "justification": "The friendships are described as providing 'a beacon of hope amid the grim reality'."
+    },
+    {
+      "id": "skeh_rtc_27",
+      "extract": "The city's outliers – the beggars, the hard labourers and the underprivileged.",
+      "question": "What does the term 'outliers' refer to in this context?",
+      "answer": "In this context, 'outliers' refers to people who are on the margins of society - those who are poor, disadvantaged, and excluded from mainstream city life, such as beggars, hard labourers, and the underprivileged.",
+      "justification": "The extract defines outliers as 'the beggars, the hard labourers and the underprivileged'."
+    },
+    {
+      "id": "skeh_rtc_28",
+      "extract": "He offers to work in exchange for food.",
+      "question": "What does Hari's offer to work for food tell us about his situation?",
+      "answer": "Hari's offer to work in exchange for food shows his desperate situation - he had no money, no job, and was hungry. He was willing to work without wages just to get basic food to survive.",
+      "justification": "The extract shows Hari's desperation through his offer 'to work in exchange for food'."
+    },
+    {
+      "id": "skeh_rtc_29",
+      "extract": "A young boy grappling with his new harsh reality.",
+      "question": "What does the word 'grappling' suggest about Hari's state of mind?",
+      "answer": "The word 'grappling' suggests that Hari was struggling and wrestling with his difficult new circumstances. It implies he was having a hard time coming to terms with and dealing with his harsh reality.",
+      "justification": "The extract describes Hari as 'grappling with his new harsh reality'."
+    },
+    {
+      "id": "skeh_rtc_30",
+      "extract": "The watchmaker appears kind and open-minded.",
+      "question": "Why was the watchmaker's kindness significant to Hari?",
+      "answer": "The watchmaker's kindness was significant to Hari because in a strange, overwhelming city where he knew no one and faced harsh conditions, the watchmaker became a friend, helper, and source of hope.",
+      "justification": "The extract describes the watchmaker as 'kind and open-minded' and later as a 'beacon of hope'."
+    }
+  ]
+}
