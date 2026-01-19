@@ -1,4 +1,4 @@
-// Version: 3.0 - Compact one-by-one mode, loads all questions, requires answer/reveal to proceed
+// Version: 3.1 - See Answer button inline right after options
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
@@ -1306,6 +1306,9 @@ function renderOneByOneQuiz() {
     const totalQuestions = state.questions.length;
     const currentNum = state.currentQuestionIndex + 1;
 
+    // Add compact-mode class to quiz view for tighter layout
+    views.quiz.classList.add('compact-mode');
+
     // Hide the standard banners and buttons in one-by-one mode
     elements.challengeBanner.style.display = 'none';
     elements.resultsBanner.style.display = 'none';
@@ -1342,22 +1345,16 @@ function renderOneByOneQuiz() {
             <div class="single-question-card compact">
                 <div class="question-body compact">
                     ${questionContent}
-                </div>
-
-                ${!state.currentAnswerRevealed ? `
-                    <div class="see-answer-section compact">
-                        <button class="see-answer-btn compact" onclick="revealCurrentAnswer()">
+                    ${!state.currentAnswerRevealed ? `
+                        <button class="see-answer-btn inline" onclick="revealCurrentAnswer()">
                             👁️ See Answer
                         </button>
-                    </div>
-                ` : `
-                    <div class="answer-revealed-section compact">
-                        <div class="answer-label">Answer:</div>
-                        <div class="answer-body compact">
-                            ${answerContent}
+                    ` : `
+                        <div class="answer-inline">
+                            <span class="answer-label-inline">Answer:</span> ${answerContent}
                         </div>
-                    </div>
-                `}
+                    `}
+                </div>
             </div>
 
             <div class="navigation-buttons compact">
