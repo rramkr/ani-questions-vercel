@@ -1,4 +1,4 @@
-// Version: 3.3 - Fixed processQuestion to copy extract/word/meaning fields
+// Version: 3.4 - Added AI Evaluate button, fixed URL encoding for folder names with spaces
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
@@ -195,6 +195,8 @@ const state = {
     oneByOneMode: false,  // Whether to show questions one by one
     currentQuestionIndex: 0,  // Current question index in one-by-one mode
     currentAnswerRevealed: false,  // Whether current question's answer is shown
+    currentEvaluation: null,  // AI evaluation result for current answer
+    isEvaluating: false,  // Loading state for evaluation
 };
 
 // DOM Elements
@@ -378,7 +380,7 @@ async function handleHashChange() {
             }
 
             // Load chapters for this subject
-            const subjectFolder = subject.name.replace(/ /g, '_');
+            const subjectFolder = encodeURIComponent(subject.name);
             const chaptersResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/chapters.json`);
             if (!chaptersResponse.ok) throw new Error('Failed to load chapters');
             const chaptersData = await chaptersResponse.json();
@@ -399,7 +401,7 @@ async function handleHashChange() {
                 state.currentChapter = chapter;
 
                 // Load sections
-                const chapterFolder = chapter.name.replace(/ /g, '_');
+                const chapterFolder = encodeURIComponent(chapter.name);
                 const sectionsResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/sections.json`);
 
                 if (!sectionsResponse.ok) {
@@ -537,8 +539,8 @@ async function loadSubjects() {
 async function loadChapters(subject) {
     showLoading(true);
     try {
-        // Convert subject name to folder format (e.g., "Physics" stays as "Physics")
-        const subjectFolder = subject.name.replace(/ /g, '_');
+        // Convert subject name to folder format with URL encoding
+        const subjectFolder = encodeURIComponent(subject.name);
         const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/chapters.json`);
         const data = await response.json();
 
@@ -558,8 +560,8 @@ async function loadChapters(subject) {
 async function loadSections(chapter) {
     showLoading(true);
     try {
-        const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
-        const chapterFolder = chapter.name.replace(/ /g, '_');
+        const subjectFolder = encodeURIComponent(state.currentSubject.name);
+        const chapterFolder = encodeURIComponent(chapter.name);
         const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/sections.json`);
 
         if (!response.ok) {
@@ -594,8 +596,8 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
             allQuestions = state.allQuestions;
         } else {
             // Fetch fresh questions for offset 0
-            const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
-            const chapterFolder = state.currentChapter.name.replace(/ /g, '_');
+            const subjectFolder = encodeURIComponent(state.currentSubject.name);
+            const chapterFolder = encodeURIComponent(state.currentChapter.name);
             const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/${type.value}.json`);
 
             if (!response.ok) {
@@ -1356,12 +1358,30 @@ function renderOneByOneQuiz() {
                 <div class="question-body compact">
                     ${questionContent}
                     ${!state.currentAnswerRevealed ? `
-                        <button class="see-answer-btn inline" onclick="revealCurrentAnswer()">
-                            👁️ See Answer
-                        </button>
+                        <div class="action-buttons-inline">
+                            <button class="evaluate-btn inline ${!hasAnswered || state.isEvaluating ? 'disabled' : ''}"
+                                    onclick="evaluateCurrentAnswer()"
+                                    ${!hasAnswered || state.isEvaluating ? 'disabled' : ''}>
+                                ${state.isEvaluating ? '⏳ Evaluating...' : '🎯 Evaluate'}
+                            </button>
+                            <button class="see-answer-btn inline ${state.isEvaluating ? 'disabled' : ''}"
+                                    onclick="revealCurrentAnswer()"
+                                    ${state.isEvaluating ? 'disabled' : ''}>
+                                👁️ See Answer
+                            </button>
+                        </div>
                     ` : `
+                        ${state.currentEvaluation ? `
+                            <div class="evaluation-result">
+                                <div class="evaluation-header">🎯 AI Evaluation</div>
+                                <div class="evaluation-score">${state.currentEvaluation.score || state.currentEvaluation.overallScore || ''}</div>
+                                <div class="evaluation-feedback">${state.currentEvaluation.feedback || ''}</div>
+                                ${state.currentEvaluation.wordCount ? `<div class="evaluation-detail">Word count: ${state.currentEvaluation.wordCount}</div>` : ''}
+                                ${state.currentEvaluation.keyPointsCovered ? `<div class="evaluation-detail">Key points: ${state.currentEvaluation.keyPointsCovered}</div>` : ''}
+                            </div>
+                        ` : ''}
                         <div class="answer-inline">
-                            <span class="answer-label-inline">Answer:</span> ${answerContent}
+                            <span class="answer-label-inline">Reference Answer:</span> ${answerContent}
                         </div>
                     `}
                 </div>
@@ -1592,10 +1612,64 @@ function revealCurrentAnswer() {
     renderQuiz();
 }
 
+// Evaluate current answer using AI
+async function evaluateCurrentAnswer() {
+    const currentQuestion = state.questions[state.currentQuestionIndex];
+    const userAnswer = state.userAnswers[currentQuestion.id];
+
+    if (!userAnswer || userAnswer.trim().length === 0) {
+        alert('Please write an answer first');
+        return;
+    }
+
+    state.isEvaluating = true;
+    renderQuiz(); // Show loading state
+
+    try {
+        const requestBody = {
+            questionType: currentQuestion.type,
+            question: currentQuestion.question,
+            userAnswer: userAnswer,
+            referenceAnswer: currentQuestion.answer || currentQuestion.correct_answer || ''
+        };
+
+        // For make_sentences, add word and meaning
+        if (currentQuestion.type === 'make_sentences') {
+            requestBody.word = currentQuestion.word || '';
+            requestBody.meaning = currentQuestion.meaning || '';
+        }
+
+        const response = await fetch('/api/evaluate', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(requestBody)
+        });
+
+        if (!response.ok) {
+            throw new Error('Evaluation failed');
+        }
+
+        const data = await response.json();
+        state.currentEvaluation = data.evaluation;
+        state.currentAnswerRevealed = true;
+        state.isEvaluating = false;
+        renderQuiz();
+
+    } catch (error) {
+        console.error('Evaluation error:', error);
+        state.isEvaluating = false;
+        alert('Failed to evaluate. Showing answer instead.');
+        revealCurrentAnswer();
+    }
+}
+
 function goToNextQuestion() {
     if (state.currentQuestionIndex < state.questions.length - 1) {
         state.currentQuestionIndex++;
         state.currentAnswerRevealed = false;
+        state.currentEvaluation = null; // Reset evaluation for new question
         renderQuiz();
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
@@ -1605,6 +1679,7 @@ function goToPreviousQuestion() {
     if (state.currentQuestionIndex > 0) {
         state.currentQuestionIndex--;
         state.currentAnswerRevealed = false;
+        state.currentEvaluation = null; // Reset evaluation for new question
         renderQuiz();
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
@@ -2333,3 +2408,4 @@ window.goToNextQuestion = goToNextQuestion;
 window.goToPreviousQuestion = goToPreviousQuestion;
 window.goToQuestion = goToQuestion;
 window.finishOneByOneQuiz = finishOneByOneQuiz;
+window.evaluateCurrentAnswer = evaluateCurrentAnswer;
