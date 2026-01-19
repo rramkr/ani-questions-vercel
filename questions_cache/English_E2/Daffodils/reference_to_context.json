@@ -40,108 +40,283 @@
     },
     {
       "id": "daffodils_rtc_6",
+      "extract": "\"I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host of golden Daffodils;\nBeside the Lake, beneath the trees,\nFluttering and dancing in the breeze.\"",
+      "question": "Why is the cloud described as 'lonely'? What does it tell us about the poet?",
+      "answer": "The cloud is described as lonely because clouds often float alone in the sky, separate from everything below. This tells us the poet was in a state of solitude and perhaps feeling disconnected, wandering without company through the countryside.",
+      "justification": "The loneliness of the cloud reflects the poet's emotional state before seeing the daffodils."
+    },
+    {
+      "id": "daffodils_rtc_7",
+      "extract": "\"I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host of golden Daffodils;\nBeside the Lake, beneath the trees,\nFluttering and dancing in the breeze.\"",
+      "question": "What is the contrast between the poet's mood and the daffodils' appearance?",
+      "answer": "The poet was lonely and wandering aimlessly, while the daffodils appeared joyful and lively, dancing in the breeze. This contrast shows how nature's beauty can transform a person's mood from loneliness to joy.",
+      "justification": "The contrast between loneliness and joy is central to the poem's theme."
+    },
+    {
+      "id": "daffodils_rtc_8",
+      "extract": "\"I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host of golden Daffodils;\nBeside the Lake, beneath the trees,\nFluttering and dancing in the breeze.\"",
+      "question": "Identify and explain the personification in this extract.",
+      "answer": "The personification is found in 'Fluttering and dancing in the breeze'. The daffodils are given human qualities - the ability to dance. This makes them seem alive, joyful, and like companions to the lonely poet.",
+      "justification": "Personification is used throughout the poem to make nature seem alive and relatable."
+    },
+    {
+      "id": "daffodils_rtc_9",
       "extract": "\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
       "question": "What is the simile used? Explain its effectiveness.",
       "answer": "The simile compares daffodils to stars in the Milky Way - 'continuous as the stars that shine and twinkle'. This conveys their vast number and sparkling brightness.",
       "justification": "Stars are countless (quantity), shine and twinkle (brightness), and form a continuous band. It elevates flowers to cosmic magnificence."
     },
     {
-      "id": "daffodils_rtc_7",
+      "id": "daffodils_rtc_10",
       "extract": "\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
       "question": "What is the 'milky way'? Why compare daffodils to it?",
       "answer": "The Milky Way is our galaxy, visible as a bright band of millions of stars. The daffodils seemed equally numerous, continuous, and sparkling.",
       "justification": "This astronomical comparison shows how overwhelmed the poet was."
     },
     {
-      "id": "daffodils_rtc_8",
+      "id": "daffodils_rtc_11",
       "extract": "\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
       "question": "What does 'margin of a bay' mean?",
       "answer": "'Margin of a bay' means the edge or shore of a bay. The daffodils were arranged in a never-ending line along this shoreline.",
       "justification": "'Margin' is the boundary where land meets water."
     },
     {
-      "id": "daffodils_rtc_9",
+      "id": "daffodils_rtc_12",
       "extract": "\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
       "question": "What does 'ten thousand' suggest? Is it literal?",
       "answer": "'Ten thousand' is hyperbole (exaggeration) emphasizing the enormous quantity. The poet couldn't literally count them; they seemed countless.",
       "justification": "Hyperbole creates poetic effect."
     },
     {
-      "id": "daffodils_rtc_10",
+      "id": "daffodils_rtc_13",
       "extract": "\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
       "question": "What does 'tossing their heads in sprightly dance' mean?",
       "answer": "The daffodils were bobbing in the wind as if dancing cheerfully. This is personification - giving flowers human qualities of having heads and dancing.",
       "justification": "'Sprightly' means lively. The personification makes daffodils seem like joyful dancers."
     },
     {
-      "id": "daffodils_rtc_11",
+      "id": "daffodils_rtc_14",
+      "extract": "\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
+      "question": "What does 'sprightly' mean? How does it describe the daffodils?",
+      "answer": "'Sprightly' means lively, energetic, and full of spirit. It describes the daffodils as being full of life and energy, dancing cheerfully in the breeze like happy beings enjoying themselves.",
+      "justification": "The word 'sprightly' adds to the personification of the flowers as joyful creatures."
+    },
+    {
+      "id": "daffodils_rtc_15",
+      "extract": "\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
+      "question": "How does the comparison to stars enhance the description of daffodils?",
+      "answer": "The comparison to stars elevates the daffodils from ordinary flowers to something cosmic and magnificent. Stars are associated with vastness, beauty, and eternity. By comparing the daffodils to stars, the poet suggests their number is countless, their brightness is sparkling, and their beauty is celestial.",
+      "justification": "The comparison adds grandeur and scale to the description."
+    },
+    {
+      "id": "daffodils_rtc_16",
+      "extract": "\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
+      "question": "What does 'never-ending line' suggest about the daffodils?",
+      "answer": "'Never-ending line' is hyperbole suggesting the flowers stretched so far that their row seemed infinite. It emphasizes the overwhelming abundance of flowers that amazed the poet, making the sight seem endless and magnificent.",
+      "justification": "The phrase adds to the sense of wonder at the vast number of flowers."
+    },
+    {
+      "id": "daffodils_rtc_17",
       "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed--and gazed--but little thought\nWhat wealth the show to me had brought:\"",
       "question": "What comparison is made between waves and daffodils?",
       "answer": "Both the waves and daffodils danced, but the flowers 'out-did the sparkling waves in glee' - they were even more joyful than the water.",
       "justification": "This elevates daffodils above other natural elements."
     },
     {
-      "id": "daffodils_rtc_12",
+      "id": "daffodils_rtc_18",
       "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed--and gazed--but little thought\nWhat wealth the show to me had brought:\"",
       "question": "What does 'glee' mean? Why were daffodils more gleeful?",
       "answer": "'Glee' means extreme joy or happiness. The daffodils' bright golden colour and animated movement seemed more cheerful than the colourless sparkling water.",
       "justification": "The flowers' vibrant colour created a more joyful impression."
     },
     {
-      "id": "daffodils_rtc_13",
+      "id": "daffodils_rtc_19",
       "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed--and gazed--but little thought\nWhat wealth the show to me had brought:\"",
       "question": "What does 'jocund company' mean?",
       "answer": "'Jocund' means cheerful or merry. 'Jocund company' treats the daffodils as cheerful friends whose presence brings joy.",
       "justification": "Calling daffodils 'company' personifies them as companions."
     },
     {
-      "id": "daffodils_rtc_14",
+      "id": "daffodils_rtc_20",
       "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed--and gazed--but little thought\nWhat wealth the show to me had brought:\"",
       "question": "Why could the poet 'not but be gay'?",
       "answer": "The joyful sight was so overwhelming that happiness was unavoidable. The dancing daffodils lifted his spirits completely.",
       "justification": "The double negative emphasizes that happiness was unavoidable."
     },
     {
-      "id": "daffodils_rtc_15",
+      "id": "daffodils_rtc_21",
       "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed--and gazed--but little thought\nWhat wealth the show to me had brought:\"",
       "question": "What does 'what wealth the show to me had brought' mean?",
       "answer": "The poet didn't realize how valuable this experience would become. The 'wealth' is the precious memory that would bring happiness for years.",
       "justification": "'Wealth' is metaphorical - the treasure of memory."
     },
     {
-      "id": "daffodils_rtc_16",
+      "id": "daffodils_rtc_22",
+      "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed--and gazed--but little thought\nWhat wealth the show to me had brought:\"",
+      "question": "Why does the poet repeat 'gazed' twice?",
+      "answer": "The repetition of 'gazed' emphasizes how captivated the poet was by the sight. He couldn't look away - he kept staring and staring at the beautiful scene, completely absorbed in its beauty.",
+      "justification": "Repetition emphasizes the intensity of the poet's fascination."
+    },
+    {
+      "id": "daffodils_rtc_23",
+      "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed--and gazed--but little thought\nWhat wealth the show to me had brought:\"",
+      "question": "What does 'gay' mean in the context of this poem?",
+      "answer": "In this poem, 'gay' means happy, carefree, and full of joy. It is an older meaning of the word. The poet is saying he could not help but feel happy and light-hearted when surrounded by the cheerful daffodils.",
+      "justification": "The word 'gay' in its original meaning describes a state of happiness."
+    },
+    {
+      "id": "daffodils_rtc_24",
+      "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed--and gazed--but little thought\nWhat wealth the show to me had brought:\"",
+      "question": "What does 'show' refer to in this extract?",
+      "answer": "'Show' refers to the magnificent display of golden daffodils dancing by the lake. The poet calls it a 'show' because the flowers seemed to be performing for him, like actors on a stage, creating a spectacle of beauty and joy.",
+      "justification": "The word 'show' suggests the daffodils were putting on a performance."
+    },
+    {
+      "id": "daffodils_rtc_25",
+      "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed--and gazed--but little thought\nWhat wealth the show to me had brought:\"",
+      "question": "How are the waves personified in this extract?",
+      "answer": "The waves are personified through the word 'danced'. Waves cannot actually dance - this is a human action. By saying the waves danced, the poet makes the entire scene come alive, showing harmony between the water and the flowers.",
+      "justification": "Personification of waves continues the theme of animated nature."
+    },
+    {
+      "id": "daffodils_rtc_26",
       "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
       "question": "What does 'oft' mean? When does the poet recall the daffodils?",
       "answer": "'Oft' means often. The poet recalls them when lying on his couch in a vacant (empty, idle) or pensive (thoughtful) mood.",
       "justification": "'Oft' shows this memory returns repeatedly."
     },
     {
-      "id": "daffodils_rtc_17",
+      "id": "daffodils_rtc_27",
       "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
       "question": "What is the 'inward eye'? Why is it 'bliss of solitude'?",
       "answer": "The 'inward eye' is imagination or memory - seeing images in our mind. It's the 'bliss of solitude' because it brings happiness when alone.",
       "justification": "This metaphor shows inner experiences are as valuable as outer ones."
     },
     {
-      "id": "daffodils_rtc_18",
+      "id": "daffodils_rtc_28",
       "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
       "question": "What is the difference between 'vacant' and 'pensive' moods?",
       "answer": "'Vacant' is when the mind is empty and idle. 'Pensive' is thoughtful and reflective. Both are quiet, solitary states.",
       "justification": "The memory helps in both situations."
     },
     {
-      "id": "daffodils_rtc_19",
+      "id": "daffodils_rtc_29",
       "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
       "question": "What happens when the memory 'flashes' upon the poet's mind?",
       "answer": "His heart fills with pleasure and feels like dancing with the daffodils. The sudden, vivid recollection brings immediate joy.",
       "justification": "'Flash' suggests suddenness - instantly changing his mood."
     },
     {
-      "id": "daffodils_rtc_20",
+      "id": "daffodils_rtc_30",
       "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
       "question": "What figure of speech is 'my heart...dances with the Daffodils'?",
       "answer": "Personification - the heart is given the human ability to dance. It expresses intense joy.",
       "justification": "This brings the poem full circle - his heart joins the daffodils' dance."
+    },
+    {
+      "id": "daffodils_rtc_31",
+      "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
+      "question": "Why does the poet say 'they flash' upon his inward eye?",
+      "answer": "The word 'flash' suggests the memory comes suddenly and vividly, like a flash of light. It appears instantly and brightly in his mind, bringing immediate joy. The memory is not gradual but instant and clear.",
+      "justification": "'Flash' conveys the suddenness and vividness of memory recall."
+    },
+    {
+      "id": "daffodils_rtc_32",
+      "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
+      "question": "How does this stanza differ from the rest of the poem?",
+      "answer": "This stanza takes place at a different time and location. Earlier stanzas describe the actual encounter by the lake, while this describes the poet at home, on his couch, remembering the scene. It shows how the experience became a lasting, valuable memory.",
+      "justification": "The shift from present experience to future memory is key to the poem's meaning."
+    },
+    {
+      "id": "daffodils_rtc_33",
+      "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
+      "question": "What is the significance of the phrase 'bliss of solitude'?",
+      "answer": "The phrase 'bliss of solitude' shows that being alone can be a source of happiness, not loneliness. When the poet is alone, his imagination and memory (inward eye) bring him joy by recalling beautiful experiences like the daffodils.",
+      "justification": "This phrase transforms the meaning of solitude from something negative to positive."
+    },
+    {
+      "id": "daffodils_rtc_34",
+      "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
+      "question": "How does the poem come full circle in this stanza?",
+      "answer": "The poem begins with the poet wandering lonely and ends with his heart dancing. At first, he was lonely like a cloud; now his heart dances with joy. The daffodils danced in the first stanza, and now his heart joins their dance. Loneliness transforms into blissful solitude.",
+      "justification": "The circular structure shows the complete transformation of the poet's emotional state."
+    },
+    {
+      "id": "daffodils_rtc_35",
+      "extract": "\"I wandered lonely as a cloud\nThat floats on high o'er vales and hills\"",
+      "question": "What does 'floats on high' mean? What image does it create?",
+      "answer": "'Floats on high' means floating up above in the sky. It creates an image of a cloud moving peacefully and effortlessly high above the valleys and hills. This suggests the poet felt detached from the world below, moving without purpose or direction.",
+      "justification": "The elevated position of the cloud mirrors the poet's emotional detachment."
+    },
+    {
+      "id": "daffodils_rtc_36",
+      "extract": "\"When all at once I saw a crowd,\nA host of golden Daffodils\"",
+      "question": "Why does the poet use both 'crowd' and 'host' to describe the daffodils?",
+      "answer": "Both words emphasize the large number of flowers. 'Crowd' suggests many individuals gathered together, while 'host' implies a vast multitude, even an army. Using both words reinforces the overwhelming quantity of daffodils that surprised the poet.",
+      "justification": "The repetition of quantity words emphasizes the magnitude of the sight."
+    },
+    {
+      "id": "daffodils_rtc_37",
+      "extract": "\"Beside the Lake, beneath the trees,\nFluttering and dancing in the breeze\"",
+      "question": "What does the word 'fluttering' suggest about the daffodils?",
+      "answer": "'Fluttering' suggests quick, light, trembling movements - like wings or fabric in the wind. It creates an image of delicate, rapid motion as the flowers sway in the breeze. The word adds to the sense of the daffodils being alive and active.",
+      "justification": "'Fluttering' adds to the animated, alive quality of the flowers."
+    },
+    {
+      "id": "daffodils_rtc_38",
+      "extract": "\"They stretched in never-ending line\nAlong the margin of a bay\"",
+      "question": "What does 'stretched' suggest about the arrangement of daffodils?",
+      "answer": "'Stretched' suggests the daffodils extended in a long, continuous line along the shore. The word implies length and reach, creating an image of flowers arranged in a row that seemed to go on forever along the water's edge.",
+      "justification": "'Stretched' conveys the extensive linear arrangement of the flowers."
+    },
+    {
+      "id": "daffodils_rtc_39",
+      "extract": "\"Ten thousand saw I at a glance,\nTossing their heads in sprightly dance\"",
+      "question": "What does 'at a glance' suggest?",
+      "answer": "'At a glance' means with just one look. It suggests the poet could see ten thousand flowers (a hyperbolic number) all at once without having to look around. This emphasizes how numerous and widespread the daffodils were - visible everywhere in a single view.",
+      "justification": "'At a glance' emphasizes the overwhelming scale of the sight."
+    },
+    {
+      "id": "daffodils_rtc_40",
+      "extract": "\"The waves beside them danced; but they\nOut-did the sparkling waves in glee\"",
+      "question": "What does 'out-did' mean and what does it tell us?",
+      "answer": "'Out-did' means surpassed or did better than. It tells us that while both the waves and daffodils danced, the flowers were even more joyful than the water. The daffodils' joy exceeded that of the sparkling waves, showing their supreme cheerfulness.",
+      "justification": "'Out-did' establishes the daffodils as superior in their expression of joy."
+    },
+    {
+      "id": "daffodils_rtc_41",
+      "extract": "\"A Poet could not but be gay,\nIn such a jocund company\"",
+      "question": "Why does the poet refer to himself as 'A Poet' instead of 'I'?",
+      "answer": "By referring to himself as 'A Poet', Wordsworth suggests that any poet (or any sensitive person) would feel the same way when witnessing such beauty. It generalizes the experience - anyone with a poetic soul would be moved to happiness by such a joyful sight.",
+      "justification": "The third person reference universalizes the emotional response."
+    },
+    {
+      "id": "daffodils_rtc_42",
+      "extract": "\"I gazed--and gazed--but little thought\nWhat wealth the show to me had brought\"",
+      "question": "Why does the poet say he 'little thought' about the wealth?",
+      "answer": "The poet says he 'little thought' because at that moment, he was simply enjoying the beautiful sight without realizing its lasting value. He didn't know then that this experience would become a precious memory that would bring him joy for years to come.",
+      "justification": "This shows the poet's later realization of the experience's true value."
+    },
+    {
+      "id": "daffodils_rtc_43",
+      "extract": "\"And then my heart with pleasure fills,\nAnd dances with the Daffodils\"",
+      "question": "How does this final couplet express the poem's main message?",
+      "answer": "This couplet expresses the main message that beautiful natural experiences become lasting treasures in memory. The memory of the daffodils fills the poet's heart with pleasure and makes him feel like dancing with them again, even years later. Nature's beauty becomes permanent inner wealth.",
+      "justification": "The final lines encapsulate the poem's theme of lasting joy through memory."
+    },
+    {
+      "id": "daffodils_rtc_44",
+      "extract": "\"For oft, when on my couch I lie\nIn vacant or in pensive mood\"",
+      "question": "What is the setting described in these lines?",
+      "answer": "The setting is the poet's home, specifically his couch where he lies alone. He is indoors, at rest, in a quiet moment of solitude. This is a contrast to the earlier outdoor setting by the lake, showing how the experience has travelled from the external world into his internal world of memory.",
+      "justification": "The shift in setting emphasizes the transition from experience to memory."
+    },
+    {
+      "id": "daffodils_rtc_45",
+      "extract": "\"Continuous as the stars that shine\nAnd twinkle on the milky way\"",
+      "question": "What two qualities of stars are highlighted in these lines?",
+      "answer": "The two qualities highlighted are 'shine' and 'twinkle'. Shining suggests brightness and radiance, while twinkling suggests flickering, sparkling movement. Together, they create an image of daffodils that are both brilliantly bright and moving with a sparkling, animated quality.",
+      "justification": "Both qualities - brightness and movement - are transferred to the daffodils."
     }
   ]
 }

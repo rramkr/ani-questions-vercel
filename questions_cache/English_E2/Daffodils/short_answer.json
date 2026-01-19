@@ -62,6 +62,156 @@
       "question": "How does the last stanza differ from the rest of the poem?",
       "answer": "The last stanza differs in several ways: it takes place at a different time (later, not during the walk), in a different location (indoors on his couch, not by the lake), and describes a different kind of experience (memory rather than actual sight). While earlier stanzas describe immediate, physical joy from seeing the flowers, the last stanza shows deeper, reflective happiness from remembering them. The mood shifts from excitement to calm contemplation.",
       "justification": "The shift shows how the experience becomes lasting inner wealth through memory."
+    },
+    {
+      "id": "daffodils_sa_11",
+      "question": "What is a simile? Identify two similes from the poem.",
+      "answer": "A simile is a figure of speech that compares two things using 'like' or 'as'. The two similes in 'Daffodils' are: 'I wandered lonely as a cloud' (comparing the poet to a cloud) and 'Continuous as the stars that shine and twinkle on the milky way' (comparing the daffodils to stars). Both similes use 'as' to make the comparison.",
+      "justification": "Similes are used to create vivid imagery through comparison."
+    },
+    {
+      "id": "daffodils_sa_12",
+      "question": "What is hyperbole? Give two examples from the poem.",
+      "answer": "Hyperbole is a figure of speech that uses deliberate exaggeration for emphasis or effect. Two examples from the poem are: 'ten thousand saw I at a glance' (the poet couldn't literally count exactly 10,000 flowers) and 'never-ending line' (the line of flowers did have an end). Both exaggerations emphasize the overwhelming abundance of daffodils.",
+      "justification": "Hyperbole emphasizes the vast number of flowers the poet saw."
+    },
+    {
+      "id": "daffodils_sa_13",
+      "question": "Explain the contrast between 'vacant' and 'pensive' moods.",
+      "answer": "'Vacant' and 'pensive' describe two different moods when the poet is alone. 'Vacant' means when the mind is empty, idle, and not thinking about anything in particular. 'Pensive' means thoughtful, reflective, and engaged in deep thought. Both are quiet, solitary states, but vacant is emptier while pensive is more contemplative. In both moods, the memory of daffodils brings joy.",
+      "justification": "Understanding these moods helps explain when the memory provides comfort."
+    },
+    {
+      "id": "daffodils_sa_14",
+      "question": "Why is the memory called 'the bliss of solitude'?",
+      "answer": "The memory is called 'the bliss of solitude' because it transforms being alone from a lonely experience into a happy one. The 'inward eye' (imagination/memory) allows the poet to recall the joyful daffodils whenever he is by himself. Instead of feeling sad when alone, he can experience bliss (perfect happiness) by reliving the beautiful memory in his mind.",
+      "justification": "This phrase shows how memory can transform negative solitude into positive experience."
+    },
+    {
+      "id": "daffodils_sa_15",
+      "question": "What movement words does the poet use for the daffodils?",
+      "answer": "The poet uses several movement words to describe the daffodils: 'fluttering' (light, quick movements), 'dancing' (rhythmic, joyful movements), and 'tossing their heads' (nodding or bobbing movements). These words personify the flowers and make them seem alive, active, and full of joy. The movements are caused by the breeze but described as if the flowers are dancing on purpose.",
+      "justification": "Movement words bring the flowers to life through personification."
+    },
+    {
+      "id": "daffodils_sa_16",
+      "question": "What does 'golden' suggest about the daffodils?",
+      "answer": "'Golden' suggests several things about the daffodils. First, it describes their bright yellow colour. Second, it associates them with gold, which is precious and valuable - suggesting the flowers are treasures. Third, it creates an image of brightness and warmth, like sunshine. The word elevates ordinary flowers to something special and precious in the poet's eyes.",
+      "justification": "The word 'golden' adds value and beauty to the description."
+    },
+    {
+      "id": "daffodils_sa_17",
+      "question": "How does the poet show he was captivated by the daffodils?",
+      "answer": "The poet shows he was captivated in several ways: he uses repetition ('I gazed--and gazed') to show he couldn't stop looking. He says a poet 'could not but be gay' - meaning happiness was unavoidable. He describes them as superior to even the sparkling waves. He later reveals the memory stays with him forever, showing the deep impression they made. All these suggest he was completely fascinated.",
+      "justification": "Multiple poetic devices convey the poet's complete absorption in the sight."
+    },
+    {
+      "id": "daffodils_sa_18",
+      "question": "What is the significance of the word 'flash' in the last stanza?",
+      "answer": "The word 'flash' is significant because it shows how suddenly and vividly the memory appears. Like a flash of light, the memory comes instantly and brightly into the poet's mind without warning. It suggests the memory is clear and powerful, not gradual or dim. This suddenness mirrors how the daffodils themselves appeared 'all at once' to the poet during his walk.",
+      "justification": "'Flash' conveys the instantaneous and vivid nature of memory recall."
+    },
+    {
+      "id": "daffodils_sa_19",
+      "question": "Why does the poet repeat 'gazed' in 'I gazed--and gazed'?",
+      "answer": "The repetition of 'gazed' emphasizes how completely captivated the poet was by the sight. He couldn't look away - he kept staring and staring at the beautiful scene. The dashes between the words create a pause, suggesting continuous, prolonged looking. This repetition shows the poet's fascination and the magnetic pull of the daffodils' beauty.",
+      "justification": "Repetition emphasizes the intensity and duration of the poet's fascination."
+    },
+    {
+      "id": "daffodils_sa_20",
+      "question": "How does the poem show the healing power of nature?",
+      "answer": "The poem shows nature's healing power through the poet's transformation. He begins lonely and aimless, wandering without joy. Upon seeing the daffodils, his mood immediately lifts - he cannot help but be happy. More remarkably, this healing effect is permanent: even years later, the memory can cure his vacant or pensive moods, filling his heart with pleasure. Nature's beauty becomes lasting medicine for the soul.",
+      "justification": "The poet's emotional journey demonstrates nature's therapeutic effect."
+    },
+    {
+      "id": "daffodils_sa_21",
+      "question": "What does the comparison to the Milky Way tell us?",
+      "answer": "The comparison to the Milky Way tells us several things: the daffodils were countless in number like stars, they were arranged in a continuous line like the galaxy, and they sparkled with brightness. By comparing flowers to stars, the poet elevates them from ordinary to cosmic and magnificent. It shows how overwhelmed and amazed the poet was by the sheer abundance and beauty of the flowers.",
+      "justification": "The astronomical comparison emphasizes scale, beauty, and the poet's wonder."
+    },
+    {
+      "id": "daffodils_sa_22",
+      "question": "Why is the poem autobiographical?",
+      "answer": "The poem is autobiographical because it is based on a real experience. On April 15, 1802, William Wordsworth and his sister Dorothy went for a walk near Ullswater in the Lake District and encountered a field of daffodils. Dorothy recorded the experience in her journal. Wordsworth later turned this memory into the poem, using first person ('I') and describing his actual emotional response.",
+      "justification": "The poem is based on Wordsworth's real experience with his sister Dorothy."
+    },
+    {
+      "id": "daffodils_sa_23",
+      "question": "What role does memory play in the poem?",
+      "answer": "Memory plays a crucial role in the poem. The first three stanzas describe the actual experience, but the final stanza reveals the true importance: the memory of that moment becomes permanent 'wealth'. The poet can recall the daffodils whenever he is alone, and the memory brings him joy years later. Memory transforms a fleeting experience into lasting treasure, making it the poem's central theme.",
+      "justification": "Memory transforms a single experience into permanent inner wealth."
+    },
+    {
+      "id": "daffodils_sa_24",
+      "question": "Explain the meaning of 'host' in the poem.",
+      "answer": "'Host' in the poem means a large number or multitude. It comes from an old meaning related to army. When the poet says 'a host of golden Daffodils', he means a vast number of flowers, like an army gathered together. The word suggests quantity but also has celebratory connotations, making the flowers seem like a welcoming, festive gathering.",
+      "justification": "The word 'host' emphasizes the vast number of daffodils."
+    },
+    {
+      "id": "daffodils_sa_25",
+      "question": "How does the poem end? What is its final message?",
+      "answer": "The poem ends with the poet's heart filling with pleasure and dancing with the daffodils whenever he remembers them. The final message is that beautiful experiences in nature become treasures in memory that bring lasting happiness. Even when alone, the poet can feel joy by recalling the daffodils. The ending shows that nature's gifts last forever in the human heart and mind.",
+      "justification": "The ending encapsulates the theme of memory as lasting wealth."
+    },
+    {
+      "id": "daffodils_sa_26",
+      "question": "What is meant by 'beneath the trees'?",
+      "answer": "'Beneath the trees' describes the location of the daffodils - they were growing under the shade and shelter of trees by the lake. This adds to the picturesque setting, creating an image of flowers in a natural woodland setting rather than a cultivated garden. The trees frame the scene and add to the peaceful, natural atmosphere.",
+      "justification": "The phrase establishes the natural woodland setting of the daffodils."
+    },
+    {
+      "id": "daffodils_sa_27",
+      "question": "Why did the poet compare daffodils to a 'crowd'?",
+      "answer": "The poet compared daffodils to a 'crowd' because there were so many of them gathered together, like people in a crowd. This personifies the flowers, making them seem like beings assembled for a purpose. The word also creates a contrast with the poet's loneliness - he was alone, but suddenly he found himself among a crowd of cheerful companions (the flowers).",
+      "justification": "'Crowd' personifies the flowers and contrasts with the poet's solitude."
+    },
+    {
+      "id": "daffodils_sa_28",
+      "question": "What feelings does the word 'wandered' create?",
+      "answer": "The word 'wandered' creates feelings of aimlessness, gentle movement, and perhaps melancholy. Unlike 'walked' or 'strolled', 'wandered' suggests movement without purpose or destination. It evokes a dreamy, unhurried quality and hints at the poet's lonely, uncertain state of mind before he encounters the joyful daffodils.",
+      "justification": "'Wandered' establishes the poet's aimless, solitary state."
+    },
+    {
+      "id": "daffodils_sa_29",
+      "question": "How does the poet use nature imagery in the poem?",
+      "answer": "The poet uses extensive nature imagery throughout: clouds floating in the sky, valleys and hills, the lake with sparkling waves, trees, the breeze, and of course the golden daffodils themselves. Even the Milky Way (stars) is used for comparison. This rich natural imagery creates a vivid picture and supports the poem's Romantic theme of nature's importance to human happiness.",
+      "justification": "Nature imagery pervades the poem and supports its central theme."
+    },
+    {
+      "id": "daffodils_sa_30",
+      "question": "What does 'sprightly dance' suggest about the daffodils?",
+      "answer": "'Sprightly dance' suggests the daffodils moved with energy, liveliness, and joy. 'Sprightly' means full of spirit and vigour, while 'dance' implies rhythmic, graceful, and happy movement. Together, the phrase personifies the flowers as cheerful dancers performing enthusiastically. It creates an image of the wind making the flowers bob and sway like joyful beings.",
+      "justification": "The phrase emphasizes the lively, joyful movement of the flowers."
+    },
+    {
+      "id": "daffodils_sa_31",
+      "question": "Why is this poem considered a Romantic poem?",
+      "answer": "This poem is Romantic because it celebrates nature's beauty and its effect on human emotions. It emphasizes personal feelings ('I wandered'), values solitude and imagination ('inward eye'), uses simple language about common flowers, and shows nature transforming human emotions from loneliness to joy. These are all key characteristics of the Romantic movement, which Wordsworth helped establish.",
+      "justification": "The poem exemplifies key Romantic ideals about nature and emotion."
+    },
+    {
+      "id": "daffodils_sa_32",
+      "question": "What is the effect of using first person throughout the poem?",
+      "answer": "Using first person ('I') throughout the poem makes it personal and intimate. The reader experiences the poet's emotions directly - his loneliness, wonder, joy, and later contentment. It feels like a confession or sharing of a private experience rather than a distant description. This personal voice makes the poem more relatable and emotionally engaging.",
+      "justification": "First person creates intimacy and emotional connection with the reader."
+    },
+    {
+      "id": "daffodils_sa_33",
+      "question": "How do waves and daffodils dance differently?",
+      "answer": "Both waves and daffodils dance in the poem, but differently. The waves dance because water naturally sparkles and moves. However, the daffodils 'out-did' the waves in glee - they were more joyful. This is because daffodils have bright golden colour (unlike colourless water) and seem to move with cheerful animation in the breeze. The flowers appeared more alive and happy.",
+      "justification": "The comparison shows daffodils as superior in expressing joy."
+    },
+    {
+      "id": "daffodils_sa_34",
+      "question": "What does 'never-ending line' suggest?",
+      "answer": "'Never-ending line' is a hyperbole suggesting the row of daffodils stretched so far it seemed to have no end. It creates an image of flowers arranged along the shore of the lake as far as the eye can see. This exaggeration emphasizes the overwhelming abundance that amazed the poet and made the sight seem infinite and magnificent.",
+      "justification": "The hyperbole emphasizes the vast extent of the flower display."
+    },
+    {
+      "id": "daffodils_sa_35",
+      "question": "Why does the poem move from outdoor to indoor setting?",
+      "answer": "The poem moves from outdoor (by the lake) to indoor (on his couch) to show how the experience became internalized. The outdoor scene is the actual event - seeing the daffodils. The indoor scene shows the lasting effect - remembering them. This shift demonstrates that the real 'wealth' is not in the external world but in the internal world of memory and imagination.",
+      "justification": "The setting shift illustrates the internalization of the experience."
     }
   ]
 }

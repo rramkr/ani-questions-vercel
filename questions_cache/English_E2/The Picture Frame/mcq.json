@@ -3,180 +3,65 @@
   "chapter": "The Picture Frame",
   "type": "mcq",
   "questions": [
-    {
-      "id": "tpf_mcq_1",
-      "question": "How old is Mr. Barton?",
-      "options": ["72 years old", "82 years old", "62 years old", "92 years old"],
-      "correct_answer": "82 years old",
-      "explanation": "The story clearly states that Mr. Barton was 82 years old."
-    },
-    {
-      "id": "tpf_mcq_2",
-      "question": "Where does Mr. Barton live?",
-      "options": ["In a mountain village", "In a big city", "In a seaside town", "In the countryside"],
-      "correct_answer": "In a seaside town",
-      "explanation": "The story mentions he lives in a seaside town in England."
-    },
-    {
-      "id": "tpf_mcq_3",
-      "question": "What does Mr. Barton love to collect?",
-      "options": ["Modern gadgets", "Antiques", "Stamps", "Coins"],
-      "correct_answer": "Antiques",
-      "explanation": "The story describes his passion for antiques and old things."
-    },
-    {
-      "id": "tpf_mcq_4",
-      "question": "What was wrong with the mirror in the frame?",
-      "options": ["It was too small", "It was dirty and cracked", "It was broken into pieces", "It was foggy"],
-      "correct_answer": "It was dirty and cracked",
-      "explanation": "Mr. Barton points out the scratched frame and cracked mirror during bargaining."
-    },
-    {
-      "id": "tpf_mcq_5",
-      "question": "How much did the stallholder initially ask for the frame?",
-      "options": ["Twenty pounds", "Thirty pounds", "Forty pounds", "Fifty pounds"],
-      "correct_answer": "Forty pounds",
-      "explanation": "The stallholder asked for forty pounds initially."
-    },
-    {
-      "id": "tpf_mcq_6",
-      "question": "How much did Mr. Barton finally pay for the frame?",
-      "options": ["Ten pounds", "Twenty pounds", "Thirty pounds", "Forty pounds"],
-      "correct_answer": "Twenty pounds",
-      "explanation": "Mr. Barton successfully bargained and paid twenty pounds."
-    },
-    {
-      "id": "tpf_mcq_7",
-      "question": "How much did the stallholder claim he had paid for the frame?",
-      "options": ["Two pounds", "Five pounds", "Ten pounds", "Twenty pounds"],
-      "correct_answer": "Ten pounds",
-      "explanation": "The stallholder falsely claimed he had paid ten pounds."
-    },
-    {
-      "id": "tpf_mcq_8",
-      "question": "How much had the stallholder actually paid for the frame?",
-      "options": ["Two pounds", "Five pounds", "Ten pounds", "Twenty pounds"],
-      "correct_answer": "Two pounds",
-      "explanation": "The end of the story reveals he had actually paid only two pounds."
-    },
-    {
-      "id": "tpf_mcq_9",
-      "question": "What was hidden behind the mirror?",
-      "options": ["Old documents", "Gold coins", "An oil painting", "A map"],
-      "correct_answer": "An oil painting",
-      "explanation": "Mr. Barton discovered a beautiful oil painting hidden behind the mirror."
-    },
-    {
-      "id": "tpf_mcq_10",
-      "question": "What did the painting depict?",
-      "options": ["A seascape", "A shepherd with his sheep", "A portrait", "A still life"],
-      "correct_answer": "A shepherd with his sheep",
-      "explanation": "The painting showed a shepherd looking after his flock of sheep."
-    },
-    {
-      "id": "tpf_mcq_11",
-      "question": "Where did Mr. Barton take the painting for evaluation?",
-      "options": ["A museum", "An art gallery in London", "An antique shop", "A university"],
-      "correct_answer": "An art gallery in London",
-      "explanation": "Mr. Barton took the painting to an art gallery in London."
-    },
-    {
-      "id": "tpf_mcq_12",
-      "question": "How old was the painting according to the expert?",
-      "options": ["About fifty years old", "About a hundred years old", "About two hundred years old", "About three hundred years old"],
-      "correct_answer": "About a hundred years old",
-      "explanation": "The expert said the painting was about a hundred years old."
-    },
-    {
-      "id": "tpf_mcq_13",
-      "question": "How much was the painting worth?",
-      "options": ["Half a million pounds", "One million pounds", "One hundred thousand pounds", "Twenty thousand pounds"],
-      "correct_answer": "Half a million pounds",
-      "explanation": "The expert valued the painting at about half a million pounds."
-    },
-    {
-      "id": "tpf_mcq_14",
-      "question": "What does 'ornate' mean?",
-      "options": ["Plain and simple", "Old and dusty", "Elaborately decorated", "Large and heavy"],
-      "correct_answer": "Elaborately decorated",
-      "explanation": "'Ornate' means elaborately decorated with intricate designs."
-    },
-    {
-      "id": "tpf_mcq_15",
-      "question": "What is an 'antique'?",
-      "options": ["A new collectible", "A valuable old object", "A type of mirror", "A painting style"],
-      "correct_answer": "A valuable old object",
-      "explanation": "An antique is an old object valued for its age, craftsmanship, or rarity."
-    },
-    {
-      "id": "tpf_mcq_16",
-      "question": "What does 'beamed' mean in the story?",
-      "options": ["Frowned", "Smiled broadly", "Shouted", "Whispered"],
-      "correct_answer": "Smiled broadly",
-      "explanation": "'Beamed' means to smile radiantly or broadly with happiness."
-    },
-    {
-      "id": "tpf_mcq_17",
-      "question": "What does 'caressing' mean?",
-      "options": ["Hitting roughly", "Touching gently and lovingly", "Throwing away", "Examining closely"],
-      "correct_answer": "Touching gently and lovingly",
-      "explanation": "'Caressing' means to touch or stroke gently and lovingly."
-    },
-    {
-      "id": "tpf_mcq_18",
-      "question": "Why did Mr. Barton's 'heart almost stop beating'?",
-      "options": ["He was scared", "He found the hidden painting", "He felt ill", "The price was too high"],
-      "correct_answer": "He found the hidden painting",
-      "explanation": "His heart almost stopped when he discovered the valuable painting."
-    },
-    {
-      "id": "tpf_mcq_19",
-      "question": "What does 'unearthed a treasure' mean?",
-      "options": ["Buried something valuable", "Lost something precious", "Discovered something valuable", "Sold something expensive"],
-      "correct_answer": "Discovered something valuable",
-      "explanation": "To 'unearth a treasure' means to discover something valuable that was hidden."
-    },
-    {
-      "id": "tpf_mcq_20",
-      "question": "What kind of bargainer is Mr. Barton?",
-      "options": ["Naive", "Shrewd", "Careless", "Generous"],
-      "correct_answer": "Shrewd",
-      "explanation": "Mr. Barton is described as a shrewd bargainer who points out flaws to reduce prices."
-    },
-    {
-      "id": "tpf_mcq_21",
-      "question": "What physical features describe Mr. Barton?",
-      "options": ["Tall and muscular", "Thin and bald with thick spectacles", "Short and stout", "Young and handsome"],
-      "correct_answer": "Thin and bald with thick spectacles",
-      "explanation": "The story describes him as thin and bald with thick spectacles."
-    },
-    {
-      "id": "tpf_mcq_22",
-      "question": "How did Mr. Barton feel when he heard the painting's value?",
-      "options": ["He felt it couldn't be true", "He was not surprised", "He was angry", "He was sad"],
-      "correct_answer": "He felt it couldn't be true",
-      "explanation": "Mr. Barton could hardly believe it and thought it couldn't be true."
-    },
-    {
-      "id": "tpf_mcq_23",
-      "question": "What is a 'stallholder'?",
-      "options": ["A person who holds horses", "A person who sells goods at a market stall", "A person who collects antiques", "A security guard"],
-      "correct_answer": "A person who sells goods at a market stall",
-      "explanation": "A stallholder is a person who sells goods from a market stall."
-    },
-    {
-      "id": "tpf_mcq_24",
-      "question": "What does 'umpteen' mean?",
-      "options": ["A specific number", "Very few", "Indefinitely many", "Exactly ten"],
-      "correct_answer": "Indefinitely many",
-      "explanation": "'Umpteen' means an indefinitely large number; very many."
-    },
-    {
-      "id": "tpf_mcq_25",
-      "question": "What does 'hideous' mean?",
-      "options": ["Beautiful", "Extremely ugly", "Expensive", "Rare"],
-      "correct_answer": "Extremely ugly",
-      "explanation": "'Hideous' means extremely ugly or unpleasant to look at."
-    }
+    {"id": "tpf_mcq_1", "question": "How old was Mr Barton?", "options": ["Seventy-two years old", "Eighty-two years old", "Sixty-two years old", "Ninety-two years old"], "correct_answer": "Eighty-two years old", "explanation": "The story states Mr Barton was eighty-two years old."},
+    {"id": "tpf_mcq_2", "question": "Where did Mr Barton live?", "options": ["In a mountain village", "In a big city", "In a small seaside town in England", "In the countryside"], "correct_answer": "In a small seaside town in England", "explanation": "He lived with his wife in a small seaside town in England."},
+    {"id": "tpf_mcq_3", "question": "What did Mr Barton like to do in his retirement?", "options": ["Read books", "Take brisk walks", "Watch television", "Paint pictures"], "correct_answer": "Take brisk walks", "explanation": "He liked nothing better than to take a brisk walk regularly."},
+    {"id": "tpf_mcq_4", "question": "What pleased Mr Barton most during his walks?", "options": ["Meeting friends", "The view over the sea", "Finding antiques", "The exercise"], "correct_answer": "The view over the sea", "explanation": "The view out over the sea was what pleased him most."},
+    {"id": "tpf_mcq_5", "question": "When the sea was calm, Mr Barton remembered _______.", "options": ["Sad moments", "Fearful moments", "Happy events in his life", "His work"], "correct_answer": "Happy events in his life", "explanation": "When the sea was calm, he was reminded of happy events in his life."},
+    {"id": "tpf_mcq_6", "question": "When did Mr Barton's father die?", "options": ["When Mr Barton was four years old", "When Mr Barton was fourteen", "When Mr Barton was forty", "When Mr Barton was retired"], "correct_answer": "When Mr Barton was four years old", "explanation": "His father had died when he was only four years old."},
+    {"id": "tpf_mcq_7", "question": "What did Mr Barton have to remember his father?", "options": ["Many photographs", "A few memories and two faded photographs", "Letters and diaries", "Nothing at all"], "correct_answer": "A few memories and two faded photographs", "explanation": "All he had left were a few memories and two faded photographs."},
+    {"id": "tpf_mcq_8", "question": "Mr Barton treasured his father's portrait _______.", "options": ["A little bit", "Not at all", "More than life itself", "Only sometimes"], "correct_answer": "More than life itself", "explanation": "He treasured the portrait more than life itself."},
+    {"id": "tpf_mcq_9", "question": "What was Mr and Mrs Barton's financial condition?", "options": ["Very rich", "Very poor", "Neither poor nor rich", "Extremely wealthy"], "correct_answer": "Neither poor nor rich", "explanation": "He was not poor; but he was not rich either."},
+    {"id": "tpf_mcq_10", "question": "Why did Mrs Barton seldom go out with her husband?", "options": ["She was busy", "She preferred to stay indoors away from the cold", "She didn't like walks", "She was ill"], "correct_answer": "She preferred to stay indoors away from the cold", "explanation": "She preferred to stay indoors, well away from the cold."},
+    {"id": "tpf_mcq_11", "question": "Why had the stallholder fallen on hard times?", "options": ["He was lazy", "He had lost his job", "We are not told specifically", "He was ill"], "correct_answer": "We are not told specifically", "explanation": "The story only says he had fallen on hard times without giving specific reasons."},
+    {"id": "tpf_mcq_12", "question": "What did Mr Barton think when he learned about the stallholder's situation?", "options": ["He should avoid him", "He must buy something to help him", "He should leave quickly", "He should bargain hard"], "correct_answer": "He must buy something to help him", "explanation": "Mr Barton thought 'I must buy something to help him.'"},
+    {"id": "tpf_mcq_13", "question": "What does 'umpteen' mean?", "options": ["Exactly ten", "A few", "Very many", "None"], "correct_answer": "Very many", "explanation": "'Umpteen' means very many or countless."},
+    {"id": "tpf_mcq_14", "question": "What caught Mr Barton's eye at the stall?", "options": ["The mirror", "The frame around the mirror", "A brass monkey", "Old records"], "correct_answer": "The frame around the mirror", "explanation": "It was the frame that caught his eye, not the mirror itself."},
+    {"id": "tpf_mcq_15", "question": "What does 'ornate' mean?", "options": ["Plain and simple", "Old and dusty", "Very heavily decorated", "Broken"], "correct_answer": "Very heavily decorated", "explanation": "'Ornate' means elaborately decorated."},
+    {"id": "tpf_mcq_16", "question": "Mr Barton wanted the frame for _______.", "options": ["Selling at a profit", "His father's portrait", "Decoration only", "The mirror"], "correct_answer": "His father's portrait", "explanation": "He thought how well his father's portrait would look in that frame."},
+    {"id": "tpf_mcq_17", "question": "Why did Mr Barton suddenly stop caressing the frame?", "options": ["He lost interest", "He felt the stallholder watching him", "The frame was dirty", "His wife called him"], "correct_answer": "He felt the stallholder watching him", "explanation": "He felt the stallholder's gaze upon him and stopped abruptly."},
+    {"id": "tpf_mcq_18", "question": "What does 'rather abruptly' mean?", "options": ["Very slowly", "Suddenly and unexpectedly", "Carefully", "Happily"], "correct_answer": "Suddenly and unexpectedly", "explanation": "'Rather abruptly' means suddenly and unexpectedly."},
+    {"id": "tpf_mcq_19", "question": "Why did Mr Barton ask about the hideous vase?", "options": ["He wanted to buy it", "To distract the stallholder", "He liked ugly things", "It was cheap"], "correct_answer": "To distract the stallholder", "explanation": "It was a bargaining tactic to hide his interest in the frame."},
+    {"id": "tpf_mcq_20", "question": "What does 'hideous' mean?", "options": ["Beautiful", "Expensive", "Very ugly", "Small"], "correct_answer": "Very ugly", "explanation": "'Hideous' means extremely ugly."},
+    {"id": "tpf_mcq_21", "question": "The stallholder initially asked _______ for the mirror.", "options": ["Three pounds", "Twenty pounds", "Twenty-three pounds", "Forty pounds"], "correct_answer": "Twenty-three pounds", "explanation": "The stallholder asked for twenty-three pounds."},
+    {"id": "tpf_mcq_22", "question": "How much did Mr Barton finally pay?", "options": ["Three pounds", "Twenty pounds", "Twenty-three pounds", "Two pounds"], "correct_answer": "Twenty pounds", "explanation": "Mr Barton paid twenty pounds for the frame."},
+    {"id": "tpf_mcq_23", "question": "The stallholder had actually bought the mirror for _______.", "options": ["Two pounds", "Ten pounds", "Twenty pounds", "Five pounds"], "correct_answer": "Two pounds", "explanation": "He bought it for two pounds at a junk shop."},
+    {"id": "tpf_mcq_24", "question": "What does 'beamed' mean?", "options": ["Frowned", "Smiled brightly", "Shouted", "Whispered"], "correct_answer": "Smiled brightly", "explanation": "'Beamed' means smiled radiantly with pride."},
+    {"id": "tpf_mcq_25", "question": "The stallholder called Mr Barton a _______.", "options": ["Clever man", "Good customer", "Silly old fool", "Kind gentleman"], "correct_answer": "Silly old fool", "explanation": "He said 'Silly old fool, that man.'"},
+    {"id": "tpf_mcq_26", "question": "How did Mrs Barton react when she learned about the purchase?", "options": ["She was happy", "She was very angry", "She was indifferent", "She was proud"], "correct_answer": "She was very angry", "explanation": "She became very angry and went to bed."},
+    {"id": "tpf_mcq_27", "question": "Mrs Barton told her husband to _______.", "options": ["Return the mirror", "Go out and buy his own dinner", "Get more money", "Go to sleep"], "correct_answer": "Go out and buy his own dinner", "explanation": "She shouted that he could go out and buy his own dinner."},
+    {"id": "tpf_mcq_28", "question": "Where did Mr Barton keep his most prized possessions?", "options": ["In a bank", "In a small chest", "Under his bed", "In a cupboard"], "correct_answer": "In a small chest", "explanation": "He went to a small chest in the corner of the room."},
+    {"id": "tpf_mcq_29", "question": "Mr Barton's father was dressed as a _______ in the portrait.", "options": ["Doctor", "Teacher", "Soldier", "Farmer"], "correct_answer": "Soldier", "explanation": "He was dressed in the uniform of a soldier."},
+    {"id": "tpf_mcq_30", "question": "Mr Barton used a _______ to open the back of the frame.", "options": ["Screwdriver", "Knife", "Hammer", "His fingers"], "correct_answer": "Knife", "explanation": "Using a knife, he levered the wooden back off."},
+    {"id": "tpf_mcq_31", "question": "What did Mr Barton find hidden behind the mirror?", "options": ["Money", "Old letters", "An oil painting", "Jewellery"], "correct_answer": "An oil painting", "explanation": "He found a sheet of canvas - an oil painting."},
+    {"id": "tpf_mcq_32", "question": "The painting showed a _______ with his flock.", "options": ["Farmer", "Hunter", "Shepherd", "King"], "correct_answer": "Shepherd", "explanation": "It showed a shepherd with his flock."},
+    {"id": "tpf_mcq_33", "question": "The sheep were resting under _______.", "options": ["A small cottage", "A large oak tree", "The hot sun", "A tent"], "correct_answer": "A large oak tree", "explanation": "The flock was resting under the shade of a large oak tree."},
+    {"id": "tpf_mcq_34", "question": "The painting was covered in _______.", "options": ["Gold paint", "Dust", "Grime", "Plastic"], "correct_answer": "Grime", "explanation": "The painting was old and covered in grime."},
+    {"id": "tpf_mcq_35", "question": "What mistake did Mr Barton make after placing his father's portrait in the frame?", "options": ["He broke the frame", "He forgot to put the painting back", "He lost the mirror", "He dropped it"], "correct_answer": "He forgot to put the painting back", "explanation": "He forgot the painting and only noticed it after replacing the back."},
+    {"id": "tpf_mcq_36", "question": "Why didn't Mr Barton put the painting back in the frame?", "options": ["He didn't want to", "He was too tired", "The frame was broken", "His wife stopped him"], "correct_answer": "He was too tired", "explanation": "He was too tired to remove the back yet again."},
+    {"id": "tpf_mcq_37", "question": "The next day, Mr Barton could not find _______.", "options": ["His house", "The stallholder or his stall", "The painting", "His wife"], "correct_answer": "The stallholder or his stall", "explanation": "He could find no sign of the stall or the stallholder."},
+    {"id": "tpf_mcq_38", "question": "What does 'quite afraid' mean?", "options": ["Not afraid at all", "Very happy", "Rather fearful", "Extremely brave"], "correct_answer": "Rather fearful", "explanation": "'Quite afraid' means rather or fairly fearful."},
+    {"id": "tpf_mcq_39", "question": "How was Mrs Barton's mood the next day?", "options": ["Angrier", "In a better mood", "Sad", "Confused"], "correct_answer": "In a better mood", "explanation": "She was in a better mood that day."},
+    {"id": "tpf_mcq_40", "question": "What was unusual about Mrs Barton going to the high street?", "options": ["She went alone", "It was the first time in ages", "She ran there", "She took the bus"], "correct_answer": "It was the first time in ages", "explanation": "For the first time in ages, she agreed to go with her husband."},
+    {"id": "tpf_mcq_41", "question": "What does 'done properly' mean?", "options": ["Done quickly", "Done correctly by professionals", "Done cheaply", "Done secretly"], "correct_answer": "Done correctly by professionals", "explanation": "'Done properly' means completed correctly and professionally."},
+    {"id": "tpf_mcq_42", "question": "Where did Mr and Mrs Barton go on the high street?", "options": ["A bank", "A restaurant", "An art gallery", "A police station"], "correct_answer": "An art gallery", "explanation": "They went into an art gallery."},
+    {"id": "tpf_mcq_43", "question": "According to the manager, the frame was about _______ years old.", "options": ["One hundred", "Two hundred", "Three hundred", "Fifty"], "correct_answer": "Two hundred", "explanation": "The manager said frames like this were used two hundred years ago."},
+    {"id": "tpf_mcq_44", "question": "What does 'if I am not mistaken' mean?", "options": ["I am confused", "I am certain I'm wrong", "If I am correct", "I don't know"], "correct_answer": "If I am correct", "explanation": "It expresses polite certainty - 'if I am correct'."},
+    {"id": "tpf_mcq_45", "question": "How did Mr and Mrs Barton react to the news about the painting?", "options": ["They cried", "They held hands and danced", "They fainted", "They argued"], "correct_answer": "They held hands and danced", "explanation": "They held each other's hands and danced."},
+    {"id": "tpf_mcq_46", "question": "The painting was sold at auction for nearly _______.", "options": ["A thousand pounds", "Ten thousand pounds", "A hundred thousand pounds", "Half a million pounds"], "correct_answer": "Half a million pounds", "explanation": "It was sold for nearly half a million pounds."},
+    {"id": "tpf_mcq_47", "question": "Where did Mr Barton's father's portrait end up?", "options": ["In the auction", "In a new frame on his study wall", "In the original frame", "Lost"], "correct_answer": "In a new frame on his study wall", "explanation": "It hung on the wall in his small study in a new frame."},
+    {"id": "tpf_mcq_48", "question": "Who is the author of 'The Picture Frame'?", "options": ["William Wordsworth", "Nicholas Horsburgh", "R.K. Narayan", "Saki"], "correct_answer": "Nicholas Horsburgh", "explanation": "The story was written by Nicholas Horsburgh."},
+    {"id": "tpf_mcq_49", "question": "A 'stallholder' is a person who _______.", "options": ["Holds horses", "Sells goods at a market stall", "Builds houses", "Repairs things"], "correct_answer": "Sells goods at a market stall", "explanation": "A stallholder sells goods from a market stall."},
+    {"id": "tpf_mcq_50", "question": "What is a 'pound' in this story?", "options": ["A unit of weight", "A unit of British currency", "A type of frame", "A measurement"], "correct_answer": "A unit of British currency", "explanation": "A pound is the basic unit of money in the United Kingdom."},
+    {"id": "tpf_mcq_51", "question": "What does 'caressing' mean?", "options": ["Hitting", "Touching gently and lovingly", "Throwing", "Breaking"], "correct_answer": "Touching gently and lovingly", "explanation": "'Caressing' means touching or stroking gently and lovingly."},
+    {"id": "tpf_mcq_52", "question": "What was on the stall that was made of brass?", "options": ["A lamp", "A monkey", "A clock", "A mirror"], "correct_answer": "A monkey", "explanation": "There was a brass monkey on the stall."},
+    {"id": "tpf_mcq_53", "question": "What kind of chess set was on the stall?", "options": ["Wooden", "Plastic", "Ivory", "Metal"], "correct_answer": "Ivory", "explanation": "There was an ivory chess set on the stall."},
+    {"id": "tpf_mcq_54", "question": "Mr Barton's father had a _______ beard.", "options": ["Black", "Brown", "White", "Red"], "correct_answer": "White", "explanation": "He had a white beard and a fine moustache."},
+    {"id": "tpf_mcq_55", "question": "The stallholder told his wife he sold the mirror for _______ pounds.", "options": ["Two", "Three", "Ten", "Twenty"], "correct_answer": "Twenty", "explanation": "He told his wife he sold it for twenty pounds."},
+    {"id": "tpf_mcq_56", "question": "The stallholder's sad story about hard times was _______.", "options": ["Completely true", "Partly true", "A trick to get sympathy", "Never mentioned"], "correct_answer": "A trick to get sympathy", "explanation": "He admitted to his wife that he told them a sad story to make them buy."},
+    {"id": "tpf_mcq_57", "question": "What was in the distance in the painting?", "options": ["A castle", "A small village", "Mountains", "The sea"], "correct_answer": "A small village", "explanation": "In the distance was what looked like a small village."},
+    {"id": "tpf_mcq_58", "question": "Mr Barton walked _______ home after not finding the stall.", "options": ["Quickly", "Slowly", "Running", "Happily"], "correct_answer": "Slowly", "explanation": "He walked home slowly, quite afraid of what his wife might say."},
+    {"id": "tpf_mcq_59", "question": "The painting was sold with its _______.", "options": ["Mirror", "Original frame", "New frame", "Envelope"], "correct_answer": "Original frame", "explanation": "The oil painting, in its original frame, was sold at auction."},
+    {"id": "tpf_mcq_60", "question": "Who turned out to be the real 'fool' in the story?", "options": ["Mr Barton", "Mrs Barton", "The stallholder", "The art gallery manager"], "correct_answer": "The stallholder", "explanation": "The stallholder missed selling a painting worth half a million pounds for just twenty pounds."}
   ]
 }

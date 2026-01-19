@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anirudh Sample Questions App</title>
-    <link rel="stylesheet" href="styles.css?v=3.5">
+    <link rel="stylesheet" href="styles.css?v=3.6">
 </head>
 <body>
     <div class="app">
@@ -97,7 +97,12 @@
 
             <!-- Quiz View -->
             <section id="quiz-view" class="view">
-                <!-- Top Back Button -->
+                <!-- Floating Back Button (always visible) -->
+                <button class="floating-back-btn" id="floating-back-btn" onclick="navigateTo('sections')">
+                    ← Back
+                </button>
+
+                <!-- Top Back Button (hidden in compact mode) -->
                 <button class="btn-back-top" id="back-to-sections-top" onclick="navigateTo('sections')">
                     ← Back to Question Types
                 </button>
@@ -171,6 +176,6 @@
         </div><!-- end main-app -->
     </div>
 
-    <script src="app.js?v=3.5"></script>
+    <script src="app.js?v=3.6"></script>
 </body>
 </html>

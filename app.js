@@ -1,4 +1,4 @@
-// Version: 3.5 - Simple Evaluate (no API), fixed URL encoding for subjects vs chapters
+// Version: 3.6 - Improved Evaluate UI, floating back button, reduced scrolling
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
@@ -1371,15 +1371,15 @@ function renderOneByOneQuiz() {
                     ` : `
                         ${state.currentEvaluation ? `
                             <div class="evaluation-result">
-                                <div class="evaluation-header">🎯 Evaluation</div>
-                                <div class="evaluation-score">${state.currentEvaluation.score || state.currentEvaluation.overallScore || ''}</div>
+                                <div class="evaluation-header">🎯 Evaluation Result</div>
+                                <div class="evaluation-score ${getScoreClass(state.currentEvaluation.score || state.currentEvaluation.overallScore || '')}">${state.currentEvaluation.score || state.currentEvaluation.overallScore || ''}</div>
                                 <div class="evaluation-feedback">${state.currentEvaluation.feedback || ''}</div>
-                                ${state.currentEvaluation.wordCount ? `<div class="evaluation-detail">Word count: ${state.currentEvaluation.wordCount}</div>` : ''}
-                                ${state.currentEvaluation.keyPointsCovered ? `<div class="evaluation-detail">Key points: ${state.currentEvaluation.keyPointsCovered}</div>` : ''}
+                                ${state.currentEvaluation.wordCount ? `<div class="evaluation-detail">📝 Word count: ${state.currentEvaluation.wordCount}</div>` : ''}
+                                ${state.currentEvaluation.keyPointsCovered ? `<div class="evaluation-detail">📊 Key points covered: ${state.currentEvaluation.keyPointsCovered}</div>` : ''}
                             </div>
                         ` : ''}
                         <div class="answer-inline">
-                            <span class="answer-label-inline">Reference Answer:</span> ${answerContent}
+                            <span class="answer-label-inline">📖 Reference Answer:</span> ${answerContent}
                         </div>
                     `}
                 </div>
@@ -2400,6 +2400,17 @@ function showEmptyState(message) {
     elements.emptyState.style.display = 'block';
     elements.emptyMessage.textContent = message;
     views.subjects.querySelector('.grid').style.display = 'none';
+}
+
+// Helper to get CSS class for evaluation score
+function getScoreClass(score) {
+    if (!score) return '';
+    const scoreLower = score.toLowerCase();
+    if (scoreLower === 'excellent') return 'excellent';
+    if (scoreLower === 'good') return 'good';
+    if (scoreLower === 'partial') return 'partial';
+    if (scoreLower === 'needs improvement' || scoreLower === 'needs_improvement') return 'needs-improvement';
+    return '';
 }
 
 // Make functions globally available
