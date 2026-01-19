@@ -12,6 +12,18 @@
       "slug": "Sentences",
       "has_questions": true,
       "icon": "📝"
+    },
+    {
+      "name": "Daffodils",
+      "slug": "Daffodils",
+      "has_questions": true,
+      "icon": "🌼"
+    },
+    {
+      "name": "The Picture Frame",
+      "slug": "The Picture Frame",
+      "has_questions": true,
+      "icon": "🖼️"
     }
   ]
 }

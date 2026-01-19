@@ -1,0 +1,182 @@
+{
+  "subject": "English",
+  "chapter": "The Picture Frame",
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "tpf_mcq_1",
+      "question": "How old is Mr. Barton?",
+      "options": ["72 years old", "82 years old", "62 years old", "92 years old"],
+      "correct_answer": "82 years old",
+      "explanation": "The story clearly states that Mr. Barton was 82 years old."
+    },
+    {
+      "id": "tpf_mcq_2",
+      "question": "Where does Mr. Barton live?",
+      "options": ["In a mountain village", "In a big city", "In a seaside town", "In the countryside"],
+      "correct_answer": "In a seaside town",
+      "explanation": "The story mentions he lives in a seaside town in England."
+    },
+    {
+      "id": "tpf_mcq_3",
+      "question": "What does Mr. Barton love to collect?",
+      "options": ["Modern gadgets", "Antiques", "Stamps", "Coins"],
+      "correct_answer": "Antiques",
+      "explanation": "The story describes his passion for antiques and old things."
+    },
+    {
+      "id": "tpf_mcq_4",
+      "question": "What was wrong with the mirror in the frame?",
+      "options": ["It was too small", "It was dirty and cracked", "It was broken into pieces", "It was foggy"],
+      "correct_answer": "It was dirty and cracked",
+      "explanation": "Mr. Barton points out the scratched frame and cracked mirror during bargaining."
+    },
+    {
+      "id": "tpf_mcq_5",
+      "question": "How much did the stallholder initially ask for the frame?",
+      "options": ["Twenty pounds", "Thirty pounds", "Forty pounds", "Fifty pounds"],
+      "correct_answer": "Forty pounds",
+      "explanation": "The stallholder asked for forty pounds initially."
+    },
+    {
+      "id": "tpf_mcq_6",
+      "question": "How much did Mr. Barton finally pay for the frame?",
+      "options": ["Ten pounds", "Twenty pounds", "Thirty pounds", "Forty pounds"],
+      "correct_answer": "Twenty pounds",
+      "explanation": "Mr. Barton successfully bargained and paid twenty pounds."
+    },
+    {
+      "id": "tpf_mcq_7",
+      "question": "How much did the stallholder claim he had paid for the frame?",
+      "options": ["Two pounds", "Five pounds", "Ten pounds", "Twenty pounds"],
+      "correct_answer": "Ten pounds",
+      "explanation": "The stallholder falsely claimed he had paid ten pounds."
+    },
+    {
+      "id": "tpf_mcq_8",
+      "question": "How much had the stallholder actually paid for the frame?",
+      "options": ["Two pounds", "Five pounds", "Ten pounds", "Twenty pounds"],
+      "correct_answer": "Two pounds",
+      "explanation": "The end of the story reveals he had actually paid only two pounds."
+    },
+    {
+      "id": "tpf_mcq_9",
+      "question": "What was hidden behind the mirror?",
+      "options": ["Old documents", "Gold coins", "An oil painting", "A map"],
+      "correct_answer": "An oil painting",
+      "explanation": "Mr. Barton discovered a beautiful oil painting hidden behind the mirror."
+    },
+    {
+      "id": "tpf_mcq_10",
+      "question": "What did the painting depict?",
+      "options": ["A seascape", "A shepherd with his sheep", "A portrait", "A still life"],
+      "correct_answer": "A shepherd with his sheep",
+      "explanation": "The painting showed a shepherd looking after his flock of sheep."
+    },
+    {
+      "id": "tpf_mcq_11",
+      "question": "Where did Mr. Barton take the painting for evaluation?",
+      "options": ["A museum", "An art gallery in London", "An antique shop", "A university"],
+      "correct_answer": "An art gallery in London",
+      "explanation": "Mr. Barton took the painting to an art gallery in London."
+    },
+    {
+      "id": "tpf_mcq_12",
+      "question": "How old was the painting according to the expert?",
+      "options": ["About fifty years old", "About a hundred years old", "About two hundred years old", "About three hundred years old"],
+      "correct_answer": "About a hundred years old",
+      "explanation": "The expert said the painting was about a hundred years old."
+    },
+    {
+      "id": "tpf_mcq_13",
+      "question": "How much was the painting worth?",
+      "options": ["Half a million pounds", "One million pounds", "One hundred thousand pounds", "Twenty thousand pounds"],
+      "correct_answer": "Half a million pounds",
+      "explanation": "The expert valued the painting at about half a million pounds."
+    },
+    {
+      "id": "tpf_mcq_14",
+      "question": "What does 'ornate' mean?",
+      "options": ["Plain and simple", "Old and dusty", "Elaborately decorated", "Large and heavy"],
+      "correct_answer": "Elaborately decorated",
+      "explanation": "'Ornate' means elaborately decorated with intricate designs."
+    },
+    {
+      "id": "tpf_mcq_15",
+      "question": "What is an 'antique'?",
+      "options": ["A new collectible", "A valuable old object", "A type of mirror", "A painting style"],
+      "correct_answer": "A valuable old object",
+      "explanation": "An antique is an old object valued for its age, craftsmanship, or rarity."
+    },
+    {
+      "id": "tpf_mcq_16",
+      "question": "What does 'beamed' mean in the story?",
+      "options": ["Frowned", "Smiled broadly", "Shouted", "Whispered"],
+      "correct_answer": "Smiled broadly",
+      "explanation": "'Beamed' means to smile radiantly or broadly with happiness."
+    },
+    {
+      "id": "tpf_mcq_17",
+      "question": "What does 'caressing' mean?",
+      "options": ["Hitting roughly", "Touching gently and lovingly", "Throwing away", "Examining closely"],
+      "correct_answer": "Touching gently and lovingly",
+      "explanation": "'Caressing' means to touch or stroke gently and lovingly."
+    },
+    {
+      "id": "tpf_mcq_18",
+      "question": "Why did Mr. Barton's 'heart almost stop beating'?",
+      "options": ["He was scared", "He found the hidden painting", "He felt ill", "The price was too high"],
+      "correct_answer": "He found the hidden painting",
+      "explanation": "His heart almost stopped when he discovered the valuable painting."
+    },
+    {
+      "id": "tpf_mcq_19",
+      "question": "What does 'unearthed a treasure' mean?",
+      "options": ["Buried something valuable", "Lost something precious", "Discovered something valuable", "Sold something expensive"],
+      "correct_answer": "Discovered something valuable",
+      "explanation": "To 'unearth a treasure' means to discover something valuable that was hidden."
+    },
+    {
+      "id": "tpf_mcq_20",
+      "question": "What kind of bargainer is Mr. Barton?",
+      "options": ["Naive", "Shrewd", "Careless", "Generous"],
+      "correct_answer": "Shrewd",
+      "explanation": "Mr. Barton is described as a shrewd bargainer who points out flaws to reduce prices."
+    },
+    {
+      "id": "tpf_mcq_21",
+      "question": "What physical features describe Mr. Barton?",
+      "options": ["Tall and muscular", "Thin and bald with thick spectacles", "Short and stout", "Young and handsome"],
+      "correct_answer": "Thin and bald with thick spectacles",
+      "explanation": "The story describes him as thin and bald with thick spectacles."
+    },
+    {
+      "id": "tpf_mcq_22",
+      "question": "How did Mr. Barton feel when he heard the painting's value?",
+      "options": ["He felt it couldn't be true", "He was not surprised", "He was angry", "He was sad"],
+      "correct_answer": "He felt it couldn't be true",
+      "explanation": "Mr. Barton could hardly believe it and thought it couldn't be true."
+    },
+    {
+      "id": "tpf_mcq_23",
+      "question": "What is a 'stallholder'?",
+      "options": ["A person who holds horses", "A person who sells goods at a market stall", "A person who collects antiques", "A security guard"],
+      "correct_answer": "A person who sells goods at a market stall",
+      "explanation": "A stallholder is a person who sells goods from a market stall."
+    },
+    {
+      "id": "tpf_mcq_24",
+      "question": "What does 'umpteen' mean?",
+      "options": ["A specific number", "Very few", "Indefinitely many", "Exactly ten"],
+      "correct_answer": "Indefinitely many",
+      "explanation": "'Umpteen' means an indefinitely large number; very many."
+    },
+    {
+      "id": "tpf_mcq_25",
+      "question": "What does 'hideous' mean?",
+      "options": ["Beautiful", "Extremely ugly", "Expensive", "Rare"],
+      "correct_answer": "Extremely ugly",
+      "explanation": "'Hideous' means extremely ugly or unpleasant to look at."
+    }
+  ]
+}

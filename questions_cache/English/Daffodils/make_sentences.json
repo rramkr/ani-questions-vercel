@@ -1,0 +1,187 @@
+{
+  "subject": "English",
+  "chapter": "Daffodils",
+  "type": "make_sentences",
+  "questions": [
+    {
+      "id": "daffodils_ms_1",
+      "word": "wandered",
+      "meaning": "walked about without a fixed destination or purpose; roamed aimlessly",
+      "sample_sentence": "The tourists wandered through the ancient streets of the old city, admiring the beautiful architecture and historical monuments."
+    },
+    {
+      "id": "daffodils_ms_2",
+      "word": "wondered",
+      "meaning": "felt curious about something; thought with curiosity or surprise",
+      "sample_sentence": "She wondered why her best friend had not replied to any of her messages since yesterday morning."
+    },
+    {
+      "id": "daffodils_ms_3",
+      "word": "vales",
+      "meaning": "valleys; low areas of land between hills or mountains (poetic word)",
+      "sample_sentence": "The shepherd guided his flock of sheep through the green vales and over the gentle rolling hills."
+    },
+    {
+      "id": "daffodils_ms_4",
+      "word": "crowd",
+      "meaning": "a large number of people or things gathered together in one place",
+      "sample_sentence": "A huge crowd gathered in the stadium to watch the final match of the exciting cricket tournament."
+    },
+    {
+      "id": "daffodils_ms_5",
+      "word": "crowed",
+      "meaning": "made a loud cry like a rooster; or boasted proudly about something",
+      "sample_sentence": "The rooster crowed loudly every morning at five o'clock, waking up everyone in the peaceful farmhouse."
+    },
+    {
+      "id": "daffodils_ms_6",
+      "word": "heart",
+      "meaning": "the organ that pumps blood; also the centre of emotions like love",
+      "sample_sentence": "Her heart was filled with gratitude when her friends surprised her with a beautiful birthday party."
+    },
+    {
+      "id": "daffodils_ms_7",
+      "word": "hart",
+      "meaning": "a male deer, especially a red deer that is more than five years old",
+      "sample_sentence": "The hunters spotted a magnificent hart with huge antlers drinking water from the forest stream."
+    },
+    {
+      "id": "daffodils_ms_8",
+      "word": "daffodils",
+      "meaning": "bright yellow spring flowers with trumpet-shaped centres",
+      "sample_sentence": "Every spring, the garden becomes beautiful with hundreds of golden daffodils swaying gently in the breeze."
+    },
+    {
+      "id": "daffodils_ms_9",
+      "word": "margin",
+      "meaning": "the edge or border of something",
+      "sample_sentence": "The teacher asked us to leave a wide margin on the left side of our notebooks for corrections."
+    },
+    {
+      "id": "daffodils_ms_10",
+      "word": "sprightly",
+      "meaning": "lively, energetic, and full of spirit",
+      "sample_sentence": "Despite being eighty years old, my grandmother remains sprightly and enjoys her morning walk every day."
+    },
+    {
+      "id": "daffodils_ms_11",
+      "word": "jocund",
+      "meaning": "cheerful, merry, and light-hearted",
+      "sample_sentence": "The children were in a jocund mood during the festival, singing songs and playing games together happily."
+    },
+    {
+      "id": "daffodils_ms_12",
+      "word": "pensive",
+      "meaning": "engaged in deep or serious thought, often with a hint of sadness",
+      "sample_sentence": "After reading the letter, she sat by the window in a pensive mood, remembering her childhood days."
+    },
+    {
+      "id": "daffodils_ms_13",
+      "word": "solitude",
+      "meaning": "the state of being alone, often by choice",
+      "sample_sentence": "The writer moved to a cottage in the mountains, seeking solitude to complete her novel peacefully."
+    },
+    {
+      "id": "daffodils_ms_14",
+      "word": "glee",
+      "meaning": "great joy, happiness, or delight",
+      "sample_sentence": "The children jumped with glee when they heard that the school picnic was scheduled for next week."
+    },
+    {
+      "id": "daffodils_ms_15",
+      "word": "host",
+      "meaning": "a large number or multitude (in this context)",
+      "sample_sentence": "A host of butterflies descended upon the garden, creating a spectacular display of colour and movement."
+    },
+    {
+      "id": "daffodils_ms_16",
+      "word": "oft",
+      "meaning": "often; frequently (poetic/archaic word)",
+      "sample_sentence": "She spoke oft of her childhood in the village and the happy memories she had of those days."
+    },
+    {
+      "id": "daffodils_ms_17",
+      "word": "vacant",
+      "meaning": "empty; not occupied or filled",
+      "sample_sentence": "The vacant lot next to our house was finally developed into a beautiful community garden for everyone."
+    },
+    {
+      "id": "daffodils_ms_18",
+      "word": "golden",
+      "meaning": "having the colour of gold; bright yellow; also meaning precious",
+      "sample_sentence": "The autumn leaves turned golden and orange, creating a beautiful carpet on the forest floor below."
+    },
+    {
+      "id": "daffodils_ms_19",
+      "word": "sparkling",
+      "meaning": "shining brightly with flashes of light",
+      "sample_sentence": "The sparkling diamond necklace caught everyone's attention at the grand wedding reception last night gracefully."
+    },
+    {
+      "id": "daffodils_ms_20",
+      "word": "continuous",
+      "meaning": "unbroken; going on without stopping",
+      "sample_sentence": "The continuous rain for three days caused flooding in many low-lying areas of the city and villages."
+    },
+    {
+      "id": "daffodils_ms_21",
+      "word": "inward",
+      "meaning": "directed toward the inside; relating to the mind or inner self",
+      "sample_sentence": "She took an inward journey through meditation to find peace and understand her true self better."
+    },
+    {
+      "id": "daffodils_ms_22",
+      "word": "lonely",
+      "meaning": "feeling sad because of being alone; solitary",
+      "sample_sentence": "The old lighthouse keeper lived a lonely life on the remote island, seeing visitors only occasionally."
+    },
+    {
+      "id": "daffodils_ms_23",
+      "word": "fluttering",
+      "meaning": "moving with quick, light movements; waving rapidly",
+      "sample_sentence": "The colourful flags were fluttering in the wind during the Independence Day celebration at our school."
+    },
+    {
+      "id": "daffodils_ms_24",
+      "word": "twinkle",
+      "meaning": "to shine with a flickering or sparkling light",
+      "sample_sentence": "The stars began to twinkle in the clear night sky as the sun set behind the distant mountains."
+    },
+    {
+      "id": "daffodils_ms_25",
+      "word": "glance",
+      "meaning": "a brief or quick look",
+      "sample_sentence": "She took a quick glance at her watch and realized she was already late for the important meeting."
+    },
+    {
+      "id": "daffodils_ms_26",
+      "word": "gay",
+      "meaning": "(in the poem) happy, carefree, and light-hearted",
+      "sample_sentence": "The children were in a gay mood after the exams ended, looking forward to their summer vacation."
+    },
+    {
+      "id": "daffodils_ms_27",
+      "word": "couch",
+      "meaning": "a long, comfortable piece of furniture for sitting or lying on",
+      "sample_sentence": "After a tiring day at work, he relaxed on the comfortable couch and watched his favourite television show."
+    },
+    {
+      "id": "daffodils_ms_28",
+      "word": "bliss",
+      "meaning": "perfect happiness; great joy",
+      "sample_sentence": "Watching the sunset over the ocean with my family was a moment of pure bliss and tranquility."
+    },
+    {
+      "id": "daffodils_ms_29",
+      "word": "pleasure",
+      "meaning": "a feeling of happiness, enjoyment, or satisfaction",
+      "sample_sentence": "It gives me great pleasure to announce that our school team won the district-level science competition."
+    },
+    {
+      "id": "daffodils_ms_30",
+      "word": "wealth",
+      "meaning": "valuable possessions; riches; abundance of good things",
+      "sample_sentence": "True wealth lies not in material possessions but in the love of family and friends around us."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "subject": "English",
+  "chapter": "The Picture Frame",
+  "type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tpf_tb_1",
+      "question": "Where does Mr. Barton live? What sort of a man is he?",
+      "answer": "Mr. Barton lives in a seaside town in England. He is an elderly man of 82 years who is thin and bald with thick spectacles. He is a pleasant, friendly person who loves antiques and enjoys spending his time searching for old treasures in second-hand shops and market stalls.",
+      "justification": "The story describes him as 82, thin, bald with thick spectacles, and mentions he lives in a seaside town in England."
+    },
+    {
+      "id": "tpf_tb_2",
+      "question": "What sort of things does Mr. Barton like? Why, do you think, does he like such things?",
+      "answer": "Mr. Barton likes old things, especially antiques such as old picture frames, Victorian biscuit tins, old furniture, silver candlesticks, and vintage clocks. He probably likes such things because they have character, history, and remind him of the past. As an elderly person, he may feel connected to objects from earlier times.",
+      "justification": "The text lists his interests in antiques and old objects, showing his passion for things with history."
+    },
+    {
+      "id": "tpf_tb_3",
+      "question": "What was Mr. Barton doing in town that morning? What did he find and how much did he pay for it?",
+      "answer": "That morning, Mr. Barton was wandering around town looking at the stalls and peering into shop windows in search of antiques. He found an ornate old picture frame with a dirty mirror in it. He paid twenty pounds for it after bargaining with the stallholder.",
+      "justification": "The story describes his morning routine of hunting for antiques and the negotiation for the frame."
+    },
+    {
+      "id": "tpf_tb_4",
+      "question": "What did Mr. Barton find in the frame that he bought?",
+      "answer": "After cleaning the frame at home, Mr. Barton discovered that behind the dirty old mirror was a beautiful oil painting. The painting showed a shepherd looking after his flock of sheep in a grassy field with hills and blue sky in the background.",
+      "justification": "The text describes how he removed the mirror backing and found the hidden painting."
+    },
+    {
+      "id": "tpf_tb_5",
+      "question": "What do you think of the stallholder's claim that he himself had paid ten pounds for the frame?",
+      "answer": "The stallholder's claim of paying ten pounds seems exaggerated and likely untrue. He was probably trying to justify his asking price of forty pounds and make Mr. Barton feel he was getting a fair deal. In reality, the stallholder had only paid two pounds for it, as revealed later in the story.",
+      "justification": "The story later reveals the stallholder paid only two pounds, exposing his false claim."
+    },
+    {
+      "id": "tpf_tb_6",
+      "question": "Do you think Mr. Barton is a shrewd bargainer? Quote an example from the story to illustrate your view.",
+      "answer": "Yes, Mr. Barton is definitely a shrewd bargainer. When the stallholder asked for forty pounds, Mr. Barton immediately spotted the flaws in the item, pointing out that the frame was scratched and the mirror was cracked. He then offered only twenty pounds, which was half the asking price, and succeeded in getting the item at that price.",
+      "justification": "His bargaining technique of pointing out defects and offering half the price shows his negotiating skills."
+    },
+    {
+      "id": "tpf_tb_7",
+      "question": "Do you think that the stallholder would have charged more if the frame had not been scratched?",
+      "answer": "Yes, the stallholder would definitely have charged more if the frame had not been scratched. The scratches and cracked mirror were obvious defects that reduced the value of the item. Without these flaws, the stallholder could have justified a higher price, and Mr. Barton would have had less room to negotiate.",
+      "justification": "The defects gave Mr. Barton leverage to bargain; without them, the asking price would have been harder to reduce."
+    },
+    {
+      "id": "tpf_tb_8",
+      "question": "Do you think that the stallholder knew what was behind the mirror? Give reasons for your answer.",
+      "answer": "No, the stallholder definitely did not know about the painting hidden behind the mirror. If he had known about the valuable artwork, he would never have sold the frame for just twenty pounds. The fact that he sold it so cheaply and had bought it himself for only two pounds shows he had no idea of its true value.",
+      "justification": "His willingness to sell cheaply and his low purchase price prove he was unaware of the hidden treasure."
+    },
+    {
+      "id": "tpf_tb_9",
+      "question": "Why do you think the painting was hidden behind a mirror in the old frame?",
+      "answer": "The painting was likely hidden behind the mirror to protect it or conceal it during difficult times. Perhaps the original owner wanted to safeguard the valuable artwork from thieves, or during wartime, people sometimes hid precious items. Another possibility is that someone didn't realize the painting's value and simply used the frame for a mirror.",
+      "justification": "This requires inference about historical practices of hiding valuables for protection."
+    },
+    {
+      "id": "tpf_tb_10",
+      "question": "(HOTS) If you were in Mr. Barton's place, what would you do with the painting if you discovered it was priceless?",
+      "answer": "If I were in Mr. Barton's place and discovered a priceless painting, I would first get it properly authenticated and valued by experts. Then I would consider my options carefully - I could sell it and use the money for good causes, or donate it to a museum so everyone could enjoy it. I might also keep it and will it to a museum, ensuring it's preserved for future generations while I enjoy it during my lifetime.",
+      "justification": "This is a HOTS question requiring personal reflection and critical thinking about ethical choices."
+    },
+    {
+      "id": "tpf_tb_11",
+      "question": "Reference to Context: 'He rubbed his hand over the surface of the painting, caressing it gently, his eyes glowing with joy. He had unearthed a treasure!' - What is Mr. Barton doing at this time?",
+      "answer": "At this moment, Mr. Barton has just discovered the hidden painting behind the mirror in the frame he bought. He is gently touching and admiring the beautiful oil painting, overwhelmed by his incredible discovery.",
+      "justification": "This follows the discovery scene where he removes the mirror and finds the painting."
+    },
+    {
+      "id": "tpf_tb_12",
+      "question": "Reference to Context: 'He rubbed his hand over the surface of the painting, caressing it gently, his eyes glowing with joy. He had unearthed a treasure!' - What had he unearthed? Why is it described as a 'treasure'?",
+      "answer": "Mr. Barton had unearthed a beautiful old oil painting that was hidden behind the dirty mirror. It is described as a 'treasure' because it turned out to be extremely valuable - worth half a million pounds. Also, for an antique lover like Mr. Barton, finding such a rare and beautiful painting is like discovering buried treasure.",
+      "justification": "The painting's monetary value and its significance to an antique collector justify the term 'treasure'."
+    },
+    {
+      "id": "tpf_tb_13",
+      "question": "Reference to Context: 'He rubbed his hand over the surface of the painting, caressing it gently, his eyes glowing with joy. He had unearthed a treasure!' - What did he decide to do with his treasure?",
+      "answer": "Mr. Barton decided to take his treasure to an art gallery in London to find out more about it and its value. He wanted experts to examine the painting and determine its authenticity and worth.",
+      "justification": "The story shows him taking the painting to a London art gallery for expert evaluation."
+    },
+    {
+      "id": "tpf_tb_14",
+      "question": "True or False: Mr. Barton loves visiting old temples.",
+      "answer": "False. The story states he loves visiting second-hand shops and market stalls, not temples.",
+      "justification": "The text clearly mentions his interest in shops and stalls, not temples."
+    },
+    {
+      "id": "tpf_tb_15",
+      "question": "True or False: Mr. Barton finds an old-fashioned mirror in a supermarket.",
+      "answer": "False. He finds it at a market stall, not a supermarket.",
+      "justification": "The story describes him finding the frame at a market stall."
+    },
+    {
+      "id": "tpf_tb_16",
+      "question": "True or False: Mr. Barton offers twenty pounds for the mirror and this is accepted.",
+      "answer": "True. The story confirms he offered twenty pounds and the stallholder accepted.",
+      "justification": "The bargaining scene ends with the stallholder accepting twenty pounds."
+    },
+    {
+      "id": "tpf_tb_17",
+      "question": "True or False: Mr. Barton finds an old clock hidden behind the mirror.",
+      "answer": "False. He finds an oil painting behind the mirror, not a clock.",
+      "justification": "The hidden item was a painting of a shepherd with sheep."
+    },
+    {
+      "id": "tpf_tb_18",
+      "question": "True or False: The painting was about a hundred years old.",
+      "answer": "True. The art gallery expert confirmed the painting was about a hundred years old.",
+      "justification": "The expert's assessment of the painting's age is given in the story."
+    },
+    {
+      "id": "tpf_tb_19",
+      "question": "True or False: The painting was worth a hundred pounds.",
+      "answer": "False. The painting was worth half a million pounds, not a hundred pounds.",
+      "justification": "The expert valued it at approximately half a million pounds."
+    },
+    {
+      "id": "tpf_tb_20",
+      "question": "True or False: The stallholder paid more for the mirror than he sold it for.",
+      "answer": "False. The stallholder paid only two pounds and sold it for twenty pounds, making a profit.",
+      "justification": "The story reveals the stallholder's actual purchase price was only two pounds."
+    },
+    {
+      "id": "tpf_tb_21",
+      "question": "Working with Words: Use the phrase 'liked nothing better' in a sentence and explain its meaning.",
+      "answer": "Sentence: My grandmother liked nothing better than sitting in her garden and watching the birds.\n\nMeaning: This phrase means 'enjoyed most of all' or 'found greatest pleasure in'. It indicates that something is a person's favourite activity.",
+      "justification": "The phrase expresses supreme enjoyment of an activity."
+    },
+    {
+      "id": "tpf_tb_22",
+      "question": "Working with Words: Use the phrase 'more than life itself' in a sentence and explain its meaning.",
+      "answer": "Sentence: The mother loved her children more than life itself and would do anything to protect them.\n\nMeaning: This phrase expresses extreme love or devotion to something - loving it even more than one's own life.",
+      "justification": "The phrase indicates the highest degree of love or attachment."
+    },
+    {
+      "id": "tpf_tb_23",
+      "question": "Working with Words: Use the phrase 'looking as good as new' in a sentence and explain its meaning.",
+      "answer": "Sentence: After the mechanic repaired my bicycle, it was looking as good as new.\n\nMeaning: This phrase means restored to excellent condition, appearing almost brand new despite being old or damaged before.",
+      "justification": "The phrase describes something restored to excellent condition."
+    },
+    {
+      "id": "tpf_tb_24",
+      "question": "Working with Words: Use the phrase 'his heart almost stopped beating' in a sentence and explain its meaning.",
+      "answer": "Sentence: When the doctor announced the test results, his heart almost stopped beating with anxiety.\n\nMeaning: This phrase describes extreme shock, surprise, or fear - a moment of intense emotion that feels overwhelming.",
+      "justification": "The phrase is a hyperbole expressing extreme emotional reaction."
+    },
+    {
+      "id": "tpf_tb_25",
+      "question": "Working with Words: Use the phrase 'it can't be true' in a sentence and explain its meaning.",
+      "answer": "Sentence: When she heard she had won the lottery, she kept saying to herself, 'It can't be true!'\n\nMeaning: This phrase expresses disbelief at unexpected news - finding something hard to accept because it seems too good or too shocking.",
+      "justification": "The phrase expresses disbelief at surprising news."
+    },
+    {
+      "id": "tpf_tb_26",
+      "question": "Working with Words: Form adjectives and adverbs from the following nouns: beauty, wonder, skill, care.",
+      "answer": "beauty - beautiful (adjective), beautifully (adverb)\nwonder - wonderful (adjective), wonderfully (adverb)\nskill - skilful/skillful (adjective), skilfully/skillfully (adverb)\ncare - careful (adjective), carefully (adverb)",
+      "justification": "Adjectives describe nouns; adverbs describe verbs, adjectives, or other adverbs."
+    }
+  ]
+}

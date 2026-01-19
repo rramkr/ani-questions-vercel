@@ -1,0 +1,187 @@
+{
+  "subject": "English",
+  "chapter": "The Picture Frame",
+  "type": "make_sentences",
+  "questions": [
+    {
+      "id": "tpf_ms_1",
+      "word": "beamed",
+      "meaning": "smiled radiantly and happily",
+      "sample_sentence": "The proud father beamed with joy when his daughter received the first prize at the annual day."
+    },
+    {
+      "id": "tpf_ms_2",
+      "word": "caressing",
+      "meaning": "touching gently and lovingly",
+      "sample_sentence": "The mother was caressing her baby's soft cheeks while singing a gentle lullaby to help him sleep."
+    },
+    {
+      "id": "tpf_ms_3",
+      "word": "hideous",
+      "meaning": "extremely ugly or unpleasant to look at",
+      "sample_sentence": "The old abandoned house looked hideous with its broken windows, peeling paint, and overgrown garden."
+    },
+    {
+      "id": "tpf_ms_4",
+      "word": "ornate",
+      "meaning": "elaborately decorated with intricate designs",
+      "sample_sentence": "The ornate carvings on the ancient temple walls attracted tourists from all over the world to visit."
+    },
+    {
+      "id": "tpf_ms_5",
+      "word": "pound",
+      "meaning": "the basic unit of British currency",
+      "sample_sentence": "The tourist exchanged his dollars for British pounds before visiting the famous landmarks in London."
+    },
+    {
+      "id": "tpf_ms_6",
+      "word": "stallholder",
+      "meaning": "a person who sells goods from a market stall",
+      "sample_sentence": "The friendly stallholder offered us fresh vegetables at a discounted price since it was closing time."
+    },
+    {
+      "id": "tpf_ms_7",
+      "word": "umpteen",
+      "meaning": "very many; indefinitely numerous",
+      "sample_sentence": "I have told you umpteen times to clean your room before going out to play with friends."
+    },
+    {
+      "id": "tpf_ms_8",
+      "word": "antiques",
+      "meaning": "old objects valued for their age, beauty, or rarity",
+      "sample_sentence": "My grandmother's house is filled with beautiful antiques that have been collected over many generations."
+    },
+    {
+      "id": "tpf_ms_9",
+      "word": "wandering",
+      "meaning": "walking around without a specific destination",
+      "sample_sentence": "We spent the afternoon wandering through the narrow streets of the old town, enjoying the scenery."
+    },
+    {
+      "id": "tpf_ms_10",
+      "word": "peering",
+      "meaning": "looking closely or with difficulty",
+      "sample_sentence": "The curious child was peering through the window to see the colourful parade passing by outside."
+    },
+    {
+      "id": "tpf_ms_11",
+      "word": "spotted",
+      "meaning": "noticed or saw something",
+      "sample_sentence": "The eagle spotted its prey from high above the valley and swooped down quickly to catch it."
+    },
+    {
+      "id": "tpf_ms_12",
+      "word": "bargaining",
+      "meaning": "negotiating the price of something",
+      "sample_sentence": "After much bargaining with the shopkeeper, we finally got the beautiful carpet at half its price."
+    },
+    {
+      "id": "tpf_ms_13",
+      "word": "scratched",
+      "meaning": "having marks made by something sharp or rough",
+      "sample_sentence": "The antique table was beautiful despite being slightly scratched on its polished wooden surface."
+    },
+    {
+      "id": "tpf_ms_14",
+      "word": "cracked",
+      "meaning": "having lines or breaks on the surface",
+      "sample_sentence": "The old cracked mirror still hung on the wall of the abandoned mansion, reflecting dusty light."
+    },
+    {
+      "id": "tpf_ms_15",
+      "word": "polished",
+      "meaning": "made smooth and shiny by rubbing",
+      "sample_sentence": "The maid polished the silverware until it gleamed brightly in the sunlight streaming through the window."
+    },
+    {
+      "id": "tpf_ms_16",
+      "word": "restored",
+      "meaning": "returned something to its original condition",
+      "sample_sentence": "The expert carefully restored the damaged painting to its former glory after months of delicate work."
+    },
+    {
+      "id": "tpf_ms_17",
+      "word": "treasure",
+      "meaning": "a collection of valuable things; something precious",
+      "sample_sentence": "The pirates buried their treasure on a remote island and drew a secret map to find it."
+    },
+    {
+      "id": "tpf_ms_18",
+      "word": "discovery",
+      "meaning": "the act of finding something new or hidden",
+      "sample_sentence": "The discovery of the ancient tomb was the greatest archaeological find of the entire century."
+    },
+    {
+      "id": "tpf_ms_19",
+      "word": "valuable",
+      "meaning": "worth a lot of money or very useful",
+      "sample_sentence": "The valuable diamond necklace was kept in a secure vault at the bank for safekeeping."
+    },
+    {
+      "id": "tpf_ms_20",
+      "word": "amazed",
+      "meaning": "greatly surprised or astonished",
+      "sample_sentence": "The audience was amazed by the magician's incredible disappearing act performed on the grand stage."
+    },
+    {
+      "id": "tpf_ms_21",
+      "word": "fortune",
+      "meaning": "a large amount of money or wealth",
+      "sample_sentence": "The businessman made a fortune by investing wisely in the stock market over many years."
+    },
+    {
+      "id": "tpf_ms_22",
+      "word": "genuine",
+      "meaning": "truly what it is said to be; authentic",
+      "sample_sentence": "The expert confirmed that the painting was a genuine work of the famous Renaissance master."
+    },
+    {
+      "id": "tpf_ms_23",
+      "word": "passionate",
+      "meaning": "having strong feelings or enthusiasm for something",
+      "sample_sentence": "She is passionate about wildlife conservation and works tirelessly with endangered species every day."
+    },
+    {
+      "id": "tpf_ms_24",
+      "word": "elegant",
+      "meaning": "graceful and stylish in appearance",
+      "sample_sentence": "The elegant ballroom was decorated with crystal chandeliers, silk curtains, and fresh flowers everywhere."
+    },
+    {
+      "id": "tpf_ms_25",
+      "word": "shrewd",
+      "meaning": "having sharp judgement; clever in practical matters",
+      "sample_sentence": "The shrewd businessman always managed to get the best deals in all his business negotiations."
+    },
+    {
+      "id": "tpf_ms_26",
+      "word": "delighted",
+      "meaning": "feeling great pleasure and happiness",
+      "sample_sentence": "The children were delighted when they saw the surprise birthday party arranged specially for them."
+    },
+    {
+      "id": "tpf_ms_27",
+      "word": "examine",
+      "meaning": "to inspect or look at something carefully",
+      "sample_sentence": "The doctor asked the patient to lie down so she could examine him thoroughly for symptoms."
+    },
+    {
+      "id": "tpf_ms_28",
+      "word": "revealed",
+      "meaning": "made known something that was hidden or secret",
+      "sample_sentence": "The investigation revealed that the company had been hiding important information from its customers."
+    },
+    {
+      "id": "tpf_ms_29",
+      "word": "masterpiece",
+      "meaning": "an outstanding work of art or craft",
+      "sample_sentence": "The Mona Lisa is considered a masterpiece of Renaissance art and attracts millions of visitors."
+    },
+    {
+      "id": "tpf_ms_30",
+      "word": "priceless",
+      "meaning": "so valuable that its worth cannot be determined",
+      "sample_sentence": "The museum houses priceless artifacts from ancient civilizations that cannot be replaced if damaged."
+    }
+  ]
+}

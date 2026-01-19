@@ -1,0 +1,112 @@
+{
+  "subject": "English",
+  "chapter": "The Picture Frame",
+  "type": "reference_to_context",
+  "questions": [
+    {
+      "id": "tpf_rtc_1",
+      "extract": "\"He was a pleasant man who liked nothing better than spending his mornings wandering around the town, looking at the stalls, and peering through shop windows in search of antiques.\"",
+      "question": "Who is 'he' in this extract?",
+      "answer": "'He' refers to Mr. Barton, an 82-year-old man who lives in a seaside town in England.",
+      "justification": "The extract introduces the main character at the beginning of the story."
+    },
+    {
+      "id": "tpf_rtc_2",
+      "extract": "\"He was a pleasant man who liked nothing better than spending his mornings wandering around the town, looking at the stalls, and peering through shop windows in search of antiques.\"",
+      "question": "What are antiques? Why does he search for them?",
+      "answer": "Antiques are old objects that have value because of their age, beauty, rarity, or historical significance. Mr. Barton searches for antiques because he has a deep passion for old things and loves discovering hidden treasures from the past.",
+      "justification": "The story establishes his love for antiques as his primary hobby and interest."
+    },
+    {
+      "id": "tpf_rtc_3",
+      "extract": "\"He was a pleasant man who liked nothing better than spending his mornings wandering around the town, looking at the stalls, and peering through shop windows in search of antiques.\"",
+      "question": "What does this tell us about his character?",
+      "answer": "This tells us that Mr. Barton is a patient, curious person with refined tastes. He appreciates history and craftsmanship, and finds joy in the simple pleasure of hunting for treasures rather than modern entertainment.",
+      "justification": "His hobby reveals his personality traits and values."
+    },
+    {
+      "id": "tpf_rtc_4",
+      "extract": "\"'I paid ten pounds for it myself,' said the stallholder. 'It's worth at least forty.'\"",
+      "question": "What is 'it' that the stallholder is referring to?",
+      "answer": "'It' refers to the ornate old picture frame with a dirty, cracked mirror that Mr. Barton was interested in buying.",
+      "justification": "The dialogue occurs during the bargaining scene for the frame."
+    },
+    {
+      "id": "tpf_rtc_5",
+      "extract": "\"'I paid ten pounds for it myself,' said the stallholder. 'It's worth at least forty.'\"",
+      "question": "Was the stallholder telling the truth? How do we know?",
+      "answer": "No, the stallholder was not telling the truth. At the end of the story, we learn that he had actually paid only two pounds for the frame, not ten pounds as he claimed.",
+      "justification": "The story's ending reveals the stallholder's actual purchase price."
+    },
+    {
+      "id": "tpf_rtc_6",
+      "extract": "\"'I paid ten pounds for it myself,' said the stallholder. 'It's worth at least forty.'\"",
+      "question": "What does this tell us about the stallholder?",
+      "answer": "This shows that the stallholder is a cunning businessman who exaggerates and lies to get better prices. He uses false claims about his costs to justify higher selling prices and make buyers feel they're getting a fair deal.",
+      "justification": "His deceptive pricing tactics reveal his dishonest nature in business dealings."
+    },
+    {
+      "id": "tpf_rtc_7",
+      "extract": "\"His eyes lit up when he spotted an ornate old picture frame standing at the back of one of the stalls.\"",
+      "question": "Whose eyes lit up? Why?",
+      "answer": "Mr. Barton's eyes lit up because he spotted something that interested him greatly - an ornate old picture frame. As an antique lover, finding such an item excited him.",
+      "justification": "The phrase shows his immediate interest and excitement at seeing a potential treasure."
+    },
+    {
+      "id": "tpf_rtc_8",
+      "extract": "\"His eyes lit up when he spotted an ornate old picture frame standing at the back of one of the stalls.\"",
+      "question": "What does 'ornate' mean? Describe the frame.",
+      "answer": "'Ornate' means elaborately decorated with intricate designs. The frame was an old, decorative picture frame with detailed carvings, though it had scratches on it and contained a dirty, cracked mirror.",
+      "justification": "The word 'ornate' and subsequent description detail the frame's appearance."
+    },
+    {
+      "id": "tpf_rtc_9",
+      "extract": "\"His eyes lit up when he spotted an ornate old picture frame standing at the back of one of the stalls.\"",
+      "question": "What did Mr. Barton eventually do with this frame?",
+      "answer": "Mr. Barton bargained for the frame and bought it for twenty pounds. He took it home, cleaned it, and discovered a valuable painting hidden behind the mirror. He then took it to an art gallery where it was valued at half a million pounds.",
+      "justification": "This summarizes the key events following the purchase."
+    },
+    {
+      "id": "tpf_rtc_10",
+      "extract": "\"He rubbed his hand over the surface of the painting, caressing it gently, his eyes glowing with joy. He had unearthed a treasure!\"",
+      "question": "What had Mr. Barton just discovered?",
+      "answer": "Mr. Barton had just discovered a beautiful oil painting hidden behind the dirty mirror in the frame he had bought. The painting depicted a shepherd tending his flock in a peaceful countryside setting.",
+      "justification": "The extract follows his discovery of the hidden painting."
+    },
+    {
+      "id": "tpf_rtc_11",
+      "extract": "\"He rubbed his hand over the surface of the painting, caressing it gently, his eyes glowing with joy. He had unearthed a treasure!\"",
+      "question": "Explain the meaning of 'caressing it gently'.",
+      "answer": "'Caressing it gently' means touching something softly and lovingly, with great care and affection. Mr. Barton was touching the painting delicately because he was overwhelmed with joy at his discovery and wanted to appreciate its beauty.",
+      "justification": "The word 'caressing' implies tender, affectionate touching."
+    },
+    {
+      "id": "tpf_rtc_12",
+      "extract": "\"He rubbed his hand over the surface of the painting, caressing it gently, his eyes glowing with joy. He had unearthed a treasure!\"",
+      "question": "Why did he feel he had 'unearthed a treasure'?",
+      "answer": "He felt he had 'unearthed a treasure' because finding a hidden painting in an old frame was like discovering buried treasure. The word 'unearthed' suggests digging up something valuable that was hidden, which is exactly what happened when he found the painting concealed behind the mirror.",
+      "justification": "The metaphor compares his discovery to finding buried treasure."
+    },
+    {
+      "id": "tpf_rtc_13",
+      "extract": "\"'You've made an amazing discovery, sir,' he said. 'This painting is worth a great deal of money. About half a million pounds, I'd say.'\"",
+      "question": "Who is the speaker? Where is this conversation taking place?",
+      "answer": "The speaker is an expert at an art gallery in London. The conversation is taking place at the gallery where Mr. Barton had taken the painting to get it evaluated.",
+      "justification": "The story indicates Mr. Barton took the painting to a London art gallery for assessment."
+    },
+    {
+      "id": "tpf_rtc_14",
+      "extract": "\"'You've made an amazing discovery, sir,' he said. 'This painting is worth a great deal of money. About half a million pounds, I'd say.'\"",
+      "question": "What is the 'amazing discovery' being referred to?",
+      "answer": "The 'amazing discovery' refers to the valuable oil painting that Mr. Barton found hidden behind the mirror in the old frame he had bought for just twenty pounds.",
+      "justification": "The expert recognizes the significance of finding such a valuable hidden artwork."
+    },
+    {
+      "id": "tpf_rtc_15",
+      "extract": "\"'You've made an amazing discovery, sir,' he said. 'This painting is worth a great deal of money. About half a million pounds, I'd say.'\"",
+      "question": "How did Mr. Barton react to this news?",
+      "answer": "Mr. Barton was shocked and could hardly believe it. He thought to himself that it couldn't be true. The news that his twenty-pound purchase contained a painting worth half a million pounds was overwhelming.",
+      "justification": "His disbelief at the enormous value is evident from his reaction."
+    }
+  ]
+}

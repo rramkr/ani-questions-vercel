@@ -1,0 +1,67 @@
+{
+  "subject": "English",
+  "chapter": "The Picture Frame",
+  "type": "short_answer",
+  "questions": [
+    {
+      "id": "tpf_sa_1",
+      "question": "Describe Mr. Barton's appearance and daily routine.",
+      "answer": "Mr. Barton is an 82-year-old man who is thin and bald with thick spectacles. He lives in a seaside town in England. His daily routine consists of wandering around the town during mornings, looking at market stalls and peering through shop windows in search of antiques. He has a great passion for old things and loves hunting for hidden treasures among second-hand goods.",
+      "justification": "These details are provided in the opening paragraphs of the story."
+    },
+    {
+      "id": "tpf_sa_2",
+      "question": "What attracted Mr. Barton to the picture frame at the stall?",
+      "answer": "Mr. Barton was attracted to the picture frame because it was ornate, meaning it had elaborate decorations. As a lover of antiques, such detailed old craftsmanship appealed to him greatly. Even though the frame had scratches and the mirror was dirty and cracked, the ornate design caught his eye and made him want to examine it more closely.",
+      "justification": "His passion for antiques drew him to the decorative qualities of the frame."
+    },
+    {
+      "id": "tpf_sa_3",
+      "question": "Describe the bargaining scene between Mr. Barton and the stallholder.",
+      "answer": "The stallholder initially asked for forty pounds, claiming he had paid ten pounds for it himself. Mr. Barton, being a shrewd bargainer, pointed out the defects - the scratched frame and cracked mirror. He then offered twenty pounds, which was exactly half the asking price. After some hesitation, the stallholder agreed, and Mr. Barton happily took home his purchase.",
+      "justification": "The negotiation scene demonstrates both characters' bargaining tactics."
+    },
+    {
+      "id": "tpf_sa_4",
+      "question": "How did Mr. Barton discover the painting hidden behind the mirror?",
+      "answer": "After returning home, Mr. Barton lovingly cleaned and polished the old frame until it looked almost as good as new. While working on it, he noticed that the back of the mirror seemed loose. When he carefully removed it, he discovered a beautiful oil painting hidden behind it. The painting showed a shepherd looking after his flock of sheep.",
+      "justification": "The story describes his cleaning process leading to the discovery."
+    },
+    {
+      "id": "tpf_sa_5",
+      "question": "Describe the painting that Mr. Barton discovered.",
+      "answer": "The painting that Mr. Barton discovered was a beautiful old oil painting depicting a pastoral scene. It showed a shepherd looking after his flock of sheep in a grassy field. In the background, there were rolling hills and a clear blue sky. The painting was about a hundred years old and showed remarkable artistic skill.",
+      "justification": "The description of the painting is given when Mr. Barton discovers it."
+    },
+    {
+      "id": "tpf_sa_6",
+      "question": "What did the art gallery expert tell Mr. Barton about the painting?",
+      "answer": "The art gallery expert told Mr. Barton that he had made an amazing discovery. He informed him that the painting was about a hundred years old and was extremely valuable. He estimated its worth at approximately half a million pounds, which left Mr. Barton shocked and in disbelief.",
+      "justification": "The expert's evaluation is given near the end of the story."
+    },
+    {
+      "id": "tpf_sa_7",
+      "question": "Why do you think the stallholder sold the frame so cheaply?",
+      "answer": "The stallholder sold the frame cheaply because he had no idea that a valuable painting was hidden behind the mirror. He only saw a scratched frame with a dirty, cracked mirror and thought twenty pounds was a good profit since he had paid only two pounds for it. His ignorance of the hidden treasure cost him a fortune.",
+      "justification": "The stallholder's lack of knowledge about the painting's existence explains his pricing."
+    },
+    {
+      "id": "tpf_sa_8",
+      "question": "What qualities of Mr. Barton helped him make this discovery?",
+      "answer": "Several qualities helped Mr. Barton make this discovery. His passion for antiques made him notice the ornate frame. His patience in searching for treasures led him to that stall. His skill in bargaining helped him buy it at a reasonable price. Finally, his careful and loving treatment of his purchases led him to clean it thoroughly and discover the hidden painting.",
+      "justification": "Multiple character traits combined to enable his fortunate discovery."
+    },
+    {
+      "id": "tpf_sa_9",
+      "question": "What is the significance of the title 'The Picture Frame'?",
+      "answer": "The title 'The Picture Frame' is significant because the story centres around an old picture frame that Mr. Barton buys. The frame appears ordinary but contains an extraordinary secret - a valuable painting hidden behind a mirror. The title draws attention to how something seemingly insignificant can hold great value, and how true treasures may be concealed in unexpected places.",
+      "justification": "The title emphasizes the central object around which the plot revolves."
+    },
+    {
+      "id": "tpf_sa_10",
+      "question": "How does the story demonstrate the saying 'appearances can be deceiving'?",
+      "answer": "The story perfectly demonstrates this saying through the picture frame itself. Outwardly, it appeared to be just a scratched old frame with a dirty, cracked mirror - something of little value. However, hidden beneath this unappealing exterior was a masterpiece worth half a million pounds. Similarly, the stallholder appeared knowledgeable about his merchandise but was actually ignorant of its true value.",
+      "justification": "The contrast between appearance and reality is a central theme of the story."
+    }
+  ]
+}

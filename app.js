@@ -190,6 +190,10 @@ const state = {
     totalAnswered: 0,
     allQuestionsAnswered: false,
     showAllMode: false,  // Track if "show all answers" was clicked
+    // New state for one-by-one question view
+    oneByOneMode: false,  // Whether to show questions one by one
+    currentQuestionIndex: 0,  // Current question index in one-by-one mode
+    currentAnswerRevealed: false,  // Whether current question's answer is shown
 };
 
 // DOM Elements
@@ -506,6 +510,9 @@ function resetState() {
     state.totalAnswered = 0;
     state.allQuestionsAnswered = false;
     state.showAllMode = false;
+    state.oneByOneMode = false;
+    state.currentQuestionIndex = 0;
+    state.currentAnswerRevealed = false;
 }
 
 // API Calls - Fetching from GitHub
@@ -627,6 +634,10 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
             state.showAllMode = false; // Reset show all mode
             state.allQuestions = allQuestions; // Store all for pagination
             state.isTextbookMode = isTextbook; // Store textbook flag
+            // Enable one-by-one mode for all questions
+            state.oneByOneMode = true;
+            state.currentQuestionIndex = 0;
+            state.currentAnswerRevealed = false;
         } else {
             // For "Try More", replace questions with new batch (not append)
             state.questions = processedQuestions;
@@ -636,6 +647,9 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
             state.totalAnswered = 0;
             state.allQuestionsAnswered = false;
             state.showAllMode = false;
+            // Reset one-by-one mode state
+            state.currentQuestionIndex = 0;
+            state.currentAnswerRevealed = false;
         }
 
         state.currentOffset = isTextbook ? allQuestions.length : offset + batchQuestions.length;
@@ -1259,6 +1273,12 @@ function renderQuiz() {
     elements.quizTitle.textContent = `${state.currentType.label} - ${state.currentChapter.name}`;
     elements.questionsShown.textContent = state.questions.length;
 
+    // Check if we're in one-by-one mode
+    if (state.oneByOneMode) {
+        renderOneByOneQuiz();
+        return;
+    }
+
     // Show/hide banners based on state
     if (!state.answersRevealed) {
         elements.challengeBanner.style.display = 'flex';
@@ -1282,6 +1302,369 @@ function renderQuiz() {
         elements.checkAnswersBtn.style.display = 'inline-block'; // Always show
         elements.showAllAnswersBtn.style.display = 'block'; // Always show
     }
+}
+
+// Render quiz in one-by-one question mode
+function renderOneByOneQuiz() {
+    const currentQuestion = state.questions[state.currentQuestionIndex];
+    const totalQuestions = state.questions.length;
+    const currentNum = state.currentQuestionIndex + 1;
+
+    // Hide the standard banners and buttons in one-by-one mode
+    elements.challengeBanner.style.display = 'none';
+    elements.resultsBanner.style.display = 'none';
+    elements.scoreDisplay.style.display = 'none';
+    elements.encouragementBanner.style.display = 'none';
+    elements.tryMoreBtn.style.display = 'none';
+    elements.checkAnswersBtn.style.display = 'none';
+    elements.showAllAnswersBtn.style.display = 'none';
+
+    // Update question count display
+    elements.questionsShown.textContent = `${currentNum} of ${totalQuestions}`;
+
+    // Build the one-by-one question UI
+    const questionContent = renderOneByOneQuestion(currentQuestion, state.currentQuestionIndex);
+    const answerContent = state.currentAnswerRevealed ? renderOneByOneAnswer(currentQuestion) : '';
+
+    // Navigation buttons
+    const isFirst = state.currentQuestionIndex === 0;
+    const isLast = state.currentQuestionIndex === totalQuestions - 1;
+
+    elements.questionsContainer.innerHTML = `
+        <div class="one-by-one-container">
+            <div class="question-progress">
+                <span class="progress-text">Question ${currentNum} of ${totalQuestions}</span>
+                <div class="progress-bar">
+                    <div class="progress-fill" style="width: ${(currentNum / totalQuestions) * 100}%"></div>
+                </div>
+            </div>
+
+            <div class="single-question-card">
+                <div class="question-header">
+                    <span class="question-badge">Q${currentNum}</span>
+                </div>
+                <div class="question-body">
+                    ${questionContent}
+                </div>
+
+                ${!state.currentAnswerRevealed ? `
+                    <div class="see-answer-section">
+                        <button class="see-answer-btn" onclick="revealCurrentAnswer()">
+                            <span class="btn-icon">👁️</span> See Answer
+                        </button>
+                    </div>
+                ` : `
+                    <div class="answer-revealed-section">
+                        <div class="answer-header">
+                            <span class="answer-badge">Answer</span>
+                        </div>
+                        <div class="answer-body">
+                            ${answerContent}
+                        </div>
+                    </div>
+                `}
+            </div>
+
+            <div class="navigation-buttons">
+                <button class="nav-btn back-btn ${isFirst ? 'disabled' : ''}"
+                        onclick="goToPreviousQuestion()"
+                        ${isFirst ? 'disabled' : ''}>
+                    <span class="btn-icon">←</span> Back
+                </button>
+
+                ${isLast ? `
+                    <button class="nav-btn finish-btn" onclick="finishOneByOneQuiz()">
+                        Finish <span class="btn-icon">🏁</span>
+                    </button>
+                ` : `
+                    <button class="nav-btn next-btn" onclick="goToNextQuestion()">
+                        Next <span class="btn-icon">→</span>
+                    </button>
+                `}
+            </div>
+
+            <div class="question-dots">
+                ${state.questions.map((_, i) => `
+                    <span class="dot ${i === state.currentQuestionIndex ? 'active' : ''} ${state.userAnswers[state.questions[i].id] !== undefined ? 'answered' : ''}"
+                          onclick="goToQuestion(${i})"></span>
+                `).join('')}
+            </div>
+        </div>
+    `;
+}
+
+// Render single question content for one-by-one mode
+function renderOneByOneQuestion(question, index) {
+    const qType = question.type;
+
+    if (qType === 'mcq' || qType === 'assertion_reason') {
+        return renderMCQQuestion(question, index, false);
+    } else if (qType === 'true_false') {
+        return renderTrueFalseQuestion(question, index, false);
+    } else if (qType === 'fill_in_blanks' || qType === 'name_the_following') {
+        return renderTextInputQuestion(question, index, false);
+    } else if (qType === 'match_the_following') {
+        return renderMatchQuestion(question, index, false);
+    } else if (qType === 'differentiate_between') {
+        return renderDifferentiateQuestion(question, index, false);
+    } else if (qType === 'numericals') {
+        return renderNumericalQuestion(question, index, false);
+    } else if (qType === 'case_study') {
+        return renderCaseStudyQuestion(question, index, false);
+    } else if (qType === 'reference_to_context') {
+        return renderReferenceToContextQuestion(question, index, false);
+    } else if (qType === 'make_sentences') {
+        return renderMakeSentencesQuestion(question, index, false);
+    } else {
+        return renderTextQuestion(question, index, false);
+    }
+}
+
+// Render reference to context question
+function renderReferenceToContextQuestion(q, index, showUnansweredHighlight = false) {
+    const userAnswer = state.userAnswers[q.id] || '';
+    return `
+        ${q.extract ? `<div class="extract-box">"${q.extract}"</div>` : ''}
+        <div class="question-text">${q.question}</div>
+        <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}"
+                  placeholder="Type your answer..."
+                  oninput="handleAnswerChange('${q.id}', this.value)"
+                  id="input-${q.id}">${escapeHtml(userAnswer)}</textarea>
+    `;
+}
+
+// Render make sentences question
+function renderMakeSentencesQuestion(q, index, showUnansweredHighlight = false) {
+    const userAnswer = state.userAnswers[q.id] || '';
+    return `
+        <div class="word-box">
+            <div class="word-label">Word:</div>
+            <div class="word-value">${q.word || ''}</div>
+            <div class="meaning-label">Meaning:</div>
+            <div class="meaning-value">${q.meaning || ''}</div>
+        </div>
+        <div class="question-text">Make a sentence using the word above (minimum 10 words):</div>
+        <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}"
+                  placeholder="Type your sentence here..."
+                  oninput="handleAnswerChange('${q.id}', this.value)"
+                  id="input-${q.id}">${escapeHtml(userAnswer)}</textarea>
+    `;
+}
+
+// Render answer for one-by-one mode
+function renderOneByOneAnswer(question) {
+    const qType = question.type;
+    const userAnswer = state.userAnswers[question.id] || '';
+
+    // For reference_to_context type
+    if (qType === 'reference_to_context') {
+        const justification = question.justification || question.explanation || '';
+        return `
+            <div class="correct-answer">
+                <strong>Answer:</strong>
+                <p>${question.answer || question.correct_answer || ''}</p>
+            </div>
+            ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+        `;
+    }
+
+    // For make_sentences type
+    if (qType === 'make_sentences') {
+        return `
+            <div class="correct-answer">
+                <strong>Sample Sentence:</strong>
+                <p>${question.sample_sentence || ''}</p>
+            </div>
+            ${userAnswer ? `
+                <div class="user-answer-note">
+                    <strong>Your sentence:</strong> ${escapeHtml(userAnswer)}
+                </div>
+            ` : ''}
+        `;
+    }
+
+    // For MCQ type
+    if (qType === 'mcq' || qType === 'assertion_reason') {
+        const isCorrect = isAnswerCorrect(question, userAnswer);
+        const justification = question.explanation || '';
+        return `
+            ${userAnswer ? `
+                <div class="answer-status ${isCorrect ? 'correct' : 'incorrect'}">
+                    ${isCorrect ? '✓ Correct!' : '✗ Incorrect'}
+                </div>
+            ` : ''}
+            <div class="correct-answer">
+                <strong>Correct Answer:</strong> ${question.correct_answer}
+            </div>
+            ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+        `;
+    }
+
+    // For true/false type
+    if (qType === 'true_false') {
+        const isCorrect = isAnswerCorrect(question, userAnswer);
+        const justification = question.explanation || '';
+        return `
+            ${userAnswer ? `
+                <div class="answer-status ${isCorrect ? 'correct' : 'incorrect'}">
+                    ${isCorrect ? '✓ Correct!' : '✗ Incorrect'}
+                </div>
+            ` : ''}
+            <div class="correct-answer">
+                <strong>Correct Answer:</strong> ${question.correct_answer}
+            </div>
+            ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+        `;
+    }
+
+    // For fill in blanks and name the following
+    if (qType === 'fill_in_blanks' || qType === 'name_the_following') {
+        const isCorrect = isAnswerCorrect(question, userAnswer);
+        const justification = question.explanation || '';
+        return `
+            ${userAnswer ? `
+                <div class="answer-status ${isCorrect ? 'correct' : 'incorrect'}">
+                    ${isCorrect ? '✓ Correct!' : '✗ Incorrect'}
+                </div>
+                <div class="user-answer-note">
+                    <strong>Your answer:</strong> ${escapeHtml(userAnswer)}
+                </div>
+            ` : ''}
+            <div class="correct-answer">
+                <strong>Correct Answer:</strong> ${question.correct_answer || question.answer}
+            </div>
+            ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+        `;
+    }
+
+    // Default for text-based questions (short_answer, long_answer, textbook_qa, etc.)
+    const justification = question.justification || question.explanation || '';
+    const keyPoints = question.key_points || [];
+
+    return `
+        ${userAnswer ? `
+            <div class="user-answer-note">
+                <strong>Your answer:</strong>
+                <p>${escapeHtml(userAnswer)}</p>
+            </div>
+        ` : ''}
+        <div class="correct-answer">
+            <strong>Model Answer:</strong>
+            <div class="formatted-answer">${formatAnswerText(question.answer || question.correct_answer || '')}</div>
+        </div>
+        ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+        ${keyPoints.length > 0 ? `
+            <div class="key-points">
+                <strong>Key Points:</strong>
+                <ul>${keyPoints.map(p => `<li>${p}</li>`).join('')}</ul>
+            </div>
+        ` : ''}
+    `;
+}
+
+// Navigation functions for one-by-one mode
+function revealCurrentAnswer() {
+    state.currentAnswerRevealed = true;
+
+    // Track wrong answers for students
+    const currentQuestion = state.questions[state.currentQuestionIndex];
+    const userAnswer = state.userAnswers[currentQuestion.id];
+    const isAnswered = userAnswer !== undefined && userAnswer !== '';
+
+    if (currentUser && currentUser.role === 'student' && isAnswered) {
+        const correct = isAnswerCorrect(currentQuestion, userAnswer);
+        if (!correct) {
+            addWrongAnswer(
+                state.currentSubject.name,
+                state.currentChapter.name,
+                state.currentType.value,
+                currentQuestion
+            );
+        } else {
+            removeWrongAnswer(
+                state.currentSubject.name,
+                state.currentChapter.name,
+                state.currentType.value,
+                currentQuestion.id
+            );
+        }
+    }
+
+    renderQuiz();
+}
+
+function goToNextQuestion() {
+    if (state.currentQuestionIndex < state.questions.length - 1) {
+        state.currentQuestionIndex++;
+        state.currentAnswerRevealed = false;
+        renderQuiz();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+}
+
+function goToPreviousQuestion() {
+    if (state.currentQuestionIndex > 0) {
+        state.currentQuestionIndex--;
+        state.currentAnswerRevealed = false;
+        renderQuiz();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+}
+
+function goToQuestion(index) {
+    if (index >= 0 && index < state.questions.length) {
+        state.currentQuestionIndex = index;
+        state.currentAnswerRevealed = false;
+        renderQuiz();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+}
+
+function finishOneByOneQuiz() {
+    // Calculate final score
+    const { score, total } = calculateScore();
+    const result = getResultMessage(score, total);
+
+    // Count how many were answered
+    const answeredCount = state.questions.filter(q => {
+        const userAnswer = state.userAnswers[q.id];
+        return userAnswer !== undefined && userAnswer !== '';
+    }).length;
+
+    // Switch to results view
+    state.oneByOneMode = false;
+
+    // Show results banner
+    elements.resultsIcon.textContent = result.icon;
+    elements.resultsTitle.textContent = result.title;
+    elements.resultsMessage.textContent = result.message;
+    elements.resultsBanner.className = `results-banner ${result.class}`;
+    elements.resultsBanner.style.display = 'flex';
+
+    // Update score display
+    elements.currentScore.textContent = `${score}/${answeredCount}`;
+    elements.scoreDisplay.style.display = 'block';
+
+    // Hide challenge banner
+    elements.challengeBanner.style.display = 'none';
+
+    // Show encouragement
+    elements.encouragementBanner.style.display = 'block';
+
+    // Show "Try More" if available
+    elements.tryMoreBtn.style.display = state.hasMore ? 'inline-block' : 'none';
+    elements.checkAnswersBtn.style.display = 'none';
+    elements.showAllAnswersBtn.style.display = 'none';
+
+    // Show all questions with answers
+    state.answersRevealed = true;
+    state.allQuestionsAnswered = true;
+
+    elements.questionsContainer.innerHTML = state.questions.map((q, index) =>
+        renderQuestion(q, index)
+    ).join('');
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 function renderQuestion(question, index) {
@@ -1945,3 +2328,9 @@ window.saveSubAnswer = saveSubAnswer;
 window.handleAnswerChange = handleAnswerChange;
 window.handleSubAnswerChange = handleSubAnswerChange;
 window.logout = logout;
+// One-by-one mode navigation
+window.revealCurrentAnswer = revealCurrentAnswer;
+window.goToNextQuestion = goToNextQuestion;
+window.goToPreviousQuestion = goToPreviousQuestion;
+window.goToQuestion = goToQuestion;
+window.finishOneByOneQuiz = finishOneByOneQuiz;

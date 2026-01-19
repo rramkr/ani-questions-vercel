@@ -1,0 +1,182 @@
+{
+  "subject": "English",
+  "chapter": "Daffodils",
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "daffodils_mcq_1",
+      "question": "The poet compares himself to a _______.",
+      "options": ["bird", "cloud", "leaf", "river"],
+      "correct_answer": "cloud",
+      "explanation": "'I wandered lonely as a cloud' - the poet uses a simile to compare himself to a cloud floating alone in the sky."
+    },
+    {
+      "id": "daffodils_mcq_2",
+      "question": "'Host' in the poem means _______.",
+      "options": ["person welcoming guests", "large number", "army", "single flower"],
+      "correct_answer": "large number",
+      "explanation": "'A host of golden Daffodils' - 'host' here means a large number or multitude."
+    },
+    {
+      "id": "daffodils_mcq_3",
+      "question": "The daffodils were located _______.",
+      "options": ["on a mountaintop", "in a garden", "beside a lake, beneath trees", "in a forest"],
+      "correct_answer": "beside a lake, beneath trees",
+      "explanation": "'Beside the Lake, beneath the trees' - the poem clearly states their location."
+    },
+    {
+      "id": "daffodils_mcq_4",
+      "question": "The daffodils are compared to _______.",
+      "options": ["the sun", "stars in the Milky Way", "fireflies", "diamonds"],
+      "correct_answer": "stars in the Milky Way",
+      "explanation": "'Continuous as the stars that shine and twinkle on the milky way' - this simile emphasizes their vast number."
+    },
+    {
+      "id": "daffodils_mcq_5",
+      "question": "'Sprightly' means _______.",
+      "options": ["sad", "slow", "lively", "angry"],
+      "correct_answer": "lively",
+      "explanation": "'Sprightly dance' - sprightly means lively, energetic, and full of spirit."
+    },
+    {
+      "id": "daffodils_mcq_6",
+      "question": "'Jocund' means _______.",
+      "options": ["sad", "cheerful", "quiet", "gloomy"],
+      "correct_answer": "cheerful",
+      "explanation": "'Jocund company' - jocund means cheerful and merry."
+    },
+    {
+      "id": "daffodils_mcq_7",
+      "question": "The daffodils _______ the waves.",
+      "options": ["matched", "feared", "out-did in glee", "ignored"],
+      "correct_answer": "out-did in glee",
+      "explanation": "'Out-did the sparkling waves in glee' - the daffodils were even more joyful than the waves."
+    },
+    {
+      "id": "daffodils_mcq_8",
+      "question": "The 'inward eye' is _______.",
+      "options": ["a medical condition", "imagination or memory", "a telescope", "the actual eye"],
+      "correct_answer": "imagination or memory",
+      "explanation": "The 'inward eye' is a metaphor for imagination or memory - the ability to see things in our mind."
+    },
+    {
+      "id": "daffodils_mcq_9",
+      "question": "The poet recalls daffodils _______.",
+      "options": ["by the lake", "while lying on his couch", "while writing", "with friends"],
+      "correct_answer": "while lying on his couch",
+      "explanation": "'When on my couch I lie' - the poet recalls the daffodils when at home, lying on his couch."
+    },
+    {
+      "id": "daffodils_mcq_10",
+      "question": "'Pensive' means _______.",
+      "options": ["happy", "thoughtful", "hungry", "sleepy"],
+      "correct_answer": "thoughtful",
+      "explanation": "'Pensive mood' - pensive means engaged in deep thought, often with a slightly sad quality."
+    },
+    {
+      "id": "daffodils_mcq_11",
+      "question": "When remembering daffodils, the poet's heart _______.",
+      "options": ["stops", "becomes heavy", "fills with pleasure and dances", "becomes sad"],
+      "correct_answer": "fills with pleasure and dances",
+      "explanation": "'My heart with pleasure fills, And dances with the Daffodils' - the memory brings joy."
+    },
+    {
+      "id": "daffodils_mcq_12",
+      "question": "'Oft' means _______.",
+      "options": ["never", "rarely", "often", "once"],
+      "correct_answer": "often",
+      "explanation": "'For oft' - oft is a poetic word meaning often or frequently."
+    },
+    {
+      "id": "daffodils_mcq_13",
+      "question": "'Vales' means _______.",
+      "options": ["mountains", "valleys", "rivers", "forests"],
+      "correct_answer": "valleys",
+      "explanation": "'O'er vales and hills' - vales is a poetic word for valleys."
+    },
+    {
+      "id": "daffodils_mcq_14",
+      "question": "Daffodils 'dancing' is an example of _______.",
+      "options": ["simile", "metaphor", "personification", "hyperbole"],
+      "correct_answer": "personification",
+      "explanation": "Giving human actions (dancing) to flowers is personification."
+    },
+    {
+      "id": "daffodils_mcq_15",
+      "question": "'Ten thousand' is an example of _______.",
+      "options": ["simile", "metaphor", "personification", "hyperbole"],
+      "correct_answer": "hyperbole",
+      "explanation": "'Ten thousand saw I at a glance' is an exaggeration (hyperbole) to emphasize the vast number."
+    },
+    {
+      "id": "daffodils_mcq_16",
+      "question": "'Solitude' means _______.",
+      "options": ["a crowd", "being alone", "celebration", "journey"],
+      "correct_answer": "being alone",
+      "explanation": "'Bliss of solitude' - solitude means the state of being alone."
+    },
+    {
+      "id": "daffodils_mcq_17",
+      "question": "The 'wealth' the poet received was _______.",
+      "options": ["money", "flowers", "the precious memory", "gold"],
+      "correct_answer": "the precious memory",
+      "explanation": "'What wealth the show to me had brought' - the wealth is metaphorical, meaning the precious memory."
+    },
+    {
+      "id": "daffodils_mcq_18",
+      "question": "William Wordsworth was born in _______.",
+      "options": ["London", "the Lake District", "Scotland", "France"],
+      "correct_answer": "the Lake District",
+      "explanation": "Wordsworth was born in the Lake District of England, which inspired much of his poetry."
+    },
+    {
+      "id": "daffodils_mcq_19",
+      "question": "'Glee' means _______.",
+      "options": ["sadness", "fear", "great joy", "anger"],
+      "correct_answer": "great joy",
+      "explanation": "'Out-did the waves in glee' - glee means great joy, delight, or mirth."
+    },
+    {
+      "id": "daffodils_mcq_20",
+      "question": "In the breeze, the daffodils were _______.",
+      "options": ["falling", "fluttering and dancing", "closing", "flying away"],
+      "correct_answer": "fluttering and dancing",
+      "explanation": "'Fluttering and dancing in the breeze' describes the movement of the daffodils."
+    },
+    {
+      "id": "daffodils_mcq_21",
+      "question": "The poem is also known as _______.",
+      "options": ["Golden Flowers", "I Wandered Lonely as a Cloud", "The Lake Isle", "Nature"],
+      "correct_answer": "I Wandered Lonely as a Cloud",
+      "explanation": "The poem 'Daffodils' is also known by its first line 'I Wandered Lonely as a Cloud'."
+    },
+    {
+      "id": "daffodils_mcq_22",
+      "question": "'Vacant' mood means _______.",
+      "options": ["busy", "empty or idle", "frightened", "angry"],
+      "correct_answer": "empty or idle",
+      "explanation": "'In vacant or pensive mood' - vacant means empty or unoccupied."
+    },
+    {
+      "id": "daffodils_mcq_23",
+      "question": "The daffodils' colour is _______.",
+      "options": ["white", "red", "golden/yellow", "purple"],
+      "correct_answer": "golden/yellow",
+      "explanation": "'A host of golden Daffodils' - they are described as golden (bright yellow)."
+    },
+    {
+      "id": "daffodils_mcq_24",
+      "question": "'Margin of a bay' means _______.",
+      "options": ["centre of a bay", "edge or shore of a bay", "deep part of water", "island in a bay"],
+      "correct_answer": "edge or shore of a bay",
+      "explanation": "'Along the margin of a bay' - margin means edge or border."
+    },
+    {
+      "id": "daffodils_mcq_25",
+      "question": "The poem celebrates the relationship between _______.",
+      "options": ["humans and animals", "humans and nature", "technology and progress", "past and present"],
+      "correct_answer": "humans and nature",
+      "explanation": "The central theme is the relationship between humans and nature, and how nature enriches human life."
+    }
+  ]
+}

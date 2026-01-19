@@ -1,0 +1,67 @@
+{
+  "subject": "English",
+  "chapter": "Daffodils",
+  "type": "short_answer",
+  "questions": [
+    {
+      "id": "daffodils_sa_1",
+      "question": "Describe the setting of the poem 'Daffodils'.",
+      "answer": "The poem is set in the beautiful Lake District countryside of England. The poet was wandering alone through valleys and over hills when he came upon the daffodils. The flowers grew beside a lake, beneath trees, along the curved edge of a bay. The setting includes the lake with dancing waves, trees providing shade, and a gentle breeze. This peaceful, scenic location creates a perfect backdrop for the magnificent display of golden daffodils stretching in an endless line.",
+      "justification": "These details are provided in the opening paragraphs of the poem and establish the natural setting."
+    },
+    {
+      "id": "daffodils_sa_2",
+      "question": "How does the poet describe the number of daffodils?",
+      "answer": "The poet uses several expressions to describe the vast number of daffodils: 'crowd', 'host', compared to countless stars in the Milky Way, 'continuous', 'never-ending line', and hyperbole 'ten thousand at a glance'. All these create an impression of an overwhelming, infinite display of golden flowers that stretched as far as the eye could see.",
+      "justification": "Multiple poetic devices emphasize the overwhelming quantity of flowers."
+    },
+    {
+      "id": "daffodils_sa_3",
+      "question": "What is personification? Give three examples from 'Daffodils'.",
+      "answer": "Personification is a figure of speech where non-human things are given human qualities or actions. Examples from 'Daffodils' include: the daffodils 'dancing' in the breeze (human action given to flowers), the flowers 'tossing their heads' (as if they have heads like people), and the poet's heart 'dances with the Daffodils' (the heart given the ability to dance).",
+      "justification": "Personification makes the daffodils seem alive, relatable, and capable of expressing joy."
+    },
+    {
+      "id": "daffodils_sa_4",
+      "question": "What mood is the poet in at the beginning? How does it change?",
+      "answer": "At the beginning, the poet is lonely and solitary, wandering aimlessly like a cloud without direction or company. When he sees the daffodils, his mood transforms to happiness and delight as he watches their joyful dancing. By the end, this happiness becomes permanent - the memory of the daffodils brings him pleasure whenever he is alone, transforming solitude into bliss.",
+      "justification": "The poem shows the transformation from loneliness to lasting joy through nature's beauty."
+    },
+    {
+      "id": "daffodils_sa_5",
+      "question": "What is the 'inward eye'? How does it help the poet?",
+      "answer": "The 'inward eye' refers to our imagination or memory - the ability to see images in our mind even when the actual sight is not present. The poet calls it the 'bliss of solitude' because it helps him when he is alone. When the memory of daffodils 'flashes' upon his inward eye, it fills his heart with pleasure and makes him feel like dancing with the daffodils again.",
+      "justification": "The inward eye represents the power of memory to bring lasting happiness."
+    },
+    {
+      "id": "daffodils_sa_6",
+      "question": "Why does the poet compare himself to a cloud in the first line?",
+      "answer": "The poet compares himself to a cloud using a simile to describe his state of mind and movement. Like a cloud that floats freely and alone in the sky without any fixed path or destination, the poet was wandering by himself through the countryside. The comparison suggests aimlessness, solitude, and a gentle, peaceful movement through nature.",
+      "justification": "The simile establishes the poet's initial state of solitary wandering."
+    },
+    {
+      "id": "daffodils_sa_7",
+      "question": "Why does the poet call the daffodils 'jocund company'?",
+      "answer": "The poet calls the daffodils 'jocund company' because they seem like cheerful, merry companions to him. 'Jocund' means cheerful and light-hearted, and 'company' suggests they are like friends keeping him company. Through personification, the poet treats the flowers as living beings capable of bringing joy and friendship. Their animated dancing in the breeze made them appear to be happy companions.",
+      "justification": "This personification shows the poet's emotional connection to the flowers."
+    },
+    {
+      "id": "daffodils_sa_8",
+      "question": "Explain how the daffodils 'out-did the sparkling waves in glee'.",
+      "answer": "The poet compares the dancing daffodils to the sparkling waves of the lake beside them. While both the waves and daffodils appeared to dance, the daffodils surpassed or 'out-did' the waves in their expression of joy (glee). The flowers seemed more cheerful than the water because of their bright golden colour and animated movement, appearing more alive and joyful than the colourless sparkling waves.",
+      "justification": "This comparison elevates the daffodils above other natural elements in expressing joy."
+    },
+    {
+      "id": "daffodils_sa_9",
+      "question": "What does the phrase 'what wealth the show to me had brought' mean?",
+      "answer": "This phrase means that the poet did not immediately realize how valuable the experience of seeing the daffodils would become. The 'wealth' refers not to material riches but to the precious memory that would stay with him forever. The 'show' of the dancing daffodils gave him a treasure that he could recall whenever he needed joy, making it a form of spiritual and emotional wealth.",
+      "justification": "The poet uses 'wealth' metaphorically to describe the lasting value of beautiful memories."
+    },
+    {
+      "id": "daffodils_sa_10",
+      "question": "How does the last stanza differ from the rest of the poem?",
+      "answer": "The last stanza differs in several ways: it takes place at a different time (later, not during the walk), in a different location (indoors on his couch, not by the lake), and describes a different kind of experience (memory rather than actual sight). While earlier stanzas describe immediate, physical joy from seeing the flowers, the last stanza shows deeper, reflective happiness from remembering them. The mood shifts from excitement to calm contemplation.",
+      "justification": "The shift shows how the experience becomes lasting inner wealth through memory."
+    }
+  ]
+}
