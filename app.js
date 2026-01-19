@@ -1,4 +1,4 @@
-// Version: 3.4 - Added AI Evaluate button, fixed URL encoding for folder names with spaces
+// Version: 3.5 - Simple Evaluate (no API), fixed URL encoding for subjects vs chapters
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
@@ -379,8 +379,8 @@ async function handleHashChange() {
                 return;
             }
 
-            // Load chapters for this subject
-            const subjectFolder = encodeURIComponent(subject.name);
+            // Load chapters for this subject (folders use underscores)
+            const subjectFolder = subject.name.replace(/ /g, '_');
             const chaptersResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/chapters.json`);
             if (!chaptersResponse.ok) throw new Error('Failed to load chapters');
             const chaptersData = await chaptersResponse.json();
@@ -400,7 +400,7 @@ async function handleHashChange() {
 
                 state.currentChapter = chapter;
 
-                // Load sections
+                // Load sections (chapter folders may have spaces, need URL encoding)
                 const chapterFolder = encodeURIComponent(chapter.name);
                 const sectionsResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/sections.json`);
 
@@ -539,8 +539,8 @@ async function loadSubjects() {
 async function loadChapters(subject) {
     showLoading(true);
     try {
-        // Convert subject name to folder format with URL encoding
-        const subjectFolder = encodeURIComponent(subject.name);
+        // Convert subject name to folder format (underscores)
+        const subjectFolder = subject.name.replace(/ /g, '_');
         const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/chapters.json`);
         const data = await response.json();
 
@@ -560,7 +560,7 @@ async function loadChapters(subject) {
 async function loadSections(chapter) {
     showLoading(true);
     try {
-        const subjectFolder = encodeURIComponent(state.currentSubject.name);
+        const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
         const chapterFolder = encodeURIComponent(chapter.name);
         const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/sections.json`);
 
@@ -596,7 +596,7 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
             allQuestions = state.allQuestions;
         } else {
             // Fetch fresh questions for offset 0
-            const subjectFolder = encodeURIComponent(state.currentSubject.name);
+            const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
             const chapterFolder = encodeURIComponent(state.currentChapter.name);
             const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/${type.value}.json`);
 
@@ -1359,21 +1359,19 @@ function renderOneByOneQuiz() {
                     ${questionContent}
                     ${!state.currentAnswerRevealed ? `
                         <div class="action-buttons-inline">
-                            <button class="evaluate-btn inline ${!hasAnswered || state.isEvaluating ? 'disabled' : ''}"
+                            <button class="evaluate-btn inline ${!hasAnswered ? 'disabled' : ''}"
                                     onclick="evaluateCurrentAnswer()"
-                                    ${!hasAnswered || state.isEvaluating ? 'disabled' : ''}>
-                                ${state.isEvaluating ? '⏳ Evaluating...' : '🎯 Evaluate'}
+                                    ${!hasAnswered ? 'disabled' : ''}>
+                                🎯 Evaluate
                             </button>
-                            <button class="see-answer-btn inline ${state.isEvaluating ? 'disabled' : ''}"
-                                    onclick="revealCurrentAnswer()"
-                                    ${state.isEvaluating ? 'disabled' : ''}>
+                            <button class="see-answer-btn inline" onclick="revealCurrentAnswer()">
                                 👁️ See Answer
                             </button>
                         </div>
                     ` : `
                         ${state.currentEvaluation ? `
                             <div class="evaluation-result">
-                                <div class="evaluation-header">🎯 AI Evaluation</div>
+                                <div class="evaluation-header">🎯 Evaluation</div>
                                 <div class="evaluation-score">${state.currentEvaluation.score || state.currentEvaluation.overallScore || ''}</div>
                                 <div class="evaluation-feedback">${state.currentEvaluation.feedback || ''}</div>
                                 ${state.currentEvaluation.wordCount ? `<div class="evaluation-detail">Word count: ${state.currentEvaluation.wordCount}</div>` : ''}
@@ -1612,57 +1610,68 @@ function revealCurrentAnswer() {
     renderQuiz();
 }
 
-// Evaluate current answer using AI
-async function evaluateCurrentAnswer() {
+// Evaluate current answer by comparing with reference
+function evaluateCurrentAnswer() {
     const currentQuestion = state.questions[state.currentQuestionIndex];
-    const userAnswer = state.userAnswers[currentQuestion.id];
+    const userAnswer = (state.userAnswers[currentQuestion.id] || '').trim().toLowerCase();
+    const referenceAnswer = (currentQuestion.answer || currentQuestion.correct_answer || '').toLowerCase();
 
-    if (!userAnswer || userAnswer.trim().length === 0) {
+    if (!userAnswer || userAnswer.length === 0) {
         alert('Please write an answer first');
         return;
     }
 
-    state.isEvaluating = true;
-    renderQuiz(); // Show loading state
+    let evaluation = {};
 
-    try {
-        const requestBody = {
-            questionType: currentQuestion.type,
-            question: currentQuestion.question,
-            userAnswer: userAnswer,
-            referenceAnswer: currentQuestion.answer || currentQuestion.correct_answer || ''
+    if (currentQuestion.type === 'make_sentences') {
+        // For make_sentences: check word count, word usage, basic evaluation
+        const wordCount = userAnswer.split(/\s+/).filter(w => w.length > 0).length;
+        const targetWord = (currentQuestion.word || '').toLowerCase();
+        const usesWord = userAnswer.includes(targetWord);
+        const hasMinWords = wordCount >= 10;
+
+        let score = 'Needs Improvement';
+        if (usesWord && hasMinWords) score = 'Good';
+        if (usesWord && wordCount >= 12) score = 'Excellent';
+
+        evaluation = {
+            overallScore: score,
+            wordCount: wordCount,
+            usesWordCorrectly: usesWord,
+            hasMinWords: hasMinWords,
+            feedback: usesWord
+                ? (hasMinWords ? `Good sentence with ${wordCount} words!` : `Sentence is too short (${wordCount} words). Need at least 10 words.`)
+                : `Make sure to use the word "${currentQuestion.word}" in your sentence.`
         };
+    } else {
+        // For other question types: compare key words
+        const refWords = referenceAnswer.split(/\s+/).filter(w => w.length > 3);
+        const userWords = userAnswer.split(/\s+/).filter(w => w.length > 3);
 
-        // For make_sentences, add word and meaning
-        if (currentQuestion.type === 'make_sentences') {
-            requestBody.word = currentQuestion.word || '';
-            requestBody.meaning = currentQuestion.meaning || '';
+        let matchCount = 0;
+        for (const word of refWords) {
+            if (userAnswer.includes(word)) matchCount++;
         }
 
-        const response = await fetch('/api/evaluate', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(requestBody)
-        });
+        const matchPercent = refWords.length > 0 ? Math.round((matchCount / refWords.length) * 100) : 0;
 
-        if (!response.ok) {
-            throw new Error('Evaluation failed');
-        }
+        let score = 'Needs Improvement';
+        if (matchPercent >= 30) score = 'Partial';
+        if (matchPercent >= 50) score = 'Good';
+        if (matchPercent >= 70) score = 'Excellent';
 
-        const data = await response.json();
-        state.currentEvaluation = data.evaluation;
-        state.currentAnswerRevealed = true;
-        state.isEvaluating = false;
-        renderQuiz();
-
-    } catch (error) {
-        console.error('Evaluation error:', error);
-        state.isEvaluating = false;
-        alert('Failed to evaluate. Showing answer instead.');
-        revealCurrentAnswer();
+        evaluation = {
+            score: score,
+            keyPointsCovered: `${matchPercent}%`,
+            feedback: matchPercent >= 50
+                ? `Good answer! You covered ${matchPercent}% of the key points.`
+                : `Your answer covers ${matchPercent}% of key points. Compare with the reference answer below.`
+        };
     }
+
+    state.currentEvaluation = evaluation;
+    state.currentAnswerRevealed = true;
+    renderQuiz();
 }
 
 function goToNextQuestion() {
