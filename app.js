@@ -1,4 +1,4 @@
-// Version: 3.2 - Extract/context display with proper newline rendering
+// Version: 3.3 - Fixed processQuestion to copy extract/word/meaning fields
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
@@ -732,12 +732,22 @@ function processQuestion(q, questionType) {
         processed.given_data = q.given_data || [];
         processed.formula = q.formula || '';
         processed.solution_steps = q.solution_steps || [];
+    } else if (questionType === 'reference_to_context') {
+        // Copy extract field for reference to context questions
+        processed.extract = q.extract || '';
+        processed.justification = q.justification || '';
+    } else if (questionType === 'make_sentences') {
+        // Copy word, meaning, sample_sentence for make sentences questions
+        processed.word = q.word || '';
+        processed.meaning = q.meaning || '';
+        processed.sample_sentence = q.sample_sentence || '';
     } else {
         // For short_answer, long_answer, textbook_qa, hots, name_the_following, tricky_questions
         processed.key_points = q.key_points || [];
         processed.keywords = q.keywords || [];
         processed.context = q.context || '';
         processed.why_tricky = q.why_tricky || '';
+        processed.justification = q.justification || '';
     }
 
     return processed;
