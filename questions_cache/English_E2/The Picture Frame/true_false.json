@@ -1,0 +1,157 @@
+{
+  "subject": "English E2",
+  "chapter": "The Picture Frame",
+  "type": "true_false",
+  "questions": [
+    {
+      "id": "tpf_tf_1",
+      "statement": "Mr and Mrs Barton lived in the USA.",
+      "answer": false,
+      "explanation": "They lived in a small seaside town in England, not in the USA."
+    },
+    {
+      "id": "tpf_tf_2",
+      "statement": "Mrs Barton did not like to go for walks.",
+      "answer": true,
+      "explanation": "The story states that Mrs Barton seldom went out with her husband and preferred to stay indoors, away from the cold."
+    },
+    {
+      "id": "tpf_tf_3",
+      "statement": "There was a brass elephant on the stall.",
+      "answer": false,
+      "explanation": "There was a brass monkey on the stall, not a brass elephant."
+    },
+    {
+      "id": "tpf_tf_4",
+      "statement": "The stallholder had bought the mirror for two pounds.",
+      "answer": true,
+      "explanation": "At the end of the story, we learn the stallholder bought it for only two pounds at a junk shop."
+    },
+    {
+      "id": "tpf_tf_5",
+      "statement": "The photograph was worth a lot of money.",
+      "answer": false,
+      "explanation": "It was the oil painting (not a photograph) that was worth a lot of money - about half a million pounds."
+    },
+    {
+      "id": "tpf_tf_6",
+      "statement": "The painting was old and dirty.",
+      "answer": true,
+      "explanation": "The painting was described as old and covered in grime, with details that were not clear."
+    },
+    {
+      "id": "tpf_tf_7",
+      "statement": "Mr and Mrs Barton drove to the art gallery in their car.",
+      "answer": false,
+      "explanation": "The story says they walked to the high street and went into an art gallery. They did not drive."
+    },
+    {
+      "id": "tpf_tf_8",
+      "statement": "Mr Barton was eighty-two years old.",
+      "answer": true,
+      "explanation": "The story clearly states that Mr Barton was eighty-two years old."
+    },
+    {
+      "id": "tpf_tf_9",
+      "statement": "Mr Barton bought the frame for forty pounds.",
+      "answer": false,
+      "explanation": "Mr Barton bargained and bought the frame for twenty pounds, not forty."
+    },
+    {
+      "id": "tpf_tf_10",
+      "statement": "The stallholder claimed he paid ten pounds for the frame.",
+      "answer": true,
+      "explanation": "The stallholder falsely claimed he had paid ten pounds for it himself."
+    },
+    {
+      "id": "tpf_tf_11",
+      "statement": "Mr Barton's father had died when Mr Barton was only four years old.",
+      "answer": true,
+      "explanation": "The story mentions that Mr Barton's father had died when he was only four years old."
+    },
+    {
+      "id": "tpf_tf_12",
+      "statement": "The painting showed a scene of the seaside.",
+      "answer": false,
+      "explanation": "The painting showed a shepherd with his flock resting under a large oak tree, with a small village in the distance."
+    },
+    {
+      "id": "tpf_tf_13",
+      "statement": "Mr Barton treasured the portrait of his father more than life itself.",
+      "answer": true,
+      "explanation": "The story states that there was one large portrait of his father which he treasured more than life itself."
+    },
+    {
+      "id": "tpf_tf_14",
+      "statement": "The stallholder's wife was unhappy about the sale.",
+      "answer": false,
+      "explanation": "The stallholder's wife smiled and said 'How wonderful!' when told about the profit from the sale."
+    },
+    {
+      "id": "tpf_tf_15",
+      "statement": "Mrs Barton was very angry when she first saw the frame Mr Barton bought.",
+      "answer": true,
+      "explanation": "Mrs Barton became very angry, took herself off to bed, and shouted that he could go out and buy his own dinner."
+    },
+    {
+      "id": "tpf_tf_16",
+      "statement": "The oil painting was sold at auction for nearly half a million pounds.",
+      "answer": true,
+      "explanation": "The story ends by saying the oil painting, in its original frame, was sold at auction for nearly half a million pounds."
+    },
+    {
+      "id": "tpf_tf_17",
+      "statement": "Mr Barton found the stall the next day to return the mirror.",
+      "answer": false,
+      "explanation": "The following day, Mr Barton walked up and down but could find no sign of the stall or the stallholder."
+    },
+    {
+      "id": "tpf_tf_18",
+      "statement": "Mr Barton used a knife to lever the wooden back off the frame.",
+      "answer": true,
+      "explanation": "The story says Mr Barton 'using a knife, levered the wooden back off the frame.'"
+    },
+    {
+      "id": "tpf_tf_19",
+      "statement": "The art gallery manager said the painting was by a very famous artist.",
+      "answer": true,
+      "explanation": "The manager said 'this is a very famous painting, by a very famous artist.'"
+    },
+    {
+      "id": "tpf_tf_20",
+      "statement": "Mr Barton was not rich but he was not poor either.",
+      "answer": true,
+      "explanation": "The story states 'he was not poor; but he was not rich either.'"
+    },
+    {
+      "id": "tpf_tf_21",
+      "statement": "The stallholder called Mr Barton a 'silly old fool'.",
+      "answer": true,
+      "explanation": "The stallholder said 'Some people will buy any old rubbish. Especially when you tell them a sad story! Silly old fool, that man.'"
+    },
+    {
+      "id": "tpf_tf_22",
+      "statement": "Mr Barton put his father's portrait inside the frame before taking it to the gallery.",
+      "answer": false,
+      "explanation": "Mr Barton put the painting to one side and placed his father's portrait in the frame, then forgot to put it back when he noticed the oil painting on the table."
+    },
+    {
+      "id": "tpf_tf_23",
+      "statement": "The frame contained a hideous green and gold plastic flower-vase.",
+      "answer": false,
+      "explanation": "The hideous green and gold plastic flower-vase was a different item on the stall that Mr Barton asked about to distract the stallholder."
+    },
+    {
+      "id": "tpf_tf_24",
+      "statement": "About two hundred years ago, many famous painters had their paintings framed in frames just like the one Mr Barton bought.",
+      "answer": true,
+      "explanation": "The manager explained that 'About two hundred years ago, many famous painters had their paintings framed in frames just like this one.'"
+    },
+    {
+      "id": "tpf_tf_25",
+      "statement": "Mr Barton's father was dressed in the uniform of a soldier in the portrait.",
+      "answer": true,
+      "explanation": "The portrait showed an old man with a white beard and fine moustache, dressed in the uniform of a soldier."
+    }
+  ]
+}

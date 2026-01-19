@@ -1,0 +1,157 @@
+{
+  "subject": "English E2",
+  "chapter": "Daffodils",
+  "type": "true_false",
+  "questions": [
+    {
+      "id": "daf_tf_1",
+      "statement": "The poet compares himself to a bird in the first line.",
+      "answer": false,
+      "explanation": "The poet compares himself to a cloud, not a bird. 'I wandered lonely as a cloud.'"
+    },
+    {
+      "id": "daf_tf_2",
+      "statement": "The daffodils were growing beside a lake.",
+      "answer": true,
+      "explanation": "The poem clearly states 'Beside the Lake, beneath the trees.'"
+    },
+    {
+      "id": "daf_tf_3",
+      "statement": "'Vales' means mountains.",
+      "answer": false,
+      "explanation": "'Vales' means valleys, not mountains."
+    },
+    {
+      "id": "daf_tf_4",
+      "statement": "The daffodils are compared to stars in the Milky Way.",
+      "answer": true,
+      "explanation": "'Continuous as the stars that shine and twinkle on the milky way.'"
+    },
+    {
+      "id": "daf_tf_5",
+      "statement": "'Sprightly' means sad and gloomy.",
+      "answer": false,
+      "explanation": "'Sprightly' means lively and energetic, the opposite of sad."
+    },
+    {
+      "id": "daf_tf_6",
+      "statement": "'Jocund' means cheerful and merry.",
+      "answer": true,
+      "explanation": "'Jocund' indeed means cheerful and merry."
+    },
+    {
+      "id": "daf_tf_7",
+      "statement": "The daffodils were less joyful than the waves.",
+      "answer": false,
+      "explanation": "The poem says the daffodils 'out-did the sparkling waves in glee' - they were MORE joyful."
+    },
+    {
+      "id": "daf_tf_8",
+      "statement": "The 'inward eye' refers to imagination or memory.",
+      "answer": true,
+      "explanation": "The 'inward eye' is the ability to see images in our mind - our imagination or memory."
+    },
+    {
+      "id": "daf_tf_9",
+      "statement": "The poet recalls the daffodils while working in his garden.",
+      "answer": false,
+      "explanation": "He recalls them while lying on his couch, not while working in a garden."
+    },
+    {
+      "id": "daf_tf_10",
+      "statement": "'Pensive' means thoughtful.",
+      "answer": true,
+      "explanation": "'Pensive' means engaged in deep thought, often with slight sadness."
+    },
+    {
+      "id": "daf_tf_11",
+      "statement": "When remembering daffodils, the poet's heart fills with sadness.",
+      "answer": false,
+      "explanation": "His heart fills with pleasure, not sadness. 'And then my heart with pleasure fills.'"
+    },
+    {
+      "id": "daf_tf_12",
+      "statement": "'Oft' means often.",
+      "answer": true,
+      "explanation": "'Oft' is a poetic word meaning often or frequently."
+    },
+    {
+      "id": "daf_tf_13",
+      "statement": "William Wordsworth was born in the Lake District of England.",
+      "answer": true,
+      "explanation": "Wordsworth was born in 1770 in the Lake District of England."
+    },
+    {
+      "id": "daf_tf_14",
+      "statement": "'Glee' means sadness.",
+      "answer": false,
+      "explanation": "'Glee' means great joy, delight, or mirth - the opposite of sadness."
+    },
+    {
+      "id": "daf_tf_15",
+      "statement": "The daffodils were fluttering and dancing in the rain.",
+      "answer": false,
+      "explanation": "They were fluttering and dancing in the breeze, not rain."
+    },
+    {
+      "id": "daf_tf_16",
+      "statement": "The poem is also known as 'I Wandered Lonely as a Cloud'.",
+      "answer": true,
+      "explanation": "The poem 'Daffodils' is also commonly known by its first line."
+    },
+    {
+      "id": "daf_tf_17",
+      "statement": "'Vacant' mood means a busy, occupied state of mind.",
+      "answer": false,
+      "explanation": "'Vacant' means empty or idle - when the mind is not occupied with anything."
+    },
+    {
+      "id": "daf_tf_18",
+      "statement": "The daffodils were described as golden in colour.",
+      "answer": true,
+      "explanation": "'A host of golden Daffodils' - they are described as golden (bright yellow)."
+    },
+    {
+      "id": "daf_tf_19",
+      "statement": "'Solitude' means being in a crowd.",
+      "answer": false,
+      "explanation": "'Solitude' means being alone, the opposite of being in a crowd."
+    },
+    {
+      "id": "daf_tf_20",
+      "statement": "The 'wealth' the poet received was precious memories.",
+      "answer": true,
+      "explanation": "The 'wealth' is metaphorical - the precious memory that brings lasting happiness."
+    },
+    {
+      "id": "daf_tf_21",
+      "statement": "Personification means comparing two things using 'like' or 'as'.",
+      "answer": false,
+      "explanation": "That describes a simile. Personification is giving human qualities to non-human things."
+    },
+    {
+      "id": "daf_tf_22",
+      "statement": "The daffodils 'tossing their heads' is an example of personification.",
+      "answer": true,
+      "explanation": "Giving flowers the ability to 'toss their heads' like humans is personification."
+    },
+    {
+      "id": "daf_tf_23",
+      "statement": "'Ten thousand saw I at a glance' is an example of hyperbole.",
+      "answer": true,
+      "explanation": "This is hyperbole (exaggeration) to emphasize the vast number of daffodils."
+    },
+    {
+      "id": "daf_tf_24",
+      "statement": "The poem has three stanzas.",
+      "answer": false,
+      "explanation": "The poem has four stanzas (verses)."
+    },
+    {
+      "id": "daf_tf_25",
+      "statement": "The last stanza takes place in a different setting from the first three.",
+      "answer": true,
+      "explanation": "The first three describe the outdoor experience; the last is indoors, on his couch, recalling the memory."
+    }
+  ]
+}

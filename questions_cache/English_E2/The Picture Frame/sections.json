@@ -10,8 +10,11 @@
       {"value": "short_answer", "label": "Short Answer (3 marks)", "icon": "📝"},
       {"value": "long_answer", "label": "Long Answer (5 marks)", "icon": "📄"},
       {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},
-      {"value": "make_sentences", "label": "Make Sentences", "icon": "✍️"}
+      {"value": "true_false", "label": "True or False", "icon": "✓✗"},
+      {"value": "fill_in_blanks", "label": "Fill in the Blanks", "icon": "📋"}
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      {"value": "make_sentences", "label": "Make Sentences", "icon": "✍️"}
+    ]
   }
 }

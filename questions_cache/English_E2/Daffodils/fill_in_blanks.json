@@ -1,0 +1,247 @@
+{
+  "subject": "English E2",
+  "chapter": "Daffodils",
+  "type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "daf_fib_1",
+      "question": "I wandered lonely as a _______.",
+      "answer": "cloud",
+      "hint": "Something that floats in the sky."
+    },
+    {
+      "id": "daf_fib_2",
+      "question": "That floats on high o'er vales and _______.",
+      "answer": "hills",
+      "hint": "Elevated areas of land."
+    },
+    {
+      "id": "daf_fib_3",
+      "question": "A _______ of golden Daffodils.",
+      "answer": "host",
+      "hint": "Means a large number."
+    },
+    {
+      "id": "daf_fib_4",
+      "question": "Beside the Lake, beneath the _______.",
+      "answer": "trees",
+      "hint": "Tall plants with trunks."
+    },
+    {
+      "id": "daf_fib_5",
+      "question": "Fluttering and _______ in the breeze.",
+      "answer": "dancing",
+      "hint": "Moving rhythmically."
+    },
+    {
+      "id": "daf_fib_6",
+      "question": "Continuous as the _______ that shine.",
+      "answer": "stars",
+      "hint": "Heavenly bodies that twinkle at night."
+    },
+    {
+      "id": "daf_fib_7",
+      "question": "And twinkle on the milky _______.",
+      "answer": "way",
+      "hint": "Our galaxy."
+    },
+    {
+      "id": "daf_fib_8",
+      "question": "Along the _______ of a bay.",
+      "answer": "margin",
+      "hint": "Edge or border."
+    },
+    {
+      "id": "daf_fib_9",
+      "question": "Ten _______ saw I at a glance.",
+      "answer": "thousand",
+      "hint": "A large number."
+    },
+    {
+      "id": "daf_fib_10",
+      "question": "Tossing their heads in _______ dance.",
+      "answer": "sprightly",
+      "hint": "Lively and energetic."
+    },
+    {
+      "id": "daf_fib_11",
+      "question": "Out-did the sparkling waves in _______.",
+      "answer": "glee",
+      "hint": "Joy or mirth."
+    },
+    {
+      "id": "daf_fib_12",
+      "question": "In such a _______ company.",
+      "answer": "jocund",
+      "hint": "Cheerful and merry."
+    },
+    {
+      "id": "daf_fib_13",
+      "question": "A Poet could not but be _______.",
+      "answer": "gay",
+      "hint": "Happy and carefree."
+    },
+    {
+      "id": "daf_fib_14",
+      "question": "What _______ the show to me had brought.",
+      "answer": "wealth",
+      "hint": "Valuable riches."
+    },
+    {
+      "id": "daf_fib_15",
+      "question": "For _______ when on my couch I lie.",
+      "answer": "oft",
+      "hint": "Often (poetic word)."
+    },
+    {
+      "id": "daf_fib_16",
+      "question": "In _______ or in pensive mood.",
+      "answer": "vacant",
+      "hint": "Empty or idle."
+    },
+    {
+      "id": "daf_fib_17",
+      "question": "They flash upon that _______ eye.",
+      "answer": "inward",
+      "hint": "Relating to mind or imagination."
+    },
+    {
+      "id": "daf_fib_18",
+      "question": "Which is the bliss of _______.",
+      "answer": "solitude",
+      "hint": "Being alone."
+    },
+    {
+      "id": "daf_fib_19",
+      "question": "And then my heart with _______ fills.",
+      "answer": "pleasure",
+      "hint": "Happiness or delight."
+    },
+    {
+      "id": "daf_fib_20",
+      "question": "And dances with the _______.",
+      "answer": "Daffodils",
+      "hint": "The golden flowers."
+    },
+    {
+      "id": "daf_fib_21",
+      "question": "William Wordsworth was born in the _______ District of England.",
+      "answer": "Lake",
+      "hint": "A body of water."
+    },
+    {
+      "id": "daf_fib_22",
+      "question": "'_______' means valleys.",
+      "answer": "Vales",
+      "hint": "Low areas between hills."
+    },
+    {
+      "id": "daf_fib_23",
+      "question": "'_______' means thoughtful.",
+      "answer": "Pensive",
+      "hint": "Engaged in deep thought."
+    },
+    {
+      "id": "daf_fib_24",
+      "question": "The daffodils stretched in _______-ending line.",
+      "answer": "never",
+      "hint": "Seeming to have no end."
+    },
+    {
+      "id": "daf_fib_25",
+      "question": "The daffodils are described as _______ in colour.",
+      "answer": "golden",
+      "hint": "Bright yellow like gold."
+    },
+    {
+      "id": "daf_fib_26",
+      "question": "Wordsworth (1770-1850) was one of the greatest _______ poets.",
+      "answer": "English",
+      "hint": "The language and country."
+    },
+    {
+      "id": "daf_fib_27",
+      "question": "'I wandered lonely as a cloud' is an example of a _______.",
+      "answer": "simile",
+      "hint": "Comparison using 'like' or 'as'."
+    },
+    {
+      "id": "daf_fib_28",
+      "question": "The daffodils 'dancing' is an example of _______.",
+      "answer": "personification",
+      "hint": "Giving human qualities to non-human things."
+    },
+    {
+      "id": "daf_fib_29",
+      "question": "Wordsworth's treatment of _______ is his chief glory as a poet.",
+      "answer": "nature",
+      "hint": "The natural world."
+    },
+    {
+      "id": "daf_fib_30",
+      "question": "The _______ beside the daffodils also danced.",
+      "answer": "waves",
+      "hint": "Moving water in the lake."
+    },
+    {
+      "id": "daf_fib_31",
+      "question": "The poem 'Daffodils' has _______ stanzas.",
+      "answer": "four",
+      "hint": "Number after three."
+    },
+    {
+      "id": "daf_fib_32",
+      "question": "When inanimate things are given human qualities, we call it _______.",
+      "answer": "personification",
+      "hint": "A figure of speech."
+    },
+    {
+      "id": "daf_fib_33",
+      "question": "The semicolon (;) is stronger than a _______ but weaker than a full stop.",
+      "answer": "comma",
+      "hint": "A punctuation mark (,)."
+    },
+    {
+      "id": "daf_fib_34",
+      "question": "The colon (:) is used to show that what follows is an _______ or further detail.",
+      "answer": "explanation",
+      "hint": "Making something clearer."
+    },
+    {
+      "id": "daf_fib_35",
+      "question": "'_______ is the mother of invention' is an example of personification.",
+      "answer": "Necessity",
+      "hint": "When you really need something."
+    },
+    {
+      "id": "daf_fib_36",
+      "question": "The poet did not realize what _______ the experience would bring him.",
+      "answer": "wealth",
+      "hint": "Precious value."
+    },
+    {
+      "id": "daf_fib_37",
+      "question": "The memory 'flashes' upon the poet's inward _______.",
+      "answer": "eye",
+      "hint": "Organ of sight."
+    },
+    {
+      "id": "daf_fib_38",
+      "question": "The daffodils were located along the edge of a _______.",
+      "answer": "bay",
+      "hint": "A curved part of a lake shore."
+    },
+    {
+      "id": "daf_fib_39",
+      "question": "'_______' and 'wondered' are homophones.",
+      "answer": "Wandered",
+      "hint": "Walked without direction."
+    },
+    {
+      "id": "daf_fib_40",
+      "question": "'Heart' and '_______' are homophones.",
+      "answer": "hart",
+      "hint": "A male deer."
+    }
+  ]
+}

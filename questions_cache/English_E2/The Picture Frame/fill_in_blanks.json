@@ -1,0 +1,247 @@
+{
+  "subject": "English E2",
+  "chapter": "The Picture Frame",
+  "type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "tpf_fib_1",
+      "question": "Mr Barton was _______ years old.",
+      "answer": "eighty-two",
+      "hint": "His age is mentioned in the first line of the story."
+    },
+    {
+      "id": "tpf_fib_2",
+      "question": "Mr Barton lived with his wife in a small _______ town in England.",
+      "answer": "seaside",
+      "hint": "The town was near the sea."
+    },
+    {
+      "id": "tpf_fib_3",
+      "question": "The daily walks provided Mr Barton with good physical _______.",
+      "answer": "exercise",
+      "hint": "Walking is a form of physical activity."
+    },
+    {
+      "id": "tpf_fib_4",
+      "question": "The view out over the _______ was what pleased Mr Barton most.",
+      "answer": "sea",
+      "hint": "He lived in a seaside town."
+    },
+    {
+      "id": "tpf_fib_5",
+      "question": "Mr Barton's father had died when he was only _______ years old.",
+      "answer": "four",
+      "hint": "A very young age."
+    },
+    {
+      "id": "tpf_fib_6",
+      "question": "Mr Barton had a large _______ of his father which he treasured more than life itself.",
+      "answer": "portrait",
+      "hint": "A painting or photograph of a person."
+    },
+    {
+      "id": "tpf_fib_7",
+      "question": "Mrs Barton seldom went out with her husband because she preferred to stay _______.",
+      "answer": "indoors",
+      "hint": "The opposite of outdoors."
+    },
+    {
+      "id": "tpf_fib_8",
+      "question": "The stallholder was a local man who had fallen on hard _______.",
+      "answer": "times",
+      "hint": "'Hard ___' means difficult period."
+    },
+    {
+      "id": "tpf_fib_9",
+      "question": "Mr Barton was attracted to an _______ old picture frame at the stall.",
+      "answer": "ornate",
+      "hint": "Means elaborately decorated."
+    },
+    {
+      "id": "tpf_fib_10",
+      "question": "The stallholder asked for twenty-three pounds, which Mr Barton thought was a _______!",
+      "answer": "lot",
+      "hint": "Mr Barton exclaimed 'That is a ___!'"
+    },
+    {
+      "id": "tpf_fib_11",
+      "question": "Mr Barton asked about the hideous green and gold plastic flower-_______ to distract the stallholder.",
+      "answer": "vase",
+      "hint": "A container for flowers."
+    },
+    {
+      "id": "tpf_fib_12",
+      "question": "The stallholder finally agreed to sell the frame for _______ pounds.",
+      "answer": "twenty",
+      "hint": "Half of forty."
+    },
+    {
+      "id": "tpf_fib_13",
+      "question": "The stallholder had actually bought the mirror for _______ pounds at a junk shop.",
+      "answer": "two",
+      "hint": "Much less than he claimed."
+    },
+    {
+      "id": "tpf_fib_14",
+      "question": "Mrs Barton became very angry and took herself off to _______.",
+      "answer": "bed",
+      "hint": "Where you sleep."
+    },
+    {
+      "id": "tpf_fib_15",
+      "question": "Inside the small chest were Mr Barton's most prized _______.",
+      "answer": "possessions",
+      "hint": "Things that belong to someone."
+    },
+    {
+      "id": "tpf_fib_16",
+      "question": "Mr Barton's father was dressed in the uniform of a _______.",
+      "answer": "soldier",
+      "hint": "Someone in the army."
+    },
+    {
+      "id": "tpf_fib_17",
+      "question": "Mr Barton used a _______ to lever the wooden back off the frame.",
+      "answer": "knife",
+      "hint": "A cutting tool."
+    },
+    {
+      "id": "tpf_fib_18",
+      "question": "Behind the mirror was a sheet of _______ between the wooden back and the mirror.",
+      "answer": "canvas",
+      "hint": "Material used for paintings."
+    },
+    {
+      "id": "tpf_fib_19",
+      "question": "The painting showed a _______ with his flock resting under a large oak tree.",
+      "answer": "shepherd",
+      "hint": "Someone who looks after sheep."
+    },
+    {
+      "id": "tpf_fib_20",
+      "question": "Far in the distance, there was what looked like a small _______.",
+      "answer": "village",
+      "hint": "A small settlement of houses."
+    },
+    {
+      "id": "tpf_fib_21",
+      "question": "The painting was old and covered in _______.",
+      "answer": "grime",
+      "hint": "Dirt accumulated over time."
+    },
+    {
+      "id": "tpf_fib_22",
+      "question": "Mr Barton said to himself, 'I have forgotten the _______!'",
+      "answer": "painting",
+      "hint": "The oil artwork."
+    },
+    {
+      "id": "tpf_fib_23",
+      "question": "The following day, Mr Barton could find no sign of the stall or the _______.",
+      "answer": "stallholder",
+      "hint": "The person who sold him the frame."
+    },
+    {
+      "id": "tpf_fib_24",
+      "question": "Mrs Barton said they could get the portrait of Mr Barton's father put into the frame and it can be done _______.",
+      "answer": "properly",
+      "hint": "In the correct manner."
+    },
+    {
+      "id": "tpf_fib_25",
+      "question": "The manager of the art gallery said the painting was worth a very, very, large sum of _______.",
+      "answer": "money",
+      "hint": "Currency."
+    },
+    {
+      "id": "tpf_fib_26",
+      "question": "The painting was worth about half a _______ pounds.",
+      "answer": "million",
+      "hint": "1,000,000."
+    },
+    {
+      "id": "tpf_fib_27",
+      "question": "Mr and Mrs Barton stood and stared at the manager for a long time, then they held each other's hands and _______.",
+      "answer": "danced",
+      "hint": "Moved rhythmically with joy."
+    },
+    {
+      "id": "tpf_fib_28",
+      "question": "The portrait of Mr Barton's father hung proudly on the wall in Mr Barton's small _______.",
+      "answer": "study",
+      "hint": "A room for reading and work."
+    },
+    {
+      "id": "tpf_fib_29",
+      "question": "About two hundred years ago, many famous _______ had their paintings framed in frames like this one.",
+      "answer": "painters",
+      "hint": "Artists who paint."
+    },
+    {
+      "id": "tpf_fib_30",
+      "question": "The stallholder's wife said 'How _______!' when she heard about the profit.",
+      "answer": "wonderful",
+      "hint": "Expressing delight."
+    },
+    {
+      "id": "tpf_fib_31",
+      "question": "The stallholder said 'Some people will buy any old _______.'",
+      "answer": "rubbish",
+      "hint": "Worthless items."
+    },
+    {
+      "id": "tpf_fib_32",
+      "question": "'_______' means smiled brightly.",
+      "answer": "Beamed",
+      "hint": "A word from 'Words to Know'."
+    },
+    {
+      "id": "tpf_fib_33",
+      "question": "'_______' means gently touching.",
+      "answer": "Caressing",
+      "hint": "A word from 'Words to Know'."
+    },
+    {
+      "id": "tpf_fib_34",
+      "question": "'_______' means very ugly.",
+      "answer": "Hideous",
+      "hint": "A word from 'Words to Know'."
+    },
+    {
+      "id": "tpf_fib_35",
+      "question": "'_______' means very heavily decorated.",
+      "answer": "Ornate",
+      "hint": "A word from 'Words to Know'."
+    },
+    {
+      "id": "tpf_fib_36",
+      "question": "'_______' means very many.",
+      "answer": "Umpteen",
+      "hint": "A word from 'Words to Know'."
+    },
+    {
+      "id": "tpf_fib_37",
+      "question": "A '_______ is a person selling goods.",
+      "answer": "stallholder",
+      "hint": "A word from 'Words to Know'."
+    },
+    {
+      "id": "tpf_fib_38",
+      "question": "A '_______ is a unit of money in the United Kingdom.",
+      "answer": "pound",
+      "hint": "British currency."
+    },
+    {
+      "id": "tpf_fib_39",
+      "question": "When the sea was rough and wild, huge _______ crashed along the shore.",
+      "answer": "waves",
+      "hint": "Moving water in the sea."
+    },
+    {
+      "id": "tpf_fib_40",
+      "question": "The items on the stall included children's toys, old records, a brass _______, and an ivory chess set.",
+      "answer": "monkey",
+      "hint": "An animal, made of metal."
+    }
+  ]
+}

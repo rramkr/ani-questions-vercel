@@ -2379,10 +2379,13 @@ function saveSubAnswer(questionId, subIndex, answer) {
     state.userAnswers[questionId][subIndex] = answer;
 }
 
-// Handlers for answer changes - just save the answer, don't auto-reveal
+// Handlers for answer changes - save the answer and re-render to update button states
 function handleAnswerChange(questionId, answer) {
     state.userAnswers[questionId] = answer;
-    // Don't auto-reveal - user must click "Check Answers" again to see answers
+    // Re-render in one-by-one mode to update Evaluate button state
+    if (state.oneByOneMode) {
+        renderQuiz();
+    }
 }
 
 function handleSubAnswerChange(questionId, subIndex, answer) {
