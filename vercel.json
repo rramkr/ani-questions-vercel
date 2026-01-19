@@ -9,6 +9,20 @@
   ],
   "routes": [
     {
+      "src": "/app.js",
+      "dest": "/app.js",
+      "headers": {
+        "Cache-Control": "no-cache, no-store, must-revalidate"
+      }
+    },
+    {
+      "src": "/styles.css",
+      "dest": "/styles.css",
+      "headers": {
+        "Cache-Control": "no-cache, no-store, must-revalidate"
+      }
+    },
+    {
       "src": "/(.*)",
       "dest": "/$1"
     }
