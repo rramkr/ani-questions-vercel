@@ -7,8 +7,14 @@
       "chapter_count": 5
     },
     {
-      "name": "English",
-      "slug": "english",
+      "name": "English E1",
+      "slug": "english_e1",
+      "icon": "📖",
+      "chapter_count": 2
+    },
+    {
+      "name": "English E2",
+      "slug": "english_e2",
       "icon": "📚",
       "chapter_count": 2
     }
