@@ -838,12 +838,15 @@ body {
 
 .question-context {
     background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
-    padding: 16px;
+    padding: 12px 16px;
     border-radius: 12px;
-    font-size: 1.05rem;
+    font-size: 0.95rem;
     color: #92400e;
-    margin-bottom: 12px;
-    font-weight: 600;
+    margin-bottom: 10px;
+    font-weight: 500;
+    white-space: pre-line;
+    line-height: 1.5;
+    border-left: 4px solid #f59e0b;
 }
 
 /* Answer Side */
@@ -1998,14 +2001,15 @@ body {
 /* Extract box for Reference to Context */
 .extract-box {
     background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
-    padding: 20px;
-    border-radius: 12px;
-    border-left: 5px solid #f59e0b;
-    margin-bottom: 20px;
+    padding: 12px 16px;
+    border-radius: 10px;
+    border-left: 4px solid #f59e0b;
+    margin-bottom: 12px;
     font-style: italic;
-    font-size: 1.05rem;
-    line-height: 1.8;
+    font-size: 0.95rem;
+    line-height: 1.6;
     color: #92400e;
+    white-space: pre-line;
 }
 
 /* Word box for Make Sentences */
@@ -2256,14 +2260,16 @@ body {
 
 /* Compact extract box for reference to context */
 .question-body.compact .extract-box {
-    padding: 8px 10px;
+    padding: 10px 12px;
     font-size: 0.85rem;
     margin-bottom: 8px;
-    max-height: 80px;
+    max-height: 120px;
     overflow-y: auto;
-    background: #f8fafc;
-    border-left: 3px solid var(--fun-blue);
-    border-radius: 4px;
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border-left: 3px solid #f59e0b;
+    border-radius: 6px;
+    white-space: pre-line;
+    line-height: 1.5;
 }
 
 /* Compact word box for make sentences */

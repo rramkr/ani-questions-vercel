@@ -1,4 +1,4 @@
-// Version: 3.1 - See Answer button inline right after options
+// Version: 3.2 - Extract/context display with proper newline rendering
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
