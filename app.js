@@ -1,4 +1,4 @@
-// Version: 3.6 - Improved Evaluate UI, floating back button, reduced scrolling
+// Version: 3.7 - Wrong answers section moved to end, clearAllWrongAnswers function
 // GitHub Raw URL for fetching questions
 const GITHUB_USER = 'rramkr';
 const GITHUB_REPO = 'ani-questions-vercel';
@@ -104,6 +104,11 @@ function getWrongAnswersForChapter(subject, chapter) {
 
 function getAllWrongAnswers() {
     return getWrongAnswers();
+}
+
+function clearAllWrongAnswers() {
+    localStorage.removeItem(WRONG_ANSWERS_KEY);
+    console.log('All wrong answers cleared!');
 }
 
 // Check if user is logged in
@@ -1216,7 +1221,7 @@ function renderSections(sections) {
                     }).join('')}
                 </div>
             `;
-            sectionsContainer.insertBefore(wrongSection, sectionsContainer.firstChild);
+            sectionsContainer.appendChild(wrongSection);
         }
     }
 
@@ -2418,6 +2423,7 @@ window.loadChapters = loadChapters;
 window.loadSections = loadSections;
 window.loadQuestions = loadQuestions;
 window.loadWrongQuestions = loadWrongQuestions;
+window.clearAllWrongAnswers = clearAllWrongAnswers;
 window.showView = showView;
 window.navigateTo = navigateTo;
 window.saveAnswer = saveAnswer;
