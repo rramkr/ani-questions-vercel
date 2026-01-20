@@ -5,247 +5,75 @@
   "questions": [
     {
       "id": "tl_rtc_1",
-      "extract": "'Is there anybody there?' said the Traveller,\nKnocking on the moonlit door;\nAnd his horse in the silence champed the grasses\nOf the forest's ferny floor.",
-      "questions": [
-        {
-          "question": "(i) Who is the Traveller and what is he doing?",
-          "answer": "The Traveller is a mysterious visitor who has arrived at a deserted house in the forest at night. He is knocking on the door, which is illuminated by moonlight, and calling out to ask if anyone is inside."
-        },
-        {
-          "question": "(ii) What was the horse doing while the Traveller knocked?",
-          "answer": "While the Traveller knocked on the door, his horse stood quietly in the silence, champing (chewing or eating) the grasses on the ferny floor of the forest."
-        },
-        {
-          "question": "(iii) What does 'moonlit door' suggest about the setting?",
-          "answer": "The phrase 'moonlit door' suggests that the scene takes place at night, with moonlight illuminating the door. This creates an eerie, mysterious atmosphere and hints at something supernatural."
-        },
-        {
-          "question": "(iv) What is the 'ferny floor'?",
-          "answer": "The 'ferny floor' refers to the forest ground covered with ferns (a type of leafy plant). It tells us the house is located deep in a wild, overgrown forest, adding to the isolated and mysterious setting."
-        },
-        {
-          "question": "(v) What mood is created in these lines?",
-          "answer": "These lines create a mood of mystery, loneliness, and suspense. The dark forest, moonlit door, silence, and unanswered question all combine to suggest something eerie and supernatural is about to happen."
-        }
-      ]
+      "question": "Reference to Context: ''Is there anybody there?' said the Traveller, Knocking on the moonlit door;'\n\n(i) Who is the Traveller?\n(ii) Where is this scene set?\n(iii) What does 'moonlit door' suggest about the time and atmosphere?",
+      "answer": "(i) The Traveller is a mysterious visitor who has arrived on horseback at a deserted house in the forest. He is called 'the one man left awake' - emphasizing that he is the only living, conscious human in this eerie place. He has apparently come to fulfill a promise he made to someone.\n\n(ii) The scene is set at a lonely house deep in a forest at night. The forest floor is covered with ferns ('ferny floor'), and the house has a turret (small tower), dark stairs, and an empty hall. The setting is isolated and mysterious.\n\n(iii) 'Moonlit door' tells us the scene takes place at night, with moonlight illuminating the entrance. This creates an eerie, supernatural atmosphere. Moonlight traditionally symbolizes mystery and the boundary between the natural and spirit worlds, which is fitting for a poem about phantom listeners.",
+      "key_points": ["Traveller = mysterious visitor on horseback", "Scene set at lonely house in forest at night", "Moonlit = nighttime, eerie atmosphere", "Supernatural setting"]
     },
     {
       "id": "tl_rtc_2",
-      "extract": "And he smote upon the door again a second time;\n'Is there anybody there?' he said.\nBut no one descended to the Traveller;\nNo head from the leaf-fringed sill\nLeaned over and looked into his grey eyes.",
-      "questions": [
-        {
-          "question": "(i) What does 'smote' mean?",
-          "answer": "'Smote' is the past tense of 'smite,' meaning to strike or knock forcefully. The Traveller hit the door hard because he received no answer the first time and was becoming more urgent in his attempts."
-        },
-        {
-          "question": "(ii) Why did the Traveller knock a second time?",
-          "answer": "The Traveller knocked a second time because no one had answered his first knock. He was persistent in trying to get a response, perhaps because he had made a promise to come here and needed to fulfill it."
-        },
-        {
-          "question": "(iii) What does 'no one descended' tell us about the house?",
-          "answer": "'No one descended' tells us the house has an upper floor with stairs. It suggests someone should have come down the stairs to answer the door, but nobody did - emphasizing the emptiness and mystery."
-        },
-        {
-          "question": "(iv) What is meant by 'leaf-fringed sill'?",
-          "answer": "The 'leaf-fringed sill' refers to the window ledge surrounded or decorated by leaves. This suggests the house is overgrown with vegetation, indicating it has been abandoned or neglected for some time."
-        },
-        {
-          "question": "(v) Why are the Traveller's eyes described as 'grey'?",
-          "answer": "The grey eyes might suggest the Traveller is middle-aged or elderly, or they could reflect the grey, dim light of the moonlit night. Grey eyes also add to the mysterious, otherworldly quality of the character."
-        }
-      ]
+      "question": "Reference to Context: 'And his horse in the silence champed the grasses Of the forest's ferny floor.'\n\n(i) What was the horse doing?\n(ii) What is the 'ferny floor'?\n(iii) What contrast does this create with the mysterious atmosphere?",
+      "answer": "(i) The horse was standing in the silence, champing (chewing or eating) the grasses. While its master knocked and called out at the mysterious house, the horse simply ate grass, unconcerned with the eerie atmosphere.\n\n(ii) The 'ferny floor' refers to the forest ground covered with ferns - a type of leafy plant that grows in shady, moist areas. It tells us the house is located deep in a wild, overgrown forest, far from civilization.\n\n(iii) The horse's ordinary behavior of eating grass creates a contrast with the supernatural, eerie atmosphere of the scene. While the Traveller senses something strange and keeps knocking urgently, the horse is unaware of any danger or mystery. This contrast highlights how the supernatural elements affect only the conscious human observer, not the innocent animal.",
+      "key_points": ["Horse was champing/eating grass", "Ferny floor = forest ground covered with ferns", "Horse's normal behavior contrasts with eerie atmosphere", "Animal unaware of supernatural"]
     },
     {
       "id": "tl_rtc_3",
-      "extract": "But only a host of phantom listeners\nThat dwelt in the lone house then\nStood listening in the quiet of the moonlight\nTo that voice from the world of men.",
-      "questions": [
-        {
-          "question": "(i) Who are the 'phantom listeners'?",
-          "answer": "The phantom listeners are ghostly or supernatural beings who inhabit the lonely house. They are spirits or ghosts who can hear but cannot or will not respond to the living Traveller."
-        },
-        {
-          "question": "(ii) What does 'host' suggest about the number of listeners?",
-          "answer": "'Host' means a large number or multitude. It suggests there were many phantom listeners in the house, not just one or two ghosts, making the supernatural presence even more powerful."
-        },
-        {
-          "question": "(iii) What does 'the lone house' tell us about the setting?",
-          "answer": "'The lone house' tells us the house stands isolated and solitary, far from other human habitation. This isolation explains why only phantoms, not living people, now occupy it."
-        },
-        {
-          "question": "(iv) What is significant about 'that voice from the world of men'?",
-          "answer": "This phrase emphasizes the contrast between the human world (the Traveller) and the spirit world (the phantoms). The Traveller belongs to the living world, while the listeners belong to a different realm entirely."
-        }
-      ]
+      "question": "Reference to Context: 'But only a host of phantom listeners That dwelt in the lone house then Stood listening in the quiet of the moonlight'\n\n(i) Who are the 'phantom listeners'?\n(ii) What does 'host' suggest about their number?\n(iii) What does 'dwelt' tell us about them?",
+      "answer": "(i) The phantom listeners are ghostly or supernatural beings who inhabit the lonely house. They are spirits or ghosts who can hear the Traveller but remain invisible and silent. They represent the spirit world that exists alongside our human world but remains hidden from us.\n\n(ii) 'Host' means a large number or multitude. It suggests there were many phantom listeners in the house, not just one or two ghosts. The house was filled with these supernatural beings, crowded together on the dark stair, making the ghostly presence even more powerful.\n\n(iii) 'Dwelt' means lived or resided. It tells us the phantom listeners lived permanently in this house - it was their dwelling place. Unlike the Traveller who is just passing through, the phantoms belong there and will remain after he leaves.",
+      "key_points": ["Phantom listeners = ghostly/supernatural beings", "Host = large number, many ghosts", "Dwelt = lived permanently", "They are permanent residents, Traveller is temporary"]
     },
     {
       "id": "tl_rtc_4",
-      "extract": "Stood thronging the faint moonbeams on the dark stair,\nThat goes down to the empty hall,\nHearkening in an air stirred and shaken\nBy the lonely Traveller's call.",
-      "questions": [
-        {
-          "question": "(i) What does 'thronging' mean and what does it tell us?",
-          "answer": "'Thronging' means crowding together in large numbers. It tells us many phantom listeners were gathered closely together on the staircase in the dim moonlight, reinforcing that there was a host of them."
-        },
-        {
-          "question": "(ii) Why is the stair described as 'dark'?",
-          "answer": "The stair is described as dark because very little moonlight reaches the interior of the house. The darkness adds to the mysterious, eerie atmosphere and suggests hidden, unseen things on the stairs."
-        },
-        {
-          "question": "(iii) Why is the hall described as 'empty' when the listeners are present?",
-          "answer": "The hall is described as 'empty' because the phantom listeners are invisible to human eyes. Though many ghosts are present, a living person would see the hall as completely empty."
-        },
-        {
-          "question": "(iv) What does 'hearkening' mean?",
-          "answer": "'Hearkening' means listening attentively or paying close attention to sounds. The phantom listeners were carefully listening to every word and sound made by the Traveller outside."
-        },
-        {
-          "question": "(v) What effect did the Traveller's call have on the air?",
-          "answer": "The Traveller's call 'stirred and shaken' the air inside the house. His voice broke the stillness and disturbed the silence, though the phantoms themselves remained motionless in response."
-        }
-      ]
+      "question": "Reference to Context: 'Stood thronging the faint moonbeams on the dark stair, That goes down to the empty hall'\n\n(i) What does 'thronging' mean?\n(ii) Where were the listeners standing?\n(iii) Why is the hall described as 'empty' when the listeners are present?",
+      "answer": "(i) 'Thronging' means crowding together in large numbers. It tells us the phantom listeners were gathered closely together, packed on the staircase in the dim moonlight. This reinforces that there was a 'host' (many) of them.\n\n(ii) The listeners were standing on the dark staircase of the house, in the faint moonbeams that entered through windows. The stairs led down to the hall below. They were inside the house, invisible to the Traveller outside.\n\n(iii) The hall is described as 'empty' because the phantom listeners are invisible to human eyes. Though many ghosts are present, crowded on the stairs and filling the space, a living person would see only an empty hall. This paradox - full yet empty - emphasizes the supernatural nature of the listeners who exist but cannot be seen.",
+      "key_points": ["Thronging = crowding together", "Standing on dark staircase", "Empty because phantoms are invisible", "Paradox: full of ghosts but appears empty"]
     },
     {
       "id": "tl_rtc_5",
-      "extract": "And he felt in his heart their strangeness,\nTheir stillness answering his cry,\nFor he suddenly smote on the door, even\nLouder, and lifted his head.",
-      "questions": [
-        {
-          "question": "(i) What did the Traveller feel 'in his heart'?",
-          "answer": "The Traveller felt the strangeness of the unseen listeners in his heart. Though he couldn't see them, he sensed intuitively that something unusual and supernatural was present in the house."
-        },
-        {
-          "question": "(ii) What is meant by 'stillness answering his cry'?",
-          "answer": "'Stillness answering his cry' is an oxymoron - the only response to the Traveller's calls was silence itself. The complete lack of movement or sound from the listeners was their only 'answer' to him."
-        },
-        {
-          "question": "(iii) Why did the Traveller knock 'even louder'?",
-          "answer": "The Traveller knocked louder out of frustration and determination. Despite sensing something strange, he was persistent in trying to get a response, perhaps because he needed to fulfill an important promise."
-        },
-        {
-          "question": "(iv) Why did he lift his head?",
-          "answer": "He lifted his head perhaps to look up at the windows or turret, hoping to see someone. It also suggests defiance and determination - he refused to give up despite the eerie silence."
-        }
-      ]
+      "question": "Reference to Context: 'And he felt in his heart their strangeness, Their stillness answering his cry'\n\n(i) What did the Traveller feel?\n(ii) How did he sense the presence of the listeners?\n(iii) What is meant by 'stillness answering his cry'?",
+      "answer": "(i) The Traveller felt the strangeness of the unseen listeners. Even though he couldn't see or hear them, he could sense intuitively that something unusual and supernatural was present in the house. He felt this strangeness 'in his heart' - through inner awareness.\n\n(ii) He sensed the listeners through intuition rather than his physical senses. He couldn't see them (they were invisible) or hear them (they made no sound), but he could feel their presence. This suggests a connection between the human and spirit worlds that operates beyond normal perception.\n\n(iii) 'Stillness answering his cry' is an oxymoron - a contradiction in terms. Normally, an answer involves sound or action, but here the only 'answer' to the Traveller's calls was complete silence and lack of movement. The listeners' refusal to respond, their utter stillness, was paradoxically the only response he received.",
+      "key_points": ["Felt strangeness in his heart", "Sensed through intuition, not physical senses", "Stillness answering = oxymoron", "Silence was the only response"]
     },
     {
       "id": "tl_rtc_6",
-      "extract": "'Tell them I came, and no one answered,\nTell them I kept my word,' said he.\nNever the least stir made the listeners,\nThough every word he spake\nFell echoing through the shadowiness of the still house.",
-      "questions": [
-        {
-          "question": "(i) What message did the Traveller leave?",
-          "answer": "The Traveller asked the unseen listeners to tell 'them' that he came but no one answered, and that he kept his word by coming as promised. He wanted it known that he had fulfilled his commitment."
-        },
-        {
-          "question": "(ii) Who are 'them' that the Traveller refers to?",
-          "answer": "'Them' refers to the people the Traveller had made a promise to visit. Their identity is deliberately left mysterious - they could be former inhabitants now dead, or people elsewhere expecting news from this visit."
-        },
-        {
-          "question": "(iii) What does 'I kept my word' tell us about the Traveller?",
-          "answer": "'I kept my word' tells us the Traveller is an honorable person who values keeping promises. Despite the eerie circumstances and lack of response, he came as he had promised he would."
-        },
-        {
-          "question": "(iv) How did the listeners respond to his message?",
-          "answer": "The listeners made absolutely no response - 'never the least stir.' They remained completely silent and motionless even though they heard every word he spoke echoing through the shadowy house."
-        },
-        {
-          "question": "(v) What is 'shadowiness' and what mood does it create?",
-          "answer": "'Shadowiness' refers to the darkness and shadows filling the house. It creates a mood of mystery, gloom, and the supernatural - a place where light cannot fully penetrate and secrets remain hidden."
-        }
-      ]
+      "question": "Reference to Context: ''Tell them I came, and no one answered, Tell them I kept my word,' said he.'\n\n(i) Who is speaking and to whom?\n(ii) What message does the Traveller leave?\n(iii) What does this message reveal about the Traveller's character?",
+      "answer": "(i) The Traveller is speaking, addressing his message to the phantom listeners inside the house. He asks these unseen beings to pass on his message to 'them' - the mysterious people he had promised to visit.\n\n(ii) The Traveller leaves a simple but significant message: that he came but no one answered the door, and that he kept his word by coming as he had promised. He wants 'them' to know he fulfilled his commitment.\n\n(iii) This message reveals several things about the Traveller's character: He is honorable and values keeping promises - despite the eerie situation, he came as he said he would. He is persistent - he knocked multiple times before leaving. He has a sense of duty - he feels obligated to report that he fulfilled his promise. There is also something lonely and perhaps tragic about him - he keeps faith with people who cannot or will not respond.",
+      "key_points": ["Traveller speaking to phantom listeners", "Message: I came, no one answered, I kept my word", "Shows honor and promise-keeping", "Persistent and dutiful", "Lonely/tragic figure"]
     },
     {
       "id": "tl_rtc_7",
-      "extract": "Ay, they heard his foot upon the stirrup,\nAnd the sound of iron on stone,\nAnd how the silence surged softly backward,\nWhen the plunging hoofs were gone.",
-      "questions": [
-        {
-          "question": "(i) What sounds did the listeners hear as the Traveller left?",
-          "answer": "The listeners heard the Traveller's foot stepping into the stirrup as he mounted his horse, and the sound of the horse's iron horseshoes striking the stone path as he rode away."
-        },
-        {
-          "question": "(ii) What is 'iron on stone'?",
-          "answer": "'Iron on stone' refers to the sound of the horse's iron horseshoes striking the stone surface of the path or road. This was a distinctive, sharp sound as the horse began to move away."
-        },
-        {
-          "question": "(iii) What does 'the silence surged softly backward' mean?",
-          "answer": "This phrase personifies silence, describing how it returned to fill the space after the Traveller left. Like a wave flowing back, the silence reclaimed the house once the sounds of departure faded."
-        },
-        {
-          "question": "(iv) What are 'plunging hoofs'?",
-          "answer": "'Plunging hoofs' describes the horse's hooves striking the ground forcefully as it galloped away quickly. The word 'plunging' suggests rapid, powerful movement into the darkness."
-        },
-        {
-          "question": "(v) What is the significance of the silence returning?",
-          "answer": "The silence returning suggests the supernatural world is permanent while human presence is temporary. Once the living Traveller left, the eternal quiet of the phantom-inhabited house reclaimed everything."
-        }
-      ]
+      "question": "Reference to Context: 'Never the least stir made the listeners, Though every word he spake Fell echoing through the shadowiness of the still house.'\n\n(i) How did the listeners respond to the Traveller?\n(ii) What does 'spake' mean?\n(iii) What is 'shadowiness' and what mood does it create?",
+      "answer": "(i) The listeners made absolutely no response - 'never the least stir.' They remained completely silent and motionless despite hearing every word the Traveller spoke. Even the smallest movement would have been 'a stir,' but they made none at all.\n\n(ii) 'Spake' is an archaic (old-fashioned) past tense of 'speak' - it means 'spoke.' Using this old word gives the poem a timeless, mysterious quality and connects it to traditional English poetry.\n\n(iii) 'Shadowiness' refers to the darkness and shadows filling the house interior. It creates a mood of mystery, gloom, and the supernatural. The word suggests a place where light cannot fully penetrate, where secrets remain hidden, and where the boundary between the visible and invisible worlds is blurred.",
+      "key_points": ["Listeners made no response - never the least stir", "Spake = spoke (archaic)", "Shadowiness = darkness, shadows", "Creates mood of mystery and gloom"]
     },
     {
       "id": "tl_rtc_8",
-      "extract": "And a bird flew up out of the turret,\nAbove the Traveller's head:\nAnd he smote upon the door again a second time;\n'Is there anybody there?' he said.",
-      "questions": [
-        {
-          "question": "(i) What is a turret?",
-          "answer": "A turret is a small tower, usually at the corner of a building or castle. It suggests the house is old and possibly grand, adding to its Gothic, mysterious quality."
-        },
-        {
-          "question": "(ii) Why did the bird fly out?",
-          "answer": "The bird flew out because it was startled by the Traveller's knocking on the door. The sudden noise disturbed the bird that had been roosting peacefully in the turret."
-        },
-        {
-          "question": "(iii) Is the bird's flight a response to the Traveller's question?",
-          "answer": "No, the bird's flight is not a meaningful response - it's just a natural reaction to being startled. It emphasizes that only the bird, not any human or speaking creature, reacted to the Traveller's presence."
-        },
-        {
-          "question": "(iv) What does this incident add to the atmosphere?",
-          "answer": "The bird flying out adds to the eerie, abandoned atmosphere. It shows the house is so neglected that birds live in its turret, and the only living creature to respond is a startled bird, not a person."
-        }
-      ]
+      "question": "Reference to Context: 'Ay, they heard his foot upon the stirrup, And the sound of iron on stone'\n\n(i) What does 'Ay' mean?\n(ii) What sounds did the listeners hear?\n(iii) What is 'iron on stone'?",
+      "answer": "(i) 'Ay' means 'yes' - it is an old-fashioned or dialectal word expressing agreement or confirmation. Here it emphasizes that yes, the listeners definitely heard the sounds of the Traveller's departure.\n\n(ii) The listeners heard two specific sounds as the Traveller left: his foot stepping into the stirrup as he mounted his horse, and the sound of the horse's iron horseshoes striking the stone path as he began to ride away.\n\n(iii) 'Iron on stone' refers to the sound of the horse's iron horseshoes striking the stone surface of the path or road. Horseshoes were traditionally made of iron, and this would create a distinctive, sharp, ringing sound when striking hard stone. This detail makes the scene vivid and realistic.",
+      "key_points": ["Ay = yes (old word)", "Heard foot on stirrup, iron on stone", "Iron on stone = horseshoes on stone path", "Vivid, realistic detail"]
     },
     {
       "id": "tl_rtc_9",
-      "extract": "From the one man left awake.\nFor he suddenly smote on the door, even\nLouder, and lifted his head:\n'Tell them I came, and no one answered,\nTell them I kept my word,' said he.",
-      "questions": [
-        {
-          "question": "(i) What does 'the one man left awake' mean?",
-          "answer": "This phrase means the Traveller was the only living, conscious human being in that eerie place. It emphasizes his loneliness and isolation among the phantom inhabitants who exist in a different state."
-        },
-        {
-          "question": "(ii) Why is the word 'awake' significant?",
-          "answer": "'Awake' contrasts with the phantom listeners who are not truly alive or conscious in the human sense. The Traveller is awake and aware, while the phantoms exist in a state like eternal sleep or death."
-        },
-        {
-          "question": "(iii) Why did the Traveller knock 'even louder'?",
-          "answer": "The Traveller knocked louder because he was determined to get a response and fulfill his promise. Despite the eerie silence and sensing something strange, he refused to give up easily."
-        },
-        {
-          "question": "(iv) What does lifting his head suggest?",
-          "answer": "Lifting his head suggests defiance, determination, and perhaps a final appeal to anyone who might be watching from above. It shows he is not intimidated by the supernatural atmosphere."
-        },
-        {
-          "question": "(v) Why does he repeat his message about keeping his word?",
-          "answer": "He repeats his message because it is important to him that whoever 'they' are know he fulfilled his commitment. His honor and integrity matter to him, even without any acknowledgment from the silent house."
-        }
-      ]
+      "question": "Reference to Context: 'And how the silence surged softly backward, When the plunging hoofs were gone.'\n\n(i) What literary device is used in 'silence surged'?\n(ii) What does this phrase mean?\n(iii) What are 'plunging hoofs'?",
+      "answer": "(i) 'Silence surged' uses personification - giving human or living qualities to silence, which is abstract and non-living. Silence is described as if it were a wave that could 'surge' or flow, as if it were alive and had the ability to move.\n\n(ii) This phrase describes how silence returned to the house after the Traveller left. Once the sounds of his departure faded - his foot on stirrup, horseshoes on stone, galloping hoofs - the silence flowed back like a wave to fill the space. It suggests the supernatural world of silence reclaiming its territory after the brief human intrusion.\n\n(iii) 'Plunging hoofs' describes the horse's hooves striking the ground forcefully as it galloped away quickly into the darkness. The word 'plunging' suggests rapid, powerful movement - the horse was moving fast and forcefully as the Traveller rode away from the mysterious house.",
+      "key_points": ["Personification - silence given living qualities", "Silence returned like a wave after Traveller left", "Plunging hoofs = horse galloping away forcefully", "Supernatural world reclaims space"]
     },
     {
       "id": "tl_rtc_10",
-      "extract": "Where he stood perplexed and still.\nAnd his horse in the silence champed the grasses\nOf the forest's ferny floor.",
-      "questions": [
-        {
-          "question": "(i) Why was the Traveller 'perplexed'?",
-          "answer": "The Traveller was perplexed (confused and puzzled) because he expected someone to answer but received only silence. He sensed something strange about the place but couldn't understand why no one responded."
-        },
-        {
-          "question": "(ii) Why did he stand 'still'?",
-          "answer": "He stood still, waiting and listening for any response to his knocking and calling. The stillness shows his patience and determination to wait for an answer before giving up."
-        },
-        {
-          "question": "(iii) What contrast is shown between the Traveller and his horse?",
-          "answer": "The contrast shows the Traveller is troubled and confused while his horse is unconcerned, simply eating grass. The horse is unaware of the supernatural atmosphere that disturbs its master."
-        },
-        {
-          "question": "(iv) What is the effect of repeating the image of the horse and 'ferny floor'?",
-          "answer": "The repetition creates a sense of time passing while nothing changes - the Traveller waits, the horse eats, but no answer comes. It also frames the poem with the same peaceful forest image despite the eerie events."
-        }
-      ]
+      "question": "Reference to Context: 'And a bird flew up out of the turret, Above the Traveller's head:'\n\n(i) What is a turret?\n(ii) Why did the bird fly out?\n(iii) Is the bird's flight a response to the Traveller's question?",
+      "answer": "(i) A turret is a small tower, usually at the corner of a building or castle. It suggests the house is old and possibly once grand, adding to its Gothic, mysterious quality. The presence of a turret indicates this is no ordinary cottage but a substantial, perhaps once-noble building.\n\n(ii) The bird flew out because it was startled by the Traveller's knocking on the door. The sudden noise disturbed the bird that had been roosting peacefully in the turret. This detail also suggests the house has been abandoned so long that birds now live in its towers.\n\n(iii) No, the bird's flight is not a meaningful response to the Traveller's question 'Is there anybody there?' It is merely a startled animal reacting to noise. The irony is that the only living creature to respond to his presence is a bird, not any human or speaking being. This emphasizes the eerie abandonment of the house.",
+      "key_points": ["Turret = small tower on building", "Bird startled by knocking", "Not a meaningful response", "Only living creature to react was a bird"]
+    },
+    {
+      "id": "tl_rtc_11",
+      "question": "Reference to Context: 'For he suddenly smote on the door, even Louder, and lifted his head:'\n\n(i) What does 'smote' mean?\n(ii) Why did the Traveller knock louder?\n(iii) Why did he lift his head?",
+      "answer": "(i) 'Smote' is the past tense of 'smite,' meaning to strike or hit forcefully. It is an archaic word that suggests hitting with force. The Traveller knocked hard on the door, not just tapped gently - showing his determination to get a response.\n\n(ii) The Traveller knocked louder because he had received no answer to his previous knocks. His increasing force shows his determination and perhaps frustration. Despite sensing something strange about the place, he was persistent in trying to fulfill his promise and get a response.\n\n(iii) He lifted his head perhaps to look up at the windows or turret, hoping to see someone watching. It also suggests defiance and determination - he was not intimidated by the eerie silence. Lifting one's head is a gesture of assertiveness, showing he would not be cowed by the supernatural atmosphere.",
+      "key_points": ["Smote = struck forcefully", "Knocked louder because no answer", "Shows determination and persistence", "Lifted head to look up or show defiance"]
+    },
+    {
+      "id": "tl_rtc_12",
+      "question": "Reference to Context: 'From the one man left awake.'\n\n(i) Who is 'the one man left awake'?\n(ii) What does this phrase suggest about the listeners?\n(iii) What is the significance of being 'awake'?",
+      "answer": "(i) 'The one man left awake' refers to the Traveller. He is the only living, conscious human being in this eerie place, surrounded by phantom listeners who exist in a different state.\n\n(ii) This phrase suggests that the listeners are not 'awake' in the human sense - they are phantoms, ghosts who exist in a state that is neither fully alive nor conscious. While they can hear, they cannot respond. They are like sleepers or the dead, present but not truly alive.\n\n(iii) Being 'awake' is significant because it emphasizes the Traveller's living, conscious state in contrast to the supernatural beings around him. It highlights his profound loneliness and isolation - he is the only conscious being in a place full of silent spirits. The word also suggests that the spirit world is like an eternal sleep from which the phantoms cannot wake to respond.",
+      "key_points": ["One man left awake = the Traveller", "Listeners not awake - phantoms, like sleepers or dead", "Awake = living, conscious", "Emphasizes loneliness among spirits"]
     }
   ]
 }
