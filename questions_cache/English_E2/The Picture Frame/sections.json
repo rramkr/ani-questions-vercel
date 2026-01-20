@@ -5,6 +5,9 @@
     "textbook": [
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
     ],
+    "previous_year": [
+      {"value": "previous_year_questions", "label": "Previous Year Questions", "icon": "📋"}
+    ],
     "exam": [
       {"value": "reference_to_context", "label": "Reference to Context", "icon": "📜"},
       {"value": "short_answer", "label": "Short Answer (3 marks)", "icon": "📝"},
