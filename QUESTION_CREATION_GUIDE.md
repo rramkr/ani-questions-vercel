@@ -1,52 +1,398 @@
 # Question Creation Guide for ICSE Quiz App
 
-This guide provides templates and prompts for creating comprehensive question banks for any new subject or chapter.
+This is an interactive guide for creating comprehensive question banks. Follow the steps in order.
 
 ---
 
-## Directory Structure
+## STEP 1: GATHER INFORMATION
 
-For each new chapter, create the following files:
+### 1.1 Ask for Source Folder
+
+**ASK THE USER:**
 ```
-questions_cache/
-└── {Subject_Name}/           # e.g., "English_E2", "Physics"
-    ├── chapters.json         # List of all chapters in this subject
-    └── {Chapter_Name}/       # e.g., "The Listeners", "Motion"
-        ├── sections.json
-        ├── textbook_qa.json
-        ├── reference_to_context.json
-        ├── short_answer.json
-        ├── long_answer.json
-        ├── mcq.json
-        └── make_sentences.json
+Please provide the folder path containing the textbook chapter and any reference documents.
+
+Example: /Users/username/subjects/English_E2/Chapter_Name/
+
+The folder should contain:
+- Scanned textbook pages (PDF or images)
+- Any additional reference materials
+- Word documents with notes (if any)
+```
+
+### 1.2 Ask for Subject and Chapter Details
+
+**ASK THE USER:**
+```
+Please provide:
+1. Subject Name (e.g., "English E2", "Physics", "Mathematics")
+2. Chapter Name (e.g., "The Listeners", "Motion and Time")
+3. Chapter Icon (emoji, e.g., 📚, ⚛️, 🔢)
+4. A short prefix for question IDs (2-4 letters, e.g., "tl" for The Listeners)
+```
+
+### 1.3 Ask for Question Types
+
+**ASK THE USER:**
+```
+Which question types do you want to create? (Select all that apply)
+
+1. [ ] textbook_qa - Questions directly from textbook with answers
+2. [ ] reference_to_context - Passage-based questions with sub-questions
+3. [ ] short_answer - 3-4 sentence answer questions
+4. [ ] long_answer - 5-6 sentence answer questions
+5. [ ] mcq - Multiple choice questions
+6. [ ] make_sentences - Vocabulary with meanings and sentences
+
+Type the numbers separated by commas (e.g., "1,2,3,4,5,6" for all)
 ```
 
 ---
 
-## File Formats
+## STEP 2: READ AND ANALYZE SOURCE MATERIAL
 
-### 1. chapters.json
+### 2.1 Read All Source Documents
 
+**ACTION:** Read every file in the provided folder:
+- PDF files (textbook pages)
+- Image files (scanned pages)
+- Word/text documents
+
+**IMPORTANT:**
+- Read the ENTIRE chapter from start to finish
+- Note down all sections: story/poem text, About Author, Words to Know, Comprehension Questions, Reference to Context, Working with Words, Grammar sections, Composition
+- Do NOT miss any part of the chapter
+
+### 2.2 Create Chapter Summary
+
+Before creating questions, create a mental map of:
+- Main characters/concepts
+- Key events/points
+- Important quotes/passages
+- Vocabulary words
+- Themes and messages
+- All textbook questions and exercises
+
+### 2.3 IMPORTANT ACCURACY RULES
+
+**DO NOT:**
+- Use phrases or terms that are NOT from the original chapter (e.g., don't invent phrases like "beacon of hope" if it's not in the text)
+- Describe workers as "unpaid help" if they are paid (even small amounts like meals + 1 rupee/day counts as payment)
+- Add literary terms or analysis phrases that aren't in the textbook
+- Embellish or add details that aren't in the source material
+
+**DO:**
+- Use ONLY words, phrases, and concepts that appear in the original chapter
+- Quote directly from the text whenever possible
+- Keep answers factually accurate to the source material
+- Verify all facts (number of siblings, payment amounts, locations, etc.) against the original text
+
+---
+
+## STEP 3: CREATE OUTPUT DIRECTORY
+
+**ACTION:** Create the chapter folder structure:
+
+```
+questions_cache/{Subject_Name}/{Chapter_Name}/
+```
+
+Example:
+```
+questions_cache/English_E2/The Listeners/
+```
+
+---
+
+## STEP 4: CREATE EACH QUESTION FILE
+
+**IMPORTANT:** Create each question type as a SEPARATE file to avoid token limits. Complete one file fully before moving to the next.
+
+---
+
+### 4.1 TEXTBOOK Q&A (textbook_qa.json)
+
+**PURPOSE:** Extract ALL questions from the textbook exactly as written, with comprehensive answers.
+
+**WHAT TO INCLUDE:**
+- All Comprehension questions (a, b, c, d...)
+- All HOTS (Higher Order Thinking Skills) questions
+- All Reference to Context questions from textbook
+- Any other exercise questions
+
+**FORMAT:**
 ```json
 {
-  "subject": "English E2",
-  "chapters": [
+  "subject": "{Subject Name}",
+  "chapter": "{Chapter Name}",
+  "type": "textbook_qa",
+  "questions": [
     {
-      "name": "Chapter Name",
-      "slug": "Chapter Name",
-      "has_questions": true,
-      "icon": "📚"
+      "id": "{prefix}_tq_1",
+      "question": "Exact question from textbook",
+      "answer": "Comprehensive answer. For simple questions: 3-4 sentences. For HOTS/complex questions: 5-6 sentences. Cover all aspects the question asks about.",
+      "key_points": ["Key point 1", "Key point 2", "Key point 3"]
     }
   ]
 }
 ```
 
-### 2. sections.json
+**CHECKLIST:**
+- [ ] Every comprehension question included
+- [ ] Every HOTS question included
+- [ ] Every Reference to Context question from textbook included
+- [ ] Answers are comprehensive and accurate
+- [ ] Key points summarize the main ideas
+
+---
+
+### 4.2 REFERENCE TO CONTEXT (reference_to_context.json)
+
+**PURPOSE:** Create passage-based questions where students read a quote and answer sub-questions.
+
+**WHAT TO INCLUDE:**
+- 10-15 important passages/quotes from the chapter
+- Each passage should have 3-5 sub-questions
+- Cover different parts of the chapter evenly
+
+**FORMAT:**
+```json
+{
+  "subject": "{Subject Name}",
+  "chapter": "{Chapter Name}",
+  "type": "reference_to_context",
+  "questions": [
+    {
+      "id": "{prefix}_rtc_1",
+      "question": "Reference to Context: 'Exact quote from the text here.'\n\n(i) First question about the passage?\n(ii) Second question about the passage?\n(iii) Third question about the passage?\n(iv) Fourth question if needed?",
+      "answer": "(i) Answer to first question in 2-3 sentences. Provide complete explanation.\n\n(ii) Answer to second question in 2-3 sentences. Be specific and accurate.\n\n(iii) Answer to third question in 2-3 sentences. Reference the text where helpful.\n\n(iv) Answer to fourth question if applicable.",
+      "key_points": ["Key point 1", "Key point 2", "Key point 3", "Key point 4"]
+    }
+  ]
+}
+```
+
+**IMPORTANT FORMATTING RULE:**
+- Each numbered sub-answer (i), (ii), (iii), (iv) MUST start on a new line
+- Use `\n\n` between each numbered point to create proper line breaks
+- DO NOT crowd multiple answers on the same line
+
+**SUB-QUESTION TYPES TO USE:**
+- Who is speaking / Who is being described?
+- What is the context of this passage?
+- What does [specific word/phrase] mean?
+- Why did [character] do/say this?
+- What happens before/after this?
+- What is the significance of this passage?
+- What mood/atmosphere is created?
+- What literary device is used?
+
+**CHECKLIST:**
+- [ ] 10-15 passages selected from different parts of chapter
+- [ ] Each passage has 3-5 sub-questions
+- [ ] Questions cover who, what, where, when, why, how
+- [ ] Answers are in (i), (ii), (iii) format
+- [ ] Key points included
+
+---
+
+### 4.3 SHORT ANSWER (short_answer.json)
+
+**PURPOSE:** Questions requiring 3-4 sentence answers for quick recall and understanding.
+
+**WHAT TO INCLUDE:**
+- 20-25 questions covering the entire chapter
+- Questions on characters, events, concepts, meanings
+- No part of the chapter should be left uncovered
+
+**FORMAT:**
+```json
+{
+  "subject": "{Subject Name}",
+  "chapter": "{Chapter Name}",
+  "type": "short_answer",
+  "questions": [
+    {
+      "id": "{prefix}_sa_1",
+      "question": "Clear, specific question?",
+      "answer": "First sentence directly answers the question. Second sentence provides supporting detail or explanation. Third sentence adds more context or examples. Fourth sentence concludes if needed.",
+      "key_points": ["Point 1", "Point 2", "Point 3"]
+    }
+  ]
+}
+```
+
+**ANSWER LENGTH RULE:**
+- EXACTLY 3-4 sentences
+- Not 2 sentences, not 5 sentences
+- 3-4 sentences only
+
+**TOPICS TO COVER:**
+- Character descriptions and roles
+- Key events and their causes
+- Important concepts and definitions
+- Settings and atmosphere
+- Relationships between characters/concepts
+- Vocabulary meanings in context
+- Author's purpose
+- Themes and messages
+
+**CHECKLIST:**
+- [ ] 20-25 questions created
+- [ ] All sections of chapter covered
+- [ ] Each answer is exactly 3-4 sentences
+- [ ] Key points included for each question
+
+---
+
+### 4.4 LONG ANSWER (long_answer.json)
+
+**PURPOSE:** Questions requiring detailed 5-6 sentence answers for deeper understanding.
+
+**WHAT TO INCLUDE:**
+- 8-10 comprehensive questions
+- Focus on analysis, comparison, and critical thinking
+- Questions that require synthesis of multiple parts of the chapter
+
+**FORMAT:**
+```json
+{
+  "subject": "{Subject Name}",
+  "chapter": "{Chapter Name}",
+  "type": "long_answer",
+  "questions": [
+    {
+      "id": "{prefix}_la_1",
+      "question": "Detailed question requiring comprehensive analysis?",
+      "answer": "First sentence introduces the main point or thesis. Second sentence provides context or background information. Third sentence gives detailed explanation with specific examples from the text. Fourth sentence continues the explanation or provides additional examples. Fifth sentence discusses the significance, implications, or deeper meaning. Sixth sentence concludes or connects to broader themes.",
+      "key_points": ["Point 1", "Point 2", "Point 3", "Point 4", "Point 5"]
+    }
+  ]
+}
+```
+
+**ANSWER LENGTH RULE:**
+- EXACTLY 5-6 sentences
+- Not 4 sentences, not 7 sentences
+- 5-6 sentences only
+
+**QUESTION TYPES TO INCLUDE:**
+- Character analysis (describe character, their development)
+- Theme exploration (what themes, how are they shown)
+- Comparative questions (contrast two things)
+- Significance questions (why is X important)
+- Literary device analysis (how does author create effect)
+- HOTS questions (what if, why do you think, evaluate)
+- Summary questions (describe the main events/ideas)
+
+**CHECKLIST:**
+- [ ] 8-10 questions created
+- [ ] Questions require deep thinking, not just recall
+- [ ] Each answer is exactly 5-6 sentences
+- [ ] Specific examples from text included in answers
+- [ ] Key points (4-5) included for each question
+
+---
+
+### 4.5 MULTIPLE CHOICE QUESTIONS (mcq.json)
+
+**PURPOSE:** Objective questions for quick assessment of knowledge.
+
+**WHAT TO INCLUDE:**
+- 30-40 MCQs covering the entire chapter
+- Mix of easy, medium, and challenging questions
+- Questions on facts, vocabulary, inference, and understanding
+
+**FORMAT:**
+```json
+{
+  "subject": "{Subject Name}",
+  "chapter": "{Chapter Name}",
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "{prefix}_mcq_1",
+      "question": "Clear question text?",
+      "options": ["A. First option", "B. Second option", "C. Third option", "D. Fourth option"],
+      "correct_answer": "B. Second option",
+      "explanation": "Brief explanation of why B is correct and/or why others are wrong."
+    }
+  ]
+}
+```
+
+**QUESTION DISTRIBUTION:**
+- 10 questions: Factual recall (who, what, where, when)
+- 8 questions: Vocabulary and word meanings
+- 8 questions: Understanding and comprehension
+- 8 questions: Inference and interpretation
+- 6 questions: Sequence, cause-effect, or analysis
+
+**RULES FOR OPTIONS:**
+- All 4 options must be plausible
+- No obviously wrong answers
+- Options should be similar in length
+- Avoid "all of the above" or "none of the above"
+
+**CHECKLIST:**
+- [ ] 30-40 MCQs created
+- [ ] Questions cover entire chapter
+- [ ] All options are plausible distractors
+- [ ] Correct answer is marked
+- [ ] Explanation provided for each
+
+---
+
+### 4.6 MAKE SENTENCES / VOCABULARY (make_sentences.json)
+
+**PURPOSE:** Build vocabulary with meanings and usage examples.
+
+**WHAT TO INCLUDE:**
+- All words from "Words to Know" section
+- Difficult/important vocabulary from the text
+- Literary terms used in the chapter
+- 15-25 words total
+
+**FORMAT:**
+```json
+{
+  "subject": "{Subject Name}",
+  "chapter": "{Chapter Name}",
+  "type": "make_sentences",
+  "questions": [
+    {
+      "id": "{prefix}_ms_1",
+      "word": "Word",
+      "meaning": "Clear, student-friendly definition of the word",
+      "sample_sentence": "A complete, meaningful sentence using the word correctly that clearly demonstrates its meaning."
+    }
+  ]
+}
+```
+
+**RULES FOR SAMPLE SENTENCES:**
+- Must be different from how the word is used in the chapter
+- Must clearly show the meaning of the word
+- Should be age-appropriate
+- Should be interesting and relatable
+
+**CHECKLIST:**
+- [ ] All "Words to Know" included
+- [ ] Other difficult words from chapter included
+- [ ] Meanings are clear and simple
+- [ ] Sample sentences demonstrate meaning well
+- [ ] 15-25 words total
+
+---
+
+## STEP 5: CREATE SECTIONS.JSON
+
+After creating all question files, create sections.json:
 
 ```json
 {
-  "subject": "English E2",
-  "chapter": "Chapter Name",
+  "subject": "{Subject Name}",
+  "chapter": "{Chapter Name}",
   "sections": [
     {
       "title": "📖 Textbook Questions",
@@ -65,7 +411,7 @@ questions_cache/
       "types": ["long_answer"]
     },
     {
-      "title": "🔤 Make Sentences",
+      "title": "🔤 Vocabulary & Sentences",
       "types": ["make_sentences"]
     },
     {
@@ -76,57 +422,23 @@ questions_cache/
 }
 ```
 
+**NOTE:** Only include sections for question types that were created.
+
 ---
 
-## Question Type Formats & Prompts
+## STEP 6: UPDATE CHAPTERS.JSON
 
-### 1. TEXTBOOK Q&A (textbook_qa.json)
+Add the new chapter to the subject's chapters.json file:
 
-**Format:**
 ```json
 {
-  "subject": "Subject Name",
-  "chapter": "Chapter Name",
-  "type": "textbook_qa",
-  "questions": [
+  "subject": "{Subject Name}",
+  "chapters": [
     {
-      "id": "prefix_tq_1",
-      "question": "The exact question from textbook",
-      "answer": "Comprehensive answer covering all aspects of the question",
-      "key_points": ["Point 1", "Point 2", "Point 3"]
-    }
-  ]
-}
-```
-
-**Prompt to Generate:**
-```
-I need you to create textbook Q&A questions for the chapter "{Chapter Name}" from {Subject}.
-
-Here is the chapter content:
-[PASTE CHAPTER TEXT/PDF CONTENT HERE]
-
-Instructions:
-1. Extract ALL comprehension questions from the textbook exactly as written
-2. Include HOTS (Higher Order Thinking Skills) questions if present
-3. Include all Reference to Context questions from the textbook
-4. For each question, provide:
-   - A comprehensive answer (3-6 sentences depending on question complexity)
-   - Key points as bullet points for quick revision
-5. Use question IDs like: {prefix}_tq_1, {prefix}_tq_2, etc.
-6. Cover every question from the textbook - do not skip any
-
-Output in this JSON format:
-{
-  "subject": "{Subject}",
-  "chapter": "{Chapter Name}",
-  "type": "textbook_qa",
-  "questions": [
-    {
-      "id": "prefix_tq_1",
-      "question": "...",
-      "answer": "...",
-      "key_points": ["...", "..."]
+      "name": "{Chapter Name}",
+      "slug": "{Chapter Name}",
+      "has_questions": true,
+      "icon": "{emoji}"
     }
   ]
 }
@@ -134,374 +446,99 @@ Output in this JSON format:
 
 ---
 
-### 2. REFERENCE TO CONTEXT (reference_to_context.json)
+## STEP 7: FINAL VERIFICATION
 
-**Format:**
-```json
-{
-  "subject": "Subject Name",
-  "chapter": "Chapter Name",
-  "type": "reference_to_context",
-  "questions": [
-    {
-      "id": "prefix_rtc_1",
-      "question": "Reference to Context: 'Quote from the text'\n\n(i) First sub-question?\n(ii) Second sub-question?\n(iii) Third sub-question?",
-      "answer": "(i) Answer to first question in 2-3 sentences.\n\n(ii) Answer to second question in 2-3 sentences.\n\n(iii) Answer to third question in 2-3 sentences.",
-      "key_points": ["Key point 1", "Key point 2", "Key point 3"]
-    }
-  ]
-}
-```
+### Quality Checklist
 
-**Prompt to Generate:**
-```
-I need you to create Reference to Context questions for the chapter "{Chapter Name}" from {Subject}.
+**Content Coverage:**
+- [ ] Every section of the chapter is covered in questions
+- [ ] No important character, event, or concept is missed
+- [ ] Questions progress from simple to complex
 
-Here is the chapter content:
-[PASTE CHAPTER TEXT/PDF CONTENT HERE]
-
-Instructions:
-1. Select 10-15 important quotes/passages from the text
-2. For each quote, create 3-5 sub-questions labeled (i), (ii), (iii), etc.
-3. Questions should ask about:
-   - Who is speaking / Who is being described
-   - Context (where, when, why)
-   - Meaning of specific words or phrases
-   - Significance or importance of the passage
-   - What happens before/after this
-4. Each sub-answer should be 2-3 sentences
-5. Include key_points summarizing the main ideas
-
-Format each question EXACTLY like this:
-{
-  "id": "prefix_rtc_1",
-  "question": "Reference to Context: 'Exact quote from text'\n\n(i) Question one?\n(ii) Question two?\n(iii) Question three?",
-  "answer": "(i) Answer one.\n\n(ii) Answer two.\n\n(iii) Answer three.",
-  "key_points": ["Point 1", "Point 2"]
-}
-
-Output the complete JSON file.
-```
-
----
-
-### 3. SHORT ANSWER (short_answer.json)
-
-**Format:**
-```json
-{
-  "subject": "Subject Name",
-  "chapter": "Chapter Name",
-  "type": "short_answer",
-  "questions": [
-    {
-      "id": "prefix_sa_1",
-      "question": "Question text?",
-      "answer": "Answer in 3-4 sentences. First sentence introduces the topic. Second and third sentences provide details. Fourth sentence may conclude or add context.",
-      "key_points": ["Point 1", "Point 2", "Point 3"]
-    }
-  ]
-}
-```
-
-**Prompt to Generate:**
-```
-I need you to create Short Answer questions for the chapter "{Chapter Name}" from {Subject}.
-
-Here is the chapter content:
-[PASTE CHAPTER TEXT/PDF CONTENT HERE]
-
-Instructions:
-1. Create 20-25 short answer questions covering the entire chapter
-2. Questions should test understanding of:
-   - Characters and their roles
-   - Key events and their significance
-   - Important concepts and definitions
-   - Cause and effect relationships
-   - Author's purpose and themes
-3. Each answer MUST be exactly 3-4 sentences:
-   - Sentence 1: Direct answer to the question
-   - Sentence 2-3: Supporting details or explanation
-   - Sentence 4: Additional context if needed
-4. Include key_points for quick revision
-5. Cover all important aspects of the chapter - no section should be left out
-
-Output in JSON format with questions array.
-```
-
----
-
-### 4. LONG ANSWER (long_answer.json)
-
-**Format:**
-```json
-{
-  "subject": "Subject Name",
-  "chapter": "Chapter Name",
-  "type": "long_answer",
-  "questions": [
-    {
-      "id": "prefix_la_1",
-      "question": "Detailed question requiring comprehensive answer?",
-      "answer": "Answer in 5-6 sentences. First sentence introduces the main point. Second sentence provides context or background. Third and fourth sentences give detailed explanation with examples from the text. Fifth sentence discusses significance or implications. Sixth sentence may conclude or connect to broader themes.",
-      "key_points": ["Point 1", "Point 2", "Point 3", "Point 4"]
-    }
-  ]
-}
-```
-
-**Prompt to Generate:**
-```
-I need you to create Long Answer questions for the chapter "{Chapter Name}" from {Subject}.
-
-Here is the chapter content:
-[PASTE CHAPTER TEXT/PDF CONTENT HERE]
-
-Instructions:
-1. Create 8-10 long answer questions that require detailed responses
-2. Focus on:
-   - Character analysis and development
-   - Theme exploration
-   - Comparative questions (contrast two elements)
-   - Critical thinking (HOTS) questions
-   - Significance of events or symbols
-   - Author's craft and literary devices
-3. Each answer MUST be exactly 5-6 sentences:
-   - Sentence 1: Introduce the main point
-   - Sentence 2: Provide context or background
-   - Sentences 3-4: Detailed explanation with specific examples from text
-   - Sentence 5: Discuss significance or implications
-   - Sentence 6: Conclude or connect to broader themes
-4. Include 4-5 key_points for each question
-5. Questions should require deep understanding, not just surface recall
-
-Output in JSON format.
-```
-
----
-
-### 5. MULTIPLE CHOICE QUESTIONS (mcq.json)
-
-**Format:**
-```json
-{
-  "subject": "Subject Name",
-  "chapter": "Chapter Name",
-  "type": "mcq",
-  "questions": [
-    {
-      "id": "prefix_mcq_1",
-      "question": "Question text?",
-      "options": ["A. Option 1", "B. Option 2", "C. Option 3", "D. Option 4"],
-      "correct_answer": "B. Option 2",
-      "explanation": "Brief explanation of why this is correct."
-    }
-  ]
-}
-```
-
-**Prompt to Generate:**
-```
-I need you to create Multiple Choice Questions for the chapter "{Chapter Name}" from {Subject}.
-
-Here is the chapter content:
-[PASTE CHAPTER TEXT/PDF CONTENT HERE]
-
-Instructions:
-1. Create 30-40 MCQs covering the entire chapter comprehensively
-2. Question types should include:
-   - Factual recall (who, what, where, when)
-   - Vocabulary and word meanings
-   - Inference and interpretation
-   - Sequence of events
-   - Character identification
-   - Theme and moral understanding
-3. For each question:
-   - Write a clear question
-   - Provide 4 options (A, B, C, D)
-   - All options should be plausible (no obviously wrong answers)
-   - Mark the correct answer
-   - Provide a brief explanation
-4. Distribute questions evenly across the chapter
-5. Include some challenging questions, not just easy recall
-
-Output in JSON format with all questions.
-```
-
----
-
-### 6. MAKE SENTENCES / VOCABULARY (make_sentences.json)
-
-**Format:**
-```json
-{
-  "subject": "Subject Name",
-  "chapter": "Chapter Name",
-  "type": "make_sentences",
-  "questions": [
-    {
-      "id": "prefix_ms_1",
-      "word": "Word",
-      "meaning": "Clear definition of the word",
-      "sample_sentence": "A complete sentence using the word correctly in context."
-    }
-  ]
-}
-```
-
-**Prompt to Generate:**
-```
-I need you to create Make Sentences / Vocabulary questions for the chapter "{Chapter Name}" from {Subject}.
-
-Here is the chapter content:
-[PASTE CHAPTER TEXT/PDF CONTENT HERE]
-
-Instructions:
-1. Extract 15-25 important/difficult words from the chapter
-2. Include:
-   - Words from "Words to Know" section if present
-   - Difficult vocabulary used in the text
-   - Literary terms if applicable
-   - Archaic or unusual words
-3. For each word provide:
-   - The word exactly as it appears
-   - A clear, student-friendly meaning/definition
-   - A sample sentence that:
-     * Uses the word correctly
-     * Shows the meaning clearly
-     * Is different from how it's used in the chapter
-     * Is age-appropriate for the student
-4. Arrange alphabetically or in order of appearance
-
-Output in JSON format.
-```
-
----
-
-## Complete Workflow for New Chapter
-
-### Step 1: Gather Source Material
-- Get the textbook chapter (PDF or text)
-- Identify the subject and chapter name
-- Note any special sections (Words to Know, Comprehension Questions, etc.)
-
-### Step 2: Create Directory Structure
-```bash
-mkdir -p questions_cache/{Subject_Name}/{Chapter_Name}
-```
-
-### Step 3: Update chapters.json
-Add the new chapter to the subject's chapters.json file.
-
-### Step 4: Create sections.json
-Copy the template and update subject/chapter names.
-
-### Step 5: Generate Questions (in this order)
-1. **textbook_qa.json** - Extract all textbook questions first
-2. **reference_to_context.json** - Select key passages
-3. **short_answer.json** - Create 3-4 sentence answers
-4. **long_answer.json** - Create 5-6 sentence answers
-5. **mcq.json** - Create comprehensive MCQs
-6. **make_sentences.json** - Extract vocabulary
-
-### Step 6: Review and Validate
-- Check JSON syntax is valid
-- Ensure all IDs are unique
-- Verify answer lengths match requirements
-- Test in the app
-
----
-
-## Quality Checklist
-
-Before finalizing, verify:
-
-- [ ] All questions from textbook are included in textbook_qa.json
-- [ ] Reference to context has quote + sub-questions + combined answer format
+**Format Compliance:**
+- [ ] All JSON files are valid (no syntax errors)
+- [ ] All IDs are unique and follow naming convention
 - [ ] Short answers are exactly 3-4 sentences
 - [ ] Long answers are exactly 5-6 sentences
-- [ ] MCQs have plausible distractors
-- [ ] All vocabulary words have clear meanings and good example sentences
-- [ ] No portion of the chapter is left uncovered
-- [ ] JSON files are valid (no syntax errors)
-- [ ] IDs follow consistent naming convention
-- [ ] key_points are included where applicable
+- [ ] Reference to context has quote + (i), (ii), (iii) format
+
+**Answer Quality:**
+- [ ] Answers are accurate based on the text
+- [ ] Answers are comprehensive
+- [ ] Key points summarize main ideas well
+- [ ] MCQ explanations are helpful
 
 ---
 
-## ID Naming Convention
+## EXECUTION SUMMARY
 
-Use this pattern for question IDs:
-- `{chapter_prefix}_{type}_{number}`
+When a user asks to create questions for a new chapter:
+
+1. **ASK** for source folder path
+2. **ASK** for subject name, chapter name, icon, and ID prefix
+3. **ASK** which question types to create
+4. **READ** all source documents completely
+5. **CREATE** each question file one at a time:
+   - textbook_qa.json (if selected)
+   - reference_to_context.json (if selected)
+   - short_answer.json (if selected)
+   - long_answer.json (if selected)
+   - mcq.json (if selected)
+   - make_sentences.json (if selected)
+6. **CREATE** sections.json
+7. **UPDATE** chapters.json
+8. **VERIFY** all files are complete and correct
+
+**IMPORTANT RULES:**
+- Create ONE file at a time to avoid token limits
+- Complete each file fully before moving to next
+- Cover the ENTIRE chapter - no missing sections
+- Follow the exact formats specified
+- Maintain answer length requirements strictly
+
+---
+
+## ID NAMING CONVENTION
+
+Pattern: `{prefix}_{type}_{number}`
+
+Type codes:
+- `tq` = Textbook QA
+- `rtc` = Reference to Context
+- `sa` = Short Answer
+- `la` = Long Answer
+- `mcq` = Multiple Choice Question
+- `ms` = Make Sentences
 
 Examples:
-- `tl_tq_1` - The Listeners, Textbook QA, Question 1
-- `skeh_rtc_5` - Shree Krishna Eating House, Reference to Context, Question 5
-- `daf_mcq_12` - Daffodils, MCQ, Question 12
-
-Type abbreviations:
-- `tq` - Textbook QA
-- `rtc` - Reference to Context
-- `sa` - Short Answer
-- `la` - Long Answer
-- `mcq` - Multiple Choice Question
-- `ms` - Make Sentences
+- `tl_tq_1` = The Listeners, Textbook QA, #1
+- `skeh_rtc_5` = Shree Krishna Eating House, Reference to Context, #5
+- `mot_mcq_23` = Motion, MCQ, #23
 
 ---
 
-## Example: Creating Questions for "The Road Not Taken"
+## SAMPLE EXECUTION
 
-### 1. Read the poem/chapter thoroughly
+**User:** Create questions for the chapter in /Users/john/textbooks/English/Daffodils/
 
-### 2. Use the textbook_qa prompt:
-```
-I need you to create textbook Q&A questions for the chapter "The Road Not Taken" from English Literature.
+**Assistant:**
+1. Reads all files in the folder
+2. Asks: "I found the chapter 'Daffodils'. Please confirm:
+   - Subject: English E2
+   - Chapter: Daffodils
+   - Icon suggestion: 🌼
+   - ID prefix suggestion: daf
 
-[Paste the poem and all textbook content here]
+   Which question types do you want? (1-6)"
 
-Instructions: [as above]
-```
+3. User selects types
 
-### 3. Use the reference_to_context prompt:
-```
-I need you to create Reference to Context questions for "The Road Not Taken"...
+4. Assistant creates each file one by one:
+   - "Creating textbook_qa.json... Done. (15 questions)"
+   - "Creating reference_to_context.json... Done. (12 passages)"
+   - "Creating short_answer.json... Done. (22 questions)"
+   - etc.
 
-Select passages like:
-- "Two roads diverged in a yellow wood"
-- "I took the one less traveled by"
-- etc.
-```
+5. Creates sections.json and updates chapters.json
 
-### 4. Continue with other question types...
-
----
-
-## Tips for Best Results
-
-1. **Be specific in prompts** - Include the exact chapter content
-2. **Review AI output** - Check for accuracy against source material
-3. **Maintain consistency** - Use same format across all chapters
-4. **Cover everything** - Don't skip any section of the chapter
-5. **Age-appropriate language** - Keep answers suitable for the grade level
-6. **Include examples** - Reference specific lines/events from text in answers
-
----
-
-## Updating subjects.json
-
-When adding a new subject, update `/questions_cache/subjects.json`:
-
-```json
-{
-  "subjects": [
-    {
-      "name": "Subject Name",
-      "slug": "subject_name",
-      "icon": "📚",
-      "chapter_count": 5
-    }
-  ]
-}
-```
-
-Note: chapter_count is now dynamically calculated from chapters.json, but keep it updated as a fallback.
+6. Reports: "All files created successfully. Please verify and deploy."

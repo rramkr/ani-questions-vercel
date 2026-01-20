@@ -248,9 +248,11 @@ const elements = {
     chaptersTitle: document.getElementById('chapters-title'),
     sectionsTitle: document.getElementById('sections-title'),
     textbookTypes: document.getElementById('textbook-types'),
+    previousYearTypes: document.getElementById('previous-year-types'),
     examTypes: document.getElementById('exam-types'),
     miscTypes: document.getElementById('misc-types'),
     textbookSection: document.getElementById('textbook-section'),
+    previousYearSection: document.getElementById('previous-year-section'),
     examSection: document.getElementById('exam-section'),
     miscSection: document.getElementById('misc-section'),
     quizTitle: document.getElementById('quiz-title'),
@@ -1234,11 +1236,13 @@ function renderSections(sections) {
 
     // Render each section
     renderSectionTypes(elements.textbookTypes, sections.textbook, 'textbook-section');
+    renderSectionTypes(elements.previousYearTypes, sections.previous_year || [], 'previous-year-section');
     renderSectionTypes(elements.examTypes, sections.exam, 'exam-section');
     renderSectionTypes(elements.miscTypes, sections.miscellaneous, 'misc-section');
 
     // Show/hide sections based on content
     elements.textbookSection.style.display = sections.textbook.length > 0 ? 'block' : 'none';
+    elements.previousYearSection.style.display = (sections.previous_year && sections.previous_year.length > 0) ? 'block' : 'none';
     elements.examSection.style.display = sections.exam.length > 0 ? 'block' : 'none';
     elements.miscSection.style.display = sections.miscellaneous.length > 0 ? 'block' : 'none';
 

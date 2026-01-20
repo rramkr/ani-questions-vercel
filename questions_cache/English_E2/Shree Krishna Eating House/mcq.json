@@ -54,17 +54,17 @@
     },
     {
       "id": "skeh_mcq_8",
-      "question": "How many young boys worked as unpaid help at the eating house?",
+      "question": "How many young boys worked at the eating house before Hari joined?",
       "options": ["A. One", "B. Two", "C. Three", "D. Four"],
       "correct_answer": "B. Two",
-      "explanation": "The owner retained two young boys as unpaid help."
+      "explanation": "Two Tamil boys were already working there when Hari joined. They were paid one rupee a day plus meals."
     },
     {
       "id": "skeh_mcq_9",
       "question": "What arrangement did Hari make with the owner?",
-      "options": ["A. He paid rent to stay", "B. He worked for wages", "C. He worked in exchange for food", "D. He borrowed money"],
-      "correct_answer": "C. He worked in exchange for food",
-      "explanation": "Hari offered to work in exchange for food, and the owner agreed."
+      "options": ["A. He paid rent to stay", "B. He worked for meals and one rupee a day", "C. He worked only for tips", "D. He borrowed money"],
+      "correct_answer": "B. He worked for meals and one rupee a day",
+      "explanation": "Jagu offered Hari work in exchange for meals and one rupee a day, the same as the other boys."
     },
     {
       "id": "skeh_mcq_10",
@@ -155,7 +155,7 @@
       "question": "What provided hope to Hari in his difficult situation?",
       "options": ["A. Money from home", "B. Promise of promotion", "C. Friendships, especially with the watchmaker", "D. A letter from his family"],
       "correct_answer": "C. Friendships, especially with the watchmaker",
-      "explanation": "The friendships he was building, especially with the watchmaker, provided a beacon of hope."
+      "explanation": "The friendships he was building, especially with the watchmaker, provided comfort and hope in his difficult circumstances."
     },
     {
       "id": "skeh_mcq_23",
@@ -180,10 +180,10 @@
     },
     {
       "id": "skeh_mcq_26",
-      "question": "What does the phrase 'beacon of hope' mean?",
-      "options": ["A. A warning sign", "B. A source of light and guidance", "C. A type of food", "D. A place to rest"],
-      "correct_answer": "B. A source of light and guidance",
-      "explanation": "A beacon of hope means something that provides guidance and optimism in difficult times."
+      "question": "What does the word 'meanest' mean in the context of the eating house?",
+      "options": ["A. Most unkind", "B. Most shabby and dilapidated", "C. Smallest", "D. Most expensive"],
+      "correct_answer": "B. Most shabby and dilapidated",
+      "explanation": "In this context, 'meanest' means the most shabby, lowest quality, and most dilapidated - not unkind."
     },
     {
       "id": "skeh_mcq_27",
@@ -216,9 +216,9 @@
     {
       "id": "skeh_mcq_31",
       "question": "How were the young boys at the eating house compensated?",
-      "options": ["A. They received good wages", "B. They were unpaid", "C. They were paid daily", "D. They received tips"],
-      "correct_answer": "B. They were unpaid",
-      "explanation": "The young boys were described as 'unpaid help'."
+      "options": ["A. They received good wages", "B. They got only food", "C. They were paid meals and one rupee a day", "D. They received tips"],
+      "correct_answer": "C. They were paid meals and one rupee a day",
+      "explanation": "Jagu paid all the boys their meals and one rupee a day for their work."
     },
     {
       "id": "skeh_mcq_32",

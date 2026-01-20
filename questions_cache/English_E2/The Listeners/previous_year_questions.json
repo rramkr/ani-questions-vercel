@@ -1,0 +1,49 @@
+{
+  "subject": "English E2",
+  "chapter": "The Listeners",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "tl_pyq_rtc_1",
+      "type": "reference_to_context",
+      "year": "July 2024",
+      "question": "Reference to Context: 'And a bird flew up out of the turret, Above the Traveller's head: And he smote upon the door a second time;'\n\n(i) Why did the Traveller smote on the door the second time?\n(ii) Why was the Traveller perplexed?\n(iii) What stirred and shook the air? What does the stirring and shaking of the air tell us about the house?\n(iv) Why do you think the traveller had come there?\n(v) Name the poem and the poet.",
+      "answer": "(i) The Traveller smote (knocked hard) on the door the second time because he had received no answer to his first knock. His increasing force shows his determination and perhaps frustration at the eerie silence. He was persistent in trying to get a response.\n\n(ii) The Traveller was perplexed because he could feel that there was someone inside the house, yet no one answered his calls. He sensed their strangeness and their stillness answering his cry - he felt the presence of the phantom listeners through intuition but received no actual response.\n\n(iii) A bird flew up out of the turret and stirred and shook the air above the Traveller's head. This tells us that the house had been abandoned for so long that birds had made their home in its towers. It also suggests the house was once grand (having a turret) but now lay deserted.\n\n(iv) The Traveller had come there to keep a promise he had made to someone. He says, 'Tell them I came, and no one answered, Tell them I kept my word.' This suggests he had promised to visit someone at this house but found only phantom listeners instead of living people.\n\n(v) The poem is 'The Listeners' and it was written by Walter de la Mare.",
+      "key_points": ["Smote second time - no answer to first knock", "Perplexed - sensed presence but no response", "Bird from turret - house long abandoned", "Came to keep a promise", "Poem: The Listeners by Walter de la Mare"]
+    },
+    {
+      "id": "tl_pyq_sa_1",
+      "type": "short_answer",
+      "year": "July 2024",
+      "question": "What were the traveller's words before he left? Why do you think he had come to this place?",
+      "answer": "Before leaving, the Traveller called out loudly: 'Tell them I came, and no one answered, Tell them I kept my word.' These were his final words addressed to the phantom listeners inside the house. The Traveller had come to this place to fulfill a promise he had made to someone. Although the poem does not reveal who 'them' are or what the promise was, it is clear that the Traveller felt obligated to come despite the eerie atmosphere. He wanted whoever was meant to receive his visit to know that he had kept his word and come as promised, even though no one answered his knocking.",
+      "key_points": ["'Tell them I came, no one answered, I kept my word'", "Came to fulfill a promise", "Obligated to visit", "Wanted them to know he kept his word"]
+    },
+    {
+      "id": "tl_pyq_mcq_1",
+      "type": "mcq",
+      "year": "July 2024",
+      "question": "We know that the house is big and grand because it has a ___.",
+      "options": ["A. turret", "B. moat", "C. balcony", "D. large compound wall"],
+      "correct_answer": "A. turret",
+      "explanation": "A turret is a small tower, usually found on castles or grand houses. The poem mentions 'a bird flew up out of the turret,' indicating the house was once a substantial, perhaps noble building."
+    },
+    {
+      "id": "tl_pyq_mcq_2",
+      "type": "mcq",
+      "year": "July 2024",
+      "question": "The traveller came to the house at ___.",
+      "options": ["A. noon", "B. night", "C. dawn", "D. dusk"],
+      "correct_answer": "B. night",
+      "explanation": "The poem clearly indicates night time through references like 'moonlit door' and the Traveller knocking 'in the silence of the moonlight.' The scene takes place under moonlight, not daylight."
+    },
+    {
+      "id": "tl_pyq_ms_1",
+      "type": "make_sentences",
+      "year": "July 2024",
+      "word": "champed",
+      "meaning": "To munch or chew noisily; the sound a horse makes when eating or biting",
+      "sample_sentence": "The hungry horse champed the fresh grass eagerly while its rider stopped to check the map by the roadside."
+    }
+  ]
+}
