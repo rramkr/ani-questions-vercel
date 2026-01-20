@@ -565,7 +565,24 @@ async function loadSubjects() {
             return;
         }
 
-        renderSubjects(data.subjects);
+        // Dynamically fetch chapter counts for each subject
+        const subjectsWithCounts = await Promise.all(data.subjects.map(async (subject) => {
+            try {
+                const subjectFolder = subject.name.replace(/ /g, '_');
+                const chaptersResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/chapters.json`);
+                if (chaptersResponse.ok) {
+                    const chaptersData = await chaptersResponse.json();
+                    // Count only chapters that have questions
+                    const availableChapters = chaptersData.chapters.filter(ch => ch.has_questions);
+                    return { ...subject, chapter_count: availableChapters.length };
+                }
+            } catch (e) {
+                console.warn(`Could not fetch chapters for ${subject.name}`);
+            }
+            return subject; // Return original if fetch fails
+        }));
+
+        renderSubjects(subjectsWithCounts);
     } catch (error) {
         console.error('Error loading subjects:', error);
         showEmptyState('Failed to load subjects. Please try again later.');
