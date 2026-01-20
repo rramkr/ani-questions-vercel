@@ -6,152 +6,122 @@
     {
       "id": "skeh_sa_1",
       "question": "Where is Hari originally from and how did he end up in Mumbai?",
-      "answer": "Hari is originally from a village called Thul. He found himself alone in Mumbai, far from his home and family, where he started working at the Sri Krishna Eating House.",
-      "key_points": ["From Thul village", "Ended up alone in Mumbai", "Started working at eating house"]
+      "answer": "Hari is originally from a small village called Thul. He came to Bombay (Mumbai) alone to find work and earn money because his mother was ill and his father was often drunk. A watchman brought him to the Sri Krishna Eating House where he could get food and work.",
+      "key_points": ["From Thul village", "Came alone to Bombay", "Mother ill, father drunk", "Watchman helped him"]
     },
     {
       "id": "skeh_sa_2",
       "question": "Describe the physical condition of the Sri Krishna Eating House.",
-      "answer": "The Sri Krishna Eating House had a grimy appearance with abysmal conditions. The ceiling was obscured by cobwebs and soot. Food was cooked over open stoves, and the place was poorly maintained due to lack of time and money.",
-      "key_points": ["Grimy appearance", "Cobwebs and soot on ceiling", "Open stoves", "Poorly maintained"]
+      "answer": "The Sri Krishna Eating House was the meanest and shabbiest restaurant Hari had ever seen. The walls were covered with layers of grime and soot, and the ceiling was so thickly covered with cobwebs it looked like a furry blanket. The floor and wooden tables were all black from soot from the open stoves, and there were no decorations at all.",
+      "key_points": ["Grimy and soot-covered", "Cobwebs like furry blanket", "Black floors and tables", "No decorations"]
     },
     {
       "id": "skeh_sa_3",
-      "question": "Who were the main customers of the eating house?",
-      "answer": "The main customers of the eating house were the city's outliers - beggars, hard labourers, and underprivileged people who could barely afford a meal. It catered to the poorest sections of society.",
-      "key_points": ["City's outliers", "Beggars", "Hard labourers", "Underprivileged people"]
+      "question": "Who were the main customers of the eating house and why did they come there?",
+      "answer": "The main customers were the city's outliers - beggars, coolies who carried heavy loads like sacks of coal and gas cylinders, and cart-pullers. They came to this restaurant because it was the cheapest in Bombay, so cheap that even a beggar could afford a meal here. They also came because the restaurant was open at all hours to serve people with irregular work schedules.",
+      "key_points": ["Beggars and coolies", "Cart-pullers", "Cheapest restaurant", "Open at all hours"]
     },
     {
       "id": "skeh_sa_4",
       "question": "What arrangement did Hari make with the owner of the eating house?",
-      "answer": "When Hari realized his situation, he offered to work at the eating house in exchange for food. The owner agreed to this arrangement, and Hari became one of the workers there.",
-      "key_points": ["Offered to work", "In exchange for food", "Owner agreed"]
+      "answer": "When Hari realized he had no money to pay for the food Jagu was giving him, he offered to work in the kitchen instead. Jagu agreed and gave him work washing pots, kneading dough, and rolling chapatis. In return, Hari would receive his meals and one rupee a day, the same as the other boys.",
+      "key_points": ["Offered to work for food", "Work: washing pots, kneading dough, rolling chapatis", "Payment: meals and one rupee daily"]
     },
     {
       "id": "skeh_sa_5",
       "question": "What language barrier did Hari face at work?",
-      "answer": "Hari faced difficulty communicating with his co-workers because they spoke only Tamil, which Hari did not understand. This made conversation and coordination challenging.",
-      "key_points": ["Co-workers spoke Tamil", "Hari didn't understand Tamil", "Communication was difficult"]
+      "answer": "Hari faced a significant language barrier because his co-workers spoke only Tamil, while he knew only Hindi and Marathi. They had no common language, so there was complete silence between them as they worked. This made communication and any kind of conversation impossible.",
+      "key_points": ["Co-workers spoke Tamil", "Hari knew Hindi and Marathi", "No common language", "Complete silence"]
     },
     {
       "id": "skeh_sa_6",
-      "question": "How did Hari and his co-workers develop camaraderie despite not speaking the same language?",
-      "answer": "Despite the language barrier, camaraderie developed between Hari and his co-workers through their shared hardship - working together at tasks like kneading dough, baking chapattis, and serving customers in stifling heat.",
-      "key_points": ["Shared hardship", "Working together", "Common difficult experiences"]
+      "question": "How did Hari and his co-workers develop camaraderie despite the language barrier?",
+      "answer": "Despite not being able to speak to each other, Hari and his co-workers developed camaraderie through their shared hardship. Working together in stifling heat, kneading dough, baking chapatis, and serving customers created a bond between them. Their common difficult experiences and struggles allowed them to understand each other without words.",
+      "key_points": ["Shared hardship", "Working together in heat", "Common difficult experiences", "Understanding without words"]
     },
     {
       "id": "skeh_sa_7",
       "question": "Who was the old watchmaker and what was his shop called?",
-      "answer": "The old watchmaker was a kind, open-minded gentleman who ran a shop called 'Ding Dong Watch Works' next door to the eating house. He became a friend and helper to Hari.",
-      "key_points": ["Kind and open-minded", "Shop named Ding Dong Watch Works", "Located next door"]
+      "answer": "The old watchmaker was a kind, open-minded gentleman who ran a watch repair shop called 'Ding Dong Watchworks' next door to the eating house. He wore a small black cap and used an eye-piece to examine watches. He became a friend and helper to Hari, reminding him of Sayyid Ali, a respected man from his village.",
+      "key_points": ["Kind gentleman", "Shop: Ding Dong Watchworks", "Next to eating house", "Reminded Hari of Sayyid Ali"]
     },
     {
       "id": "skeh_sa_8",
       "question": "What tragic information did Hari learn about his co-workers?",
-      "answer": "Through conversations with the watchmaker, Hari learned that his co-workers' parents had been killed in a railway accident, leaving them orphaned and forced to work at the eating house.",
-      "key_points": ["Parents killed", "Railway accident", "Left orphaned"]
+      "answer": "Through conversations with the watchmaker, Hari learned that his co-workers' parents had been killed in a railway accident. Their father had worked for the railways, and the family lived on the platform. One day, a train ran over both parents while they were crossing the railway line to fetch water from a pump.",
+      "key_points": ["Parents killed in railway accident", "Father worked for railways", "Lived on platform", "Crossing line to fetch water"]
     },
     {
       "id": "skeh_sa_9",
       "question": "How did the watchmaker help Hari communicate with his family?",
-      "answer": "The watchmaker helped Hari by locating the post office for him and lending him money to buy a postcard so he could write to his family back in Thul.",
-      "key_points": ["Located post office", "Lent money", "For buying postcard to write home"]
+      "answer": "The watchmaker helped Hari in two important ways. He told Hari where the post office was located - straight up the road, next to the electric sub-station. He also lent Hari money to buy a postcard and a pen to write with, since Hari had no money and Jagu was unlikely to have writing materials.",
+      "key_points": ["Gave directions to post office", "Lent money for postcard", "Lent pen to write"]
     },
     {
       "id": "skeh_sa_10",
       "question": "What did Hari's postcard to his family indicate about his plans?",
-      "answer": "Hari's postcard to his family indicated his decision to stay in Mumbai rather than return to his village. He had made up his mind to continue working in the city.",
-      "key_points": ["Decided to stay in Mumbai", "Not returning home", "Continuing to work"]
+      "answer": "Hari's postcard indicated his decision to stay in Mumbai rather than return to his village. He wrote that he was in Bombay, had a job, and would bring his earnings home. Significantly, he did not write his address on the postcard, showing that he was committed to staying and didn't want to be called back.",
+      "key_points": ["Decision to stay in Mumbai", "Has job, will bring earnings", "Did not write address", "Committed to staying"]
     },
     {
       "id": "skeh_sa_11",
       "question": "Why couldn't the owner maintain the eating house properly?",
-      "answer": "The owner couldn't maintain the eating house properly because he was overworked and had neither the time nor the money to maintain or decorate the place, even with two young boys as unpaid help.",
-      "key_points": ["Overworked", "No time", "No money"]
+      "answer": "The owner, Jagu, couldn't maintain the eating house because he was overworked and had neither the time nor the money to clean or decorate the place. He worked hard all day cooking and serving customers who came at all hours. Even with two young boys as unpaid help, there was simply no opportunity for housekeeping.",
+      "key_points": ["Overworked", "No time or money", "Customers at all hours", "No opportunity for cleaning"]
     },
     {
       "id": "skeh_sa_12",
       "question": "What food items were prepared at the eating house and how?",
-      "answer": "At the eating house, lentil curry (dal) and chapattis were prepared. They were cooked over open stoves in the kitchen by the workers.",
-      "key_points": ["Lentil curry/dal", "Chapattis", "Cooked on open stoves"]
+      "answer": "At the eating house, the main food items prepared were lentil curry (dal) and chapatis. These were cooked over open stoves that were kept lit day and night. The workers would knead the dough, roll out the chapatis, and bake them over the open fires while also preparing the curry.",
+      "key_points": ["Lentil curry/dal", "Chapatis", "Open stoves", "Fires lit day and night"]
     },
     {
       "id": "skeh_sa_13",
       "question": "Describe the working conditions at the eating house.",
-      "answer": "The working conditions were extremely harsh. Workers had to knead dough, bake chapattis, and serve customers in stifling heat without any respite or opportunity for conversation.",
-      "key_points": ["Stifling heat", "No respite", "No conversation", "Hard physical work"]
+      "answer": "The working conditions at the eating house were extremely harsh and difficult. Workers had to knead dough, bake chapatis, and serve customers in stifling heat from the open stoves without any respite. The heat was so oppressive and the work so exhausting that no one had the strength or energy to talk - they simply grunted and sweated.",
+      "key_points": ["Stifling heat", "No respite", "Exhausting work", "No energy to talk"]
     },
     {
       "id": "skeh_sa_14",
-      "question": "Why did the watchmaker remind Hari of someone?",
-      "answer": "The watchmaker, with his kind and open-minded nature, reminded Hari of a man he had met at a meeting in his village. This familiarity made Hari comfortable with him.",
-      "key_points": ["Kind and open-minded", "Reminded of man from village meeting", "Made Hari comfortable"]
+      "question": "Why did the watchmaker remind Hari of someone from his village?",
+      "answer": "The watchmaker reminded Hari of Sayyid Ali, a man who had spoken impressively at a meeting by the Black Horse in Thul. They looked so similar that Hari instantly felt the watchmaker was another fine, trustworthy man who would understand him. This resemblance gave Hari comfort and confidence in the unfamiliar city.",
+      "key_points": ["Reminded of Sayyid Ali", "Similar appearance", "Felt trustworthy", "Gave comfort in city"]
     },
     {
       "id": "skeh_sa_15",
       "question": "What does the phrase 'beacon of hope' mean in the context of the story?",
-      "answer": "The phrase 'beacon of hope' refers to the friendships Hari was building, especially with the watchmaker. These friendships provided light and hope in his otherwise dark and difficult situation in Mumbai.",
-      "key_points": ["Friendships provided hope", "Watchmaker especially", "Light in dark times"]
+      "answer": "In the story, 'beacon of hope' refers to the friendships Hari was building in Mumbai, especially with the watchmaker. Like a lighthouse guiding ships through darkness, these friendships provided light and hope in Hari's otherwise grim reality. The kindness of the watchmaker showed Hari that even in a harsh, chaotic city, good people exist who can help.",
+      "key_points": ["Friendships as hope", "Watchmaker especially", "Light in darkness", "Kindness in harsh city"]
     },
     {
       "id": "skeh_sa_16",
       "question": "How is Mumbai described from Hari's perspective?",
-      "answer": "From Hari's perspective, Mumbai is described as a chaotic, foreign city. It was overwhelming and unfamiliar compared to his peaceful village life in Thul.",
-      "key_points": ["Chaotic", "Foreign city", "Overwhelming and unfamiliar"]
+      "answer": "From Hari's perspective, Mumbai is described as a 'chaotic, foreign city.' Coming from a small, peaceful village like Thul, the city seemed overwhelming, confusing, and unfamiliar. The harsh conditions, the crowds of poor people, and the vast difference from his village life made Mumbai feel like an alien, difficult place.",
+      "key_points": ["Chaotic and foreign", "Overwhelming", "Unfamiliar", "Vast difference from village"]
     },
     {
       "id": "skeh_sa_17",
       "question": "What contrast does the chapter highlight about Hari's life?",
-      "answer": "The chapter highlights the chasm (huge gap) between Hari's past life in Thul village and his new life in Mumbai - the abysmal conditions, linguistic barriers, and harsh realities of city life.",
-      "key_points": ["Contrast between village and city life", "Huge gap/chasm", "Harsh realities"]
+      "answer": "The chapter highlights the vast chasm between Hari's past life in Thul village and his new life in Mumbai. His village had pleasant cafes with flowers and decorations, familiar language and people, and a more peaceful pace. Mumbai offered harsh working conditions, language barriers, tragic stories, and a completely foreign environment.",
+      "key_points": ["Village: pleasant, familiar, peaceful", "Mumbai: harsh, foreign, difficult", "Language barriers", "Tragic stories"]
     },
     {
       "id": "skeh_sa_18",
-      "question": "What tasks did the workers perform at the eating house?",
-      "answer": "The workers at the eating house performed various tasks including kneading dough, baking chapattis, cooking lentil curry, and serving customers.",
-      "key_points": ["Kneading dough", "Baking chapattis", "Cooking", "Serving customers"]
+      "question": "From which novel is this excerpt taken and who is the author?",
+      "answer": "This excerpt is taken from the novel 'The Village by the Sea' written by Anita Desai, a renowned Indian author. The novel tells the story of a family in the village of Thul facing difficult times, with Hari leaving for Mumbai to earn money. Anita Desai is known for her insightful portrayal of Indian life and characters.",
+      "key_points": ["The Village by the Sea", "Author: Anita Desai", "Indian author", "Story of family in Thul"]
     },
     {
       "id": "skeh_sa_19",
-      "question": "From which novel is this excerpt taken and who is the author?",
-      "answer": "This excerpt is taken from the novel 'The Village by the Sea' written by Anita Desai, a renowned Indian author.",
-      "key_points": ["The Village by the Sea", "Anita Desai", "Indian author"]
+      "question": "What does the term 'outliers' refer to in the context of the eating house customers?",
+      "answer": "In this context, 'outliers' refers to people who exist on the margins of society - those who are excluded from mainstream city life. These include beggars, hard labourers, and underprivileged people who are poor and disadvantaged. They are called outliers because they are outside the normal economic and social systems of the city.",
+      "key_points": ["Margins of society", "Excluded from mainstream", "Poor and disadvantaged", "Outside normal systems"]
     },
     {
       "id": "skeh_sa_20",
-      "question": "How were the young boys at the eating house compensated for their work?",
-      "answer": "The young boys at the eating house were unpaid help. They worked without receiving any wages, likely receiving only food in return for their labor.",
-      "key_points": ["Unpaid help", "No wages", "Probably only food"]
-    },
-    {
-      "id": "skeh_sa_21",
-      "question": "What does the word 'camaraderie' mean and how does it apply to Hari's situation?",
-      "answer": "Camaraderie means friendly fellowship and mutual trust. Despite the language barrier, Hari developed this bond with his Tamil-speaking co-workers through their shared hardship and work.",
-      "key_points": ["Friendly fellowship", "Mutual trust", "Developed through shared hardship"]
-    },
-    {
-      "id": "skeh_sa_22",
-      "question": "Why is this chapter described as 'intimate and sobering'?",
-      "answer": "The chapter is described as intimate and sobering because it provides a close, personal look into Hari's difficult life, showing his struggles, hardships, and small moments of hope in a touching yet serious way.",
-      "key_points": ["Personal/close look at Hari's life", "Shows struggles and hardships", "Touching yet serious"]
-    },
-    {
-      "id": "skeh_sa_23",
-      "question": "What does the term 'outliers' refer to in the context of the eating house customers?",
-      "answer": "In this context, 'outliers' refers to people who exist on the margins of society - those who are poor, disadvantaged, and excluded from mainstream city life, such as beggars, hard labourers, and the underprivileged.",
-      "key_points": ["People on society's margins", "Poor and disadvantaged", "Excluded from mainstream"]
-    },
-    {
-      "id": "skeh_sa_24",
-      "question": "How did Hari learn about his co-workers' background?",
-      "answer": "Hari learned about his co-workers' tragic background through conversations with the old watchmaker, since he couldn't communicate directly with the Tamil-speaking boys due to the language barrier.",
-      "key_points": ["Through watchmaker", "Couldn't speak directly to co-workers", "Language barrier prevented direct communication"]
-    },
-    {
-      "id": "skeh_sa_25",
       "question": "What does Hari's offer to work for food tell us about his situation?",
-      "answer": "Hari's offer to work in exchange for food shows his desperate situation - he had no money, no job, and was hungry. He was willing to work without wages just to get basic food to survive in the city.",
-      "key_points": ["Desperate situation", "No money", "Willing to work just for food"]
+      "answer": "Hari's offer to work in exchange for food reveals his desperate situation in Mumbai. He had no money, no job, and was hungry, yet he maintained his dignity by offering to work rather than beg. It shows both his desperation and his honest, hardworking nature - he was willing to do hard work just to get basic food to survive.",
+      "key_points": ["Desperate situation", "No money or job", "Maintained dignity", "Honest and hardworking"]
     }
   ]
 }
