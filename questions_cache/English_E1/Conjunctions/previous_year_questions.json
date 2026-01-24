@@ -1,0 +1,80 @@
+{
+  "subject": "English E1",
+  "chapter": "Conjunctions",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "conj_pyq_1",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with conjunction: 'The box was heavy _____ he could not lift it.' (Options: otherwise, as well as, or, therefore, but, until, where, while)",
+      "answer": "therefore",
+      "acceptable_answers": ["therefore"],
+      "explanation": "'Therefore' shows cause and effect - the box being heavy resulted in him not being able to lift it."
+    },
+    {
+      "id": "conj_pyq_2",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with conjunction: 'Rashi is quite rich _____ she is not happy.'",
+      "answer": "but",
+      "acceptable_answers": ["but"],
+      "explanation": "'But' shows contrast between being rich and not being happy."
+    },
+    {
+      "id": "conj_pyq_3",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with conjunction: 'Walk fast _____ you will miss the train.'",
+      "answer": "or",
+      "acceptable_answers": ["or", "otherwise"],
+      "explanation": "'Or' or 'otherwise' presents an alternative/consequence."
+    },
+    {
+      "id": "conj_pyq_4",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with conjunction: 'He _____ his brothers are very good players.'",
+      "answer": "as well as",
+      "acceptable_answers": ["as well as", "and"],
+      "explanation": "'As well as' adds similar information about both subjects."
+    },
+    {
+      "id": "conj_pyq_5",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with conjunction: 'Make hay _____ the sun shines.'",
+      "answer": "while",
+      "acceptable_answers": ["while"],
+      "explanation": "'While' indicates simultaneous action - making hay during the time the sun is shining."
+    },
+    {
+      "id": "conj_pyq_6",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with conjunction: 'Work hard _____ you will fail.'",
+      "answer": "otherwise",
+      "acceptable_answers": ["otherwise", "or"],
+      "explanation": "'Otherwise' or 'or' presents the consequence of not working hard."
+    },
+    {
+      "id": "conj_pyq_7",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with conjunction: 'We waited _____ our friend arrived.'",
+      "answer": "until",
+      "acceptable_answers": ["until", "till"],
+      "explanation": "'Until' indicates waiting up to the point when the friend arrived."
+    },
+    {
+      "id": "conj_pyq_8",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with conjunction: 'He found his watch _____ he had left it.'",
+      "answer": "where",
+      "acceptable_answers": ["where"],
+      "explanation": "'Where' indicates the place - he found it at the location where he left it."
+    }
+  ],
+  "total_count": 8
+}

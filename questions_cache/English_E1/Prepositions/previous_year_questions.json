@@ -1,0 +1,80 @@
+{
+  "subject": "English E1",
+  "chapter": "Prepositions",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "prep_pyq_1",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with suitable preposition: 'The cat is hiding ___ the table.'",
+      "answer": "under",
+      "acceptable_answers": ["under", "beneath"],
+      "explanation": "'Under' or 'beneath' indicates a position below the table."
+    },
+    {
+      "id": "prep_pyq_2",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with suitable preposition: 'He has been working here ___ 2015.'",
+      "answer": "since",
+      "acceptable_answers": ["since"],
+      "explanation": "'Since' is used with a specific point in time (2015)."
+    },
+    {
+      "id": "prep_pyq_3",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with suitable preposition: 'She is good ___ painting.'",
+      "answer": "at",
+      "acceptable_answers": ["at"],
+      "explanation": "'Good at' is the correct phrase for skills."
+    },
+    {
+      "id": "prep_pyq_4",
+      "year": "Annual Exam 2020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with suitable preposition: 'We arrived ___ the airport ___ time.'",
+      "answer": "at, on",
+      "acceptable_answers": ["at, on", "at, in"],
+      "explanation": "'At' for location (airport). 'On time' or 'in time' for punctuality."
+    },
+    {
+      "id": "prep_pyq_5",
+      "year": "Annual Exam 2019",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with suitable preposition: 'The meeting will be held ___ Friday ___ 3 p.m.'",
+      "answer": "on, at",
+      "acceptable_answers": ["on, at"],
+      "explanation": "'On' for days. 'At' for specific times."
+    },
+    {
+      "id": "prep_pyq_6",
+      "year": "Annual Exam 2019",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with suitable preposition: 'She is suffering ___ a cold.'",
+      "answer": "from",
+      "acceptable_answers": ["from"],
+      "explanation": "'Suffer from' is the correct phrase."
+    },
+    {
+      "id": "prep_pyq_7",
+      "year": "Annual Exam 2019",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with suitable preposition: 'He jumped ___ the river to save the child.'",
+      "answer": "into",
+      "acceptable_answers": ["into"],
+      "explanation": "'Into' shows movement from outside to inside."
+    },
+    {
+      "id": "prep_pyq_8",
+      "year": "Annual Exam 2019",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with suitable preposition: 'The teacher was angry ___ the students ___ their behaviour.'",
+      "answer": "with, for",
+      "acceptable_answers": ["with, for", "with, about"],
+      "explanation": "'Angry with' a person. 'Angry for/about' the reason."
+    }
+  ],
+  "total_count": 8
+}

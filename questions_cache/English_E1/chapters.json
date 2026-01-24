@@ -26,6 +26,30 @@
       "category_icon": "📝"
     },
     {
+      "name": "Conjunctions",
+      "slug": "Conjunctions",
+      "has_questions": true,
+      "icon": "🔗",
+      "category": "Grammar",
+      "category_icon": "📝"
+    },
+    {
+      "name": "Direct and Indirect Speech",
+      "slug": "Direct and Indirect Speech",
+      "has_questions": true,
+      "icon": "💬",
+      "category": "Grammar",
+      "category_icon": "📝"
+    },
+    {
+      "name": "Prepositions",
+      "slug": "Prepositions",
+      "has_questions": true,
+      "icon": "📍",
+      "category": "Grammar",
+      "category_icon": "📝"
+    },
+    {
       "name": "Directive Essay",
       "slug": "Directive Essay",
       "has_questions": false,

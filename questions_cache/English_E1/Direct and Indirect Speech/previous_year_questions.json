@@ -1,0 +1,80 @@
+{
+  "subject": "English E1",
+  "chapter": "Direct and Indirect Speech",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "dis_pyq_1",
+      "year": "Annual Exam 2020",
+      "type": "conversion",
+      "question": "Change from indirect speech to direct speech: 'The stranger asked me if my father was at home.'",
+      "answer": "The stranger said to me, \"Is your father at home?\"",
+      "acceptable_answers": ["The stranger said to me, \"Is your father at home?\""],
+      "explanation": "'If' in indirect speech indicates a yes/no question. 'Was' changes back to 'is'."
+    },
+    {
+      "id": "dis_pyq_2",
+      "year": "Annual Exam 2020",
+      "type": "conversion",
+      "question": "Change from indirect speech to direct speech: 'The teacher reminded the students to be regular and punctual.'",
+      "answer": "The teacher said to the students, \"Be regular and punctual.\"",
+      "acceptable_answers": ["The teacher said to the students, \"Be regular and punctual.\"", "The teacher said to the students, \"You should be regular and punctual.\""],
+      "explanation": "'Reminded...to be' converts to an imperative sentence in direct speech."
+    },
+    {
+      "id": "dis_pyq_3",
+      "year": "Annual Exam 2020",
+      "type": "conversion",
+      "question": "Rewrite in indirect speech using a suitable reporting verb: 'Father said to Raj, \"Go and bring your report card.\"'",
+      "answer": "Father ordered Raj to go and bring his report card.",
+      "acceptable_answers": ["Father ordered Raj to go and bring his report card.", "Father told Raj to go and bring his report card."],
+      "explanation": "Imperative sentences use 'ordered/told + object + to + infinitive'. 'Your' changes to 'his'."
+    },
+    {
+      "id": "dis_pyq_4",
+      "year": "Annual Exam 2020",
+      "type": "conversion",
+      "question": "Rewrite in indirect speech using a suitable reporting verb: 'Mother said to Tom, \"I want to know why you missed school yesterday.\"'",
+      "answer": "Mother told Tom that she wanted to know why he had missed school the previous day.",
+      "acceptable_answers": ["Mother told Tom that she wanted to know why he had missed school the previous day.", "Mother told Tom that she wanted to know why he had missed school the day before."],
+      "explanation": "'Want' becomes 'wanted', 'you' becomes 'he', 'missed' becomes 'had missed', 'yesterday' becomes 'the previous day/the day before'."
+    },
+    {
+      "id": "dis_pyq_5",
+      "year": "Annual Exam 2019",
+      "type": "conversion",
+      "question": "Change to indirect speech: 'She said to me, \"Will you help me with my homework?\"'",
+      "answer": "She asked me if I would help her with her homework.",
+      "acceptable_answers": ["She asked me if I would help her with her homework.", "She asked me whether I would help her with her homework."],
+      "explanation": "Yes/no questions use 'if/whether'. 'Will' becomes 'would'. Pronouns change accordingly."
+    },
+    {
+      "id": "dis_pyq_6",
+      "year": "Annual Exam 2019",
+      "type": "conversion",
+      "question": "Change to indirect speech: 'The captain said to the players, \"Hurrah! We have won the match.\"'",
+      "answer": "The captain exclaimed with joy that they had won the match.",
+      "acceptable_answers": ["The captain exclaimed with joy that they had won the match."],
+      "explanation": "'Hurrah' expresses joy, so we use 'exclaimed with joy'. 'Have won' becomes 'had won'."
+    },
+    {
+      "id": "dis_pyq_7",
+      "year": "Annual Exam 2019",
+      "type": "conversion",
+      "question": "Change to direct speech: 'He asked me what my name was.'",
+      "answer": "He said to me, \"What is your name?\"",
+      "acceptable_answers": ["He said to me, \"What is your name?\""],
+      "explanation": "'What' is retained as the question word. 'Was' changes back to 'is', 'my' becomes 'your'."
+    },
+    {
+      "id": "dis_pyq_8",
+      "year": "Annual Exam 2019",
+      "type": "conversion",
+      "question": "Change to direct speech: 'Mother advised me not to eat junk food.'",
+      "answer": "Mother said to me, \"Don't eat junk food.\"",
+      "acceptable_answers": ["Mother said to me, \"Don't eat junk food.\"", "Mother said to me, \"Do not eat junk food.\""],
+      "explanation": "'Advised...not to' converts to negative imperative 'Don't/Do not'."
+    }
+  ],
+  "total_count": 8
+}

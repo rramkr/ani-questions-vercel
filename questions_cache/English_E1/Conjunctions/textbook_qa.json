@@ -1,0 +1,292 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "conj_tqa001",
+      "exercise": "1",
+      "solved_example": true,
+      "question": "Join using Co-ordinating Conjunctions: 'We ran all the way. We were late for school.'",
+      "answer": "We ran all the way, yet we were late for school.",
+      "explanation": "The two statements show contrast/opposition. 'Yet' or 'but' is appropriate for showing this contrast."
+    },
+    {
+      "id": "conj_tqa002",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'Shut the door. The dog will go out.'",
+      "answer": "Shut the door or the dog will go out.",
+      "explanation": "This shows a choice/alternative. 'Or' is the appropriate conjunction showing this alternative."
+    },
+    {
+      "id": "conj_tqa003",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'He is honest. His father is also honest.'",
+      "answer": "He is honest as well as his father.",
+      "explanation": "This shows addition of similar facts. 'As well as' joins two similar statements."
+    },
+    {
+      "id": "conj_tqa004",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'He gave the beggar money. He gave the beggar clothes.'",
+      "answer": "He gave the beggar not only money but also clothes.",
+      "explanation": "This shows addition of two things. 'Not only...but also' is the appropriate correlative conjunction."
+    },
+    {
+      "id": "conj_tqa005",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'The weather was fine. The sea was calm.'",
+      "answer": "The weather was fine and the sea was calm.",
+      "explanation": "'And' is the simple coordinating conjunction to join these two statements of equal rank."
+    },
+    {
+      "id": "conj_tqa006",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'He worked hard. He did not succeed.'",
+      "answer": "He worked hard, but he did not succeed.",
+      "explanation": "This shows contrast/opposition. 'But' or 'yet' are appropriate to show this opposition."
+    },
+    {
+      "id": "conj_tqa007",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'They are poor. They are happy.'",
+      "answer": "They are poor, but they are happy.",
+      "explanation": "This shows contrast. 'But' shows contrast between poverty and happiness."
+    },
+    {
+      "id": "conj_tqa008",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'Fred worked all day. He didn't finish his work.'",
+      "answer": "Fred worked all day, yet he didn't finish his work.",
+      "explanation": "This shows contrast/opposition. 'Yet' shows that despite working all day, the work wasn't finished."
+    },
+    {
+      "id": "conj_tqa009",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'We loved her. We appreciated her.'",
+      "answer": "We both loved and appreciated her.",
+      "explanation": "'Both...and' joins these statements showing both actions were done."
+    },
+    {
+      "id": "conj_tqa010",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'Wise men work hard. Fools waste their time.'",
+      "answer": "Wise men work hard, whereas fools waste their time.",
+      "explanation": "'Whereas' shows contrast/comparison between two types of people."
+    },
+    {
+      "id": "conj_tqa011",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'We are grateful to you. We are equally grateful to your brother.'",
+      "answer": "We are not only grateful to you but also to your brother.",
+      "explanation": "'Not only...but also' expresses gratitude to both people."
+    },
+    {
+      "id": "conj_tqa012",
+      "exercise": "1",
+      "question": "Join using Co-ordinating Conjunctions: 'I relished the dinner. My friend also relished the dinner.'",
+      "answer": "Both I and my friend relished the dinner.",
+      "explanation": "'Both...and' shows both people enjoyed the dinner."
+    },
+    {
+      "id": "conj_tqa013",
+      "exercise": "2",
+      "solved_example": true,
+      "question": "Join using Correlative Conjunctions: 'Be attentive. Leave the class.'",
+      "answer": "Either be attentive or leave the class.",
+      "explanation": "'Either...or' presents a choice between two alternatives."
+    },
+    {
+      "id": "conj_tqa014",
+      "exercise": "2",
+      "question": "Join using Correlative Conjunctions: 'She is not lazy. She is not careless.'",
+      "answer": "She is neither lazy nor careless.",
+      "explanation": "'Neither...nor' is used when negating both alternatives."
+    },
+    {
+      "id": "conj_tqa015",
+      "exercise": "2",
+      "question": "Join using Correlative Conjunctions: 'India has rich resources. It is poor.'",
+      "answer": "Though India has rich resources, yet it is poor.",
+      "explanation": "'Though...yet' shows contrast/concession."
+    },
+    {
+      "id": "conj_tqa016",
+      "exercise": "2",
+      "question": "Join using Correlative Conjunctions: 'They do not pay the rent. They do not vacate the house.'",
+      "answer": "They neither pay the rent nor vacate the house.",
+      "explanation": "'Neither...nor' shows negation of both actions."
+    },
+    {
+      "id": "conj_tqa017",
+      "exercise": "2",
+      "question": "Join using Correlative Conjunctions: 'He stole my purse. He stole my books.'",
+      "answer": "He stole both my purse and my books.",
+      "explanation": "'Both...and' shows both items were stolen."
+    },
+    {
+      "id": "conj_tqa018",
+      "exercise": "2",
+      "question": "Join using Correlative Conjunctions: 'We reached the station. Soon the train left.'",
+      "answer": "No sooner had we reached the station than the train left.",
+      "explanation": "'No sooner...than' shows two actions happening in quick succession."
+    },
+    {
+      "id": "conj_tqa019",
+      "exercise": "2",
+      "question": "Join using Correlative Conjunctions: 'She is intelligent. She is hardworking.'",
+      "answer": "She is both intelligent and hardworking.",
+      "explanation": "'Both...and' shows she possesses both qualities."
+    },
+    {
+      "id": "conj_tqa020",
+      "exercise": "2",
+      "question": "Join using Correlative Conjunctions: 'The intensity of her grief was great. She could not weep even.'",
+      "answer": "Such was the intensity of her grief that she could not weep.",
+      "explanation": "'Such...that' shows result or consequence."
+    },
+    {
+      "id": "conj_tqa021",
+      "exercise": "2",
+      "question": "Join using Correlative Conjunctions: 'She sang very sweetly. The whole hall resounded with cheers.'",
+      "answer": "She sang so sweetly that the whole hall resounded with cheers.",
+      "explanation": "'So...that' shows cause-effect relationship."
+    },
+    {
+      "id": "conj_tqa022",
+      "exercise": "2",
+      "question": "Join using Correlative Conjunctions: 'She can speak French. She can speak German.'",
+      "answer": "She can speak both French and German.",
+      "explanation": "'Both...and' shows she can speak both languages."
+    },
+    {
+      "id": "conj_tqa023",
+      "exercise": "3",
+      "solved_example": true,
+      "question": "Fill in the blank with suitable Subordinating Conjunction: 'He asked me _____ I could lend him money.'",
+      "answer": "if",
+      "explanation": "'If' is used because this is an indirect question (yes/no question)."
+    },
+    {
+      "id": "conj_tqa024",
+      "exercise": "3",
+      "question": "Fill in the blank: 'She said _____ she was not very confident.'",
+      "answer": "that",
+      "explanation": "'That' introduces a noun clause in indirect speech."
+    },
+    {
+      "id": "conj_tqa025",
+      "exercise": "3",
+      "question": "Fill in the blank: 'The boy _____ is coming is my brother.'",
+      "answer": "who",
+      "explanation": "'Who' is a relative pronoun introducing an adjective clause describing a person."
+    },
+    {
+      "id": "conj_tqa026",
+      "exercise": "3",
+      "question": "Fill in the blank: 'I know the man _____ son has died in the accident.'",
+      "answer": "whose",
+      "explanation": "'Whose' is a relative pronoun showing possession."
+    },
+    {
+      "id": "conj_tqa027",
+      "exercise": "3",
+      "question": "Fill in the blank: 'The book _____ I bought yesterday is interesting.'",
+      "answer": "which/that",
+      "explanation": "'Which' or 'that' are relative pronouns introducing an adjective clause describing a thing."
+    },
+    {
+      "id": "conj_tqa028",
+      "exercise": "4",
+      "solved_example": true,
+      "question": "Combine using Subordinating Conjunctions: 'I did not know her. I met her.'",
+      "answer": "I did not know her until I met her.",
+      "explanation": "'Until/till' shows time up to which something was true."
+    },
+    {
+      "id": "conj_tqa029",
+      "exercise": "4",
+      "question": "Combine using Subordinating Conjunctions: 'Om is honest. Jai is more honest.'",
+      "answer": "Though Om is honest, Jai is more honest.",
+      "explanation": "'Though' shows that while Om has the quality, Jai has it to a greater degree."
+    },
+    {
+      "id": "conj_tqa030",
+      "exercise": "4",
+      "question": "Combine using Subordinating Conjunctions: 'She can buy her school books. You lend her some money.'",
+      "answer": "She can buy her school books if you lend her some money.",
+      "explanation": "'If' introduces a condition."
+    },
+    {
+      "id": "conj_tqa031",
+      "exercise": "4",
+      "question": "Combine using Subordinating Conjunctions: 'The rains came in time. There was a drought.'",
+      "answer": "The rains came in time before there was a drought.",
+      "explanation": "'Before' shows time sequence - rains prevented drought."
+    },
+    {
+      "id": "conj_tqa032",
+      "exercise": "4",
+      "question": "Combine using Subordinating Conjunctions: 'Shyam met many women. He decided to marry Priya.'",
+      "answer": "After Shyam met many women, he decided to marry Priya.",
+      "explanation": "'After' shows time sequence."
+    },
+    {
+      "id": "conj_tqa033",
+      "exercise": "4",
+      "question": "Combine using Subordinating Conjunctions: 'Mother has joined Yoga Classes. She is fit and healthy.'",
+      "answer": "Since mother has joined Yoga Classes, she is fit and healthy.",
+      "explanation": "'Since' shows the result that came after joining."
+    },
+    {
+      "id": "conj_tqa034",
+      "exercise": "4",
+      "question": "Combine using Subordinating Conjunctions: 'My mother cannot buy that expensive necklace. She does not have enough money.'",
+      "answer": "My mother cannot buy that expensive necklace because she does not have enough money.",
+      "explanation": "'Because' shows the reason/cause."
+    },
+    {
+      "id": "conj_tqa035",
+      "exercise": "4",
+      "question": "Combine using Subordinating Conjunctions: 'He found his handbag. He had forgotten it under the seat.'",
+      "answer": "He found his handbag which he had forgotten under the seat.",
+      "explanation": "'Which' introduces a relative clause describing the handbag."
+    },
+    {
+      "id": "conj_tqa036",
+      "exercise": "4",
+      "question": "Combine using Subordinating Conjunctions: 'She is seven years old. She does not go to school.'",
+      "answer": "Though she is seven years old, she does not go to school.",
+      "explanation": "'Though' shows contrast - normally seven-year-olds go to school, but she doesn't."
+    },
+    {
+      "id": "conj_tqa037",
+      "exercise": "Theory",
+      "question": "What are Conjunctions?",
+      "answer": "Conjunctions are words that grammatically join words, groups of words, phrases, clauses or sentences. Examples include 'and', 'but', 'or', 'because', 'when', 'if', etc.",
+      "explanation": "Conjunctions are connecting words that link different parts of sentences together."
+    },
+    {
+      "id": "conj_tqa038",
+      "exercise": "Theory",
+      "question": "What are the three main types of Conjunctions?",
+      "answer": "The three main types are: 1) Coordinating Conjunctions (join words/sentences of equal rank), 2) Correlative Conjunctions (used in pairs), 3) Subordinating Conjunctions (join dependent clause to main clause).",
+      "explanation": "Each type serves a different grammatical purpose in joining sentence elements."
+    },
+    {
+      "id": "conj_tqa039",
+      "exercise": "Theory",
+      "question": "What are Coordinating Conjunctions? Give examples.",
+      "answer": "Coordinating Conjunctions join two words or independent sentences of equal rank. Examples: and, but, or, yet, so, for. E.g., 'The sun set and the night fell.'",
+      "explanation": "Coordinating means 'of equal rank or importance'."
+    },
+    {
+      "id": "conj_tqa040",
+      "exercise": "Theory",
+      "question": "What are Correlative Conjunctions? Give examples.",
+      "answer": "Correlative Conjunctions are used in pairs and convey their full sense only when used together. Examples: either...or, neither...nor, both...and, not only...but also, no sooner...than.",
+      "explanation": "These conjunctions work in pairs to create balanced sentence structures."
+    }
+  ],
+  "total_count": 40,
+  "subject": "English E1",
+  "chapter": "Conjunctions"
+}

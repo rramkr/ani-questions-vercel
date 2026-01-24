@@ -4,6 +4,7 @@
     {
       "id": "tqa001",
       "exercise": "A",
+      "solved_example": true,
       "question": "Match the idiom 'like a bear with a sore head' with its meaning.",
       "answer": "very irritated",
       "explanation": "When someone is 'like a bear with a sore head', they are in a very bad mood and easily annoyed, just like a bear would be if it had a painful head."
@@ -60,6 +61,7 @@
     {
       "id": "tqa009",
       "exercise": "B",
+      "solved_example": true,
       "question": "'Take the bull by the horns' means:\na. tame the bull by holding its horns\nb. handle the difficulty boldly",
       "answer": "b. handle the difficulty boldly",
       "explanation": "This idiom means to face a difficult situation directly and with courage, just as one would grab a bull by its horns to control it."
@@ -116,6 +118,7 @@
     {
       "id": "tqa017",
       "exercise": "C",
+      "solved_example": true,
       "question": "Complete the proverb: 'Nothing ventured, ___'",
       "answer": "nothing gained",
       "explanation": "This proverb means that you cannot achieve anything without taking some risk or making an effort."
@@ -172,6 +175,7 @@
     {
       "id": "tqa025",
       "exercise": "D",
+      "solved_example": true,
       "question": "Vera was careless and lost her bracelet because she didn't fix the loose clasp when her mother asked. Which proverb fits this situation?",
       "answer": "A stitch in time saves nine",
       "explanation": "If Vera had fixed the clasp when it was first noticed, she wouldn't have lost the bracelet. Acting promptly to fix a small problem prevents bigger problems later."
@@ -228,6 +232,7 @@
     {
       "id": "tqa033",
       "exercise": "E",
+      "solved_example": true,
       "question": "Use 'accustomed to' in a sentence.",
       "answer": "He is not accustomed to waking up early in the morning.",
       "explanation": "'Accustomed to' means 'used to' something. It shows familiarity or habit with a particular activity or situation."

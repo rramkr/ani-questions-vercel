@@ -1,0 +1,743 @@
+{
+  "subject": "English E1",
+  "chapter": "Direct and Indirect Speech",
+  "type": "exam_practice",
+  "questions": [
+    {
+      "id": "dis_ep_001",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I am reading a book.\"'",
+      "answer": "She said that she was reading a book.",
+      "explanation": "Present continuous 'am reading' changes to past continuous 'was reading'. 'I' changes to 'she'."
+    },
+    {
+      "id": "dis_ep_002",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'He said, \"I have finished my work.\"'",
+      "answer": "He said that he had finished his work.",
+      "explanation": "Present perfect 'have finished' changes to past perfect 'had finished'."
+    },
+    {
+      "id": "dis_ep_003",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'They said, \"We are going to the park.\"'",
+      "answer": "They said that they were going to the park.",
+      "explanation": "'We' changes to 'they'. 'Are going' changes to 'were going'."
+    },
+    {
+      "id": "dis_ep_004",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I will come tomorrow.\"'",
+      "answer": "She said that she would come the next day.",
+      "explanation": "'Will' changes to 'would'. 'Tomorrow' changes to 'the next day'."
+    },
+    {
+      "id": "dis_ep_005",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'He said, \"I can swim very well.\"'",
+      "answer": "He said that he could swim very well.",
+      "explanation": "'Can' changes to 'could'."
+    },
+    {
+      "id": "dis_ep_006",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I went to school yesterday.\"'",
+      "answer": "She said that she had gone to school the previous day.",
+      "explanation": "Simple past 'went' changes to past perfect 'had gone'. 'Yesterday' becomes 'the previous day'."
+    },
+    {
+      "id": "dis_ep_007",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'Mother said, \"Dinner is ready.\"'",
+      "answer": "Mother said that dinner was ready.",
+      "explanation": "'Is' changes to 'was'."
+    },
+    {
+      "id": "dis_ep_008",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'He said, \"I may visit you next week.\"'",
+      "answer": "He said that he might visit me the following week.",
+      "explanation": "'May' changes to 'might'. 'You' changes to 'me'. 'Next week' becomes 'the following week'."
+    },
+    {
+      "id": "dis_ep_009",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I must complete this project.\"'",
+      "answer": "She said that she had to complete that project.",
+      "explanation": "'Must' changes to 'had to'. 'This' changes to 'that'."
+    },
+    {
+      "id": "dis_ep_010",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'Tom said, \"I am not feeling well today.\"'",
+      "answer": "Tom said that he was not feeling well that day.",
+      "explanation": "'Today' changes to 'that day'. 'Am feeling' becomes 'was feeling'."
+    },
+    {
+      "id": "dis_ep_011",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said to me, \"I need your help.\"'",
+      "answer": "She told me that she needed my help.",
+      "explanation": "'Said to me' becomes 'told me'. 'Your' changes to 'my'."
+    },
+    {
+      "id": "dis_ep_012",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'He said, \"I was sleeping when you called.\"'",
+      "answer": "He said that he had been sleeping when I had called.",
+      "explanation": "Past continuous 'was sleeping' becomes past perfect continuous 'had been sleeping'."
+    },
+    {
+      "id": "dis_ep_013",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I have been waiting here for an hour.\"'",
+      "answer": "She said that she had been waiting there for an hour.",
+      "explanation": "'Here' changes to 'there'. Present perfect continuous becomes past perfect continuous."
+    },
+    {
+      "id": "dis_ep_014",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'Father said, \"The sun rises in the east.\"'",
+      "answer": "Father said that the sun rises in the east.",
+      "explanation": "Universal truths do not change tense. 'Rises' remains 'rises'."
+    },
+    {
+      "id": "dis_ep_015",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'The teacher said, \"Water boils at 100 degrees Celsius.\"'",
+      "answer": "The teacher said that water boils at 100 degrees Celsius.",
+      "explanation": "Scientific facts remain in present tense."
+    },
+    {
+      "id": "dis_ep_016",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'He said to me, \"Where do you live?\"'",
+      "answer": "He asked me where I lived.",
+      "explanation": "Wh-questions retain the question word. Word order changes to statement form."
+    },
+    {
+      "id": "dis_ep_017",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'She said, \"Are you coming to the party?\"'",
+      "answer": "She asked if I was coming to the party.",
+      "explanation": "Yes/no questions use 'if' or 'whether'. 'Are coming' becomes 'was coming'."
+    },
+    {
+      "id": "dis_ep_018",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'Mother said, \"Have you done your homework?\"'",
+      "answer": "Mother asked if I had done my homework.",
+      "explanation": "'Have done' changes to 'had done'. 'Your' becomes 'my'."
+    },
+    {
+      "id": "dis_ep_019",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'The teacher said, \"Why are you late?\"'",
+      "answer": "The teacher asked why I was late.",
+      "explanation": "'Why' is retained. 'Are' changes to 'was'."
+    },
+    {
+      "id": "dis_ep_020",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'He said to her, \"What is your name?\"'",
+      "answer": "He asked her what her name was.",
+      "explanation": "'Your' changes to 'her'. 'Is' becomes 'was'."
+    },
+    {
+      "id": "dis_ep_021",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'She said, \"Did you enjoy the movie?\"'",
+      "answer": "She asked if I had enjoyed the movie.",
+      "explanation": "'Did enjoy' in question form becomes 'had enjoyed' in indirect speech."
+    },
+    {
+      "id": "dis_ep_022",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'He said, \"Will you help me tomorrow?\"'",
+      "answer": "He asked if I would help him the next day.",
+      "explanation": "'Will' becomes 'would'. 'Tomorrow' becomes 'the next day'."
+    },
+    {
+      "id": "dis_ep_023",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'The stranger asked, \"Can you tell me the way to the station?\"'",
+      "answer": "The stranger asked if I could tell him the way to the station.",
+      "explanation": "'Can' becomes 'could'. 'You' becomes 'I', 'me' becomes 'him'."
+    },
+    {
+      "id": "dis_ep_024",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'She said to him, \"How old are you?\"'",
+      "answer": "She asked him how old he was.",
+      "explanation": "'How' is retained. 'Are you' becomes 'he was'."
+    },
+    {
+      "id": "dis_ep_025",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'Father said, \"When will you return?\"'",
+      "answer": "Father asked when I would return.",
+      "explanation": "'Will' becomes 'would'. 'You' changes to 'I'."
+    },
+    {
+      "id": "dis_ep_026",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'Mother said to me, \"Finish your homework.\"'",
+      "answer": "Mother told me to finish my homework.",
+      "explanation": "Imperatives use 'told + to + infinitive'. 'Your' changes to 'my'."
+    },
+    {
+      "id": "dis_ep_027",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'The teacher said, \"Open your books.\"'",
+      "answer": "The teacher told us to open our books.",
+      "explanation": "When the addressee is implied (students), 'us/our' is used."
+    },
+    {
+      "id": "dis_ep_028",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'He said to her, \"Please wait for me.\"'",
+      "answer": "He requested her to wait for him.",
+      "explanation": "'Please' indicates request, so 'requested' is used. 'Me' becomes 'him'."
+    },
+    {
+      "id": "dis_ep_029",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'The captain said, \"Don't give up.\"'",
+      "answer": "The captain told us not to give up.",
+      "explanation": "Negative imperatives use 'not to + infinitive'."
+    },
+    {
+      "id": "dis_ep_030",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'Father said to me, \"Never tell a lie.\"'",
+      "answer": "Father advised me never to tell a lie.",
+      "explanation": "'Never' is retained in indirect speech. 'Advised' is appropriate for moral guidance."
+    },
+    {
+      "id": "dis_ep_031",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'The doctor said, \"Take this medicine twice a day.\"'",
+      "answer": "The doctor advised/told me to take that medicine twice a day.",
+      "explanation": "'This' changes to 'that'. 'Advised' is suitable for medical instructions."
+    },
+    {
+      "id": "dis_ep_032",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'She said to him, \"Don't be late again.\"'",
+      "answer": "She told him not to be late again.",
+      "explanation": "'Don't' becomes 'not to'."
+    },
+    {
+      "id": "dis_ep_033",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'The officer said, \"Stop! Show me your ID.\"'",
+      "answer": "The officer ordered me to stop and show him my ID.",
+      "explanation": "'Ordered' is appropriate for commands from authority. 'Your' becomes 'my'."
+    },
+    {
+      "id": "dis_ep_034",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'Mother said, \"Children, don't play in the rain.\"'",
+      "answer": "Mother told the children not to play in the rain.",
+      "explanation": "The vocative 'Children' becomes the object 'the children'."
+    },
+    {
+      "id": "dis_ep_035",
+      "type": "imperative",
+      "question": "Change to indirect speech: 'The guide said, \"Please follow me.\"'",
+      "answer": "The guide requested us to follow him.",
+      "explanation": "'Please' indicates a polite request. 'Me' becomes 'him'."
+    },
+    {
+      "id": "dis_ep_036",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'She said, \"What a beautiful day it is!\"'",
+      "answer": "She exclaimed that it was a very beautiful day.",
+      "explanation": "'What a beautiful' becomes 'a very beautiful'. 'Is' becomes 'was'."
+    },
+    {
+      "id": "dis_ep_037",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'He said, \"How wonderful this place is!\"'",
+      "answer": "He exclaimed that that place was very wonderful.",
+      "explanation": "'How wonderful' becomes 'very wonderful'. 'This' becomes 'that'."
+    },
+    {
+      "id": "dis_ep_038",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'She said, \"Alas! My grandmother has passed away.\"'",
+      "answer": "She exclaimed with sorrow that her grandmother had passed away.",
+      "explanation": "'Alas' expresses sorrow. 'Has passed' becomes 'had passed'."
+    },
+    {
+      "id": "dis_ep_039",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'They said, \"Hurrah! We have won the championship!\"'",
+      "answer": "They exclaimed with joy that they had won the championship.",
+      "explanation": "'Hurrah' expresses joy. 'Have won' becomes 'had won'."
+    },
+    {
+      "id": "dis_ep_040",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'He said, \"What a fool I have been!\"'",
+      "answer": "He exclaimed that he had been a great fool.",
+      "explanation": "'What a fool' becomes 'a great fool'."
+    },
+    {
+      "id": "dis_ep_041",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'She said, \"How kind of you to help me!\"'",
+      "answer": "She exclaimed that it was very kind of me to help her.",
+      "explanation": "'How kind' becomes 'very kind'. Pronouns change appropriately."
+    },
+    {
+      "id": "dis_ep_042",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'He said, \"Bravo! You have done a great job.\"'",
+      "answer": "He applauded me saying that I had done a great job.",
+      "explanation": "'Bravo' expresses appreciation/applause. 'Have done' becomes 'had done'."
+    },
+    {
+      "id": "dis_ep_043",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'She said, \"What a mess you have made!\"'",
+      "answer": "She exclaimed that I had made a terrible mess.",
+      "explanation": "Exclamation of displeasure. 'What a mess' becomes 'a terrible mess'."
+    },
+    {
+      "id": "dis_ep_044",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'He said, \"Oh! I have forgotten my keys.\"'",
+      "answer": "He exclaimed with regret that he had forgotten his keys.",
+      "explanation": "'Oh' can express regret or surprise. 'Have forgotten' becomes 'had forgotten'."
+    },
+    {
+      "id": "dis_ep_045",
+      "type": "exclamatory",
+      "question": "Change to indirect speech: 'She said, \"How beautifully she sings!\"'",
+      "answer": "She exclaimed that she sang very beautifully.",
+      "explanation": "'How beautifully' becomes 'very beautifully'. 'Sings' becomes 'sang'."
+    },
+    {
+      "id": "dis_ep_046",
+      "type": "optative",
+      "question": "Change to indirect speech: 'She said, \"May God bless you!\"'",
+      "answer": "She prayed that God might bless me.",
+      "explanation": "Optative sentences use 'prayed/wished'. 'May' becomes 'might'. 'You' becomes 'me'."
+    },
+    {
+      "id": "dis_ep_047",
+      "type": "optative",
+      "question": "Change to indirect speech: 'He said, \"May you succeed in life!\"'",
+      "answer": "He wished that I might succeed in life.",
+      "explanation": "'Wished' for blessings/good wishes. 'May' becomes 'might'."
+    },
+    {
+      "id": "dis_ep_048",
+      "type": "optative",
+      "question": "Change to indirect speech: 'Mother said, \"May you live long!\"'",
+      "answer": "Mother wished/prayed that I might live long.",
+      "explanation": "Blessings use 'wished/prayed'. 'You' becomes 'I'."
+    },
+    {
+      "id": "dis_ep_049",
+      "type": "optative",
+      "question": "Change to indirect speech: 'The priest said, \"May peace be upon you!\"'",
+      "answer": "The priest blessed me saying that peace might be upon me.",
+      "explanation": "'Blessed' is appropriate for religious blessings."
+    },
+    {
+      "id": "dis_ep_050",
+      "type": "optative",
+      "question": "Change to indirect speech: 'She said, \"May your dreams come true!\"'",
+      "answer": "She wished that my dreams might come true.",
+      "explanation": "'Your' becomes 'my'. 'May' becomes 'might'."
+    },
+    {
+      "id": "dis_ep_051",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He said that he was very tired.'",
+      "answer": "He said, \"I am very tired.\"",
+      "explanation": "'He' becomes 'I'. 'Was' changes back to 'am'."
+    },
+    {
+      "id": "dis_ep_052",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'She told me that she had seen the movie.'",
+      "answer": "She said to me, \"I have seen the movie.\"",
+      "explanation": "'Had seen' becomes 'have seen'. 'She' becomes 'I'."
+    },
+    {
+      "id": "dis_ep_053",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He said that he would come the next day.'",
+      "answer": "He said, \"I will come tomorrow.\"",
+      "explanation": "'Would' becomes 'will'. 'The next day' becomes 'tomorrow'."
+    },
+    {
+      "id": "dis_ep_054",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'She told him that she could not help him.'",
+      "answer": "She said to him, \"I cannot help you.\"",
+      "explanation": "'Could not' becomes 'cannot'. 'Him' becomes 'you'."
+    },
+    {
+      "id": "dis_ep_055",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He said that he had been waiting there for two hours.'",
+      "answer": "He said, \"I have been waiting here for two hours.\"",
+      "explanation": "'Had been waiting' becomes 'have been waiting'. 'There' becomes 'here'."
+    },
+    {
+      "id": "dis_ep_056",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'She asked me where I lived.'",
+      "answer": "She said to me, \"Where do you live?\"",
+      "explanation": "'Lived' becomes 'live'. Statement order changes to question order."
+    },
+    {
+      "id": "dis_ep_057",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He asked if I could lend him some money.'",
+      "answer": "He said, \"Can you lend me some money?\"",
+      "explanation": "'If' indicates yes/no question. 'Could' becomes 'can'."
+    },
+    {
+      "id": "dis_ep_058",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'The teacher asked the students why they had not done their homework.'",
+      "answer": "The teacher said to the students, \"Why have you not done your homework?\"",
+      "explanation": "'Had not done' becomes 'have not done'. 'They/their' becomes 'you/your'."
+    },
+    {
+      "id": "dis_ep_059",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'Mother told me to clean my room.'",
+      "answer": "Mother said to me, \"Clean your room.\"",
+      "explanation": "'Told...to clean' becomes imperative 'Clean'. 'My' becomes 'your'."
+    },
+    {
+      "id": "dis_ep_060",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He requested me to help him with his project.'",
+      "answer": "He said to me, \"Please help me with my project.\"",
+      "explanation": "'Requested' indicates 'Please'. 'Him/his' becomes 'me/my'."
+    },
+    {
+      "id": "dis_ep_061",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'The captain ordered the soldiers not to retreat.'",
+      "answer": "The captain said to the soldiers, \"Do not retreat.\"",
+      "explanation": "'Ordered...not to' becomes 'Do not' (negative imperative)."
+    },
+    {
+      "id": "dis_ep_062",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'She exclaimed with joy that they had won the prize.'",
+      "answer": "She said, \"Hurrah! We have won the prize.\"",
+      "explanation": "'Exclaimed with joy' becomes 'Hurrah!' 'Had won' becomes 'have won'."
+    },
+    {
+      "id": "dis_ep_063",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He exclaimed that it was a very beautiful garden.'",
+      "answer": "He said, \"What a beautiful garden this is!\"",
+      "explanation": "'Very beautiful' becomes 'What a beautiful'. Add exclamation mark."
+    },
+    {
+      "id": "dis_ep_064",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'She wished that I might succeed.'",
+      "answer": "She said, \"May you succeed!\"",
+      "explanation": "'Wished' with 'might' converts to 'May'. 'I' becomes 'you'."
+    },
+    {
+      "id": "dis_ep_065",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He said that he had visited that place the previous year.'",
+      "answer": "He said, \"I visited this place last year.\"",
+      "explanation": "'Had visited' becomes 'visited'. 'The previous year' becomes 'last year'. 'That' becomes 'this'."
+    },
+    {
+      "id": "dis_ep_066",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'Ravi said, \"I bought this book last week.\"'",
+      "answer": "Ravi said that he had bought that book the previous week.",
+      "explanation": "'Bought' becomes 'had bought'. 'This' becomes 'that'. 'Last week' becomes 'the previous week'."
+    },
+    {
+      "id": "dis_ep_067",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I am cooking dinner now.\"'",
+      "answer": "She said that she was cooking dinner then.",
+      "explanation": "'Now' changes to 'then'. 'Am cooking' becomes 'was cooking'."
+    },
+    {
+      "id": "dis_ep_068",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'He said, \"I shall return soon.\"'",
+      "answer": "He said that he would return soon.",
+      "explanation": "'Shall' changes to 'would'."
+    },
+    {
+      "id": "dis_ep_069",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'They said, \"We have already eaten.\"'",
+      "answer": "They said that they had already eaten.",
+      "explanation": "'Have eaten' becomes 'had eaten'. 'We' becomes 'they'."
+    },
+    {
+      "id": "dis_ep_070",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I could not attend the meeting.\"'",
+      "answer": "She said that she could not attend the meeting.",
+      "explanation": "'Could' remains 'could' (no further backshift needed)."
+    },
+    {
+      "id": "dis_ep_071",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'Father said, \"I had finished my work before you came.\"'",
+      "answer": "Father said that he had finished his work before I had come.",
+      "explanation": "Past perfect remains past perfect. 'You came' becomes 'I had come'."
+    },
+    {
+      "id": "dis_ep_072",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I wish I were rich.\"'",
+      "answer": "She said that she wished she were rich.",
+      "explanation": "Wishes with 'were' (subjunctive) remain unchanged."
+    },
+    {
+      "id": "dis_ep_073",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'He said, \"It might rain tonight.\"'",
+      "answer": "He said that it might rain that night.",
+      "explanation": "'Might' remains 'might'. 'Tonight' becomes 'that night'."
+    },
+    {
+      "id": "dis_ep_074",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I would like to meet you.\"'",
+      "answer": "She said that she would like to meet me.",
+      "explanation": "'Would' remains 'would'. 'You' becomes 'me'."
+    },
+    {
+      "id": "dis_ep_075",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'He said, \"I used to play cricket in school.\"'",
+      "answer": "He said that he used to play cricket in school.",
+      "explanation": "'Used to' does not change in indirect speech."
+    },
+    {
+      "id": "dis_ep_076",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'She asked, \"Who broke the window?\"'",
+      "answer": "She asked who had broken the window.",
+      "explanation": "'Broke' becomes 'had broken'. Question word 'who' is retained."
+    },
+    {
+      "id": "dis_ep_077",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'He said, \"Which book do you prefer?\"'",
+      "answer": "He asked which book I preferred.",
+      "explanation": "'Do prefer' becomes 'preferred'. 'You' becomes 'I'."
+    },
+    {
+      "id": "dis_ep_078",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'The shopkeeper asked, \"What would you like to buy?\"'",
+      "answer": "The shopkeeper asked what I would like to buy.",
+      "explanation": "'Would' remains 'would'. 'You' becomes 'I'."
+    },
+    {
+      "id": "dis_ep_079",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'Mother asked, \"Whose book is this?\"'",
+      "answer": "Mother asked whose book that was.",
+      "explanation": "'Whose' is retained. 'This' becomes 'that'. 'Is' becomes 'was'."
+    },
+    {
+      "id": "dis_ep_080",
+      "type": "interrogative",
+      "question": "Change to indirect speech: 'He said to me, \"How long have you been waiting?\"'",
+      "answer": "He asked me how long I had been waiting.",
+      "explanation": "'Have been waiting' becomes 'had been waiting'. 'You' becomes 'I'."
+    },
+    {
+      "id": "dis_ep_081",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'She said, \"Please come in and sit down.\"'",
+      "answer": "She requested me to come in and sit down.",
+      "explanation": "'Please' indicates request. Two imperatives joined by 'and'."
+    },
+    {
+      "id": "dis_ep_082",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'He said, \"I think it will rain today.\"'",
+      "answer": "He said that he thought it would rain that day.",
+      "explanation": "'Think' becomes 'thought'. 'Will' becomes 'would'. 'Today' becomes 'that day'."
+    },
+    {
+      "id": "dis_ep_083",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'She said, \"Let us go for a walk.\"'",
+      "answer": "She suggested that we should go for a walk.",
+      "explanation": "'Let us' becomes 'suggested that we should'. This is a suggestion."
+    },
+    {
+      "id": "dis_ep_084",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'He said, \"Let me help you.\"'",
+      "answer": "He offered to help me.",
+      "explanation": "'Let me' when offering help uses 'offered to'."
+    },
+    {
+      "id": "dis_ep_085",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'Mother said, \"What time is it?\" I replied, \"It is 5 o'clock.\"'",
+      "answer": "Mother asked what time it was. I replied that it was 5 o'clock.",
+      "explanation": "Two speakers, two sentences. 'Is' becomes 'was' in both."
+    },
+    {
+      "id": "dis_ep_086",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'She said, \"I don't know why he did it.\"'",
+      "answer": "She said that she did not know why he had done it.",
+      "explanation": "'Don't know' becomes 'did not know'. 'Did' becomes 'had done'."
+    },
+    {
+      "id": "dis_ep_087",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'He said to me, \"You should see a doctor.\"'",
+      "answer": "He advised me to see a doctor.",
+      "explanation": "'Should' for advice converts to 'advised + to + infinitive'."
+    },
+    {
+      "id": "dis_ep_088",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'The notice said, \"Smoking is prohibited here.\"'",
+      "answer": "The notice stated that smoking was prohibited there.",
+      "explanation": "'Said' becomes 'stated' for notices. 'Here' becomes 'there'."
+    },
+    {
+      "id": "dis_ep_089",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'She said, \"I wonder if it is true.\"'",
+      "answer": "She said that she wondered if it was true.",
+      "explanation": "'Wonder' becomes 'wondered'. 'Is' becomes 'was'."
+    },
+    {
+      "id": "dis_ep_090",
+      "type": "mixed",
+      "question": "Change to indirect speech: 'He said, \"If I were you, I would accept the offer.\"'",
+      "answer": "He said that if he were me, he would accept the offer.",
+      "explanation": "Conditional with 'were' (subjunctive) remains unchanged."
+    },
+    {
+      "id": "dis_ep_091",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'She said that she had never seen such a beautiful sunset.'",
+      "answer": "She said, \"I have never seen such a beautiful sunset.\"",
+      "explanation": "'Had seen' becomes 'have seen'. 'She' becomes 'I'."
+    },
+    {
+      "id": "dis_ep_092",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He told me that he would meet me at the station.'",
+      "answer": "He said to me, \"I will meet you at the station.\"",
+      "explanation": "'Would' becomes 'will'. 'Me' becomes 'you'."
+    },
+    {
+      "id": "dis_ep_093",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'She asked me what I was reading.'",
+      "answer": "She said to me, \"What are you reading?\"",
+      "explanation": "'Was reading' becomes 'are reading'. 'I' becomes 'you'."
+    },
+    {
+      "id": "dis_ep_094",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He asked whether I had completed my assignment.'",
+      "answer": "He said, \"Have you completed your assignment?\"",
+      "explanation": "'Whether/if' becomes yes/no question. 'Had completed' becomes 'have completed'."
+    },
+    {
+      "id": "dis_ep_095",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'Mother advised me to study hard.'",
+      "answer": "Mother said to me, \"Study hard.\"",
+      "explanation": "'Advised to' becomes imperative."
+    },
+    {
+      "id": "dis_ep_096",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'The teacher forbade the students to use mobile phones.'",
+      "answer": "The teacher said to the students, \"Do not use mobile phones.\"",
+      "explanation": "'Forbade to' becomes negative imperative 'Do not'."
+    },
+    {
+      "id": "dis_ep_097",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'She exclaimed with sorrow that her pet had died.'",
+      "answer": "She said, \"Alas! My pet has died.\"",
+      "explanation": "'Exclaimed with sorrow' becomes 'Alas!' 'Had died' becomes 'has died'."
+    },
+    {
+      "id": "dis_ep_098",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He suggested that we should start early.'",
+      "answer": "He said, \"Let us start early.\"",
+      "explanation": "'Suggested that we should' becomes 'Let us'."
+    },
+    {
+      "id": "dis_ep_099",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'She wished me a happy birthday.'",
+      "answer": "She said to me, \"Happy birthday!\"",
+      "explanation": "'Wished me a happy birthday' becomes the greeting 'Happy birthday!'"
+    },
+    {
+      "id": "dis_ep_100",
+      "type": "indirect_to_direct",
+      "question": "Change to direct speech: 'He admitted that he had made a mistake.'",
+      "answer": "He said, \"I have made a mistake.\"",
+      "explanation": "'Admitted' indicates acknowledging. 'Had made' becomes 'have made'."
+    },
+    {
+      "id": "dis_ep_101",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'The old man said, \"I have lived here for fifty years.\"'",
+      "answer": "The old man said that he had lived there for fifty years.",
+      "explanation": "'Have lived' becomes 'had lived'. 'Here' becomes 'there'."
+    },
+    {
+      "id": "dis_ep_102",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"My brother is arriving tomorrow.\"'",
+      "answer": "She said that her brother was arriving the next day.",
+      "explanation": "'My' becomes 'her'. 'Is arriving' becomes 'was arriving'. 'Tomorrow' becomes 'the next day'."
+    },
+    {
+      "id": "dis_ep_103",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'He said to her, \"I met your mother yesterday at the market.\"'",
+      "answer": "He told her that he had met her mother the previous day at the market.",
+      "explanation": "'Met' becomes 'had met'. 'Your' becomes 'her'. 'Yesterday' becomes 'the previous day'."
+    },
+    {
+      "id": "dis_ep_104",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'The guard said, \"No one is allowed to enter here without permission.\"'",
+      "answer": "The guard said that no one was allowed to enter there without permission.",
+      "explanation": "'Is allowed' becomes 'was allowed'. 'Here' becomes 'there'."
+    },
+    {
+      "id": "dis_ep_105",
+      "type": "direct_to_indirect",
+      "question": "Change to indirect speech: 'She said, \"I had already left when you arrived.\"'",
+      "answer": "She said that she had already left when I had arrived.",
+      "explanation": "Past perfect remains past perfect. 'You' becomes 'I'."
+    }
+  ],
+  "total_count": 105
+}

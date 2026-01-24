@@ -4,6 +4,7 @@
     {
       "id": "tqa001",
       "exercise": "A",
+      "solved_example": true,
       "question": "Identify whether the sentence is Simple (S), Compound (C), or Complex (Cx): 'Suresh has bought a new car.'",
       "answer": "S (Simple)",
       "explanation": "This sentence has only one independent clause with one subject (Suresh) and one finite verb (has bought)."
@@ -60,6 +61,7 @@
     {
       "id": "tqa009",
       "exercise": "B",
+      "solved_example": true,
       "question": "Change the assertive sentence to exclamatory: 'It was an incredible sight.'",
       "answer": "What an incredible sight it was!",
       "explanation": "To change to exclamatory, we add 'What' at the beginning and change the word order to emphasize the feeling."
@@ -109,6 +111,7 @@
     {
       "id": "tqa016",
       "exercise": "C",
+      "solved_example": true,
       "question": "Change the exclamatory sentence to assertive: 'What a great time we had last summer!'",
       "answer": "We had a great time last summer.",
       "explanation": "Remove 'What' and rearrange to make a statement with a full stop."
@@ -158,6 +161,7 @@
     {
       "id": "tqa023",
       "exercise": "D",
+      "solved_example": true,
       "question": "Change the assertive sentence to interrogative: 'Time is the most precious commodity in life.'",
       "answer": "Isn't time the most precious commodity in life?",
       "explanation": "For positive assertive sentences, we often create negative interrogatives to maintain the same meaning."
@@ -207,6 +211,7 @@
     {
       "id": "tqa030",
       "exercise": "E",
+      "solved_example": true,
       "question": "Change the interrogative sentence to assertive: 'Can we ever forget the days of our friendship?'",
       "answer": "We can never forget the days of our friendship.",
       "explanation": "The question implies a negative answer, so we use 'never' in the assertive form."
@@ -256,6 +261,7 @@
     {
       "id": "tqa037",
       "exercise": "F",
+      "solved_example": true,
       "question": "Change the simple sentence to compound: 'Ekta is greatly admired for her talent.'",
       "answer": "Ekta has great talent, and she is greatly admired for it.",
       "explanation": "We split into two independent clauses joined by 'and'."
@@ -305,6 +311,7 @@
     {
       "id": "tqa044",
       "exercise": "G",
+      "solved_example": true,
       "question": "Change the simple sentence to complex: 'The damaged furniture could not be repaired.'",
       "answer": "The furniture that was damaged could not be repaired.",
       "explanation": "The adjective 'damaged' becomes a relative clause 'that was damaged'."
@@ -354,6 +361,7 @@
     {
       "id": "tqa051",
       "exercise": "H",
+      "solved_example": true,
       "question": "Change the compound sentence to simple: 'Winter has set in, yet the days are warm.'",
       "answer": "Despite winter having set in, the days are warm.",
       "explanation": "We use 'Despite' with a gerund phrase to replace the compound structure."
@@ -403,6 +411,7 @@
     {
       "id": "tqa058",
       "exercise": "I",
+      "solved_example": true,
       "question": "Change the complex sentence to simple: 'Vivek was delighted when he received his report card.'",
       "answer": "Vivek was delighted on receiving his report card.",
       "explanation": "The time clause becomes a prepositional phrase with gerund."

@@ -1,0 +1,743 @@
+{
+  "subject": "English E1",
+  "chapter": "Prepositions",
+  "type": "exam_practice",
+  "questions": [
+    {
+      "id": "prep_ep_001",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The book is ___ the table.'",
+      "answer": "on",
+      "explanation": "'On' indicates position on a surface."
+    },
+    {
+      "id": "prep_ep_002",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The pen is ___ the box.'",
+      "answer": "in",
+      "explanation": "'In' indicates position inside something."
+    },
+    {
+      "id": "prep_ep_003",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She lives ___ Delhi.'",
+      "answer": "in",
+      "explanation": "'In' is used with cities and countries."
+    },
+    {
+      "id": "prep_ep_004",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is standing ___ the door.'",
+      "answer": "at",
+      "explanation": "'At' indicates position at a point."
+    },
+    {
+      "id": "prep_ep_005",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The cat jumped ___ the wall.'",
+      "answer": "over",
+      "explanation": "'Over' indicates movement above and across."
+    },
+    {
+      "id": "prep_ep_006",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She walked ___ the bridge.'",
+      "answer": "across",
+      "explanation": "'Across' indicates movement from one side to the other."
+    },
+    {
+      "id": "prep_ep_007",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The ball rolled ___ the hill.'",
+      "answer": "down",
+      "explanation": "'Down' indicates movement from higher to lower."
+    },
+    {
+      "id": "prep_ep_008",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He climbed ___ the ladder.'",
+      "answer": "up",
+      "explanation": "'Up' indicates movement from lower to higher."
+    },
+    {
+      "id": "prep_ep_009",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The children ran ___ the garden.'",
+      "answer": "through/into",
+      "explanation": "'Through' indicates passing from one side to another. 'Into' indicates entering."
+    },
+    {
+      "id": "prep_ep_010",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The dog hid ___ the sofa.'",
+      "answer": "behind",
+      "explanation": "'Behind' indicates position at the back of something."
+    },
+    {
+      "id": "prep_ep_011",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The picture hangs ___ the fireplace.'",
+      "answer": "above/over",
+      "explanation": "'Above' or 'over' indicates a higher position."
+    },
+    {
+      "id": "prep_ep_012",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The shop is ___ the post office.'",
+      "answer": "near/beside",
+      "explanation": "'Near' or 'beside' indicates proximity."
+    },
+    {
+      "id": "prep_ep_013",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She sat ___ her mother and father.'",
+      "answer": "between",
+      "explanation": "'Between' is used for two people or things."
+    },
+    {
+      "id": "prep_ep_014",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He distributed sweets ___ the children.'",
+      "answer": "among",
+      "explanation": "'Among' is used for more than two people or things."
+    },
+    {
+      "id": "prep_ep_015",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The train passed ___ the tunnel.'",
+      "answer": "through",
+      "explanation": "'Through' indicates movement from one end to another."
+    },
+    {
+      "id": "prep_ep_016",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'I wake up ___ 6 o'clock every morning.'",
+      "answer": "at",
+      "explanation": "'At' is used with specific times."
+    },
+    {
+      "id": "prep_ep_017",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'She was born ___ July.'",
+      "answer": "in",
+      "explanation": "'In' is used with months."
+    },
+    {
+      "id": "prep_ep_018",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'We have a meeting ___ Monday.'",
+      "answer": "on",
+      "explanation": "'On' is used with days of the week."
+    },
+    {
+      "id": "prep_ep_019",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'The shop closes ___ noon.'",
+      "answer": "at",
+      "explanation": "'At' is used with noon, midnight, and specific times."
+    },
+    {
+      "id": "prep_ep_020",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'We go on vacation ___ summer.'",
+      "answer": "in/during",
+      "explanation": "'In' or 'during' is used with seasons."
+    },
+    {
+      "id": "prep_ep_021",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'She has been studying ___ three hours.'",
+      "answer": "for",
+      "explanation": "'For' is used with a period of time."
+    },
+    {
+      "id": "prep_ep_022",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'He has lived here ___ 2005.'",
+      "answer": "since",
+      "explanation": "'Since' is used with a point in time."
+    },
+    {
+      "id": "prep_ep_023",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'Please finish this ___ Friday.'",
+      "answer": "by",
+      "explanation": "'By' indicates a deadline (at or before)."
+    },
+    {
+      "id": "prep_ep_024",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'We study ___ the evening.'",
+      "answer": "in",
+      "explanation": "'In' is used with parts of the day."
+    },
+    {
+      "id": "prep_ep_025",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'She arrived ___ night.'",
+      "answer": "at",
+      "explanation": "'At' is used with 'night'."
+    },
+    {
+      "id": "prep_ep_026",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'The concert starts ___ 8 p.m. ___ Saturday.'",
+      "answer": "at, on",
+      "explanation": "'At' for time, 'on' for day."
+    },
+    {
+      "id": "prep_ep_027",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'He will return ___ a week.'",
+      "answer": "in",
+      "explanation": "'In' indicates a future time period."
+    },
+    {
+      "id": "prep_ep_028",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'The store is closed ___ Sundays.'",
+      "answer": "on",
+      "explanation": "'On' is used with days."
+    },
+    {
+      "id": "prep_ep_029",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'I haven't seen her ___ last month.'",
+      "answer": "since",
+      "explanation": "'Since' marks when something started."
+    },
+    {
+      "id": "prep_ep_030",
+      "type": "time_preposition",
+      "question": "Fill in the blank: 'They waited ___ the rain stopped.'",
+      "answer": "until/till",
+      "explanation": "'Until' or 'till' indicates up to a point in time."
+    },
+    {
+      "id": "prep_ep_031",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She is afraid ___ the dark.'",
+      "answer": "of",
+      "explanation": "'Afraid of' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_032",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He is good ___ cricket.'",
+      "answer": "at",
+      "explanation": "'Good at' is used for skills."
+    },
+    {
+      "id": "prep_ep_033",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She is interested ___ art.'",
+      "answer": "in",
+      "explanation": "'Interested in' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_034",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He is fond ___ music.'",
+      "answer": "of",
+      "explanation": "'Fond of' means to like something."
+    },
+    {
+      "id": "prep_ep_035",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She is proud ___ her achievements.'",
+      "answer": "of",
+      "explanation": "'Proud of' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_036",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He is angry ___ his friend.'",
+      "answer": "with",
+      "explanation": "'Angry with' a person."
+    },
+    {
+      "id": "prep_ep_037",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She apologized ___ being late.'",
+      "answer": "for",
+      "explanation": "'Apologize for' something."
+    },
+    {
+      "id": "prep_ep_038",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He insisted ___ paying the bill.'",
+      "answer": "on",
+      "explanation": "'Insist on' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_039",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She succeeded ___ passing the exam.'",
+      "answer": "in",
+      "explanation": "'Succeed in' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_040",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He blamed me ___ the accident.'",
+      "answer": "for",
+      "explanation": "'Blame for' something."
+    },
+    {
+      "id": "prep_ep_041",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She congratulated him ___ his success.'",
+      "answer": "on",
+      "explanation": "'Congratulate on' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_042",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He is married ___ a teacher.'",
+      "answer": "to",
+      "explanation": "'Married to' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_043",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She is different ___ her sister.'",
+      "answer": "from",
+      "explanation": "'Different from' is the standard phrase."
+    },
+    {
+      "id": "prep_ep_044",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He is jealous ___ his brother.'",
+      "answer": "of",
+      "explanation": "'Jealous of' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_045",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She is worried ___ her exam.'",
+      "answer": "about",
+      "explanation": "'Worried about' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_046",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He is capable ___ doing this work.'",
+      "answer": "of",
+      "explanation": "'Capable of' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_047",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She is qualified ___ this job.'",
+      "answer": "for",
+      "explanation": "'Qualified for' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_048",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He depends ___ his parents.'",
+      "answer": "on",
+      "explanation": "'Depend on' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_049",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'She believes ___ hard work.'",
+      "answer": "in",
+      "explanation": "'Believe in' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_050",
+      "type": "phrase_preposition",
+      "question": "Fill in the blank: 'He is satisfied ___ the result.'",
+      "answer": "with",
+      "explanation": "'Satisfied with' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_051",
+      "type": "error_correction",
+      "question": "Correct the error: 'He has been absent since two days.'",
+      "answer": "He has been absent for two days.",
+      "explanation": "'For' is used with a period of time, 'since' with a point in time."
+    },
+    {
+      "id": "prep_ep_052",
+      "type": "error_correction",
+      "question": "Correct the error: 'She is senior than me.'",
+      "answer": "She is senior to me.",
+      "explanation": "'Senior to', 'junior to', 'superior to' use 'to', not 'than'."
+    },
+    {
+      "id": "prep_ep_053",
+      "type": "error_correction",
+      "question": "Correct the error: 'He prevented me to go out.'",
+      "answer": "He prevented me from going out.",
+      "explanation": "'Prevent from' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_054",
+      "type": "error_correction",
+      "question": "Correct the error: 'She is suffering with fever.'",
+      "answer": "She is suffering from fever.",
+      "explanation": "'Suffer from' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_055",
+      "type": "error_correction",
+      "question": "Correct the error: 'He agreed with my proposal.'",
+      "answer": "He agreed to my proposal.",
+      "explanation": "'Agree to' a proposal/suggestion. 'Agree with' a person."
+    },
+    {
+      "id": "prep_ep_056",
+      "type": "error_correction",
+      "question": "Correct the error: 'She is angry at her brother.'",
+      "answer": "She is angry with her brother.",
+      "explanation": "'Angry with' a person. 'Angry at' a situation."
+    },
+    {
+      "id": "prep_ep_057",
+      "type": "error_correction",
+      "question": "Correct the error: 'He died from cancer.'",
+      "answer": "He died of cancer.",
+      "explanation": "'Die of' a disease. 'Die from' an external cause like injury."
+    },
+    {
+      "id": "prep_ep_058",
+      "type": "error_correction",
+      "question": "Correct the error: 'She is good in English.'",
+      "answer": "She is good at English.",
+      "explanation": "'Good at' is used for skills and subjects."
+    },
+    {
+      "id": "prep_ep_059",
+      "type": "error_correction",
+      "question": "Correct the error: 'He lives on Mumbai.'",
+      "answer": "He lives in Mumbai.",
+      "explanation": "'In' is used with cities."
+    },
+    {
+      "id": "prep_ep_060",
+      "type": "error_correction",
+      "question": "Correct the error: 'She arrived in the station.'",
+      "answer": "She arrived at the station.",
+      "explanation": "'At' is used for specific points like stations."
+    },
+    {
+      "id": "prep_ep_061",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The thief escaped ___ the prison.'",
+      "answer": "from",
+      "explanation": "'Escape from' indicates leaving a place."
+    },
+    {
+      "id": "prep_ep_062",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is looking ___ her lost keys.'",
+      "answer": "for",
+      "explanation": "'Look for' means to search for something."
+    },
+    {
+      "id": "prep_ep_063",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is looking ___ the children.'",
+      "answer": "after",
+      "explanation": "'Look after' means to take care of."
+    },
+    {
+      "id": "prep_ep_064",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is looking ___ the window.'",
+      "answer": "through/out of",
+      "explanation": "'Look through' or 'look out of' the window."
+    },
+    {
+      "id": "prep_ep_065",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is looking ___ to the holidays.'",
+      "answer": "forward",
+      "explanation": "'Look forward to' means to anticipate with pleasure."
+    },
+    {
+      "id": "prep_ep_066",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She was dressed ___ blue.'",
+      "answer": "in",
+      "explanation": "'Dressed in' a color or type of clothing."
+    },
+    {
+      "id": "prep_ep_067",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is made ___ sterner stuff.'",
+      "answer": "of",
+      "explanation": "'Made of' indicates material or composition."
+    },
+    {
+      "id": "prep_ep_068",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The table is made ___ wood.'",
+      "answer": "of",
+      "explanation": "'Made of' when material is unchanged."
+    },
+    {
+      "id": "prep_ep_069",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'Wine is made ___ grapes.'",
+      "answer": "from",
+      "explanation": "'Made from' when material is transformed."
+    },
+    {
+      "id": "prep_ep_070",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'The book was written ___ Tagore.'",
+      "answer": "by",
+      "explanation": "'By' indicates the agent/author."
+    },
+    {
+      "id": "prep_ep_071",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He was killed ___ a sword.'",
+      "answer": "with",
+      "explanation": "'With' indicates the instrument used."
+    },
+    {
+      "id": "prep_ep_072",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She went ___ foot.'",
+      "answer": "on",
+      "explanation": "'On foot' is the correct phrase for walking."
+    },
+    {
+      "id": "prep_ep_073",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He came ___ bus.'",
+      "answer": "by",
+      "explanation": "'By' is used with means of transport."
+    },
+    {
+      "id": "prep_ep_074",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is ___ the phone.'",
+      "answer": "on",
+      "explanation": "'On the phone' means using the telephone."
+    },
+    {
+      "id": "prep_ep_075",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is ___ holiday.'",
+      "answer": "on",
+      "explanation": "'On holiday' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_076",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She works ___ a bank.'",
+      "answer": "in/at",
+      "explanation": "'In' or 'at' a workplace."
+    },
+    {
+      "id": "prep_ep_077",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is ___ duty today.'",
+      "answer": "on",
+      "explanation": "'On duty' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_078",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is ___ leave.'",
+      "answer": "on",
+      "explanation": "'On leave' means taking time off work."
+    },
+    {
+      "id": "prep_ep_079",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He agreed ___ me.'",
+      "answer": "with",
+      "explanation": "'Agree with' a person."
+    },
+    {
+      "id": "prep_ep_080",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She complained ___ the noise.'",
+      "answer": "about",
+      "explanation": "'Complain about' something."
+    },
+    {
+      "id": "prep_ep_081",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He complained ___ the manager.'",
+      "answer": "to",
+      "explanation": "'Complain to' a person."
+    },
+    {
+      "id": "prep_ep_082",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is addicted ___ coffee.'",
+      "answer": "to",
+      "explanation": "'Addicted to' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_083",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is allergic ___ dust.'",
+      "answer": "to",
+      "explanation": "'Allergic to' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_084",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is kind ___ animals.'",
+      "answer": "to",
+      "explanation": "'Kind to' someone/something."
+    },
+    {
+      "id": "prep_ep_085",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is cruel ___ animals.'",
+      "answer": "to",
+      "explanation": "'Cruel to' someone/something."
+    },
+    {
+      "id": "prep_ep_086",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is similar ___ her mother.'",
+      "answer": "to",
+      "explanation": "'Similar to' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_087",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is equal ___ the task.'",
+      "answer": "to",
+      "explanation": "'Equal to' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_088",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is faithful ___ her husband.'",
+      "answer": "to",
+      "explanation": "'Faithful to' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_089",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is devoted ___ his family.'",
+      "answer": "to",
+      "explanation": "'Devoted to' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_090",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is grateful ___ your help.'",
+      "answer": "for",
+      "explanation": "'Grateful for' something."
+    },
+    {
+      "id": "prep_ep_091",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is grateful ___ you.'",
+      "answer": "to",
+      "explanation": "'Grateful to' a person."
+    },
+    {
+      "id": "prep_ep_092",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is responsible ___ the project.'",
+      "answer": "for",
+      "explanation": "'Responsible for' something."
+    },
+    {
+      "id": "prep_ep_093",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is accused ___ theft.'",
+      "answer": "of",
+      "explanation": "'Accused of' a crime."
+    },
+    {
+      "id": "prep_ep_094",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is convinced ___ his innocence.'",
+      "answer": "of",
+      "explanation": "'Convinced of' something."
+    },
+    {
+      "id": "prep_ep_095",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is aware ___ the problem.'",
+      "answer": "of",
+      "explanation": "'Aware of' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_096",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is full ___ energy.'",
+      "answer": "of",
+      "explanation": "'Full of' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_097",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is guilty ___ the crime.'",
+      "answer": "of",
+      "explanation": "'Guilty of' a crime."
+    },
+    {
+      "id": "prep_ep_098",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is innocent ___ the charges.'",
+      "answer": "of",
+      "explanation": "'Innocent of' charges."
+    },
+    {
+      "id": "prep_ep_099",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is tired ___ working.'",
+      "answer": "of",
+      "explanation": "'Tired of' doing something."
+    },
+    {
+      "id": "prep_ep_100",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is sick ___ his excuses.'",
+      "answer": "of",
+      "explanation": "'Sick of' means fed up with."
+    },
+    {
+      "id": "prep_ep_101",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is short ___ money.'",
+      "answer": "of",
+      "explanation": "'Short of' means lacking."
+    },
+    {
+      "id": "prep_ep_102",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is sure ___ her decision.'",
+      "answer": "of/about",
+      "explanation": "'Sure of' or 'sure about' something."
+    },
+    {
+      "id": "prep_ep_103",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is uncertain ___ the outcome.'",
+      "answer": "about/of",
+      "explanation": "'Uncertain about' or 'of' something."
+    },
+    {
+      "id": "prep_ep_104",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'She is keen ___ learning new things.'",
+      "answer": "on",
+      "explanation": "'Keen on' is the correct phrase."
+    },
+    {
+      "id": "prep_ep_105",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank: 'He is bent ___ succeeding.'",
+      "answer": "on",
+      "explanation": "'Bent on' means determined to do something."
+    }
+  ],
+  "total_count": 105
+}
