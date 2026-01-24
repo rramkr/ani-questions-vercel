@@ -1224,8 +1224,8 @@ function renderChapters(chapters) {
     // Render categorized chapters
     categoryMap.forEach((category, categoryName) => {
         html += `
-            <div class="chapter-category">
-                <div class="category-header">
+            <div class="chapter-category" style="background: #e0f0ff; border: 3px solid #0066cc; margin-bottom: 20px;">
+                <div class="category-header" style="background: #0066cc; color: white; padding: 15px; font-size: 1.5rem; font-weight: bold;">
                     <span class="category-icon">${category.icon}</span>
                     <span class="category-name">${category.name}</span>
                 </div>
