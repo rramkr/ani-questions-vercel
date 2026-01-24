@@ -1,4 +1,4 @@
-// Version: 5.0 - Category folder structure for Grammar
+// Version: 6.0 - Grammar folder open by default
 // Use local deployment URL for fetching questions (faster than GitHub raw)
 const GITHUB_BASE_URL = './questions_cache';
 
@@ -1227,12 +1227,12 @@ function renderChapters(chapters) {
         html += `
             <div class="chapter-folder">
                 <div class="folder-header" onclick="toggleFolder('${folderId}')">
-                    <span class="folder-arrow" id="${folderId}-arrow">▶</span>
+                    <span class="folder-arrow" id="${folderId}-arrow">▼</span>
                     <span class="folder-icon">${category.icon}</span>
                     <span class="folder-name">${category.name}</span>
                     <span class="folder-count">${category.chapters.length} topics</span>
                 </div>
-                <div class="folder-contents" id="${folderId}" style="display: none;">
+                <div class="folder-contents" id="${folderId}" style="display: block;">
                     ${category.chapters.map(chapter => renderChapterItem(chapter)).join('')}
                 </div>
             </div>
