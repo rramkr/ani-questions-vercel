@@ -1986,11 +1986,23 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
 }
 
 function renderMatchQuestion(q, index, showUnansweredHighlight = false) {
-    const leftItems = q.left_items || [];
-    const rightItems = q.right_items || [];
+    // Support both formats: pairs array or left_items/right_items arrays
+    const pairs = q.pairs || [];
+    let leftItems = q.left_items || [];
+    let rightItems = q.right_items || [];
+
+    // If pairs exist, extract left and right items from them
+    if (pairs.length > 0 && leftItems.length === 0) {
+        leftItems = pairs.map(p => p.left);
+        // Shuffle right items for the question display
+        rightItems = [...pairs.map(p => p.right)].sort(() => Math.random() - 0.5);
+    }
+
     const userAnswer = state.userAnswers[q.id] || '';
+    const questionText = q.question || q.instruction || 'Match the following:';
+
     return `
-        <div class="question-text">${q.question}</div>
+        <div class="question-text">${questionText}</div>
         <div class="match-grid">
             <div class="match-column">
                 <h4>Column A</h4>
@@ -2322,7 +2334,6 @@ function renderTextAnswer(q) {
 function renderMatchAnswer(q) {
     const pairs = q.pairs || [];
     const correctMatches = q.correct_matches || {};
-    const justification = q.source_section ? `Source: "${q.source_section}"` : '';
 
     // Handle both formats: pairs array or correct_matches object
     let matchesHtml = '';
@@ -2334,6 +2345,11 @@ function renderMatchAnswer(q) {
         ).join('');
     }
 
+    // Only show source section if it exists
+    const sourceHtml = q.source_section
+        ? `<div class="explanation"><strong>Section:</strong> ${q.source_section}</div>`
+        : '';
+
     return `
         <div class="correct-answer">
             <strong>Correct Matches:</strong>
@@ -2341,7 +2357,7 @@ function renderMatchAnswer(q) {
                 ${matchesHtml}
             </div>
         </div>
-        <div class="explanation"><strong>Source:</strong> ${justification}</div>
+        ${sourceHtml}
     `;
 }
 
