@@ -158,7 +158,7 @@ When generating exam_practice.json questions:
    - Imperative sentences (Let the door be opened)
    - Sentences with "by whom" / "who"
    - Sentences with nobody/nothing/someone
-4. **Target: 25-30 questions** for good practice coverage
+4. **Target: 100+ questions** for comprehensive practice coverage
 
 ---
 

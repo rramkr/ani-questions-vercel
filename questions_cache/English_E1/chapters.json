@@ -2,22 +2,60 @@
   "subject": "English E1",
   "chapters": [
     {
-      "name": "Idioms and Proverbs",
-      "slug": "Idioms and Proverbs",
+      "name": "Active and Passive Voice",
+      "slug": "Active and Passive Voice",
       "has_questions": true,
-      "icon": "💬"
+      "icon": "🔄",
+      "category": "Grammar",
+      "category_icon": "📝"
     },
     {
       "name": "Sentences",
       "slug": "Sentences",
       "has_questions": true,
-      "icon": "📝"
+      "icon": "📝",
+      "category": "Grammar",
+      "category_icon": "📝"
     },
     {
-      "name": "Active and Passive Voice",
-      "slug": "Active and Passive Voice",
+      "name": "Idioms and Proverbs",
+      "slug": "Idioms and Proverbs",
       "has_questions": true,
-      "icon": "🔄"
+      "icon": "💬",
+      "category": "Grammar",
+      "category_icon": "📝"
+    },
+    {
+      "name": "Directive Essay",
+      "slug": "Directive Essay",
+      "has_questions": false,
+      "icon": "✍️",
+      "category": "Directive Essay",
+      "category_icon": "✍️"
+    },
+    {
+      "name": "Picture Comprehension",
+      "slug": "Picture Comprehension",
+      "has_questions": false,
+      "icon": "🖼️",
+      "category": "Picture Comprehension",
+      "category_icon": "🖼️"
+    },
+    {
+      "name": "Informal Letter",
+      "slug": "Informal Letter",
+      "has_questions": false,
+      "icon": "✉️",
+      "category": "Informal Letter",
+      "category_icon": "✉️"
+    },
+    {
+      "name": "Unseen Comprehension",
+      "slug": "Unseen Comprehension",
+      "has_questions": false,
+      "icon": "📖",
+      "category": "Unseen Comprehension",
+      "category_icon": "📖"
     }
   ]
 }

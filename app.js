@@ -1205,21 +1205,62 @@ function renderChapters(chapters) {
         return;
     }
 
-    elements.chaptersList.innerHTML = motivationalBanner + availableChapters.map((chapter, index) => {
-        // Use icon from chapter data, fallback to default
-        const emoji = chapter.icon || '📚';
+    // Group chapters by category
+    const categoryMap = new Map();
+    const uncategorized = [];
 
-        return `
-            <div class="chapter-item"
-                 onclick="loadSections(${JSON.stringify(chapter).replace(/"/g, '&quot;')})">
-                <div class="chapter-info">
-                    <span class="chapter-emoji">${emoji}</span>
-                    <span class="chapter-name">${chapter.name}</span>
+    availableChapters.forEach(chapter => {
+        if (chapter.category) {
+            if (!categoryMap.has(chapter.category)) {
+                categoryMap.set(chapter.category, {
+                    name: chapter.category,
+                    icon: chapter.category_icon || '📁',
+                    chapters: []
+                });
+            }
+            categoryMap.get(chapter.category).chapters.push(chapter);
+        } else {
+            uncategorized.push(chapter);
+        }
+    });
+
+    let html = motivationalBanner;
+
+    // Render categorized chapters
+    categoryMap.forEach((category, categoryName) => {
+        html += `
+            <div class="chapter-category">
+                <div class="category-header">
+                    <span class="category-icon">${category.icon}</span>
+                    <span class="category-name">${category.name}</span>
                 </div>
-                <span class="chapter-badge ready">Ready to Play!</span>
+                <div class="category-chapters">
+                    ${category.chapters.map(chapter => renderChapterItem(chapter)).join('')}
+                </div>
             </div>
         `;
-    }).join('');
+    });
+
+    // Render uncategorized chapters
+    if (uncategorized.length > 0) {
+        html += uncategorized.map(chapter => renderChapterItem(chapter)).join('');
+    }
+
+    elements.chaptersList.innerHTML = html;
+}
+
+function renderChapterItem(chapter) {
+    const emoji = chapter.icon || '📚';
+    return `
+        <div class="chapter-item"
+             onclick="loadSections(${JSON.stringify(chapter).replace(/"/g, '&quot;')})">
+            <div class="chapter-info">
+                <span class="chapter-emoji">${emoji}</span>
+                <span class="chapter-name">${chapter.name}</span>
+            </div>
+            <span class="chapter-badge ready">Ready to Play!</span>
+        </div>
+    `;
 }
 
 function renderSections(sections) {
