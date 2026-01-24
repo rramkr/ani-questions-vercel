@@ -1192,10 +1192,8 @@ function renderChapters(chapters) {
         </div>
     `;
 
-    // Filter to only show chapters that have questions
-    const availableChapters = chapters.filter(chapter => chapter.has_questions);
-
-    if (availableChapters.length === 0) {
+    // Show all chapters (not just those with questions)
+    if (chapters.length === 0) {
         elements.chaptersList.innerHTML = `
             <div class="no-chapters-message">
                 <div class="no-chapters-icon">📚</div>
@@ -1209,7 +1207,7 @@ function renderChapters(chapters) {
     const categoryMap = new Map();
     const uncategorized = [];
 
-    availableChapters.forEach(chapter => {
+    chapters.forEach(chapter => {
         if (chapter.category) {
             if (!categoryMap.has(chapter.category)) {
                 categoryMap.set(chapter.category, {
@@ -1251,14 +1249,21 @@ function renderChapters(chapters) {
 
 function renderChapterItem(chapter) {
     const emoji = chapter.icon || '📚';
+    const hasQuestions = chapter.has_questions;
+    const badgeClass = hasQuestions ? 'ready' : 'coming-soon';
+    const badgeText = hasQuestions ? 'Ready to Play!' : 'Coming Soon';
+    const clickHandler = hasQuestions
+        ? `onclick="loadSections(${JSON.stringify(chapter).replace(/"/g, '&quot;')})"`
+        : '';
+    const itemClass = hasQuestions ? 'chapter-item' : 'chapter-item disabled';
+
     return `
-        <div class="chapter-item"
-             onclick="loadSections(${JSON.stringify(chapter).replace(/"/g, '&quot;')})">
+        <div class="${itemClass}" ${clickHandler}>
             <div class="chapter-info">
                 <span class="chapter-emoji">${emoji}</span>
                 <span class="chapter-name">${chapter.name}</span>
             </div>
-            <span class="chapter-badge ready">Ready to Play!</span>
+            <span class="chapter-badge ${badgeClass}">${badgeText}</span>
         </div>
     `;
 }
