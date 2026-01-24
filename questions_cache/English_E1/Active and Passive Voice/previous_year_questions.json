@@ -4,43 +4,43 @@
   "type": "previous_year_questions",
   "questions": [
     {
-      "id": "apv_pyq_identify_1",
-      "type": "mcq",
+      "id": "apv_pyq_1",
+      "type": "fill_in_blanks",
       "year": "Annual Exam 2020",
       "question": "State whether the sentence is in 'active' or 'passive' voice: 'A mistake was made by me.'",
-      "options": ["Active voice", "Passive voice"],
-      "correct_answer": "Passive voice",
-      "explanation": "The sentence is in passive voice because the subject 'mistake' receives the action. The structure 'was made' (was + V3) and the agent 'by me' are indicators of passive voice."
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "The subject 'mistake' receives the action. Structure: was + V3 (was made) with 'by me' indicates passive voice."
     },
     {
-      "id": "apv_pyq_identify_2",
-      "type": "mcq",
+      "id": "apv_pyq_2",
+      "type": "fill_in_blanks",
       "year": "Annual Exam 2020",
       "question": "State whether the sentence is in 'active' or 'passive' voice: 'Lata sang a song in English.'",
-      "options": ["Active voice", "Passive voice"],
-      "correct_answer": "Active voice",
-      "explanation": "The sentence is in active voice because the subject 'Lata' performs the action of singing. The verb 'sang' is in simple past active form."
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'Lata' performs the action of singing. Simple past active form."
     },
     {
-      "id": "apv_pyq_identify_3",
-      "type": "mcq",
+      "id": "apv_pyq_3",
+      "type": "fill_in_blanks",
       "year": "Annual Exam 2020",
       "question": "State whether the sentence is in 'active' or 'passive' voice: 'She was brought up by her aunt.'",
-      "options": ["Active voice", "Passive voice"],
-      "correct_answer": "Passive voice",
-      "explanation": "The sentence is in passive voice. The subject 'She' receives the action of being brought up. The structure 'was brought up' (was + V3) and 'by her aunt' indicate passive voice."
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "The subject 'She' receives the action. Structure: was + V3 (was brought up) with 'by her aunt' indicates passive voice."
     },
     {
-      "id": "apv_pyq_identify_4",
-      "type": "mcq",
+      "id": "apv_pyq_4",
+      "type": "fill_in_blanks",
       "year": "Annual Exam 2020",
       "question": "State whether the sentence is in 'active' or 'passive' voice: 'I opened the door for the guests.'",
-      "options": ["Active voice", "Passive voice"],
-      "correct_answer": "Active voice",
-      "explanation": "The sentence is in active voice because the subject 'I' performs the action of opening. The verb 'opened' is simple past active."
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'I' performs the action of opening. Simple past active form."
     },
     {
-      "id": "apv_pyq_convert_1",
+      "id": "apv_pyq_5",
       "type": "short_answer",
       "year": "Annual Exam 2020",
       "question": "Change from active voice to passive voice: 'I am bending the branch.'",
@@ -48,15 +48,15 @@
       "key_points": ["Present continuous: am bending → is being bent", "Object 'branch' becomes subject", "Subject 'I' becomes 'by me'"]
     },
     {
-      "id": "apv_pyq_convert_2",
+      "id": "apv_pyq_6",
       "type": "short_answer",
       "year": "Annual Exam 2020",
       "question": "Change from passive voice to active voice: 'He was given a reward.'",
       "answer": "Someone gave him a reward. / They gave him a reward.",
-      "key_points": ["Simple past passive → simple past active", "'He' (subject) becomes 'him' (indirect object)", "Add subject like 'Someone' or 'They'"]
+      "key_points": ["Simple past passive → simple past active", "'He' becomes indirect object 'him'", "Add general subject like 'Someone' or 'They'"]
     },
     {
-      "id": "apv_pyq_convert_3",
+      "id": "apv_pyq_7",
       "type": "short_answer",
       "year": "Annual Exam 2020",
       "question": "Change from active voice to passive voice: 'Is she boiling potatoes?'",
@@ -64,98 +64,12 @@
       "key_points": ["Present continuous interrogative", "is...boiling → are...being boiled", "Object 'potatoes' becomes subject"]
     },
     {
-      "id": "apv_pyq_convert_4",
+      "id": "apv_pyq_8",
       "type": "short_answer",
       "year": "Annual Exam 2020",
       "question": "Change from active voice to passive voice: 'She sent invitation cards to her friends.'",
       "answer": "Invitation cards were sent to her friends by her.",
       "key_points": ["Simple past: sent → were sent", "Direct object 'invitation cards' becomes subject", "'by her' at the end"]
-    },
-    {
-      "id": "apv_pyq_exam_1",
-      "type": "mcq",
-      "year": "Exam Practice",
-      "question": "Choose the correct passive form of: 'The teacher is explaining the lesson.'",
-      "options": ["The lesson is explained by the teacher.", "The lesson is being explained by the teacher.", "The lesson was being explained by the teacher.", "The lesson has been explained by the teacher."],
-      "correct_answer": "The lesson is being explained by the teacher.",
-      "explanation": "Present continuous active (is explaining) becomes present continuous passive (is being explained). The structure is: is/am/are + being + V3."
-    },
-    {
-      "id": "apv_pyq_exam_2",
-      "type": "mcq",
-      "year": "Exam Practice",
-      "question": "Choose the correct passive form of: 'They have completed the project.'",
-      "options": ["The project was completed by them.", "The project is completed by them.", "The project has been completed by them.", "The project had been completed by them."],
-      "correct_answer": "The project has been completed by them.",
-      "explanation": "Present perfect active (have completed) becomes present perfect passive (has been completed). The structure is: has/have + been + V3."
-    },
-    {
-      "id": "apv_pyq_exam_3",
-      "type": "mcq",
-      "year": "Exam Practice",
-      "question": "Choose the correct passive form of: 'Someone stole my bicycle yesterday.'",
-      "options": ["My bicycle was stolen yesterday.", "My bicycle is stolen yesterday.", "My bicycle has been stolen yesterday.", "My bicycle was being stolen yesterday."],
-      "correct_answer": "My bicycle was stolen yesterday.",
-      "explanation": "Simple past active (stole) becomes simple past passive (was stolen). 'By someone' is omitted as the agent is unknown."
-    },
-    {
-      "id": "apv_pyq_exam_4",
-      "type": "mcq",
-      "year": "Exam Practice",
-      "question": "Choose the correct passive form of: 'The children will sing the national anthem.'",
-      "options": ["The national anthem will be sung by the children.", "The national anthem is sung by the children.", "The national anthem was sung by the children.", "The national anthem will be singing by the children."],
-      "correct_answer": "The national anthem will be sung by the children.",
-      "explanation": "Simple future active (will sing) becomes simple future passive (will be sung). The structure is: will + be + V3."
-    },
-    {
-      "id": "apv_pyq_exam_5",
-      "type": "short_answer",
-      "year": "Exam Practice",
-      "question": "Change to passive voice: 'The gardener is watering the plants.'",
-      "answer": "The plants are being watered by the gardener.",
-      "key_points": ["Present continuous: is watering → are being watered", "Object 'plants' becomes subject", "Subject becomes agent with 'by'"]
-    },
-    {
-      "id": "apv_pyq_exam_6",
-      "type": "short_answer",
-      "year": "Exam Practice",
-      "question": "Change to passive voice: 'My mother had prepared dinner before we arrived.'",
-      "answer": "Dinner had been prepared by my mother before we arrived.",
-      "key_points": ["Past perfect: had prepared → had been prepared", "Time clause remains unchanged"]
-    },
-    {
-      "id": "apv_pyq_exam_7",
-      "type": "short_answer",
-      "year": "Exam Practice",
-      "question": "Change to active voice: 'The window was broken by the naughty boys.'",
-      "answer": "The naughty boys broke the window.",
-      "key_points": ["Simple past passive → simple past active", "Agent 'the naughty boys' becomes subject", "was broken → broke"]
-    },
-    {
-      "id": "apv_pyq_exam_8",
-      "type": "short_answer",
-      "year": "Exam Practice",
-      "question": "Change to passive voice: 'The doctor can cure this disease.'",
-      "answer": "This disease can be cured by the doctor.",
-      "key_points": ["Modal verb passive: can cure → can be cured", "Modal + be + V3 structure"]
-    },
-    {
-      "id": "apv_pyq_exam_9",
-      "type": "mcq",
-      "year": "Exam Practice",
-      "question": "Which sentence is in passive voice?",
-      "options": ["She writes beautiful poems.", "The cat caught a mouse.", "The letter was posted by her.", "They are playing football."],
-      "correct_answer": "The letter was posted by her.",
-      "explanation": "Only 'The letter was posted by her' is passive. The subject 'letter' receives the action, and 'was posted' (was + V3) is the passive verb form."
-    },
-    {
-      "id": "apv_pyq_exam_10",
-      "type": "mcq",
-      "year": "Exam Practice",
-      "question": "Which sentence CANNOT be changed to passive voice?",
-      "options": ["He reads books.", "She sleeps early.", "They eat mangoes.", "We watch movies."],
-      "correct_answer": "She sleeps early.",
-      "explanation": "'Sleep' is an intransitive verb (no object), so it cannot be changed to passive voice. Only transitive verbs (with objects) can be made passive."
     }
   ]
 }

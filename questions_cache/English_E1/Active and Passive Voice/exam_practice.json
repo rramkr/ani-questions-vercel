@@ -1,0 +1,231 @@
+{
+  "subject": "English E1",
+  "chapter": "Active and Passive Voice",
+  "type": "exam_practice",
+  "questions": [
+    {
+      "id": "apv_ep_1",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'The thief was caught by the police.'",
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "The subject 'thief' receives the action. Structure: was + V3 (was caught) with 'by the police' indicates passive voice."
+    },
+    {
+      "id": "apv_ep_2",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'The children are playing football in the park.'",
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'children' performs the action of playing. Present continuous active form."
+    },
+    {
+      "id": "apv_ep_3",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'The letter has been posted by her.'",
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "The subject 'letter' receives the action. Structure: has been + V3 (has been posted) indicates present perfect passive."
+    },
+    {
+      "id": "apv_ep_4",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'Mother cooks delicious food every day.'",
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'Mother' performs the action of cooking. Simple present active form."
+    },
+    {
+      "id": "apv_ep_5",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'The window was broken by the naughty boys.'",
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "The subject 'window' receives the action. Structure: was + V3 (was broken) with agent indicates passive voice."
+    },
+    {
+      "id": "apv_ep_6",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'She will complete the project tomorrow.'",
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'She' performs the action. Simple future active form (will + V1)."
+    },
+    {
+      "id": "apv_ep_7",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'The cake is being baked by my grandmother.'",
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "The subject 'cake' receives the action. Structure: is being + V3 indicates present continuous passive."
+    },
+    {
+      "id": "apv_ep_8",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'The teacher praised the students for their hard work.'",
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'teacher' performs the action of praising. Simple past active form."
+    },
+    {
+      "id": "apv_ep_9",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'The gardener is watering the plants.'",
+      "answer": "The plants are being watered by the gardener.",
+      "key_points": ["Present continuous: is watering → are being watered", "Object 'plants' becomes subject", "Subject becomes agent with 'by'"]
+    },
+    {
+      "id": "apv_ep_10",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'Someone has stolen my bicycle.'",
+      "answer": "My bicycle has been stolen.",
+      "key_points": ["Present perfect: has stolen → has been stolen", "'By someone' can be omitted as agent is unknown"]
+    },
+    {
+      "id": "apv_ep_11",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'The children will sing the national anthem.'",
+      "answer": "The national anthem will be sung by the children.",
+      "key_points": ["Simple future: will sing → will be sung", "Structure: will + be + V3"]
+    },
+    {
+      "id": "apv_ep_12",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'Did the mechanic repair the car?'",
+      "answer": "Was the car repaired by the mechanic?",
+      "key_points": ["Simple past interrogative", "Did...repair → Was...repaired", "Question form maintained"]
+    },
+    {
+      "id": "apv_ep_13",
+      "type": "short_answer",
+      "question": "Change from passive voice to active voice: 'The homework was completed by the students.'",
+      "answer": "The students completed the homework.",
+      "key_points": ["Simple past passive → simple past active", "Agent becomes subject", "was completed → completed"]
+    },
+    {
+      "id": "apv_ep_14",
+      "type": "short_answer",
+      "question": "Change from passive voice to active voice: 'English is spoken all over the world.'",
+      "answer": "People speak English all over the world.",
+      "key_points": ["Add general subject 'People'", "is spoken → speak", "When agent is missing, use general subject"]
+    },
+    {
+      "id": "apv_ep_15",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'My mother had prepared dinner before we arrived.'",
+      "answer": "Dinner had been prepared by my mother before we arrived.",
+      "key_points": ["Past perfect: had prepared → had been prepared", "Time clause remains unchanged"]
+    },
+    {
+      "id": "apv_ep_16",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'The doctor can cure this disease.'",
+      "answer": "This disease can be cured by the doctor.",
+      "key_points": ["Modal verb passive: can cure → can be cured", "Structure: modal + be + V3"]
+    },
+    {
+      "id": "apv_ep_17",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'All the cookies had been eaten before I arrived.'",
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "The subject 'cookies' receives the action. Structure: had been + V3 indicates past perfect passive."
+    },
+    {
+      "id": "apv_ep_18",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'The manager will announce the results tomorrow.'",
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'manager' performs the action. Simple future active form."
+    },
+    {
+      "id": "apv_ep_19",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'They are building a new bridge across the river.'",
+      "answer": "A new bridge is being built across the river (by them).",
+      "key_points": ["Present continuous: are building → is being built", "'By them' is optional"]
+    },
+    {
+      "id": "apv_ep_20",
+      "type": "short_answer",
+      "question": "Change from passive voice to active voice: 'The match was won by our team.'",
+      "answer": "Our team won the match.",
+      "key_points": ["Simple past passive → simple past active", "Agent 'our team' becomes subject"]
+    },
+    {
+      "id": "apv_ep_21",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'The book must be returned to the library.'",
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "Modal passive structure: must + be + V3. The subject 'book' receives the action."
+    },
+    {
+      "id": "apv_ep_22",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'She has written a beautiful poem.'",
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'She' performs the action. Present perfect active form (has + V3)."
+    },
+    {
+      "id": "apv_ep_23",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'Who wrote this letter?'",
+      "answer": "By whom was this letter written?",
+      "key_points": ["Interrogative with 'who'", "'Who' changes to 'By whom'", "wrote → was written"]
+    },
+    {
+      "id": "apv_ep_24",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'Nobody can answer this question.'",
+      "answer": "This question cannot be answered by anybody.",
+      "key_points": ["'Nobody' changes to 'by anybody'", "'cannot' in passive", "Modal passive structure"]
+    },
+    {
+      "id": "apv_ep_25",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'The news was being broadcast when the power went off.'",
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "Structure: was being + V3 indicates past continuous passive."
+    },
+    {
+      "id": "apv_ep_26",
+      "type": "short_answer",
+      "question": "Change from passive voice to active voice: 'The injured were taken to the hospital.'",
+      "answer": "Someone took the injured to the hospital. / They took the injured to the hospital.",
+      "key_points": ["Add general subject when agent is missing", "were taken → took"]
+    },
+    {
+      "id": "apv_ep_27",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'The committee will have finished the report by Friday.'",
+      "answer": "The report will have been finished by the committee by Friday.",
+      "key_points": ["Future perfect: will have finished → will have been finished", "Structure: will + have + been + V3"]
+    },
+    {
+      "id": "apv_ep_28",
+      "type": "fill_in_blanks",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'We should help the poor.'",
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'We' performs the action. Modal + V1 is active voice."
+    },
+    {
+      "id": "apv_ep_29",
+      "type": "short_answer",
+      "question": "Change from active voice to passive voice: 'Open the door.'",
+      "answer": "Let the door be opened.",
+      "key_points": ["Imperative sentence", "Structure: Let + object + be + V3"]
+    },
+    {
+      "id": "apv_ep_30",
+      "type": "short_answer",
+      "question": "Change from passive voice to active voice: 'Let the work be done immediately.'",
+      "answer": "Do the work immediately.",
+      "key_points": ["Imperative passive → imperative active", "Let...be done → Do"]
+    }
+  ]
+}
