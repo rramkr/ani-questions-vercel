@@ -1221,27 +1221,43 @@ function renderChapters(chapters) {
 
     let html = motivationalBanner;
 
-    // Render categorized chapters
+    // Render categorized chapters as collapsible folders
     categoryMap.forEach((category, categoryName) => {
+        const folderId = `folder-${categoryName.replace(/\s+/g, '-').toLowerCase()}`;
         html += `
-            <div class="chapter-category" style="background: #e0f0ff; border: 3px solid #0066cc; margin-bottom: 20px;">
-                <div class="category-header" style="background: #0066cc; color: white; padding: 15px; font-size: 1.5rem; font-weight: bold;">
-                    <span class="category-icon">${category.icon}</span>
-                    <span class="category-name">${category.name}</span>
+            <div class="chapter-folder">
+                <div class="folder-header" onclick="toggleFolder('${folderId}')">
+                    <span class="folder-arrow" id="${folderId}-arrow">▶</span>
+                    <span class="folder-icon">${category.icon}</span>
+                    <span class="folder-name">${category.name}</span>
+                    <span class="folder-count">${category.chapters.length} topics</span>
                 </div>
-                <div class="category-chapters">
+                <div class="folder-contents" id="${folderId}" style="display: none;">
                     ${category.chapters.map(chapter => renderChapterItem(chapter)).join('')}
                 </div>
             </div>
         `;
     });
 
-    // Render uncategorized chapters
+    // Render uncategorized chapters directly (not in folders)
     if (uncategorized.length > 0) {
         html += uncategorized.map(chapter => renderChapterItem(chapter)).join('');
     }
 
     elements.chaptersList.innerHTML = html;
+}
+
+// Toggle folder open/close
+function toggleFolder(folderId) {
+    const contents = document.getElementById(folderId);
+    const arrow = document.getElementById(folderId + '-arrow');
+    if (contents.style.display === 'none') {
+        contents.style.display = 'block';
+        arrow.textContent = '▼';
+    } else {
+        contents.style.display = 'none';
+        arrow.textContent = '▶';
+    }
 }
 
 function renderChapterItem(chapter) {
