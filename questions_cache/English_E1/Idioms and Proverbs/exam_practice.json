@@ -1,0 +1,756 @@
+{
+  "subject": "English E1",
+  "chapter": "Idioms and Proverbs",
+  "type": "exam_practice",
+  "questions": [
+    {
+      "id": "ip_ep_1",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'A stitch in time saves ___.'",
+      "answer": "nine",
+      "acceptable_answers": ["nine", "9"],
+      "explanation": "This proverb means fixing a small problem now prevents it from becoming a bigger problem later."
+    },
+    {
+      "id": "ip_ep_2",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'Prevention is better than ___.'",
+      "answer": "cure",
+      "acceptable_answers": ["cure"],
+      "explanation": "It's easier to stop something bad from happening than to repair the damage after it has happened."
+    },
+    {
+      "id": "ip_ep_3",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'The early bird catches the ___.'",
+      "answer": "worm",
+      "acceptable_answers": ["worm"],
+      "explanation": "Those who act quickly or arrive first have the best chance of success."
+    },
+    {
+      "id": "ip_ep_4",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'Birds of a feather flock ___.'",
+      "answer": "together",
+      "acceptable_answers": ["together"],
+      "explanation": "People with similar interests, tastes, or characteristics tend to associate with each other."
+    },
+    {
+      "id": "ip_ep_5",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'A friend in need is a friend ___.'",
+      "answer": "indeed",
+      "acceptable_answers": ["indeed"],
+      "explanation": "A true friend is one who helps you when you are in trouble."
+    },
+    {
+      "id": "ip_ep_6",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'Make hay while the sun ___.'",
+      "answer": "shines",
+      "acceptable_answers": ["shines"],
+      "explanation": "Take advantage of favorable conditions while they last."
+    },
+    {
+      "id": "ip_ep_7",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'A burnt child dreads the ___.'",
+      "answer": "fire",
+      "acceptable_answers": ["fire"],
+      "explanation": "Someone who has had a bad experience is very cautious about similar situations."
+    },
+    {
+      "id": "ip_ep_8",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'Still waters run ___.'",
+      "answer": "deep",
+      "acceptable_answers": ["deep"],
+      "explanation": "A quiet person may have deep thoughts or hidden talents."
+    },
+    {
+      "id": "ip_ep_9",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'A fool and his money are soon ___.'",
+      "answer": "parted",
+      "acceptable_answers": ["parted"],
+      "explanation": "Foolish people spend money carelessly and quickly become poor."
+    },
+    {
+      "id": "ip_ep_10",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'Nothing ventured, nothing ___.'",
+      "answer": "gained",
+      "acceptable_answers": ["gained"],
+      "explanation": "You cannot achieve anything without taking risks."
+    },
+    {
+      "id": "ip_ep_11",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'The proof of the pudding is in the ___.'",
+      "answer": "eating",
+      "acceptable_answers": ["eating"],
+      "explanation": "The true value or quality of something can only be judged when it is put to use."
+    },
+    {
+      "id": "ip_ep_12",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'A new broom sweeps ___.'",
+      "answer": "clean",
+      "acceptable_answers": ["clean"],
+      "explanation": "A new person in a job tends to make many changes at first."
+    },
+    {
+      "id": "ip_ep_13",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'Hard work always pays ___.'",
+      "answer": "off",
+      "acceptable_answers": ["off"],
+      "explanation": "If you work hard, you will eventually be rewarded for your efforts."
+    },
+    {
+      "id": "ip_ep_14",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'You can take a horse to water, but you can't make it ___.'",
+      "answer": "drink",
+      "acceptable_answers": ["drink"],
+      "explanation": "You can give someone an opportunity, but you cannot force them to take it."
+    },
+    {
+      "id": "ip_ep_15",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'Tall oaks from small acorns ___.'",
+      "answer": "grow",
+      "acceptable_answers": ["grow"],
+      "explanation": "Great things can have small beginnings."
+    },
+    {
+      "id": "ip_ep_16",
+      "type": "short_answer",
+      "question": "What does the idiom 'let the cat out of the bag' mean?",
+      "answer": "It means to reveal a secret accidentally or carelessly.",
+      "key_points": ["reveal a secret", "accidentally or carelessly disclose information"]
+    },
+    {
+      "id": "ip_ep_17",
+      "type": "short_answer",
+      "question": "What does the idiom 'on cloud nine' mean?",
+      "answer": "It means to be extremely happy or elated.",
+      "key_points": ["extremely happy", "elated", "overjoyed"]
+    },
+    {
+      "id": "ip_ep_18",
+      "type": "short_answer",
+      "question": "What does the idiom 'take the bull by the horns' mean?",
+      "answer": "It means to face a difficult situation directly and with courage.",
+      "key_points": ["face difficulty boldly", "deal with problem directly", "act decisively"]
+    },
+    {
+      "id": "ip_ep_19",
+      "type": "short_answer",
+      "question": "What does the idiom 'face the music' mean?",
+      "answer": "It means to accept the unpleasant consequences of one's actions.",
+      "key_points": ["accept consequences", "face punishment", "take responsibility"]
+    },
+    {
+      "id": "ip_ep_20",
+      "type": "short_answer",
+      "question": "What does the idiom 'hold the fort' mean?",
+      "answer": "It means to take care of an organization or business when the person in charge is away.",
+      "key_points": ["take charge temporarily", "manage in someone's absence"]
+    },
+    {
+      "id": "ip_ep_21",
+      "type": "short_answer",
+      "question": "What does the idiom 'paddle one's own canoe' mean?",
+      "answer": "It means to do something without anyone's help or interference; to be independent.",
+      "key_points": ["be independent", "self-reliant", "manage on your own"]
+    },
+    {
+      "id": "ip_ep_22",
+      "type": "short_answer",
+      "question": "What does the idiom 'put the cart before the horse' mean?",
+      "answer": "It means to do things in the wrong order.",
+      "key_points": ["wrong order", "reverse sequence", "prioritize incorrectly"]
+    },
+    {
+      "id": "ip_ep_23",
+      "type": "short_answer",
+      "question": "What does the idiom 'make a beeline for' mean?",
+      "answer": "It means to go directly towards something without deviation.",
+      "key_points": ["go directly", "straight path", "head immediately towards"]
+    },
+    {
+      "id": "ip_ep_24",
+      "type": "short_answer",
+      "question": "What does the idiom 'a dog in the manger' mean?",
+      "answer": "It means someone who prevents others from having or using what they themselves don't need or use.",
+      "key_points": ["prevent others from using", "selfish behavior", "don't need it but won't share"]
+    },
+    {
+      "id": "ip_ep_25",
+      "type": "short_answer",
+      "question": "What does the idiom 'keep one on their toes' mean?",
+      "answer": "It means to be always ready to deal with anything that might happen; to stay alert.",
+      "key_points": ["stay alert", "be prepared", "ready for anything"]
+    },
+    {
+      "id": "ip_ep_26",
+      "type": "short_answer",
+      "question": "What does the idiom 'water off a duck's back' mean?",
+      "answer": "It means criticism or insults that have no effect on someone.",
+      "key_points": ["no effect", "criticism doesn't bother", "unaffected by negativity"]
+    },
+    {
+      "id": "ip_ep_27",
+      "type": "short_answer",
+      "question": "What does the idiom 'be all ears' mean?",
+      "answer": "It means to listen very attentively with great interest.",
+      "key_points": ["listen attentively", "pay close attention", "eager to hear"]
+    },
+    {
+      "id": "ip_ep_28",
+      "type": "short_answer",
+      "question": "What does the idiom 'eager beaver' mean?",
+      "answer": "It means a person who is very enthusiastic and hard-working.",
+      "key_points": ["enthusiastic", "hard-working", "always eager to work"]
+    },
+    {
+      "id": "ip_ep_29",
+      "type": "short_answer",
+      "question": "What does the idiom 'barking up the wrong tree' mean?",
+      "answer": "It means pursuing the wrong course of action or looking in the wrong direction for a solution.",
+      "key_points": ["wrong approach", "mistaken direction", "incorrect pursuit"]
+    },
+    {
+      "id": "ip_ep_30",
+      "type": "short_answer",
+      "question": "What does the idiom 'get on your high horse' mean?",
+      "answer": "It means to behave in a superior or arrogant manner.",
+      "key_points": ["behave arrogantly", "act superior", "haughty behavior"]
+    },
+    {
+      "id": "ip_ep_31",
+      "type": "short_answer",
+      "question": "What does the proverb 'Prevention is better than cure' mean?",
+      "answer": "It means it is easier to stop something bad from happening than to repair the damage after it has occurred.",
+      "key_points": ["stop problems before they start", "easier to prevent than fix"]
+    },
+    {
+      "id": "ip_ep_32",
+      "type": "short_answer",
+      "question": "What does the proverb 'A stitch in time saves nine' mean?",
+      "answer": "It means fixing a small problem now prevents it from becoming a bigger problem later.",
+      "key_points": ["fix problems early", "small repairs prevent big ones"]
+    },
+    {
+      "id": "ip_ep_33",
+      "type": "short_answer",
+      "question": "What does the proverb 'The early bird catches the worm' mean?",
+      "answer": "It means those who act quickly or arrive first have the best chance of success.",
+      "key_points": ["early action brings success", "being prompt pays off"]
+    },
+    {
+      "id": "ip_ep_34",
+      "type": "short_answer",
+      "question": "What does the proverb 'Birds of a feather flock together' mean?",
+      "answer": "It means people with similar interests, tastes, or characteristics tend to associate with each other.",
+      "key_points": ["similar people group together", "like-minded people associate"]
+    },
+    {
+      "id": "ip_ep_35",
+      "type": "short_answer",
+      "question": "What does the proverb 'A friend in need is a friend indeed' mean?",
+      "answer": "It means a true friend is one who helps you when you are in trouble.",
+      "key_points": ["true friends help in difficult times", "real friends support during hardship"]
+    },
+    {
+      "id": "ip_ep_36",
+      "type": "short_answer",
+      "question": "Use the idiom 'on cloud nine' in a sentence.",
+      "answer": "Ravi was on cloud nine when he heard that he had topped the class examination.",
+      "key_points": ["sentence shows extreme happiness", "correct usage of idiom"]
+    },
+    {
+      "id": "ip_ep_37",
+      "type": "short_answer",
+      "question": "Use the idiom 'let the cat out of the bag' in a sentence.",
+      "answer": "Priya accidentally let the cat out of the bag about the surprise birthday party.",
+      "key_points": ["sentence shows revealing a secret", "accidental disclosure"]
+    },
+    {
+      "id": "ip_ep_38",
+      "type": "short_answer",
+      "question": "Use the idiom 'take the bull by the horns' in a sentence.",
+      "answer": "Instead of avoiding the problem, she decided to take the bull by the horns and speak to her teacher directly.",
+      "key_points": ["sentence shows facing difficulty boldly", "direct action"]
+    },
+    {
+      "id": "ip_ep_39",
+      "type": "short_answer",
+      "question": "Use the idiom 'face the music' in a sentence.",
+      "answer": "After breaking the window, the boy had to face the music when his parents came home.",
+      "key_points": ["sentence shows accepting consequences", "facing punishment"]
+    },
+    {
+      "id": "ip_ep_40",
+      "type": "short_answer",
+      "question": "Use the proverb 'A stitch in time saves nine' in a context.",
+      "answer": "When Meera noticed a small tear in her school bag, she fixed it immediately. As they say, a stitch in time saves nine - if she had waited, the tear would have become much bigger.",
+      "key_points": ["early repair", "prevents bigger problem"]
+    },
+    {
+      "id": "ip_ep_41",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'Like a ___ in a china shop' (meaning: clumsy or careless)",
+      "answer": "bull",
+      "acceptable_answers": ["bull"],
+      "explanation": "A bull in a china shop would break everything - this describes someone who is clumsy in delicate situations."
+    },
+    {
+      "id": "ip_ep_42",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'Like a bear with a sore ___' (meaning: very irritated)",
+      "answer": "head",
+      "acceptable_answers": ["head"],
+      "explanation": "Someone who is very irritated and in a bad mood."
+    },
+    {
+      "id": "ip_ep_43",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'Keep your nose to the ___' (meaning: keep working hard)",
+      "answer": "grindstone",
+      "acceptable_answers": ["grindstone"],
+      "explanation": "To continue working hard without taking a break."
+    },
+    {
+      "id": "ip_ep_44",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'Set the world on ___' (meaning: do something remarkable)",
+      "answer": "fire",
+      "acceptable_answers": ["fire"],
+      "explanation": "To do something remarkable or extraordinary that gains a lot of attention."
+    },
+    {
+      "id": "ip_ep_45",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'A red rag to a ___' (meaning: something that makes someone very angry)",
+      "answer": "bull",
+      "acceptable_answers": ["bull"],
+      "explanation": "Something that provokes anger or annoyance."
+    },
+    {
+      "id": "ip_ep_46",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'Cut a long story ___' (meaning: be precise)",
+      "answer": "short",
+      "acceptable_answers": ["short"],
+      "explanation": "To tell only the essential parts and get to the point."
+    },
+    {
+      "id": "ip_ep_47",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'Break every rule in the ___' (meaning: do something unacceptable)",
+      "answer": "book",
+      "acceptable_answers": ["book"],
+      "explanation": "To do something completely against all the rules."
+    },
+    {
+      "id": "ip_ep_48",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'Laugh up your ___' (meaning: have a secret laugh)",
+      "answer": "sleeve",
+      "acceptable_answers": ["sleeve"],
+      "explanation": "To be secretly amused, especially at someone else's misfortune."
+    },
+    {
+      "id": "ip_ep_49",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'Change horses in ___' (meaning: make changes during an ongoing activity)",
+      "answer": "midstream",
+      "acceptable_answers": ["midstream"],
+      "explanation": "To make major changes when already in the middle of something."
+    },
+    {
+      "id": "ip_ep_50",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'On the ___' (meaning: recovering from illness)",
+      "answer": "mend",
+      "acceptable_answers": ["mend"],
+      "explanation": "To be recovering from an illness or injury."
+    },
+    {
+      "id": "ip_ep_51",
+      "type": "short_answer",
+      "question": "Which proverb would you use when someone is afraid of fire after getting burned once?",
+      "answer": "A burnt child dreads the fire. This proverb applies because someone who has had a bad experience is naturally cautious about similar situations.",
+      "key_points": ["A burnt child dreads the fire", "learned from bad experience", "cautious behavior"]
+    },
+    {
+      "id": "ip_ep_52",
+      "type": "short_answer",
+      "question": "Which proverb would you use when advising someone to act quickly to take advantage of an opportunity?",
+      "answer": "Make hay while the sun shines. This means one should take advantage of favorable conditions while they last.",
+      "key_points": ["Make hay while the sun shines", "seize opportunity", "act during favorable time"]
+    },
+    {
+      "id": "ip_ep_53",
+      "type": "short_answer",
+      "question": "Which proverb would you use when someone's hard work finally brings success?",
+      "answer": "Hard work always pays off. This proverb reminds us that dedicated effort eventually leads to rewards.",
+      "key_points": ["Hard work always pays off", "effort brings reward", "persistence succeeds"]
+    },
+    {
+      "id": "ip_ep_54",
+      "type": "short_answer",
+      "question": "Which proverb would you use when a small business grows into a large company?",
+      "answer": "Tall oaks from small acorns grow. This proverb means that great things can have small beginnings.",
+      "key_points": ["Tall oaks from small acorns grow", "great from small beginnings"]
+    },
+    {
+      "id": "ip_ep_55",
+      "type": "short_answer",
+      "question": "Which proverb would you use when a friend helps you during difficult times?",
+      "answer": "A friend in need is a friend indeed. This proverb means a true friend is one who helps you when you are in trouble.",
+      "key_points": ["A friend in need is a friend indeed", "true friendship during hardship"]
+    },
+    {
+      "id": "ip_ep_56",
+      "type": "fill_in_blanks",
+      "question": "The darkest hour is just before the ___.",
+      "answer": "dawn",
+      "acceptable_answers": ["dawn"],
+      "explanation": "This proverb means that things often seem worst just before they get better."
+    },
+    {
+      "id": "ip_ep_57",
+      "type": "fill_in_blanks",
+      "question": "A bad workman blames his ___.",
+      "answer": "tools",
+      "acceptable_answers": ["tools"],
+      "explanation": "Someone who does poor work blames their equipment rather than their own lack of skill."
+    },
+    {
+      "id": "ip_ep_58",
+      "type": "fill_in_blanks",
+      "question": "A rising tide lifts all ___.",
+      "answer": "boats",
+      "acceptable_answers": ["boats"],
+      "explanation": "When something good happens to one, it often benefits everyone in the group."
+    },
+    {
+      "id": "ip_ep_59",
+      "type": "short_answer",
+      "question": "What does the idiom 'like a bull in a china shop' mean?",
+      "answer": "It means to be very clumsy or careless, especially in a delicate situation where you might break or damage things.",
+      "key_points": ["clumsy", "careless", "likely to cause damage"]
+    },
+    {
+      "id": "ip_ep_60",
+      "type": "short_answer",
+      "question": "What does the idiom 'keep your nose to the grindstone' mean?",
+      "answer": "It means to continue working hard without taking a break.",
+      "key_points": ["work hard", "persistent effort", "don't take breaks"]
+    },
+    {
+      "id": "ip_ep_61",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Barking up the wrong ___' (meaning: pursuing the wrong course)",
+      "answer": "tree",
+      "acceptable_answers": ["tree"],
+      "explanation": "Doing something that won't get the results you want."
+    },
+    {
+      "id": "ip_ep_62",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Get on your high ___' (meaning: behave arrogantly)",
+      "answer": "horse",
+      "acceptable_answers": ["horse"],
+      "explanation": "To behave in a superior or arrogant manner."
+    },
+    {
+      "id": "ip_ep_63",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Make a beeline ___' (meaning: go directly towards)",
+      "answer": "for",
+      "acceptable_answers": ["for"],
+      "explanation": "To go straight towards something without deviation."
+    },
+    {
+      "id": "ip_ep_64",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Water off a duck's ___' (meaning: no effect)",
+      "answer": "back",
+      "acceptable_answers": ["back"],
+      "explanation": "Criticism that has no effect on someone."
+    },
+    {
+      "id": "ip_ep_65",
+      "type": "short_answer",
+      "question": "Use the idiom 'hold the fort' in a sentence.",
+      "answer": "While the manager was on vacation, his assistant held the fort and managed all the daily operations.",
+      "key_points": ["taking charge temporarily", "managing in absence"]
+    },
+    {
+      "id": "ip_ep_66",
+      "type": "short_answer",
+      "question": "Use the idiom 'paddle one's own canoe' in a sentence.",
+      "answer": "After graduation, Rahul decided to paddle his own canoe and started his own business instead of joining the family firm.",
+      "key_points": ["independence", "doing things on one's own"]
+    },
+    {
+      "id": "ip_ep_67",
+      "type": "short_answer",
+      "question": "Use the idiom 'put the cart before the horse' in a sentence.",
+      "answer": "By buying furniture before finding a house, they were putting the cart before the horse.",
+      "key_points": ["doing things in wrong order", "improper sequence"]
+    },
+    {
+      "id": "ip_ep_68",
+      "type": "short_answer",
+      "question": "Use the idiom 'a dog in the manger' in a sentence.",
+      "answer": "He was acting like a dog in the manger - he didn't want the old bicycle but wouldn't let his brother use it either.",
+      "key_points": ["preventing others from using what you don't need"]
+    },
+    {
+      "id": "ip_ep_69",
+      "type": "short_answer",
+      "question": "Use the idiom 'water off a duck's back' in a sentence.",
+      "answer": "The criticism was like water off a duck's back to him - he simply didn't let negative comments affect him.",
+      "key_points": ["unaffected by criticism", "no effect"]
+    },
+    {
+      "id": "ip_ep_70",
+      "type": "short_answer",
+      "question": "Use the proverb 'Make hay while the sun shines' in a context.",
+      "answer": "The salesman decided to work extra hours during the festival season because, as the saying goes, you should make hay while the sun shines - the opportunity won't last forever.",
+      "key_points": ["seizing opportunity", "acting during favorable time"]
+    },
+    {
+      "id": "ip_ep_71",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Be all ___' (meaning: listen very attentively)",
+      "answer": "ears",
+      "acceptable_answers": ["ears"],
+      "explanation": "To listen very attentively with great interest."
+    },
+    {
+      "id": "ip_ep_72",
+      "type": "fill_in_blanks",
+      "question": "Complete: '___ beaver' (meaning: very enthusiastic person)",
+      "answer": "Eager",
+      "acceptable_answers": ["Eager", "eager", "An eager"],
+      "explanation": "A very enthusiastic and hard-working person."
+    },
+    {
+      "id": "ip_ep_73",
+      "type": "short_answer",
+      "question": "What does 'abide by' mean?",
+      "answer": "It means to follow or comply with rules, decisions, or agreements.",
+      "key_points": ["follow rules", "comply with", "accept and follow"]
+    },
+    {
+      "id": "ip_ep_74",
+      "type": "short_answer",
+      "question": "What does 'abstain from' mean?",
+      "answer": "It means to keep away from or refrain from something, especially something harmful.",
+      "key_points": ["keep away from", "refrain from", "avoid"]
+    },
+    {
+      "id": "ip_ep_75",
+      "type": "short_answer",
+      "question": "What is the difference between 'agree with' and 'agree to'?",
+      "answer": "'Agree with' means to have the same opinion as someone. 'Agree to' means to consent to a suggestion or proposal.",
+      "key_points": ["agree with = same opinion", "agree to = consent to suggestion"]
+    },
+    {
+      "id": "ip_ep_76",
+      "type": "short_answer",
+      "question": "What is the difference between 'compare to' and 'compare with'?",
+      "answer": "'Compare to' is used to note similarities between different things. 'Compare with' is used to compare things of the same class or category.",
+      "key_points": ["compare to = similarities between different things", "compare with = same category"]
+    },
+    {
+      "id": "ip_ep_77",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'He is addicted ___ video games.'",
+      "answer": "to",
+      "acceptable_answers": ["to"],
+      "explanation": "'Addicted to' means obsessed with or having a dependency on something."
+    },
+    {
+      "id": "ip_ep_78",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'She is capable ___ handling this task.'",
+      "answer": "of",
+      "acceptable_answers": ["of"],
+      "explanation": "'Capable of' means having the ability to do something."
+    },
+    {
+      "id": "ip_ep_79",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'We must abide ___ the rules.'",
+      "answer": "by",
+      "acceptable_answers": ["by"],
+      "explanation": "'Abide by' means to follow or comply with rules."
+    },
+    {
+      "id": "ip_ep_80",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'She is blind ___ his faults.'",
+      "answer": "to",
+      "acceptable_answers": ["to"],
+      "explanation": "'Blind to' means failing to notice or be aware of something."
+    },
+    {
+      "id": "ip_ep_81",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'He is bent ___ achieving success.'",
+      "answer": "on",
+      "acceptable_answers": ["on"],
+      "explanation": "'Bent on' means very determined to do something."
+    },
+    {
+      "id": "ip_ep_82",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'Beware ___ pickpockets.'",
+      "answer": "of",
+      "acceptable_answers": ["of"],
+      "explanation": "'Beware of' means to be cautious of something dangerous."
+    },
+    {
+      "id": "ip_ep_83",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'The book consists ___ ten chapters.'",
+      "answer": "of",
+      "acceptable_answers": ["of"],
+      "explanation": "'Consist of' means to be made up of or composed of."
+    },
+    {
+      "id": "ip_ep_84",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'She is content ___ her simple life.'",
+      "answer": "with",
+      "acceptable_answers": ["with"],
+      "explanation": "'Content with' means satisfied with something."
+    },
+    {
+      "id": "ip_ep_85",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'This differs ___ what I expected.'",
+      "answer": "from",
+      "acceptable_answers": ["from"],
+      "explanation": "'Differ from' means to be different from something."
+    },
+    {
+      "id": "ip_ep_86",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'She is engaged ___ social work.'",
+      "answer": "in",
+      "acceptable_answers": ["in"],
+      "explanation": "'Engaged in' means occupied or involved in an activity."
+    },
+    {
+      "id": "ip_ep_87",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'He is engaged ___ my cousin.'",
+      "answer": "to",
+      "acceptable_answers": ["to"],
+      "explanation": "'Engaged to' means formally agreed to marry someone."
+    },
+    {
+      "id": "ip_ep_88",
+      "type": "short_answer",
+      "question": "Use 'accede to' in a sentence.",
+      "answer": "The principal finally acceded to the students' request for an extra holiday.",
+      "key_points": ["agreed to", "consented to a request"]
+    },
+    {
+      "id": "ip_ep_89",
+      "type": "short_answer",
+      "question": "Use 'abstain from' in a sentence.",
+      "answer": "The doctor advised him to abstain from eating oily food.",
+      "key_points": ["avoid", "refrain from"]
+    },
+    {
+      "id": "ip_ep_90",
+      "type": "short_answer",
+      "question": "Use 'approve of' in a sentence.",
+      "answer": "Her parents did not approve of her decision to drop out of college.",
+      "key_points": ["have positive feeling towards", "support or agree with"]
+    },
+    {
+      "id": "ip_ep_91",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'I do not approve ___ his behavior.'",
+      "answer": "of",
+      "acceptable_answers": ["of"],
+      "explanation": "'Approve of' means to have a positive feeling towards something."
+    },
+    {
+      "id": "ip_ep_92",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'He was accompanied ___ his wife.'",
+      "answer": "by",
+      "acceptable_answers": ["by"],
+      "explanation": "'Accompanied by' means to go with someone."
+    },
+    {
+      "id": "ip_ep_93",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'She is accustomed ___ working late.'",
+      "answer": "to",
+      "acceptable_answers": ["to"],
+      "explanation": "'Accustomed to' means used to something."
+    },
+    {
+      "id": "ip_ep_94",
+      "type": "fill_in_blanks",
+      "question": "Fill in with the correct preposition: 'Can you distinguish ___ the twins?'",
+      "answer": "between",
+      "acceptable_answers": ["between"],
+      "explanation": "'Distinguish between' means to tell the difference between two things."
+    },
+    {
+      "id": "ip_ep_95",
+      "type": "short_answer",
+      "question": "What does the proverb 'The darkest hour is just before the dawn' mean?",
+      "answer": "It means that things often seem worst just before they get better. When you are going through a very difficult time, better times may be just around the corner.",
+      "key_points": ["worst before better", "hope during difficult times"]
+    },
+    {
+      "id": "ip_ep_96",
+      "type": "short_answer",
+      "question": "What does the proverb 'A bad workman blames his tools' mean?",
+      "answer": "It means that someone who does poor work tends to blame their equipment or circumstances rather than acknowledging their own lack of skill.",
+      "key_points": ["blaming others for own failure", "not taking responsibility"]
+    },
+    {
+      "id": "ip_ep_97",
+      "type": "short_answer",
+      "question": "What does the proverb 'A rising tide lifts all boats' mean?",
+      "answer": "It means that when something good happens to one person or thing, it often benefits everyone in the group or community.",
+      "key_points": ["collective benefit", "prosperity helps everyone"]
+    },
+    {
+      "id": "ip_ep_98",
+      "type": "short_answer",
+      "question": "What does the proverb 'Still waters run deep' mean?",
+      "answer": "It means that a quiet or calm person may have deep thoughts, strong emotions, or hidden talents that are not immediately obvious.",
+      "key_points": ["quiet people may have depth", "hidden qualities"]
+    },
+    {
+      "id": "ip_ep_99",
+      "type": "short_answer",
+      "question": "What does the proverb 'Nothing ventured, nothing gained' mean?",
+      "answer": "It means that you cannot achieve anything worthwhile without taking some risks. If you don't try, you won't succeed.",
+      "key_points": ["must take risks", "no effort means no reward"]
+    },
+    {
+      "id": "ip_ep_100",
+      "type": "short_answer",
+      "question": "What does the proverb 'The proof of the pudding is in the eating' mean?",
+      "answer": "It means that the true value or quality of something can only be judged when it is put to use or tested in practice.",
+      "key_points": ["judged by results", "practical test reveals quality"]
+    }
+  ]
+}

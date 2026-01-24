@@ -1,0 +1,78 @@
+{
+  "subject": "English E1",
+  "chapter": "Idioms and Proverbs",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "pyq_1",
+      "year": "2020",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'A stitch in time ___.'",
+      "answer": "saves nine",
+      "acceptable_answers": ["saves nine"],
+      "marks": 1
+    },
+    {
+      "id": "pyq_2",
+      "year": "2020",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'Prevention is ___.'",
+      "answer": "better than cure",
+      "acceptable_answers": ["better than cure"],
+      "marks": 1
+    },
+    {
+      "id": "pyq_3",
+      "year": "2019",
+      "type": "fill_in_blanks",
+      "question": "Complete the idiom: 'To let the cat ___.'",
+      "answer": "out of the bag",
+      "acceptable_answers": ["out of the bag"],
+      "marks": 1
+    },
+    {
+      "id": "pyq_4",
+      "year": "2019",
+      "type": "short_answer",
+      "question": "Use the idiom 'face the music' in a sentence to show its meaning.",
+      "answer": "After breaking the school window, Ravi had to face the music when he was called to the principal's office.",
+      "marks": 2
+    },
+    {
+      "id": "pyq_5",
+      "year": "2018",
+      "type": "fill_in_blanks",
+      "question": "Complete the proverb: 'The early bird catches ___.'",
+      "answer": "the worm",
+      "acceptable_answers": ["the worm", "worm"],
+      "marks": 1
+    },
+    {
+      "id": "pyq_6",
+      "year": "2018",
+      "type": "short_answer",
+      "question": "What does the idiom 'to take the bull by the horns' mean?",
+      "answer": "To face a difficulty boldly; to deal with a problem directly and with determination.",
+      "marks": 2
+    },
+    {
+      "id": "pyq_7",
+      "year": "2017",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'He is accustomed ___ waking up early.'",
+      "answer": "to",
+      "acceptable_answers": ["to"],
+      "marks": 1
+    },
+    {
+      "id": "pyq_8",
+      "year": "2017",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'The child is blind ___ his own faults.'",
+      "answer": "to",
+      "acceptable_answers": ["to"],
+      "marks": 1
+    }
+  ],
+  "total_count": 8
+}
