@@ -1,9 +1,6 @@
-// Version: 3.8 - Per-user wrong answers tracking, Clear All button
-// GitHub Raw URL for fetching questions
-const GITHUB_USER = 'rramkr';
-const GITHUB_REPO = 'ani-questions-vercel';
-const GITHUB_BRANCH = 'main';
-const GITHUB_BASE_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${GITHUB_BRANCH}/questions_cache`;
+// Version: 5.0 - Category folder structure for Grammar
+// Use local deployment URL for fetching questions (faster than GitHub raw)
+const GITHUB_BASE_URL = './questions_cache';
 
 // Configuration
 const QUESTIONS_PER_BATCH = 10; // Changed from 20 to 10 for gamification
