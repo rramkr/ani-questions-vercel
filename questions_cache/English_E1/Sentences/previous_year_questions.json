@@ -1,0 +1,75 @@
+{
+  "subject": "English E1",
+  "chapter": "Sentences",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "sent_pyq_1",
+      "year": "2020",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The farmer worked hard in the field.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "marks": 1
+    },
+    {
+      "id": "sent_pyq_2",
+      "year": "2020",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'He was tired, yet he continued working.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "marks": 1
+    },
+    {
+      "id": "sent_pyq_3",
+      "year": "2019",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'It was a very surprising result.'",
+      "answer": "What a surprising result it was!",
+      "marks": 2
+    },
+    {
+      "id": "sent_pyq_4",
+      "year": "2019",
+      "type": "short_answer",
+      "question": "Change from simple to complex: 'He is too weak to walk.'",
+      "answer": "He is so weak that he cannot walk.",
+      "marks": 2
+    },
+    {
+      "id": "sent_pyq_5",
+      "year": "2018",
+      "type": "short_answer",
+      "question": "Change to interrogative: 'Honesty is always rewarded.'",
+      "answer": "Isn't honesty always rewarded?",
+      "marks": 2
+    },
+    {
+      "id": "sent_pyq_6",
+      "year": "2018",
+      "type": "short_answer",
+      "question": "Change from compound to simple: 'He worked hard, and he succeeded.'",
+      "answer": "Working hard, he succeeded.",
+      "marks": 2
+    },
+    {
+      "id": "sent_pyq_7",
+      "year": "2017",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'When the bell rang, the students stood up.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "marks": 1
+    },
+    {
+      "id": "sent_pyq_8",
+      "year": "2017",
+      "type": "short_answer",
+      "question": "Change to assertive: 'How sweet the child is!'",
+      "answer": "The child is very sweet.",
+      "marks": 2
+    }
+  ],
+  "total_count": 8
+}

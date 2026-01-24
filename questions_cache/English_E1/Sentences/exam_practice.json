@@ -1,0 +1,782 @@
+{
+  "subject": "English E1",
+  "chapter": "Sentences",
+  "type": "exam_practice",
+  "questions": [
+    {
+      "id": "sent_ep_1",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The children are playing in the garden.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "This is a simple sentence with one subject (children) and one finite verb (are playing)."
+    },
+    {
+      "id": "sent_ep_2",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'She went to the market, and she bought some vegetables.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "This is a compound sentence with two independent clauses joined by the coordinating conjunction 'and'."
+    },
+    {
+      "id": "sent_ep_3",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'When the rain stopped, we went outside.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "This is a complex sentence with a subordinate clause (When the rain stopped) and a main clause (we went outside)."
+    },
+    {
+      "id": "sent_ep_4",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Neither Rahul nor his friends attended the party.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "This is a simple sentence with a compound subject but only one finite verb (attended)."
+    },
+    {
+      "id": "sent_ep_5",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The teacher entered the class, and the students stood up.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Two independent clauses joined by the coordinating conjunction 'and'."
+    },
+    {
+      "id": "sent_ep_6",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Although he was tired, he finished his homework.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Complex sentence with subordinate clause (Although he was tired) and main clause."
+    },
+    {
+      "id": "sent_ep_7",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Besides being intelligent, she is also very hardworking.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with a participial phrase (Besides being intelligent)."
+    },
+    {
+      "id": "sent_ep_8",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'I like tea, but my sister prefers coffee.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Compound sentence with two independent clauses joined by 'but'."
+    },
+    {
+      "id": "sent_ep_9",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The book that I borrowed from the library is very interesting.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Complex sentence with a relative clause (that I borrowed from the library)."
+    },
+    {
+      "id": "sent_ep_10",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'My grandfather takes a walk every morning.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with one subject and one finite verb."
+    },
+    {
+      "id": "sent_ep_11",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Work hard, or you will fail.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Compound sentence with two clauses joined by 'or'."
+    },
+    {
+      "id": "sent_ep_12",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'If you study well, you will pass the exam.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Complex sentence with conditional clause (If you study well)."
+    },
+    {
+      "id": "sent_ep_13",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The brave soldier fought courageously.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with one finite verb."
+    },
+    {
+      "id": "sent_ep_14",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'He is poor, yet he is honest.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Compound sentence with two clauses joined by 'yet'."
+    },
+    {
+      "id": "sent_ep_15",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'I don't know where he lives.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Complex sentence with a noun clause (where he lives)."
+    },
+    {
+      "id": "sent_ep_16",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'It was a beautiful sunset.'",
+      "answer": "What a beautiful sunset it was!",
+      "key_points": ["Use 'What' for noun phrases", "Add exclamation mark"]
+    },
+    {
+      "id": "sent_ep_17",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'She sings very sweetly.'",
+      "answer": "How sweetly she sings!",
+      "key_points": ["Use 'How' for adverbs", "Change word order"]
+    },
+    {
+      "id": "sent_ep_18",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'The rose is very beautiful.'",
+      "answer": "How beautiful the rose is!",
+      "key_points": ["Use 'How' for adjectives", "Change word order"]
+    },
+    {
+      "id": "sent_ep_19",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'He is a very clever boy.'",
+      "answer": "What a clever boy he is!",
+      "key_points": ["Use 'What' with noun phrase", "Remove 'very'"]
+    },
+    {
+      "id": "sent_ep_20",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'The match was exciting.'",
+      "answer": "What an exciting match it was!",
+      "key_points": ["Use 'What an' before vowel sound", "Add 'it was'"]
+    },
+    {
+      "id": "sent_ep_21",
+      "type": "short_answer",
+      "question": "Change to assertive: 'What a magnificent palace it is!'",
+      "answer": "It is a very magnificent palace.",
+      "key_points": ["Remove 'What'", "Add 'very'", "Use full stop"]
+    },
+    {
+      "id": "sent_ep_22",
+      "type": "short_answer",
+      "question": "Change to assertive: 'How beautifully she dances!'",
+      "answer": "She dances very beautifully.",
+      "key_points": ["Remove 'How'", "Add 'very'", "Normal word order"]
+    },
+    {
+      "id": "sent_ep_23",
+      "type": "short_answer",
+      "question": "Change to assertive: 'What a wonderful day it was!'",
+      "answer": "It was a very wonderful day.",
+      "key_points": ["Remove 'What'", "Add 'very'", "Rearrange"]
+    },
+    {
+      "id": "sent_ep_24",
+      "type": "short_answer",
+      "question": "Change to assertive: 'How kind of you to help me!'",
+      "answer": "It is very kind of you to help me.",
+      "key_points": ["Add 'It is very'", "Remove 'How'"]
+    },
+    {
+      "id": "sent_ep_25",
+      "type": "short_answer",
+      "question": "Change to assertive: 'How I wish I could fly!'",
+      "answer": "I wish I could fly.",
+      "key_points": ["Remove 'How'", "Simple statement"]
+    },
+    {
+      "id": "sent_ep_26",
+      "type": "short_answer",
+      "question": "Change to interrogative: 'Time is precious.'",
+      "answer": "Isn't time precious?",
+      "key_points": ["Negative question implies positive statement", "Use 'Isn't'"]
+    },
+    {
+      "id": "sent_ep_27",
+      "type": "short_answer",
+      "question": "Change to interrogative: 'Honesty is the best policy.'",
+      "answer": "Isn't honesty the best policy?",
+      "key_points": ["Rhetorical question", "Negative form maintains meaning"]
+    },
+    {
+      "id": "sent_ep_28",
+      "type": "short_answer",
+      "question": "Change to interrogative: 'No one can trust a liar.'",
+      "answer": "Can anyone trust a liar?",
+      "key_points": ["'No one' becomes 'anyone'", "'cannot' becomes 'can'"]
+    },
+    {
+      "id": "sent_ep_29",
+      "type": "short_answer",
+      "question": "Change to interrogative: 'Nothing is impossible.'",
+      "answer": "Is anything impossible?",
+      "key_points": ["'Nothing' becomes 'anything'", "Question form"]
+    },
+    {
+      "id": "sent_ep_30",
+      "type": "short_answer",
+      "question": "Change to interrogative: 'Health is more important than wealth.'",
+      "answer": "Isn't health more important than wealth?",
+      "key_points": ["Negative question", "Maintains positive meaning"]
+    },
+    {
+      "id": "sent_ep_31",
+      "type": "short_answer",
+      "question": "Change to assertive: 'Can anyone deny his talent?'",
+      "answer": "No one can deny his talent.",
+      "key_points": ["'anyone' becomes 'no one'", "Negative statement"]
+    },
+    {
+      "id": "sent_ep_32",
+      "type": "short_answer",
+      "question": "Change to assertive: 'Isn't she the best singer?'",
+      "answer": "She is the best singer.",
+      "key_points": ["Negative question implies positive", "Simple statement"]
+    },
+    {
+      "id": "sent_ep_33",
+      "type": "short_answer",
+      "question": "Change to assertive: 'Who does not love his country?'",
+      "answer": "Everyone loves his country.",
+      "key_points": ["'Who does not' implies 'everyone does'"]
+    },
+    {
+      "id": "sent_ep_34",
+      "type": "short_answer",
+      "question": "Change to assertive: 'Is there anything more precious than freedom?'",
+      "answer": "There is nothing more precious than freedom.",
+      "key_points": ["'anything' becomes 'nothing'", "Implies negative answer"]
+    },
+    {
+      "id": "sent_ep_35",
+      "type": "short_answer",
+      "question": "Change to assertive: 'Can money buy happiness?'",
+      "answer": "Money cannot buy happiness.",
+      "key_points": ["Rhetorical question implies 'no'", "Negative statement"]
+    },
+    {
+      "id": "sent_ep_36",
+      "type": "short_answer",
+      "question": "Change simple to compound: 'Being tired, he went to bed early.'",
+      "answer": "He was tired, so he went to bed early.",
+      "key_points": ["Participial phrase becomes clause", "'so' shows cause-effect"]
+    },
+    {
+      "id": "sent_ep_37",
+      "type": "short_answer",
+      "question": "Change simple to compound: 'Besides being a doctor, he is also a writer.'",
+      "answer": "He is a doctor, and he is also a writer.",
+      "key_points": ["Two independent clauses", "Joined by 'and'"]
+    },
+    {
+      "id": "sent_ep_38",
+      "type": "short_answer",
+      "question": "Change simple to compound: 'Despite his wealth, he is unhappy.'",
+      "answer": "He is wealthy, yet he is unhappy.",
+      "key_points": ["'Despite' becomes 'yet'", "Two clauses"]
+    },
+    {
+      "id": "sent_ep_39",
+      "type": "short_answer",
+      "question": "Change simple to compound: 'Work hard to succeed in life.'",
+      "answer": "Work hard, or you will not succeed in life.",
+      "key_points": ["Purpose clause becomes alternative", "'or' with negative"]
+    },
+    {
+      "id": "sent_ep_40",
+      "type": "short_answer",
+      "question": "Change simple to compound: 'On seeing the police, the thief ran away.'",
+      "answer": "The thief saw the police, and he ran away.",
+      "key_points": ["Prepositional phrase becomes clause", "Joined by 'and'"]
+    },
+    {
+      "id": "sent_ep_41",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'I know his address.'",
+      "answer": "I know where he lives.",
+      "key_points": ["Noun phrase becomes noun clause", "'address' → 'where he lives'"]
+    },
+    {
+      "id": "sent_ep_42",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'She is too weak to walk.'",
+      "answer": "She is so weak that she cannot walk.",
+      "key_points": ["'too...to' becomes 'so...that'", "Negative in result clause"]
+    },
+    {
+      "id": "sent_ep_43",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'He is a man of great honesty.'",
+      "answer": "He is a man who is very honest.",
+      "key_points": ["Prepositional phrase becomes relative clause"]
+    },
+    {
+      "id": "sent_ep_44",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'I expect to pass the exam.'",
+      "answer": "I expect that I will pass the exam.",
+      "key_points": ["Infinitive becomes noun clause with 'that'"]
+    },
+    {
+      "id": "sent_ep_45",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'The thief ran away on seeing the police.'",
+      "answer": "When the thief saw the police, he ran away.",
+      "key_points": ["Prepositional phrase becomes adverbial clause"]
+    },
+    {
+      "id": "sent_ep_46",
+      "type": "short_answer",
+      "question": "Change compound to simple: 'He is poor, but he is honest.'",
+      "answer": "In spite of being poor, he is honest.",
+      "key_points": ["'but' becomes 'In spite of'", "Gerund phrase"]
+    },
+    {
+      "id": "sent_ep_47",
+      "type": "short_answer",
+      "question": "Change compound to simple: 'She worked hard, and she passed the exam.'",
+      "answer": "Working hard, she passed the exam.",
+      "key_points": ["First clause becomes participial phrase"]
+    },
+    {
+      "id": "sent_ep_48",
+      "type": "short_answer",
+      "question": "Change compound to simple: 'The sun set, and the birds returned to their nests.'",
+      "answer": "The sun having set, the birds returned to their nests.",
+      "key_points": ["Absolute phrase (nominative absolute)"]
+    },
+    {
+      "id": "sent_ep_49",
+      "type": "short_answer",
+      "question": "Change compound to simple: 'He opened the door and entered the room.'",
+      "answer": "Opening the door, he entered the room.",
+      "key_points": ["First action becomes present participle"]
+    },
+    {
+      "id": "sent_ep_50",
+      "type": "short_answer",
+      "question": "Change compound to simple: 'Do your best, or you will regret it.'",
+      "answer": "Without doing your best, you will regret it.",
+      "key_points": ["'or' clause becomes 'Without' + gerund"]
+    },
+    {
+      "id": "sent_ep_51",
+      "type": "short_answer",
+      "question": "Change complex to simple: 'When I reached the station, the train had left.'",
+      "answer": "On reaching the station, I found the train had left.",
+      "key_points": ["Time clause becomes prepositional phrase"]
+    },
+    {
+      "id": "sent_ep_52",
+      "type": "short_answer",
+      "question": "Change complex to simple: 'As he was ill, he could not attend school.'",
+      "answer": "Being ill, he could not attend school.",
+      "key_points": ["Causal clause becomes participial phrase"]
+    },
+    {
+      "id": "sent_ep_53",
+      "type": "short_answer",
+      "question": "Change complex to simple: 'I do not know where he lives.'",
+      "answer": "I do not know his address.",
+      "key_points": ["Noun clause becomes noun phrase"]
+    },
+    {
+      "id": "sent_ep_54",
+      "type": "short_answer",
+      "question": "Change complex to simple: 'If you work hard, you will succeed.'",
+      "answer": "Working hard, you will succeed.",
+      "key_points": ["Conditional clause becomes participial phrase"]
+    },
+    {
+      "id": "sent_ep_55",
+      "type": "short_answer",
+      "question": "Change complex to simple: 'The book that was written by Tagore is very famous.'",
+      "answer": "The book written by Tagore is very famous.",
+      "key_points": ["Relative clause becomes past participle phrase"]
+    },
+    {
+      "id": "sent_ep_56",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The patient who was admitted yesterday is recovering well.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains a relative clause 'who was admitted yesterday'."
+    },
+    {
+      "id": "sent_ep_57",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Finish your homework and go out to play.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Two imperative clauses joined by 'and'."
+    },
+    {
+      "id": "sent_ep_58",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Having completed his work, he went home.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with a perfect participial phrase."
+    },
+    {
+      "id": "sent_ep_59",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Either you work hard or you will fail.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Two clauses joined by correlative conjunction 'either...or'."
+    },
+    {
+      "id": "sent_ep_60",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'I believe that he is innocent.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains a noun clause 'that he is innocent'."
+    },
+    {
+      "id": "sent_ep_61",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The boy standing near the gate is my brother.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with a present participial phrase."
+    },
+    {
+      "id": "sent_ep_62",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'She is not only beautiful but also intelligent.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with correlative conjunction within one clause."
+    },
+    {
+      "id": "sent_ep_63",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'He ran so fast that he won the race.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains an adverbial clause of result 'that he won the race'."
+    },
+    {
+      "id": "sent_ep_64",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The weather was bad, so the match was cancelled.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Two independent clauses joined by 'so'."
+    },
+    {
+      "id": "sent_ep_65",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'To err is human.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with infinitive as subject."
+    },
+    {
+      "id": "sent_ep_66",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'The scenery is very charming.'",
+      "answer": "How charming the scenery is!",
+      "key_points": ["Use 'How' with adjective", "Change word order"]
+    },
+    {
+      "id": "sent_ep_67",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'He gave a brilliant performance.'",
+      "answer": "What a brilliant performance he gave!",
+      "key_points": ["Use 'What' with noun phrase"]
+    },
+    {
+      "id": "sent_ep_68",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'The baby is very cute.'",
+      "answer": "How cute the baby is!",
+      "key_points": ["Use 'How' with adjective"]
+    },
+    {
+      "id": "sent_ep_69",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'It was a terrible accident.'",
+      "answer": "What a terrible accident it was!",
+      "key_points": ["Use 'What' with noun phrase"]
+    },
+    {
+      "id": "sent_ep_70",
+      "type": "short_answer",
+      "question": "Change to exclamatory: 'The boy behaved very rudely.'",
+      "answer": "How rudely the boy behaved!",
+      "key_points": ["Use 'How' with adverb"]
+    },
+    {
+      "id": "sent_ep_71",
+      "type": "short_answer",
+      "question": "Change compound to complex: 'Work hard, or you will fail.'",
+      "answer": "If you do not work hard, you will fail.",
+      "key_points": ["'or' becomes 'If...not'", "Conditional clause"]
+    },
+    {
+      "id": "sent_ep_72",
+      "type": "short_answer",
+      "question": "Change compound to complex: 'He is rich, but he is not happy.'",
+      "answer": "Although he is rich, he is not happy.",
+      "key_points": ["'but' becomes 'Although'", "Concessive clause"]
+    },
+    {
+      "id": "sent_ep_73",
+      "type": "short_answer",
+      "question": "Change compound to complex: 'Study well and you will pass.'",
+      "answer": "If you study well, you will pass.",
+      "key_points": ["Imperative + 'and' becomes conditional"]
+    },
+    {
+      "id": "sent_ep_74",
+      "type": "short_answer",
+      "question": "Change compound to complex: 'The bell rang and the students left.'",
+      "answer": "When the bell rang, the students left.",
+      "key_points": ["'and' becomes 'When'", "Time clause"]
+    },
+    {
+      "id": "sent_ep_75",
+      "type": "short_answer",
+      "question": "Change compound to complex: 'He was poor but he was honest.'",
+      "answer": "Though he was poor, he was honest.",
+      "key_points": ["'but' becomes 'Though'", "Concessive clause"]
+    },
+    {
+      "id": "sent_ep_76",
+      "type": "short_answer",
+      "question": "Change complex to compound: 'As it was raining, I stayed at home.'",
+      "answer": "It was raining, so I stayed at home.",
+      "key_points": ["'As' clause becomes independent clause", "Join with 'so'"]
+    },
+    {
+      "id": "sent_ep_77",
+      "type": "short_answer",
+      "question": "Change complex to compound: 'Though he is poor, he is happy.'",
+      "answer": "He is poor, yet he is happy.",
+      "key_points": ["'Though' becomes 'yet'", "Two independent clauses"]
+    },
+    {
+      "id": "sent_ep_78",
+      "type": "short_answer",
+      "question": "Change complex to compound: 'If you work hard, you will succeed.'",
+      "answer": "Work hard, and you will succeed.",
+      "key_points": ["Conditional becomes imperative + 'and'"]
+    },
+    {
+      "id": "sent_ep_79",
+      "type": "short_answer",
+      "question": "Change complex to compound: 'When the sun set, we returned home.'",
+      "answer": "The sun set, and we returned home.",
+      "key_points": ["Time clause becomes independent clause"]
+    },
+    {
+      "id": "sent_ep_80",
+      "type": "short_answer",
+      "question": "Change complex to compound: 'Unless you study, you will fail.'",
+      "answer": "Study, or you will fail.",
+      "key_points": ["'Unless' becomes imperative + 'or'"]
+    },
+    {
+      "id": "sent_ep_81",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Tell me the truth, and I will forgive you.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Imperative clause and declarative clause joined by 'and'."
+    },
+    {
+      "id": "sent_ep_82",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The man whom you met yesterday is my uncle.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains a relative clause 'whom you met yesterday'."
+    },
+    {
+      "id": "sent_ep_83",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'In spite of his poverty, he is generous.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with prepositional phrase."
+    },
+    {
+      "id": "sent_ep_84",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'He fell ill; therefore, he could not attend.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Two independent clauses joined by 'therefore'."
+    },
+    {
+      "id": "sent_ep_85",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'I wonder if he will come.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains a noun clause 'if he will come'."
+    },
+    {
+      "id": "sent_ep_86",
+      "type": "short_answer",
+      "question": "Change to negative without changing meaning: 'He is as tall as his brother.'",
+      "answer": "He is not shorter than his brother.",
+      "key_points": ["Double negative maintains meaning", "Comparative form"]
+    },
+    {
+      "id": "sent_ep_87",
+      "type": "short_answer",
+      "question": "Change to negative without changing meaning: 'All students passed the exam.'",
+      "answer": "No student failed the exam.",
+      "key_points": ["'All passed' = 'None failed'"]
+    },
+    {
+      "id": "sent_ep_88",
+      "type": "short_answer",
+      "question": "Change to affirmative: 'He is not less intelligent than his brother.'",
+      "answer": "He is as intelligent as his brother.",
+      "key_points": ["Double negative becomes affirmative", "'as...as' form"]
+    },
+    {
+      "id": "sent_ep_89",
+      "type": "short_answer",
+      "question": "Change to affirmative: 'Nobody was absent.'",
+      "answer": "Everybody was present.",
+      "key_points": ["'Nobody absent' = 'Everybody present'"]
+    },
+    {
+      "id": "sent_ep_90",
+      "type": "short_answer",
+      "question": "Change to affirmative: 'No sooner did he arrive than it started raining.'",
+      "answer": "As soon as he arrived, it started raining.",
+      "key_points": ["'No sooner...than' becomes 'As soon as'"]
+    },
+    {
+      "id": "sent_ep_91",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Walk carefully lest you should fall.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains an adverbial clause of purpose with 'lest'."
+    },
+    {
+      "id": "sent_ep_92",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'He not only passed but also topped the class.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with correlative conjunction within one clause."
+    },
+    {
+      "id": "sent_ep_93",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'I was so tired that I fell asleep.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains an adverbial clause of result."
+    },
+    {
+      "id": "sent_ep_94",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Neither did he come nor did he call.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Two clauses joined by correlative conjunction 'neither...nor'."
+    },
+    {
+      "id": "sent_ep_95",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'We eat that we may live.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains an adverbial clause of purpose."
+    },
+    {
+      "id": "sent_ep_96",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'He admitted his guilt.'",
+      "answer": "He admitted that he was guilty.",
+      "key_points": ["Noun becomes noun clause with 'that'"]
+    },
+    {
+      "id": "sent_ep_97",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'I saw a wounded bird.'",
+      "answer": "I saw a bird which was wounded.",
+      "key_points": ["Adjective becomes relative clause"]
+    },
+    {
+      "id": "sent_ep_98",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'He worked hard to pass the exam.'",
+      "answer": "He worked hard so that he might pass the exam.",
+      "key_points": ["Infinitive of purpose becomes adverbial clause"]
+    },
+    {
+      "id": "sent_ep_99",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'Being intelligent, she topped the class.'",
+      "answer": "Because she was intelligent, she topped the class.",
+      "key_points": ["Participial phrase becomes causal clause"]
+    },
+    {
+      "id": "sent_ep_100",
+      "type": "short_answer",
+      "question": "Change simple to complex: 'Nobody can deny his success.'",
+      "answer": "Nobody can deny that he has succeeded.",
+      "key_points": ["Noun becomes noun clause"]
+    },
+    {
+      "id": "sent_ep_101",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The reason why he failed is known to all.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains an adverbial clause 'why he failed'."
+    },
+    {
+      "id": "sent_ep_102",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The sun rose and the fog disappeared.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"],
+      "explanation": "Two independent clauses joined by 'and'."
+    },
+    {
+      "id": "sent_ep_103",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'The teacher, along with the students, visited the museum.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with one finite verb despite multiple subjects."
+    },
+    {
+      "id": "sent_ep_104",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'He asked me where I lived.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"],
+      "explanation": "Contains an indirect question (noun clause)."
+    },
+    {
+      "id": "sent_ep_105",
+      "type": "fill_in_blanks",
+      "question": "Identify the sentence type: 'Neither the teacher nor the students were present.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"],
+      "explanation": "Simple sentence with compound subject and one finite verb."
+    }
+  ]
+}
