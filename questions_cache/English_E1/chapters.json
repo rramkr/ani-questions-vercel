@@ -29,33 +29,25 @@
       "name": "Directive Essay",
       "slug": "Directive Essay",
       "has_questions": false,
-      "icon": "✍️",
-      "category": "Directive Essay",
-      "category_icon": "✍️"
+      "icon": "✍️"
     },
     {
       "name": "Picture Comprehension",
       "slug": "Picture Comprehension",
       "has_questions": false,
-      "icon": "🖼️",
-      "category": "Picture Comprehension",
-      "category_icon": "🖼️"
+      "icon": "🖼️"
     },
     {
       "name": "Informal Letter",
       "slug": "Informal Letter",
       "has_questions": false,
-      "icon": "✉️",
-      "category": "Informal Letter",
-      "category_icon": "✉️"
+      "icon": "✉️"
     },
     {
       "name": "Unseen Comprehension",
       "slug": "Unseen Comprehension",
       "has_questions": false,
-      "icon": "📖",
-      "category": "Unseen Comprehension",
-      "category_icon": "📖"
+      "icon": "📖"
     }
   ]
 }
