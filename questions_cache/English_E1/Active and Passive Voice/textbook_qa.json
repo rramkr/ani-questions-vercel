@@ -4,6 +4,7 @@
     {
       "id": "tqa001",
       "exercise": "A",
+      "solved_example": true,
       "question": "Change from active to passive voice: 'Mohan sells fresh vegetables.'",
       "answer": "Fresh vegetables are sold by Mohan.",
       "explanation": "Simple present active (V1) becomes passive with is/am/are + V3. The object 'fresh vegetables' becomes the subject."
@@ -60,6 +61,7 @@
     {
       "id": "tqa009",
       "exercise": "B",
+      "solved_example": true,
       "question": "Change from active to passive voice (present continuous): 'We are watching the sunset.'",
       "answer": "The sunset is being watched by us.",
       "explanation": "Present continuous: 'are watching' becomes 'is being watched' (is/am/are + being + V3)."
@@ -116,6 +118,7 @@
     {
       "id": "tqa017",
       "exercise": "C",
+      "solved_example": true,
       "question": "Change from active to passive voice (present perfect): 'The thieves have taken away all the money.'",
       "answer": "All the money has been taken away by the thieves.",
       "explanation": "Present perfect: 'have taken' becomes 'has been taken' (has/have + been + V3)."
@@ -172,6 +175,7 @@
     {
       "id": "tqa025",
       "exercise": "D",
+      "solved_example": true,
       "question": "Change from active to passive voice (future perfect): 'This school will have celebrated the silver jubilee next year.'",
       "answer": "The silver jubilee will have been celebrated by this school next year.",
       "explanation": "Future perfect: 'will have celebrated' becomes 'will have been celebrated' (will + have + been + V3)."
@@ -228,6 +232,7 @@
     {
       "id": "tqa033",
       "exercise": "E",
+      "solved_example": true,
       "question": "Change from passive to active voice: 'The necklace was being admired by all the customers.'",
       "answer": "All the customers were admiring the necklace.",
       "explanation": "Past continuous passive 'was being admired' becomes active 'were admiring'."
