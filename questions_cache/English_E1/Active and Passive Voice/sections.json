@@ -8,7 +8,8 @@
     "exam": [
       {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},
       {"value": "fill_in_blanks", "label": "Fill in the Blanks", "icon": "✏️"},
-      {"value": "short_answer", "label": "Short Answer", "icon": "📝"}
+      {"value": "short_answer", "label": "Short Answer", "icon": "📝"},
+      {"value": "previous_year_questions", "label": "Previous Year Questions", "icon": "📋"}
     ],
     "miscellaneous": []
   }
