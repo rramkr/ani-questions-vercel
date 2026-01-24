@@ -1,0 +1,359 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "exercise": "A",
+      "question": "Change from active to passive voice: 'Mohan sells fresh vegetables.'",
+      "answer": "Fresh vegetables are sold by Mohan.",
+      "explanation": "Simple present active (V1) becomes passive with is/am/are + V3. The object 'fresh vegetables' becomes the subject."
+    },
+    {
+      "id": "tqa002",
+      "exercise": "A",
+      "question": "Change from active to passive voice: 'The customers like the vegetables.'",
+      "answer": "The vegetables are liked by the customers.",
+      "explanation": "Simple present: 'like' (V1) becomes 'are liked' (are + V3). Object becomes subject."
+    },
+    {
+      "id": "tqa003",
+      "exercise": "A",
+      "question": "Change from active to passive voice: 'Mohan buys vegetables from the market.'",
+      "answer": "Vegetables are bought by Mohan from the market.",
+      "explanation": "Simple present: 'buys' becomes 'are bought'. The prepositional phrase 'from the market' remains at the end."
+    },
+    {
+      "id": "tqa004",
+      "exercise": "A",
+      "question": "Change from active to passive voice: 'His father teaches him the trade.'",
+      "answer": "He is taught the trade by his father.",
+      "explanation": "With two objects (indirect: him, direct: the trade), the indirect object becomes the subject in passive."
+    },
+    {
+      "id": "tqa005",
+      "exercise": "A",
+      "question": "Change from active to passive voice: 'The mouse chased the lizard.'",
+      "answer": "The lizard was chased by the mouse.",
+      "explanation": "Simple past: 'chased' (V2) becomes 'was chased' (was + V3)."
+    },
+    {
+      "id": "tqa006",
+      "exercise": "A",
+      "question": "Change from active to passive voice: 'Megha will buy a new car tomorrow.'",
+      "answer": "A new car will be bought by Megha tomorrow.",
+      "explanation": "Simple future: 'will buy' becomes 'will be bought' (will + be + V3)."
+    },
+    {
+      "id": "tqa007",
+      "exercise": "A",
+      "question": "Change from active to passive voice: 'Father will teach me how to drive a car.'",
+      "answer": "I will be taught how to drive a car by Father.",
+      "explanation": "Simple future with indirect object: 'me' becomes the subject 'I' in passive voice."
+    },
+    {
+      "id": "tqa008",
+      "exercise": "A",
+      "question": "Change from active to passive voice: 'The children will sing many songs.'",
+      "answer": "Many songs will be sung by the children.",
+      "explanation": "Simple future: 'will sing' becomes 'will be sung' (will + be + V3)."
+    },
+    {
+      "id": "tqa009",
+      "exercise": "B",
+      "question": "Change from active to passive voice (present continuous): 'We are watching the sunset.'",
+      "answer": "The sunset is being watched by us.",
+      "explanation": "Present continuous: 'are watching' becomes 'is being watched' (is/am/are + being + V3)."
+    },
+    {
+      "id": "tqa010",
+      "exercise": "B",
+      "question": "Change from active to passive voice (present continuous): 'Anuj and Rohit are taking pictures.'",
+      "answer": "Pictures are being taken by Anuj and Rohit.",
+      "explanation": "Present continuous: 'are taking' becomes 'are being taken'."
+    },
+    {
+      "id": "tqa011",
+      "exercise": "B",
+      "question": "Change from active to passive voice (present continuous): 'The guide is carrying a heavy bag.'",
+      "answer": "A heavy bag is being carried by the guide.",
+      "explanation": "Present continuous: 'is carrying' becomes 'is being carried'."
+    },
+    {
+      "id": "tqa012",
+      "exercise": "B",
+      "question": "Change from active to passive voice (present continuous): 'They are drinking hot tea.'",
+      "answer": "Hot tea is being drunk by them.",
+      "explanation": "Present continuous: 'are drinking' becomes 'is being drunk'. Note: 'drunk' is the V3 of 'drink'."
+    },
+    {
+      "id": "tqa013",
+      "exercise": "B",
+      "question": "Change from active to passive voice (present continuous): 'He is distributing brochures to all the tourists.'",
+      "answer": "Brochures are being distributed to all the tourists by him.",
+      "explanation": "Present continuous: 'is distributing' becomes 'are being distributed'."
+    },
+    {
+      "id": "tqa014",
+      "exercise": "B",
+      "question": "Change from active to passive voice (present continuous): 'We are not eating any pastries.'",
+      "answer": "Any pastries are not being eaten by us.",
+      "explanation": "Negative present continuous: 'are not eating' becomes 'are not being eaten'."
+    },
+    {
+      "id": "tqa015",
+      "exercise": "B",
+      "question": "Change from active to passive voice (present continuous): 'We are enjoying the view from the mountain peak.'",
+      "answer": "The view from the mountain peak is being enjoyed by us.",
+      "explanation": "Present continuous: 'are enjoying' becomes 'is being enjoyed'."
+    },
+    {
+      "id": "tqa016",
+      "exercise": "B",
+      "question": "Change from active to passive voice (present continuous): 'A tourist guide is helping us to locate the most beautiful spots.'",
+      "answer": "We are being helped by a tourist guide to locate the most beautiful spots.",
+      "explanation": "Present continuous: 'is helping' becomes 'are being helped'. The indirect object 'us' becomes the subject 'We'."
+    },
+    {
+      "id": "tqa017",
+      "exercise": "C",
+      "question": "Change from active to passive voice (present perfect): 'The thieves have taken away all the money.'",
+      "answer": "All the money has been taken away by the thieves.",
+      "explanation": "Present perfect: 'have taken' becomes 'has been taken' (has/have + been + V3)."
+    },
+    {
+      "id": "tqa018",
+      "exercise": "C",
+      "question": "Change from active to passive voice (present perfect): 'The police have located the place where the thieves are hiding.'",
+      "answer": "The place where the thieves are hiding has been located by the police.",
+      "explanation": "Present perfect: 'have located' becomes 'has been located'. The relative clause remains unchanged."
+    },
+    {
+      "id": "tqa019",
+      "exercise": "C",
+      "question": "Change from active to passive voice (present perfect): 'The thieves have hidden the money in the cave.'",
+      "answer": "The money has been hidden in the cave by the thieves.",
+      "explanation": "Present perfect: 'have hidden' becomes 'has been hidden'."
+    },
+    {
+      "id": "tqa020",
+      "exercise": "C",
+      "question": "Change from active to passive voice (present perfect): 'The police have called a detective to help them.'",
+      "answer": "A detective has been called by the police to help them.",
+      "explanation": "Present perfect: 'have called' becomes 'has been called'."
+    },
+    {
+      "id": "tqa021",
+      "exercise": "C",
+      "question": "Change from active to passive voice (present perfect): 'The detective has found a way to reach the gang of thieves.'",
+      "answer": "A way to reach the gang of thieves has been found by the detective.",
+      "explanation": "Present perfect: 'has found' becomes 'has been found'."
+    },
+    {
+      "id": "tqa022",
+      "exercise": "C",
+      "question": "Change from active to passive voice (present perfect): 'He has taken the police to a village.'",
+      "answer": "The police have been taken to a village by him.",
+      "explanation": "Present perfect: 'has taken' becomes 'have been taken'. Note: 'police' takes plural verb."
+    },
+    {
+      "id": "tqa023",
+      "exercise": "C",
+      "question": "Change from active to passive voice (present perfect): 'The people of the village have set up a trap for the gang.'",
+      "answer": "A trap for the gang has been set up by the people of the village.",
+      "explanation": "Present perfect: 'have set up' becomes 'has been set up'."
+    },
+    {
+      "id": "tqa024",
+      "exercise": "C",
+      "question": "Change from active to passive voice (present perfect): 'Finally, the police have arrested the gang.'",
+      "answer": "Finally, the gang has been arrested by the police.",
+      "explanation": "Present perfect: 'have arrested' becomes 'has been arrested'."
+    },
+    {
+      "id": "tqa025",
+      "exercise": "D",
+      "question": "Change from active to passive voice (future perfect): 'This school will have celebrated the silver jubilee next year.'",
+      "answer": "The silver jubilee will have been celebrated by this school next year.",
+      "explanation": "Future perfect: 'will have celebrated' becomes 'will have been celebrated' (will + have + been + V3)."
+    },
+    {
+      "id": "tqa026",
+      "exercise": "D",
+      "question": "Change from active to passive voice (future perfect): 'It will have admitted more students.'",
+      "answer": "More students will have been admitted by it.",
+      "explanation": "Future perfect: 'will have admitted' becomes 'will have been admitted'."
+    },
+    {
+      "id": "tqa027",
+      "exercise": "D",
+      "question": "Change from active to passive voice (future perfect): 'It will have offered more courses of study.'",
+      "answer": "More courses of study will have been offered by it.",
+      "explanation": "Future perfect: 'will have offered' becomes 'will have been offered'."
+    },
+    {
+      "id": "tqa028",
+      "exercise": "D",
+      "question": "Change from active to passive voice (future perfect): 'Many students will have taken the public examinations.'",
+      "answer": "The public examinations will have been taken by many students.",
+      "explanation": "Future perfect: 'will have taken' becomes 'will have been taken'."
+    },
+    {
+      "id": "tqa029",
+      "exercise": "D",
+      "question": "Change from active to passive voice (future perfect): 'They will have scored good grades.'",
+      "answer": "Good grades will have been scored by them.",
+      "explanation": "Future perfect: 'will have scored' becomes 'will have been scored'."
+    },
+    {
+      "id": "tqa030",
+      "exercise": "D",
+      "question": "Change from active to passive voice (future perfect): 'The principal will have felicitated the students.'",
+      "answer": "The students will have been felicitated by the principal.",
+      "explanation": "Future perfect: 'will have felicitated' becomes 'will have been felicitated'."
+    },
+    {
+      "id": "tqa031",
+      "exercise": "D",
+      "question": "Change from active to passive voice (future perfect): 'The school will have earned a good reputation in the town.'",
+      "answer": "A good reputation in the town will have been earned by the school.",
+      "explanation": "Future perfect: 'will have earned' becomes 'will have been earned'."
+    },
+    {
+      "id": "tqa032",
+      "exercise": "D",
+      "question": "Change from active to passive voice (future perfect): 'The district administration will have honoured the school management.'",
+      "answer": "The school management will have been honoured by the district administration.",
+      "explanation": "Future perfect: 'will have honoured' becomes 'will have been honoured'."
+    },
+    {
+      "id": "tqa033",
+      "exercise": "E",
+      "question": "Change from passive to active voice: 'The necklace was being admired by all the customers.'",
+      "answer": "All the customers were admiring the necklace.",
+      "explanation": "Past continuous passive 'was being admired' becomes active 'were admiring'."
+    },
+    {
+      "id": "tqa034",
+      "exercise": "E",
+      "question": "Change from passive to active voice: 'The poem has been recited very eloquently by Promila.'",
+      "answer": "Promila has recited the poem very eloquently.",
+      "explanation": "Present perfect passive 'has been recited' becomes active 'has recited'."
+    },
+    {
+      "id": "tqa035",
+      "exercise": "E",
+      "question": "Change from passive to active voice: 'The house may be vacated by Suraj.'",
+      "answer": "Suraj may vacate the house.",
+      "explanation": "Modal passive 'may be vacated' becomes active 'may vacate'."
+    },
+    {
+      "id": "tqa036",
+      "exercise": "E",
+      "question": "Change from passive to active voice: 'The criminal will have been acquitted by the judge by now.'",
+      "answer": "The judge will have acquitted the criminal by now.",
+      "explanation": "Future perfect passive 'will have been acquitted' becomes active 'will have acquitted'."
+    },
+    {
+      "id": "tqa037",
+      "exercise": "E",
+      "question": "Change from passive to active voice: 'Let not parents be taken for granted.'",
+      "answer": "Let us not take parents for granted.",
+      "explanation": "Imperative passive becomes active with an implied subject like 'us'."
+    },
+    {
+      "id": "tqa038",
+      "exercise": "E",
+      "question": "Change from passive to active voice: 'The trees in this neighbourhood should not be cut down.'",
+      "answer": "We/People should not cut down the trees in this neighbourhood.",
+      "explanation": "Modal passive 'should not be cut down' becomes active with a general subject like 'We' or 'People'."
+    },
+    {
+      "id": "tqa039",
+      "exercise": "E",
+      "question": "Change from passive to active voice: 'The author has been appreciated for the story's intricate plot.'",
+      "answer": "People/Readers have appreciated the author for the story's intricate plot.",
+      "explanation": "When 'by + agent' is missing, use a general subject like 'People' or 'Readers'."
+    },
+    {
+      "id": "tqa040",
+      "exercise": "E",
+      "question": "Change from passive to active voice: 'Such an excuse can never be accepted.'",
+      "answer": "We/One can never accept such an excuse.",
+      "explanation": "Modal passive 'can never be accepted' becomes active with a general subject."
+    },
+    {
+      "id": "tqa041",
+      "exercise": "Theory",
+      "question": "Identify the voice: 'Ria reads the newspaper.'",
+      "answer": "Active voice",
+      "explanation": "The subject 'Ria' performs the action of reading. The verb 'reads' is in active voice."
+    },
+    {
+      "id": "tqa042",
+      "exercise": "Theory",
+      "question": "Identify the voice: 'A story is told by Rubina.'",
+      "answer": "Passive voice",
+      "explanation": "The subject 'A story' receives the action. The verb 'is told' is in passive voice."
+    },
+    {
+      "id": "tqa043",
+      "exercise": "Theory",
+      "question": "What is a transitive verb?",
+      "answer": "A transitive verb is a verb that has an object. For example, in 'Ria reads the newspaper', 'reads' is transitive because it has an object 'the newspaper'.",
+      "explanation": "Transitive verbs transfer action from the subject to an object. Only transitive verbs can be changed from active to passive voice."
+    },
+    {
+      "id": "tqa044",
+      "exercise": "Theory",
+      "question": "Why can't intransitive verbs be changed to passive voice?",
+      "answer": "Intransitive verbs cannot be changed to passive voice because they do not have an object. The passive voice requires an object to become the new subject.",
+      "explanation": "For example, 'She sleeps' cannot be made passive because 'sleeps' has no object."
+    },
+    {
+      "id": "tqa045",
+      "exercise": "Practice",
+      "question": "Change from active to passive voice: 'The teacher praised the students.'",
+      "answer": "The students were praised by the teacher.",
+      "explanation": "Simple past: 'praised' (V2) becomes 'were praised' (were + V3)."
+    },
+    {
+      "id": "tqa046",
+      "exercise": "Practice",
+      "question": "Change from active to passive voice: 'Someone has stolen my wallet.'",
+      "answer": "My wallet has been stolen (by someone).",
+      "explanation": "Present perfect: 'has stolen' becomes 'has been stolen'. 'By someone' is often omitted when the agent is unknown."
+    },
+    {
+      "id": "tqa047",
+      "exercise": "Practice",
+      "question": "Change from active to passive voice: 'They are building a new bridge.'",
+      "answer": "A new bridge is being built by them.",
+      "explanation": "Present continuous: 'are building' becomes 'is being built'."
+    },
+    {
+      "id": "tqa048",
+      "exercise": "Practice",
+      "question": "Change from active to passive voice: 'The committee will announce the results tomorrow.'",
+      "answer": "The results will be announced by the committee tomorrow.",
+      "explanation": "Simple future: 'will announce' becomes 'will be announced'."
+    },
+    {
+      "id": "tqa049",
+      "exercise": "Practice",
+      "question": "Change from passive to active voice: 'The letter was written by my sister.'",
+      "answer": "My sister wrote the letter.",
+      "explanation": "Simple past passive 'was written' becomes active 'wrote'."
+    },
+    {
+      "id": "tqa050",
+      "exercise": "Practice",
+      "question": "Change from passive to active voice: 'The cake is being baked by mother.'",
+      "answer": "Mother is baking the cake.",
+      "explanation": "Present continuous passive 'is being baked' becomes active 'is baking'."
+    }
+  ],
+  "total_count": 50,
+  "generated_at": "2025-01-24T12:00:00",
+  "subject": "English E1",
+  "chapter": "Active and Passive Voice"
+}

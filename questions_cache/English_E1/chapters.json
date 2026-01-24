@@ -12,6 +12,12 @@
       "slug": "Sentences",
       "has_questions": true,
       "icon": "📝"
+    },
+    {
+      "name": "Active and Passive Voice",
+      "slug": "Active and Passive Voice",
+      "has_questions": true,
+      "icon": "🔄"
     }
   ]
 }

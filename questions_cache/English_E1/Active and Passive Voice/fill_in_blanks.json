@@ -1,0 +1,254 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "fib001",
+      "question": "When the subject performs the action, the verb is said to be in the ___ voice.",
+      "answer": "active",
+      "acceptable_answers": ["active"],
+      "explanation": "In active voice, the subject is the doer of the action."
+    },
+    {
+      "id": "fib002",
+      "question": "When the subject receives the action, the verb is said to be in the ___ voice.",
+      "answer": "passive",
+      "acceptable_answers": ["passive"],
+      "explanation": "In passive voice, the subject is the receiver of the action, not the doer."
+    },
+    {
+      "id": "fib003",
+      "question": "Only ___ verbs can be changed from active to passive voice.",
+      "answer": "transitive",
+      "acceptable_answers": ["transitive"],
+      "explanation": "Transitive verbs have objects, and the object becomes the subject in passive voice."
+    },
+    {
+      "id": "fib004",
+      "question": "In passive voice, the doer of the action is introduced by the word '___'.",
+      "answer": "by",
+      "acceptable_answers": ["by"],
+      "explanation": "Example: 'The book was written by the author.' The agent follows 'by'."
+    },
+    {
+      "id": "fib005",
+      "question": "In simple present passive, we use is/am/are + ___.",
+      "answer": "V3",
+      "acceptable_answers": ["V3", "past participle", "third form"],
+      "explanation": "Example: 'The letter is written by him.' (is + written)"
+    },
+    {
+      "id": "fib006",
+      "question": "In simple past passive, we use was/were + ___.",
+      "answer": "V3",
+      "acceptable_answers": ["V3", "past participle", "third form"],
+      "explanation": "Example: 'The letter was written by him.' (was + written)"
+    },
+    {
+      "id": "fib007",
+      "question": "In simple future passive, we use will/shall + ___ + V3.",
+      "answer": "be",
+      "acceptable_answers": ["be"],
+      "explanation": "Example: 'The letter will be written by him.' (will + be + written)"
+    },
+    {
+      "id": "fib008",
+      "question": "In present continuous passive, we use is/am/are + ___ + V3.",
+      "answer": "being",
+      "acceptable_answers": ["being"],
+      "explanation": "Example: 'The letter is being written by him.' (is + being + written)"
+    },
+    {
+      "id": "fib009",
+      "question": "In present perfect passive, we use has/have + ___ + V3.",
+      "answer": "been",
+      "acceptable_answers": ["been"],
+      "explanation": "Example: 'The letter has been written by him.' (has + been + written)"
+    },
+    {
+      "id": "fib010",
+      "question": "In past perfect passive, we use had + ___ + V3.",
+      "answer": "been",
+      "acceptable_answers": ["been"],
+      "explanation": "Example: 'The letter had been written by him.' (had + been + written)"
+    },
+    {
+      "id": "fib011",
+      "question": "The ___ of the active sentence becomes the subject of the passive sentence.",
+      "answer": "object",
+      "acceptable_answers": ["object"],
+      "explanation": "Active: 'She wrote a letter.' Passive: 'A letter was written by her.' The object 'a letter' becomes the subject."
+    },
+    {
+      "id": "fib012",
+      "question": "The ___ of the active sentence becomes the agent (after 'by') in the passive sentence.",
+      "answer": "subject",
+      "acceptable_answers": ["subject"],
+      "explanation": "Active: 'She wrote a letter.' Passive: 'A letter was written by her.' The subject 'She' becomes 'by her'."
+    },
+    {
+      "id": "fib013",
+      "question": "'She teaches English' in passive voice is 'English ___ taught by her.'",
+      "answer": "is",
+      "acceptable_answers": ["is"],
+      "explanation": "Simple present active becomes simple present passive with is/am/are + V3."
+    },
+    {
+      "id": "fib014",
+      "question": "'They built a house' in passive voice is 'A house ___ built by them.'",
+      "answer": "was",
+      "acceptable_answers": ["was"],
+      "explanation": "Simple past active becomes simple past passive with was/were + V3."
+    },
+    {
+      "id": "fib015",
+      "question": "'He will write a letter' in passive voice is 'A letter will ___ written by him.'",
+      "answer": "be",
+      "acceptable_answers": ["be"],
+      "explanation": "Simple future passive uses will + be + V3."
+    },
+    {
+      "id": "fib016",
+      "question": "V1 means the ___ form of the verb.",
+      "answer": "first",
+      "acceptable_answers": ["first", "base", "present"],
+      "explanation": "V1 is the base/present form: write, go, eat, etc."
+    },
+    {
+      "id": "fib017",
+      "question": "V2 means the ___ form of the verb (past tense).",
+      "answer": "second",
+      "acceptable_answers": ["second", "past"],
+      "explanation": "V2 is the past tense form: wrote, went, ate, etc."
+    },
+    {
+      "id": "fib018",
+      "question": "V3 means the ___ form of the verb (past participle).",
+      "answer": "third",
+      "acceptable_answers": ["third", "past participle"],
+      "explanation": "V3 is the past participle: written, gone, eaten, etc."
+    },
+    {
+      "id": "fib019",
+      "question": "Verbs without objects are called ___ verbs.",
+      "answer": "intransitive",
+      "acceptable_answers": ["intransitive"],
+      "explanation": "Intransitive verbs (sleep, go, come) cannot be made passive because they have no object."
+    },
+    {
+      "id": "fib020",
+      "question": "In 'A letter is being written', the tense is present ___.",
+      "answer": "continuous",
+      "acceptable_answers": ["continuous", "progressive"],
+      "explanation": "is/am/are + being + V3 indicates present continuous passive."
+    },
+    {
+      "id": "fib021",
+      "question": "In 'The work has been done', the tense is present ___.",
+      "answer": "perfect",
+      "acceptable_answers": ["perfect"],
+      "explanation": "has/have + been + V3 indicates present perfect passive."
+    },
+    {
+      "id": "fib022",
+      "question": "Modal verbs in passive voice are followed by ___ + V3.",
+      "answer": "be",
+      "acceptable_answers": ["be"],
+      "explanation": "Example: can be done, must be completed, should be finished."
+    },
+    {
+      "id": "fib023",
+      "question": "'The book can be read by everyone' is in ___ voice.",
+      "answer": "passive",
+      "acceptable_answers": ["passive"],
+      "explanation": "The subject 'book' receives the action. Structure: modal + be + V3 = passive."
+    },
+    {
+      "id": "fib024",
+      "question": "In 'The letter was being written', the tense is ___ continuous passive.",
+      "answer": "past",
+      "acceptable_answers": ["past"],
+      "explanation": "was/were + being + V3 indicates past continuous passive."
+    },
+    {
+      "id": "fib025",
+      "question": "In future perfect passive, we use will/shall + have + ___ + V3.",
+      "answer": "been",
+      "acceptable_answers": ["been"],
+      "explanation": "Example: 'The work will have been completed.' (will + have + been + V3)"
+    },
+    {
+      "id": "fib026",
+      "question": "The third form (V3) of 'write' is ___.",
+      "answer": "written",
+      "acceptable_answers": ["written"],
+      "explanation": "write (V1) - wrote (V2) - written (V3)"
+    },
+    {
+      "id": "fib027",
+      "question": "The third form (V3) of 'sing' is ___.",
+      "answer": "sung",
+      "acceptable_answers": ["sung"],
+      "explanation": "sing (V1) - sang (V2) - sung (V3)"
+    },
+    {
+      "id": "fib028",
+      "question": "The third form (V3) of 'take' is ___.",
+      "answer": "taken",
+      "acceptable_answers": ["taken"],
+      "explanation": "take (V1) - took (V2) - taken (V3)"
+    },
+    {
+      "id": "fib029",
+      "question": "The third form (V3) of 'give' is ___.",
+      "answer": "given",
+      "acceptable_answers": ["given"],
+      "explanation": "give (V1) - gave (V2) - given (V3)"
+    },
+    {
+      "id": "fib030",
+      "question": "The third form (V3) of 'do' is ___.",
+      "answer": "done",
+      "acceptable_answers": ["done"],
+      "explanation": "do (V1) - did (V2) - done (V3)"
+    },
+    {
+      "id": "fib031",
+      "question": "'Let the door be opened' is in imperative ___ voice.",
+      "answer": "passive",
+      "acceptable_answers": ["passive"],
+      "explanation": "Let + object + be + V3 is the imperative passive structure."
+    },
+    {
+      "id": "fib032",
+      "question": "When the agent is unknown or unimportant, 'by + agent' is often ___.",
+      "answer": "omitted",
+      "acceptable_answers": ["omitted", "dropped", "removed", "left out"],
+      "explanation": "Example: 'My wallet was stolen.' (by someone - omitted as agent is unknown)"
+    },
+    {
+      "id": "fib033",
+      "question": "'Richa carries a basket' - 'carries' is in ___ voice.",
+      "answer": "active",
+      "acceptable_answers": ["active"],
+      "explanation": "The subject 'Richa' performs the action of carrying."
+    },
+    {
+      "id": "fib034",
+      "question": "'A basket is carried by Richa' - 'is carried' is in ___ voice.",
+      "answer": "passive",
+      "acceptable_answers": ["passive"],
+      "explanation": "The subject 'basket' receives the action. Structure shows passive."
+    },
+    {
+      "id": "fib035",
+      "question": "In the sentence 'English is taught by Stella', Stella is the ___.",
+      "answer": "agent",
+      "acceptable_answers": ["agent", "doer"],
+      "explanation": "The agent is the person who performs the action, introduced by 'by' in passive voice."
+    }
+  ],
+  "total_count": 35,
+  "generated_at": "2025-01-24T12:00:00",
+  "subject": "English E1",
+  "chapter": "Active and Passive Voice"
+}
