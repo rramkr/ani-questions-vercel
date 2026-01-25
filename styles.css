@@ -2884,3 +2884,80 @@ body {
         font-size: 0.75rem;
     }
 }
+
+/* ===== TEXT OVERFLOW FIX ===== */
+/* Prevent text from overflowing containers */
+.question-text,
+.answer-body,
+.correct-answer,
+.correct-answer p,
+.explanation,
+.formatted-answer,
+.formatted-answer p,
+.user-answer,
+.user-answer p,
+.option-text,
+.question-context,
+.case-text,
+.rule-description,
+.rule-note,
+.evaluation-feedback,
+.evaluation-detail,
+.answer-inline,
+.extract-box,
+.tricky-note {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+}
+
+/* Ensure containers don't overflow */
+.question-row,
+.question-side,
+.answer-side,
+.question-content,
+.single-question-card,
+.question-body,
+.answer-body,
+.section-block,
+.card,
+.chapter-item {
+    overflow: hidden;
+    max-width: 100%;
+}
+
+/* Allow vertical scrolling where needed */
+.question-body,
+.answer-body {
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+/* Fix for long addresses in letters */
+.question-text,
+.correct-answer p,
+.answer-body p {
+    white-space: pre-wrap;
+    max-width: 100%;
+}
+
+/* Ensure pre-formatted text wraps properly */
+pre, code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+}
+
+/* Fix table overflow in rules */
+.rules-table-container {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+/* Ensure long words in bold tags wrap */
+b, strong {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
