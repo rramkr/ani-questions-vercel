@@ -3,6 +3,7 @@
   "chapter": "Direct and Indirect Speech",
   "sections": {
     "textbook": [
+      {"value": "rules", "label": "Rules to Follow", "icon": "📜"},
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
     ],
     "exam": [

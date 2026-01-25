@@ -1,4 +1,4 @@
-// Version: 6.0 - Grammar folder open by default
+// Version: 6.2 - Added Rules to Follow section for Direct and Indirect Speech
 // Use local deployment URL for fetching questions (faster than GitHub raw)
 const GITHUB_BASE_URL = './questions_cache';
 
@@ -637,6 +637,14 @@ async function loadSections(chapter) {
 
 async function loadQuestions(type, offset = 0, isTextbookSection = false) {
     showLoading(true);
+
+    // Handle rules type separately
+    if (type.value === 'rules') {
+        await loadRules(type);
+        showLoading(false);
+        return;
+    }
+
     try {
         let allQuestions;
 
@@ -715,6 +723,125 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
         alert('Failed to load questions');
     }
     showLoading(false);
+}
+
+// Load and render rules content
+async function loadRules(type) {
+    try {
+        const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
+        const chapterFolder = encodeURIComponent(state.currentChapter.name);
+        const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/rules.json`);
+
+        if (!response.ok) {
+            alert('Failed to load rules');
+            return;
+        }
+
+        const rulesData = await response.json();
+        state.currentType = type;
+        renderRules(rulesData);
+        showView('quiz');
+    } catch (error) {
+        console.error('Error loading rules:', error);
+        alert('Failed to load rules');
+    }
+}
+
+// Render rules content
+function renderRules(rulesData) {
+    elements.quizTitle.textContent = `${rulesData.title} - ${state.currentChapter.name}`;
+    elements.questionsShown.textContent = rulesData.steps.length + ' steps';
+
+    // Hide quiz-specific elements
+    elements.challengeBanner.style.display = 'none';
+    elements.resultsBanner.style.display = 'none';
+    elements.scoreDisplay.style.display = 'none';
+    elements.tryMoreContainer.style.display = 'none';
+    elements.checkAnswersBtn.style.display = 'none';
+    elements.showAllBtn.style.display = 'none';
+
+    let html = '<div class="rules-container">';
+
+    rulesData.steps.forEach(step => {
+        html += `
+            <div class="rule-step">
+                <div class="rule-step-header">
+                    <span class="step-number">Step ${step.step_number}</span>
+                    <span class="step-title">${step.title}</span>
+                </div>
+                <div class="rule-step-content">
+        `;
+
+        if (step.description) {
+            html += `<p class="rule-description">${step.description}</p>`;
+        }
+
+        if (step.note) {
+            html += `<p class="rule-note"><strong>Note:</strong> ${step.note}</p>`;
+        }
+
+        // Render rules table if exists
+        if (step.rules && step.rules.length > 0) {
+            html += '<div class="rules-table-container"><table class="rules-table"><thead><tr>';
+
+            // Determine table headers based on step type
+            if (step.step_number === 1) {
+                html += '<th>If you see...</th><th>Sentence Type</th><th>Example</th>';
+            } else if (step.step_number === 2) {
+                html += '<th>Type</th><th>Change to</th><th>Example (Direct)</th><th>Example (Indirect)</th>';
+            } else if (step.step_number === 3 || step.step_number === 4 || step.step_number === 5) {
+                html += '<th>Direct Speech</th><th>Indirect Speech</th><th>Example (Direct)</th><th>Example (Indirect)</th>';
+            }
+
+            html += '</tr></thead><tbody>';
+
+            step.rules.forEach(rule => {
+                html += '<tr>';
+                if (step.step_number === 1) {
+                    html += `<td>${rule.condition}</td><td>${rule.type}</td><td class="example-cell">${rule.example}</td>`;
+                } else if (step.step_number === 2) {
+                    html += `<td>${rule.type}</td><td>${rule.change_to}</td><td class="example-cell">${rule.example_direct}</td><td class="example-cell">${rule.example_indirect}</td>`;
+                } else {
+                    html += `<td><strong>${rule.direct}</strong></td><td><strong>${rule.indirect}</strong></td><td class="example-cell">${rule.example_direct}</td><td class="example-cell">${rule.example_indirect}</td>`;
+                }
+                html += '</tr>';
+            });
+
+            html += '</tbody></table></div>';
+        }
+
+        // Render subsections if exists (for steps 6 and 7)
+        if (step.subsections && step.subsections.length > 0) {
+            step.subsections.forEach(subsection => {
+                html += `<div class="rule-subsection">`;
+                html += `<h4 class="subsection-title">${subsection.name}</h4>`;
+
+                if (subsection.instructions && subsection.instructions.length > 0) {
+                    html += '<ul class="subsection-instructions">';
+                    subsection.instructions.forEach(inst => {
+                        html += `<li>${inst}</li>`;
+                    });
+                    html += '</ul>';
+                }
+
+                if (subsection.examples && subsection.examples.length > 0) {
+                    html += '<div class="rules-table-container"><table class="rules-table"><thead><tr><th>Direct</th><th>Indirect</th></tr></thead><tbody>';
+                    subsection.examples.forEach(ex => {
+                        html += `<tr><td class="example-cell">${ex.direct}</td><td class="example-cell">${ex.indirect}</td></tr>`;
+                    });
+                    html += '</tbody></table></div>';
+                }
+
+                html += '</div>';
+            });
+        }
+
+        html += '</div></div>';
+    });
+
+    html += '</div>';
+
+    elements.questionsList.innerHTML = html;
 }
 
 // Shuffle array helper

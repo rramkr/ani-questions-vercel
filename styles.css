@@ -2715,3 +2715,166 @@ body {
     justify-content: center;
     flex-wrap: wrap;
 }
+
+/* ============================================
+   RULES SECTION STYLES
+   ============================================ */
+
+.rules-container {
+    padding: 10px;
+}
+
+.rule-step {
+    background: white;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    border: 2px solid var(--primary-light);
+}
+
+.rule-step-header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--fun-purple) 100%);
+    color: white;
+    padding: 16px 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.step-number {
+    background: rgba(255, 255, 255, 0.25);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-weight: 800;
+    font-size: 0.9rem;
+}
+
+.step-title {
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+.rule-step-content {
+    padding: 20px;
+}
+
+.rule-description {
+    color: var(--text);
+    margin-bottom: 15px;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.rule-note {
+    background: #fef3c7;
+    border-left: 4px solid #f59e0b;
+    padding: 12px 15px;
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 15px;
+    font-size: 0.95rem;
+    color: #92400e;
+}
+
+.rules-table-container {
+    overflow-x: auto;
+    margin: 15px 0;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+}
+
+.rules-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.rules-table th {
+    background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%);
+    color: var(--primary-dark);
+    padding: 12px 15px;
+    text-align: left;
+    font-weight: 700;
+    border-bottom: 2px solid var(--primary-light);
+}
+
+.rules-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+}
+
+.rules-table tr:last-child td {
+    border-bottom: none;
+}
+
+.rules-table tr:nth-child(even) {
+    background: #faf5ff;
+}
+
+.rules-table tr:hover {
+    background: #f3e8ff;
+}
+
+.example-cell {
+    font-style: italic;
+    color: var(--text-light);
+    font-size: 0.85rem;
+}
+
+.rule-subsection {
+    background: #f8fafc;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 15px 0;
+    border: 1px solid var(--border);
+}
+
+.subsection-title {
+    color: var(--primary);
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 2px dashed var(--primary-light);
+}
+
+.subsection-instructions {
+    margin: 10px 0 15px 20px;
+    color: var(--text);
+}
+
+.subsection-instructions li {
+    margin-bottom: 6px;
+    line-height: 1.5;
+}
+
+/* Mobile responsive for rules */
+@media (max-width: 768px) {
+    .rule-step-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+
+    .step-number {
+        font-size: 0.8rem;
+    }
+
+    .step-title {
+        font-size: 1rem;
+    }
+
+    .rules-table {
+        font-size: 0.8rem;
+    }
+
+    .rules-table th,
+    .rules-table td {
+        padding: 8px 10px;
+    }
+
+    .example-cell {
+        font-size: 0.75rem;
+    }
+}

@@ -1,0 +1,188 @@
+{
+  "subject": "English E1",
+  "chapter": "Direct and Indirect Speech",
+  "type": "rules",
+  "title": "Rules to Follow",
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Identify the Type of Sentence",
+      "description": "Look at the punctuation and words inside the quotation marks:",
+      "rules": [
+        {"condition": ". (full stop)", "type": "Statement", "example": "'He said, \"I am going home.\"'"},
+        {"condition": "? (question mark)", "type": "Question", "example": "'She said, \"Where are you going?\"'"},
+        {"condition": "! with command words", "type": "Imperative (Command)", "example": "'Mother said, \"Close the door!\"'"},
+        {"condition": "! with Hurrah/Alas/Oh/What/How", "type": "Exclamatory", "example": "'He said, \"What a beautiful day!\"'"},
+        {"condition": "! with May...", "type": "Optative (Wish)", "example": "'She said, \"May God bless you!\"'"},
+        {"condition": "Please + command", "type": "Request", "example": "'He said, \"Please help me.\"'"}
+      ]
+    },
+    {
+      "step_number": 2,
+      "title": "Change the Reporting Verb",
+      "description": "Based on sentence type, change 'said' or 'said to' as follows:",
+      "note": "'said to (person)' always becomes 'told (person)' — never use 'said to' in indirect speech.",
+      "rules": [
+        {"type": "Statement", "change_to": "said that / told (person) that", "example_direct": "'He said, \"I am tired.\"'", "example_indirect": "He said that... / He told me that..."},
+        {"type": "Yes/No Question", "change_to": "asked if / asked whether", "example_direct": "'She said, \"Are you coming?\"'", "example_indirect": "She asked if..."},
+        {"type": "Wh- Question", "change_to": "asked + question word", "example_direct": "'He said, \"Where do you live?\"'", "example_indirect": "He asked where..."},
+        {"type": "Command", "change_to": "told (person) to / ordered (person) to", "example_direct": "'She said, \"Sit down.\"'", "example_indirect": "She told me to..."},
+        {"type": "Request (Please)", "change_to": "requested (person) to", "example_direct": "'He said, \"Please wait.\"'", "example_indirect": "He requested me to..."},
+        {"type": "Advice (should)", "change_to": "advised (person) to", "example_direct": "'She said, \"You should study.\"'", "example_indirect": "She advised me to..."},
+        {"type": "Exclamation (Hurrah!)", "change_to": "exclaimed with joy that", "example_direct": "'He said, \"Hurrah! We won!\"'", "example_indirect": "He exclaimed with joy that..."},
+        {"type": "Exclamation (Alas!)", "change_to": "exclaimed with sorrow that", "example_direct": "'She said, \"Alas! I failed.\"'", "example_indirect": "She exclaimed with sorrow that..."},
+        {"type": "Wish (May...)", "change_to": "wished that / prayed that", "example_direct": "'He said, \"May you succeed!\"'", "example_indirect": "He wished that..."}
+      ]
+    },
+    {
+      "step_number": 3,
+      "title": "Change the Pronouns",
+      "description": "Change pronouns based on who is speaking and who is being spoken to:",
+      "rules": [
+        {"direct": "I", "indirect": "he / she", "example_direct": "'He said, \"I am happy.\"'", "example_indirect": "He said that he was happy."},
+        {"direct": "we", "indirect": "they", "example_direct": "'They said, \"We are tired.\"'", "example_indirect": "They said that they were tired."},
+        {"direct": "you", "indirect": "I / he / she / they", "example_direct": "'She said to me, \"You are late.\"'", "example_indirect": "She told me that I was late."},
+        {"direct": "my", "indirect": "his / her", "example_direct": "'He said, \"I lost my book.\"'", "example_indirect": "He said that he had lost his book."},
+        {"direct": "our", "indirect": "their", "example_direct": "'They said, \"We love our school.\"'", "example_indirect": "They said that they loved their school."},
+        {"direct": "your", "indirect": "my / his / her", "example_direct": "'She said to me, \"I like your dress.\"'", "example_indirect": "She told me that she liked my dress."},
+        {"direct": "me", "indirect": "him / her", "example_direct": "'He said, \"Call me.\"'", "example_indirect": "He told me to call him."},
+        {"direct": "us", "indirect": "them", "example_direct": "'They said, \"Help us.\"'", "example_indirect": "They requested me to help them."}
+      ]
+    },
+    {
+      "step_number": 4,
+      "title": "Change the Tense",
+      "description": "Move each tense one step back into the past:",
+      "rules": [
+        {"direct": "is / am / are", "indirect": "was / were", "example_direct": "'She said, \"I am busy.\"'", "example_indirect": "She said that she was busy."},
+        {"direct": "is going / am going", "indirect": "was going", "example_direct": "'He said, \"I am going.\"'", "example_indirect": "He said that he was going."},
+        {"direct": "has / have", "indirect": "had", "example_direct": "'She said, \"I have a pen.\"'", "example_indirect": "She said that she had a pen."},
+        {"direct": "has gone / have gone", "indirect": "had gone", "example_direct": "'He said, \"I have finished.\"'", "example_indirect": "He said that he had finished."},
+        {"direct": "go / goes", "indirect": "went", "example_direct": "'She said, \"I go daily.\"'", "example_indirect": "She said that she went daily."},
+        {"direct": "went", "indirect": "had gone", "example_direct": "'He said, \"I went there.\"'", "example_indirect": "He said that he had gone there."},
+        {"direct": "was going", "indirect": "had been going", "example_direct": "'She said, \"I was reading.\"'", "example_indirect": "She said that she had been reading."},
+        {"direct": "will", "indirect": "would", "example_direct": "'He said, \"I will come.\"'", "example_indirect": "He said that he would come."},
+        {"direct": "shall", "indirect": "would", "example_direct": "'She said, \"I shall help.\"'", "example_indirect": "She said that she would help."},
+        {"direct": "can", "indirect": "could", "example_direct": "'He said, \"I can swim.\"'", "example_indirect": "He said that he could swim."},
+        {"direct": "may", "indirect": "might", "example_direct": "'She said, \"I may go.\"'", "example_indirect": "She said that she might go."},
+        {"direct": "must", "indirect": "had to", "example_direct": "'He said, \"I must leave.\"'", "example_indirect": "He said that he had to leave."}
+      ]
+    },
+    {
+      "step_number": 5,
+      "title": "Change Time and Place Words",
+      "description": "Change these words to match the indirect speech perspective:",
+      "rules": [
+        {"direct": "now", "indirect": "then", "example_direct": "'He said, \"I am busy now.\"'", "example_indirect": "He said that he was busy then."},
+        {"direct": "today", "indirect": "that day", "example_direct": "'She said, \"I will go today.\"'", "example_indirect": "She said that she would go that day."},
+        {"direct": "tonight", "indirect": "that night", "example_direct": "'He said, \"I will call tonight.\"'", "example_indirect": "He said that he would call that night."},
+        {"direct": "tomorrow", "indirect": "the next day", "example_direct": "'She said, \"I will come tomorrow.\"'", "example_indirect": "She said that she would come the next day."},
+        {"direct": "yesterday", "indirect": "the previous day", "example_direct": "'He said, \"I came yesterday.\"'", "example_indirect": "He said that he had come the previous day."},
+        {"direct": "last night", "indirect": "the previous night", "example_direct": "'She said, \"I slept late last night.\"'", "example_indirect": "She said that she had slept late the previous night."},
+        {"direct": "last week", "indirect": "the previous week", "example_direct": "'He said, \"I was ill last week.\"'", "example_indirect": "He said that he had been ill the previous week."},
+        {"direct": "next week", "indirect": "the following week", "example_direct": "'She said, \"I will visit next week.\"'", "example_indirect": "She said that she would visit the following week."},
+        {"direct": "ago", "indirect": "before", "example_direct": "'He said, \"I came two days ago.\"'", "example_indirect": "He said that he had come two days before."},
+        {"direct": "this", "indirect": "that", "example_direct": "'She said, \"I like this book.\"'", "example_indirect": "She said that she liked that book."},
+        {"direct": "these", "indirect": "those", "example_direct": "'He said, \"These are good.\"'", "example_indirect": "He said that those were good."},
+        {"direct": "here", "indirect": "there", "example_direct": "'She said, \"Come here.\"'", "example_indirect": "She told me to go there."}
+      ]
+    },
+    {
+      "step_number": 6,
+      "title": "Apply Special Rules for Each Sentence Type",
+      "subsections": [
+        {
+          "name": "A. For Statements",
+          "instructions": ["Remove quotation marks", "Add 'that' after reporting verb", "Apply Steps 3, 4, 5"],
+          "examples": [
+            {"direct": "'She said, \"I am cooking dinner.\"'", "indirect": "She said that she was cooking dinner."},
+            {"direct": "'He said to me, \"I will help you.\"'", "indirect": "He told me that he would help me."}
+          ]
+        },
+        {
+          "name": "B. For Yes/No Questions",
+          "instructions": ["Use 'if' or 'whether' (no 'that')", "Change to statement word order (remove do/does/did)", "Remove question mark"],
+          "examples": [
+            {"direct": "'She said, \"Are you coming?\"'", "indirect": "She asked if I was coming."},
+            {"direct": "'He said, \"Do you like tea?\"'", "indirect": "He asked whether I liked tea."},
+            {"direct": "'Mother said, \"Have you eaten?\"'", "indirect": "Mother asked if I had eaten."},
+            {"direct": "'She said, \"Will you help me?\"'", "indirect": "She asked if I would help her."}
+          ]
+        },
+        {
+          "name": "C. For Wh- Questions",
+          "instructions": ["Keep the question word (what, where, when, why, how, who, which, whose)", "Change to statement word order", "Remove question mark"],
+          "examples": [
+            {"direct": "'He said, \"Where do you live?\"'", "indirect": "He asked where I lived."},
+            {"direct": "'She said, \"What is your name?\"'", "indirect": "She asked what my name was."},
+            {"direct": "'He said, \"Why are you crying?\"'", "indirect": "He asked why I was crying."},
+            {"direct": "'She said, \"When will you come?\"'", "indirect": "She asked when I would come."}
+          ]
+        },
+        {
+          "name": "D. For Imperatives (Commands/Requests)",
+          "instructions": ["Use 'to + verb' for positive commands", "Use 'not to + verb' for negative commands", "No tense change needed for the main verb"],
+          "examples": [
+            {"direct": "'She said, \"Open the window.\"'", "indirect": "She told me to open the window."},
+            {"direct": "'He said, \"Please help me.\"'", "indirect": "He requested me to help him."},
+            {"direct": "'Mother said, \"Don't go out.\"'", "indirect": "Mother told me not to go out."},
+            {"direct": "'The teacher said, \"Never tell lies.\"'", "indirect": "The teacher advised us never to tell lies."}
+          ]
+        },
+        {
+          "name": "E. For Exclamatory Sentences",
+          "instructions": ["'What a/an...' becomes 'a very...'", "'How + adjective/adverb' becomes 'very + adjective/adverb'", "'Hurrah!' -> exclaimed with joy", "'Alas!' -> exclaimed with sorrow"],
+          "examples": [
+            {"direct": "'She said, \"What a beautiful flower!\"'", "indirect": "She exclaimed that it was a very beautiful flower."},
+            {"direct": "'He said, \"How clever you are!\"'", "indirect": "He exclaimed that I was very clever."},
+            {"direct": "'They said, \"Hurrah! We have won!\"'", "indirect": "They exclaimed with joy that they had won."},
+            {"direct": "'She said, \"Alas! I have lost my purse.\"'", "indirect": "She exclaimed with sorrow that she had lost her purse."}
+          ]
+        },
+        {
+          "name": "F. For Optative Sentences (Wishes/Prayers)",
+          "instructions": ["Use 'wished that' or 'prayed that'", "'May' changes to 'might'"],
+          "examples": [
+            {"direct": "'She said, \"May you live long!\"'", "indirect": "She wished that I might live long."},
+            {"direct": "'He said, \"May God bless you!\"'", "indirect": "He prayed that God might bless me."},
+            {"direct": "'Mother said, \"May you succeed!\"'", "indirect": "Mother wished that I might succeed."}
+          ]
+        }
+      ]
+    },
+    {
+      "step_number": 7,
+      "title": "Check for Exceptions (No Tense Change)",
+      "description": "Do NOT change the tense in these cases:",
+      "subsections": [
+        {
+          "name": "A. Universal Truths",
+          "examples": [
+            {"direct": "'The teacher said, \"The earth moves round the sun.\"'", "indirect": "The teacher said that the earth moves round the sun."},
+            {"direct": "'He said, \"Honesty is the best policy.\"'", "indirect": "He said that honesty is the best policy."}
+          ]
+        },
+        {
+          "name": "B. Scientific Facts",
+          "examples": [
+            {"direct": "'She said, \"Water boils at 100°C.\"'", "indirect": "She said that water boils at 100°C."},
+            {"direct": "'He said, \"Light travels faster than sound.\"'", "indirect": "He said that light travels faster than sound."}
+          ]
+        },
+        {
+          "name": "C. Historical Facts",
+          "examples": [
+            {"direct": "'The teacher said, \"World War II ended in 1945.\"'", "indirect": "The teacher said that World War II ended in 1945."}
+          ]
+        },
+        {
+          "name": "D. When Reporting Verb is in Present/Future Tense",
+          "examples": [
+            {"direct": "'He says, \"I am happy.\"'", "indirect": "He says that he is happy."},
+            {"direct": "'She will say, \"I am coming.\"'", "indirect": "She will say that she is coming."}
+          ]
+        }
+      ]
+    }
+  ]
+}
