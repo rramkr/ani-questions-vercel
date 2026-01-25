@@ -656,7 +656,7 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
     }
 
     // Handle comprehension passages type separately
-    if (type.value === 'passages') {
+    if (type.value === 'passages' || type.value === 'exam_passages' || type.value === 'additional_passages') {
         await loadComprehensionPassages(type);
         showLoading(false);
         return;
@@ -873,7 +873,7 @@ async function loadComprehensionPassages(type) {
     try {
         const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
         const chapterFolder = encodeURIComponent(state.currentChapter.name);
-        const url = `${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/passages.json`;
+        const url = `${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/${type.value}.json`;
         console.log('Fetching passages from:', url);
         const response = await fetch(url);
 
