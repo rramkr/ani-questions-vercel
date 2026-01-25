@@ -1403,7 +1403,6 @@ function renderPictureComposition() {
 
             <div class="picture-header">
                 <span class="picture-badge">Picture ${currentPictureNum} of ${totalPictures}</span>
-                <h3 class="picture-title">${picture.title}</h3>
             </div>
 
             <div class="picture-display-box">
