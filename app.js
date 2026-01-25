@@ -1,4 +1,4 @@
-// Version: 6.2 - Added Rules to Follow section for Direct and Indirect Speech
+// Version: 6.3 - Added Unseen Comprehension passages support
 // Use local deployment URL for fetching questions (faster than GitHub raw)
 const GITHUB_BASE_URL = './questions_cache';
 
@@ -227,6 +227,11 @@ const state = {
     currentAnswerRevealed: false,  // Whether current question's answer is shown
     currentEvaluation: null,  // AI evaluation result for current answer
     isEvaluating: false,  // Loading state for evaluation
+    // Comprehension passage state
+    comprehensionMode: false,  // Whether we're in comprehension mode
+    passages: [],  // All passages
+    currentPassageIndex: 0,  // Current passage index
+    currentPassageQuestionIndex: 0,  // Current question index within current passage
 };
 
 // DOM Elements
@@ -551,6 +556,11 @@ function resetState() {
     state.oneByOneMode = false;
     state.currentQuestionIndex = 0;
     state.currentAnswerRevealed = false;
+    // Reset comprehension state
+    state.comprehensionMode = false;
+    state.passages = [];
+    state.currentPassageIndex = 0;
+    state.currentPassageQuestionIndex = 0;
 }
 
 // API Calls - Fetching from GitHub
@@ -641,6 +651,13 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
     // Handle rules type separately
     if (type.value === 'rules') {
         await loadRules(type);
+        showLoading(false);
+        return;
+    }
+
+    // Handle comprehension passages type separately
+    if (type.value === 'passages') {
+        await loadComprehensionPassages(type);
         showLoading(false);
         return;
     }
@@ -848,6 +865,313 @@ function renderRules(rulesData) {
 
     elements.questionsContainer.innerHTML = html;
 }
+
+// ============== COMPREHENSION PASSAGE HANDLING ==============
+
+// Load comprehension passages
+async function loadComprehensionPassages(type) {
+    try {
+        const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
+        const chapterFolder = encodeURIComponent(state.currentChapter.name);
+        const url = `${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/passages.json`;
+        console.log('Fetching passages from:', url);
+        const response = await fetch(url);
+
+        if (!response.ok) {
+            console.error('Failed to fetch passages, status:', response.status);
+            alert('Failed to load comprehension passages');
+            return;
+        }
+
+        const data = await response.json();
+        console.log('Passages data loaded:', data);
+
+        state.currentType = type;
+        state.passages = data.passages || [];
+        state.comprehensionMode = true;
+        state.currentPassageIndex = 0;
+        state.currentPassageQuestionIndex = 0;
+        state.currentAnswerRevealed = false;
+        state.userAnswers = {};
+
+        renderComprehensionQuiz();
+        showView('quiz');
+        updateHash();
+    } catch (error) {
+        console.error('Error loading passages:', error);
+        alert('Failed to load passages: ' + error.message);
+    }
+}
+
+// Render comprehension quiz view
+function renderComprehensionQuiz() {
+    const passage = state.passages[state.currentPassageIndex];
+    if (!passage) {
+        elements.questionsContainer.innerHTML = '<div class="empty-state">No passages available.</div>';
+        return;
+    }
+
+    const currentQuestion = passage.questions[state.currentPassageQuestionIndex];
+    const totalPassages = state.passages.length;
+    const totalQuestions = passage.questions.length;
+    const currentPassageNum = state.currentPassageIndex + 1;
+    const currentQuestionNum = state.currentPassageQuestionIndex + 1;
+
+    // Update title and count
+    elements.quizTitle.textContent = `Comprehension - ${state.currentChapter.name}`;
+    elements.questionsShown.textContent = `Passage ${currentPassageNum}/${totalPassages} • Q${currentQuestionNum}/${totalQuestions}`;
+
+    // Hide standard quiz elements
+    elements.challengeBanner.style.display = 'none';
+    elements.resultsBanner.style.display = 'none';
+    elements.scoreDisplay.style.display = 'none';
+    elements.encouragementBanner.style.display = 'none';
+    elements.tryMoreBtn.style.display = 'none';
+    elements.checkAnswersBtn.style.display = 'none';
+    elements.showAllAnswersBtn.style.display = 'none';
+
+    // Format passage text with proper line breaks
+    const formattedPassage = passage.passage.replace(/\n/g, '<br>');
+
+    // Render the question based on its type
+    const questionContent = renderComprehensionQuestion(currentQuestion);
+    const answerContent = state.currentAnswerRevealed ? renderComprehensionAnswer(currentQuestion) : '';
+
+    // Navigation logic
+    const isFirstQuestion = state.currentPassageQuestionIndex === 0;
+    const isLastQuestion = state.currentPassageQuestionIndex === totalQuestions - 1;
+    const isFirstPassage = state.currentPassageIndex === 0;
+    const isLastPassage = state.currentPassageIndex === totalPassages - 1;
+    const canProceed = state.currentAnswerRevealed;
+
+    elements.questionsContainer.innerHTML = `
+        <div class="comprehension-container">
+            <div class="passage-header">
+                <span class="passage-badge">Passage ${currentPassageNum} of ${totalPassages}</span>
+                <h3 class="passage-title">${passage.title}</h3>
+            </div>
+
+            <div class="passage-box">
+                <div class="passage-text">${formattedPassage}</div>
+            </div>
+
+            <div class="comprehension-question-section">
+                <div class="question-progress-bar">
+                    <div class="progress-fill" style="width: ${(currentQuestionNum / totalQuestions) * 100}%"></div>
+                </div>
+                <div class="question-counter">Question ${currentQuestionNum} of ${totalQuestions}</div>
+
+                <div class="comprehension-question-card">
+                    ${questionContent}
+
+                    ${!state.currentAnswerRevealed ? `
+                        <div class="comprehension-action-buttons">
+                            <button class="see-answer-btn" onclick="revealComprehensionAnswer()">
+                                👁️ See Answer
+                            </button>
+                        </div>
+                    ` : `
+                        <div class="comprehension-answer-box">
+                            <div class="answer-header">📖 Answer:</div>
+                            ${answerContent}
+                        </div>
+                    `}
+                </div>
+
+                <div class="comprehension-navigation">
+                    <button class="nav-btn back-btn ${isFirstQuestion && isFirstPassage ? 'disabled' : ''}"
+                            onclick="goToPreviousComprehensionQuestion()"
+                            ${isFirstQuestion && isFirstPassage ? 'disabled' : ''}>
+                        ← ${isFirstQuestion && !isFirstPassage ? 'Prev Passage' : 'Back'}
+                    </button>
+
+                    ${isLastQuestion ? (isLastPassage ? `
+                        <button class="nav-btn finish-btn ${!canProceed ? 'disabled' : ''}"
+                                onclick="finishComprehension()"
+                                ${!canProceed ? 'disabled' : ''}>
+                            Finish 🏁
+                        </button>
+                    ` : `
+                        <button class="nav-btn next-btn ${!canProceed ? 'disabled' : ''}"
+                                onclick="goToNextComprehensionPassage()"
+                                ${!canProceed ? 'disabled' : ''}>
+                            Next Passage →
+                        </button>
+                    `) : `
+                        <button class="nav-btn next-btn ${!canProceed ? 'disabled' : ''}"
+                                onclick="goToNextComprehensionQuestion()"
+                                ${!canProceed ? 'disabled' : ''}>
+                            Next →
+                        </button>
+                    `}
+                </div>
+            </div>
+        </div>
+    `;
+}
+
+// Render individual comprehension question based on type
+function renderComprehensionQuestion(q) {
+    const qType = q.type;
+
+    if (qType === 'mcq') {
+        const userAnswer = state.userAnswers[q.id] || '';
+        return `
+            <div class="question-type-badge">${qType.toUpperCase()}</div>
+            <div class="question-text">${q.question}</div>
+            <div class="mcq-options">
+                ${q.options.map((opt, i) => `
+                    <label class="mcq-option ${userAnswer === opt ? 'selected' : ''}">
+                        <input type="radio" name="q-${q.id}" value="${escapeHtml(opt)}"
+                               ${userAnswer === opt ? 'checked' : ''}
+                               onchange="handleComprehensionAnswer('${q.id}', '${escapeHtml(opt)}')"
+                               ${state.currentAnswerRevealed ? 'disabled' : ''}>
+                        <span class="option-text">${opt}</span>
+                    </label>
+                `).join('')}
+            </div>
+        `;
+    } else if (qType === 'short_answer') {
+        const userAnswer = state.userAnswers[q.id] || '';
+        return `
+            <div class="question-type-badge">SHORT ANSWER</div>
+            <div class="question-text">${q.question}</div>
+            <textarea class="text-area comprehension-textarea"
+                      placeholder="Type your answer..."
+                      oninput="handleComprehensionAnswer('${q.id}', this.value)"
+                      ${state.currentAnswerRevealed ? 'disabled' : ''}
+                      id="input-${q.id}">${escapeHtml(userAnswer)}</textarea>
+        `;
+    } else if (qType === 'fill_blank') {
+        const userAnswer = state.userAnswers[q.id] || '';
+        return `
+            <div class="question-type-badge">COMPLETE THE STATEMENT</div>
+            <div class="question-text">${q.question}</div>
+            <input type="text" class="text-input comprehension-input"
+                   placeholder="Type your answer..."
+                   value="${escapeHtml(userAnswer)}"
+                   oninput="handleComprehensionAnswer('${q.id}', this.value)"
+                   ${state.currentAnswerRevealed ? 'disabled' : ''}
+                   id="input-${q.id}">
+        `;
+    } else if (qType === 'vocabulary') {
+        const userAnswer = state.userAnswers[q.id] || '';
+        return `
+            <div class="question-type-badge">VOCABULARY</div>
+            <div class="question-text">${q.question}</div>
+            <input type="text" class="text-input comprehension-input"
+                   placeholder="Type the word from the passage..."
+                   value="${escapeHtml(userAnswer)}"
+                   oninput="handleComprehensionAnswer('${q.id}', this.value)"
+                   ${state.currentAnswerRevealed ? 'disabled' : ''}
+                   id="input-${q.id}">
+        `;
+    } else {
+        // Default: treat as short answer
+        const userAnswer = state.userAnswers[q.id] || '';
+        return `
+            <div class="question-type-badge">${(qType || 'QUESTION').toUpperCase()}</div>
+            <div class="question-text">${q.question}</div>
+            <textarea class="text-area comprehension-textarea"
+                      placeholder="Type your answer..."
+                      oninput="handleComprehensionAnswer('${q.id}', this.value)"
+                      ${state.currentAnswerRevealed ? 'disabled' : ''}
+                      id="input-${q.id}">${escapeHtml(userAnswer)}</textarea>
+        `;
+    }
+}
+
+// Render comprehension answer
+function renderComprehensionAnswer(q) {
+    let html = `<div class="answer-text">${q.answer}</div>`;
+
+    if (q.explanation) {
+        html += `<div class="answer-explanation"><strong>Explanation:</strong> ${q.explanation}</div>`;
+    }
+
+    return html;
+}
+
+// Handle comprehension answer input
+function handleComprehensionAnswer(questionId, value) {
+    state.userAnswers[questionId] = value;
+}
+
+// Reveal answer for current comprehension question
+function revealComprehensionAnswer() {
+    state.currentAnswerRevealed = true;
+    renderComprehensionQuiz();
+}
+
+// Go to next comprehension question
+function goToNextComprehensionQuestion() {
+    const passage = state.passages[state.currentPassageIndex];
+    if (state.currentPassageQuestionIndex < passage.questions.length - 1) {
+        state.currentPassageQuestionIndex++;
+        state.currentAnswerRevealed = false;
+        renderComprehensionQuiz();
+    }
+}
+
+// Go to previous comprehension question
+function goToPreviousComprehensionQuestion() {
+    if (state.currentPassageQuestionIndex > 0) {
+        state.currentPassageQuestionIndex--;
+        state.currentAnswerRevealed = false;
+        renderComprehensionQuiz();
+    } else if (state.currentPassageIndex > 0) {
+        // Go to last question of previous passage
+        state.currentPassageIndex--;
+        const prevPassage = state.passages[state.currentPassageIndex];
+        state.currentPassageQuestionIndex = prevPassage.questions.length - 1;
+        state.currentAnswerRevealed = false;
+        renderComprehensionQuiz();
+    }
+}
+
+// Go to next comprehension passage
+function goToNextComprehensionPassage() {
+    if (state.currentPassageIndex < state.passages.length - 1) {
+        state.currentPassageIndex++;
+        state.currentPassageQuestionIndex = 0;
+        state.currentAnswerRevealed = false;
+        renderComprehensionQuiz();
+        // Scroll to top of container
+        elements.questionsContainer.scrollTop = 0;
+        window.scrollTo(0, 0);
+    }
+}
+
+// Finish comprehension quiz
+function finishComprehension() {
+    // Reset comprehension mode
+    state.comprehensionMode = false;
+    state.passages = [];
+    state.currentPassageIndex = 0;
+    state.currentPassageQuestionIndex = 0;
+
+    // Show completion message
+    elements.questionsContainer.innerHTML = `
+        <div class="completion-container">
+            <div class="completion-icon">🎉</div>
+            <h2 class="completion-title">Great Job!</h2>
+            <p class="completion-message">You've completed all the comprehension passages!</p>
+            <button class="back-to-sections-btn" onclick="goBackToSections()">
+                ← Back to Sections
+            </button>
+        </div>
+    `;
+}
+
+// Go back to sections from completion
+function goBackToSections() {
+    state.currentType = null;
+    state.comprehensionMode = false;
+    showView('sections');
+    updateHash();
+}
+
+// ============== END COMPREHENSION PASSAGE HANDLING ==============
 
 // Shuffle array helper
 function shuffleArray(array) {

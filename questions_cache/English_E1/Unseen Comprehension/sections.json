@@ -1,0 +1,11 @@
+{
+  "subject": "English E1",
+  "chapter": "Unseen Comprehension",
+  "sections": {
+    "textbook": [],
+    "exam": [
+      {"value": "passages", "label": "Comprehension Passages", "icon": "📖"}
+    ],
+    "miscellaneous": []
+  }
+}

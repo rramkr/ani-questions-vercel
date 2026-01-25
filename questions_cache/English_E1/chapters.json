@@ -82,8 +82,10 @@
     {
       "name": "Unseen Comprehension",
       "slug": "Unseen Comprehension",
-      "has_questions": false,
-      "icon": "📖"
+      "has_questions": true,
+      "icon": "📖",
+      "category": "Reading",
+      "category_icon": "📚"
     }
   ]
 }
