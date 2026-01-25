@@ -1,0 +1,47 @@
+{
+  "question_type": "essay",
+  "questions": [
+    {
+      "id": "letter_structure_1",
+      "title": "Informal Letter Format",
+      "question": "What is the format of an Informal Letter?",
+      "paragraphs": [
+        "<b>An Informal Letter has 6 parts:</b>",
+        "<b>1. SENDER'S ADDRESS (Top Left):</b>\n• Write your house name/number\n• Street name\n• Area/Locality\n• City - PIN Code\n• Example:\nDhvani\n16/8, 21st Cross Street\nIndira Nagar, Adyar\nChennai - 600020",
+        "<b>2. DATE (Below Address):</b>\n• Leave one line after address\n• Write the date in full\n• Example: 10th February 2026",
+        "<b>3. SALUTATION (Greeting):</b>\n• For friends: <b>Dear [Name],</b>\n• For relatives: <b>Dear [Relation],</b> or <b>My dear [Name],</b>\n• Always followed by a comma",
+        "<b>4. BODY (3 Paragraphs):</b>\n• <b>Paragraph 1:</b> Ask about their well-being, mention why you are writing\n• <b>Paragraph 2:</b> Main content - give details about the topic\n• <b>Paragraph 3:</b> Conclude, ask them to reply or visit",
+        "<b>5. CLOSING (Subscription):</b>\n• For friends: <b>Your loving friend,</b> or <b>Your best friend,</b>\n• For relatives: <b>Your loving [relation],</b> or <b>Your affectionate [relation],</b>\n• Always followed by a comma",
+        "<b>6. SIGNATURE:</b>\n• Write your name below the closing"
+      ],
+      "answer": "<b>An Informal Letter has 6 parts:</b>\n\n<b>1. SENDER'S ADDRESS (Top Left):</b>\n• Write your house name/number\n• Street name\n• Area/Locality\n• City - PIN Code\n• Example:\nDhvani\n16/8, 21st Cross Street\nIndira Nagar, Adyar\nChennai - 600020\n\n<b>2. DATE (Below Address):</b>\n• Leave one line after address\n• Write the date in full\n• Example: 10th February 2026\n\n<b>3. SALUTATION (Greeting):</b>\n• For friends: <b>Dear [Name],</b>\n• For relatives: <b>Dear [Relation],</b> or <b>My dear [Name],</b>\n• Always followed by a comma\n\n<b>4. BODY (3 Paragraphs):</b>\n• <b>Paragraph 1:</b> Ask about their well-being, mention why you are writing\n• <b>Paragraph 2:</b> Main content - give details about the topic\n• <b>Paragraph 3:</b> Conclude, ask them to reply or visit\n\n<b>5. CLOSING (Subscription):</b>\n• For friends: <b>Your loving friend,</b> or <b>Your best friend,</b>\n• For relatives: <b>Your loving [relation],</b> or <b>Your affectionate [relation],</b>\n• Always followed by a comma\n\n<b>6. SIGNATURE:</b>\n• Write your name below the closing"
+    },
+    {
+      "id": "letter_structure_2",
+      "title": "Opening & Closing Phrases",
+      "question": "What are common phrases used in Informal Letters?",
+      "paragraphs": [
+        "<b>OPENING PHRASES (Paragraph 1):</b>\n• <b>How are you?</b> I hope you are doing well.\n• <b>I hope this letter finds you in good health.</b>\n• <b>It has been a long time since I heard from you.</b>\n• <b>I was very happy to receive your letter.</b>\n• <b>Thank you for your lovely letter.</b>\n• <b>I am writing to tell you about...</b>",
+        "<b>BODY PHRASES (Paragraph 2):</b>\n• <b>You will be happy to know that...</b>\n• <b>I am excited to share that...</b>\n• <b>I wanted to tell you about...</b>\n• <b>Let me describe...</b>\n• <b>The best part was...</b>",
+        "<b>CLOSING PHRASES (Paragraph 3):</b>\n• <b>Please convey my regards to...</b>\n• <b>Give my love to everyone at home.</b>\n• <b>I am eagerly waiting for your reply.</b>\n• <b>Do write back soon.</b>\n• <b>I hope to see you soon.</b>\n• <b>Looking forward to hearing from you.</b>",
+        "<b>SUBSCRIPTION OPTIONS:</b>\n• Your loving friend,\n• Your best friend,\n• Your affectionate cousin,\n• Your loving nephew/niece,\n• With love,\n• Yours lovingly,"
+      ],
+      "answer": "<b>OPENING PHRASES (Paragraph 1):</b>\n• <b>How are you?</b> I hope you are doing well.\n• <b>I hope this letter finds you in good health.</b>\n• <b>It has been a long time since I heard from you.</b>\n• <b>I was very happy to receive your letter.</b>\n• <b>Thank you for your lovely letter.</b>\n• <b>I am writing to tell you about...</b>\n\n<b>BODY PHRASES (Paragraph 2):</b>\n• <b>You will be happy to know that...</b>\n• <b>I am excited to share that...</b>\n• <b>I wanted to tell you about...</b>\n• <b>Let me describe...</b>\n• <b>The best part was...</b>\n\n<b>CLOSING PHRASES (Paragraph 3):</b>\n• <b>Please convey my regards to...</b>\n• <b>Give my love to everyone at home.</b>\n• <b>I am eagerly waiting for your reply.</b>\n• <b>Do write back soon.</b>\n• <b>I hope to see you soon.</b>\n• <b>Looking forward to hearing from you.</b>\n\n<b>SUBSCRIPTION OPTIONS:</b>\n• Your loving friend,\n• Your best friend,\n• Your affectionate cousin,\n• Your loving nephew/niece,\n• With love,\n• Yours lovingly,"
+    },
+    {
+      "id": "letter_structure_3",
+      "title": "Sample Letter Layout",
+      "question": "Show a sample layout of an Informal Letter.",
+      "paragraphs": [
+        "<b>Dhvani</b>\n<b>16/8, 21st Cross Street</b>\n<b>Indira Nagar, Adyar</b>\n<b>Chennai - 600020</b>\n\n<b>10th February 2026</b>",
+        "<b>Dear Rahul,</b>",
+        "<b>How are you?</b> I hope you and your family are doing well. It has been a long time since we met. <b>I am writing to tell you about</b> my summer vacation.\n\n<b>You will be happy to know that</b> I went to Ooty with my family last month. We stayed there for five days. The weather was very pleasant. We visited the Botanical Garden, Ooty Lake, and Doddabetta Peak. <b>The best part was</b> the toy train ride. It was my first time on a mountain railway. The views were breathtaking!\n\n<b>Please convey my regards to</b> uncle and aunty. <b>I hope to see you soon.</b> Do write back and tell me about your holidays.",
+        "<b>Your loving friend,</b>\n<b>Anirudh</b>"
+      ],
+      "answer": "<b>Dhvani</b>\n<b>16/8, 21st Cross Street</b>\n<b>Indira Nagar, Adyar</b>\n<b>Chennai - 600020</b>\n\n<b>10th February 2026</b>\n\n<b>Dear Rahul,</b>\n\n<b>How are you?</b> I hope you and your family are doing well. It has been a long time since we met. <b>I am writing to tell you about</b> my summer vacation.\n\n<b>You will be happy to know that</b> I went to Ooty with my family last month. We stayed there for five days. The weather was very pleasant. We visited the Botanical Garden, Ooty Lake, and Doddabetta Peak. <b>The best part was</b> the toy train ride. It was my first time on a mountain railway. The views were breathtaking!\n\n<b>Please convey my regards to</b> uncle and aunty. <b>I hope to see you soon.</b> Do write back and tell me about your holidays.\n\n<b>Your loving friend,</b>\n<b>Anirudh</b>"
+    }
+  ],
+  "total_count": 3,
+  "subject": "English E1",
+  "chapter": "Informal Letter"
+}

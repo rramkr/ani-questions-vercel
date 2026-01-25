@@ -1,0 +1,12 @@
+{
+  "subject": "English E1",
+  "chapter": "Informal Letter",
+  "sections": {
+    "textbook": [
+      {"value": "structure_format", "label": "Structure/Format", "icon": "📋"},
+      {"value": "classwork_letters", "label": "Classwork Letters", "icon": "✉️"}
+    ],
+    "exam": [],
+    "miscellaneous": []
+  }
+}

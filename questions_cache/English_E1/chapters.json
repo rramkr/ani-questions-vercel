@@ -74,8 +74,10 @@
     {
       "name": "Informal Letter",
       "slug": "Informal Letter",
-      "has_questions": false,
-      "icon": "✉️"
+      "has_questions": true,
+      "icon": "✉️",
+      "category": "Writing",
+      "category_icon": "✍️"
     },
     {
       "name": "Unseen Comprehension",
