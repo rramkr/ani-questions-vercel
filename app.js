@@ -1,4 +1,4 @@
-// Version: 6.3 - Added Unseen Comprehension passages support
+// Version: 6.4 - Added clickable passage list for comprehension
 // Use local deployment URL for fetching questions (faster than GitHub raw)
 const GITHUB_BASE_URL = './questions_cache';
 
@@ -232,6 +232,7 @@ const state = {
     passages: [],  // All passages
     currentPassageIndex: 0,  // Current passage index
     currentPassageQuestionIndex: 0,  // Current question index within current passage
+    passageListMode: true,  // Whether to show passage list (true) or passage content (false)
 };
 
 // DOM Elements
@@ -889,18 +890,83 @@ async function loadComprehensionPassages(type) {
         state.currentType = type;
         state.passages = data.passages || [];
         state.comprehensionMode = true;
+        state.passageListMode = true;  // Show passage list first
         state.currentPassageIndex = 0;
         state.currentPassageQuestionIndex = 0;
         state.currentAnswerRevealed = false;
         state.userAnswers = {};
 
-        renderComprehensionQuiz();
+        renderPassageList();  // Show list of passages first
         showView('quiz');
         updateHash();
     } catch (error) {
         console.error('Error loading passages:', error);
         alert('Failed to load passages: ' + error.message);
     }
+}
+
+// Render passage list view (clickable titles)
+function renderPassageList() {
+    if (!state.passages || state.passages.length === 0) {
+        elements.questionsContainer.innerHTML = '<div class="empty-state">No passages available.</div>';
+        return;
+    }
+
+    // Update title
+    elements.quizTitle.textContent = `${state.currentType.label} - ${state.currentChapter.name}`;
+    elements.questionsShown.textContent = `${state.passages.length} Passages`;
+
+    // Hide standard quiz elements
+    elements.challengeBanner.style.display = 'none';
+    elements.resultsBanner.style.display = 'none';
+    elements.scoreDisplay.style.display = 'none';
+    elements.encouragementBanner.style.display = 'none';
+    elements.tryMoreBtn.style.display = 'none';
+    elements.checkAnswersBtn.style.display = 'none';
+    elements.showAllAnswersBtn.style.display = 'none';
+
+    const passageItems = state.passages.map((passage, index) => `
+        <div class="passage-list-item" onclick="selectPassage(${index})">
+            <div class="passage-list-number">${index + 1}</div>
+            <div class="passage-list-content">
+                <div class="passage-list-title">${passage.title}</div>
+                <div class="passage-list-meta">
+                    <span class="passage-list-source">${passage.source || ''}</span>
+                    <span class="passage-list-questions">${passage.questions.length} questions</span>
+                </div>
+            </div>
+            <div class="passage-list-arrow">→</div>
+        </div>
+    `).join('');
+
+    elements.questionsContainer.innerHTML = `
+        <div class="passage-list-container">
+            <div class="passage-list-header">
+                <h3>Select a Passage</h3>
+                <p>Click on a passage to start reading and answering questions</p>
+            </div>
+            <div class="passage-list">
+                ${passageItems}
+            </div>
+        </div>
+    `;
+}
+
+// Select a specific passage to view
+function selectPassage(index) {
+    state.passageListMode = false;
+    state.currentPassageIndex = index;
+    state.currentPassageQuestionIndex = 0;
+    state.currentAnswerRevealed = false;
+    state.userAnswers = {};
+    renderComprehensionQuiz();
+}
+
+// Go back to passage list
+function backToPassageList() {
+    state.passageListMode = true;
+    state.currentAnswerRevealed = false;
+    renderPassageList();
 }
 
 // Render comprehension quiz view
@@ -947,6 +1013,9 @@ function renderComprehensionQuiz() {
     elements.questionsContainer.innerHTML = `
         <div class="comprehension-container">
             <div class="passage-header">
+                <button class="back-to-list-btn" onclick="backToPassageList()">
+                    ← Back to Passages
+                </button>
                 <span class="passage-badge">Passage ${currentPassageNum} of ${totalPassages}</span>
                 <h3 class="passage-title">${passage.title}</h3>
             </div>
