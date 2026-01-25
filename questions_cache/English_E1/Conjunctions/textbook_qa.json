@@ -13,8 +13,8 @@
       "id": "conj_a2",
       "exercise": "A",
       "question": "Fill in the blanks with coordinating conjunctions.\n\n2. Vipul had scored poor grades, _______ he was cheerful.",
-      "answer": "but",
-      "explanation": "'But' shows contrast between scoring poor grades and being cheerful."
+      "answer": "yet",
+      "explanation": "'Yet' shows unexpected contrast - despite poor grades (which would normally cause sadness), he was cheerful. See textbook example: 'Nitin worked really hard, yet he didn't score well.'"
     },
     {
       "id": "conj_a3",
@@ -55,8 +55,8 @@
       "id": "conj_a8",
       "exercise": "A",
       "question": "Fill in the blanks with coordinating conjunctions.\n\n8. Garima enjoys dancing, _______ her sister finds it a waste of time.",
-      "answer": "but",
-      "explanation": "'But' shows contrast between Garima enjoying dancing and her sister's opposite opinion."
+      "answer": "but/and",
+      "explanation": "'But' shows contrast between opinions. 'And' (as per textbook) states two different facts. Both are acceptable."
     },
     {
       "id": "conj_b1",
@@ -84,8 +84,8 @@
       "id": "conj_b4",
       "exercise": "B",
       "question": "Join each pair of sentences with a coordinating conjunction.\n\n4. Shreya had hurt herself. She was cheerful.",
-      "answer": "Shreya had hurt herself but she was cheerful.",
-      "explanation": "'But' shows contrast between being hurt and remaining cheerful."
+      "answer": "Shreya had hurt herself, yet she was cheerful.",
+      "explanation": "'Yet' shows unexpected contrast - despite being hurt (which would normally cause distress), she was cheerful."
     },
     {
       "id": "conj_b5",
@@ -105,15 +105,15 @@
       "id": "conj_b7",
       "exercise": "B",
       "question": "Join each pair of sentences with a coordinating conjunction.\n\n7. Vikram had lost his job. He was not depressed.",
-      "answer": "Vikram had lost his job but he was not depressed.",
-      "explanation": "'But' shows contrast between losing a job and not being depressed."
+      "answer": "Vikram had lost his job, yet he was not depressed.",
+      "explanation": "'Yet' shows unexpected contrast - despite losing his job (which would normally cause depression), he was not depressed."
     },
     {
       "id": "conj_b8",
       "exercise": "B",
       "question": "Join each pair of sentences with a coordinating conjunction.\n\n8. They didn't submit their project yesterday. They didn't submit it today either.",
-      "answer": "They didn't submit their project yesterday and they didn't submit it today either.",
-      "explanation": "'And' connects two related negative statements. 'And...either' is grammatically correct for continuing a negative idea."
+      "answer": "They didn't submit their project yesterday, but they didn't submit it today either.",
+      "explanation": "'But' emphasizes the continuation of failure - not only did they fail yesterday, but they also failed today."
     },
     {
       "id": "conj_c1",
