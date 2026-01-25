@@ -20,15 +20,15 @@
       "id": "conj_a3",
       "exercise": "A",
       "question": "Fill in the blanks with coordinating conjunctions.\n\n3. The thieves ran away with the jewels, _______ the police could not track them.",
-      "answer": "but",
-      "explanation": "'But' shows contrast - the thieves escaped and the police couldn't catch them."
+      "answer": "so",
+      "explanation": "'So' shows cause and effect - the thieves running away CAUSED the police to be unable to track them."
     },
     {
       "id": "conj_a4",
       "exercise": "A",
       "question": "Fill in the blanks with coordinating conjunctions.\n\n4. The parents were happy, _______ their daughter had set up her own clinic.",
-      "answer": "and",
-      "explanation": "'And' is a coordinating conjunction of addition, connecting two related positive facts."
+      "answer": "for",
+      "explanation": "'For' is a coordinating conjunction meaning 'because'. It explains WHY the parents were happy (FANBOYS: For, And, Nor, But, Or, Yet, So)."
     },
     {
       "id": "conj_a5",
@@ -55,8 +55,8 @@
       "id": "conj_a8",
       "exercise": "A",
       "question": "Fill in the blanks with coordinating conjunctions.\n\n8. Garima enjoys dancing, _______ her sister finds it a waste of time.",
-      "answer": "but/and",
-      "explanation": "'But' shows contrast between opinions. 'And' (as per textbook) states two different facts. Both are acceptable."
+      "answer": "but",
+      "explanation": "'But' shows contrast between the two sisters' opposing opinions about dancing."
     },
     {
       "id": "conj_b1",
@@ -70,15 +70,15 @@
       "id": "conj_b2",
       "exercise": "B",
       "question": "Join each pair of sentences with a coordinating conjunction.\n\n2. The parents were worried. They had no news of their daughter.",
-      "answer": "The parents were worried and they had no news of their daughter.",
-      "explanation": "'And' connects the reason (no news) with the result (being worried)."
+      "answer": "The parents were worried, for they had no news of their daughter.",
+      "explanation": "'For' is a coordinating conjunction meaning 'because'. It explains WHY the parents were worried."
     },
     {
       "id": "conj_b3",
       "exercise": "B",
       "question": "Join each pair of sentences with a coordinating conjunction.\n\n3. Vinod had won the painting competition. He was delighted.",
-      "answer": "Vinod had won the painting competition and he was delighted.",
-      "explanation": "'And' connects two related facts - winning and feeling happy about it."
+      "answer": "Vinod had won the painting competition, so he was delighted.",
+      "explanation": "'So' shows cause and effect - winning the competition CAUSED him to be delighted."
     },
     {
       "id": "conj_b4",
@@ -112,8 +112,8 @@
       "id": "conj_b8",
       "exercise": "B",
       "question": "Join each pair of sentences with a coordinating conjunction.\n\n8. They didn't submit their project yesterday. They didn't submit it today either.",
-      "answer": "They didn't submit their project yesterday, but they didn't submit it today either.",
-      "explanation": "'But' emphasizes the continuation of failure - not only did they fail yesterday, but they also failed today."
+      "answer": "They didn't submit their project yesterday, and they didn't submit it today either.",
+      "explanation": "'And' connects two negative facts. With 'either' at the end, 'and' is the correct conjunction to use."
     },
     {
       "id": "conj_c1",
