@@ -1,0 +1,14 @@
+{
+  "subject": "English E1",
+  "chapter": "Descriptive Essay",
+  "sections": {
+    "textbook": [
+      {"value": "classwork_essays", "label": "Classwork Essays", "icon": "📝"}
+    ],
+    "exam": [],
+    "miscellaneous": [
+      {"value": "additional_essays", "label": "Additional Essays (Part 1)", "icon": "✍️"},
+      {"value": "additional_essays_2", "label": "Additional Essays (Part 2)", "icon": "✍️"}
+    ]
+  }
+}

@@ -50,6 +50,14 @@
       "category_icon": "📝"
     },
     {
+      "name": "Descriptive Essay",
+      "slug": "Descriptive Essay",
+      "has_questions": true,
+      "icon": "📝",
+      "category": "Writing",
+      "category_icon": "✍️"
+    },
+    {
       "name": "Directive Essay",
       "slug": "Directive Essay",
       "has_questions": false,
