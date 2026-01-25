@@ -9,12 +9,12 @@
       "title": "Identify the Type of Sentence",
       "description": "Look at the punctuation and words inside the quotation marks:",
       "rules": [
-        {"condition": ". (full stop)", "type": "Statement", "example": "'He said, \"I am going home.\"'"},
-        {"condition": "? (question mark)", "type": "Question", "example": "'She said, \"Where are you going?\"'"},
-        {"condition": "! with command words", "type": "Imperative (Command)", "example": "'Mother said, \"Close the door!\"'"},
-        {"condition": "! with Hurrah/Alas/Oh/What/How", "type": "Exclamatory", "example": "'He said, \"What a beautiful day!\"'"},
-        {"condition": "! with May...", "type": "Optative (Wish)", "example": "'She said, \"May God bless you!\"'"},
-        {"condition": "Please + command", "type": "Request", "example": "'He said, \"Please help me.\"'"}
+        {"condition": ". (full stop)", "type": "Statement", "example": "'He said, \"I am going home.\"'", "conversion": "Use 'said that' or 'told that'"},
+        {"condition": "? (question mark)", "type": "Question", "example": "'She said, \"Where are you going?\"'", "conversion": "Use 'asked if/whether' or 'asked + wh-word'"},
+        {"condition": "! with command words", "type": "Imperative (Command)", "example": "'Mother said, \"Close the door!\"'", "conversion": "Use 'told/ordered + to + verb'"},
+        {"condition": "! with Hurrah/Alas/Oh/What/How", "type": "Exclamatory", "example": "'He said, \"What a beautiful day!\"'", "conversion": "Use 'exclaimed with joy/sorrow that'"},
+        {"condition": "! with May...", "type": "Optative (Wish)", "example": "'She said, \"May God bless you!\"'", "conversion": "Use 'wished/prayed that + might'"},
+        {"condition": "Please + command", "type": "Request", "example": "'He said, \"Please help me.\"'", "conversion": "Use 'requested + to + verb'"}
       ]
     },
     {

@@ -791,7 +791,7 @@ function renderRules(rulesData) {
 
             // Determine table headers based on step type
             if (step.step_number === 1) {
-                html += '<th>If you see...</th><th>Sentence Type</th><th>Example</th>';
+                html += '<th>If you see...</th><th>Sentence Type</th><th>Example</th><th>How to Convert</th>';
             } else if (step.step_number === 2) {
                 html += '<th>Type</th><th>Change to</th><th>Example (Direct)</th><th>Example (Indirect)</th>';
             } else if (step.step_number === 3 || step.step_number === 4 || step.step_number === 5) {
@@ -803,7 +803,7 @@ function renderRules(rulesData) {
             step.rules.forEach(rule => {
                 html += '<tr>';
                 if (step.step_number === 1) {
-                    html += `<td>${rule.condition}</td><td>${rule.type}</td><td class="example-cell">${rule.example}</td>`;
+                    html += `<td>${rule.condition}</td><td>${rule.type}</td><td class="example-cell">${rule.example}</td><td class="conversion-cell">${rule.conversion || ''}</td>`;
                 } else if (step.step_number === 2) {
                     html += `<td>${rule.type}</td><td>${rule.change_to}</td><td class="example-cell">${rule.example_direct}</td><td class="example-cell">${rule.example_indirect}</td>`;
                 } else {
