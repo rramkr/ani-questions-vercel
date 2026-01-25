@@ -1,4 +1,4 @@
-// Version: 6.4 - Added clickable passage list for comprehension
+// Version: 6.5 - Added Picture Comprehension section with sample compositions
 // Use local deployment URL for fetching questions (faster than GitHub raw)
 const GITHUB_BASE_URL = './questions_cache';
 
@@ -233,6 +233,12 @@ const state = {
     currentPassageIndex: 0,  // Current passage index
     currentPassageQuestionIndex: 0,  // Current question index within current passage
     passageListMode: true,  // Whether to show passage list (true) or passage content (false)
+    // Picture composition state
+    pictureMode: false,  // Whether we're in picture composition mode
+    pictures: [],  // All pictures
+    currentPictureIndex: 0,  // Current picture index
+    pictureListMode: true,  // Whether to show picture list (true) or picture content (false)
+    pictureAnswerRevealed: false,  // Whether the composition answer is revealed
 };
 
 // DOM Elements
@@ -659,6 +665,13 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
     // Handle comprehension passages type separately
     if (type.value === 'passages' || type.value === 'exam_passages' || type.value === 'additional_passages') {
         await loadComprehensionPassages(type);
+        showLoading(false);
+        return;
+    }
+
+    // Handle picture compositions type separately
+    if (type.value === 'picture_compositions') {
+        await loadPictureCompositions(type);
         showLoading(false);
         return;
     }
@@ -1241,6 +1254,246 @@ function goBackToSections() {
 }
 
 // ============== END COMPREHENSION PASSAGE HANDLING ==============
+
+// ============== PICTURE COMPOSITION HANDLING ==============
+
+// Load picture compositions
+async function loadPictureCompositions(type) {
+    try {
+        const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
+        const chapterFolder = encodeURIComponent(state.currentChapter.name);
+        const url = `${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/${type.value}.json`;
+        console.log('Fetching picture compositions from:', url);
+        const response = await fetch(url);
+
+        if (!response.ok) {
+            console.error('Failed to fetch pictures, status:', response.status);
+            alert('Failed to load picture compositions');
+            return;
+        }
+
+        const data = await response.json();
+        console.log('Pictures data loaded:', data);
+
+        state.currentType = type;
+        state.pictures = data.pictures || [];
+        state.pictureMode = true;
+        state.pictureListMode = true;
+        state.currentPictureIndex = 0;
+        state.pictureAnswerRevealed = false;
+
+        renderPictureList();
+        showView('quiz');
+        updateHash();
+    } catch (error) {
+        console.error('Error loading pictures:', error);
+        alert('Failed to load pictures: ' + error.message);
+    }
+}
+
+// Render picture list view (clickable titles)
+function renderPictureList() {
+    if (!state.pictures || state.pictures.length === 0) {
+        elements.questionsContainer.innerHTML = '<div class="empty-state">No pictures available.</div>';
+        return;
+    }
+
+    // Update title
+    elements.quizTitle.textContent = `${state.currentType.label} - ${state.currentChapter.name}`;
+    elements.questionsShown.textContent = `${state.pictures.length} Pictures`;
+
+    // Hide standard quiz elements
+    elements.challengeBanner.style.display = 'none';
+    elements.resultsBanner.style.display = 'none';
+    elements.scoreDisplay.style.display = 'none';
+    elements.encouragementBanner.style.display = 'none';
+    elements.tryMoreBtn.style.display = 'none';
+    elements.checkAnswersBtn.style.display = 'none';
+    elements.showAllAnswersBtn.style.display = 'none';
+
+    const pictureItems = state.pictures.map((pic, index) => `
+        <div class="picture-list-item" onclick="selectPicture(${index})">
+            <div class="picture-list-thumbnail">
+                <img src="${pic.image_url}" alt="${pic.title}" onerror="this.src='https://via.placeholder.com/120x80?text=Image'">
+            </div>
+            <div class="picture-list-content">
+                <div class="picture-list-title">${pic.title}</div>
+                <div class="picture-list-desc">${pic.image_description || ''}</div>
+            </div>
+            <div class="picture-list-arrow">→</div>
+        </div>
+    `).join('');
+
+    elements.questionsContainer.innerHTML = `
+        <div class="picture-list-container">
+            <div class="picture-list-header">
+                <h3>Select a Picture</h3>
+                <p>Click on a picture to view it and write a composition</p>
+            </div>
+            <div class="picture-list">
+                ${pictureItems}
+            </div>
+        </div>
+    `;
+}
+
+// Select a specific picture to view
+function selectPicture(index) {
+    state.pictureListMode = false;
+    state.currentPictureIndex = index;
+    state.pictureAnswerRevealed = false;
+    renderPictureComposition();
+}
+
+// Go back to picture list
+function backToPictureList() {
+    state.pictureListMode = true;
+    state.pictureAnswerRevealed = false;
+    renderPictureList();
+}
+
+// Render picture composition view
+function renderPictureComposition() {
+    const picture = state.pictures[state.currentPictureIndex];
+    if (!picture) {
+        elements.questionsContainer.innerHTML = '<div class="empty-state">No picture available.</div>';
+        return;
+    }
+
+    const totalPictures = state.pictures.length;
+    const currentPictureNum = state.currentPictureIndex + 1;
+
+    // Update title and count
+    elements.quizTitle.textContent = `Picture Composition - ${state.currentChapter.name}`;
+    elements.questionsShown.textContent = `Picture ${currentPictureNum} of ${totalPictures}`;
+
+    // Hide standard quiz elements
+    elements.challengeBanner.style.display = 'none';
+    elements.resultsBanner.style.display = 'none';
+    elements.scoreDisplay.style.display = 'none';
+    elements.encouragementBanner.style.display = 'none';
+    elements.tryMoreBtn.style.display = 'none';
+    elements.checkAnswersBtn.style.display = 'none';
+    elements.showAllAnswersBtn.style.display = 'none';
+
+    // Format the composition
+    const composition = picture.composition;
+    const formattedComposition = `
+        <div class="composition-section">
+            <div class="composition-part">
+                <div class="composition-label">INTRODUCTION:</div>
+                <p>${composition.introduction}</p>
+            </div>
+            <div class="composition-part">
+                <div class="composition-label">BODY:</div>
+                <p>${composition.body}</p>
+            </div>
+            <div class="composition-part">
+                <div class="composition-label">CONCLUSION:</div>
+                <p>${composition.conclusion}</p>
+            </div>
+        </div>
+    `;
+
+    elements.questionsContainer.innerHTML = `
+        <div class="picture-composition-container">
+            <button class="back-to-list-btn" onclick="backToPictureList()">
+                ← Back to Pictures
+            </button>
+
+            <div class="picture-header">
+                <span class="picture-badge">Picture ${currentPictureNum} of ${totalPictures}</span>
+                <h3 class="picture-title">${picture.title}</h3>
+            </div>
+
+            <div class="picture-display-box">
+                <img src="${picture.image_url}" alt="${picture.title}" class="composition-image" onerror="this.src='https://via.placeholder.com/800x400?text=Image+Not+Available'">
+            </div>
+
+            <div class="picture-instruction">
+                <p><strong>Instructions:</strong> Look at the picture carefully. Observe the place, people, action, and mood. Then write a composition in three paragraphs (Introduction, Body, Conclusion).</p>
+            </div>
+
+            ${!state.pictureAnswerRevealed ? `
+                <div class="picture-action-buttons">
+                    <button class="see-answer-btn" onclick="revealPictureComposition()">
+                        📝 See Sample Composition
+                    </button>
+                </div>
+            ` : `
+                <div class="picture-answer-box">
+                    <div class="answer-header">📝 Sample Composition: ${picture.title}</div>
+                    ${formattedComposition}
+                </div>
+            `}
+
+            <div class="picture-navigation">
+                <button class="nav-btn back-btn ${state.currentPictureIndex === 0 ? 'disabled' : ''}"
+                        onclick="goToPreviousPicture()"
+                        ${state.currentPictureIndex === 0 ? 'disabled' : ''}>
+                    ← Previous
+                </button>
+
+                ${state.currentPictureIndex === totalPictures - 1 ? `
+                    <button class="nav-btn finish-btn"
+                            onclick="finishPictureComposition()">
+                        Finish 🏁
+                    </button>
+                ` : `
+                    <button class="nav-btn next-btn"
+                            onclick="goToNextPicture()">
+                        Next →
+                    </button>
+                `}
+            </div>
+        </div>
+    `;
+}
+
+// Reveal picture composition answer
+function revealPictureComposition() {
+    state.pictureAnswerRevealed = true;
+    renderPictureComposition();
+}
+
+// Go to next picture
+function goToNextPicture() {
+    if (state.currentPictureIndex < state.pictures.length - 1) {
+        state.currentPictureIndex++;
+        state.pictureAnswerRevealed = false;
+        renderPictureComposition();
+    }
+}
+
+// Go to previous picture
+function goToPreviousPicture() {
+    if (state.currentPictureIndex > 0) {
+        state.currentPictureIndex--;
+        state.pictureAnswerRevealed = false;
+        renderPictureComposition();
+    }
+}
+
+// Finish picture composition
+function finishPictureComposition() {
+    state.pictureMode = false;
+    state.pictures = [];
+    state.currentPictureIndex = 0;
+    state.pictureAnswerRevealed = false;
+
+    elements.questionsContainer.innerHTML = `
+        <div class="completion-container">
+            <div class="completion-icon">🎉</div>
+            <h2 class="completion-title">Great Job!</h2>
+            <p class="completion-message">You've reviewed all the picture compositions!</p>
+            <button class="back-to-sections-btn" onclick="goBackToSections()">
+                ← Back to Sections
+            </button>
+        </div>
+    `;
+}
+
+// ============== END PICTURE COMPOSITION HANDLING ==============
 
 // Shuffle array helper
 function shuffleArray(array) {

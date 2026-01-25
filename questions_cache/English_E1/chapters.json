@@ -68,8 +68,10 @@
     {
       "name": "Picture Comprehension",
       "slug": "Picture Comprehension",
-      "has_questions": false,
-      "icon": "🖼️"
+      "has_questions": true,
+      "icon": "🖼️",
+      "category": "Writing",
+      "category_icon": "✍️"
     },
     {
       "name": "Informal Letter",

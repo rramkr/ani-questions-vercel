@@ -1,0 +1,13 @@
+{
+  "subject": "English E1",
+  "chapter": "Picture Comprehension",
+  "sections": {
+    "textbook": [
+      {"value": "structure_format", "label": "How to Write Picture Composition", "icon": "📝"}
+    ],
+    "exam": [
+      {"value": "picture_compositions", "label": "Practice Pictures", "icon": "🖼️"}
+    ],
+    "miscellaneous": []
+  }
+}

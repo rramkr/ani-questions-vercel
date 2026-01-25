@@ -3088,6 +3088,239 @@ b, strong {
     color: #5a67d8;
 }
 
+/* Picture Composition Styles */
+.picture-list-container {
+    padding: 1rem;
+}
+
+.picture-list-header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.picture-list-header h3 {
+    color: #2d3748;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.picture-list-header p {
+    color: #718096;
+    font-size: 0.95rem;
+}
+
+.picture-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.picture-list-item {
+    display: flex;
+    align-items: center;
+    background: white;
+    border-radius: 12px;
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: 2px solid transparent;
+}
+
+.picture-list-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.25);
+    border-color: #667eea;
+}
+
+.picture-list-thumbnail {
+    width: 100px;
+    height: 70px;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-right: 1rem;
+    flex-shrink: 0;
+}
+
+.picture-list-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.picture-list-content {
+    flex: 1;
+}
+
+.picture-list-title {
+    color: #2d3748;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
+
+.picture-list-desc {
+    color: #718096;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.picture-list-arrow {
+    color: #667eea;
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-left: 0.5rem;
+}
+
+/* Picture Composition View */
+.picture-composition-container {
+    padding: 1rem;
+}
+
+.picture-header {
+    margin-bottom: 1rem;
+}
+
+.picture-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #48bb78 0%, #38a169 100%);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.picture-title {
+    color: #2d3748;
+    font-size: 1.3rem;
+    margin: 0.5rem 0;
+    font-weight: 600;
+}
+
+.picture-display-box {
+    background: #f7fafc;
+    border-radius: 12px;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.composition-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: contain;
+    border-radius: 8px;
+    display: block;
+}
+
+.picture-instruction {
+    background: #ebf8ff;
+    border-left: 4px solid #3182ce;
+    padding: 1rem;
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 1rem;
+}
+
+.picture-instruction p {
+    color: #2c5282;
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+.picture-action-buttons {
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem 0;
+}
+
+.picture-answer-box {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border-left: 4px solid #48bb78;
+}
+
+.picture-answer-box .answer-header {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #2d3748;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.composition-section {
+    color: #4a5568;
+}
+
+.composition-part {
+    margin-bottom: 1rem;
+}
+
+.composition-part:last-child {
+    margin-bottom: 0;
+}
+
+.composition-label {
+    font-weight: 700;
+    color: #667eea;
+    font-size: 0.85rem;
+    margin-bottom: 0.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.composition-part p {
+    margin: 0;
+    line-height: 1.7;
+    text-align: justify;
+}
+
+.picture-navigation {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+/* Mobile responsiveness for picture compositions */
+@media (max-width: 768px) {
+    .picture-list-thumbnail {
+        width: 80px;
+        height: 55px;
+    }
+
+    .picture-list-title {
+        font-size: 0.9rem;
+    }
+
+    .picture-list-desc {
+        font-size: 0.75rem;
+        -webkit-line-clamp: 1;
+    }
+
+    .composition-image {
+        max-height: 250px;
+    }
+
+    .picture-instruction {
+        padding: 0.75rem;
+    }
+
+    .picture-instruction p {
+        font-size: 0.85rem;
+    }
+}
+
 .passage-header {
     margin-bottom: 1rem;
 }
