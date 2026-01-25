@@ -730,35 +730,40 @@ async function loadRules(type) {
     try {
         const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
         const chapterFolder = encodeURIComponent(state.currentChapter.name);
-        const response = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/rules.json`);
+        const url = `${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/rules.json`;
+        console.log('Fetching rules from:', url);
+        const response = await fetch(url);
 
         if (!response.ok) {
+            console.error('Failed to fetch rules, status:', response.status);
             alert('Failed to load rules');
             return;
         }
 
         const rulesData = await response.json();
+        console.log('Rules data loaded:', rulesData);
         state.currentType = type;
         renderRules(rulesData);
         showView('quiz');
     } catch (error) {
         console.error('Error loading rules:', error);
-        alert('Failed to load rules');
+        alert('Failed to load rules: ' + error.message);
     }
 }
 
 // Render rules content
 function renderRules(rulesData) {
-    elements.quizTitle.textContent = `${rulesData.title} - ${state.currentChapter.name}`;
-    elements.questionsShown.textContent = rulesData.steps.length + ' steps';
+    console.log('Rendering rules...');
+    if (elements.quizTitle) elements.quizTitle.textContent = `${rulesData.title} - ${state.currentChapter.name}`;
+    if (elements.questionsShown) elements.questionsShown.textContent = rulesData.steps.length + ' steps';
 
     // Hide quiz-specific elements
-    elements.challengeBanner.style.display = 'none';
-    elements.resultsBanner.style.display = 'none';
-    elements.scoreDisplay.style.display = 'none';
-    elements.tryMoreBtn.style.display = 'none';
-    elements.checkAnswersBtn.style.display = 'none';
-    elements.showAllAnswersBtn.style.display = 'none';
+    if (elements.challengeBanner) elements.challengeBanner.style.display = 'none';
+    if (elements.resultsBanner) elements.resultsBanner.style.display = 'none';
+    if (elements.scoreDisplay) elements.scoreDisplay.style.display = 'none';
+    if (elements.tryMoreBtn) elements.tryMoreBtn.style.display = 'none';
+    if (elements.checkAnswersBtn) elements.checkAnswersBtn.style.display = 'none';
+    if (elements.showAllAnswersBtn) elements.showAllAnswersBtn.style.display = 'none';
 
     let html = '<div class="rules-container">';
 
