@@ -49,6 +49,13 @@
       }
     },
     {
+      "src": "/questions_cache/(.*)",
+      "dest": "/questions_cache/$1",
+      "headers": {
+        "Cache-Control": "no-cache, no-store, must-revalidate"
+      }
+    },
+    {
       "src": "/(.*)",
       "dest": "/$1"
     }
