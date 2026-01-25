@@ -235,73 +235,80 @@
       "solved_example": true,
       "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nRita was walking besides her grandmother",
       "answer": "beside",
-      "explanation": "'Beside' means 'by the side of'. 'Besides' means 'in addition to'. Here, Rita was walking by the side of her grandmother."
+      "explanation": "'Beside' means 'by the side of'. 'Besides' means 'in addition to'. Error: besides → beside"
     },
     {
       "id": "prep_e2",
       "exercise": "E",
-      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nwhen she saw a puppy on the side of the road.\nShe stopped and picked through the puppy.",
-      "answer": "up",
-      "explanation": "'Pick up' means to lift something. 'Pick through' means to search through something."
+      "question": "Underline the error and write the correct preposition.\n\nwhen she saw a puppy on the side of the road.",
+      "answer": "by",
+      "explanation": "'By the side of' is the correct phrase. Error: on → by"
     },
     {
       "id": "prep_e3",
       "exercise": "E",
-      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nThe puppy was running round the street",
-      "answer": "around",
-      "explanation": "'Around' is the correct preposition for describing movement in the area of the street. 'Round' is less formal."
+      "question": "Underline the error and write the correct preposition.\n\nShe stopped and picked through the puppy.",
+      "answer": "up",
+      "explanation": "'Pick up' means to lift something. 'Pick through' means to search through something. Error: through → up"
     },
     {
       "id": "prep_e4",
       "exercise": "E",
-      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nwhen it was hit with a speeding car.",
-      "answer": "by",
-      "explanation": "In passive voice, 'by' is used to denote the agent or doer of the action. The car is the agent that hit the puppy."
+      "question": "Underline the error and write the correct preposition.\n\nThe puppy was running round the street",
+      "answer": "around",
+      "explanation": "'Around' is the correct preposition for describing movement in an area. Error: round → around"
     },
     {
       "id": "prep_e5",
       "exercise": "E",
-      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nBeside Rita, her grandmother was also fond\nof animals.",
-      "answer": "Besides",
-      "explanation": "'Besides' means 'in addition to'. 'Beside' means 'next to'. Here, we mean 'in addition to Rita'."
+      "question": "Underline the error and write the correct preposition.\n\nwhen it was hit with a speeding car.",
+      "answer": "by",
+      "explanation": "In passive voice, 'by' is used to denote the agent. Error: with → by"
     },
     {
       "id": "prep_e6",
       "exercise": "E",
-      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nShe went along with Rita at the vet.",
-      "answer": "to",
-      "explanation": "'To' indicates movement towards a destination. 'At' is used for location, not direction."
+      "question": "Underline the error and write the correct preposition.\n\nBeside Rita, her grandmother was also fond of animals.",
+      "answer": "Besides",
+      "explanation": "'Besides' means 'in addition to'. 'Beside' means 'next to'. Error: Beside → Besides"
     },
     {
       "id": "prep_e7",
       "exercise": "E",
-      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nThe vet examined the puppy and put a bandage across\nthe wound.",
-      "answer": "on/over",
-      "explanation": "'On' or 'over' is used when something covers something else. 'Across' indicates from one side to the other."
+      "question": "Underline the error and write the correct preposition.\n\nShe went along with Rita at the vet.",
+      "answer": "to",
+      "explanation": "'To' indicates movement towards a destination. 'At' is used for location. Error: at → to"
     },
     {
       "id": "prep_e8",
       "exercise": "E",
-      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nRita and her grandmother went home for\nthe puppy.",
-      "answer": "with",
-      "explanation": "'With' indicates accompaniment. 'For' indicates purpose. They went home accompanied by the puppy."
+      "question": "Underline the error and write the correct preposition.\n\nThe vet examined the puppy and put a bandage across the wound.",
+      "answer": "on",
+      "explanation": "'On' is used when something covers something else. Error: across → on"
     },
     {
       "id": "prep_e9",
       "exercise": "E",
-      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nRita made a cosy bed from the puppy,",
-      "answer": "for",
-      "explanation": "'For' indicates purpose or recipient. 'From' indicates source. The bed was made for the puppy (to use)."
+      "question": "Underline the error and write the correct preposition.\n\nRita and her grandmother went home for the puppy.",
+      "answer": "with",
+      "explanation": "'With' indicates accompaniment. Error: for → with"
     },
     {
       "id": "prep_e10",
       "exercise": "E",
-      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nand it slept peacefully since the afternoon.",
+      "question": "Underline the error and write the correct preposition.\n\nRita made a cosy bed from the puppy,",
+      "answer": "for",
+      "explanation": "'For' indicates purpose or recipient. Error: from → for"
+    },
+    {
+      "id": "prep_e11",
+      "exercise": "E",
+      "question": "Underline the error and write the correct preposition.\n\nand it slept peacefully since the afternoon.",
       "answer": "from",
-      "explanation": "'From' is used with simple past to indicate when an action started. 'Since' is used with perfect tenses."
+      "explanation": "'From' is used with simple past tense. 'Since' is used with perfect tenses. Error: since → from"
     }
   ],
-  "total_count": 42,
+  "total_count": 43,
   "subject": "English E1",
   "chapter": "Prepositions"
 }
