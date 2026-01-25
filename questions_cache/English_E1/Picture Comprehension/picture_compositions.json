@@ -4,225 +4,71 @@
     {
       "id": "pic_comp_1",
       "title": "A Day at the Park",
-      "image_url": "https://images.unsplash.com/photo-1596997000103-e597b3ca50df?w=800",
-      "image_description": "A beautiful park with families and children enjoying a sunny day, with trees, green grass, and people relaxing",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/1_park.png",
+      "image_description": "A beautiful park scene with families enjoying various activities",
       "composition": {
-        "introduction": "The picture shows a beautiful park on a sunny afternoon. Tall trees surround the green lawn, and colourful flowers bloom along the pathways. Families and children have come to enjoy the pleasant weather.",
-        "body": "Some children are playing football while others are flying kites. A group of people is sitting on benches and chatting happily. Near the pond, a man is feeding the ducks, and the sound of laughter fills the air. Young couples are taking a leisurely stroll along the winding paths, and elderly people are doing their morning exercises under the shade of the trees.",
-        "conclusion": "The scene looks peaceful and joyful. It shows how people relax and enjoy nature after a busy day. Parks are truly the lungs of a city, providing fresh air and happiness to everyone who visits them."
+        "introduction": "The picture shows a beautiful park on a bright sunny afternoon. Tall green trees surround the area, and their leaves glow in the golden sunlight. The park is full of people who have come to enjoy the pleasant weather and spend time with their families.",
+        "body": "On the left side, some boys are playing football on the lush green grass. A child is flying a colourful kite high in the sky while others walk along the winding pathways. The flower beds are blooming with bright red tulips and blue flowers, adding colour to the scene. In the centre, a family is sitting on a wooden bench near a small pond. A man is feeding the ducks that swim happily in the water. On the right side, elderly people are doing their morning exercises under the shade of a large tree.",
+        "conclusion": "The scene looks peaceful and full of joy. It reminds us how parks bring happiness to people of all ages. Whether playing, walking, or simply relaxing, everyone finds something to enjoy in a park. Parks are truly the green lungs of our cities."
       }
     },
     {
       "id": "pic_comp_2",
       "title": "A Beautiful Sunrise",
-      "image_url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800",
-      "image_description": "A stunning sunrise with golden and orange colours spreading across the sky over a field",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/2_sunrise.png",
+      "image_description": "A stunning sunrise over a misty meadow with spider webs and birds",
       "composition": {
-        "introduction": "The picture captures a breathtaking sunrise over a calm landscape. The sky is painted in magnificent shades of orange, pink, and gold as the sun slowly rises above the horizon. The early morning light creates a magical atmosphere that fills the heart with hope and wonder.",
-        "body": "The golden rays of the sun spread across the sky like a painter's brushstrokes on a canvas. Silhouettes of trees stand tall against the glowing sky, and the dew on the grass sparkles like tiny diamonds. Birds begin their morning songs, welcoming the new day. The cool morning breeze carries the fresh scent of nature, and everything seems to come alive with the warmth of the rising sun.",
-        "conclusion": "A sunrise is one of nature's most beautiful gifts. It reminds us that every day brings new opportunities and fresh beginnings. Watching a sunrise fills us with positivity and gratitude for the beauty that surrounds us. As the saying goes, 'Every sunrise is an invitation to brighten someone's day.'"
+        "introduction": "The picture captures a breathtaking sunrise over a peaceful meadow. The sky is painted in magnificent shades of orange, pink, and gold as the sun rises above the horizon. A soft mist hovers over the grass, creating a magical and dreamy atmosphere.",
+        "body": "The golden rays of the sun spread across the sky like a painter's brush on a canvas. Silhouettes of trees stand tall against the glowing sky. In the foreground, tall grass is covered with dew, and delicate spider webs sparkle like diamonds in the early morning light. Birds can be seen flying across the sky, welcoming the new day with their songs. The entire scene is bathed in a warm, golden glow that fills the heart with peace.",
+        "conclusion": "A sunrise is one of nature's most beautiful gifts. It reminds us that every day brings new hope and fresh beginnings. Watching a sunrise fills us with energy and gratitude for the beauty that surrounds us. As the saying goes, 'Every sunrise is an invitation to brighten someone's day.'"
       }
     },
     {
       "id": "pic_comp_3",
       "title": "A Magnificent Sunset",
-      "image_url": "https://images.unsplash.com/photo-1507400492013-162706c8c05e?w=800",
-      "image_description": "A beautiful sunset with red and orange sky reflecting on calm water",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/3_sunset.png",
+      "image_description": "A dramatic sunset over a lake with photographers capturing the moment",
       "composition": {
-        "introduction": "The picture shows a magnificent sunset over a serene landscape. The sky is ablaze with brilliant shades of red, orange, and purple as the sun slowly descends below the horizon. The calm waters reflect the fiery colours, creating a perfect mirror image of the sky above.",
-        "body": "The last rays of the sun cast long shadows across the land, and the world seems to be bathed in a warm, golden glow. Birds fly homeward in the distance, their silhouettes dark against the colourful sky. People have gathered to watch this daily spectacle, some taking photographs to capture the moment. The air is cool and pleasant, carrying the sounds of the evening—crickets beginning their symphony and the gentle rustle of leaves.",
-        "conclusion": "A sunset is nature's way of saying goodbye to the day, but it also promises the return of another beautiful tomorrow. It reminds us to pause and appreciate the simple beauties of life. As the colours fade into twilight, we are left with a sense of peace and contentment, grateful for another day well spent."
+        "introduction": "The picture shows a magnificent sunset over a calm lake. The sky is ablaze with brilliant shades of red, orange, and purple as the sun slowly sets below the horizon. The still water acts like a perfect mirror, reflecting the fiery colours of the sky above.",
+        "body": "A group of people has gathered on the shore to witness this spectacular sight. Many of them have set up cameras on tripods to capture the perfect photograph. Their silhouettes stand dark against the glowing sky. In the distance, a flock of birds flies across the colourful clouds, adding life to the scene. The trees on the right side stand quietly, watching nature's grand display. The reflection in the water doubles the beauty of the moment.",
+        "conclusion": "A sunset is nature's way of saying goodbye to the day. It reminds us to pause and appreciate the simple beauties of life. The people in the picture know that this moment will not last forever, so they capture it in their cameras and in their hearts. Every sunset promises another beautiful sunrise tomorrow."
       }
     },
     {
       "id": "pic_comp_4",
       "title": "A Busy Market Scene",
-      "image_url": "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?w=800",
-      "image_description": "A crowded Indian vegetable market with vendors selling fresh produce under colourful canopies",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/4_market.png",
+      "image_description": "A crowded fruit market with vendors and shoppers",
       "composition": {
-        "introduction": "The picture depicts a bustling market in full swing. The scene is a riot of colours with vendors displaying their goods under bright canopies and umbrellas. The narrow lanes are crowded with shoppers of all ages, eagerly looking for bargains and fresh produce.",
-        "body": "Fruit sellers arrange their colourful wares in neat pyramids—red apples, yellow bananas, and green grapes catch everyone's attention. Vegetable vendors call out their prices, competing for customers. The air is filled with the aroma of fresh flowers from nearby stalls and the tempting smell of street food being prepared. Women carry shopping bags while children tug at their parents, asking for treats. Shopkeepers haggle with customers, and money changes hands rapidly.",
-        "conclusion": "A market is the heart of any community, where people from all walks of life come together. It is a place of energy, exchange, and human connection. Despite the noise and chaos, there is an underlying rhythm to it all—the rhythm of daily life and livelihood. Markets remind us of the simple joys of buying fresh produce and the importance of supporting local businesses."
+        "introduction": "The picture depicts a bustling fruit market in full swing. The narrow lane is crowded with shoppers of all ages, eagerly looking for fresh produce. Colourful canopies and umbrellas in blue, yellow, and red provide shade from the hot sun above.",
+        "body": "On both sides of the lane, vendors have arranged their fruits in neat piles. There are red pomegranates, yellow bananas, oranges, and many other fruits that catch everyone's eye. Women carrying shopping bags move from stall to stall, checking the quality and bargaining for good prices. The vendors call out to attract customers, and money changes hands rapidly. The dusty floor of the market shows how many feet have walked through it that day.",
+        "conclusion": "A market is the heart of any community. It is a place where people from all walks of life come together. Despite the crowd and noise, there is an underlying rhythm to it all—the rhythm of daily life and honest livelihood. Markets remind us of the simple joy of buying fresh food and the importance of hardworking vendors who serve us every day."
       }
     },
     {
       "id": "pic_comp_5",
       "title": "A Rainy Day",
-      "image_url": "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=800",
-      "image_description": "A rainy street scene with people walking with umbrellas and wet roads",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/5_rainy_day.png",
+      "image_description": "An Indian city street during monsoon rain with children playing",
       "composition": {
-        "introduction": "The picture captures a typical rainy day in the city. Dark clouds hang low in the sky, and raindrops fall steadily, creating a curtain of water that blurs the distant buildings. The streets glisten with puddles that reflect the grey sky and the colourful umbrellas of pedestrians.",
-        "body": "People hurry along the wet pavements, holding umbrellas or covering their heads with newspapers and bags. Some children splash joyfully in the puddles, much to the dismay of their parents. Cars move slowly through the flooded streets, their windshield wipers working furiously. Street vendors have covered their goods with plastic sheets, while tea stalls see a rush of customers seeking warm chai. The sound of rain pattering on rooftops creates a soothing rhythm.",
-        "conclusion": "A rainy day brings mixed feelings—inconvenience for some, but joy for others. It washes away the dust and grime, making everything look fresh and clean. The rain nourishes the earth and fills our water reservoirs. While we may get wet and uncomfortable, a rainy day reminds us of nature's power to cleanse and renew. As poets have written, there is a special beauty in the rain that touches our souls."
+        "introduction": "The picture captures a typical rainy day in an Indian city. Dark grey clouds hang low in the sky, and rain falls heavily on the wet streets. The city buildings stand tall in the background, partially hidden by the rain and mist.",
+        "body": "In the centre of the picture, two children are playing joyfully in the rain. They do not seem to mind getting wet—instead, their faces show pure happiness. Around them, adults hurry along with umbrellas, trying to stay dry. Cars, motorcycles, and auto-rickshaws move slowly through the waterlogged road. On the right side, people have gathered at a tea stall with a Hindi signboard, seeking shelter and a warm cup of chai. The street lights glow dimly through the rain.",
+        "conclusion": "A rainy day brings mixed feelings. While adults worry about getting wet and reaching their destinations, children find pure joy in splashing through puddles. The rain washes away the dust and brings relief from the summer heat. This picture reminds us to sometimes be like children and find happiness in simple things, even on a gloomy day."
       }
     },
     {
       "id": "pic_comp_6",
-      "title": "A Beautiful Beach",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800",
-      "image_description": "A tropical beach with golden sand, blue waves, and people enjoying by the sea",
-      "composition": {
-        "introduction": "The picture shows a stunning beach on a bright, sunny day. The golden sand stretches as far as the eye can see, meeting the crystal-clear blue waters of the ocean. Palm trees sway gently in the breeze, providing shade for the visitors who have come to enjoy this tropical paradise.",
-        "body": "Families are scattered across the beach, some building sandcastles while others wade into the gentle waves. Children run along the shoreline, chasing the receding water and squealing with delight when the waves catch them. A group of young people plays beach volleyball, their laughter mixing with the sound of crashing waves. Couples walk hand in hand along the water's edge, leaving footprints in the wet sand. Vendors sell cold drinks and snacks to the sun-soaked visitors.",
-        "conclusion": "A beach is a place where people come to escape the stress of daily life and reconnect with nature. The sound of the waves, the feel of sand between the toes, and the salty sea breeze all work together to create a sense of peace and relaxation. The beach reminds us of the vastness of the ocean and our place in the natural world. It is truly a gift to be treasured and protected."
-      }
-    },
-    {
-      "id": "pic_comp_7",
-      "title": "Diwali Celebration",
-      "image_url": "https://images.unsplash.com/photo-1574267432553-4b4628081c31?w=800",
-      "image_description": "Diwali celebration with rows of glowing diyas (oil lamps) and festive decorations",
-      "composition": {
-        "introduction": "The picture captures the joyous celebration of Diwali, the festival of lights. The scene is illuminated by hundreds of glowing diyas (oil lamps) that have been placed on windowsills, balconies, and along the streets. The night sky is lit up with colourful fireworks, creating a magical atmosphere of celebration and happiness.",
-        "body": "Families have decorated their homes with beautiful rangoli designs made of coloured powders and flower petals. Children, dressed in new clothes, run around with sparklers in their hands, their faces glowing with excitement. Elders distribute sweets and exchange warm greetings with neighbours and relatives. The sound of firecrackers fills the air, punctuated by laughter and shouts of joy. Inside the homes, families gather to perform puja, seeking blessings from Goddess Lakshmi for prosperity and happiness.",
-        "conclusion": "Diwali symbolizes the victory of light over darkness and good over evil. It is a time when families come together, differences are forgotten, and love and joy are shared freely. The festival reminds us to spread light and happiness wherever we go and to drive away the darkness of hatred and ignorance from our hearts. Diwali is not just a festival—it is a celebration of life itself."
-      }
-    },
-    {
-      "id": "pic_comp_8",
-      "title": "A Busy Railway Station",
-      "image_url": "https://images.unsplash.com/photo-1553696674-1e2e19414f5a?w=800",
-      "image_description": "A busy railway station platform with passengers waiting for trains and carrying luggage",
-      "composition": {
-        "introduction": "The picture shows a busy railway station during peak hours. The platforms are crowded with passengers—some rushing to catch their trains, others waiting patiently for arrivals. The station is a hub of activity, with trains arriving and departing on multiple platforms, their whistles adding to the symphony of sounds.",
-        "body": "Porters in red uniforms carry heavy luggage on their heads, weaving expertly through the crowd. Vendors walk along the platforms, selling everything from newspapers and magazines to chai and snacks. A family sits on the platform, surrounded by their bags, as children watch the passing trains with wonder. Announcements echo through the loudspeakers, informing passengers of arrivals and departures. Near the ticket counter, a long queue of people waits patiently to purchase their tickets.",
-        "conclusion": "A railway station is like a small world in itself, where people from different backgrounds and destinations come together briefly before going their separate ways. It is a place of hellos and goodbyes, of journeys beginning and ending. The station reminds us that life itself is a journey, and every moment is an opportunity to move forward towards our goals. Despite the chaos, there is a certain charm to the railway station—a charm that has inspired countless stories and songs."
-      }
-    },
-    {
-      "id": "pic_comp_9",
       "title": "A Village Scene",
-      "image_url": "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800",
-      "image_description": "A peaceful Indian village with green paddy fields and rural landscape",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/village_scene.png",
+      "image_description": "A peaceful Indian village at dawn with farmers and daily activities",
       "composition": {
-        "introduction": "The picture presents a peaceful village scene in the early morning. Green fields stretch towards the horizon, where the sun is just beginning to rise. Simple mud houses with thatched roofs dot the landscape, and a gentle stream winds its way through the village, reflecting the golden light of dawn.",
-        "body": "Farmers have already begun their day, leading their bullocks to the fields for ploughing. Women carry pots of water from the village well, balancing them gracefully on their heads. Children gather under a large banyan tree, perhaps waiting for the village school to open. Smoke rises from the chimneys of homes where breakfast is being prepared over wood fires. A shepherd guides his flock of sheep towards the grazing grounds, his flute creating a melodious tune that floats through the air.",
-        "conclusion": "Village life may seem simple, but it has a beauty and richness that city life often lacks. The close connection with nature, the strong sense of community, and the slower pace of life allow people to appreciate the small joys of everyday living. Villages are the backbone of our country, providing food and preserving our cultural traditions. This scene reminds us of our roots and the importance of respecting and supporting our rural communities."
-      }
-    },
-    {
-      "id": "pic_comp_10",
-      "title": "Sports Day at School",
-      "image_url": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800",
-      "image_description": "Students running in a race on a school sports field during sports day",
-      "composition": {
-        "introduction": "The picture captures the excitement of Sports Day at a school. The playing field is decorated with colourful flags and banners representing different houses. The stands are filled with enthusiastic students, parents, and teachers, all eager to cheer for their teams. The atmosphere is electric with anticipation and school spirit.",
-        "body": "On the track, athletes prepare for the sprint race, their muscles tensed and eyes focused on the finish line. In one corner, students are practicing for the long jump, while others warm up for the relay race. The marching band plays a lively tune, adding to the festive atmosphere. Teachers move around with clipboards, organizing events and noting scores. Students not participating wave banners and chant their house slogans, their voices rising in friendly competition.",
-        "conclusion": "Sports Day is one of the most memorable events in a student's school life. It teaches us the values of teamwork, fair play, and healthy competition. Whether we win or lose, we learn to give our best and respect our opponents. The camaraderie and school spirit displayed on this day stay with us long after we leave school. Sports Day reminds us that participating is more important than winning, and that true victory lies in the effort we put in."
-      }
-    },
-    {
-      "id": "pic_comp_11",
-      "title": "A Classroom Scene",
-      "image_url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800",
-      "image_description": "A classroom with students at desks and a teacher teaching at the front",
-      "composition": {
-        "introduction": "The picture shows a typical classroom during a lesson. Students sit at their desks, attentively listening to the teacher who stands at the front near the blackboard. The walls are decorated with educational charts, student artwork, and inspirational quotes. Sunlight streams through the windows, illuminating the room with a warm glow.",
-        "body": "The teacher explains a concept, pointing to diagrams on the blackboard while students follow along in their textbooks. Some students take notes diligently, while others raise their hands to ask questions. A group of students in the back row whispers among themselves, quickly becoming silent when the teacher glances their way. The class monitor helps distribute worksheets, and the room is filled with the sounds of pencils scratching on paper and pages turning.",
-        "conclusion": "A classroom is a sacred space where young minds are shaped and knowledge is passed from one generation to the next. It is here that students discover their passions, learn to think critically, and form friendships that may last a lifetime. The classroom teaches us not just academic subjects, but also discipline, respect, and the value of education. Every great person was once a student sitting in a classroom just like this one, dreaming of what they might become."
-      }
-    },
-    {
-      "id": "pic_comp_12",
-      "title": "A Family Picnic",
-      "image_url": "https://images.unsplash.com/photo-1517164850305-99a3e65bb47e?w=800",
-      "image_description": "A family enjoying a picnic outdoors with food spread on a blanket in a green area",
-      "composition": {
-        "introduction": "The picture captures a happy family enjoying a picnic in a beautiful garden. A large blanket is spread on the lush green grass, laden with delicious food and drinks. The weather is perfect—sunny but not too hot—with a gentle breeze making the leaves rustle softly.",
-        "body": "Parents sit together, watching their children play nearby. Grandparents relax in folding chairs, sharing stories and laughter. The picnic basket overflows with sandwiches, fruits, and homemade snacks. A bottle of lemonade sits in the cooler, ready to quench everyone's thirst. Children run around playing catch, while the family dog chases after them, barking joyfully. Someone has brought a guitar, and soon everyone joins in singing favourite songs.",
-        "conclusion": "A family picnic is one of life's simple pleasures that creates lasting memories. In our busy lives, such moments allow families to reconnect, put away their phones, and enjoy each other's company. The food tastes better when shared with loved ones, and laughter sounds sweeter under the open sky. These are the moments we treasure—not expensive gifts or grand vacations, but simple times spent together as a family."
-      }
-    },
-    {
-      "id": "pic_comp_13",
-      "title": "Traffic on a Busy Road",
-      "image_url": "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?w=800",
-      "image_description": "Heavy traffic on a busy city road with cars, buses, and vehicles during rush hour",
-      "composition": {
-        "introduction": "The picture shows a busy city road during rush hour. Vehicles of all kinds—cars, buses, motorcycles, auto-rickshaws, and bicycles—crowd the road, creating a colourful chaos of movement and noise. Traffic signals change from red to green, but the congestion barely eases as more vehicles pour in from side streets.",
-        "body": "Drivers honk their horns impatiently, adding to the cacophony of sounds. A traffic policeman stands at the intersection, blowing his whistle and directing traffic with practiced hand signals. Pedestrians wait at the crossing, some darting across the road between gaps in traffic. Street vendors take advantage of the traffic jam, walking between vehicles selling water, snacks, and newspapers. Office workers check their watches anxiously, worried about being late.",
-        "conclusion": "Traffic congestion is a daily reality in most Indian cities, testing everyone's patience and adding hours to commute times. It reminds us of the need for better public transportation, more disciplined driving, and thoughtful urban planning. While stuck in traffic, we often forget to appreciate the diversity of vehicles and people that share our roads. Perhaps the solution lies in carpooling, using public transport, and being more considerate of other road users."
-      }
-    },
-    {
-      "id": "pic_comp_14",
-      "title": "A Hospital Scene",
-      "image_url": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?w=800",
-      "image_description": "A hospital corridor with medical staff, patients, and healthcare workers",
-      "composition": {
-        "introduction": "The picture shows a busy scene inside a hospital. The corridors are filled with doctors in white coats, nurses in their uniforms, and patients accompanied by their relatives. The smell of antiseptic fills the air, and the sound of footsteps echoes on the clean, tiled floor.",
-        "body": "Doctors move briskly from one ward to another, checking on patients and consulting with colleagues. Nurses push trolleys with medicines and equipment, their faces showing both compassion and efficiency. In the waiting area, anxious family members sit on benches, hoping for good news about their loved ones. A young doctor comforts an elderly patient, holding her hand and explaining her treatment. Near the reception, new patients register while a security guard directs visitors to different departments.",
-        "conclusion": "Hospitals are places of both hope and anxiety, where lives are saved and families find relief. The doctors, nurses, and staff who work here are true heroes, dedicating their lives to healing others. The hospital scene reminds us of the importance of health and the blessing of having access to medical care. It also teaches us gratitude for the healthcare workers who sacrifice their own comfort to serve others. Every patient who walks out cured is a testament to the miracle of modern medicine and human compassion."
-      }
-    },
-    {
-      "id": "pic_comp_15",
-      "title": "Republic Day Parade",
-      "image_url": "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?w=800",
-      "image_description": "A patriotic parade scene with marching formations, flags, and celebrations",
-      "composition": {
-        "introduction": "The picture captures the grandeur of India's Republic Day parade. The wide road is lined with spectators waving the tricolour flag, their faces beaming with patriotic pride. Soldiers in crisp uniforms march in perfect formation, while decorated floats representing different states move slowly along the route.",
-        "body": "The parade showcases India's military might with tanks, missiles, and marching regiments. Each state's float displays its unique culture, traditions, and achievements through beautiful tableaux. School children perform folk dances and display cards that form patterns when viewed from above. Motorcycle riders perform daring stunts that draw gasps and applause from the crowd. The President stands at the saluting base, acknowledging the parade as the national anthem plays.",
-        "conclusion": "Republic Day is a celebration of India's Constitution and the values of democracy, equality, and justice that it upholds. The parade reminds us of the sacrifices made by our freedom fighters and the bravery of our armed forces who protect our borders. It fills every Indian's heart with pride and gratitude for our great nation. On this day, we remember that we are one nation despite our diversity, united by the tricolour that waves proudly against the January sky."
-      }
-    },
-    {
-      "id": "pic_comp_16",
-      "title": "A Farmer in His Field",
-      "image_url": "https://images.unsplash.com/photo-1593113616828-6f22bca04804?w=800",
-      "image_description": "A farmer working in agricultural fields with crops growing",
-      "composition": {
-        "introduction": "The picture shows a hardworking farmer in his lush green field. The sun shines brightly overhead as he tends to his crops, which sway gently in the breeze. The field stretches far and wide, a testament to the farmer's dedication and the fertility of the land.",
-        "body": "The farmer, wearing a simple cotton shirt and dhoti, uses traditional tools to till the soil and remove weeds. His face shows the marks of years spent under the sun, but his eyes are bright with hope for a good harvest. A pair of bullocks rest under a nearby tree, having helped with the morning's ploughing. In the distance, other farmers can be seen working their own plots, while irrigation channels carry life-giving water to the crops. The farmer's wife brings him lunch and water, sharing a moment of rest together.",
-        "conclusion": "Farmers are the backbone of our nation, feeding millions through their tireless labour. Despite facing challenges like unpredictable weather, pests, and market fluctuations, they continue to work the land with dedication and hope. This picture reminds us to respect and support our farmers, for without them, our tables would be empty. The farmer's connection with the earth is sacred—a relationship of care, patience, and faith in nature's bounty."
-      }
-    },
-    {
-      "id": "pic_comp_17",
-      "title": "A Mountain Landscape",
-      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800",
-      "image_description": "A majestic mountain range with snow-capped peaks against a blue sky",
-      "composition": {
-        "introduction": "The picture presents a breathtaking view of a majestic mountain range. Snow-capped peaks rise majestically against a clear blue sky, their white summits gleaming in the sunlight. Deep valleys and green meadows lie below, creating a landscape of stunning beauty and grandeur.",
-        "body": "The mountains stand like ancient guardians, unchanged for millions of years while civilizations have risen and fallen in the plains below. Pine forests cover the lower slopes, their dark green colour contrasting with the white snow above. A winding path leads up the mountain, inviting adventurous souls to explore its heights. Small streams fed by melting snow cascade down rocky surfaces, eventually joining to form rivers in the valley. A lonely eagle soars high above, riding the mountain thermals.",
-        "conclusion": "Mountains have always inspired awe and reverence in human hearts. They remind us of our smallness in the face of nature's grandeur and the timelessness of the earth. Many people find spiritual peace in the mountains, away from the noise and stress of modern life. The mountains teach us patience, persistence, and the reward of reaching great heights through determination. As the famous saying goes, 'Mountains are not stadiums where I satisfy my ambition to achieve—they are cathedrals where I practice my religion.'"
-      }
-    },
-    {
-      "id": "pic_comp_18",
-      "title": "Children Playing",
-      "image_url": "https://images.unsplash.com/photo-1540479859555-17af45c78602?w=800",
-      "image_description": "Happy children playing outdoor games together in a playground",
-      "composition": {
-        "introduction": "The picture captures the pure joy of children playing in an open ground. Their laughter fills the air as they run, jump, and play various games under the afternoon sun. The playground is alive with energy and the innocent happiness that only children can create.",
-        "body": "A group of children plays a lively game of cricket, taking turns to bat and bowl. Nearby, girls play hopscotch, hopping skillfully from square to square. Two boys race each other to the big tree and back, their competitive spirits shining. Some younger children play in the sandbox, building castles and digging moats. A little girl pushes her friend on the swing, counting each push out loud. Parents watch from benches nearby, smiling at their children's antics.",
-        "conclusion": "Childhood play is not just entertainment—it is essential for physical, social, and emotional development. Through play, children learn teamwork, fair play, and how to handle winning and losing. In our age of screens and gadgets, outdoor play is more important than ever. This picture reminds us that the simple pleasures of running free, feeling the wind, and playing with friends are the building blocks of happy memories that last a lifetime."
-      }
-    },
-    {
-      "id": "pic_comp_19",
-      "title": "A River Scene",
-      "image_url": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=800",
-      "image_description": "A peaceful river flowing through a scenic landscape with trees on the banks",
-      "composition": {
-        "introduction": "The picture shows a serene river flowing peacefully through a beautiful landscape. The water sparkles under the sunlight, creating a ribbon of silver that winds through green fields and forests. The banks are lined with tall trees whose branches hang over the water, providing shade and beauty.",
-        "body": "The river flows with a gentle current, carrying leaves and twigs on its journey towards the sea. Fishermen in small boats cast their nets, hoping for a good catch. Children splash and play in the shallow waters near the bank while their mothers wash clothes on the ghats. Birds skim the water's surface, catching fish with expert precision. A wooden bridge connects the two banks, and villagers cross it carrying goods and leading cattle.",
-        "conclusion": "Rivers have been the lifelines of civilizations throughout history, providing water for drinking, farming, and transportation. They are home to countless species of fish and birds, supporting entire ecosystems. The peaceful flow of a river teaches us to move forward in life, adapting to obstacles rather than fighting them. However, our rivers today face pollution and neglect. This picture reminds us of the beauty we must protect and the responsibility we have to keep our rivers clean for future generations."
-      }
-    },
-    {
-      "id": "pic_comp_20",
-      "title": "A Temple Scene",
-      "image_url": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800",
-      "image_description": "A traditional Indian temple with intricate architecture and devotees visiting",
-      "composition": {
-        "introduction": "The picture shows a beautiful Indian temple during the morning prayer time. The ancient stone structure stands majestically, its tower rising towards the sky, adorned with intricate carvings of gods and goddesses. Devotees have gathered for darshan, their faces showing deep faith and devotion.",
-        "body": "The temple bells ring melodiously as priests perform the morning aarti, waving lit lamps before the deity. The air is fragrant with the smell of incense, flowers, and camphor. Devotees stand with folded hands, eyes closed in prayer, seeking blessings for themselves and their families. Women in colourful sarees offer flowers and coconuts at the altar. The temple tank nearby reflects the ancient structure, and some devotees take a holy dip before entering. Prasad is distributed to all who have come to worship.",
-        "conclusion": "Temples are not just religious places—they are centres of community, culture, and tradition. For millions of Indians, a visit to the temple brings peace, hope, and spiritual strength. The temple teaches us devotion, humility, and the importance of connecting with something greater than ourselves. Whether one is religious or not, the beauty and serenity of a temple can touch anyone's heart and remind us of the rich cultural heritage we have inherited."
+        "introduction": "The picture presents a peaceful Indian village scene during the golden hours of dawn. The sun is rising in the background, painting the sky in soft shades of yellow and orange. A large banyan tree stands majestically on the right side, its branches spreading wide like a protective umbrella.",
+        "body": "The village is coming to life with the morning's activities. On the left, mud houses with thatched roofs dot the landscape, and smoke rises gently from their chimneys as breakfast is being prepared. A farmer leads his pair of bullocks along a narrow path beside a stream. Women have gathered at the village well, drawing water for the day's needs. Children sit under the banyan tree, perhaps waiting for school or listening to stories. On the right, a shepherd walks with his flock of sheep towards the grazing grounds. Green paddy fields stretch into the distance.",
+        "conclusion": "Village life has a beauty and simplicity that city life lacks. People live close to nature, waking with the sun and resting with the stars. The strong sense of community and the slower pace of life allow villagers to appreciate everyday joys. This scene reminds us of our roots and the importance of our farmers and villages, which are truly the backbone of our nation."
       }
     }
   ],
-  "total_count": 20,
+  "total_count": 6,
   "subject": "English E1",
   "chapter": "Picture Comprehension"
 }
