@@ -756,9 +756,9 @@ function renderRules(rulesData) {
     elements.challengeBanner.style.display = 'none';
     elements.resultsBanner.style.display = 'none';
     elements.scoreDisplay.style.display = 'none';
-    elements.tryMoreContainer.style.display = 'none';
+    elements.tryMoreBtn.style.display = 'none';
     elements.checkAnswersBtn.style.display = 'none';
-    elements.showAllBtn.style.display = 'none';
+    elements.showAllAnswersBtn.style.display = 'none';
 
     let html = '<div class="rules-container">';
 
