@@ -392,9 +392,1609 @@
           "answer": "Tangible"
         }
       ]
+    },
+    {
+      "id": "add_passage_6",
+      "title": "The Wonders of the Human Brain",
+      "source": "Additional Comprehension",
+      "passage": "The human brain is the most complex organ in the known universe. Weighing only about 1.4 kilograms, it contains approximately 86 billion neurons, each connected to thousands of others, forming an intricate network of trillions of connections. This remarkable organ controls everything we do—from breathing and heartbeat to thinking, feeling, and dreaming.\n\nThe brain is divided into different regions, each responsible for specific functions. The frontal lobe, located at the front of the brain, handles reasoning, planning, and decision-making. The temporal lobe processes sounds and helps with language comprehension. The parietal lobe integrates sensory information, while the occipital lobe at the back processes visual information.\n\nOne fascinating aspect of the brain is its plasticity—its ability to change and adapt throughout our lives. When we learn something new, our brain forms new neural connections. This is why practice makes perfect: the more we repeat an activity, the stronger those neural pathways become. Even after injury, the brain can sometimes rewire itself to compensate for damaged areas.\n\nThe brain consumes about 20% of our body's energy, despite making up only 2% of our body weight. It requires a constant supply of oxygen and glucose to function properly. Just five minutes without oxygen can cause permanent brain damage. This is why maintaining good cardiovascular health through exercise and proper nutrition is essential for brain health.\n\nScientists continue to unlock the mysteries of the brain. Recent research has shown that sleep plays a crucial role in memory consolidation and brain detoxification. During sleep, the brain clears out waste products that accumulate during waking hours. This discovery has reinforced the importance of getting adequate sleep for cognitive function and overall health.",
+      "questions": [
+        {
+          "id": "ap6_q1",
+          "type": "mcq",
+          "question": "How much does the human brain weigh approximately?",
+          "options": ["About 500 grams", "About 1.4 kilograms", "About 3 kilograms", "About 5 kilograms"],
+          "answer": "About 1.4 kilograms",
+          "explanation": "The passage states 'Weighing only about 1.4 kilograms'."
+        },
+        {
+          "id": "ap6_q2",
+          "type": "mcq",
+          "question": "How many neurons does the brain contain?",
+          "options": ["About 86 million", "About 86 billion", "About 86 thousand", "About 8.6 billion"],
+          "answer": "About 86 billion",
+          "explanation": "The passage states 'it contains approximately 86 billion neurons'."
+        },
+        {
+          "id": "ap6_q3",
+          "type": "mcq",
+          "question": "Which part of the brain processes visual information?",
+          "options": ["Frontal lobe", "Temporal lobe", "Parietal lobe", "Occipital lobe"],
+          "answer": "Occipital lobe",
+          "explanation": "The passage states 'the occipital lobe at the back processes visual information'."
+        },
+        {
+          "id": "ap6_q4",
+          "type": "mcq",
+          "question": "What percentage of the body's energy does the brain consume?",
+          "options": ["About 2%", "About 10%", "About 20%", "About 50%"],
+          "answer": "About 20%",
+          "explanation": "The passage states 'The brain consumes about 20% of our body's energy'."
+        },
+        {
+          "id": "ap6_q5",
+          "type": "short_answer",
+          "question": "What is brain plasticity?",
+          "answer": "Brain plasticity is the brain's ability to change and adapt throughout our lives. When we learn something new, our brain forms new neural connections. Even after injury, the brain can sometimes rewire itself to compensate for damaged areas."
+        },
+        {
+          "id": "ap6_q6",
+          "type": "short_answer",
+          "question": "What role does sleep play according to the passage?",
+          "answer": "Sleep plays a crucial role in memory consolidation and brain detoxification. During sleep, the brain clears out waste products that accumulate during waking hours."
+        },
+        {
+          "id": "ap6_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: complicated and detailed, with many interconnected parts.",
+          "answer": "Intricate"
+        },
+        {
+          "id": "ap6_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: the process of making something stronger or more solid.",
+          "answer": "Consolidation"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_7",
+      "title": "The Story of Chocolate",
+      "source": "Additional Comprehension",
+      "passage": "Chocolate, one of the world's most beloved treats, has a rich history that spans over 4,000 years. The story begins in ancient Mesoamerica, where the Maya and Aztec civilizations cultivated cacao trees and considered the beans so valuable that they were used as currency. The Aztec emperor Montezuma reportedly drank fifty cups of a bitter cacao beverage daily, believing it gave him strength and wisdom.\n\nWhen Spanish conquistadors arrived in the Americas in the 16th century, they brought cacao beans back to Europe. Initially, chocolate was consumed only as a drink and was considered a luxury for the wealthy. It wasn't until the 19th century that solid chocolate bars were invented. In 1847, Joseph Fry created the first modern chocolate bar by mixing cocoa powder with sugar and cocoa butter.\n\nThe journey from cacao tree to chocolate bar is a complex process. Cacao trees grow only in tropical regions within 20 degrees of the equator. The trees produce large pods containing 30-50 cacao beans surrounded by sweet pulp. After harvesting, the beans undergo fermentation, drying, roasting, and grinding. The resulting cocoa mass is then processed into cocoa powder and cocoa butter, which are combined with sugar and milk to create the chocolate we know today.\n\nToday, chocolate is a global industry worth over 130 billion dollars annually. The largest producers of cacao are Ivory Coast and Ghana in West Africa, which together account for over 60% of the world's supply. However, the industry faces challenges including climate change, which threatens cacao-growing regions, and concerns about fair wages for farmers. Many companies are now working towards sustainable and ethical chocolate production.",
+      "questions": [
+        {
+          "id": "ap7_q1",
+          "type": "mcq",
+          "question": "How long has chocolate's history spanned?",
+          "options": ["Over 1,000 years", "Over 2,000 years", "Over 4,000 years", "Over 6,000 years"],
+          "answer": "Over 4,000 years",
+          "explanation": "The passage states chocolate 'has a rich history that spans over 4,000 years'."
+        },
+        {
+          "id": "ap7_q2",
+          "type": "mcq",
+          "question": "What did the Aztecs use cacao beans for besides drinking?",
+          "options": ["Medicine", "Currency", "Decoration", "Building materials"],
+          "answer": "Currency",
+          "explanation": "The passage states the beans 'were used as currency'."
+        },
+        {
+          "id": "ap7_q3",
+          "type": "mcq",
+          "question": "Who created the first modern chocolate bar?",
+          "options": ["Montezuma", "Spanish conquistadors", "Joseph Fry", "The Maya"],
+          "answer": "Joseph Fry",
+          "explanation": "The passage states 'In 1847, Joseph Fry created the first modern chocolate bar'."
+        },
+        {
+          "id": "ap7_q4",
+          "type": "mcq",
+          "question": "Which countries are the largest producers of cacao?",
+          "options": ["Brazil and Mexico", "Indonesia and Malaysia", "Ivory Coast and Ghana", "Ecuador and Colombia"],
+          "answer": "Ivory Coast and Ghana",
+          "explanation": "The passage states 'The largest producers of cacao are Ivory Coast and Ghana'."
+        },
+        {
+          "id": "ap7_q5",
+          "type": "short_answer",
+          "question": "Describe the process from cacao tree to chocolate.",
+          "answer": "Cacao trees produce large pods containing 30-50 cacao beans. After harvesting, the beans undergo fermentation, drying, roasting, and grinding. The resulting cocoa mass is processed into cocoa powder and cocoa butter, which are combined with sugar and milk to create chocolate."
+        },
+        {
+          "id": "ap7_q6",
+          "type": "short_answer",
+          "question": "What challenges does the chocolate industry face today?",
+          "answer": "The industry faces challenges including climate change, which threatens cacao-growing regions, and concerns about fair wages for farmers."
+        },
+        {
+          "id": "ap7_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: Spanish soldiers who conquered parts of America in the 16th century.",
+          "answer": "Conquistadors"
+        },
+        {
+          "id": "ap7_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: able to continue without causing damage to the environment.",
+          "answer": "Sustainable"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_8",
+      "title": "The Olympic Games: A Tradition of Excellence",
+      "source": "Additional Comprehension",
+      "passage": "The Olympic Games are the world's foremost sports competition, bringing together thousands of athletes from around the globe to compete in the spirit of friendship and fair play. The ancient Olympics began in 776 BC in Olympia, Greece, as a religious festival honouring Zeus. Athletes competed in events like running, wrestling, and chariot racing. The games were held every four years for nearly 1,200 years until they were banned in 393 AD.\n\nThe modern Olympic Games were revived in 1896 by Pierre de Coubertin, a French educator who believed that sports could promote peace and international understanding. The first modern Olympics were held in Athens, Greece, with 241 athletes from 14 nations competing in 43 events. Today, the Summer Olympics feature over 10,000 athletes from more than 200 countries competing in over 300 events.\n\nThe Olympic symbols carry deep meaning. The five interlocking rings represent the five inhabited continents—Africa, the Americas, Asia, Europe, and Oceania—united by the Olympic movement. The Olympic flame, lit in Olympia and carried by relay to the host city, symbolizes the connection between the ancient and modern games. The Olympic motto, 'Citius, Altius, Fortius' (Faster, Higher, Stronger), was recently updated to include 'Communiter' (Together).\n\nHosting the Olympics is a massive undertaking that requires years of preparation and billions of dollars in investment. Cities compete fiercely for the honour, as the games can boost tourism, infrastructure development, and national pride. However, the legacy of the Olympics extends beyond medals and records. The games inspire millions of young people to pursue sports and remind us of what humanity can achieve when nations come together in peaceful competition.",
+      "questions": [
+        {
+          "id": "ap8_q1",
+          "type": "mcq",
+          "question": "When did the ancient Olympics begin?",
+          "options": ["776 BC", "393 AD", "1896 AD", "1000 BC"],
+          "answer": "776 BC",
+          "explanation": "The passage states 'The ancient Olympics began in 776 BC in Olympia, Greece'."
+        },
+        {
+          "id": "ap8_q2",
+          "type": "mcq",
+          "question": "Who revived the modern Olympic Games?",
+          "options": ["Zeus", "A Greek athlete", "Pierre de Coubertin", "The King of Greece"],
+          "answer": "Pierre de Coubertin",
+          "explanation": "The passage states 'The modern Olympic Games were revived in 1896 by Pierre de Coubertin'."
+        },
+        {
+          "id": "ap8_q3",
+          "type": "mcq",
+          "question": "What do the five Olympic rings represent?",
+          "options": ["Five sports", "Five Olympic values", "Five inhabited continents", "Five ancient games"],
+          "answer": "Five inhabited continents",
+          "explanation": "The passage states 'The five interlocking rings represent the five inhabited continents'."
+        },
+        {
+          "id": "ap8_q4",
+          "type": "mcq",
+          "question": "What was recently added to the Olympic motto?",
+          "options": ["Faster", "Higher", "Stronger", "Together"],
+          "answer": "Together",
+          "explanation": "The passage states the motto 'was recently updated to include \"Communiter\" (Together)'."
+        },
+        {
+          "id": "ap8_q5",
+          "type": "short_answer",
+          "question": "What was the purpose of the ancient Olympic Games?",
+          "answer": "The ancient Olympics began as a religious festival honouring Zeus. Athletes competed in events like running, wrestling, and chariot racing."
+        },
+        {
+          "id": "ap8_q6",
+          "type": "short_answer",
+          "question": "What does the Olympic flame symbolize?",
+          "answer": "The Olympic flame, lit in Olympia and carried by relay to the host city, symbolizes the connection between the ancient and modern games."
+        },
+        {
+          "id": "ap8_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: most important or leading.",
+          "answer": "Foremost"
+        },
+        {
+          "id": "ap8_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: what remains or is handed down after an event or period.",
+          "answer": "Legacy"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_9",
+      "title": "The Mysterious Octopus",
+      "source": "Additional Comprehension",
+      "passage": "The octopus is one of the most intelligent and fascinating creatures in the ocean. These remarkable animals have three hearts, blue blood, and eight flexible arms lined with powerful suction cups. Unlike most animals, octopuses have no bones, allowing them to squeeze through incredibly tight spaces—an octopus can fit through any opening larger than its beak, the only hard part of its body.\n\nOctopuses are masters of camouflage. They can change their colour, pattern, and even texture in milliseconds to blend into their surroundings. Special cells called chromatophores contain pigments that expand or contract to create different colours, while other cells reflect light to produce shimmering effects. This ability helps octopuses hide from predators and sneak up on prey.\n\nThe intelligence of octopuses has amazed scientists. They can solve puzzles, open jars, use tools, and even recognize individual human faces. In laboratories, octopuses have been observed escaping from tanks, navigating mazes, and showing distinct personalities. Their intelligence is particularly remarkable because octopuses are solitary creatures—unlike social animals, they cannot learn from others.\n\nSadly, octopuses have short lifespans, typically living only one to two years. After mating, female octopuses guard their eggs for months without eating, often dying shortly after the eggs hatch. This dedication to their offspring is one of the many mysteries surrounding these enigmatic creatures. Scientists continue to study octopuses, hoping to understand how such intelligence evolved in an animal so different from humans.",
+      "questions": [
+        {
+          "id": "ap9_q1",
+          "type": "mcq",
+          "question": "How many hearts does an octopus have?",
+          "options": ["One", "Two", "Three", "Four"],
+          "answer": "Three",
+          "explanation": "The passage states 'These remarkable animals have three hearts'."
+        },
+        {
+          "id": "ap9_q2",
+          "type": "mcq",
+          "question": "What is the only hard part of an octopus's body?",
+          "options": ["Its arms", "Its eyes", "Its beak", "Its suction cups"],
+          "answer": "Its beak",
+          "explanation": "The passage states 'an octopus can fit through any opening larger than its beak, the only hard part of its body'."
+        },
+        {
+          "id": "ap9_q3",
+          "type": "mcq",
+          "question": "What are chromatophores?",
+          "options": ["Suction cups", "Special cells that contain pigments for colour change", "A type of brain cell", "Bones"],
+          "answer": "Special cells that contain pigments for colour change",
+          "explanation": "The passage states 'Special cells called chromatophores contain pigments that expand or contract to create different colours'."
+        },
+        {
+          "id": "ap9_q4",
+          "type": "mcq",
+          "question": "How long do octopuses typically live?",
+          "options": ["5-10 years", "10-20 years", "1-2 years", "20-30 years"],
+          "answer": "1-2 years",
+          "explanation": "The passage states 'octopuses have short lifespans, typically living only one to two years'."
+        },
+        {
+          "id": "ap9_q5",
+          "type": "short_answer",
+          "question": "How does camouflage help octopuses?",
+          "answer": "Camouflage helps octopuses hide from predators and sneak up on prey. They can change their colour, pattern, and even texture in milliseconds to blend into their surroundings."
+        },
+        {
+          "id": "ap9_q6",
+          "type": "short_answer",
+          "question": "What evidence shows that octopuses are intelligent?",
+          "answer": "Octopuses can solve puzzles, open jars, use tools, and recognize individual human faces. They have been observed escaping from tanks, navigating mazes, and showing distinct personalities."
+        },
+        {
+          "id": "ap9_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: the ability to blend in with surroundings.",
+          "answer": "Camouflage"
+        },
+        {
+          "id": "ap9_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: mysterious and difficult to understand.",
+          "answer": "Enigmatic"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_10",
+      "title": "The Power of Music",
+      "source": "Additional Comprehension",
+      "passage": "Music is a universal language that transcends cultural boundaries and speaks directly to the human soul. Every known human culture, past and present, has created music in some form. Archaeological evidence suggests that humans have been making music for at least 40,000 years, with bone flutes being among the oldest musical instruments ever discovered.\n\nThe effects of music on the human brain are profound. When we listen to music we enjoy, our brains release dopamine, a chemical associated with pleasure and reward. This is the same chemical released when we eat delicious food or receive a hug. Music can also reduce cortisol, the stress hormone, which explains why people often turn to music to relax or cope with difficult emotions.\n\nBeyond emotional effects, music has been shown to improve cognitive function. Students who study music often perform better in mathematics, possibly because both disciplines involve recognizing patterns and relationships. Learning to play an instrument strengthens connections between different parts of the brain and can even increase IQ. For elderly patients, music therapy has been effective in slowing cognitive decline and helping those with dementia recall memories.\n\nMusic also has remarkable healing properties. Hospitals around the world use music therapy to help patients manage pain, reduce anxiety before surgery, and recover faster. Premature babies exposed to soothing music in intensive care units show improved sleep patterns and faster weight gain. Whether we're listening, singing, or playing an instrument, music has the power to heal, inspire, and bring people together in ways that few other things can.",
+      "questions": [
+        {
+          "id": "ap10_q1",
+          "type": "mcq",
+          "question": "For how long have humans been making music according to the passage?",
+          "options": ["At least 10,000 years", "At least 40,000 years", "At least 100,000 years", "At least 1,000 years"],
+          "answer": "At least 40,000 years",
+          "explanation": "The passage states 'humans have been making music for at least 40,000 years'."
+        },
+        {
+          "id": "ap10_q2",
+          "type": "mcq",
+          "question": "What chemical does the brain release when we enjoy music?",
+          "options": ["Cortisol", "Adrenaline", "Dopamine", "Insulin"],
+          "answer": "Dopamine",
+          "explanation": "The passage states 'our brains release dopamine, a chemical associated with pleasure and reward'."
+        },
+        {
+          "id": "ap10_q3",
+          "type": "mcq",
+          "question": "Why might music students perform better in mathematics?",
+          "options": ["They are naturally smarter", "Both disciplines involve recognizing patterns", "Music teachers also teach math", "They study harder"],
+          "answer": "Both disciplines involve recognizing patterns",
+          "explanation": "The passage states 'possibly because both disciplines involve recognizing patterns and relationships'."
+        },
+        {
+          "id": "ap10_q4",
+          "type": "mcq",
+          "question": "How does music help premature babies?",
+          "options": ["It makes them laugh", "It improves sleep patterns and faster weight gain", "It helps them breathe", "It keeps them awake"],
+          "answer": "It improves sleep patterns and faster weight gain",
+          "explanation": "The passage states 'Premature babies exposed to soothing music show improved sleep patterns and faster weight gain'."
+        },
+        {
+          "id": "ap10_q5",
+          "type": "short_answer",
+          "question": "What evidence suggests music is universal to human culture?",
+          "answer": "Every known human culture, past and present, has created music in some form. Archaeological evidence shows humans have been making music for at least 40,000 years, with bone flutes being among the oldest musical instruments discovered."
+        },
+        {
+          "id": "ap10_q6",
+          "type": "short_answer",
+          "question": "How is music used in hospitals?",
+          "answer": "Hospitals use music therapy to help patients manage pain, reduce anxiety before surgery, and recover faster. For elderly patients, music therapy helps slow cognitive decline and helps those with dementia recall memories."
+        },
+        {
+          "id": "ap10_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: goes beyond or rises above limits.",
+          "answer": "Transcends"
+        },
+        {
+          "id": "ap10_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: relating to thinking, understanding, and learning.",
+          "answer": "Cognitive"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_11",
+      "title": "The Water Cycle",
+      "source": "Additional Comprehension",
+      "passage": "The water cycle, also known as the hydrological cycle, is one of Earth's most important natural processes. It describes the continuous movement of water within the Earth and atmosphere. The same water that dinosaurs drank millions of years ago is still cycling through our planet today—water is neither created nor destroyed, only recycled.\n\nThe cycle begins with evaporation, when the sun's heat causes water from oceans, lakes, and rivers to turn into water vapour and rise into the atmosphere. Plants also contribute through a process called transpiration, releasing water vapour through their leaves. Together, evaporation and transpiration add enormous amounts of moisture to the air—about 500,000 cubic kilometres annually.\n\nAs water vapour rises, it cools and condenses into tiny water droplets that form clouds. This process is called condensation. When these droplets combine and become heavy enough, they fall back to Earth as precipitation—rain, snow, sleet, or hail. Most precipitation falls directly into the oceans, but some falls on land.\n\nWater that falls on land takes several paths. Some flows across the surface as runoff, eventually reaching streams and rivers that carry it back to the ocean. Some soaks into the ground, becoming groundwater that moves slowly through soil and rock. This groundwater can remain underground for thousands of years before emerging in springs or being pumped up by wells. The water cycle is crucial for life on Earth, distributing fresh water, regulating temperature, and shaping landscapes through erosion.",
+      "questions": [
+        {
+          "id": "ap11_q1",
+          "type": "mcq",
+          "question": "What is another name for the water cycle?",
+          "options": ["Precipitation cycle", "Hydrological cycle", "Evaporation cycle", "Cloud cycle"],
+          "answer": "Hydrological cycle",
+          "explanation": "The passage states 'The water cycle, also known as the hydrological cycle'."
+        },
+        {
+          "id": "ap11_q2",
+          "type": "mcq",
+          "question": "What causes evaporation?",
+          "options": ["The moon's gravity", "Wind", "The sun's heat", "Clouds"],
+          "answer": "The sun's heat",
+          "explanation": "The passage states 'the sun's heat causes water from oceans, lakes, and rivers to turn into water vapour'."
+        },
+        {
+          "id": "ap11_q3",
+          "type": "mcq",
+          "question": "What is transpiration?",
+          "options": ["Water falling as rain", "Plants releasing water vapour through leaves", "Water soaking into ground", "Clouds forming"],
+          "answer": "Plants releasing water vapour through leaves",
+          "explanation": "The passage states transpiration is 'releasing water vapour through their leaves'."
+        },
+        {
+          "id": "ap11_q4",
+          "type": "mcq",
+          "question": "How long can groundwater remain underground?",
+          "options": ["A few days", "A few months", "A few years", "Thousands of years"],
+          "answer": "Thousands of years",
+          "explanation": "The passage states 'groundwater can remain underground for thousands of years'."
+        },
+        {
+          "id": "ap11_q5",
+          "type": "short_answer",
+          "question": "What happens during condensation?",
+          "answer": "As water vapour rises, it cools and condenses into tiny water droplets that form clouds."
+        },
+        {
+          "id": "ap11_q6",
+          "type": "short_answer",
+          "question": "What are the different forms of precipitation mentioned?",
+          "answer": "The different forms of precipitation mentioned are rain, snow, sleet, and hail."
+        },
+        {
+          "id": "ap11_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: water flowing over land surface towards rivers and oceans.",
+          "answer": "Runoff"
+        },
+        {
+          "id": "ap11_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: the wearing away of land by water, wind, or ice.",
+          "answer": "Erosion"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_12",
+      "title": "The Life of Mahatma Gandhi",
+      "source": "Additional Comprehension",
+      "passage": "Mohandas Karamchand Gandhi, known as Mahatma Gandhi, was one of the most influential leaders in world history. Born on October 2, 1869, in Porbandar, India, he would become the father of Indian independence and inspire movements for civil rights and freedom across the world. The title 'Mahatma,' meaning 'great soul,' was given to him by the Indian people as a mark of their respect and love.\n\nGandhi studied law in London and then moved to South Africa, where he experienced racial discrimination firsthand. It was in South Africa that he developed his philosophy of Satyagraha, or nonviolent resistance. He believed that truth and love could conquer hatred and injustice without resorting to violence. This approach would become his most powerful weapon against British colonial rule in India.\n\nReturning to India in 1915, Gandhi led numerous campaigns against British rule. He encouraged Indians to spin their own cloth using the charkha (spinning wheel) to boycott British textiles. He led the famous Salt March in 1930, walking 385 kilometres to the sea to make salt, defying British laws that taxed this essential commodity. His methods of peaceful protest inspired millions.\n\nGandhi lived simply, wearing only hand-spun cloth and eating a vegetarian diet. He believed in equality for all, fighting against the discrimination faced by untouchables, whom he called 'Harijans' or 'children of God.' His life's work culminated in Indian independence on August 15, 1947. Tragically, Gandhi was assassinated on January 30, 1948, but his legacy of nonviolent resistance continues to inspire leaders and movements worldwide.",
+      "questions": [
+        {
+          "id": "ap12_q1",
+          "type": "mcq",
+          "question": "When was Mahatma Gandhi born?",
+          "options": ["October 2, 1869", "August 15, 1947", "January 30, 1948", "October 2, 1915"],
+          "answer": "October 2, 1869",
+          "explanation": "The passage states 'Born on October 2, 1869, in Porbandar, India'."
+        },
+        {
+          "id": "ap12_q2",
+          "type": "mcq",
+          "question": "What does 'Mahatma' mean?",
+          "options": ["Great leader", "Great soul", "Great teacher", "Great warrior"],
+          "answer": "Great soul",
+          "explanation": "The passage states 'The title \"Mahatma,\" meaning \"great soul\"'."
+        },
+        {
+          "id": "ap12_q3",
+          "type": "mcq",
+          "question": "Where did Gandhi develop his philosophy of Satyagraha?",
+          "options": ["India", "London", "South Africa", "Porbandar"],
+          "answer": "South Africa",
+          "explanation": "The passage states 'It was in South Africa that he developed his philosophy of Satyagraha'."
+        },
+        {
+          "id": "ap12_q4",
+          "type": "mcq",
+          "question": "How far did Gandhi walk during the Salt March?",
+          "options": ["100 kilometres", "250 kilometres", "385 kilometres", "500 kilometres"],
+          "answer": "385 kilometres",
+          "explanation": "The passage states 'walking 385 kilometres to the sea'."
+        },
+        {
+          "id": "ap12_q5",
+          "type": "short_answer",
+          "question": "What is Satyagraha and what did Gandhi believe about it?",
+          "answer": "Satyagraha means nonviolent resistance. Gandhi believed that truth and love could conquer hatred and injustice without resorting to violence."
+        },
+        {
+          "id": "ap12_q6",
+          "type": "short_answer",
+          "question": "Why did Gandhi encourage Indians to spin their own cloth?",
+          "answer": "Gandhi encouraged Indians to spin their own cloth using the charkha (spinning wheel) to boycott British textiles as a form of protest against British rule."
+        },
+        {
+          "id": "ap12_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: refuse to buy or use something as a protest.",
+          "answer": "Boycott"
+        },
+        {
+          "id": "ap12_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: reached its highest or final point.",
+          "answer": "Culminated"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_13",
+      "title": "The Amazon Rainforest",
+      "source": "Additional Comprehension",
+      "passage": "The Amazon Rainforest is the largest tropical rainforest on Earth, covering approximately 5.5 million square kilometres across nine South American countries. Often called the 'lungs of the Earth,' the Amazon produces about 20% of the world's oxygen and plays a crucial role in regulating the global climate. The forest is home to the Amazon River, which carries more water than any other river in the world.\n\nThe biodiversity of the Amazon is staggering. Scientists estimate that the forest contains about 10% of all species on Earth. There are approximately 80,000 plant species, 1,300 bird species, 3,000 types of fish, and countless insects—many of which have not yet been discovered or named. New species are found regularly; between 2014 and 2015, scientists discovered an average of one new species every two days.\n\nIndigenous peoples have lived in the Amazon for thousands of years, developing extensive knowledge of the forest's plants and animals. Many modern medicines have been developed from plants first used by indigenous communities. The rosy periwinkle, for example, provides compounds used to treat cancer. Scientists believe that many more medicinal plants remain undiscovered in the Amazon.\n\nUnfortunately, the Amazon faces severe threats from deforestation. Approximately 17% of the forest has been lost in the last 50 years, mainly due to cattle ranching, agriculture, and logging. Deforestation not only destroys habitats but also releases stored carbon into the atmosphere, contributing to climate change. Conservation efforts are underway, but protecting this vital ecosystem requires global cooperation and commitment.",
+      "questions": [
+        {
+          "id": "ap13_q1",
+          "type": "mcq",
+          "question": "How large is the Amazon Rainforest?",
+          "options": ["About 1 million square kilometres", "About 3 million square kilometres", "About 5.5 million square kilometres", "About 10 million square kilometres"],
+          "answer": "About 5.5 million square kilometres",
+          "explanation": "The passage states the Amazon covers 'approximately 5.5 million square kilometres'."
+        },
+        {
+          "id": "ap13_q2",
+          "type": "mcq",
+          "question": "What percentage of the world's oxygen does the Amazon produce?",
+          "options": ["About 5%", "About 10%", "About 20%", "About 50%"],
+          "answer": "About 20%",
+          "explanation": "The passage states 'the Amazon produces about 20% of the world's oxygen'."
+        },
+        {
+          "id": "ap13_q3",
+          "type": "mcq",
+          "question": "How many plant species are estimated to be in the Amazon?",
+          "options": ["About 8,000", "About 80,000", "About 800,000", "About 8 million"],
+          "answer": "About 80,000",
+          "explanation": "The passage states 'There are approximately 80,000 plant species'."
+        },
+        {
+          "id": "ap13_q4",
+          "type": "mcq",
+          "question": "What are the main causes of deforestation in the Amazon?",
+          "options": ["Tourism and mining", "Cattle ranching, agriculture, and logging", "Natural disasters", "Urban development"],
+          "answer": "Cattle ranching, agriculture, and logging",
+          "explanation": "The passage states deforestation is 'mainly due to cattle ranching, agriculture, and logging'."
+        },
+        {
+          "id": "ap13_q5",
+          "type": "short_answer",
+          "question": "Why is the Amazon called the 'lungs of the Earth'?",
+          "answer": "The Amazon is called the 'lungs of the Earth' because it produces about 20% of the world's oxygen and plays a crucial role in regulating the global climate."
+        },
+        {
+          "id": "ap13_q6",
+          "type": "short_answer",
+          "question": "How have indigenous peoples contributed to modern medicine?",
+          "answer": "Indigenous peoples have developed extensive knowledge of the forest's plants. Many modern medicines have been developed from plants first used by indigenous communities. For example, the rosy periwinkle provides compounds used to treat cancer."
+        },
+        {
+          "id": "ap13_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: the variety of plant and animal life in a habitat.",
+          "answer": "Biodiversity"
+        },
+        {
+          "id": "ap13_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: the clearing or destruction of forests.",
+          "answer": "Deforestation"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_14",
+      "title": "The Invention of the Telephone",
+      "source": "Additional Comprehension",
+      "passage": "The telephone is one of the most transformative inventions in human history, revolutionising the way people communicate across distances. On March 10, 1876, Alexander Graham Bell made the first successful telephone call, speaking the famous words to his assistant: 'Mr. Watson, come here, I want to see you.' This moment marked the beginning of a new era in communication.\n\nBell was born in Edinburgh, Scotland, in 1847. His mother and wife were both deaf, which inspired his lifelong interest in speech and sound. Before inventing the telephone, Bell worked as a teacher of the deaf and studied the mechanics of human speech. His understanding of sound waves and vibrations was crucial to his invention of the telephone.\n\nThe telephone worked by converting sound waves into electrical signals that could travel through wires. When someone spoke into the phone, their voice caused a thin metal disc to vibrate. These vibrations were converted into electrical pulses that travelled through wires to the receiving phone, where they were converted back into sound waves. This basic principle remains at the heart of telephone technology today.\n\nInitially, many people were sceptical about the telephone's usefulness. Western Union, the telegraph company, famously turned down Bell's offer to sell his patent for $100,000, calling the telephone a 'toy.' Within just a few years, however, telephones were being installed in homes and businesses across America. By 1900, there were nearly 600,000 phones in the United States alone. Today, billions of people around the world carry smartphones that would have seemed like science fiction to Bell.",
+      "questions": [
+        {
+          "id": "ap14_q1",
+          "type": "mcq",
+          "question": "When did Alexander Graham Bell make the first telephone call?",
+          "options": ["March 10, 1847", "March 10, 1876", "March 10, 1900", "March 10, 1886"],
+          "answer": "March 10, 1876",
+          "explanation": "The passage states 'On March 10, 1876, Alexander Graham Bell made the first successful telephone call'."
+        },
+        {
+          "id": "ap14_q2",
+          "type": "mcq",
+          "question": "What inspired Bell's interest in speech and sound?",
+          "options": ["His love of music", "His mother and wife were deaf", "He was a scientist by training", "He wanted to be famous"],
+          "answer": "His mother and wife were deaf",
+          "explanation": "The passage states 'His mother and wife were both deaf, which inspired his lifelong interest in speech and sound'."
+        },
+        {
+          "id": "ap14_q3",
+          "type": "mcq",
+          "question": "How many phones were in the United States by 1900?",
+          "options": ["About 60,000", "About 100,000", "About 600,000", "About 6 million"],
+          "answer": "About 600,000",
+          "explanation": "The passage states 'By 1900, there were nearly 600,000 phones in the United States'."
+        },
+        {
+          "id": "ap14_q4",
+          "type": "mcq",
+          "question": "What did Western Union call the telephone?",
+          "options": ["A breakthrough", "A miracle", "A toy", "The future"],
+          "answer": "A toy",
+          "explanation": "The passage states Western Union 'famously turned down Bell's offer, calling the telephone a \"toy\"'."
+        },
+        {
+          "id": "ap14_q5",
+          "type": "short_answer",
+          "question": "How did the early telephone work?",
+          "answer": "The telephone converted sound waves into electrical signals that travelled through wires. When someone spoke, their voice caused a thin metal disc to vibrate. These vibrations were converted into electrical pulses that travelled through wires and were converted back into sound waves at the receiving phone."
+        },
+        {
+          "id": "ap14_q6",
+          "type": "short_answer",
+          "question": "What were the first words spoken on a telephone?",
+          "answer": "The first words spoken were 'Mr. Watson, come here, I want to see you,' spoken by Alexander Graham Bell to his assistant."
+        },
+        {
+          "id": "ap14_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: causing a major change; revolutionary.",
+          "answer": "Transformative"
+        },
+        {
+          "id": "ap14_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: doubting or questioning something.",
+          "answer": "Sceptical"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_15",
+      "title": "The Importance of Sleep",
+      "source": "Additional Comprehension",
+      "passage": "Sleep is not merely a period of rest; it is a vital biological process that affects nearly every aspect of our health and well-being. During sleep, our bodies and brains undergo essential maintenance and restoration that cannot happen while we are awake. Despite spending roughly one-third of our lives asleep, scientists are still uncovering the mysteries of why we need sleep.\n\nThe sleep cycle consists of several stages that repeat throughout the night. Non-REM (Rapid Eye Movement) sleep includes light sleep and deep sleep, during which the body repairs tissues, builds muscle, and strengthens the immune system. REM sleep, characterised by rapid eye movements and vivid dreams, is crucial for memory consolidation and emotional processing. A typical night includes four to six complete cycles.\n\nSleep deprivation has serious consequences. In the short term, lack of sleep impairs concentration, memory, and decision-making. It also affects mood, making people more irritable and prone to anxiety. Long-term sleep deprivation is linked to serious health problems including obesity, diabetes, heart disease, and weakened immunity. Studies show that people who regularly sleep less than seven hours per night have a 12% higher risk of premature death.\n\nFor adolescents, sleep is especially important as their brains are still developing. Experts recommend that teenagers get eight to ten hours of sleep per night, yet most get far less due to early school start times, homework, and screen use before bed. Creating good sleep habits—such as maintaining a regular bedtime, avoiding screens before sleep, and keeping bedrooms cool and dark—can dramatically improve both health and academic performance.",
+      "questions": [
+        {
+          "id": "ap15_q1",
+          "type": "mcq",
+          "question": "What fraction of our lives do we spend asleep?",
+          "options": ["About one-quarter", "About one-third", "About half", "About two-thirds"],
+          "answer": "About one-third",
+          "explanation": "The passage states we spend 'roughly one-third of our lives asleep'."
+        },
+        {
+          "id": "ap15_q2",
+          "type": "mcq",
+          "question": "What is REM sleep crucial for?",
+          "options": ["Tissue repair", "Muscle building", "Memory consolidation and emotional processing", "Immune system strengthening"],
+          "answer": "Memory consolidation and emotional processing",
+          "explanation": "The passage states 'REM sleep is crucial for memory consolidation and emotional processing'."
+        },
+        {
+          "id": "ap15_q3",
+          "type": "mcq",
+          "question": "How many hours of sleep do experts recommend for teenagers?",
+          "options": ["Six to seven hours", "Seven to eight hours", "Eight to ten hours", "Ten to twelve hours"],
+          "answer": "Eight to ten hours",
+          "explanation": "The passage states 'Experts recommend that teenagers get eight to ten hours of sleep per night'."
+        },
+        {
+          "id": "ap15_q4",
+          "type": "mcq",
+          "question": "What health problems are linked to long-term sleep deprivation?",
+          "options": ["Only headaches", "Obesity, diabetes, heart disease, and weakened immunity", "Just memory problems", "Only mood changes"],
+          "answer": "Obesity, diabetes, heart disease, and weakened immunity",
+          "explanation": "The passage lists these as problems linked to long-term sleep deprivation."
+        },
+        {
+          "id": "ap15_q5",
+          "type": "short_answer",
+          "question": "What happens during non-REM sleep?",
+          "answer": "During non-REM sleep, the body repairs tissues, builds muscle, and strengthens the immune system."
+        },
+        {
+          "id": "ap15_q6",
+          "type": "short_answer",
+          "question": "What are some good sleep habits mentioned in the passage?",
+          "answer": "Good sleep habits include maintaining a regular bedtime, avoiding screens before sleep, and keeping bedrooms cool and dark."
+        },
+        {
+          "id": "ap15_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: the lack of adequate sleep.",
+          "answer": "Deprivation"
+        },
+        {
+          "id": "ap15_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: easily annoyed or angered.",
+          "answer": "Irritable"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_16",
+      "title": "The Taj Mahal: A Monument of Love",
+      "source": "Additional Comprehension",
+      "passage": "The Taj Mahal, located in Agra, India, is widely considered one of the most beautiful buildings ever created. This stunning white marble mausoleum was built by the Mughal Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal, who died in 1631 while giving birth to their fourteenth child. The emperor was so grief-stricken that his hair reportedly turned grey overnight.\n\nConstruction of the Taj Mahal began in 1632 and took approximately 22 years to complete. The project employed over 20,000 workers, including architects, stone-cutters, carvers, painters, and calligraphers from across Asia. The white marble was brought from Rajasthan, while precious stones for the intricate inlay work came from as far as China, Tibet, and Sri Lanka. The total cost of construction is estimated at around 32 million rupees at that time.\n\nThe architecture of the Taj Mahal represents a perfect blend of Persian, Islamic, and Indian styles. The building is perfectly symmetrical, with four identical faces and a massive central dome reaching 73 metres in height. The interior walls are decorated with delicate floral patterns and verses from the Quran, inlaid with precious and semi-precious stones. The gardens surrounding the Taj Mahal are designed in the traditional Mughal 'charbagh' style, divided into four sections by waterways.\n\nToday, the Taj Mahal attracts between seven and eight million visitors annually and was designated a UNESCO World Heritage Site in 1983. However, the monument faces threats from air pollution, which has begun to yellow the white marble. Conservation efforts are ongoing to protect this treasure for future generations.",
+      "questions": [
+        {
+          "id": "ap16_q1",
+          "type": "mcq",
+          "question": "Who built the Taj Mahal?",
+          "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Mumtaz Mahal"],
+          "answer": "Shah Jahan",
+          "explanation": "The passage states 'This mausoleum was built by the Mughal Emperor Shah Jahan'."
+        },
+        {
+          "id": "ap16_q2",
+          "type": "mcq",
+          "question": "How long did it take to build the Taj Mahal?",
+          "options": ["About 10 years", "About 22 years", "About 32 years", "About 50 years"],
+          "answer": "About 22 years",
+          "explanation": "The passage states 'took approximately 22 years to complete'."
+        },
+        {
+          "id": "ap16_q3",
+          "type": "mcq",
+          "question": "How many workers were employed in building the Taj Mahal?",
+          "options": ["Over 5,000", "Over 10,000", "Over 20,000", "Over 50,000"],
+          "answer": "Over 20,000",
+          "explanation": "The passage states 'The project employed over 20,000 workers'."
+        },
+        {
+          "id": "ap16_q4",
+          "type": "mcq",
+          "question": "What threat does the Taj Mahal face today?",
+          "options": ["Earthquakes", "Flooding", "Air pollution yellowing the marble", "Too many visitors"],
+          "answer": "Air pollution yellowing the marble",
+          "explanation": "The passage states 'air pollution has begun to yellow the white marble'."
+        },
+        {
+          "id": "ap16_q5",
+          "type": "short_answer",
+          "question": "Why was the Taj Mahal built?",
+          "answer": "The Taj Mahal was built by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, who died in 1631 while giving birth to their fourteenth child."
+        },
+        {
+          "id": "ap16_q6",
+          "type": "short_answer",
+          "question": "Describe the architecture of the Taj Mahal.",
+          "answer": "The Taj Mahal represents a perfect blend of Persian, Islamic, and Indian styles. It is perfectly symmetrical with four identical faces and a massive central dome reaching 73 metres. The interior walls are decorated with delicate floral patterns and Quranic verses, inlaid with precious stones."
+        },
+        {
+          "id": "ap16_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: a building where dead bodies are kept.",
+          "answer": "Mausoleum"
+        },
+        {
+          "id": "ap16_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: exactly the same on both sides.",
+          "answer": "Symmetrical"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_17",
+      "title": "The Fascinating World of Ants",
+      "source": "Additional Comprehension",
+      "passage": "Ants are among the most successful creatures on Earth, having existed for over 100 million years. These tiny insects live on every continent except Antarctica and are found in almost every environment, from rainforests to deserts. Scientists estimate there are over 12,000 species of ants, with a total population of approximately 20 quadrillion individuals—that's about 2.5 million ants for every human on the planet!\n\nAnt colonies are highly organised societies with a strict division of labour. The queen's sole purpose is to lay eggs—some queens can live for 30 years and lay millions of eggs. Worker ants, all female, perform various tasks including foraging for food, caring for young, and defending the colony. Male ants exist only to mate with the queen and typically die shortly afterward.\n\nAnts are remarkably strong for their size. They can carry objects 10 to 50 times their own body weight. If humans had the same strength relative to our size, an average person could lift a car! Ants achieve this through their small size, which gives them a favourable strength-to-weight ratio, and their powerful muscles.\n\nCommunication among ants relies heavily on chemical signals called pheromones. When a worker ant finds food, it leaves a pheromone trail for others to follow. Different pheromones signal danger, mark territory, or identify colony members. Some ant species also communicate through sounds and touch. This sophisticated communication system allows thousands of ants to work together seamlessly, building complex nests, farming fungus, or even waging war against rival colonies.",
+      "questions": [
+        {
+          "id": "ap17_q1",
+          "type": "mcq",
+          "question": "How long have ants existed on Earth?",
+          "options": ["Over 10 million years", "Over 50 million years", "Over 100 million years", "Over 500 million years"],
+          "answer": "Over 100 million years",
+          "explanation": "The passage states ants 'have existed for over 100 million years'."
+        },
+        {
+          "id": "ap17_q2",
+          "type": "mcq",
+          "question": "How many ants are there for every human on Earth?",
+          "options": ["About 250,000", "About 2.5 million", "About 25 million", "About 250 million"],
+          "answer": "About 2.5 million",
+          "explanation": "The passage states 'about 2.5 million ants for every human on the planet'."
+        },
+        {
+          "id": "ap17_q3",
+          "type": "mcq",
+          "question": "How much weight can ants carry relative to their body weight?",
+          "options": ["2 to 5 times", "10 to 50 times", "100 to 500 times", "1000 times"],
+          "answer": "10 to 50 times",
+          "explanation": "The passage states 'They can carry objects 10 to 50 times their own body weight'."
+        },
+        {
+          "id": "ap17_q4",
+          "type": "mcq",
+          "question": "What are pheromones used for?",
+          "options": ["Building nests", "Chemical communication", "Carrying food", "Fighting enemies"],
+          "answer": "Chemical communication",
+          "explanation": "The passage states 'Communication among ants relies heavily on chemical signals called pheromones'."
+        },
+        {
+          "id": "ap17_q5",
+          "type": "short_answer",
+          "question": "What is the role of different types of ants in a colony?",
+          "answer": "The queen lays eggs, worker ants (all female) forage for food, care for young, and defend the colony. Male ants exist only to mate with the queen and die shortly afterward."
+        },
+        {
+          "id": "ap17_q6",
+          "type": "short_answer",
+          "question": "How do ants use pheromones to communicate?",
+          "answer": "When a worker ant finds food, it leaves a pheromone trail for others to follow. Different pheromones signal danger, mark territory, or identify colony members."
+        },
+        {
+          "id": "ap17_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: searching for food.",
+          "answer": "Foraging"
+        },
+        {
+          "id": "ap17_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: smoothly and without problems.",
+          "answer": "Seamlessly"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_18",
+      "title": "The Solar System",
+      "source": "Additional Comprehension",
+      "passage": "Our solar system is a vast cosmic neighbourhood centred around the Sun, a medium-sized star that contains 99.8% of the solar system's total mass. The Sun's gravitational pull keeps eight planets, numerous dwarf planets, and countless smaller objects in orbit around it. The solar system formed approximately 4.6 billion years ago from a giant cloud of gas and dust.\n\nThe eight planets are divided into two groups based on their composition. The inner planets—Mercury, Venus, Earth, and Mars—are rocky worlds with solid surfaces. These terrestrial planets are relatively small and dense. The outer planets—Jupiter, Saturn, Uranus, and Neptune—are giant worlds made mostly of gas and ice. Jupiter, the largest planet, could fit all the other planets inside it with room to spare.\n\nEarth occupies a special position in our solar system known as the 'habitable zone' or 'Goldilocks zone,' where temperatures are just right for liquid water to exist. This, combined with our protective atmosphere and magnetic field, has allowed life to flourish on our planet. Scientists are discovering similar zones around other stars, raising exciting possibilities for life elsewhere in the universe.\n\nBeyond Neptune lies the Kuiper Belt, a region containing millions of icy bodies including the dwarf planet Pluto. Even farther out is the Oort Cloud, a vast spherical shell of icy objects that marks the outer boundary of our solar system. A spacecraft travelling at the speed of light would take over a year to cross from the Sun to the Oort Cloud's outer edge.",
+      "questions": [
+        {
+          "id": "ap18_q1",
+          "type": "mcq",
+          "question": "What percentage of the solar system's mass does the Sun contain?",
+          "options": ["About 50%", "About 75%", "About 90%", "About 99.8%"],
+          "answer": "About 99.8%",
+          "explanation": "The passage states the Sun 'contains 99.8% of the solar system's total mass'."
+        },
+        {
+          "id": "ap18_q2",
+          "type": "mcq",
+          "question": "How old is the solar system?",
+          "options": ["About 1 billion years", "About 4.6 billion years", "About 10 billion years", "About 100 million years"],
+          "answer": "About 4.6 billion years",
+          "explanation": "The passage states 'The solar system formed approximately 4.6 billion years ago'."
+        },
+        {
+          "id": "ap18_q3",
+          "type": "mcq",
+          "question": "Which is the largest planet in our solar system?",
+          "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+          "answer": "Jupiter",
+          "explanation": "The passage states 'Jupiter, the largest planet, could fit all the other planets inside it'."
+        },
+        {
+          "id": "ap18_q4",
+          "type": "mcq",
+          "question": "What is the 'habitable zone'?",
+          "options": ["Where life already exists", "Where temperatures allow liquid water to exist", "The asteroid belt", "The area near the Sun"],
+          "answer": "Where temperatures allow liquid water to exist",
+          "explanation": "The passage states it's 'where temperatures are just right for liquid water to exist'."
+        },
+        {
+          "id": "ap18_q5",
+          "type": "short_answer",
+          "question": "What is the difference between inner and outer planets?",
+          "answer": "Inner planets (Mercury, Venus, Earth, Mars) are rocky worlds with solid surfaces, relatively small and dense. Outer planets (Jupiter, Saturn, Uranus, Neptune) are giant worlds made mostly of gas and ice."
+        },
+        {
+          "id": "ap18_q6",
+          "type": "short_answer",
+          "question": "What lies beyond Neptune?",
+          "answer": "Beyond Neptune lies the Kuiper Belt, a region containing millions of icy bodies including the dwarf planet Pluto. Even farther out is the Oort Cloud, a vast spherical shell of icy objects that marks the outer boundary of our solar system."
+        },
+        {
+          "id": "ap18_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: relating to Earth or land.",
+          "answer": "Terrestrial"
+        },
+        {
+          "id": "ap18_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: shaped like a ball or sphere.",
+          "answer": "Spherical"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_19",
+      "title": "The History of Football",
+      "source": "Additional Comprehension",
+      "passage": "Football, known as soccer in some countries, is the world's most popular sport, with an estimated four billion fans globally. The modern game originated in England in the 19th century, but ball-kicking games have existed for thousands of years. Ancient civilizations in China, Greece, Rome, and Central America all had games involving kicking a ball, though the rules varied greatly.\n\nThe Football Association was founded in London in 1863, establishing the first standardised rules for the sport. These rules separated football from rugby, which allowed handling the ball. The first official international match was played between England and Scotland in 1872, ending in a 0-0 draw. The sport spread rapidly through British colonies and trade routes, eventually becoming truly global.\n\nThe FIFA World Cup, first held in 1930 in Uruguay, is now the world's most-watched sporting event. The tournament takes place every four years and brings together national teams from around the world. Brazil has won the most World Cups with five titles, followed by Germany and Italy with four each. The tournament attracts billions of viewers, with the 2018 final watched by an estimated 1.1 billion people.\n\nFootball has produced legendary players who have become global icons. Pelé of Brazil is often considered the greatest player of the 20th century, while Lionel Messi and Cristiano Ronaldo have dominated the modern era. The sport has the power to unite people across national, cultural, and social boundaries, creating moments of shared joy and heartbreak that few other activities can match.",
+      "questions": [
+        {
+          "id": "ap19_q1",
+          "type": "mcq",
+          "question": "How many football fans are there globally?",
+          "options": ["About 1 billion", "About 2 billion", "About 4 billion", "About 8 billion"],
+          "answer": "About 4 billion",
+          "explanation": "The passage states football has 'an estimated four billion fans globally'."
+        },
+        {
+          "id": "ap19_q2",
+          "type": "mcq",
+          "question": "When was the Football Association founded?",
+          "options": ["1830", "1863", "1872", "1930"],
+          "answer": "1863",
+          "explanation": "The passage states 'The Football Association was founded in London in 1863'."
+        },
+        {
+          "id": "ap19_q3",
+          "type": "mcq",
+          "question": "Which country has won the most World Cups?",
+          "options": ["Germany", "Italy", "Argentina", "Brazil"],
+          "answer": "Brazil",
+          "explanation": "The passage states 'Brazil has won the most World Cups with five titles'."
+        },
+        {
+          "id": "ap19_q4",
+          "type": "mcq",
+          "question": "Where was the first FIFA World Cup held?",
+          "options": ["England", "Brazil", "Uruguay", "France"],
+          "answer": "Uruguay",
+          "explanation": "The passage states 'The FIFA World Cup, first held in 1930 in Uruguay'."
+        },
+        {
+          "id": "ap19_q5",
+          "type": "short_answer",
+          "question": "How did the Football Association's rules affect the sport?",
+          "answer": "The Football Association established the first standardised rules for football, which separated it from rugby (which allowed handling the ball)."
+        },
+        {
+          "id": "ap19_q6",
+          "type": "short_answer",
+          "question": "What was the result of the first international football match?",
+          "answer": "The first official international match was played between England and Scotland in 1872, ending in a 0-0 draw."
+        },
+        {
+          "id": "ap19_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: having achieved fame and recognition.",
+          "answer": "Legendary"
+        },
+        {
+          "id": "ap19_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: limits or dividing lines.",
+          "answer": "Boundaries"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_20",
+      "title": "The Incredible Journey of Butterflies",
+      "source": "Additional Comprehension",
+      "passage": "Butterflies are among nature's most beautiful and fascinating creatures, undergoing one of the most remarkable transformations in the animal kingdom. The process, called metamorphosis, takes a butterfly through four distinct stages: egg, caterpillar (larva), chrysalis (pupa), and adult butterfly. This complete transformation takes anywhere from a few weeks to several months, depending on the species.\n\nThe monarch butterfly is famous for its incredible migration. Each autumn, millions of monarchs travel up to 4,800 kilometres from Canada and the United States to their winter homes in the mountains of central Mexico. Amazingly, no single butterfly completes the entire round trip. It takes three to four generations to make the journey north, yet somehow the great-great-grandchildren of the original migrants find their way back to the exact same trees their ancestors left months earlier.\n\nButterflies play important roles in ecosystems as pollinators and as food for other animals. They have evolved remarkable adaptations for survival. Some species have wing patterns that mimic the eyes of larger animals to frighten predators. Others have developed colours and patterns that make them look like poisonous species, a strategy called mimicry. The blue morpho butterfly's brilliant colour comes not from pigment but from microscopic scales that reflect light.\n\nSadly, butterfly populations worldwide are declining due to habitat loss, pesticide use, and climate change. The monarch population alone has decreased by approximately 90% over the past two decades. Conservation efforts include creating butterfly gardens, reducing pesticide use, and protecting migration corridors. Everyone can help by planting native flowers that provide nectar for adult butterflies and food plants for caterpillars.",
+      "questions": [
+        {
+          "id": "ap20_q1",
+          "type": "mcq",
+          "question": "What are the four stages of butterfly metamorphosis?",
+          "options": ["Egg, worm, cocoon, butterfly", "Egg, caterpillar, chrysalis, adult butterfly", "Baby, youth, adult, senior", "Seed, sprout, flower, fruit"],
+          "answer": "Egg, caterpillar, chrysalis, adult butterfly",
+          "explanation": "The passage states 'four distinct stages: egg, caterpillar (larva), chrysalis (pupa), and adult butterfly'."
+        },
+        {
+          "id": "ap20_q2",
+          "type": "mcq",
+          "question": "How far do monarch butterflies migrate?",
+          "options": ["Up to 480 kilometres", "Up to 1,800 kilometres", "Up to 4,800 kilometres", "Up to 10,000 kilometres"],
+          "answer": "Up to 4,800 kilometres",
+          "explanation": "The passage states monarchs 'travel up to 4,800 kilometres'."
+        },
+        {
+          "id": "ap20_q3",
+          "type": "mcq",
+          "question": "Where does the blue morpho butterfly's colour come from?",
+          "options": ["Blue pigment", "Food it eats", "Microscopic scales that reflect light", "Special chemicals"],
+          "answer": "Microscopic scales that reflect light",
+          "explanation": "The passage states 'its brilliant colour comes not from pigment but from microscopic scales that reflect light'."
+        },
+        {
+          "id": "ap20_q4",
+          "type": "mcq",
+          "question": "By how much has the monarch population decreased?",
+          "options": ["About 50%", "About 70%", "About 90%", "About 99%"],
+          "answer": "About 90%",
+          "explanation": "The passage states 'The monarch population has decreased by approximately 90%'."
+        },
+        {
+          "id": "ap20_q5",
+          "type": "short_answer",
+          "question": "What is remarkable about the monarch butterfly migration?",
+          "answer": "No single butterfly completes the entire round trip. It takes three to four generations to make the journey north, yet the great-great-grandchildren of the original migrants find their way back to the exact same trees their ancestors left."
+        },
+        {
+          "id": "ap20_q6",
+          "type": "short_answer",
+          "question": "How can people help butterfly conservation?",
+          "answer": "People can help by creating butterfly gardens, reducing pesticide use, protecting migration corridors, and planting native flowers that provide nectar for adult butterflies and food plants for caterpillars."
+        },
+        {
+          "id": "ap20_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: a complete change in form or nature.",
+          "answer": "Metamorphosis"
+        },
+        {
+          "id": "ap20_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: the act of copying or imitating something.",
+          "answer": "Mimicry"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_21",
+      "title": "The Invention of the Printing Press",
+      "source": "Additional Comprehension",
+      "passage": "The invention of the printing press by Johannes Gutenberg around 1440 is considered one of the most important events in human history. Before Gutenberg, books had to be copied by hand, a painstaking process that could take months or even years for a single book. Books were therefore rare and expensive, accessible only to the wealthy and the clergy. Gutenberg's invention changed everything.\n\nGutenberg's key innovation was movable type—individual letters cast in metal that could be arranged to form words, then rearranged to print different pages. This was combined with a wooden press adapted from those used in wine-making, and oil-based ink that adhered well to the metal type. The first major work printed using this technology was the Gutenberg Bible, completed around 1455, of which 49 copies still exist today.\n\nThe impact of the printing press was revolutionary. Within 50 years of Gutenberg's invention, printing presses had been established throughout Europe, and millions of books had been produced. Literacy rates soared as books became affordable for the middle class. Scientific knowledge could be shared more widely and accurately, accelerating the pace of discovery. The Protestant Reformation was aided by the ability to print and distribute pamphlets and translated Bibles.\n\nThe printing press laid the foundation for the modern information age. Newspapers, magazines, and mass education all became possible because of this technology. Today, while digital media has transformed how we access information, the principles Gutenberg established—making knowledge accessible to everyone—remain at the heart of our information society.",
+      "questions": [
+        {
+          "id": "ap21_q1",
+          "type": "mcq",
+          "question": "When did Gutenberg invent the printing press?",
+          "options": ["Around 1340", "Around 1440", "Around 1540", "Around 1640"],
+          "answer": "Around 1440",
+          "explanation": "The passage states the printing press was invented 'around 1440'."
+        },
+        {
+          "id": "ap21_q2",
+          "type": "mcq",
+          "question": "What was Gutenberg's key innovation?",
+          "options": ["Paper-making", "Movable type", "Digital printing", "Colour printing"],
+          "answer": "Movable type",
+          "explanation": "The passage states 'Gutenberg's key innovation was movable type'."
+        },
+        {
+          "id": "ap21_q3",
+          "type": "mcq",
+          "question": "How many copies of the Gutenberg Bible still exist?",
+          "options": ["About 20", "About 49", "About 100", "About 500"],
+          "answer": "About 49",
+          "explanation": "The passage states '49 copies still exist today'."
+        },
+        {
+          "id": "ap21_q4",
+          "type": "mcq",
+          "question": "What happened to literacy rates after the printing press was invented?",
+          "options": ["They decreased", "They stayed the same", "They soared", "They disappeared"],
+          "answer": "They soared",
+          "explanation": "The passage states 'Literacy rates soared as books became affordable'."
+        },
+        {
+          "id": "ap21_q5",
+          "type": "short_answer",
+          "question": "Why were books rare before the printing press?",
+          "answer": "Before Gutenberg, books had to be copied by hand, a painstaking process that could take months or even years for a single book. This made books rare and expensive, accessible only to the wealthy and the clergy."
+        },
+        {
+          "id": "ap21_q6",
+          "type": "short_answer",
+          "question": "What were the components of Gutenberg's printing system?",
+          "answer": "Gutenberg's system combined movable type (individual letters cast in metal), a wooden press adapted from wine-making presses, and oil-based ink that adhered well to the metal type."
+        },
+        {
+          "id": "ap21_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: requiring great care and effort; slow and difficult.",
+          "answer": "Painstaking"
+        },
+        {
+          "id": "ap21_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: involving dramatic change or innovation.",
+          "answer": "Revolutionary"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_22",
+      "title": "The Life Cycle of Stars",
+      "source": "Additional Comprehension",
+      "passage": "Stars, the luminous objects that light up our night sky, are born, live, and die over timescales that dwarf human comprehension. The life of a star begins in vast clouds of gas and dust called nebulae. When parts of these clouds become dense enough, gravity causes them to collapse and heat up. When the core temperature reaches about 15 million degrees Celsius, nuclear fusion begins, and a star is born.\n\nDuring most of its life, a star fuses hydrogen atoms into helium in its core, releasing enormous amounts of energy. This stage, called the main sequence, can last millions to billions of years depending on the star's mass. Our Sun, a medium-sized star, has been in its main sequence for about 4.6 billion years and will continue for another 5 billion years.\n\nWhat happens next depends on the star's mass. Medium-sized stars like our Sun will expand into red giants, eventually shedding their outer layers to form beautiful planetary nebulae while their cores become dense white dwarfs. Massive stars have more dramatic fates. They explode as supernovae, some of the most energetic events in the universe, briefly outshining entire galaxies.\n\nThe remnants of massive stars can become neutron stars—incredibly dense objects where a teaspoon of material weighs billions of tons—or black holes, regions of space where gravity is so strong that nothing, not even light, can escape. Remarkably, the elements created in dying stars are scattered across space and eventually form new stars, planets, and even life. As astronomer Carl Sagan said, we are all made of 'star stuff.'",
+      "questions": [
+        {
+          "id": "ap22_q1",
+          "type": "mcq",
+          "question": "Where are stars born?",
+          "options": ["In galaxies", "In nebulae", "In black holes", "In the sun"],
+          "answer": "In nebulae",
+          "explanation": "The passage states 'The life of a star begins in vast clouds of gas and dust called nebulae'."
+        },
+        {
+          "id": "ap22_q2",
+          "type": "mcq",
+          "question": "What temperature must the core reach for nuclear fusion to begin?",
+          "options": ["About 1 million degrees", "About 15 million degrees", "About 100 million degrees", "About 1 billion degrees"],
+          "answer": "About 15 million degrees",
+          "explanation": "The passage states 'When the core temperature reaches about 15 million degrees Celsius'."
+        },
+        {
+          "id": "ap22_q3",
+          "type": "mcq",
+          "question": "How long will our Sun continue in its main sequence?",
+          "options": ["Another 1 billion years", "Another 5 billion years", "Another 10 billion years", "Another 15 billion years"],
+          "answer": "Another 5 billion years",
+          "explanation": "The passage states the Sun 'will continue for another 5 billion years'."
+        },
+        {
+          "id": "ap22_q4",
+          "type": "mcq",
+          "question": "What do massive stars become when they die?",
+          "options": ["White dwarfs only", "Planetary nebulae", "Neutron stars or black holes", "New suns"],
+          "answer": "Neutron stars or black holes",
+          "explanation": "The passage states massive stars 'can become neutron stars or black holes'."
+        },
+        {
+          "id": "ap22_q5",
+          "type": "short_answer",
+          "question": "What happens during the main sequence stage of a star's life?",
+          "answer": "During the main sequence, a star fuses hydrogen atoms into helium in its core, releasing enormous amounts of energy. This stage can last millions to billions of years depending on the star's mass."
+        },
+        {
+          "id": "ap22_q6",
+          "type": "short_answer",
+          "question": "What is a supernova?",
+          "answer": "A supernova is when massive stars explode. It is one of the most energetic events in the universe, briefly outshining entire galaxies."
+        },
+        {
+          "id": "ap22_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: giving off light; shining.",
+          "answer": "Luminous"
+        },
+        {
+          "id": "ap22_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: what remains after something is destroyed or used.",
+          "answer": "Remnants"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_23",
+      "title": "The World of Coral Reefs",
+      "source": "Additional Comprehension",
+      "passage": "Coral reefs are often called the 'rainforests of the sea' because of their incredible biodiversity. Although they cover less than 1% of the ocean floor, coral reefs are home to approximately 25% of all marine species. These underwater ecosystems support fish, sea turtles, sharks, dolphins, and countless invertebrates, creating complex food webs that rival any terrestrial ecosystem.\n\nCorals themselves are actually animals, not plants. Each coral is made up of thousands of tiny creatures called polyps, which are related to jellyfish. Most reef-building corals have a symbiotic relationship with microscopic algae called zooxanthellae that live within their tissues. The algae produce food through photosynthesis and give corals their vibrant colours, while the coral provides protection and nutrients to the algae.\n\nThe Great Barrier Reef off the coast of Australia is the world's largest coral reef system, stretching over 2,300 kilometres and visible from space. It contains over 2,900 individual reefs and supports more than 1,500 species of fish. The reef is so large that it has its own weather patterns and generates significant economic activity through tourism and fishing.\n\nSadly, coral reefs worldwide are under severe threat. Rising ocean temperatures cause coral bleaching, where stressed corals expel their symbiotic algae and turn white. Ocean acidification, caused by absorbing carbon dioxide, makes it harder for corals to build their calcium carbonate skeletons. Scientists estimate that 50% of the world's coral reefs have already been lost, and without significant action on climate change, 90% could be gone by 2050.",
+      "questions": [
+        {
+          "id": "ap23_q1",
+          "type": "mcq",
+          "question": "What percentage of the ocean floor do coral reefs cover?",
+          "options": ["Less than 1%", "About 5%", "About 10%", "About 25%"],
+          "answer": "Less than 1%",
+          "explanation": "The passage states 'they cover less than 1% of the ocean floor'."
+        },
+        {
+          "id": "ap23_q2",
+          "type": "mcq",
+          "question": "What are corals?",
+          "options": ["Plants", "Rocks", "Animals", "Minerals"],
+          "answer": "Animals",
+          "explanation": "The passage states 'Corals themselves are actually animals, not plants'."
+        },
+        {
+          "id": "ap23_q3",
+          "type": "mcq",
+          "question": "How long is the Great Barrier Reef?",
+          "options": ["Over 230 kilometres", "Over 1,000 kilometres", "Over 2,300 kilometres", "Over 5,000 kilometres"],
+          "answer": "Over 2,300 kilometres",
+          "explanation": "The passage states it stretches 'over 2,300 kilometres'."
+        },
+        {
+          "id": "ap23_q4",
+          "type": "mcq",
+          "question": "What percentage of coral reefs could be lost by 2050?",
+          "options": ["50%", "70%", "90%", "100%"],
+          "answer": "90%",
+          "explanation": "The passage states '90% could be gone by 2050'."
+        },
+        {
+          "id": "ap23_q5",
+          "type": "short_answer",
+          "question": "What is the symbiotic relationship between corals and zooxanthellae?",
+          "answer": "The algae (zooxanthellae) produce food through photosynthesis and give corals their vibrant colours, while the coral provides protection and nutrients to the algae."
+        },
+        {
+          "id": "ap23_q6",
+          "type": "short_answer",
+          "question": "What is coral bleaching?",
+          "answer": "Coral bleaching occurs when rising ocean temperatures stress corals, causing them to expel their symbiotic algae and turn white."
+        },
+        {
+          "id": "ap23_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: a relationship between two species that benefits both.",
+          "answer": "Symbiotic"
+        },
+        {
+          "id": "ap23_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: relating to land rather than water.",
+          "answer": "Terrestrial"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_24",
+      "title": "The Mystery of Dreams",
+      "source": "Additional Comprehension",
+      "passage": "Every night, as we sleep, our minds create vivid worlds filled with strange events, familiar faces, and impossible scenarios. Dreams have fascinated humans since ancient times, inspiring art, literature, and scientific inquiry. Yet despite centuries of study, the true purpose and meaning of dreams remain among the greatest mysteries of the human mind.\n\nDreams occur primarily during REM (Rapid Eye Movement) sleep, a stage characterized by quick eye movements, increased brain activity, and temporary muscle paralysis. Most people have four to six dream episodes per night, though we typically remember only a fraction of them. The longest and most vivid dreams usually occur in the final hours of sleep, which is why we often remember dreams when we wake up naturally.\n\nScientists have proposed various theories about why we dream. Some believe dreams help consolidate memories, transferring important information from short-term to long-term storage. Others suggest dreams allow us to process emotions, working through fears and anxieties in a safe mental space. The threat simulation theory proposes that dreams evolved to help our ancestors practice responding to dangers. More recently, researchers have suggested dreams might help the brain maintain neural connections and remove unnecessary information.\n\nLucid dreaming, where the dreamer becomes aware they are dreaming and can sometimes control the dream, has attracted considerable scientific interest. Studies show that lucid dreamers can signal to researchers using pre-arranged eye movements, proving consciousness during sleep. This phenomenon offers unique opportunities to study the nature of consciousness and the relationship between the sleeping and waking mind.",
+      "questions": [
+        {
+          "id": "ap24_q1",
+          "type": "mcq",
+          "question": "When do dreams primarily occur?",
+          "options": ["During light sleep", "During deep sleep", "During REM sleep", "When we're awake"],
+          "answer": "During REM sleep",
+          "explanation": "The passage states 'Dreams occur primarily during REM (Rapid Eye Movement) sleep'."
+        },
+        {
+          "id": "ap24_q2",
+          "type": "mcq",
+          "question": "How many dream episodes do most people have per night?",
+          "options": ["One to two", "Four to six", "Eight to ten", "Over twelve"],
+          "answer": "Four to six",
+          "explanation": "The passage states 'Most people have four to six dream episodes per night'."
+        },
+        {
+          "id": "ap24_q3",
+          "type": "mcq",
+          "question": "What is lucid dreaming?",
+          "options": ["Dreaming in colour", "When the dreamer becomes aware they are dreaming", "Having nightmares", "Dreaming during the day"],
+          "answer": "When the dreamer becomes aware they are dreaming",
+          "explanation": "The passage states 'Lucid dreaming, where the dreamer becomes aware they are dreaming'."
+        },
+        {
+          "id": "ap24_q4",
+          "type": "mcq",
+          "question": "According to one theory, why might dreams have evolved?",
+          "options": ["To entertain us", "To help practice responding to dangers", "To wake us up", "To make us creative"],
+          "answer": "To help practice responding to dangers",
+          "explanation": "The passage mentions 'the threat simulation theory proposes that dreams evolved to help our ancestors practice responding to dangers'."
+        },
+        {
+          "id": "ap24_q5",
+          "type": "short_answer",
+          "question": "What are some theories about why we dream?",
+          "answer": "Theories include: dreams help consolidate memories, dreams allow us to process emotions, the threat simulation theory (practicing responses to dangers), and dreams help maintain neural connections and remove unnecessary information."
+        },
+        {
+          "id": "ap24_q6",
+          "type": "short_answer",
+          "question": "How do lucid dreamers communicate with researchers?",
+          "answer": "Studies show that lucid dreamers can signal to researchers using pre-arranged eye movements, proving consciousness during sleep."
+        },
+        {
+          "id": "ap24_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: situations or sequences of events, especially imaginary ones.",
+          "answer": "Scenarios"
+        },
+        {
+          "id": "ap24_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: a fact or situation that is observed to exist.",
+          "answer": "Phenomenon"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_25",
+      "title": "The Story of Tea",
+      "source": "Additional Comprehension",
+      "passage": "Tea is the second most consumed beverage in the world after water, with billions of cups drunk every day. The story of tea begins in ancient China, where legend says Emperor Shen Nung discovered it in 2737 BC when tea leaves accidentally blew into his pot of boiling water. Whether or not this legend is true, tea has been cultivated in China for thousands of years and has become deeply embedded in cultures around the world.\n\nAll true tea comes from the same plant species, Camellia sinensis. The differences between green, black, white, and oolong tea lie in how the leaves are processed after harvesting. Green tea leaves are quickly heated to prevent oxidation, preserving their colour and delicate flavour. Black tea leaves are fully oxidized, giving them their dark colour and robust taste. Oolong tea is partially oxidized, falling somewhere between green and black.\n\nTea played a surprising role in world history. The British love of tea, combined with trade imbalances with China, led to the Opium Wars in the 19th century. The Boston Tea Party of 1773, when American colonists threw tea into the harbour to protest British taxes, became a pivotal event in the American Revolution. Today, India and China are the world's largest tea producers, together accounting for over 60% of global production.\n\nModern research has revealed numerous health benefits associated with tea. The antioxidants in tea, particularly green tea, may reduce the risk of heart disease and certain cancers. Tea also contains L-theanine, an amino acid that promotes relaxation without drowsiness. However, tea also contains caffeine, so moderation is advised, especially for those sensitive to its effects.",
+      "questions": [
+        {
+          "id": "ap25_q1",
+          "type": "mcq",
+          "question": "What is the most consumed beverage in the world?",
+          "options": ["Tea", "Coffee", "Water", "Milk"],
+          "answer": "Water",
+          "explanation": "The passage states 'Tea is the second most consumed beverage in the world after water'."
+        },
+        {
+          "id": "ap25_q2",
+          "type": "mcq",
+          "question": "According to legend, when was tea discovered?",
+          "options": ["1773 BC", "2737 BC", "500 AD", "1000 BC"],
+          "answer": "2737 BC",
+          "explanation": "The passage states 'Emperor Shen Nung discovered it in 2737 BC'."
+        },
+        {
+          "id": "ap25_q3",
+          "type": "mcq",
+          "question": "What makes black tea different from green tea?",
+          "options": ["Different plants", "Black tea is fully oxidized", "Different water temperature", "Added colouring"],
+          "answer": "Black tea is fully oxidized",
+          "explanation": "The passage states 'Black tea leaves are fully oxidized, giving them their dark colour'."
+        },
+        {
+          "id": "ap25_q4",
+          "type": "mcq",
+          "question": "What happened at the Boston Tea Party?",
+          "options": ["A celebration of tea", "Tea was served to guests", "Colonists threw tea into the harbour", "A tea trade agreement was signed"],
+          "answer": "Colonists threw tea into the harbour",
+          "explanation": "The passage states 'American colonists threw tea into the harbour to protest British taxes'."
+        },
+        {
+          "id": "ap25_q5",
+          "type": "short_answer",
+          "question": "How do the different types of tea differ in their processing?",
+          "answer": "Green tea leaves are quickly heated to prevent oxidation. Black tea leaves are fully oxidized. Oolong tea is partially oxidized, falling between green and black. White tea is minimally processed."
+        },
+        {
+          "id": "ap25_q6",
+          "type": "short_answer",
+          "question": "What health benefits does tea have?",
+          "answer": "The antioxidants in tea may reduce the risk of heart disease and certain cancers. Tea contains L-theanine, an amino acid that promotes relaxation without drowsiness."
+        },
+        {
+          "id": "ap25_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: deeply established and difficult to change.",
+          "answer": "Embedded"
+        },
+        {
+          "id": "ap25_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: extremely important or crucial for change.",
+          "answer": "Pivotal"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_26",
+      "title": "The Remarkable Dolphin",
+      "source": "Additional Comprehension",
+      "passage": "Dolphins are among the most intelligent and beloved animals on Earth. These marine mammals belong to the cetacean family, which also includes whales and porpoises. With their permanent smiles and playful behaviour, dolphins have captured human imagination for thousands of years. Ancient Greeks considered them sacred and depicted them in art and mythology.\n\nDolphin intelligence rivals that of great apes. They can recognize themselves in mirrors, a test of self-awareness that few animals pass. Dolphins have been observed using tools, such as sponges to protect their snouts while foraging on the ocean floor. They have complex social structures and communicate through a sophisticated system of clicks, whistles, and body language. Remarkably, each dolphin develops its own unique whistle, essentially a name that other dolphins use to call them.\n\nDolphins are also known for their echolocation abilities. They produce clicking sounds that bounce off objects and return as echoes, allowing them to 'see' their surroundings through sound. This biological sonar is so precise that dolphins can detect objects as small as a coin from 70 metres away. Echolocation helps dolphins navigate murky waters and locate prey.\n\nThe relationship between humans and dolphins has been mutually beneficial in many ways. Dolphins have been trained to assist in search and rescue operations and have been observed helping drowning swimmers. In some parts of the world, dolphins cooperate with fishermen, driving fish into nets and receiving a share of the catch. Conservation efforts aim to protect dolphins from threats including pollution, fishing nets, and habitat destruction.",
+      "questions": [
+        {
+          "id": "ap26_q1",
+          "type": "mcq",
+          "question": "What family do dolphins belong to?",
+          "options": ["Fish family", "Cetacean family", "Reptile family", "Shark family"],
+          "answer": "Cetacean family",
+          "explanation": "The passage states 'These marine mammals belong to the cetacean family'."
+        },
+        {
+          "id": "ap26_q2",
+          "type": "mcq",
+          "question": "What is unique about each dolphin's whistle?",
+          "options": ["They all sound the same", "Each dolphin has a unique whistle like a name", "Only leaders have whistles", "Whistles are used for danger"],
+          "answer": "Each dolphin has a unique whistle like a name",
+          "explanation": "The passage states 'each dolphin develops its own unique whistle, essentially a name'."
+        },
+        {
+          "id": "ap26_q3",
+          "type": "mcq",
+          "question": "How far can dolphins detect small objects using echolocation?",
+          "options": ["10 metres", "30 metres", "70 metres", "100 metres"],
+          "answer": "70 metres",
+          "explanation": "The passage states dolphins 'can detect objects as small as a coin from 70 metres away'."
+        },
+        {
+          "id": "ap26_q4",
+          "type": "mcq",
+          "question": "What tool do some dolphins use while foraging?",
+          "options": ["Sticks", "Rocks", "Sponges", "Shells"],
+          "answer": "Sponges",
+          "explanation": "The passage mentions 'using tools, such as sponges to protect their snouts while foraging'."
+        },
+        {
+          "id": "ap26_q5",
+          "type": "short_answer",
+          "question": "How does echolocation work in dolphins?",
+          "answer": "Dolphins produce clicking sounds that bounce off objects and return as echoes, allowing them to 'see' their surroundings through sound. This biological sonar helps dolphins navigate murky waters and locate prey."
+        },
+        {
+          "id": "ap26_q6",
+          "type": "short_answer",
+          "question": "How do dolphins cooperate with fishermen?",
+          "answer": "In some parts of the world, dolphins cooperate with fishermen by driving fish into nets and receiving a share of the catch in return."
+        },
+        {
+          "id": "ap26_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: aware of one's own existence and identity.",
+          "answer": "Self-awareness"
+        },
+        {
+          "id": "ap26_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: giving benefit to both sides.",
+          "answer": "Mutually"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_27",
+      "title": "The Pyramids of Egypt",
+      "source": "Additional Comprehension",
+      "passage": "The Pyramids of Egypt stand as enduring symbols of ancient civilization's remarkable achievements. Built as tombs for pharaohs and their queens, these massive structures have survived for over 4,500 years. The most famous are the pyramids at Giza, including the Great Pyramid of Khufu, which was the tallest human-made structure in the world for over 3,800 years.\n\nThe construction of the pyramids remains one of history's greatest mysteries. The Great Pyramid contains an estimated 2.3 million stone blocks, each weighing an average of 2.5 tons, with some weighing as much as 80 tons. How ancient Egyptians transported and lifted these massive stones without modern machinery continues to puzzle researchers. Theories include ramps, levers, and even the use of water to reduce friction.\n\nThe pyramids were not built by slaves, as many people believe. Archaeological evidence suggests they were constructed by paid workers who lived in nearby villages. These workers were well-fed and received medical care. Building a pyramid was considered a great honour, and workers' tombs have been found near the pyramids, indicating their respected status.\n\nInside the pyramids, elaborate chambers and passageways were built to protect the pharaoh's mummified body and the treasures buried with them for the afterlife. Unfortunately, most pyramids were robbed in ancient times. Only the tomb of Tutankhamun, discovered in 1922 by Howard Carter, was found largely intact, revealing the incredible wealth buried with Egyptian royalty. Today, the pyramids remain one of the world's most popular tourist destinations.",
+      "questions": [
+        {
+          "id": "ap27_q1",
+          "type": "mcq",
+          "question": "How old are the pyramids approximately?",
+          "options": ["About 2,000 years", "About 3,000 years", "Over 4,500 years", "Over 6,000 years"],
+          "answer": "Over 4,500 years",
+          "explanation": "The passage states 'these massive structures have survived for over 4,500 years'."
+        },
+        {
+          "id": "ap27_q2",
+          "type": "mcq",
+          "question": "How many stone blocks does the Great Pyramid contain?",
+          "options": ["About 1 million", "About 2.3 million", "About 5 million", "About 10 million"],
+          "answer": "About 2.3 million",
+          "explanation": "The passage states 'The Great Pyramid contains an estimated 2.3 million stone blocks'."
+        },
+        {
+          "id": "ap27_q3",
+          "type": "mcq",
+          "question": "Who built the pyramids according to archaeological evidence?",
+          "options": ["Slaves", "Paid workers", "Soldiers", "Prisoners"],
+          "answer": "Paid workers",
+          "explanation": "The passage states 'they were constructed by paid workers who lived in nearby villages'."
+        },
+        {
+          "id": "ap27_q4",
+          "type": "mcq",
+          "question": "Whose tomb was found largely intact in 1922?",
+          "options": ["Khufu", "Ramses", "Tutankhamun", "Cleopatra"],
+          "answer": "Tutankhamun",
+          "explanation": "The passage states 'Only the tomb of Tutankhamun, discovered in 1922 by Howard Carter, was found largely intact'."
+        },
+        {
+          "id": "ap27_q5",
+          "type": "short_answer",
+          "question": "What were the pyramids built for?",
+          "answer": "The pyramids were built as tombs for pharaohs and their queens. Inside, elaborate chambers and passageways protected the pharaoh's mummified body and treasures buried with them for the afterlife."
+        },
+        {
+          "id": "ap27_q6",
+          "type": "short_answer",
+          "question": "What evidence shows that pyramid builders were respected?",
+          "answer": "The workers were well-fed and received medical care. Building a pyramid was considered a great honour, and workers' tombs have been found near the pyramids, indicating their respected status."
+        },
+        {
+          "id": "ap27_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: lasting for a very long time.",
+          "answer": "Enduring"
+        },
+        {
+          "id": "ap27_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: complicated and detailed.",
+          "answer": "Elaborate"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_28",
+      "title": "The Science of Rainbows",
+      "source": "Additional Comprehension",
+      "passage": "Rainbows are one of nature's most beautiful optical phenomena, appearing when sunlight interacts with water droplets in the atmosphere. The science behind rainbows was first explained by Isaac Newton in the 17th century when he demonstrated that white light is actually composed of a spectrum of colours. When light enters a water droplet, it slows down and bends—a process called refraction.\n\nInside the droplet, light reflects off the back surface and exits, bending again as it leaves. Because different colours of light bend at slightly different angles, they separate into the familiar bands of red, orange, yellow, green, blue, indigo, and violet. The order of colours in a rainbow is always the same, with red on the outer edge and violet on the inner edge.\n\nRainbows are actually full circles, but we typically see only an arc because the horizon blocks the lower portion. From an airplane or high mountain, it's sometimes possible to see a complete circular rainbow. Double rainbows occur when light reflects twice inside water droplets, creating a second, fainter arc with reversed colours. The dark band between the two rainbows is called Alexander's band, named after the ancient Greek philosopher who first described it.\n\nRainbows have inspired countless myths and legends across cultures. In Norse mythology, the rainbow bridge Bifrost connected Earth to the realm of the gods. Many cultures considered rainbows as signs of hope or divine promises. In Ireland, leprechauns are said to hide their gold at the rainbow's end—though since a rainbow is an optical illusion with no fixed location, that treasure would be impossible to find!",
+      "questions": [
+        {
+          "id": "ap28_q1",
+          "type": "mcq",
+          "question": "Who first explained the science behind rainbows?",
+          "options": ["Galileo", "Einstein", "Isaac Newton", "Alexander"],
+          "answer": "Isaac Newton",
+          "explanation": "The passage states 'The science behind rainbows was first explained by Isaac Newton'."
+        },
+        {
+          "id": "ap28_q2",
+          "type": "mcq",
+          "question": "What is the process called when light bends as it enters water?",
+          "options": ["Reflection", "Refraction", "Diffraction", "Absorption"],
+          "answer": "Refraction",
+          "explanation": "The passage states 'it slows down and bends—a process called refraction'."
+        },
+        {
+          "id": "ap28_q3",
+          "type": "mcq",
+          "question": "What is the true shape of a rainbow?",
+          "options": ["An arc", "A full circle", "A straight line", "A triangle"],
+          "answer": "A full circle",
+          "explanation": "The passage states 'Rainbows are actually full circles'."
+        },
+        {
+          "id": "ap28_q4",
+          "type": "mcq",
+          "question": "What is Alexander's band?",
+          "options": ["A music group", "The dark band between double rainbows", "A type of cloud", "The outer edge of rainbows"],
+          "answer": "The dark band between double rainbows",
+          "explanation": "The passage states 'The dark band between the two rainbows is called Alexander's band'."
+        },
+        {
+          "id": "ap28_q5",
+          "type": "short_answer",
+          "question": "How does a rainbow form?",
+          "answer": "When light enters a water droplet, it slows down and bends (refraction). Inside the droplet, light reflects off the back surface and exits, bending again. Because different colours bend at different angles, they separate into bands."
+        },
+        {
+          "id": "ap28_q6",
+          "type": "short_answer",
+          "question": "How do double rainbows form?",
+          "answer": "Double rainbows occur when light reflects twice inside water droplets, creating a second, fainter arc with reversed colours."
+        },
+        {
+          "id": "ap28_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: a range of colours or other qualities.",
+          "answer": "Spectrum"
+        },
+        {
+          "id": "ap28_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: something that appears real but is actually false.",
+          "answer": "Illusion"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_29",
+      "title": "The History of the Internet",
+      "source": "Additional Comprehension",
+      "passage": "The Internet has transformed nearly every aspect of modern life, yet most people are unaware of its fascinating origins. The Internet began as a military project during the Cold War. In 1969, the United States Department of Defense created ARPANET, a network designed to maintain communications even if parts were destroyed in a nuclear attack. The first message sent over ARPANET was 'LO'—the system crashed before 'LOGIN' could be completed.\n\nThrough the 1970s and 1980s, the network grew as universities and research institutions joined. The technology that would make the Internet accessible to everyone—the World Wide Web—was invented in 1989 by British scientist Tim Berners-Lee at CERN, the European physics laboratory. Berners-Lee created HTML (the language for web pages), URLs (web addresses), and HTTP (the protocol for transferring data). He made his invention freely available to everyone.\n\nThe Internet exploded into mainstream use in the 1990s with the development of web browsers and commercial Internet service providers. In 1993, there were only about 130 websites; by 2000, there were over 17 million. Today, there are nearly 2 billion websites, and over 5 billion people—more than 60% of the world's population—use the Internet.\n\nThe Internet has revolutionised communication, commerce, education, and entertainment. Email replaced traditional letters for many purposes. Social media connected people across the globe. Online shopping transformed retail. However, the Internet has also raised concerns about privacy, security, misinformation, and addiction. As we navigate the digital age, society continues to grapple with both the incredible benefits and significant challenges that this technology presents.",
+      "questions": [
+        {
+          "id": "ap29_q1",
+          "type": "mcq",
+          "question": "What was the military project that became the Internet?",
+          "options": ["Internet", "ARPANET", "World Wide Web", "HTML"],
+          "answer": "ARPANET",
+          "explanation": "The passage states 'the United States Department of Defense created ARPANET'."
+        },
+        {
+          "id": "ap29_q2",
+          "type": "mcq",
+          "question": "Who invented the World Wide Web?",
+          "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Mark Zuckerberg"],
+          "answer": "Tim Berners-Lee",
+          "explanation": "The passage states 'the World Wide Web—was invented in 1989 by British scientist Tim Berners-Lee'."
+        },
+        {
+          "id": "ap29_q3",
+          "type": "mcq",
+          "question": "How many websites existed in 1993?",
+          "options": ["About 13", "About 130", "About 1,300", "About 13,000"],
+          "answer": "About 130",
+          "explanation": "The passage states 'In 1993, there were only about 130 websites'."
+        },
+        {
+          "id": "ap29_q4",
+          "type": "mcq",
+          "question": "What percentage of the world's population now uses the Internet?",
+          "options": ["About 30%", "About 45%", "Over 60%", "Over 90%"],
+          "answer": "Over 60%",
+          "explanation": "The passage states 'over 5 billion people—more than 60% of the world's population—use the Internet'."
+        },
+        {
+          "id": "ap29_q5",
+          "type": "short_answer",
+          "question": "What did Tim Berners-Lee create that made the Internet accessible?",
+          "answer": "Tim Berners-Lee created HTML (the language for web pages), URLs (web addresses), and HTTP (the protocol for transferring data). He made his invention freely available to everyone."
+        },
+        {
+          "id": "ap29_q6",
+          "type": "short_answer",
+          "question": "What concerns has the Internet raised?",
+          "answer": "The Internet has raised concerns about privacy, security, misinformation, and addiction."
+        },
+        {
+          "id": "ap29_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: a set of rules for sending data between computers.",
+          "answer": "Protocol"
+        },
+        {
+          "id": "ap29_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: to struggle with or try to deal with a difficult problem.",
+          "answer": "Grapple"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_30",
+      "title": "The Importance of Trees",
+      "source": "Additional Comprehension",
+      "passage": "Trees are among the most important organisms on our planet, providing countless benefits that make life on Earth possible. Through photosynthesis, trees absorb carbon dioxide and release oxygen—a single mature tree can produce enough oxygen for two people annually. Trees also act as carbon sinks, storing carbon that would otherwise contribute to climate change. The world's forests hold approximately 400 billion tons of carbon.\n\nBeyond their role in the carbon cycle, trees provide numerous ecological benefits. Their roots prevent soil erosion and filter water as it percolates into the ground. Trees create habitats for countless species of birds, insects, and mammals. In cities, trees reduce the urban heat island effect, lowering temperatures by providing shade and releasing water vapor through transpiration.\n\nHumans have depended on trees throughout history for food, medicine, shelter, and fuel. Many of our most important medicines, including aspirin (originally from willow bark) and the cancer drug Taxol (from Pacific yew trees), come from trees. Rubber, paper, and countless other products derive from trees. The timber industry provides livelihoods for millions of people worldwide.\n\nSadly, deforestation continues at an alarming rate. Approximately 10 million hectares of forest are lost each year—an area roughly the size of South Korea. The main drivers are agriculture, logging, and urban expansion. Reforestation efforts are underway worldwide, but protecting existing forests remains crucial. When we protect trees, we protect our own future, for as the saying goes, 'The best time to plant a tree was twenty years ago. The second-best time is now.'",
+      "questions": [
+        {
+          "id": "ap30_q1",
+          "type": "mcq",
+          "question": "How much oxygen can a single mature tree produce annually?",
+          "options": ["Enough for one person", "Enough for two people", "Enough for five people", "Enough for ten people"],
+          "answer": "Enough for two people",
+          "explanation": "The passage states 'a single mature tree can produce enough oxygen for two people annually'."
+        },
+        {
+          "id": "ap30_q2",
+          "type": "mcq",
+          "question": "How much carbon do the world's forests hold?",
+          "options": ["About 40 billion tons", "About 100 billion tons", "About 400 billion tons", "About 1 trillion tons"],
+          "answer": "About 400 billion tons",
+          "explanation": "The passage states 'The world's forests hold approximately 400 billion tons of carbon'."
+        },
+        {
+          "id": "ap30_q3",
+          "type": "mcq",
+          "question": "How much forest is lost each year?",
+          "options": ["1 million hectares", "5 million hectares", "10 million hectares", "50 million hectares"],
+          "answer": "10 million hectares",
+          "explanation": "The passage states 'Approximately 10 million hectares of forest are lost each year'."
+        },
+        {
+          "id": "ap30_q4",
+          "type": "mcq",
+          "question": "Which medicine originally came from willow bark?",
+          "options": ["Taxol", "Penicillin", "Aspirin", "Insulin"],
+          "answer": "Aspirin",
+          "explanation": "The passage states 'aspirin (originally from willow bark)'."
+        },
+        {
+          "id": "ap30_q5",
+          "type": "short_answer",
+          "question": "What ecological benefits do trees provide?",
+          "answer": "Trees prevent soil erosion through their roots, filter water, create habitats for birds, insects, and mammals, and reduce the urban heat island effect by providing shade and releasing water vapor."
+        },
+        {
+          "id": "ap30_q6",
+          "type": "short_answer",
+          "question": "What are the main causes of deforestation?",
+          "answer": "The main drivers of deforestation are agriculture, logging, and urban expansion."
+        },
+        {
+          "id": "ap30_q7",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: the wearing away of soil by water or wind.",
+          "answer": "Erosion"
+        },
+        {
+          "id": "ap30_q8",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: planting trees to replace those that have been cut down.",
+          "answer": "Reforestation"
+        }
+      ]
     }
   ],
-  "total_count": 5,
+  "total_count": 30,
   "subject": "English E1",
   "chapter": "Unseen Comprehension"
 }
