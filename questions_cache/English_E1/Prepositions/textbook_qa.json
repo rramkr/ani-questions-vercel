@@ -2,292 +2,306 @@
   "question_type": "textbook_qa",
   "questions": [
     {
-      "id": "prep_tqa001",
-      "exercise": "1",
+      "id": "prep_a1",
+      "exercise": "A",
       "solved_example": true,
-      "question": "Fill in the blank with suitable preposition: 'The cat jumped ___ the table.'",
-      "answer": "onto/on",
-      "explanation": "'Onto' shows movement to a position on top of something. 'On' can also be used to indicate position."
+      "question": "Fill in the blanks with the correct prepositions of place.\n\n1. All the friends assembled _______ Jubilee Park _______ Jamshedpur.",
+      "answer": "in, in",
+      "explanation": "'In' is used for locations within a larger area (park, city)."
     },
     {
-      "id": "prep_tqa002",
-      "exercise": "1",
-      "question": "Fill in the blank with suitable preposition: 'The book is ___ the shelf.'",
-      "answer": "on",
-      "explanation": "'On' indicates position on a surface."
-    },
-    {
-      "id": "prep_tqa003",
-      "exercise": "1",
-      "question": "Fill in the blank with suitable preposition: 'She walked ___ the garden.'",
-      "answer": "through/in",
-      "explanation": "'Through' indicates movement from one side to another. 'In' indicates being inside the garden."
-    },
-    {
-      "id": "prep_tqa004",
-      "exercise": "1",
-      "question": "Fill in the blank with suitable preposition: 'The plane flew ___ the clouds.'",
-      "answer": "above/over",
-      "explanation": "'Above' or 'over' indicates a higher position than the clouds."
-    },
-    {
-      "id": "prep_tqa005",
-      "exercise": "1",
-      "question": "Fill in the blank with suitable preposition: 'The dog ran ___ the road.'",
-      "answer": "across",
-      "explanation": "'Across' indicates movement from one side to the other."
-    },
-    {
-      "id": "prep_tqa006",
-      "exercise": "1",
-      "question": "Fill in the blank with suitable preposition: 'She sat ___ her friends.'",
-      "answer": "between/among",
-      "explanation": "'Between' is used for two people, 'among' for more than two."
-    },
-    {
-      "id": "prep_tqa007",
-      "exercise": "1",
-      "question": "Fill in the blank with suitable preposition: 'The ball rolled ___ the table.'",
-      "answer": "under/beneath",
-      "explanation": "'Under' or 'beneath' indicates a position below something."
-    },
-    {
-      "id": "prep_tqa008",
-      "exercise": "1",
-      "question": "Fill in the blank with suitable preposition: 'We walked ___ the river.'",
-      "answer": "along",
-      "explanation": "'Along' indicates movement following the length of something."
-    },
-    {
-      "id": "prep_tqa009",
-      "exercise": "2",
-      "solved_example": true,
-      "question": "Fill in the blank with correct preposition of time: 'I will meet you ___ Monday.'",
-      "answer": "on",
-      "explanation": "'On' is used with days of the week."
-    },
-    {
-      "id": "prep_tqa010",
-      "exercise": "2",
-      "question": "Fill in the blank with correct preposition of time: 'She was born ___ 1990.'",
-      "answer": "in",
-      "explanation": "'In' is used with years."
-    },
-    {
-      "id": "prep_tqa011",
-      "exercise": "2",
-      "question": "Fill in the blank with correct preposition of time: 'The train arrives ___ 5 o'clock.'",
+      "id": "prep_a2",
+      "exercise": "A",
+      "question": "Fill in the blanks with the correct prepositions of place.\n\n2. They waited _______ the park for the bus.",
       "answer": "at",
-      "explanation": "'At' is used with specific times."
+      "explanation": "'At' is used to show the exact location of something."
     },
     {
-      "id": "prep_tqa012",
-      "exercise": "2",
-      "question": "Fill in the blank with correct preposition of time: 'We have classes ___ the morning.'",
-      "answer": "in",
-      "explanation": "'In' is used with parts of the day (morning, afternoon, evening)."
+      "id": "prep_a3",
+      "exercise": "A",
+      "question": "Fill in the blanks with the correct prepositions of place.\n\n3. When the bus arrived, they got _______ the bus excitedly.",
+      "answer": "into",
+      "explanation": "'Into' shows movement from outside to inside."
     },
     {
-      "id": "prep_tqa013",
-      "exercise": "2",
-      "question": "Fill in the blank with correct preposition of time: 'I will finish this ___ noon.'",
-      "answer": "by/before",
-      "explanation": "'By' indicates at or before a deadline. 'Before' means earlier than noon."
+      "id": "prep_a4",
+      "exercise": "A",
+      "question": "Fill in the blanks with the correct prepositions of place.\n\n4. Sheena screamed when she saw a lizard _______ the seat.",
+      "answer": "on",
+      "explanation": "'On' is used to show that something is attached to or touching a surface."
     },
     {
-      "id": "prep_tqa014",
-      "exercise": "2",
-      "question": "Fill in the blank with correct preposition of time: 'She has been waiting ___ two hours.'",
+      "id": "prep_a5",
+      "exercise": "A",
+      "question": "Fill in the blanks with the correct prepositions of place.\n\n5. She gazed _______ the repulsive reptile in horror.",
+      "answer": "at",
+      "explanation": "'At' is used to show the direction of looking."
+    },
+    {
+      "id": "prep_a6",
+      "exercise": "A",
+      "question": "Fill in the blanks with the correct prepositions of place.\n\n6. Veena and her sister sat _______ the sofa and got ready to watch their favourite programme.",
+      "answer": "on",
+      "explanation": "'On' is used when something is resting on a surface."
+    },
+    {
+      "id": "prep_a7",
+      "exercise": "A",
+      "question": "Fill in the blanks with the correct prepositions of place.\n\n7. We stayed _______ home as it was raining heavily.",
+      "answer": "at",
+      "explanation": "'At' is used with 'home' to indicate location."
+    },
+    {
+      "id": "prep_a8",
+      "exercise": "A",
+      "question": "Fill in the blanks with the correct prepositions of place.\n\n8. The children are _______ the terrace.",
+      "answer": "on",
+      "explanation": "'On' is used for flat surfaces like terraces, floors, etc."
+    },
+    {
+      "id": "prep_b1",
+      "exercise": "B",
+      "solved_example": true,
+      "question": "Fill in the blanks with prepositions.\n\n1. My pet dog was sleeping peacefully _______ the bed.",
+      "answer": "under",
+      "explanation": "'Under' indicates a position below something."
+    },
+    {
+      "id": "prep_b2",
+      "exercise": "B",
+      "question": "Fill in the blanks with prepositions.\n\n2. Heena got bruises _______ the knees.",
+      "answer": "on",
+      "explanation": "'On' is used to indicate position on a body part."
+    },
+    {
+      "id": "prep_b3",
+      "exercise": "B",
+      "question": "Fill in the blanks with prepositions.\n\n3. Why don't you place this vase of flowers _______ the jug on the table?",
+      "answer": "beside",
+      "explanation": "'Beside' means 'by the side of' or 'next to'."
+    },
+    {
+      "id": "prep_b4",
+      "exercise": "B",
+      "question": "Fill in the blanks with prepositions.\n\n4. Harish quickly hid himself _______ the curtain when he saw his brother entering his room.",
+      "answer": "behind",
+      "explanation": "'Behind' indicates a position at the back of something."
+    },
+    {
+      "id": "prep_b5",
+      "exercise": "B",
+      "question": "Fill in the blanks with prepositions.\n\n5. Please ask them not to wander _______ this point. It is dangerous.",
+      "answer": "around",
+      "explanation": "'Around' indicates movement in the area surrounding something."
+    },
+    {
+      "id": "prep_b6",
+      "exercise": "B",
+      "question": "Fill in the blanks with prepositions.\n\n6. Can you see the blue kite flying _______ the buildings?",
+      "answer": "over",
+      "explanation": "'Over' indicates a position higher than something."
+    },
+    {
+      "id": "prep_b7",
+      "exercise": "B",
+      "question": "Fill in the blanks with prepositions.\n\n7. Did you notice the tiny sparrow flying _______ the pigeons?",
+      "answer": "among",
+      "explanation": "'Among' is used when something is surrounded by or in the middle of more than two things."
+    },
+    {
+      "id": "prep_b8",
+      "exercise": "B",
+      "question": "Fill in the blanks with prepositions.\n\n8. My mother receives _______ 20 calls every day.",
+      "answer": "over",
+      "explanation": "'Over' here means 'more than'."
+    },
+    {
+      "id": "prep_c1",
+      "exercise": "C",
+      "solved_example": true,
+      "question": "Fill in the blanks with the correct prepositions of time from the brackets.\n\n1. We waited _______ (since/for) more than an hour at the airport.",
       "answer": "for",
-      "explanation": "'For' is used with a period of time."
+      "explanation": "'For' is used with a period of time to indicate duration."
     },
     {
-      "id": "prep_tqa015",
-      "exercise": "2",
-      "question": "Fill in the blank with correct preposition of time: 'I have lived here ___ 2010.'",
+      "id": "prep_c2",
+      "exercise": "C",
+      "question": "Fill in the blanks with the correct prepositions of time from the brackets.\n\n2. Lara wanted to be _______ (in/on) time for the show.",
+      "answer": "on",
+      "explanation": "'On time' is a fixed phrase meaning 'punctual' or 'not late'."
+    },
+    {
+      "id": "prep_c3",
+      "exercise": "C",
+      "question": "Fill in the blanks with the correct prepositions of time from the brackets.\n\n3. Harish and his friends have been playing cricket _______ (since/from) morning.",
       "answer": "since",
-      "explanation": "'Since' is used with a point in time (when something started)."
+      "explanation": "'Since' is used with the perfect tense to show when something started."
     },
     {
-      "id": "prep_tqa016",
-      "exercise": "2",
-      "question": "Fill in the blank with correct preposition of time: 'We met ___ winter last year.'",
-      "answer": "in/during",
-      "explanation": "'In' or 'during' is used with seasons."
+      "id": "prep_c4",
+      "exercise": "C",
+      "question": "Fill in the blanks with the correct prepositions of time from the brackets.\n\n4. You will fall ill if you work _______ (by/till) midnight every day.",
+      "answer": "till",
+      "explanation": "'Till' or 'until' indicates when something finishes."
     },
     {
-      "id": "prep_tqa017",
-      "exercise": "3",
-      "solved_example": true,
-      "question": "Choose the correct preposition: 'She is afraid ___ (of/from) spiders.'",
-      "answer": "of",
-      "explanation": "'Afraid of' is the correct phrase. We are afraid 'of' something."
+      "id": "prep_c5",
+      "exercise": "C",
+      "question": "Fill in the blanks with the correct prepositions of time from the brackets.\n\n5. Uncle Greg assured us that he would be back _______ (by/until) Monday.",
+      "answer": "by",
+      "explanation": "'By' indicates the latest time by which an action will end."
     },
     {
-      "id": "prep_tqa018",
-      "exercise": "3",
-      "question": "Choose the correct preposition: 'He is good ___ (in/at) mathematics.'",
+      "id": "prep_c6",
+      "exercise": "C",
+      "question": "Fill in the blanks with the correct prepositions of time from the brackets.\n\n6. The test on adverbs will be held _______ (in/at) the end of the week.",
       "answer": "at",
-      "explanation": "'Good at' is the correct phrase for skills and subjects."
+      "explanation": "'At' is used with specific points in time, including 'at the end'."
     },
     {
-      "id": "prep_tqa019",
-      "exercise": "3",
-      "question": "Choose the correct preposition: 'She is interested ___ (in/on) music.'",
+      "id": "prep_c7",
+      "exercise": "C",
+      "question": "Fill in the blanks with the correct prepositions of time from the brackets.\n\n7. Atul has a good time with his friends _______ (on/in) summer.",
       "answer": "in",
-      "explanation": "'Interested in' is the correct phrase."
+      "explanation": "'In' is used with seasons (in summer, in winter, etc.)."
     },
     {
-      "id": "prep_tqa020",
-      "exercise": "3",
-      "question": "Choose the correct preposition: 'He is fond ___ (of/for) reading.'",
-      "answer": "of",
-      "explanation": "'Fond of' is the correct phrase meaning to like something."
-    },
-    {
-      "id": "prep_tqa021",
-      "exercise": "3",
-      "question": "Choose the correct preposition: 'She is angry ___ (with/at) her brother.'",
-      "answer": "with",
-      "explanation": "'Angry with' is used with people. 'Angry at' is used with situations."
-    },
-    {
-      "id": "prep_tqa022",
-      "exercise": "3",
-      "question": "Choose the correct preposition: 'He apologized ___ (to/for) his mistake.'",
-      "answer": "for",
-      "explanation": "'Apologize for' something (the reason). 'Apologize to' someone (the person)."
-    },
-    {
-      "id": "prep_tqa023",
-      "exercise": "3",
-      "question": "Choose the correct preposition: 'She is different ___ (from/than) her sister.'",
+      "id": "prep_c8",
+      "exercise": "C",
+      "question": "Fill in the blanks with the correct prepositions of time from the brackets.\n\n8. The doctor will attend to his patients _______ (for/from) 9 a.m. to 12 p.m.",
       "answer": "from",
-      "explanation": "'Different from' is the standard usage."
+      "explanation": "'From' is used to indicate the time when something begins. It is used with 'to' to show a time range."
     },
     {
-      "id": "prep_tqa024",
-      "exercise": "3",
-      "question": "Choose the correct preposition: 'He is satisfied ___ (with/by) the result.'",
+      "id": "prep_d1",
+      "exercise": "D",
+      "solved_example": true,
+      "question": "Fill in the blanks with prepositions of movement and direction.\n\n1. The monkeys climbed _______ the tree.",
+      "answer": "up",
+      "explanation": "'Up' indicates movement towards a higher position."
+    },
+    {
+      "id": "prep_d2",
+      "exercise": "D",
+      "question": "Fill in the blanks with prepositions of movement and direction.\n\n2. Neha leaned _______ the hedge to see what was going on.",
+      "answer": "towards",
+      "explanation": "'Towards' indicates movement in the direction of something."
+    },
+    {
+      "id": "prep_d3",
+      "exercise": "D",
+      "question": "Fill in the blanks with prepositions of movement and direction.\n\n3. The train moved swiftly _______ the dark tunnel.",
+      "answer": "across/through",
+      "explanation": "'Across' or 'through' indicates movement from one side to the other."
+    },
+    {
+      "id": "prep_d4",
+      "exercise": "D",
+      "question": "Fill in the blanks with prepositions of movement and direction.\n\n4. Walk _______ this street and take a right turn.",
+      "answer": "along/down",
+      "explanation": "'Along' or 'down' indicates movement following the length of the street."
+    },
+    {
+      "id": "prep_d5",
+      "exercise": "D",
+      "question": "Fill in the blanks with prepositions of movement and direction.\n\n5. Mita went _______ the departmental store quickly.",
+      "answer": "to",
+      "explanation": "'To' indicates movement towards a destination."
+    },
+    {
+      "id": "prep_d6",
+      "exercise": "D",
+      "question": "Fill in the blanks with prepositions of movement and direction.\n\n6. If you drive _______ this road for five miles, you will reach the tourist resort.",
+      "answer": "along/towards",
+      "explanation": "'Along' indicates following the road. 'Towards' indicates direction."
+    },
+    {
+      "id": "prep_d7",
+      "exercise": "D",
+      "question": "Fill in the blanks with prepositions of movement and direction.\n\n7. The children ran _______ the tree until they were tired.",
+      "answer": "around/down",
+      "explanation": "'Around' indicates circular movement. 'Down' from indicates moving away from the tree."
+    },
+    {
+      "id": "prep_d8",
+      "exercise": "D",
+      "question": "Fill in the blanks with prepositions of movement and direction.\n\n8. Mohit dived _______ the pool and started swimming.",
+      "answer": "into",
+      "explanation": "'Into' indicates movement from outside to inside."
+    },
+    {
+      "id": "prep_e1",
+      "exercise": "E",
+      "solved_example": true,
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nRita was walking besides her grandmother",
+      "answer": "beside",
+      "explanation": "'Beside' means 'by the side of'. 'Besides' means 'in addition to'. Here, Rita was walking by the side of her grandmother."
+    },
+    {
+      "id": "prep_e2",
+      "exercise": "E",
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nwhen she saw a puppy on the side of the road.\nShe stopped and picked through the puppy.",
+      "answer": "up",
+      "explanation": "'Pick up' means to lift something. 'Pick through' means to search through something."
+    },
+    {
+      "id": "prep_e3",
+      "exercise": "E",
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nThe puppy was running round the street",
+      "answer": "around",
+      "explanation": "'Around' is the correct preposition for describing movement in the area of the street. 'Round' is less formal."
+    },
+    {
+      "id": "prep_e4",
+      "exercise": "E",
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nwhen it was hit with a speeding car.",
+      "answer": "by",
+      "explanation": "In passive voice, 'by' is used to denote the agent or doer of the action. The car is the agent that hit the puppy."
+    },
+    {
+      "id": "prep_e5",
+      "exercise": "E",
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nBeside Rita, her grandmother was also fond\nof animals.",
+      "answer": "Besides",
+      "explanation": "'Besides' means 'in addition to'. 'Beside' means 'next to'. Here, we mean 'in addition to Rita'."
+    },
+    {
+      "id": "prep_e6",
+      "exercise": "E",
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nShe went along with Rita at the vet.",
+      "answer": "to",
+      "explanation": "'To' indicates movement towards a destination. 'At' is used for location, not direction."
+    },
+    {
+      "id": "prep_e7",
+      "exercise": "E",
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nThe vet examined the puppy and put a bandage across\nthe wound.",
+      "answer": "on/over",
+      "explanation": "'On' or 'over' is used when something covers something else. 'Across' indicates from one side to the other."
+    },
+    {
+      "id": "prep_e8",
+      "exercise": "E",
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nRita and her grandmother went home for\nthe puppy.",
       "answer": "with",
-      "explanation": "'Satisfied with' is the correct phrase."
+      "explanation": "'With' indicates accompaniment. 'For' indicates purpose. They went home accompanied by the puppy."
     },
     {
-      "id": "prep_tqa025",
-      "exercise": "4",
-      "solved_example": true,
-      "question": "Fill in the blanks: 'The thief jumped ___ the wall and ran ___ the street.'",
-      "answer": "over, across",
-      "explanation": "'Over' shows movement above and to the other side of the wall. 'Across' shows movement from one side of the street to the other."
+      "id": "prep_e9",
+      "exercise": "E",
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nRita made a cosy bed from the puppy,",
+      "answer": "for",
+      "explanation": "'For' indicates purpose or recipient. 'From' indicates source. The bed was made for the puppy (to use)."
     },
     {
-      "id": "prep_tqa026",
-      "exercise": "4",
-      "question": "Fill in the blanks: 'She put the keys ___ the drawer and the bag ___ the table.'",
-      "answer": "in, on",
-      "explanation": "'In' for inside the drawer. 'On' for on top of the table."
-    },
-    {
-      "id": "prep_tqa027",
-      "exercise": "4",
-      "question": "Fill in the blanks: 'The train passes ___ the tunnel and arrives ___ the station.'",
-      "answer": "through, at",
-      "explanation": "'Through' for passing inside the tunnel from end to end. 'At' for arriving at a place."
-    },
-    {
-      "id": "prep_tqa028",
-      "exercise": "4",
-      "question": "Fill in the blanks: 'He walked ___ the stairs and went ___ his room.'",
-      "answer": "up/down, to/into",
-      "explanation": "'Up/down' for movement on stairs. 'To' indicates direction, 'into' indicates entering."
-    },
-    {
-      "id": "prep_tqa029",
-      "exercise": "4",
-      "question": "Fill in the blanks: 'Birds fly ___ the sky and rest ___ the trees.'",
-      "answer": "in/across, on/in",
-      "explanation": "'In/across' for movement in the sky. 'On' for on branches, 'in' for inside the tree."
-    },
-    {
-      "id": "prep_tqa030",
-      "exercise": "4",
-      "question": "Fill in the blanks: 'She arrived ___ India ___ Monday.'",
-      "answer": "in, on",
-      "explanation": "'In' for countries. 'On' for days of the week."
-    },
-    {
-      "id": "prep_tqa031",
-      "exercise": "5",
-      "solved_example": true,
-      "question": "Correct the error: 'He has been absent since three days.'",
-      "answer": "He has been absent for three days.",
-      "explanation": "'For' is used with a period of time (three days). 'Since' is used with a point in time."
-    },
-    {
-      "id": "prep_tqa032",
-      "exercise": "5",
-      "question": "Correct the error: 'She is married with a doctor.'",
-      "answer": "She is married to a doctor.",
-      "explanation": "'Married to' is the correct phrase, not 'married with'."
-    },
-    {
-      "id": "prep_tqa033",
-      "exercise": "5",
-      "question": "Correct the error: 'He is superior than his colleagues.'",
-      "answer": "He is superior to his colleagues.",
-      "explanation": "'Superior to', 'inferior to', 'senior to', 'junior to' use 'to', not 'than'."
-    },
-    {
-      "id": "prep_tqa034",
-      "exercise": "5",
-      "question": "Correct the error: 'She congratulated me for my success.'",
-      "answer": "She congratulated me on my success.",
-      "explanation": "'Congratulate on' is the correct phrase."
-    },
-    {
-      "id": "prep_tqa035",
-      "exercise": "5",
-      "question": "Correct the error: 'He is suffering with fever.'",
-      "answer": "He is suffering from fever.",
-      "explanation": "'Suffer from' is the correct phrase."
-    },
-    {
-      "id": "prep_tqa036",
-      "exercise": "5",
-      "question": "Correct the error: 'She agreed with my proposal.'",
-      "answer": "She agreed to my proposal.",
-      "explanation": "'Agree to' a proposal/plan. 'Agree with' a person."
-    },
-    {
-      "id": "prep_tqa037",
-      "exercise": "5",
-      "question": "Correct the error: 'He prevented me to go.'",
-      "answer": "He prevented me from going.",
-      "explanation": "'Prevent from' is the correct phrase."
-    },
-    {
-      "id": "prep_tqa038",
-      "exercise": "Theory",
-      "question": "What is a preposition?",
-      "answer": "A preposition is a word placed before a noun or pronoun to show its relationship with another word in the sentence. It indicates time, place, direction, manner, etc. Examples: in, on, at, to, from, by, with, for, etc.",
-      "explanation": "Prepositions link nouns, pronouns, and phrases to other parts of the sentence."
-    },
-    {
-      "id": "prep_tqa039",
-      "exercise": "Theory",
-      "question": "What are prepositions of time? Give examples.",
-      "answer": "Prepositions of time indicate when something happens. Examples: at (at 5 o'clock), on (on Monday), in (in June), for (for two hours), since (since 2010), during (during the holidays), by (by tomorrow).",
-      "explanation": "'At' for specific times, 'on' for days/dates, 'in' for months/years/seasons."
-    },
-    {
-      "id": "prep_tqa040",
-      "exercise": "Theory",
-      "question": "What are prepositions of place? Give examples.",
-      "answer": "Prepositions of place indicate where something or someone is located. Examples: in (in the box), on (on the table), at (at the door), under (under the bed), above (above the shelf), between (between two chairs), behind (behind the tree).",
-      "explanation": "These prepositions describe spatial relationships between objects."
+      "id": "prep_e10",
+      "exercise": "E",
+      "question": "In this passage, there is an error in the use of prepositions in every line. Underline the error and write the correct preposition in the blank.\n\nand it slept peacefully since the afternoon.",
+      "answer": "from",
+      "explanation": "'From' is used with simple past to indicate when an action started. 'Since' is used with perfect tenses."
     }
   ],
-  "total_count": 40,
+  "total_count": 42,
   "subject": "English E1",
   "chapter": "Prepositions"
 }
