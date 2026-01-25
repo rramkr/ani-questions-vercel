@@ -1,0 +1,400 @@
+{
+  "question_type": "comprehension",
+  "passages": [
+    {
+      "id": "add_passage_1",
+      "title": "The Determined Ant",
+      "source": "Additional Comprehension",
+      "passage": "Once upon a time, there lived an ant named Andy who lived in a colony beneath a large oak tree. Andy was smaller than the other ants, and some of them often teased him about his size. \"You'll never be able to carry big loads like us,\" they would say. But Andy refused to be discouraged.\n\nOne autumn day, the queen ant announced that the colony needed to gather enough food to survive the harsh winter. The ants scrambled in all directions, searching for food. Andy discovered a large piece of bread crumb near the garden fence. It was bigger than anything he had ever tried to carry.\n\n\"Leave it, Andy,\" laughed the bigger ants. \"You'll never manage it.\" But Andy had an idea. Instead of trying to lift the entire piece, he carefully broke it into smaller fragments. Then, he called out to the younger ants who were also considered too small to help.\n\nTogether, working as a team, they carried all the fragments back to the colony. The queen was impressed. \"Andy has shown us something valuable today,\" she declared. \"Success doesn't always come from being the biggest or strongest. It comes from being clever and working together.\"\n\nFrom that day on, Andy was respected by everyone in the colony. He had proved that determination and teamwork could overcome any obstacle.",
+      "questions": [
+        {
+          "id": "ap1_q1",
+          "type": "mcq",
+          "question": "Where did Andy the ant live?",
+          "options": ["In a garden", "Beneath a large oak tree", "Near a fence", "Inside a house"],
+          "answer": "Beneath a large oak tree",
+          "explanation": "The passage states Andy 'lived in a colony beneath a large oak tree'."
+        },
+        {
+          "id": "ap1_q2",
+          "type": "mcq",
+          "question": "Why did the other ants tease Andy?",
+          "options": ["Because he was lazy", "Because he was small", "Because he was new to the colony", "Because he couldn't find food"],
+          "answer": "Because he was small",
+          "explanation": "The passage says 'Andy was smaller than the other ants, and some of them often teased him about his size'."
+        },
+        {
+          "id": "ap1_q3",
+          "type": "mcq",
+          "question": "What did the queen ant announce?",
+          "options": ["There would be a celebration", "Andy would be the new leader", "The colony needed to gather food for winter", "They should build a new home"],
+          "answer": "The colony needed to gather food for winter",
+          "explanation": "The queen announced 'the colony needed to gather enough food to survive the harsh winter'."
+        },
+        {
+          "id": "ap1_q4",
+          "type": "mcq",
+          "question": "How did Andy solve the problem of carrying the large bread crumb?",
+          "options": ["He asked the bigger ants for help", "He left it behind", "He broke it into smaller pieces", "He pushed it slowly"],
+          "answer": "He broke it into smaller pieces",
+          "explanation": "The passage states 'Instead of trying to lift the entire piece, he carefully broke it into smaller fragments'."
+        },
+        {
+          "id": "ap1_q5",
+          "type": "mcq",
+          "question": "What lesson did the queen say Andy taught them?",
+          "options": ["Being big is important", "Food should be stored carefully", "Being clever and working together leads to success", "Smaller ants should stay home"],
+          "answer": "Being clever and working together leads to success",
+          "explanation": "The queen said 'Success doesn't always come from being the biggest or strongest. It comes from being clever and working together'."
+        },
+        {
+          "id": "ap1_q6",
+          "type": "short_answer",
+          "question": "What did Andy discover near the garden fence?",
+          "answer": "Andy discovered a large piece of bread crumb near the garden fence. It was bigger than anything he had ever tried to carry."
+        },
+        {
+          "id": "ap1_q7",
+          "type": "short_answer",
+          "question": "How did the other ants react when Andy found the bread crumb?",
+          "answer": "The bigger ants laughed at Andy and told him to leave it because they thought he would never be able to manage carrying it due to his small size."
+        },
+        {
+          "id": "ap1_q8",
+          "type": "short_answer",
+          "question": "Who helped Andy carry the fragments back to the colony?",
+          "answer": "Andy called out to the younger ants who were also considered too small to help. Together, working as a team, they carried all the fragments back to the colony."
+        },
+        {
+          "id": "ap1_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: made someone feel less confident or enthusiastic.",
+          "answer": "Discouraged"
+        },
+        {
+          "id": "ap1_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: small pieces broken off from something larger.",
+          "answer": "Fragments"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_2",
+      "title": "The Magic of Libraries",
+      "source": "Additional Comprehension",
+      "passage": "Libraries are more than just buildings filled with books. They are gateways to adventure, knowledge, and imagination. The first public library in the world was established in ancient Rome around 39 BC by Asinius Pollio. Since then, libraries have evolved tremendously, but their core purpose remains the same: to provide free access to information and learning for everyone.\n\nToday's modern libraries offer much more than books. They provide computers with internet access, audiobooks, DVDs, and even video games. Many libraries host events such as reading clubs, author talks, and educational workshops. Some libraries have makerspaces where people can learn to use 3D printers, sewing machines, and other creative tools.\n\nThe world's largest library is the Library of Congress in Washington, D.C., USA. It holds more than 170 million items, including books, recordings, photographs, maps, and manuscripts. If you placed all the shelves in the Library of Congress end to end, they would stretch about 838 miles!\n\nLibrarians play a crucial role in these institutions. They are trained professionals who help visitors find the information they need. They also select which books and materials to add to the collection, organize community programs, and teach people how to research effectively.\n\nIn many communities, especially rural areas, libraries serve as important social centres where people gather, learn, and connect with others. During challenging times, libraries have adapted by offering online services, home delivery of books, and virtual programs. The library truly is a place where everyone is welcome, regardless of their background or circumstances.",
+      "questions": [
+        {
+          "id": "ap2_q1",
+          "type": "mcq",
+          "question": "When and where was the first public library established?",
+          "options": ["In ancient Greece around 100 AD", "In ancient Rome around 39 BC", "In Washington D.C. in 1800", "In London in the 1600s"],
+          "answer": "In ancient Rome around 39 BC",
+          "explanation": "The passage states 'The first public library in the world was established in ancient Rome around 39 BC by Asinius Pollio'."
+        },
+        {
+          "id": "ap2_q2",
+          "type": "mcq",
+          "question": "What is the world's largest library?",
+          "options": ["The British Library", "The National Library of China", "The Library of Congress", "The Vatican Library"],
+          "answer": "The Library of Congress",
+          "explanation": "The passage states 'The world's largest library is the Library of Congress in Washington, D.C., USA'."
+        },
+        {
+          "id": "ap2_q3",
+          "type": "mcq",
+          "question": "What are makerspaces in modern libraries?",
+          "options": ["Areas for reading quietly", "Spaces where people can learn to use creative tools", "Rooms for author talks", "Sections for children's books"],
+          "answer": "Spaces where people can learn to use creative tools",
+          "explanation": "The passage says 'Some libraries have makerspaces where people can learn to use 3D printers, sewing machines, and other creative tools'."
+        },
+        {
+          "id": "ap2_q4",
+          "type": "mcq",
+          "question": "How many items does the Library of Congress hold?",
+          "options": ["About 838 million items", "More than 170 million items", "About 39 million items", "More than 100 thousand items"],
+          "answer": "More than 170 million items",
+          "explanation": "The passage states 'It holds more than 170 million items'."
+        },
+        {
+          "id": "ap2_q5",
+          "type": "short_answer",
+          "question": "What is the core purpose of libraries according to the passage?",
+          "answer": "The core purpose of libraries is to provide free access to information and learning for everyone."
+        },
+        {
+          "id": "ap2_q6",
+          "type": "short_answer",
+          "question": "What services do modern libraries offer apart from books?",
+          "answer": "Modern libraries offer computers with internet access, audiobooks, DVDs, video games, reading clubs, author talks, educational workshops, and makerspaces with 3D printers and sewing machines."
+        },
+        {
+          "id": "ap2_q7",
+          "type": "short_answer",
+          "question": "What role do librarians play?",
+          "answer": "Librarians help visitors find information they need, select which books and materials to add to the collection, organize community programs, and teach people how to research effectively."
+        },
+        {
+          "id": "ap2_q8",
+          "type": "short_answer",
+          "question": "How have libraries adapted during challenging times?",
+          "answer": "Libraries have adapted by offering online services, home delivery of books, and virtual programs during challenging times."
+        },
+        {
+          "id": "ap2_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: developed or changed gradually over time.",
+          "answer": "Evolved"
+        },
+        {
+          "id": "ap2_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: very important or essential.",
+          "answer": "Crucial"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_3",
+      "title": "The Honey Bee's Secret",
+      "source": "Additional Comprehension",
+      "passage": "Honey bees are among the most fascinating creatures on Earth. These tiny insects live in highly organized societies called colonies, which can contain up to 60,000 bees. Each colony has three types of bees: the queen, worker bees, and drones. The queen's only job is to lay eggs—she can lay up to 2,000 eggs per day! Worker bees are all female and do all the work: collecting nectar, making honey, building the hive, and protecting the colony. Drones are male bees whose sole purpose is to mate with the queen.\n\nOne of the most remarkable things about honey bees is how they communicate. When a worker bee finds a good source of flowers, she returns to the hive and performs a special \"waggle dance.\" This dance tells other bees exactly where to find the flowers. The direction of the waggle indicates the direction of the flowers relative to the sun, and the length of the waggle shows how far away the flowers are. Scientists consider this dance one of the most sophisticated forms of communication in the animal kingdom.\n\nHoney bees are incredibly important for our food supply. As they move from flower to flower collecting nectar, they transfer pollen, which helps plants produce fruits, vegetables, and seeds. This process is called pollination. It is estimated that one-third of the food we eat depends on pollination by bees.\n\nSadly, bee populations around the world are declining due to pesticides, habitat loss, and climate change. Scientists and farmers are working hard to protect these vital insects. Simple actions like planting bee-friendly flowers, avoiding pesticides in gardens, and supporting local beekeepers can help ensure that honey bees continue to thrive for generations to come.",
+      "questions": [
+        {
+          "id": "ap3_q1",
+          "type": "mcq",
+          "question": "How many bees can a colony contain?",
+          "options": ["Up to 2,000 bees", "Up to 60,000 bees", "About 100 bees", "Over 100,000 bees"],
+          "answer": "Up to 60,000 bees",
+          "explanation": "The passage states colonies 'can contain up to 60,000 bees'."
+        },
+        {
+          "id": "ap3_q2",
+          "type": "mcq",
+          "question": "What are the three types of bees in a colony?",
+          "options": ["King, queen, and workers", "Queen, worker bees, and drones", "Males, females, and babies", "Leaders, followers, and guards"],
+          "answer": "Queen, worker bees, and drones",
+          "explanation": "The passage states 'Each colony has three types of bees: the queen, worker bees, and drones'."
+        },
+        {
+          "id": "ap3_q3",
+          "type": "mcq",
+          "question": "How do worker bees communicate about flower locations?",
+          "options": ["By making sounds", "By performing a waggle dance", "By leaving a scent trail", "By flying in circles"],
+          "answer": "By performing a waggle dance",
+          "explanation": "The passage says 'she returns to the hive and performs a special \"waggle dance\"'."
+        },
+        {
+          "id": "ap3_q4",
+          "type": "mcq",
+          "question": "What percentage of our food depends on bee pollination?",
+          "options": ["One-half", "One-quarter", "One-third", "Two-thirds"],
+          "answer": "One-third",
+          "explanation": "The passage states 'one-third of the food we eat depends on pollination by bees'."
+        },
+        {
+          "id": "ap3_q5",
+          "type": "mcq",
+          "question": "What are the causes of declining bee populations?",
+          "options": ["Overwork and exhaustion", "Pesticides, habitat loss, and climate change", "Too many flowers", "Competition from other insects"],
+          "answer": "Pesticides, habitat loss, and climate change",
+          "explanation": "The passage states 'bee populations are declining due to pesticides, habitat loss, and climate change'."
+        },
+        {
+          "id": "ap3_q6",
+          "type": "short_answer",
+          "question": "What is the queen bee's job and how many eggs can she lay per day?",
+          "answer": "The queen's only job is to lay eggs. She can lay up to 2,000 eggs per day."
+        },
+        {
+          "id": "ap3_q7",
+          "type": "short_answer",
+          "question": "What are the different jobs of worker bees?",
+          "answer": "Worker bees collect nectar, make honey, build the hive, and protect the colony."
+        },
+        {
+          "id": "ap3_q8",
+          "type": "short_answer",
+          "question": "Explain how the waggle dance communicates information about flowers.",
+          "answer": "The direction of the waggle indicates the direction of the flowers relative to the sun, and the length of the waggle shows how far away the flowers are."
+        },
+        {
+          "id": "ap3_q9",
+          "type": "short_answer",
+          "question": "What is pollination and why is it important?",
+          "answer": "Pollination is the process where bees transfer pollen from flower to flower as they collect nectar. This helps plants produce fruits, vegetables, and seeds. One-third of the food we eat depends on pollination by bees."
+        },
+        {
+          "id": "ap3_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: extremely good or impressive.",
+          "answer": "Remarkable"
+        },
+        {
+          "id": "ap3_q11",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: absolutely necessary or essential.",
+          "answer": "Vital"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_4",
+      "title": "The Great Wall of China",
+      "source": "Additional Comprehension",
+      "passage": "The Great Wall of China is one of the most impressive structures ever built by humans. Stretching approximately 21,196 kilometres across northern China, it is the longest wall in the world. The wall was built over many centuries, with construction beginning as early as the 7th century BC. However, most of the existing wall was built during the Ming Dynasty (1368-1644 AD).\n\nThe primary purpose of the Great Wall was to protect China from invasions by nomadic tribes from the north. The wall features watchtowers positioned at regular intervals, which were used to send smoke signals during the day and fire signals at night to warn of approaching enemies. Soldiers lived in these watchtowers and guarded the wall day and night.\n\nBuilding the Great Wall was an enormous undertaking that involved millions of workers. These workers included soldiers, peasants, and prisoners. The working conditions were extremely harsh, and it is estimated that over one million people died during the construction. The materials used to build the wall varied depending on the region: in the mountains, workers used local stone; in the desert areas, they used compacted earth and sand; and in some sections, they used bricks held together with sticky rice mortar.\n\nToday, the Great Wall is one of China's most popular tourist attractions, receiving millions of visitors each year. In 1987, UNESCO declared it a World Heritage Site. Although parts of the wall have fallen into disrepair over the centuries, conservation efforts are ongoing to preserve this magnificent monument. Contrary to popular belief, the Great Wall cannot be seen from space with the naked eye—this is a common myth that has been disproved by astronauts.",
+      "questions": [
+        {
+          "id": "ap4_q1",
+          "type": "mcq",
+          "question": "How long is the Great Wall of China?",
+          "options": ["About 5,000 kilometres", "About 10,000 kilometres", "About 21,196 kilometres", "About 50,000 kilometres"],
+          "answer": "About 21,196 kilometres",
+          "explanation": "The passage states the wall stretches 'approximately 21,196 kilometres across northern China'."
+        },
+        {
+          "id": "ap4_q2",
+          "type": "mcq",
+          "question": "During which dynasty was most of the existing wall built?",
+          "options": ["The Tang Dynasty", "The Han Dynasty", "The Ming Dynasty", "The Qing Dynasty"],
+          "answer": "The Ming Dynasty",
+          "explanation": "The passage states 'most of the existing wall was built during the Ming Dynasty (1368-1644 AD)'."
+        },
+        {
+          "id": "ap4_q3",
+          "type": "mcq",
+          "question": "What was the main purpose of building the Great Wall?",
+          "options": ["To create jobs for workers", "To mark China's borders", "To protect China from northern invasions", "To impress visitors"],
+          "answer": "To protect China from northern invasions",
+          "explanation": "The passage states 'The primary purpose of the Great Wall was to protect China from invasions by nomadic tribes from the north'."
+        },
+        {
+          "id": "ap4_q4",
+          "type": "mcq",
+          "question": "How were warnings sent from the watchtowers?",
+          "options": ["By shouting", "By smoke signals during the day and fire signals at night", "By sending messengers", "By ringing bells"],
+          "answer": "By smoke signals during the day and fire signals at night",
+          "explanation": "The passage says watchtowers 'were used to send smoke signals during the day and fire signals at night'."
+        },
+        {
+          "id": "ap4_q5",
+          "type": "mcq",
+          "question": "Which statement about the Great Wall is a myth?",
+          "options": ["It was built to protect from invasions", "It can be seen from space with the naked eye", "It was built over many centuries", "It is a UNESCO World Heritage Site"],
+          "answer": "It can be seen from space with the naked eye",
+          "explanation": "The passage states 'the Great Wall cannot be seen from space with the naked eye—this is a common myth'."
+        },
+        {
+          "id": "ap4_q6",
+          "type": "short_answer",
+          "question": "Who were the workers that built the Great Wall?",
+          "answer": "The workers who built the Great Wall included soldiers, peasants, and prisoners. It is estimated that over one million people died during the construction due to the extremely harsh working conditions."
+        },
+        {
+          "id": "ap4_q7",
+          "type": "short_answer",
+          "question": "What materials were used to build the wall?",
+          "answer": "The materials used varied by region: in the mountains, workers used local stone; in desert areas, they used compacted earth and sand; and in some sections, they used bricks held together with sticky rice mortar."
+        },
+        {
+          "id": "ap4_q8",
+          "type": "short_answer",
+          "question": "What is the significance of the Great Wall today?",
+          "answer": "Today, the Great Wall is one of China's most popular tourist attractions, receiving millions of visitors each year. In 1987, UNESCO declared it a World Heritage Site. Conservation efforts are ongoing to preserve this magnificent monument."
+        },
+        {
+          "id": "ap4_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: people who move from place to place without a permanent home.",
+          "answer": "Nomadic"
+        },
+        {
+          "id": "ap4_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: a large and difficult task requiring a lot of effort.",
+          "answer": "Undertaking"
+        }
+      ]
+    },
+    {
+      "id": "add_passage_5",
+      "title": "The Lost Art of Letter Writing",
+      "source": "Additional Comprehension",
+      "passage": "In today's digital age, with instant messaging, emails, and social media at our fingertips, the art of letter writing has become almost obsolete. Yet, there was a time when handwritten letters were the primary means of communication between people separated by distance. These letters were treasured keepsakes, often tied with ribbons and stored in special boxes to be read and reread over the years.\n\nHistorical letters have provided historians with invaluable insights into the past. The letters of famous figures like Mahatma Gandhi, Abraham Lincoln, and Vincent van Gogh offer glimpses into their thoughts, feelings, and the times in which they lived. Some of history's most beautiful and moving words were penned in personal letters never meant for public eyes.\n\nThe process of writing a letter is vastly different from sending a quick text message. It requires thought, patience, and effort. The writer must carefully choose their words, knowing that the recipient will hold the physical paper in their hands. The handwriting itself becomes personal—each person's script is unique, like a fingerprint. Even the choice of stationery and the colour of ink adds a personal touch that no digital message can replicate.\n\nInterestingly, there has been a small revival of letter writing in recent years. Some people have discovered the joy of corresponding through \"pen pal\" programmes, while others have taken up calligraphy as a hobby. Psychologists have found that receiving a handwritten letter triggers a stronger emotional response than receiving an email or text message. The tangible nature of a letter makes it more meaningful and memorable.\n\nPerhaps in our fast-paced world, the slow, deliberate act of writing a letter offers a welcome pause—a chance to reflect deeply and express ourselves more thoughtfully than a hastily typed message ever could.",
+      "questions": [
+        {
+          "id": "ap5_q1",
+          "type": "mcq",
+          "question": "Why has letter writing become almost obsolete?",
+          "options": ["Because paper is expensive", "Because of instant messaging, emails, and social media", "Because people don't know how to write", "Because postal services have closed"],
+          "answer": "Because of instant messaging, emails, and social media",
+          "explanation": "The passage states 'with instant messaging, emails, and social media at our fingertips, the art of letter writing has become almost obsolete'."
+        },
+        {
+          "id": "ap5_q2",
+          "type": "mcq",
+          "question": "How were letters stored in the past?",
+          "options": ["In digital folders", "In filing cabinets", "Tied with ribbons and stored in special boxes", "Thrown away after reading"],
+          "answer": "Tied with ribbons and stored in special boxes",
+          "explanation": "The passage says letters 'were treasured keepsakes, often tied with ribbons and stored in special boxes'."
+        },
+        {
+          "id": "ap5_q3",
+          "type": "mcq",
+          "question": "What makes handwriting personal according to the passage?",
+          "options": ["The speed of writing", "Each person's script is unique, like a fingerprint", "The language used", "The size of the paper"],
+          "answer": "Each person's script is unique, like a fingerprint",
+          "explanation": "The passage states 'The handwriting itself becomes personal—each person's script is unique, like a fingerprint'."
+        },
+        {
+          "id": "ap5_q4",
+          "type": "mcq",
+          "question": "What have psychologists found about receiving handwritten letters?",
+          "options": ["They take longer to read", "They trigger a stronger emotional response than emails or texts", "They are difficult to understand", "They are less meaningful"],
+          "answer": "They trigger a stronger emotional response than emails or texts",
+          "explanation": "The passage states 'receiving a handwritten letter triggers a stronger emotional response than receiving an email or text message'."
+        },
+        {
+          "id": "ap5_q5",
+          "type": "short_answer",
+          "question": "Why are historical letters important to historians?",
+          "answer": "Historical letters provide historians with invaluable insights into the past. Letters of famous figures like Mahatma Gandhi, Abraham Lincoln, and Vincent van Gogh offer glimpses into their thoughts, feelings, and the times in which they lived."
+        },
+        {
+          "id": "ap5_q6",
+          "type": "short_answer",
+          "question": "How is writing a letter different from sending a text message?",
+          "answer": "Writing a letter requires thought, patience, and effort. The writer must carefully choose their words, knowing the recipient will hold the physical paper. The handwriting is unique to each person, and the choice of stationery and ink colour adds a personal touch that no digital message can replicate."
+        },
+        {
+          "id": "ap5_q7",
+          "type": "short_answer",
+          "question": "How has letter writing been revived in recent years?",
+          "answer": "Some people have discovered the joy of corresponding through 'pen pal' programmes, while others have taken up calligraphy as a hobby."
+        },
+        {
+          "id": "ap5_q8",
+          "type": "short_answer",
+          "question": "What does the passage suggest about the value of letter writing in today's world?",
+          "answer": "The passage suggests that in our fast-paced world, the slow, deliberate act of writing a letter offers a welcome pause—a chance to reflect deeply and express ourselves more thoughtfully than a hastily typed message ever could."
+        },
+        {
+          "id": "ap5_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: no longer used or needed; out of date.",
+          "answer": "Obsolete"
+        },
+        {
+          "id": "ap5_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: something that can be touched or felt physically.",
+          "answer": "Tangible"
+        }
+      ]
+    }
+  ],
+  "total_count": 5,
+  "subject": "English E1",
+  "chapter": "Unseen Comprehension"
+}

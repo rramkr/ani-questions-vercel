@@ -4,8 +4,10 @@
   "sections": {
     "textbook": [],
     "exam": [
-      {"value": "passages", "label": "Comprehension Passages", "icon": "📖"}
+      {"value": "exam_passages", "label": "From Exam Papers", "icon": "📝"}
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      {"value": "additional_passages", "label": "Additional Comprehension", "icon": "📚"}
+    ]
   }
 }
