@@ -17,7 +17,7 @@
       "question": "What is the format of an Informal Letter?",
       "paragraphs": [
         "<b>An Informal Letter has 8 parts:</b>",
-        "<b>(a) SENDER'S ADDRESS:</b>\n• Write your full address on the <b>top left corner</b>\n• Example:\nDhvani,\n16/8, 21st Cross Street,\nIndira Nagar, Adyar,\nChennai – 600020.",
+        "<b>(a) SENDER'S ADDRESS:</b>\n• Write your full address on the <b>top left corner</b>\n• Example:\n16/8, Dhvani,\n21st Cross Street,\nIndira Nagar, Adyar,\nChennai – 600020.",
         "<b>(b) DATE:</b>\n• Write the date <b>just below the address</b>\n• Example: 10th February, 2026.",
         "<b>(c) SALUTATION:</b>\n• Use a <b>friendly greeting</b>\n• Examples:\n  - Dear Mom,\n  - Dear Vidyut,\n  - My dear Uncle,",
         "<b>(d) INTRODUCTION / OPENING PARAGRAPH:</b>\n• Begin with a <b>warm greeting</b> and state the <b>reason for writing</b>\n• Example: <b>I hope you are doing well. I am writing to tell you about...</b>",
@@ -26,7 +26,7 @@
         "<b>(g) COMPLIMENTARY CLOSE:</b>\n• End the letter politely\n• Examples:\n  - Yours lovingly,\n  - Yours affectionately,\n  - With love,",
         "<b>(h) SIGNATURE:</b>\n• Write your <b>first name</b> below the closing\n• Example: Anirudh"
       ],
-      "answer": "<b>An Informal Letter has 8 parts:</b>\n\n<b>(a) SENDER'S ADDRESS:</b>\n• Write your full address on the <b>top left corner</b>\n• Example:\nDhvani,\n16/8, 21st Cross Street,\nIndira Nagar, Adyar,\nChennai – 600020.\n\n<b>(b) DATE:</b>\n• Write the date <b>just below the address</b>\n• Example: 10th February, 2026.\n\n<b>(c) SALUTATION:</b>\n• Use a <b>friendly greeting</b>\n• Examples:\n  - Dear Mom,\n  - Dear Vidyut,\n  - My dear Uncle,\n\n<b>(d) INTRODUCTION / OPENING PARAGRAPH:</b>\n• Begin with a <b>warm greeting</b> and state the <b>reason for writing</b>\n• Example: <b>I hope you are doing well. I am writing to tell you about...</b>\n\n<b>(e) BODY / MAIN PARAGRAPHS:</b>\n• Write the <b>main message</b> — share your thoughts, experiences, or news in detail\n• Use a <b>natural and friendly tone</b>\n\n<b>(f) CONCLUSION / CLOSING PARAGRAPH:</b>\n• End with <b>good wishes</b> or a positive note\n• Example: <b>Give my regards to everyone at home. Hope to see you soon.</b>\n\n<b>(g) COMPLIMENTARY CLOSE:</b>\n• End the letter politely\n• Examples:\n  - Yours lovingly,\n  - Yours affectionately,\n  - With love,\n\n<b>(h) SIGNATURE:</b>\n• Write your <b>first name</b> below the closing\n• Example: Anirudh"
+      "answer": "<b>An Informal Letter has 8 parts:</b>\n\n<b>(a) SENDER'S ADDRESS:</b>\n• Write your full address on the <b>top left corner</b>\n• Example:\n16/8, Dhvani,\n21st Cross Street,\nIndira Nagar, Adyar,\nChennai – 600020.\n\n<b>(b) DATE:</b>\n• Write the date <b>just below the address</b>\n• Example: 10th February, 2026.\n\n<b>(c) SALUTATION:</b>\n• Use a <b>friendly greeting</b>\n• Examples:\n  - Dear Mom,\n  - Dear Vidyut,\n  - My dear Uncle,\n\n<b>(d) INTRODUCTION / OPENING PARAGRAPH:</b>\n• Begin with a <b>warm greeting</b> and state the <b>reason for writing</b>\n• Example: <b>I hope you are doing well. I am writing to tell you about...</b>\n\n<b>(e) BODY / MAIN PARAGRAPHS:</b>\n• Write the <b>main message</b> — share your thoughts, experiences, or news in detail\n• Use a <b>natural and friendly tone</b>\n\n<b>(f) CONCLUSION / CLOSING PARAGRAPH:</b>\n• End with <b>good wishes</b> or a positive note\n• Example: <b>Give my regards to everyone at home. Hope to see you soon.</b>\n\n<b>(g) COMPLIMENTARY CLOSE:</b>\n• End the letter politely\n• Examples:\n  - Yours lovingly,\n  - Yours affectionately,\n  - With love,\n\n<b>(h) SIGNATURE:</b>\n• Write your <b>first name</b> below the closing\n• Example: Anirudh"
     },
     {
       "id": "letter_structure_3",
@@ -47,7 +47,7 @@
       "title": "Sample Letter Layout",
       "question": "Show a sample layout of an Informal Letter.",
       "paragraphs": [
-        "<b>Dhvani,</b>\n<b>16/8, 21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
+        "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Vidyut,</b>",
         "<b>How are you?</b> I hope you and your family are doing well. It's been a long time since we met, so I thought of writing to tell you about my summer holidays.",
         "This summer, I visited Ooty with my parents and grandparents. The weather was cool and pleasant, and the hills were covered with beautiful flowers. We went boating on the lake, visited the Botanical Gardens, and took a toy train ride to Coonoor. It was so much fun! I also clicked many pictures and tried delicious homemade chocolates.",
@@ -55,7 +55,7 @@
         "<b>Do write back soon</b> and tell me how you spent your holidays. <b>Give my regards to</b> Uncle and Aunty.",
         "<b>Yours lovingly,</b>\n<b>Anirudh</b>"
       ],
-      "answer": "<b>Dhvani,</b>\n<b>16/8, 21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>\n\n<b>Dear Vidyut,</b>\n\n<b>How are you?</b> I hope you and your family are doing well. It's been a long time since we met, so I thought of writing to tell you about my summer holidays.\n\nThis summer, I visited Ooty with my parents and grandparents. The weather was cool and pleasant, and the hills were covered with beautiful flowers. We went boating on the lake, visited the Botanical Gardens, and took a toy train ride to Coonoor. It was so much fun! I also clicked many pictures and tried delicious homemade chocolates.\n\nThe best part was spending time with my family and enjoying nature away from the city noise. I really wish you had come with us — you would have loved it!\n\n<b>Do write back soon</b> and tell me how you spent your holidays. <b>Give my regards to</b> Uncle and Aunty.\n\n<b>Yours lovingly,</b>\n<b>Anirudh</b>"
+      "answer": "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>\n\n<b>Dear Vidyut,</b>\n\n<b>How are you?</b> I hope you and your family are doing well. It's been a long time since we met, so I thought of writing to tell you about my summer holidays.\n\nThis summer, I visited Ooty with my parents and grandparents. The weather was cool and pleasant, and the hills were covered with beautiful flowers. We went boating on the lake, visited the Botanical Gardens, and took a toy train ride to Coonoor. It was so much fun! I also clicked many pictures and tried delicious homemade chocolates.\n\nThe best part was spending time with my family and enjoying nature away from the city noise. I really wish you had come with us — you would have loved it!\n\n<b>Do write back soon</b> and tell me how you spent your holidays. <b>Give my regards to</b> Uncle and Aunty.\n\n<b>Yours lovingly,</b>\n<b>Anirudh</b>"
     }
   ],
   "total_count": 4,
