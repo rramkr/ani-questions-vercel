@@ -846,7 +846,7 @@ function renderRules(rulesData) {
 
     html += '</div>';
 
-    elements.questionsList.innerHTML = html;
+    elements.questionsContainer.innerHTML = html;
 }
 
 // Shuffle array helper
