@@ -3,6 +3,7 @@
   "chapter": "Descriptive Essay",
   "sections": {
     "textbook": [
+      {"value": "structure_format", "label": "Structure/Format", "icon": "📋"},
       {"value": "classwork_essays", "label": "Classwork Essays", "icon": "📝"}
     ],
     "exam": [],

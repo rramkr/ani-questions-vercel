@@ -1,0 +1,45 @@
+{
+  "question_type": "essay",
+  "questions": [
+    {
+      "id": "structure_1",
+      "title": "Descriptive Essay Structure",
+      "question": "What is the structure of a Descriptive Essay?",
+      "paragraphs": [
+        "<b>A Descriptive Essay has 5 paragraphs:</b>",
+        "<b>PARAGRAPH 1 - INTRODUCTION:</b>\n• Start with: <b>\"Everyone has a...\"</b> (universal hook)\n• Then say: <b>\"For me, that is...\"</b> (introduce your topic)\n• End with: Why it is important/special to you",
+        "<b>PARAGRAPH 2 - WHAT I SEE:</b>\n• Start with: <b>\"When I look at...\"</b> or <b>\"When I see...\"</b>\n• Describe the visual appearance\n• Use descriptive words for colors, shapes, sizes\n• Paint a picture with words",
+        "<b>PARAGRAPH 3 - OTHER SENSES & CONNECTIONS:</b>\n• Include: <b>\"I hear...\"</b> (sounds)\n• Include: <b>\"The smell of...\"</b> (smells)\n• Include feelings and textures\n• Describe connections with other people",
+        "<b>PARAGRAPH 4 - PERSONAL CONNECTION:</b>\n• Explain why this topic matters to you\n• Share what you have learned from it\n• Describe your feelings and emotions\n• Connect it to your life experiences",
+        "<b>PARAGRAPH 5 - CONCLUSION:</b>\n• Start with: <b>\"This [topic] is special because...\"</b>\n• Include: <b>\"It taught me that...\"</b> (lesson learned)\n• End with: <b>\"I will always...\"</b> (future commitment)"
+      ],
+      "answer": "<b>A Descriptive Essay has 5 paragraphs:</b>\n\n<b>PARAGRAPH 1 - INTRODUCTION:</b>\n• Start with: <b>\"Everyone has a...\"</b> (universal hook)\n• Then say: <b>\"For me, that is...\"</b> (introduce your topic)\n• End with: Why it is important/special to you\n\n<b>PARAGRAPH 2 - WHAT I SEE:</b>\n• Start with: <b>\"When I look at...\"</b> or <b>\"When I see...\"</b>\n• Describe the visual appearance\n• Use descriptive words for colors, shapes, sizes\n• Paint a picture with words\n\n<b>PARAGRAPH 3 - OTHER SENSES & CONNECTIONS:</b>\n• Include: <b>\"I hear...\"</b> (sounds)\n• Include: <b>\"The smell of...\"</b> (smells)\n• Include feelings and textures\n• Describe connections with other people\n\n<b>PARAGRAPH 4 - PERSONAL CONNECTION:</b>\n• Explain why this topic matters to you\n• Share what you have learned from it\n• Describe your feelings and emotions\n• Connect it to your life experiences\n\n<b>PARAGRAPH 5 - CONCLUSION:</b>\n• Start with: <b>\"This [topic] is special because...\"</b>\n• Include: <b>\"It taught me that...\"</b> (lesson learned)\n• End with: <b>\"I will always...\"</b> (future commitment)"
+    },
+    {
+      "id": "structure_2",
+      "title": "Key Phrases to Remember",
+      "question": "What are the key phrases to use in a Descriptive Essay?",
+      "paragraphs": [
+        "<b>OPENING HOOKS (Paragraph 1):</b>\n• Everyone has a...\n• Everyone has someone who...\n• Everyone knows the feeling of...\n• Everyone has experienced...",
+        "<b>PERSONAL INTRODUCTION (Paragraph 1):</b>\n• For me, that is...\n• For me, that person is...\n• For me, that place is...\n• It is special because...",
+        "<b>VISUAL DESCRIPTIONS (Paragraph 2):</b>\n• When I look at...\n• When I see...\n• When I enter...\n• When I watch...\n• I see...",
+        "<b>SENSORY DESCRIPTIONS (Paragraph 3):</b>\n• I hear...\n• The sound of...\n• The smell of...\n• I can feel...\n• It feels like...",
+        "<b>CONCLUSION PHRASES (Paragraph 5):</b>\n• [Topic] is special because...\n• It taught me that...\n• I will always...\n• I will never forget..."
+      ],
+      "answer": "<b>OPENING HOOKS (Paragraph 1):</b>\n• Everyone has a...\n• Everyone has someone who...\n• Everyone knows the feeling of...\n• Everyone has experienced...\n\n<b>PERSONAL INTRODUCTION (Paragraph 1):</b>\n• For me, that is...\n• For me, that person is...\n• For me, that place is...\n• It is special because...\n\n<b>VISUAL DESCRIPTIONS (Paragraph 2):</b>\n• When I look at...\n• When I see...\n• When I enter...\n• When I watch...\n• I see...\n\n<b>SENSORY DESCRIPTIONS (Paragraph 3):</b>\n• I hear...\n• The sound of...\n• The smell of...\n• I can feel...\n• It feels like...\n\n<b>CONCLUSION PHRASES (Paragraph 5):</b>\n• [Topic] is special because...\n• It taught me that...\n• I will always...\n• I will never forget..."
+    },
+    {
+      "id": "structure_3",
+      "title": "Descriptive vs Narrative Essay",
+      "question": "What is the difference between Descriptive and Narrative Essay?",
+      "paragraphs": [
+        "<b>DESCRIPTIVE ESSAY:</b>\n• Describes what something IS LIKE\n• Static - like a photograph\n• Uses sensory details (see, hear, smell, feel)\n• Focuses on appearance, qualities, characteristics\n• Example topics: My Best Friend, My School, My Hometown",
+        "<b>NARRATIVE ESSAY:</b>\n• Tells a story of what HAPPENED\n• Dynamic - like a movie\n• Has a plot with beginning, middle, end\n• Includes events in chronological order\n• Has a conflict/problem and resolution\n• Example topics: A Day When..., When I Met..., A Time I..."
+      ],
+      "answer": "<b>DESCRIPTIVE ESSAY:</b>\n• Describes what something IS LIKE\n• Static - like a photograph\n• Uses sensory details (see, hear, smell, feel)\n• Focuses on appearance, qualities, characteristics\n• Example topics: My Best Friend, My School, My Hometown\n\n<b>NARRATIVE ESSAY:</b>\n• Tells a story of what HAPPENED\n• Dynamic - like a movie\n• Has a plot with beginning, middle, end\n• Includes events in chronological order\n• Has a conflict/problem and resolution\n• Example topics: A Day When..., When I Met..., A Time I..."
+    }
+  ],
+  "total_count": 3,
+  "subject": "English E1",
+  "chapter": "Descriptive Essay"
+}
