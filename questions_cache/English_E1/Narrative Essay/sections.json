@@ -1,0 +1,14 @@
+{
+  "subject": "English E1",
+  "chapter": "Narrative Essay",
+  "sections": {
+    "textbook": [
+      {"value": "structure_format", "label": "Structure/Format", "icon": "📋"},
+      {"value": "classwork_essays", "label": "Classwork Essays", "icon": "📝"}
+    ],
+    "exam": [],
+    "miscellaneous": [
+      {"value": "additional_essays", "label": "Additional Essays", "icon": "✍️"}
+    ]
+  }
+}

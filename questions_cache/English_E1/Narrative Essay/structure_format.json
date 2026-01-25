@@ -1,0 +1,45 @@
+{
+  "question_type": "essay",
+  "questions": [
+    {
+      "id": "narr_structure_1",
+      "title": "Narrative Essay Structure",
+      "question": "What is the structure of a Narrative Essay?",
+      "paragraphs": [
+        "<b>A Narrative Essay has 5 paragraphs:</b>",
+        "<b>PARAGRAPH 1 - INTRODUCTION:</b>\n• Start with: <b>\"Everyone would have...\"</b> (universal hook)\n• Then say: <b>\"I remember...\"</b> (introduce the experience)\n• Hint at what you learned",
+        "<b>PARAGRAPH 2 - CONTEXT:</b>\n• Start with: <b>\"It was...\"</b> or <b>\"It happened...\"</b>\n• Tell the TIME (when it happened)\n• Tell the PLACE (where it happened)\n• Introduce the characters involved",
+        "<b>PARAGRAPH 3 - CHAIN OF EVENTS:</b>\n• Tell what happened in order (beginning → middle)\n• Include: <b>\"The catch was...\"</b> (turning point/conflict)\n• This is where the problem or twist comes\n• Build tension and suspense",
+        "<b>PARAGRAPH 4 - CHANGE & RESOLUTION:</b>\n• Tell how the problem was solved\n• Describe what changed\n• How did the story end?\n• What was the result?",
+        "<b>PARAGRAPH 5 - CONCLUSION:</b>\n• Start with: <b>\"This experience taught me...\"</b> or <b>\"That day taught me...\"</b>\n• Include: <b>\"I learned that...\"</b> (lesson)\n• End with: <b>\"I will always...\"</b> or <b>\"I will never...\"</b> or <b>\"I won't...\"</b>"
+      ],
+      "answer": "<b>A Narrative Essay has 5 paragraphs:</b>\n\n<b>PARAGRAPH 1 - INTRODUCTION:</b>\n• Start with: <b>\"Everyone would have...\"</b> (universal hook)\n• Then say: <b>\"I remember...\"</b> (introduce the experience)\n• Hint at what you learned\n\n<b>PARAGRAPH 2 - CONTEXT:</b>\n• Start with: <b>\"It was...\"</b> or <b>\"It happened...\"</b>\n• Tell the TIME (when it happened)\n• Tell the PLACE (where it happened)\n• Introduce the characters involved\n\n<b>PARAGRAPH 3 - CHAIN OF EVENTS:</b>\n• Tell what happened in order (beginning → middle)\n• Include: <b>\"The catch was...\"</b> (turning point/conflict)\n• This is where the problem or twist comes\n• Build tension and suspense\n\n<b>PARAGRAPH 4 - CHANGE & RESOLUTION:</b>\n• Tell how the problem was solved\n• Describe what changed\n• How did the story end?\n• What was the result?\n\n<b>PARAGRAPH 5 - CONCLUSION:</b>\n• Start with: <b>\"This experience taught me...\"</b> or <b>\"That day taught me...\"</b>\n• Include: <b>\"I learned that...\"</b> (lesson)\n• End with: <b>\"I will always...\"</b> or <b>\"I will never...\"</b> or <b>\"I won't...\"</b>"
+    },
+    {
+      "id": "narr_structure_2",
+      "title": "Key Phrases to Remember",
+      "question": "What are the key phrases to use in a Narrative Essay?",
+      "paragraphs": [
+        "<b>OPENING HOOKS (Paragraph 1):</b>\n• Everyone would have experienced...\n• Everyone would have faced...\n• Everyone would have had...\n• Everyone would have witnessed...",
+        "<b>INTRODUCING THE EXPERIENCE (Paragraph 1):</b>\n• I remember a time when...\n• I remember the day when...\n• I will never forget the day...\n• One such incident happened to me...",
+        "<b>CONTEXT PHRASES (Paragraph 2):</b>\n• It was a [day] in [month]...\n• It happened on a [day] morning/evening...\n• It was during the [season/holiday]...\n• The incident took place at...",
+        "<b>TURNING POINT (Paragraph 3):</b>\n• The catch was that...\n• The problem was that...\n• That's when things went wrong...\n• Suddenly...\n• To my surprise...",
+        "<b>CONCLUSION PHRASES (Paragraph 5):</b>\n• This experience taught me that...\n• That day taught me that...\n• I learned that...\n• I will always...\n• I will never...\n• I won't..."
+      ],
+      "answer": "<b>OPENING HOOKS (Paragraph 1):</b>\n• Everyone would have experienced...\n• Everyone would have faced...\n• Everyone would have had...\n• Everyone would have witnessed...\n\n<b>INTRODUCING THE EXPERIENCE (Paragraph 1):</b>\n• I remember a time when...\n• I remember the day when...\n• I will never forget the day...\n• One such incident happened to me...\n\n<b>CONTEXT PHRASES (Paragraph 2):</b>\n• It was a [day] in [month]...\n• It happened on a [day] morning/evening...\n• It was during the [season/holiday]...\n• The incident took place at...\n\n<b>TURNING POINT (Paragraph 3):</b>\n• The catch was that...\n• The problem was that...\n• That's when things went wrong...\n• Suddenly...\n• To my surprise...\n\n<b>CONCLUSION PHRASES (Paragraph 5):</b>\n• This experience taught me that...\n• That day taught me that...\n• I learned that...\n• I will always...\n• I will never...\n• I won't..."
+    },
+    {
+      "id": "narr_structure_3",
+      "title": "Narrative vs Descriptive Essay",
+      "question": "What is the difference between Narrative and Descriptive Essay?",
+      "paragraphs": [
+        "<b>NARRATIVE ESSAY:</b>\n• Tells a story of what HAPPENED\n• Dynamic - like a movie\n• Has a PLOT with beginning, middle, end\n• Includes a CONFLICT or PROBLEM\n• Has a RESOLUTION (how it ended)\n• Events are in TIME ORDER (chronological)\n• Example topics: A Day When..., When I..., A Time I...",
+        "<b>DESCRIPTIVE ESSAY:</b>\n• Describes what something IS LIKE\n• Static - like a photograph\n• Uses sensory details (see, hear, smell, feel)\n• Focuses on appearance, qualities, characteristics\n• No plot or conflict needed\n• Example topics: My Best Friend, My School, My Hometown"
+      ],
+      "answer": "<b>NARRATIVE ESSAY:</b>\n• Tells a story of what HAPPENED\n• Dynamic - like a movie\n• Has a PLOT with beginning, middle, end\n• Includes a CONFLICT or PROBLEM\n• Has a RESOLUTION (how it ended)\n• Events are in TIME ORDER (chronological)\n• Example topics: A Day When..., When I..., A Time I...\n\n<b>DESCRIPTIVE ESSAY:</b>\n• Describes what something IS LIKE\n• Static - like a photograph\n• Uses sensory details (see, hear, smell, feel)\n• Focuses on appearance, qualities, characteristics\n• No plot or conflict needed\n• Example topics: My Best Friend, My School, My Hometown"
+    }
+  ],
+  "total_count": 3,
+  "subject": "English E1",
+  "chapter": "Narrative Essay"
+}
