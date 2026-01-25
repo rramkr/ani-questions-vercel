@@ -112,8 +112,8 @@
       "id": "conj_b8",
       "exercise": "B",
       "question": "Join each pair of sentences with a coordinating conjunction.\n\n8. They didn't submit their project yesterday. They didn't submit it today either.",
-      "answer": "They didn't submit their project yesterday but they didn't submit it today either.",
-      "explanation": "'But' connects two negative statements, emphasizing the continued failure to submit."
+      "answer": "They didn't submit their project yesterday and they didn't submit it today either.",
+      "explanation": "'And' connects two related negative statements. 'And...either' is grammatically correct for continuing a negative idea."
     },
     {
       "id": "conj_c1",
@@ -134,8 +134,8 @@
       "id": "conj_c3",
       "exercise": "C",
       "question": "Join these pairs of sentences using the subordinate conjunctions in brackets.\n\n3. The thieves had made off with the stolen jewels. The police arrived. (after)",
-      "answer": "The thieves had made off with the stolen jewels after the police arrived. / After the police arrived, the thieves had made off with the stolen jewels.",
-      "explanation": "'After' introduces an adverb clause of time, showing the sequence of events."
+      "answer": "The police arrived after the thieves had made off with the stolen jewels.",
+      "explanation": "'After' introduces an adverb clause of time. The thieves escaped first, then the police arrived."
     },
     {
       "id": "conj_c4",
