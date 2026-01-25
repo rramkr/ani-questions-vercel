@@ -3217,6 +3217,7 @@ b, strong {
     object-fit: contain;
     border-radius: 8px;
     display: block;
+    filter: grayscale(100%);
 }
 
 .picture-instruction {
