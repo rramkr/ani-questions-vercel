@@ -1278,11 +1278,11 @@ async function loadPictureCompositions(type) {
         state.currentType = type;
         state.pictures = data.pictures || [];
         state.pictureMode = true;
-        state.pictureListMode = true;
+        state.pictureListMode = false;
         state.currentPictureIndex = 0;
         state.pictureAnswerRevealed = false;
 
-        renderPictureList();
+        renderPictureComposition();
         showView('quiz');
         updateHash();
     } catch (error) {

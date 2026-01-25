@@ -58,6 +58,39 @@
     },
     {
       "id": "pic_comp_6",
+      "title": "A Day at the Beach",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/6_beach.png",
+      "image_description": "A tropical beach with families enjoying various activities",
+      "composition": {
+        "introduction": "The picture shows a beautiful tropical beach on a bright sunny day. The golden sand stretches along the shore, meeting the crystal-clear turquoise waters of the sea. Tall palm trees sway gently in the breeze on the right side, providing shade for the visitors.",
+        "body": "The beach is full of people enjoying themselves in different ways. In the foreground, children are building an impressive sandcastle near the water's edge. A young couple walks hand in hand along the shoreline, leaving footprints in the wet sand. On the right side, a group of young people plays beach volleyball, jumping and laughing as they hit the ball. Families wade into the gentle waves, and colourful umbrellas dot the beach. A vendor's cart can be seen near the palm trees.",
+        "conclusion": "A beach is a place where people come to escape their daily worries and enjoy nature's beauty. The sound of the waves, the feel of warm sand, and the cool sea breeze create a perfect setting for relaxation. Whether building sandcastles, swimming, or simply walking along the shore, everyone finds joy at the beach. It reminds us of the simple pleasures that nature offers us."
+      }
+    },
+    {
+      "id": "pic_comp_7",
+      "title": "Diwali Celebration",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/7_diwali.png",
+      "image_description": "A collage showing various Diwali celebration scenes",
+      "composition": {
+        "introduction": "The picture captures the joyous celebration of Diwali, the festival of lights. The scenes show a street and homes illuminated by hundreds of glowing diyas and decorative lights. The night sky is lit up with colourful fireworks, creating a magical atmosphere of celebration and happiness.",
+        "body": "In the centre, a crowded street is alive with people celebrating. Buildings on both sides are decorated with strings of lights. Families have made beautiful rangoli designs on the floor using coloured powders, and diyas are arranged around them. Children dressed in new clothes run around with sparklers in their hands, their faces glowing with excitement. An elderly man lovingly hands a sparkler to a young child. In another scene, a family sits together performing puja with sweets and offerings, seeking blessings for the new year.",
+        "conclusion": "Diwali symbolizes the victory of light over darkness and good over evil. It is a time when families come together, homes are cleaned and decorated, and sweets are shared with neighbours and friends. The festival reminds us to spread light and happiness wherever we go. Diwali is not just about fireworks and sweets—it is a celebration of love, togetherness, and new beginnings."
+      }
+    },
+    {
+      "id": "pic_comp_8",
+      "title": "A Busy Railway Station",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/8_railway_station.png",
+      "image_description": "Various scenes from an Indian railway station",
+      "composition": {
+        "introduction": "The picture shows a busy Indian railway station during peak hours. The platforms are crowded with passengers—some rushing to catch their trains, others waiting patiently for arrivals. The station is a hub of activity, with trains standing on the tracks ready to depart.",
+        "body": "Porters in their distinctive red uniforms carry heavy luggage on their heads, moving expertly through the crowd. Vendors walk along the platforms selling chai, snacks, and newspapers to passengers. A family sits on the platform surrounded by their bags, the children watching the trains with wonder. Near the ticket counter, a long queue of people waits patiently to purchase their tickets. An orange engine stands on the track, ready to pull a long train. People lean out of train windows, waving goodbye to their loved ones.",
+        "conclusion": "A railway station is like a small world in itself. People from different backgrounds come together briefly before going their separate ways. It is a place of hellos and goodbyes, of journeys beginning and ending. The station reminds us that life itself is a journey, and every moment is an opportunity to move forward. Despite the chaos, there is a certain charm to the railway station that has inspired countless stories and poems."
+      }
+    },
+    {
+      "id": "pic_comp_9",
       "title": "A Village Scene",
       "image_url": "questions_cache/English_E1/Picture Comprehension/images/village_scene.png",
       "image_description": "A peaceful Indian village at dawn with farmers and daily activities",
@@ -66,9 +99,20 @@
         "body": "The village is coming to life with the morning's activities. On the left, mud houses with thatched roofs dot the landscape, and smoke rises gently from their chimneys as breakfast is being prepared. A farmer leads his pair of bullocks along a narrow path beside a stream. Women have gathered at the village well, drawing water for the day's needs. Children sit under the banyan tree, perhaps waiting for school or listening to stories. On the right, a shepherd walks with his flock of sheep towards the grazing grounds. Green paddy fields stretch into the distance.",
         "conclusion": "Village life has a beauty and simplicity that city life lacks. People live close to nature, waking with the sun and resting with the stars. The strong sense of community and the slower pace of life allow villagers to appreciate everyday joys. This scene reminds us of our roots and the importance of our farmers and villages, which are truly the backbone of our nation."
       }
+    },
+    {
+      "id": "pic_comp_10",
+      "title": "Sports Day at School",
+      "image_url": "questions_cache/English_E1/Picture Comprehension/images/10_sports_day.png",
+      "image_description": "A school sports day with students competing in a race",
+      "composition": {
+        "introduction": "The picture captures the excitement of Sports Day at a school. The athletic track is bright red, and the green field in the centre is well-maintained. The stands are packed with students divided into their house teams—Red, Blue, Green, and Yellow—each group cheering loudly for their athletes.",
+        "body": "On the track, athletes crouch at the starting blocks, ready for the sprint race. Their muscles are tensed, and their eyes are focused on the finish line ahead. Teachers and officials stand nearby with clipboards, ready to record the results. Students wave colourful flags and banners with their house names, chanting slogans to encourage their teammates. On the left, a marching band in blue uniforms adds to the festive atmosphere. Colourful bunting decorates the field, fluttering in the breeze.",
+        "conclusion": "Sports Day is one of the most exciting events in a student's school life. It teaches valuable lessons about teamwork, fair play, and healthy competition. Whether winning or losing, students learn to give their best and respect their opponents. The memories of cheering for friends and the thrill of competition stay with us long after we leave school. Sports Day reminds us that true victory lies in the effort and spirit, not just in the medals."
+      }
     }
   ],
-  "total_count": 6,
+  "total_count": 10,
   "subject": "English E1",
   "chapter": "Picture Comprehension"
 }
