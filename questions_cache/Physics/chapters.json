@@ -26,6 +26,12 @@
       "icon": "🔋"
     },
     {
+      "name": "Light",
+      "slug": "Light",
+      "has_questions": true,
+      "icon": "💡"
+    },
+    {
       "name": "Physical Quantities",
       "slug": "Physical Quantities",
       "has_questions": true,

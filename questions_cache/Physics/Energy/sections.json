@@ -1,27 +1,33 @@
 {
-  "subject": "physics",
-  "chapter": "energy",
+  "subject": "Physics",
+  "chapter": "Energy",
   "sections": {
     "textbook": [
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
     ],
     "exam": [
+      {"value": "previous_year_questions", "label": "Previous Exam Questions", "icon": "📋"},
       {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},
       {"value": "fill_in_blanks", "label": "Fill in the Blanks", "icon": "✏️"},
       {"value": "true_false", "label": "True or False", "icon": "✓✗"},
-      {"value": "match_the_following", "label": "Match the Following", "icon": "🔗"},
       {"value": "short_answer", "label": "Short Answer", "icon": "📝"},
       {"value": "long_answer", "label": "Long Answer", "icon": "📄"},
-      {"value": "assertion_reason", "label": "Assertion & Reason", "icon": "⚖️"},
-      {"value": "hots", "label": "Higher Order Thinking", "icon": "🧠"},
-      {"value": "give_reason", "label": "Give Reason", "icon": "💡"},
       {"value": "name_the_following", "label": "Name the Following", "icon": "🏷️"},
       {"value": "differentiate_between", "label": "Differentiate Between", "icon": "↔️"},
-      {"value": "case_study", "label": "Case Study", "icon": "📋"}
+      {"value": "assertion_reason", "label": "Assertion & Reason", "icon": "⚖️"},
+      {"value": "case_study", "label": "Case Study", "icon": "📋"},
+      {"value": "numericals", "label": "Numericals", "icon": "🔢"}
     ],
     "miscellaneous": [
-      {"value": "tricky_questions", "label": "Tricky Questions", "icon": "🎯"},
-      {"value": "numericals", "label": "Numericals", "icon": "🔢"}
+      {"value": "match_the_following", "label": "Match the Following", "icon": "🔗"},
+      {"value": "hots", "label": "Higher Order Thinking", "icon": "🧠"},
+      {"value": "give_reason", "label": "Give Reason", "icon": "💡"},
+      {"value": "tricky_questions", "label": "Tricky Questions", "icon": "🎯"}
     ]
+  },
+  "section_labels": {
+    "textbook": "Textbook Questions",
+    "exam": "Practice Questions for Exam",
+    "miscellaneous": "Miscellaneous"
   }
 }

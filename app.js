@@ -1505,14 +1505,25 @@ function shuffleArray(array) {
 
 // Process question to match frontend format
 function processQuestion(q, questionType) {
+    // Use the question's own type if it has one (for mixed-type files like previous_year_questions)
+    const effectiveType = q.type || questionType;
+
     const processed = {
         id: q.id || Math.random().toString(36).substr(2, 9),
-        type: questionType,
+        type: effectiveType,
         question: q.question || q.statement || '',
         correct_answer: q.correct_answer || q.answer || '',
         explanation: q.explanation || '',
         source_section: q.source_section || '',
+        year: q.year || '', // For previous year questions
+        has_diagram: q.has_diagram || false,
+        diagram_image: q.diagram_image || '',
+        diagram_description: q.diagram_description || '',
+        key_points: q.key_points || [],
     };
+
+    // Use effective type for conditional processing
+    questionType = effectiveType;
 
     if (questionType === 'mcq' || questionType === 'assertion_reason') {
         processed.options = q.options || [];
@@ -2680,11 +2691,31 @@ function renderQuestion(question, index) {
             ? '<div class="answer-placeholder unanswered-message">🙈 Answer this question first!</div>'
             : '<div class="answer-placeholder">Answer will appear here</div>');
 
+    // Add diagram support
+    let diagramHtml = '';
+    if (question.has_diagram) {
+        if (question.diagram_image) {
+            diagramHtml = `
+                <div class="question-diagram">
+                    <img src="${question.diagram_image}" alt="Diagram for question" class="diagram-image" onclick="openDiagramModal(this.src)">
+                    <span class="diagram-hint">Click to enlarge</span>
+                </div>
+            `;
+        } else if (question.diagram_description) {
+            diagramHtml = `
+                <div class="diagram-description">
+                    <em>📊 Diagram: ${question.diagram_description}</em>
+                </div>
+            `;
+        }
+    }
+
     return `
         <div class="question-row ${showUnansweredHighlight ? 'unanswered' : ''}" id="question-${question.id}">
             <div class="question-side">
                 <div class="question-number">Q${index + 1}</div>
                 <div class="question-content">
+                    ${diagramHtml}
                     ${questionContent}
                 </div>
             </div>
@@ -3266,6 +3297,32 @@ function escapeHtml(text) {
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;');
 }
+
+// Diagram modal functions
+function openDiagramModal(imageSrc) {
+    const modal = document.getElementById('diagram-modal');
+    const modalImg = document.getElementById('diagram-modal-img');
+    if (modal && modalImg) {
+        modalImg.src = imageSrc;
+        modal.classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+}
+
+function closeDiagramModal() {
+    const modal = document.getElementById('diagram-modal');
+    if (modal) {
+        modal.classList.remove('active');
+        document.body.style.overflow = '';
+    }
+}
+
+// Close modal with Escape key
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        closeDiagramModal();
+    }
+});
 
 function saveAnswer(questionId, answer) {
     state.userAnswers[questionId] = answer;

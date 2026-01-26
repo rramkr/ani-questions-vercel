@@ -1,0 +1,332 @@
+{
+  "subject": "Physics",
+  "chapter": "Energy",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "energy_pyq_mcq_1",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "The mode of heat transfer through space, vacuum and air is_____.",
+      "options": ["a) Conduction", "b) Convection", "c) Expansion", "d) Radiation"],
+      "correct_answer": "d) Radiation",
+      "explanation": "Only radiation can travel through vacuum (empty space) because it doesn't need a medium. Conduction and convection both require matter (particles) to transfer heat."
+    },
+    {
+      "id": "energy_pyq_mcq_2",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "The melting point of pure ice is_____.",
+      "options": ["a) 0°F", "b) 100°F", "c) 0°C", "d) 100K"],
+      "correct_answer": "c) 0°C",
+      "explanation": "The melting point of pure ice at standard atmospheric pressure is 0°C (or 273 K or 32°F). This is one of the fixed points used to calibrate thermometers."
+    },
+    {
+      "id": "energy_pyq_mcq_3",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "In C.G.S system, heat is measured in_____.",
+      "options": ["a) joule", "b) kelvin", "c) kilojoule", "d) calorie"],
+      "correct_answer": "d) calorie",
+      "explanation": "In the CGS (Centimetre-Gram-Second) system, heat is measured in calories. In the SI system, heat is measured in joules. Kelvin is a unit of temperature, not heat."
+    },
+    {
+      "id": "energy_pyq_mcq_4",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "40°C in kelvin scale is_____.",
+      "options": ["a) 40K", "b) 331K", "c) 330K", "d) 313K"],
+      "correct_answer": "d) 313K",
+      "explanation": "To convert Celsius to Kelvin, add 273. So 40°C + 273 = 313K. The Kelvin scale starts at absolute zero (0K = -273°C)."
+    },
+    {
+      "id": "energy_pyq_mcq_5",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "Assertion (A): To expel hot air, exhaust fans are placed at the ceiling level.\nReason (R): Hot air moves in the upward direction.",
+      "options": ["a) Both A and R are true, R is the correct explanation of A", "b) Both A and R are true, R is not the correct explanation of A", "c) A is true, R is false", "d) Both A and R are false"],
+      "correct_answer": "a) Both A and R are true, R is the correct explanation of A",
+      "explanation": "Hot air is less dense than cold air, so it rises to the ceiling (convection). Placing exhaust fans at ceiling level allows them to effectively expel the accumulated hot air."
+    },
+    {
+      "id": "energy_pyq_mcq_6",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "Which of the following is an example of a bad conductor of heat?",
+      "options": ["a) Iron scrap", "b) Plastic", "c) Aluminium wire", "d) Silver"],
+      "correct_answer": "b) Plastic",
+      "explanation": "Plastic is a poor conductor (insulator) of heat. Iron, aluminium, and silver are all metals and are good conductors of heat because they have free electrons."
+    },
+    {
+      "id": "energy_pyq_mcq_7",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "The role of air pockets in the Inuit double-walled houses is to_____.",
+      "options": ["a) Keep inside warm by reducing the loss of heat", "b) Keep outside warm by absorbing heat", "c) Keep inside cold by expelling the heat", "d) Keep inside and outside hot"],
+      "correct_answer": "a) Keep inside warm by reducing the loss of heat",
+      "explanation": "Air is a poor conductor of heat (insulator). The air pockets in Inuit igloos trap air which reduces heat loss from inside, keeping the interior warm despite freezing temperatures outside."
+    },
+    {
+      "id": "energy_pyq_mcq_8",
+      "type": "mcq",
+      "year": "Sample Paper 2",
+      "question": "Which statement about heat transfer by convection is NOT correct?",
+      "options": ["a) Convection cannot occur in vacuum", "b) Convection cannot occur in solids", "c) During convection particles of the medium are displaced", "d) The heavier particles move up and the lighter particles sink down while a convection current is set up"],
+      "correct_answer": "d) The heavier particles move up and the lighter particles sink down while a convection current is set up",
+      "explanation": "This statement is INCORRECT. In convection, LIGHTER (heated) particles rise up and HEAVIER (cooler) particles sink down. When fluid is heated, it becomes less dense and rises; cooler, denser fluid sinks to take its place."
+    },
+    {
+      "id": "energy_pyq_mcq_9",
+      "type": "mcq",
+      "year": "Sample Paper 2",
+      "question": "A hot metal ball placed in a beaker containing boiling water gets the same temperature as boiling water. It is then transferred to another beaker Y at room temperature of 25°C. Which of the statements is true?",
+      "options": ["a) When placed in beaker Y, the metal ball gains heat and water loses heat", "b) When placed in beaker Y, the metal ball loses heat and water also loses heat", "c) When placed in beaker Y, the metal ball loses heat and water gains heat", "d) There is no flow of heat between the two"],
+      "correct_answer": "c) When placed in beaker Y, the metal ball loses heat and water gains heat",
+      "explanation": "Heat always flows from a hotter body to a cooler body. The hot metal ball (at 100°C) will lose heat to the cooler water (at 25°C) until they reach thermal equilibrium. The water gains the heat lost by the ball."
+    },
+    {
+      "id": "energy_pyq_name_1",
+      "type": "name_the_following",
+      "year": "Sample Paper 1",
+      "question": "The process of expansion of a substance on heating.",
+      "answer": "Thermal expansion",
+      "explanation": "Thermal expansion is the increase in size (length, area, or volume) of a substance when heated. Most substances expand when heated because their particles vibrate more and move apart."
+    },
+    {
+      "id": "energy_pyq_name_2",
+      "type": "name_the_following",
+      "year": "Sample Paper 2",
+      "question": "The flow of air from land to sea after sunset.",
+      "answer": "Land breeze",
+      "explanation": "After sunset, land cools faster than sea. The air above land becomes cooler and denser, while air above sea remains warm. Cool air from land flows towards the sea - this is called land breeze."
+    },
+    {
+      "id": "energy_pyq_name_3",
+      "type": "name_the_following",
+      "year": "Sample Paper 2",
+      "question": "The fixed temperature at which a solid changes to a liquid state by absorbing heat.",
+      "answer": "Melting point",
+      "explanation": "Melting point is the temperature at which a solid absorbs heat energy and changes to liquid state. For ice, melting point is 0°C."
+    },
+    {
+      "id": "energy_pyq_name_4",
+      "type": "name_the_following",
+      "year": "Sample Paper 2",
+      "question": "The slowest mode of heat transfer.",
+      "answer": "Conduction",
+      "explanation": "Conduction is the slowest mode of heat transfer as it involves particle-to-particle transfer of energy without the particles actually moving from their positions. Radiation is the fastest (travels at speed of light)."
+    },
+    {
+      "id": "energy_pyq_name_5",
+      "type": "name_the_following",
+      "year": "Sample Paper 2",
+      "question": "The temperature scale which has no negative temperature.",
+      "answer": "Kelvin scale",
+      "explanation": "The Kelvin scale starts at absolute zero (0 K = -273°C), which is the lowest possible temperature. There are no negative values on this scale."
+    },
+    {
+      "id": "energy_pyq_tf_1",
+      "type": "true_false",
+      "year": "Sample Paper 1",
+      "question": "Radiant energy travels in a straight line with the speed of 3 × 10⁸ m/s.",
+      "answer": "True",
+      "explanation": "Radiant energy (including heat radiation and light) travels in straight lines at the speed of light, which is approximately 3 × 10⁸ m/s in vacuum."
+    },
+    {
+      "id": "energy_pyq_tf_2",
+      "type": "true_false",
+      "year": "Sample Paper 1",
+      "question": "On holding a hot cup of tea, the heat energy flows from the hand to the cup.",
+      "answer": "False",
+      "explanation": "Heat always flows from a hotter body to a cooler body. Since the cup of tea is hotter than your hand, heat flows FROM the cup TO the hand, not the other way around."
+    },
+    {
+      "id": "energy_pyq_tf_3",
+      "type": "true_false",
+      "year": "Sample Paper 1",
+      "question": "The rise or fall in temperature is due to heat gained or lost by the substance.",
+      "answer": "True",
+      "explanation": "When a substance gains heat, its temperature rises. When it loses heat, its temperature falls. Temperature change is directly related to heat transfer (except during change of state)."
+    },
+    {
+      "id": "energy_pyq_tf_4",
+      "type": "true_false",
+      "year": "Sample Paper 2",
+      "question": "The freezing point of water in Kelvin scale is 273 K.",
+      "answer": "True",
+      "explanation": "Freezing point of water is 0°C. To convert to Kelvin: K = °C + 273 = 0 + 273 = 273 K."
+    },
+    {
+      "id": "energy_pyq_tf_5",
+      "type": "true_false",
+      "year": "Sample Paper 2",
+      "question": "Liquids show both superficial and cubical expansion.",
+      "answer": "True",
+      "explanation": "Liquids expand in volume when heated (cubical expansion). They also show apparent superficial expansion when heated in containers. However, only cubical expansion is real for liquids as they don't have fixed shape."
+    },
+    {
+      "id": "energy_pyq_tf_6",
+      "type": "true_false",
+      "year": "Sample Paper 2",
+      "question": "Good absorbers of heat are good reflectors too.",
+      "answer": "False",
+      "explanation": "Good absorbers are POOR reflectors (and vice versa). According to Kirchhoff's law, a good absorber of heat radiation is also a good emitter, but NOT a good reflector. Black surfaces absorb well but reflect poorly."
+    },
+    {
+      "id": "energy_pyq_def_1",
+      "type": "definition",
+      "year": "Sample Paper 1",
+      "question": "Define: One calorie",
+      "answer": "One calorie is the amount of heat energy required to raise the temperature of 1 gram of water by 1°C (from 14.5°C to 15.5°C).",
+      "key_points": ["Heat to raise 1g water by 1°C", "CGS unit of heat", "1 calorie = 4.186 joules"]
+    },
+    {
+      "id": "energy_pyq_def_2",
+      "type": "definition",
+      "year": "Sample Paper 1",
+      "question": "Define: Thermal equilibrium",
+      "answer": "Thermal equilibrium is the state when two bodies in contact are at the same temperature, and there is no net flow of heat between them.",
+      "key_points": ["Same temperature", "No net heat flow", "Heat exchange stops"]
+    },
+    {
+      "id": "energy_pyq_def_3",
+      "type": "definition",
+      "year": "Sample Paper 2",
+      "question": "Define: Conduction",
+      "answer": "Conduction is the process of heat transfer through a substance (usually solid) by the vibration of particles, without the particles actually moving from their positions. Heat passes from particle to particle.",
+      "key_points": ["Heat transfer through solids", "Particles vibrate but don't move", "Requires material medium", "Example: spoon heating in hot soup"]
+    },
+    {
+      "id": "energy_pyq_def_4",
+      "type": "definition",
+      "year": "Sample Paper 2",
+      "question": "Define: Heat",
+      "answer": "Heat is the form of energy that is transferred between two bodies (or systems) due to a difference in their temperatures. Heat always flows from higher temperature to lower temperature.",
+      "key_points": ["Form of energy", "Transferred due to temperature difference", "Flows from hot to cold", "SI unit: Joule"]
+    },
+    {
+      "id": "energy_pyq_diff_1",
+      "type": "differentiate",
+      "year": "Sample Paper 1",
+      "question": "Differentiate between: Convection and Radiation",
+      "answer": "**Convection:**\n1. Heat transfer by bulk movement of fluid particles\n2. Requires a medium (liquid or gas)\n3. Relatively slow; follows fluid flow patterns\n4. Example: Warm air rising above a heater\n\n**Radiation:**\n1. Heat transfer by electromagnetic waves\n2. Does not require any medium (works in vacuum)\n3. Very fast; travels at speed of light (3×10⁸ m/s)\n4. Example: Heat from the Sun reaching Earth through space",
+      "key_points": ["Convection needs fluid; radiation needs no medium", "Radiation travels at light speed", "Convection involves actual particle movement"]
+    },
+    {
+      "id": "energy_pyq_diff_2",
+      "type": "differentiate",
+      "year": "Sample Paper 1",
+      "question": "Differentiate between: Freezing and Vaporisation",
+      "answer": "**Freezing:**\n1. Phase change: Liquid → Solid\n2. Heat is released (latent heat of fusion)\n3. Occurs at freezing point of the substance\n4. Example: Water turning to ice at 0°C\n\n**Vaporisation:**\n1. Phase change: Liquid → Gas\n2. Heat is absorbed (latent heat of vaporisation)\n3. Occurs at boiling point of the substance\n4. Example: Water turning to steam at 100°C (at 1 atm)",
+      "key_points": ["Opposite phase changes", "Freezing releases heat; vaporisation absorbs heat", "Different temperature points"]
+    },
+    {
+      "id": "energy_pyq_diff_3",
+      "type": "differentiate",
+      "year": "Sample Paper 1",
+      "question": "Differentiate between: Celsius scale and Fahrenheit scale",
+      "answer": "**Celsius Scale:**\n1. Fixed points: 0°C (ice point) to 100°C (steam point)\n2. 100 equal divisions between fixed points\n3. Used worldwide for scientific work\n4. 1°C = 1 K (same size as Kelvin)\n\n**Fahrenheit Scale:**\n1. Fixed points: 32°F (ice point) to 212°F (steam point)\n2. 180 equal divisions between fixed points\n3. Used mainly in USA\n4. 1°F = 5/9 °C (smaller unit)\n\n**Conversion:** F = (9/5)C + 32 or C = (5/9)(F - 32)\n\n**Example:** 25°C = 77°F",
+      "key_points": ["Different fixed points", "Different division sizes", "Conversion formula: F = 9C/5 + 32"]
+    },
+    {
+      "id": "energy_pyq_diff_4",
+      "type": "differentiate",
+      "year": "Sample Paper 2",
+      "question": "Differentiate between: Conductors and Insulators",
+      "answer": "**Conductors:**\n1. Allow easy flow of heat and electricity\n2. Have free electrons/mobile charge carriers\n3. Feel cold/hot quickly (high thermal conductivity)\n4. Examples: Copper, Aluminium, Silver, Iron\n\n**Insulators:**\n1. Resist the flow of heat and electricity\n2. No free electrons or mobile carriers\n3. Slow heat transfer; protect from temperature changes\n4. Examples: Plastic, Wood, Rubber, Glass",
+      "key_points": ["Conductors have free electrons; insulators don't", "Conductors transfer heat quickly", "Used for different purposes"]
+    },
+    {
+      "id": "energy_pyq_short_1",
+      "type": "short_answer",
+      "year": "Sample Paper 1",
+      "question": "What happens to the density of water as it cools from 0°C to 4°C?",
+      "answer": "As water cools from 0°C to 4°C, its density INCREASES and reaches a maximum at 4°C.\n\nThis is an anomalous (unusual) behaviour of water. Unlike most substances, water is densest at 4°C, not at its freezing point. This is why ice floats on water and lakes freeze from the top down, allowing aquatic life to survive in the water below.",
+      "key_points": ["Density increases from 0°C to 4°C", "Maximum density at 4°C", "Anomalous behaviour of water"]
+    },
+    {
+      "id": "energy_pyq_short_2",
+      "type": "short_answer",
+      "year": "Sample Paper 2",
+      "question": "Why are ventilators placed close to the ceiling in a room?",
+      "answer": "Ventilators are placed near the ceiling because hot air rises.\n\nWhen air is heated, it becomes less dense (lighter) than the surrounding cool air. Due to convection, this hot air rises to the top of the room and collects near the ceiling. Placing ventilators at ceiling level allows this hot, stale air to escape, improving air circulation and keeping the room cool and fresh.",
+      "key_points": ["Hot air rises (convection)", "Hot air is less dense", "Ceiling-level vents expel hot air effectively"]
+    },
+    {
+      "id": "energy_pyq_diagram_1",
+      "type": "diagram_based",
+      "year": "Sample Paper 1",
+      "has_diagram": true,
+      "diagram_description": "Two setups are shown: (A) A circular metal loop with pins P and Q fixed with wax at opposite ends, heated at one point. (B) A straight iron rod with pins P and Q fixed with wax at different distances from the heat source.",
+      "question": "Pins P and Q are fixed with wax on a metal loop (A) and an iron rod (B). Study the diagram and answer:\n\n(a) Name and define the process of transfer of heat shown.\n(b) In which case (A or B) are both the pins likely to fall simultaneously? Give reason.\n(c) Why do the pins fall? Explain in terms of molecular theory.",
+      "answer": "(a) The process is **CONDUCTION**.\nDefinition: Conduction is the process of heat transfer through a solid (or substance) by the vibration of particles from molecule to molecule, without the particles actually moving from their positions.\n\n(b) Both pins are likely to fall simultaneously in **Case A (the metal loop)**.\nReason: In the loop, when heat is applied at one point, it travels in both directions around the loop simultaneously. Both pins P and Q are equidistant from the heat source (via the two paths), so they receive heat at the same time and the wax melts together.\n\n(c) Molecular explanation:\nWhen heat is applied, the molecules at that point start vibrating with greater energy. These vibrations are passed on to neighbouring molecules, which in turn pass them to their neighbours. As the heat energy travels along the metal, it eventually reaches the wax. The increased molecular vibration transfers energy to the wax molecules, causing the wax to melt. Once the wax melts, the pins lose their support and fall.",
+      "key_points": ["Conduction - molecular vibration without movement", "Loop: equal path lengths both ways", "Heat increases molecular vibration, melts wax"]
+    },
+    {
+      "id": "energy_pyq_diagram_2",
+      "type": "diagram_based",
+      "year": "Sample Paper 1",
+      "has_diagram": true,
+      "diagram_description": "A thermos flask showing: coffee at 80°C cooling to 60°C in 30 minutes, room temperature at 20°C. The flask has double walls with vacuum between them and polished silver inner surfaces.",
+      "question": "A thermos flask contains coffee at 80°C. After 30 minutes at room temperature (20°C), the coffee has cooled to 60°C.\n\n(i) What can be inferred about the thermos flask?\n(ii) The brightly polished walls of the thermos minimise heat transfer by _____ (fill in the blank).",
+      "answer": "(i) We can infer that:\n- The thermos flask is a good insulator that slows down heat transfer, but it is not perfect\n- Heat is still being lost slowly from the coffee to the surroundings\n- The vacuum between walls prevents conduction and convection, but some heat still escapes (through radiation, through the stopper, etc.)\n- The rate of cooling (20°C in 30 min) is much slower than an open cup would cool\n\n(ii) The brightly polished walls minimise heat transfer by **RADIATION** (or by reflecting radiation).\n\nExplanation: Shiny, polished surfaces have low emissivity - they are poor radiators and poor absorbers of heat. They reflect most of the heat radiation back, preventing heat loss from inside.",
+      "key_points": ["Thermos slows but doesn't stop heat loss", "Vacuum prevents conduction/convection", "Polished walls reflect radiation"]
+    },
+    {
+      "id": "energy_pyq_diagram_3",
+      "type": "diagram_based",
+      "year": "Sample Paper 2",
+      "has_diagram": true,
+      "diagram_description": "Two conical flasks (A and B) connected by a U-tube containing colored liquid. Flask A is painted black, Flask B is ordinary. Both are placed near a heater for 5 minutes. Initial liquid levels in both limbs are the same.",
+      "question": "An experiment is set up with two flasks filled with air - one painted black and the other left ordinary. Liquid levels in both limbs A and B are the same initially. After switching on the heater for 5 minutes:\n\n(i) What will you observe in the liquid levels?\n(ii) What can you conclude from this experiment?",
+      "answer": "(i) Observation:\nThe liquid level will go DOWN in the limb connected to the BLACK flask (A) and UP in the limb connected to the ordinary flask (B).\n\n(ii) Conclusion:\n- Black surfaces absorb more radiant heat than light-coloured or ordinary surfaces\n- The black flask absorbs more heat from the heater, causing the air inside to heat up and expand more\n- Expanded air pushes the liquid down in its limb and up in the other limb\n- This proves that dark/black surfaces are better absorbers of heat radiation than light surfaces",
+      "key_points": ["Black surfaces absorb more heat", "Air in black flask expands more", "Demonstrates absorption of radiant heat"]
+    },
+    {
+      "id": "energy_pyq_diagram_4",
+      "type": "diagram_based",
+      "year": "Sample Paper 2",
+      "has_diagram": true,
+      "diagram_description": "A metal bar and a ring gauge. Initially the bar doesn't fit through the gauge. After cooling the metal bar in a refrigerator, it fits through the gauge.",
+      "question": "Raj tries to fit a metal bar into a gauge. At first, he could not. However, when the metal bar is placed inside the refrigerator, it fits into the gauge.\n\n(i) Name the process taking place in this case.\n(ii) Explain this process in terms of molecules of matter.",
+      "answer": "(i) The process is **Thermal Contraction** (or simply contraction).\n\n(ii) Molecular explanation:\n- When the metal bar is cooled in the refrigerator, its temperature decreases\n- At lower temperatures, the molecules of the metal have less kinetic energy and vibrate with smaller amplitude\n- The molecules move closer together, reducing the intermolecular spaces\n- This causes the metal bar to contract (shrink) in size\n- The reduced size allows it to fit through the gauge that it couldn't pass through before\n- This is the opposite of thermal expansion, where heating causes molecules to vibrate more and move apart",
+      "key_points": ["Thermal contraction", "Cooling reduces molecular vibration", "Molecules move closer, bar shrinks"]
+    },
+    {
+      "id": "energy_pyq_diagram_5",
+      "type": "diagram_based",
+      "year": "Sample Paper 2",
+      "has_diagram": true,
+      "diagram_description": "Cross-section of an oven showing bread placed below a red-hot heating element (not touching). The inner surface of the oven is silvery/reflective.",
+      "question": "Bread can be cooked by placing it below, but not touching, a heating element in an oven. The heating element glows red hot when electricity is passed through it.\n\n(a) Name the type of heat transfer that helps to cook the bread.\n(b) What is the purpose of the silvery inner surface of the oven?",
+      "answer": "(a) The main type of heat transfer is **RADIATION** (with some contribution from convection).\n\nExplanation: Since the bread is not touching the heating element, heat cannot transfer by conduction. The red-hot element radiates infrared (heat) radiation which travels through the air and is absorbed by the bread, cooking it. Some convection also occurs as hot air circulates in the oven.\n\n(b) Purpose of silvery inner surface:\nThe silvery (polished, shiny) surface REFLECTS the heat radiation back into the oven. This:\n- Prevents heat from escaping through the walls\n- Ensures more heat reaches the food\n- Reduces energy loss and improves cooking efficiency\n- Helps maintain uniform temperature inside the oven",
+      "key_points": ["Radiation is main mode", "Silvery surface reflects radiation", "Improves efficiency by reducing heat loss"]
+    },
+    {
+      "id": "energy_pyq_long_1",
+      "type": "long_answer",
+      "year": "Sample Paper 2",
+      "has_diagram": true,
+      "diagram_description": "Diagram of a thermos flask showing: stopper at top, trapped air layer, vacuum between double glass walls, reflective coating on inner walls, liquid inside, and outer casing.",
+      "question": "Complete the table showing how each part of a thermos flask reduces heat loss:\n\n| Part of the thermos flask | Reduces heat loss by |\n|--------------------------|---------------------|\n| Cork stopper | |\n| Trapped air | |\n| Vacuum between walls | |\n| Brightly polished inner walls | |",
+      "answer": "| Part of the thermos flask | Reduces heat loss by |\n|--------------------------|---------------------|\n| Cork stopper | Conduction and Convection - blocks heat escaping through the mouth; cork is a poor conductor |\n| Trapped air | Conduction - air is a poor conductor of heat; reduces heat transfer between layers |\n| Vacuum between walls | Conduction and Convection - vacuum has no particles, so heat cannot transfer by these modes |\n| Brightly polished inner walls | Radiation - shiny surfaces have low emissivity; they reflect heat radiation back rather than absorbing or emitting it |\n\n**Additional explanation:**\nThe thermos flask is designed to minimise all three modes of heat transfer:\n- The stopper and air pockets reduce conduction and convection\n- The vacuum eliminates conduction and convection between the walls\n- The polished surfaces reduce radiation\n\nThis keeps hot drinks hot and cold drinks cold for extended periods.",
+      "key_points": ["Stopper blocks mouth", "Air is poor conductor", "Vacuum prevents conduction/convection", "Polished surface reflects radiation"]
+    },
+    {
+      "id": "energy_pyq_numerical_1",
+      "type": "numerical",
+      "year": "Sample Paper 1",
+      "question": "Convert 25°C to Fahrenheit and Kelvin.",
+      "answer": "Given: Temperature = 25°C\n\n**To Fahrenheit:**\nFormula: F = (9/5) × C + 32\nF = (9/5) × 25 + 32\nF = 45 + 32\nF = **77°F**\n\n**To Kelvin:**\nFormula: K = C + 273\nK = 25 + 273\nK = **298 K**\n\nTherefore, 25°C = 77°F = 298 K",
+      "key_points": ["F = (9/5)C + 32", "K = C + 273"]
+    },
+    {
+      "id": "energy_pyq_numerical_2",
+      "type": "numerical",
+      "year": "Sample Paper 2",
+      "question": "Convert 45°C to Fahrenheit.",
+      "answer": "Given: Temperature = 45°C\n\nFormula: F = (9/5) × C + 32\n\nF = (9/5) × 45 + 32\nF = 9 × 9 + 32\nF = 81 + 32\nF = **113°F**\n\nTherefore, 45°C = 113°F",
+      "key_points": ["F = (9/5)C + 32", "Multiply by 9/5 then add 32"]
+    }
+  ]
+}

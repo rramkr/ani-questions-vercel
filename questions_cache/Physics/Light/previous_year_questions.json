@@ -1,0 +1,214 @@
+{
+  "subject": "Physics",
+  "chapter": "Light",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "light_pyq_mcq_1",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "The image formed in a plane mirror is_____.",
+      "options": ["a) Bigger than the size of an object", "b) Smaller than the size of an object", "c) Same as the size of an object", "d) Wider than the size of an object"],
+      "correct_answer": "c) Same as the size of an object",
+      "explanation": "A plane mirror forms a virtual, upright, and same-sized image. The image is laterally inverted and appears as far behind the mirror as the object is in front."
+    },
+    {
+      "id": "light_pyq_mcq_2",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "Rainbow is formed when sunlight gets_____.",
+      "options": ["a) Lateral displaced", "b) Dispersed", "c) Spectrum", "d) Reflected"],
+      "correct_answer": "b) Dispersed",
+      "explanation": "A rainbow forms when sunlight is dispersed (split into its component colours) by water droplets in the air. This separation of white light into its colours (VIBGYOR) is called dispersion."
+    },
+    {
+      "id": "light_pyq_mcq_3",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "A perpendicular line drawn to the reflecting surface at the point of incidence is called the_____.",
+      "options": ["a) Incident ray", "b) Normal", "c) Reflected ray", "d) Plane"],
+      "correct_answer": "b) Normal",
+      "explanation": "The normal is an imaginary perpendicular line drawn at the point where light hits a surface. Angles of incidence and reflection are measured from this normal line."
+    },
+    {
+      "id": "light_pyq_mcq_4",
+      "type": "mcq",
+      "year": "Sample Paper 2",
+      "has_diagram": true,
+      "diagram_description": "Two diagrams showing types of reflection: (X) shows parallel light rays hitting a smooth surface and reflecting as parallel rays (specular/regular reflection), (Y) shows parallel rays hitting a rough surface and scattering in different directions (diffused reflection).",
+      "question": "The diagrams show two kinds of reflection. Surface X shows regular (specular) reflection and Surface Y shows diffused reflection. Which of the following about surfaces X and Y is correct?",
+      "options": ["A) X: Plane mirror, Y: Glass block", "B) X: Plane mirror, Y: Rough paper", "C) X: Glass block, Y: Plane mirror", "D) X: Rough paper, Y: Glass block"],
+      "correct_answer": "B) X: Plane mirror, Y: Rough paper",
+      "explanation": "A smooth, polished surface like a plane mirror gives regular (specular) reflection where parallel rays remain parallel after reflection. A rough surface like paper causes diffused reflection where rays scatter in different directions."
+    },
+    {
+      "id": "light_pyq_mcq_5",
+      "type": "mcq",
+      "year": "Sample Paper 2",
+      "has_diagram": true,
+      "diagram_description": "Two overlapping spotlight circles labeled X and Y, with the overlapping region showing a cyan colour.",
+      "question": "Prerna has been assigned the job of light technician in her school. She is supposed to create a spotlight as shown. Which two colours of light would she prefer for X and Y to get the necessary colours?",
+      "options": ["a) Yellow and Red", "b) Green and Blue", "c) Red and Blue", "d) Blue and Magenta"],
+      "correct_answer": "b) Green and Blue",
+      "explanation": "In additive colour mixing (with light), Green + Blue = Cyan. The overlapping region shows cyan colour, so the spotlights X and Y must be green and blue."
+    },
+    {
+      "id": "light_pyq_name_1",
+      "type": "name_the_following",
+      "year": "Sample Paper 1",
+      "question": "An instrument used in submarines to observe objects above the surface of water.",
+      "answer": "Periscope",
+      "explanation": "A periscope uses mirrors (or prisms) arranged at 45° angles to allow a person in a submarine to see objects above the water surface while remaining submerged."
+    },
+    {
+      "id": "light_pyq_name_2",
+      "type": "name_the_following",
+      "year": "Sample Paper 1",
+      "question": "The reflection observed due to irregularities of the reflecting surface.",
+      "answer": "Diffused reflection (or Irregular reflection)",
+      "explanation": "When light hits a rough or irregular surface, it gets scattered in many directions. This is called diffused or irregular reflection. Examples: reflection from paper, walls, or unpolished surfaces."
+    },
+    {
+      "id": "light_pyq_name_3",
+      "type": "name_the_following",
+      "year": "Sample Paper 2",
+      "question": "The point on the reflecting surface where the incident ray strikes.",
+      "answer": "Point of incidence",
+      "explanation": "The point of incidence is where the incoming light ray meets the reflecting surface. The normal is drawn perpendicular to the surface at this point."
+    },
+    {
+      "id": "light_pyq_name_4",
+      "type": "name_the_following",
+      "year": "Sample Paper 2",
+      "question": "The left-right reversal of image in a plane mirror.",
+      "answer": "Lateral inversion",
+      "explanation": "Lateral inversion is the apparent reversal of the left and right sides in a plane mirror image. For example, your right hand appears as the left hand in your mirror image."
+    },
+    {
+      "id": "light_pyq_tf_1",
+      "type": "true_false",
+      "year": "Sample Paper 1",
+      "question": "The bouncing back of light from a surface is called transmission of light.",
+      "answer": "False",
+      "explanation": "The bouncing back of light from a surface is called REFLECTION, not transmission. Transmission is when light passes through a transparent medium."
+    },
+    {
+      "id": "light_pyq_tf_2",
+      "type": "true_false",
+      "year": "Sample Paper 2",
+      "question": "An opaque smooth object reflects most of the light that falls on it.",
+      "answer": "True",
+      "explanation": "An opaque object does not allow light to pass through it. If it is smooth (polished), it reflects most of the incident light, giving a strong specular reflection."
+    },
+    {
+      "id": "light_pyq_tf_3",
+      "type": "true_false",
+      "year": "Sample Paper 2",
+      "question": "A red rose in green light looks yellow.",
+      "answer": "False",
+      "explanation": "A red rose can only reflect red light. In green light, there is no red light for the rose to reflect. Therefore, the rose would appear dark/black, not yellow."
+    },
+    {
+      "id": "light_pyq_fill_1",
+      "type": "fill_in_blanks",
+      "year": "Sample Paper 2",
+      "question": "The bouncing back of light into the same medium after striking a surface is called _____.",
+      "answer": "Reflection",
+      "explanation": "When light hits a surface and bounces back into the same medium (like air), it is called reflection. This follows the laws of reflection."
+    },
+    {
+      "id": "light_pyq_fill_2",
+      "type": "fill_in_blanks",
+      "year": "Sample Paper 2",
+      "question": "The speed of light slows down when it travels through _____ materials (like glass or water).",
+      "answer": "optically denser (or denser/transparent)",
+      "explanation": "Light travels slower in optically denser media. In vacuum, light travels at 3×10⁸ m/s, but in glass or water, it slows down because of interaction with the material."
+    },
+    {
+      "id": "light_pyq_def_1",
+      "type": "definition",
+      "year": "Sample Paper 1",
+      "question": "Define: Refractive index",
+      "answer": "Refractive index (n) is the ratio of the speed of light in vacuum (or air) to the speed of light in a given medium. It can also be defined as the ratio of sine of angle of incidence to sine of angle of refraction.\n\nFormula: n = c/v = sin i/sin r\n\nwhere c = speed of light in vacuum, v = speed in medium",
+      "key_points": ["Ratio of speed of light in vacuum to speed in medium", "n = c/v = sin i/sin r", "Higher refractive index = denser medium"]
+    },
+    {
+      "id": "light_pyq_def_2",
+      "type": "definition",
+      "year": "Sample Paper 2",
+      "question": "Define: Lateral inversion",
+      "answer": "Lateral inversion is the apparent reversal of the left and right sides of an object when viewed in a plane mirror. The left side of the object appears as the right side in the image, and vice versa.",
+      "key_points": ["Left-right reversal in mirror", "Not an up-down reversal", "Example: word 'AMBULANCE' written reversed on vehicles"]
+    },
+    {
+      "id": "light_pyq_diff_1",
+      "type": "differentiate",
+      "year": "Sample Paper 2",
+      "question": "Differentiate between: Primary colours and Secondary colours of light",
+      "answer": "**Primary Colours (of light):**\n1. Cannot be formed by mixing other colours\n2. The three primary colours are: Red, Green, Blue (RGB)\n3. Mixing all three primaries gives white light\n4. Each primary + its complementary secondary = white\n\n**Secondary Colours (of light):**\n1. Formed by mixing two primary colours\n2. The three secondary colours are: Yellow, Cyan, Magenta\n3. Yellow = Red + Green\n4. Cyan = Green + Blue\n5. Magenta = Red + Blue\n\n**Example:** Mixing green and blue light gives cyan (secondary colour).",
+      "key_points": ["Primary: RGB, cannot be made by mixing", "Secondary: YCM, made from two primaries", "All primaries combined = white light"]
+    },
+    {
+      "id": "light_pyq_short_1",
+      "type": "short_answer",
+      "year": "Sample Paper 1",
+      "question": "State the two laws of reflection.",
+      "answer": "**First Law of Reflection:**\nThe incident ray, the reflected ray, and the normal at the point of incidence all lie in the same plane.\n\n**Second Law of Reflection:**\nThe angle of incidence is equal to the angle of reflection.\n(∠i = ∠r)\n\nThese laws apply to all types of reflecting surfaces - plane, curved, smooth, or rough.",
+      "key_points": ["Incident ray, reflected ray, normal are coplanar", "Angle of incidence = Angle of reflection"]
+    },
+    {
+      "id": "light_pyq_short_2",
+      "type": "short_answer",
+      "year": "Sample Paper 2",
+      "question": "Write any two characteristics of the image formed by a plane mirror.",
+      "answer": "Characteristics of image formed by a plane mirror:\n\n1. **Virtual image** - The image cannot be obtained on a screen; rays only appear to come from behind the mirror\n\n2. **Same size** - The image is the same size as the object (magnification = 1)\n\n3. **Upright/Erect** - The image is not inverted vertically\n\n4. **Laterally inverted** - Left and right sides are reversed\n\n5. **Same distance** - Image is formed as far behind the mirror as the object is in front",
+      "key_points": ["Virtual, erect, same size", "Laterally inverted", "Image distance = Object distance"]
+    },
+    {
+      "id": "light_pyq_short_3",
+      "type": "short_answer",
+      "year": "Sample Paper 2",
+      "question": "Which two factors are mainly responsible for the colour of an object?",
+      "answer": "The two main factors responsible for the colour of an object are:\n\n1. **The colour of light falling on the object (incident light)**\n   - If white light falls on an object, we see its true colour\n   - If coloured light falls, we may see a different colour or the object may appear dark\n\n2. **The pigment/material of the object (absorption and reflection properties)**\n   - Objects absorb certain wavelengths and reflect others\n   - The reflected wavelengths determine the colour we perceive\n   - A red apple reflects red light and absorbs other colours",
+      "key_points": ["Colour of incident light", "Absorption/reflection properties of object", "We see only reflected colours"]
+    },
+    {
+      "id": "light_pyq_diagram_1",
+      "type": "diagram_based",
+      "year": "Sample Paper 1",
+      "has_diagram": true,
+      "diagram_description": "A ray diagram showing an incident ray hitting a plane mirror XY at point O. The angle between the incident ray and the mirror surface is 60°. Normal N is perpendicular to the mirror at O. Four possible reflected rays are shown: A, B, C, and D at different angles.",
+      "question": "An incident ray strikes a plane mirror XY as shown in the ray diagram.\n\n(i) Identify the correct reflected ray (A, B, C, or D).\n(ii) If the angle between the mirror XY and the incident ray is 60°, what is the angle of reflection?\n(iii) State the two laws of reflection.\n(iv) Copy and complete the ray diagram to locate the image. Write any two characteristics of the image formed.",
+      "answer": "(i) The correct reflected ray is **C**.\nReason: Ray C is symmetric about the normal, making equal angles with the normal on both sides.\n\n(ii) If the angle between the incident ray and the mirror surface is 60°:\n- Angle of incidence (from normal) = 90° - 60° = **30°**\n- By the law of reflection, angle of reflection = angle of incidence\n- Therefore, angle of reflection = **30°**\n\n(iii) Laws of Reflection:\n1. The incident ray, reflected ray, and normal all lie in the same plane\n2. The angle of incidence equals the angle of reflection (∠i = ∠r)\n\n(iv) To locate the image:\n- Draw a perpendicular from the object to the mirror\n- Extend this perpendicular behind the mirror by the same distance\n- This gives the position of the virtual image\n\nTwo characteristics of the image:\n1. Virtual - cannot be caught on a screen\n2. Same size as the object\n3. Laterally inverted\n4. Same distance behind mirror as object is in front",
+      "key_points": ["Angle from mirror + angle from normal = 90°", "Equal angles from normal", "Image is virtual, same size, laterally inverted"]
+    },
+    {
+      "id": "light_pyq_diagram_2",
+      "type": "diagram_based",
+      "year": "Sample Paper 2",
+      "has_diagram": true,
+      "diagram_description": "A ray striking a mirror at 54° to the mirror surface (not to the normal).",
+      "question": "Look at the diagram and:\n(a) Calculate the angle of incidence and angle of reflection.\n(b) State the law of reflection you used to arrive at the answer.",
+      "answer": "(a) Given: Angle between incident ray and mirror surface = 54°\n\n**Angle of incidence** (measured from normal):\n= 90° - 54° = **36°**\n\n**Angle of reflection** (measured from normal):\nBy the law of reflection, angle of reflection = angle of incidence\n= **36°**\n\n(b) **Second Law of Reflection:**\nThe angle of incidence is equal to the angle of reflection.\n∠i = ∠r\n\nNote: Angles are always measured from the normal (perpendicular to the surface), not from the surface itself. Since the ray makes 54° with the surface, it makes (90° - 54°) = 36° with the normal.",
+      "key_points": ["Angle from surface + angle from normal = 90°", "∠i = ∠r (from normal)"]
+    },
+    {
+      "id": "light_pyq_numerical_1",
+      "type": "numerical",
+      "year": "Sample Paper 2",
+      "has_diagram": true,
+      "diagram_description": "A boy standing 4m from a plane mirror, with a clock hanging 2m behind him on the wall. The setup shows: clock --- 2m --- boy --- 4m --- mirror.",
+      "question": "A boy is standing 4m from a plane mirror in a room. He observes the image of a clock, which is hung 2m behind him on the wall.\n\n(a) What is the distance between the clock and the image of the boy in the plane mirror?\n(b) If the boy walks 2m towards the mirror, what is the distance between him and the clock's image in the mirror?",
+      "answer": "(a) Finding distance between clock and boy's image:\n\n- Boy is 4m in front of mirror → Boy's image is 4m behind mirror\n- Clock is 2m behind the boy → Clock is (4 + 2) = 6m in front of mirror\n\nDistance between clock and boy's image:\n= Distance of clock from mirror + Distance of boy's image from mirror\n= 6m + 4m = **10 metres**\n\n(b) After boy walks 2m towards mirror:\n\n- New position of boy = 4m - 2m = 2m from mirror\n- Clock is still (2 + 2) = 4m behind the boy = 6m from mirror\n- Clock's image is 6m behind the mirror\n\nDistance between boy and clock's image:\n= Boy's distance from mirror + Clock's image distance behind mirror\n= 2m + 6m = **8 metres**",
+      "key_points": ["Image distance = Object distance (from mirror)", "Clock position doesn't change when boy moves", "Add distances on opposite sides of mirror"]
+    },
+    {
+      "id": "light_pyq_long_1",
+      "type": "long_answer",
+      "year": "Sample Paper 2",
+      "question": "Complete the table below showing the colour absorbed and reflected when white light is thrown on different coloured objects:\n\n| Colour of object | Colour absorbed | Colour reflected |\n|-----------------|-----------------|------------------|\n| Magenta | | |\n| Cyan | | |\n| Yellow | | |\n| Red | | |",
+      "answer": "| Colour of object | Colour absorbed | Colour reflected |\n|-----------------|-----------------|------------------|\n| Magenta | Green (G) | Red + Blue (R + B) |\n| Cyan | Red (R) | Green + Blue (G + B) |\n| Yellow | Blue (B) | Red + Green (R + G) |\n| Red | Green + Blue (G + B) | Red (R) |\n\n**Explanation:**\n\n- **Magenta** = Red + Blue, so it absorbs the remaining primary (Green) and reflects Red and Blue\n- **Cyan** = Green + Blue, so it absorbs Red and reflects Green and Blue\n- **Yellow** = Red + Green, so it absorbs Blue and reflects Red and Green\n- **Red** is a primary colour, so it absorbs the other primaries (Green and Blue) and reflects only Red\n\n**Key principle:** An object appears coloured because it reflects those wavelengths and absorbs the complementary colours. In white light (which contains R+G+B), objects selectively absorb and reflect.",
+      "key_points": ["Secondary colours reflect two primaries, absorb one", "Primary colours reflect themselves, absorb other two", "White light = R + G + B"]
+    }
+  ]
+}

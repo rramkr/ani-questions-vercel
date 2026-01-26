@@ -1,0 +1,16 @@
+{
+  "subject": "Physics",
+  "chapter": "Light",
+  "sections": {
+    "textbook": [],
+    "exam": [
+      {"value": "previous_year_questions", "label": "Previous Exam Questions", "icon": "📋"}
+    ],
+    "miscellaneous": []
+  },
+  "section_labels": {
+    "textbook": "Textbook Questions",
+    "exam": "Practice Questions for Exam",
+    "miscellaneous": "Miscellaneous"
+  }
+}

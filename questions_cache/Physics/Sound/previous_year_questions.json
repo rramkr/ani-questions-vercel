@@ -1,0 +1,221 @@
+{
+  "subject": "Physics",
+  "chapter": "Sound",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "sound_pyq_mcq_1",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "A wave in which particles vibrate in the same direction as that of the sound.",
+      "options": ["a) Electromagnetic wave", "b) Transverse wave", "c) Longitudinal wave", "d) Radio wave"],
+      "correct_answer": "c) Longitudinal wave",
+      "explanation": "Sound in air is a longitudinal wave where particles vibrate parallel to the direction of wave propagation, creating compressions and rarefactions."
+    },
+    {
+      "id": "sound_pyq_mcq_2",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "The high-pressure region in longitudinal waves can otherwise be called as_____.",
+      "options": ["a) Rarefaction", "b) Expansion", "c) Compression", "d) Transition"],
+      "correct_answer": "c) Compression",
+      "explanation": "In longitudinal waves, compression is the region where particles are close together, creating high pressure. Rarefaction is the low-pressure region where particles are spread apart."
+    },
+    {
+      "id": "sound_pyq_mcq_3",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "Relation between time period (T) and frequency (f) is_____.",
+      "options": ["a) f = 1/T", "b) f = T", "c) f² = T", "d) f = T²"],
+      "correct_answer": "a) f = 1/T",
+      "explanation": "Frequency and time period have an inverse relationship. If a wave completes one oscillation in T seconds, then it completes 1/T oscillations per second (which is the frequency)."
+    },
+    {
+      "id": "sound_pyq_mcq_4",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "The amplitude of vibration is doubled; the loudness of a sound increases by_____ times.",
+      "options": ["a) two", "b) three", "c) four", "d) five"],
+      "correct_answer": "c) four",
+      "explanation": "Loudness is proportional to the square of amplitude (Loudness ∝ Amplitude²). If amplitude doubles, loudness increases by 2² = 4 times."
+    },
+    {
+      "id": "sound_pyq_mcq_5",
+      "type": "mcq",
+      "year": "Sample Paper 1",
+      "question": "The SI unit of frequency is_____.",
+      "options": ["a) decibel", "b) hertz", "c) second", "d) metre"],
+      "correct_answer": "b) hertz",
+      "explanation": "Frequency is measured in hertz (Hz), which is equivalent to cycles per second (s⁻¹). Decibel is the unit of loudness, not frequency."
+    },
+    {
+      "id": "sound_pyq_mcq_6",
+      "type": "mcq",
+      "year": "Sample Paper 2",
+      "question": "Mice communicate at 70,000 Hz with one another. Cats cannot detect this frequency because:",
+      "options": ["a) Cats cannot hear such high frequencies", "b) They can hear them only if they are close to the mice", "c) The frequency is less than the lowest frequency a cat can hear", "d) None of the above"],
+      "correct_answer": "a) Cats cannot hear such high frequencies",
+      "explanation": "70,000 Hz (70 kHz) is ultrasonic - beyond the hearing range of cats and humans. Ultrasonic sounds have frequencies above 20,000 Hz."
+    },
+    {
+      "id": "sound_pyq_name_1",
+      "type": "name_the_following",
+      "year": "Sample Paper 1",
+      "question": "A pair of stretchable ligaments in larynx.",
+      "answer": "Vocal cords",
+      "explanation": "Vocal cords are the stretchable ligaments in the larynx (voice box) that vibrate when air passes through them, producing voice/sound."
+    },
+    {
+      "id": "sound_pyq_name_2",
+      "type": "name_the_following",
+      "year": "Sample Paper 1",
+      "question": "An instrument made of steel used in laboratories for producing sound vibrations.",
+      "answer": "Tuning fork",
+      "explanation": "A tuning fork is a steel instrument that produces sound vibrations of a specific, steady pitch (e.g., 256 Hz) when struck."
+    },
+    {
+      "id": "sound_pyq_name_3",
+      "type": "name_the_following",
+      "year": "Sample Paper 2",
+      "question": "Sounds produced by vibrations with frequency between 20 Hz and 20,000 Hz.",
+      "answer": "Audible sounds",
+      "explanation": "The human ear can detect sounds in the frequency range of 20 Hz to 20,000 Hz (20 kHz). These are called audible sounds."
+    },
+    {
+      "id": "sound_pyq_name_4",
+      "type": "name_the_following",
+      "year": "Sample Paper 2",
+      "question": "Method that uses high frequency sound waves to produce images of the cardiovascular system.",
+      "answer": "Ultrasound imaging / Echocardiography",
+      "explanation": "Echocardiography uses high-frequency ultrasonic waves (above 20 kHz) to create images of the heart and blood vessels for medical diagnosis."
+    },
+    {
+      "id": "sound_pyq_tf_1",
+      "type": "true_false",
+      "year": "Sample Paper 1",
+      "question": "Vibrations of large amplitude or intensity produce soft sound.",
+      "answer": "False",
+      "explanation": "Large amplitude produces LOUD sound, not soft sound. Loudness is proportional to the square of amplitude - the greater the amplitude, the louder the sound."
+    },
+    {
+      "id": "sound_pyq_def_1",
+      "type": "definition",
+      "year": "Sample Paper 1",
+      "question": "Define: Time period",
+      "answer": "Time period is the time taken for one complete oscillation or vibration. It is measured in seconds (s).",
+      "key_points": ["Time for one complete oscillation", "Measured in seconds", "Inversely related to frequency (T = 1/f)"]
+    },
+    {
+      "id": "sound_pyq_def_2",
+      "type": "definition",
+      "year": "Sample Paper 1",
+      "question": "Define: Amplitude",
+      "answer": "Amplitude is the maximum displacement of a vibrating particle from its mean (rest) position. It determines the loudness of sound.",
+      "key_points": ["Maximum displacement from mean position", "Determines loudness", "Greater amplitude = louder sound"]
+    },
+    {
+      "id": "sound_pyq_def_3",
+      "type": "definition",
+      "year": "Sample Paper 2",
+      "question": "Define: Frequency",
+      "answer": "Frequency is the number of oscillations or vibrations completed by a particle per second. It is measured in hertz (Hz).",
+      "key_points": ["Number of oscillations per second", "Unit is hertz (Hz)", "Determines pitch of sound"]
+    },
+    {
+      "id": "sound_pyq_def_4",
+      "type": "definition",
+      "year": "Sample Paper 2",
+      "question": "Define: Longitudinal wave",
+      "answer": "A longitudinal wave is a wave in which the particles of the medium vibrate parallel to (in the same direction as) the direction of wave propagation. Sound waves in air are longitudinal waves.",
+      "key_points": ["Particles vibrate parallel to wave direction", "Creates compressions and rarefactions", "Example: sound waves in air"]
+    },
+    {
+      "id": "sound_pyq_diff_1",
+      "type": "differentiate",
+      "year": "Sample Paper 1",
+      "question": "Differentiate between: Wavelength and Frequency",
+      "answer": "**Wavelength (λ):**\n1. Definition: Distance between successive crests or troughs\n2. Unit: Metres (m)\n3. Spatial measurement (distance)\n\n**Frequency (f):**\n1. Definition: Number of oscillations per second\n2. Unit: Hertz (Hz)\n3. Temporal measurement (time-based)\n\n**Relation:** v = fλ (where v is velocity). For a given medium, shorter wavelength means higher frequency.\n\n**Example:** In air, a 340 Hz tone has wavelength ≈ 1 m (since 340 m/s = 340 Hz × 1 m)",
+      "key_points": ["Wavelength is spatial, frequency is temporal", "Related by v = fλ", "Inversely proportional for fixed speed"]
+    },
+    {
+      "id": "sound_pyq_diff_2",
+      "type": "differentiate",
+      "year": "Sample Paper 1",
+      "question": "Differentiate between: Ultrasonic sound and Infrasonic sound",
+      "answer": "**Ultrasonic Sound:**\n1. Frequency: Greater than 20,000 Hz (20 kHz)\n2. Inaudible to humans (too high)\n3. Uses: SONAR, medical imaging, cleaning\n4. Example: Bat calls (40 kHz)\n\n**Infrasonic Sound:**\n1. Frequency: Less than 20 Hz\n2. Inaudible to humans (too low)\n3. Produced by: Earthquakes, volcanoes, elephants\n4. Example: Earthquake tremors (5 Hz)",
+      "key_points": ["Ultrasonic > 20 kHz, Infrasonic < 20 Hz", "Both inaudible to humans", "Different uses and sources"]
+    },
+    {
+      "id": "sound_pyq_diff_3",
+      "type": "differentiate",
+      "year": "Sample Paper 2",
+      "question": "Differentiate between: Light energy and Sound energy",
+      "answer": "**Light Energy:**\n1. Type: Electromagnetic wave\n2. Medium: Does not need a medium (travels through vacuum)\n3. Speed: ~3 × 10⁸ m/s\n4. Wave type: Transverse\n\n**Sound Energy:**\n1. Type: Mechanical wave\n2. Medium: Needs a medium (solid, liquid, or gas)\n3. Speed: ~340 m/s in air\n4. Wave type: Longitudinal (compressions and rarefactions)\n\n**Example:** Sunlight travels through space (vacuum); sound of a clap travels through air.",
+      "key_points": ["Light is electromagnetic, sound is mechanical", "Light needs no medium, sound needs medium", "Light much faster than sound"]
+    },
+    {
+      "id": "sound_pyq_short_1",
+      "type": "short_answer",
+      "year": "Sample Paper 1",
+      "question": "What is the range of frequency of (a) audible sound (b) infrasonic sound?",
+      "answer": "(a) Audible sound: 20 Hz to 20,000 Hz (20 kHz)\n(b) Infrasonic sound: Below 20 Hz\n\nSounds below 20 Hz are too low-pitched for humans to hear, while sounds above 20 kHz (ultrasonic) are too high-pitched."
+    },
+    {
+      "id": "sound_pyq_short_2",
+      "type": "short_answer",
+      "year": "Sample Paper 2",
+      "question": "There is an explosion in the sea, underwater. A scuba diver deep in water and a boatman on the surface of the water hear the explosion.\n(a) Who would hear the explosion first? The boatman or the diver?\n(b) Why? Explain your answer.",
+      "answer": "(a) The scuba diver would hear the explosion first.\n\n(b) Sound travels faster in water (~1500 m/s) than in air (~340 m/s). This is because water molecules are more closely packed than air molecules, allowing sound vibrations to pass more quickly through water. Since the diver is in water and the boatman is in air, the sound reaches the diver first.",
+      "key_points": ["Diver hears first", "Sound faster in water (~1500 m/s) than air (~340 m/s)", "Denser medium = faster sound travel"]
+    },
+    {
+      "id": "sound_pyq_diagram_1",
+      "type": "diagram_based",
+      "year": "Sample Paper 1",
+      "has_diagram": true,
+      "diagram_description": "Two wave diagrams are shown - one labeled 'Louder' with larger amplitude (taller peaks and deeper troughs) and one labeled 'Softer' with smaller amplitude (shorter peaks and shallower troughs). Both have the same wavelength/frequency.",
+      "question": "Study the picture and answer the questions:\n\n(i) In which case is the loudness of sound greater and why?\n(ii) Name the factor based on which you drew the above conclusion.\n(iii) Write any two factors other than the one mentioned above on which the loudness of a sound depends.",
+      "answer": "(i) The loudness is greater in the upper wave (marked 'Louder'). This is because the upper wave has a larger amplitude. Loudness is proportional to the square of amplitude, so larger amplitude produces louder sound.\n\n(ii) The factor is **Amplitude** - the maximum displacement of vibrating particles from their mean position.\n\n(iii) Two other factors affecting loudness:\n1. Distance from the source - sound becomes softer as distance increases due to spreading and absorption\n2. Power/energy of the source - more powerful vibrations produce louder sound\n3. Surface area of the vibrating body - larger vibrating surfaces produce louder sound"
+    },
+    {
+      "id": "sound_pyq_numerical_1",
+      "type": "numerical",
+      "year": "Sample Paper 1",
+      "question": "Some materials and the speed of sound in them are given below:\n\n| Material | Speed of sound (m/s) |\n|----------|---------------------|\n| X | 5100 |\n| Y | 250 |\n| Z | 1325 |\n\n(i) From the materials X, Y, Z, which one is a solid?\n(ii) Calculate the time taken for sound to travel 100 metres through the material 'Y'.",
+      "answer": "(i) Material **X** is a solid.\nReason: Sound travels fastest in solids (particles are closest together), slower in liquids, and slowest in gases. X has the highest speed (5100 m/s), indicating it is a solid.\n\n(ii) Time = Distance / Speed\nTime = 100 m / 250 m/s\nTime = **0.4 seconds** (or 0.40 s)",
+      "key_points": ["Sound fastest in solids", "Time = Distance/Speed"]
+    },
+    {
+      "id": "sound_pyq_numerical_2",
+      "type": "numerical",
+      "year": "Sample Paper 1",
+      "question": "A sailor on a ship sees a lightning flash and hears the thunder 5 seconds later. If the speed of sound in air at 20°C is 343 metres/second, how far away is the lightning strike?",
+      "answer": "Given:\n- Time delay = 5 seconds\n- Speed of sound = 343 m/s\n- (Light travels almost instantaneously, so we only consider sound travel time)\n\nDistance = Speed × Time\nDistance = 343 m/s × 5 s\nDistance = **1715 metres** (or approximately 1.7 km)",
+      "key_points": ["Light travels almost instantly", "Distance = Speed × Time"]
+    },
+    {
+      "id": "sound_pyq_numerical_3",
+      "type": "numerical",
+      "year": "Sample Paper 1",
+      "question": "A pendulum oscillates 60 times in 10 seconds. Find:\n(a) Time period\n(b) Frequency",
+      "answer": "Given: 60 oscillations in 10 seconds\n\n(a) Time period (T) = Total time / Number of oscillations\nT = 10 s / 60\nT = **0.167 seconds** (or 1/6 s ≈ 0.17 s)\n\n(b) Frequency (f) = Number of oscillations / Total time\nf = 60 / 10 s\nf = **6 Hz**\n\nAlternatively: f = 1/T = 1/0.167 = 6 Hz",
+      "key_points": ["T = Total time / Number of oscillations", "f = 1/T"]
+    },
+    {
+      "id": "sound_pyq_numerical_4",
+      "type": "numerical",
+      "year": "Sample Paper 2",
+      "question": "A pendulum makes 5 oscillations in 10 seconds, while a mosquito flaps its wings 400 times in one second.\n(i) Calculate the frequency of the pendulum and the mosquito.\n(ii) Which of them would you hear? Why?\n(iii) Give any two uses of ultrasonic sound waves.",
+      "answer": "(i) Pendulum frequency = 5 oscillations / 10 seconds = **0.5 Hz**\n    Time period of pendulum = 10/5 = **2 seconds**\n    \n    Mosquito frequency = 400 flaps / 1 second = **400 Hz**\n\n(ii) We would hear the **mosquito**.\nReason: The mosquito's wing frequency (400 Hz) falls within the audible range (20 Hz - 20,000 Hz). The pendulum's frequency (0.5 Hz) is infrasonic (below 20 Hz) and cannot be heard by humans.\n\n(iii) Two uses of ultrasonic sound waves:\n1. **SONAR** - for detecting underwater objects, measuring ocean depth\n2. **Medical imaging (ultrasonography)** - to view internal organs, during pregnancy scans\n3. Cleaning jewelry and surgical instruments\n4. Detecting flaws in metal structures",
+      "key_points": ["Audible range: 20 Hz - 20 kHz", "Pendulum is infrasonic", "Mosquito is audible"]
+    },
+    {
+      "id": "sound_pyq_case_1",
+      "type": "case_study",
+      "year": "Sample Paper 1",
+      "question": "A certain device 'X' is used to detect and locate objects underwater. It works by sending a wave 'Y' through water and receiving the echoes that bounce back from the objects. It provides information such as the object's distance. It is commonly used in submarines, fishing, and ocean exploration to navigate and find underwater targets.\n\n(i) Name the device 'X' and the wave 'Y' mentioned in the passage.\n(ii) The submarine uses device 'X' to detect an underwater object. It emits a sound wave and receives the echo 2 seconds later. If the speed of sound in water is approximately 1500 m/s, what is the distance to the object?\n(iii) Write any two uses of ultrasonic sounds.",
+      "answer": "(i) Device 'X' = **SONAR** (Sound Navigation And Ranging) or Echo sounder\n    Wave 'Y' = **Ultrasonic sound wave** (high-frequency sound wave above 20 kHz)\n\n(ii) Given:\n- Total time for echo = 2 seconds (round trip: to object and back)\n- Speed of sound in water = 1500 m/s\n\nOne-way time = 2 s / 2 = 1 second\nDistance to object = Speed × Time\nDistance = 1500 m/s × 1 s = **1500 metres** (or 1.5 km)\n\n(iii) Two uses of ultrasonic sounds:\n1. **SONAR** - detecting submarines, fish schools, measuring ocean depth\n2. **Medical diagnosis** - ultrasound scans, echocardiography\n3. **Industrial cleaning** - cleaning precision parts, jewelry\n4. **Flaw detection** - finding cracks in metal structures",
+      "key_points": ["SONAR uses ultrasonic waves", "Echo time is round trip - divide by 2", "Sound travels at ~1500 m/s in water"]
+    }
+  ]
+}
