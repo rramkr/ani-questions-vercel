@@ -173,6 +173,7 @@
       "type": "diagram_based",
       "year": "Sample Paper 1",
       "has_diagram": true,
+      "diagram_image": "./questions_cache/Physics/diagrams/wave_amplitude_table.jpg",
       "diagram_description": "Two wave diagrams are shown - one labeled 'Louder' with larger amplitude (taller peaks and deeper troughs) and one labeled 'Softer' with smaller amplitude (shorter peaks and shallower troughs). Both have the same wavelength/frequency.",
       "question": "Study the picture and answer the questions:\n\n(i) In which case is the loudness of sound greater and why?\n(ii) Name the factor based on which you drew the above conclusion.\n(iii) Write any two factors other than the one mentioned above on which the loudness of a sound depends.",
       "answer": "(i) The loudness is greater in the upper wave (marked 'Louder'). This is because the upper wave has a larger amplitude. Loudness is proportional to the square of amplitude, so larger amplitude produces louder sound.\n\n(ii) The factor is **Amplitude** - the maximum displacement of vibrating particles from their mean position.\n\n(iii) Two other factors affecting loudness:\n1. Distance from the source - sound becomes softer as distance increases due to spreading and absorption\n2. Power/energy of the source - more powerful vibrations produce louder sound\n3. Surface area of the vibrating body - larger vibrating surfaces produce louder sound"
@@ -205,6 +206,8 @@
       "id": "sound_pyq_numerical_4",
       "type": "numerical",
       "year": "Sample Paper 2",
+      "has_diagram": true,
+      "diagram_image": "./questions_cache/Physics/diagrams/wave_amplitude_loudness.jpg",
       "question": "A pendulum makes 5 oscillations in 10 seconds, while a mosquito flaps its wings 400 times in one second.\n(i) Calculate the frequency of the pendulum and the mosquito.\n(ii) Which of them would you hear? Why?\n(iii) Give any two uses of ultrasonic sound waves.",
       "answer": "(i) Pendulum frequency = 5 oscillations / 10 seconds = **0.5 Hz**\n    Time period of pendulum = 10/5 = **2 seconds**\n    \n    Mosquito frequency = 400 flaps / 1 second = **400 Hz**\n\n(ii) We would hear the **mosquito**.\nReason: The mosquito's wing frequency (400 Hz) falls within the audible range (20 Hz - 20,000 Hz). The pendulum's frequency (0.5 Hz) is infrasonic (below 20 Hz) and cannot be heard by humans.\n\n(iii) Two uses of ultrasonic sound waves:\n1. **SONAR** - for detecting underwater objects, measuring ocean depth\n2. **Medical imaging (ultrasonography)** - to view internal organs, during pregnancy scans\n3. Cleaning jewelry and surgical instruments\n4. Detecting flaws in metal structures",
       "key_points": ["Audible range: 20 Hz - 20 kHz", "Pendulum is infrasonic", "Mosquito is audible"]
