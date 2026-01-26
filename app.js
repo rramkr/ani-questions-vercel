@@ -2912,7 +2912,6 @@ function renderNumericalQuestion(q, index, showUnansweredHighlight = false) {
                 <strong>Given:</strong> ${givenData.join(', ')}
             </div>
         ` : ''}
-        ${q.formula ? `<div class="formula"><strong>Formula:</strong> ${q.formula}</div>` : ''}
         <textarea class="text-area ${showUnansweredHighlight ? 'unanswered-input' : ''}" placeholder="Show your working and answer..."
                   oninput="handleAnswerChange('${q.id}', this.value)">${escapeHtml(userAnswer)}</textarea>
     `;
@@ -3259,6 +3258,7 @@ function renderNumericalAnswer(q) {
     const justification = q.source_section ? `Source: "${q.source_section}"` : '';
     return `
         <div class="correct-answer">
+            ${q.formula ? `<div class="formula"><strong>Formula:</strong> ${q.formula}</div>` : ''}
             <strong>Solution:</strong>
             ${steps.length > 0 ? `
                 <ol class="solution-steps">
