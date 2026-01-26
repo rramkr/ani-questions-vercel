@@ -91,9 +91,22 @@
         "This breakfast <b>means a lot to me</b> because it is the only time we all meet properly. During the week, everyone is busy with their own things. But on this Sunday, we are just a family having fun together. I have learned so many things during these breakfasts. My uncle gives me advice, my aunt encourages me, and my cousin and I share our interests. Our bond has grown stronger because of this tradition.",
         "This tradition <b>is special because</b> it keeps our family connected. <b>It taught me</b> that family relationships need time and effort. <b>I will always</b> cherish our monthly breakfasts and hope to continue this tradition forever."
       ]
+    },
+    {
+      "id": "desc_cw_8",
+      "title": "My Favorite Subject",
+      "question": "Write a descriptive essay on 'My Favorite Subject'.",
+      "answer": "<b>Everyone has</b> a subject they enjoy the most at school. <b>For me</b>, that subject is Mathematics. I find it very interesting because it helps me think clearly and solve problems in many different ways.\n\n<b>When I look at</b> a maths problem, I see a puzzle waiting to be solved. I love the way numbers fit together like pieces of a jigsaw. I can spend hours practising maths without getting bored. <b>I even use</b> maths when I play the mridangam, which is a percussion instrument. The rhythmic patterns and beats in music are all based on mathematical calculations. Maths helps me understand timing and rhythm better.\n\nI feel very happy when I can use maths in real-life situations. Whether it is calculating distances, managing time, or understanding patterns, maths is everywhere. I also enjoy teaching my friends and my cousin when they need help with their homework. Explaining maths to others makes me understand it even better and enjoy it even more. <b>I hear</b> them saying \"Now I understand!\" and that makes me proud.\n\nMaths fascinates me because it is connected to everything around us. Even when I study other subjects like history, I use simple maths to remember important dates and years. I believe maths is also connected to new technologies like artificial intelligence. Whenever I feel bored or tired, I like to solve maths problems. It helps me relax and feel fresh again. <b>For me</b>, maths is like music. It has patterns, rhythm, and beauty.\n\nMathematics <b>is special because</b> it trains my mind to think logically and solve problems. <b>It taught me</b> that there is always a solution if we think carefully. <b>I will always</b> love maths, and it will remain my favorite subject forever.",
+      "paragraphs": [
+        "<b>Everyone has</b> a subject they enjoy the most at school. <b>For me</b>, that subject is Mathematics. I find it very interesting because it helps me think clearly and solve problems in many different ways.",
+        "<b>When I look at</b> a maths problem, I see a puzzle waiting to be solved. I love the way numbers fit together like pieces of a jigsaw. I can spend hours practising maths without getting bored. <b>I even use</b> maths when I play the mridangam, which is a percussion instrument. The rhythmic patterns and beats in music are all based on mathematical calculations. Maths helps me understand timing and rhythm better.",
+        "I feel very happy when I can use maths in real-life situations. Whether it is calculating distances, managing time, or understanding patterns, maths is everywhere. I also enjoy teaching my friends and my cousin when they need help with their homework. Explaining maths to others makes me understand it even better and enjoy it even more. <b>I hear</b> them saying \"Now I understand!\" and that makes me proud.",
+        "Maths fascinates me because it is connected to everything around us. Even when I study other subjects like history, I use simple maths to remember important dates and years. I believe maths is also connected to new technologies like artificial intelligence. Whenever I feel bored or tired, I like to solve maths problems. It helps me relax and feel fresh again. <b>For me</b>, maths is like music. It has patterns, rhythm, and beauty.",
+        "Mathematics <b>is special because</b> it trains my mind to think logically and solve problems. <b>It taught me</b> that there is always a solution if we think carefully. <b>I will always</b> love maths, and it will remain my favorite subject forever."
+      ]
     }
   ],
-  "total_count": 7,
+  "total_count": 8,
   "subject": "English E1",
   "chapter": "Descriptive Essay"
 }
