@@ -1154,6 +1154,21 @@ body {
     line-height: 1.7;
 }
 
+.key-points {
+    margin-top: 24px;
+    padding: 16px;
+    background: #f0f9ff;
+    border-left: 4px solid #0ea5e9;
+    border-radius: 0 10px 10px 0;
+}
+
+.key-points strong {
+    color: #0369a1;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
 .key-points ul {
     margin-top: 10px;
     padding-left: 24px;
@@ -1161,7 +1176,8 @@ body {
 
 .key-points li {
     margin-bottom: 6px;
-    font-size: 1rem;
+    font-size: 0.95rem;
+    color: #475569;
 }
 
 .tricky-note {
