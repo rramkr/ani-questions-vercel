@@ -6,352 +6,562 @@
     {
       "id": "eve6_mcq_1",
       "question": "What percentage of total water on earth is potable (fit for drinking)?",
-      "options": ["a) 97.3%", "b) 50%", "c) 2.7%", "d) 25%"],
+      "options": ["a) 97.3%", "b) 71%", "c) 2.7%", "d) 50%"],
       "correct_answer": "c) 2.7%",
       "explanation": "Only about 2.7% of total water on the earth is potable. Most of the water on our planet is salty."
     },
     {
       "id": "eve6_mcq_2",
-      "question": "What is the main cause of imbalance that threatens all life forms today?",
-      "options": ["a) Climate change", "b) Overpopulation", "c) Natural disasters", "d) Volcanic eruptions"],
-      "correct_answer": "b) Overpopulation",
-      "explanation": "The main cause of imbalance that threatens all life forms today is overpopulation, leading to overexploitation of natural resources."
-    },
-    {
-      "id": "eve6_mcq_3",
-      "question": "What have been dug to provide water for irrigation, making agriculture less weather dependent?",
-      "options": ["a) Tunnels", "b) Wells", "c) Canals", "d) Lakes"],
-      "correct_answer": "c) Canals",
-      "explanation": "Canals have been dug to provide water for irrigation, making agriculture not totally weather dependent today."
-    },
-    {
-      "id": "eve6_mcq_4",
-      "question": "What are seas and rivers used for transportation?",
-      "options": ["a) Cars and buses", "b) Ships and boats", "c) Planes", "d) Trains"],
-      "correct_answer": "b) Ships and boats",
-      "explanation": "Seas and rivers are used for transportation by means of ships and boats."
-    },
-    {
-      "id": "eve6_mcq_5",
-      "question": "What is the purpose of building dams on rivers?",
-      "options": ["a) Only for recreation", "b) To store water and generate electricity", "c) To create fish farms", "d) To block migration"],
-      "correct_answer": "b) To store water and generate electricity",
-      "explanation": "Dams have been made on rivers to store water and to generate electricity."
-    },
-    {
-      "id": "eve6_mcq_6",
-      "question": "Underground water is pumped out by:",
-      "options": ["a) Dams", "b) Canals", "c) Tubewells, wells and submersible pumps", "d) Rivers"],
-      "correct_answer": "c) Tubewells, wells and submersible pumps",
-      "explanation": "Underground water is pumped out by tubewells, wells and submersible pumps for domestic, industrial and agricultural use."
-    },
-    {
-      "id": "eve6_mcq_7",
-      "question": "What happens when industries discharge heated water into rivers and ponds?",
-      "options": ["a) Water becomes cleaner", "b) Thermal pollution occurs", "c) Fish grow faster", "d) Plants bloom"],
-      "correct_answer": "b) Thermal pollution occurs",
-      "explanation": "Many industries use water for cooling purposes. This heated water is discharged in ponds, rivers, etc. causing thermal pollution."
-    },
-    {
-      "id": "eve6_mcq_8",
-      "question": "What does the rise in temperature in waterbodies cause?",
-      "options": ["a) More fish growth", "b) Death of fish and plants, reduced oxygen levels", "c) Better water quality", "d) Increased rainfall"],
-      "correct_answer": "b) Death of fish and plants, reduced oxygen levels",
-      "explanation": "The rise in temperature in waterbodies kills many fish and plants. Rise in temperature also reduces oxygen level in water."
-    },
-    {
-      "id": "eve6_mcq_9",
-      "question": "What do oil and grease leaking from marine tankers cause?",
-      "options": ["a) Better water quality", "b) A coat on water surface that clogs gills of aquatic animals", "c) Improved marine life", "d) Cleaner beaches"],
-      "correct_answer": "b) A coat on water surface that clogs gills of aquatic animals",
-      "explanation": "Oil and grease leaking from tanks form a coat on water surface. They also clog gills of aquatic animals causing large scale death of organisms."
-    },
-    {
-      "id": "eve6_mcq_10",
-      "question": "When did the Exxon Valdez oil spill occur?",
-      "options": ["a) March 23, 1979", "b) March 23, 1989", "c) March 23, 1999", "d) March 23, 2009"],
-      "correct_answer": "b) March 23, 1989",
-      "explanation": "On March 23, 1989, the oil tanker Exxon Valdez left its harbour on the coast of Alaska with 53 million gallons of crude oil."
-    },
-    {
-      "id": "eve6_mcq_11",
-      "question": "How many gallons of oil leaked into Prince William Sound in the Exxon Valdez disaster?",
-      "options": ["a) 1 million", "b) 5 million", "c) 11 million", "d) 53 million"],
-      "correct_answer": "c) 11 million",
-      "explanation": "The Exxon Valdez struck the Bligh Reef resulting in a leakage of 11 million gallons of oil into Prince William Sound."
-    },
-    {
-      "id": "eve6_mcq_12",
-      "question": "How many sea birds were killed in the Exxon Valdez oil spill?",
-      "options": ["a) Thousands", "b) 3 to 5 lakh", "c) 10 lakh", "d) 1 crore"],
-      "correct_answer": "b) 3 to 5 lakh",
-      "explanation": "Between 3 to 5 lakh sea birds were killed and billions of salmon and herring eggs were destroyed in the Exxon Valdez oil spill."
-    },
-    {
-      "id": "eve6_mcq_13",
-      "question": "How long could some shoreline habitats like mussel beds take to recover from the Exxon Valdez spill?",
-      "options": ["a) 5 years", "b) 10 years", "c) 20 years", "d) 30 years"],
-      "correct_answer": "d) 30 years",
-      "explanation": "Researchers estimate that some shoreline habitats, such as contaminated mussel beds, could take up to 30 years to recover."
-    },
-    {
-      "id": "eve6_mcq_14",
-      "question": "What is soil?",
-      "options": ["a) A type of rock", "b) A very important natural resource", "c) A type of water", "d) A type of air"],
-      "correct_answer": "b) A very important natural resource",
-      "explanation": "Soil is a very important natural resource. Much of our land is covered with soil in which plants grow."
-    },
-    {
-      "id": "eve6_mcq_15",
-      "question": "What has the need for increased yield forced farmers to use?",
-      "options": ["a) More water", "b) Chemical fertilisers", "c) Better seeds only", "d) Manual labor"],
-      "correct_answer": "b) Chemical fertilisers",
-      "explanation": "Need for increased yield has forced farmers to use chemical fertilisers which ultimately ruin soil fertility."
-    },
-    {
-      "id": "eve6_mcq_16",
-      "question": "What do chemical pesticides, insecticides, and weedicides do?",
-      "options": ["a) Improve soil", "b) Pollute the soil and kill beneficial insects and worms", "c) Help plants grow", "d) Increase water retention"],
-      "correct_answer": "b) Pollute the soil and kill beneficial insects and worms",
-      "explanation": "Chemical pesticides, insecticides, weedicides pollute the soil and kill beneficial insects and worms. They also pollute waterbodies."
-    },
-    {
-      "id": "eve6_mcq_17",
-      "question": "What should replace chemical fertilisers and pesticides?",
-      "options": ["a) More chemicals", "b) Organic ones which do not harm the soil", "c) Nothing", "d) Plastic"],
-      "correct_answer": "b) Organic ones which do not harm the soil",
-      "explanation": "Chemical fertilisers and pesticides should be replaced by organic ones which do not harm the soil."
-    },
-    {
-      "id": "eve6_mcq_18",
-      "question": "What pollutes the soil when industrial and domestic wastes are dumped?",
-      "options": ["a) Clean water", "b) Toxic chemicals present in these wastes", "c) Fresh air", "d) Sunlight"],
-      "correct_answer": "b) Toxic chemicals present in these wastes",
-      "explanation": "Industrial and domestic wastes are dumped in the soil. The toxic chemicals present in these wastes pollute soil."
-    },
-    {
-      "id": "eve6_mcq_19",
-      "question": "Why is air heavily polluted?",
-      "options": ["a) Due to plant growth", "b) Due to human activities", "c) Due to rainfall", "d) Due to natural processes only"],
-      "correct_answer": "b) Due to human activities",
-      "explanation": "Air is polluted heavily due to human activities."
-    },
-    {
-      "id": "eve6_mcq_20",
-      "question": "What do vehicles mostly run on?",
-      "options": ["a) Water", "b) Petrol and diesel", "c) Solar energy", "d) Wind"],
-      "correct_answer": "b) Petrol and diesel",
-      "explanation": "Vehicles are used for transport. Vehicles mostly run on petrol and diesel."
-    },
-    {
-      "id": "eve6_mcq_21",
-      "question": "What harmful emissions do auto exhausts contain?",
-      "options": ["a) Only oxygen", "b) Carbon monoxide, carbon dioxide, nitrogen oxide and hydrocarbons", "c) Only water vapor", "d) Pure air"],
-      "correct_answer": "b) Carbon monoxide, carbon dioxide, nitrogen oxide and hydrocarbons",
-      "explanation": "Auto exhausts contain many harmful emissions like carbon monoxide, carbon dioxide, nitrogen oxide and hydrocarbons."
-    },
-    {
-      "id": "eve6_mcq_22",
-      "question": "What is burned in thermal power plants to produce heat?",
-      "options": ["a) Wood", "b) Coal", "c) Plastic", "d) Paper"],
-      "correct_answer": "b) Coal",
-      "explanation": "Coal is burnt to produce heat in thermal power plants."
-    },
-    {
-      "id": "eve6_mcq_23",
-      "question": "What diseases can gases like carbon monoxide, oxides of sulphur and nitrogen cause?",
-      "options": ["a) Heart disease only", "b) Various eye and skin diseases as well as lung cancer", "c) Only cold", "d) Tooth decay"],
-      "correct_answer": "b) Various eye and skin diseases as well as lung cancer",
-      "explanation": "Gases like carbon monoxide, oxides of sulphur and nitrogen cause various eye and skin diseases as well as lung cancer."
-    },
-    {
-      "id": "eve6_mcq_24",
-      "question": "What happens when sulphur dioxide and nitrogen oxide combine with water vapour?",
-      "options": ["a) Clean water forms", "b) Acid rain is caused", "c) Clouds disappear", "d) Snow forms"],
-      "correct_answer": "b) Acid rain is caused",
-      "explanation": "Sulphur dioxide, nitrogen oxide, etc. combine with water vapour causing acid rain that harms life and property."
-    },
-    {
-      "id": "eve6_mcq_25",
-      "question": "Which famous monument is threatened by acid rain?",
-      "options": ["a) Qutub Minar", "b) The Taj Mahal at Agra", "c) Red Fort", "d) India Gate"],
-      "correct_answer": "b) The Taj Mahal at Agra",
-      "explanation": "The Taj Mahal at Agra is threatened by acid rain. Exhaust gases from Mathura Refinery greatly affected the Taj Mahal."
-    },
-    {
-      "id": "eve6_mcq_26",
-      "question": "What does sulphur dioxide cause to building materials like limestone and marble?",
-      "options": ["a) Makes them stronger", "b) Causes erosion", "c) Makes them shine", "d) Has no effect"],
-      "correct_answer": "b) Causes erosion",
-      "explanation": "Sulphur dioxide causes erosion of building materials such as limestone and marble and deterioration of statues."
-    },
-    {
-      "id": "eve6_mcq_27",
-      "question": "What do refrigerators, air conditioners, and aerosol sprays release?",
-      "options": ["a) Oxygen", "b) Chlorofluorocarbons (CFCs)", "c) Carbon dioxide", "d) Water vapor"],
-      "correct_answer": "b) Chlorofluorocarbons (CFCs)",
-      "explanation": "Refrigerators, air conditioners, aerosol sprays like deodorants, perfumes, etc. release chlorofluorocarbons (CFCs) in air."
-    },
-    {
-      "id": "eve6_mcq_28",
-      "question": "What does the ozone layer block?",
-      "options": ["a) Visible light", "b) Dangerous ultraviolet rays of the Sun", "c) Radio waves", "d) Sound waves"],
-      "correct_answer": "b) Dangerous ultraviolet rays of the Sun",
-      "explanation": "The ozone layer blocks the dangerous ultraviolet rays of the Sun."
-    },
-    {
-      "id": "eve6_mcq_29",
-      "question": "What can harmful ultraviolet rays cause?",
-      "options": ["a) Better vision", "b) Skin cancer and other skin diseases", "c) Improved health", "d) Stronger bones"],
-      "correct_answer": "b) Skin cancer and other skin diseases",
-      "explanation": "Harmful ultraviolet rays can cause skin cancer and other skin diseases."
-    },
-    {
-      "id": "eve6_mcq_30",
-      "question": "Forests are a treasure house of:",
-      "options": ["a) Only trees", "b) A variety of plants and animals", "c) Only animals", "d) Minerals only"],
-      "correct_answer": "b) A variety of plants and animals",
-      "explanation": "Forests are a treasure house of a variety of plants and animals."
-    },
-    {
-      "id": "eve6_mcq_31",
-      "question": "Why are forests essential besides being beneficial for us?",
-      "options": ["a) For recreation only", "b) For environmental balance", "c) For decoration", "d) For entertainment"],
-      "correct_answer": "b) For environmental balance",
-      "explanation": "Plants and animals in forests are not only beneficial for us but are also essential for environmental balance."
-    },
-    {
-      "id": "eve6_mcq_32",
-      "question": "Why have forests been cut down?",
-      "options": ["a) For entertainment", "b) To get more land for housing, industries and agriculture", "c) To make space for parks", "d) To see the sky"],
-      "correct_answer": "b) To get more land for housing, industries and agriculture",
-      "explanation": "Forests have been cut down to get more land for housing, industries and agriculture."
-    },
-    {
-      "id": "eve6_mcq_33",
-      "question": "Why have forests also been felled?",
-      "options": ["a) To plant more trees", "b) For timber for furniture, houses, paper pulp, etc.", "c) To clean the air", "d) To reduce pollution"],
-      "correct_answer": "b) For timber for furniture, houses, paper pulp, etc.",
-      "explanation": "Forests have also been felled for timber for furniture, houses, paper pulp, etc."
-    },
-    {
-      "id": "eve6_mcq_34",
-      "question": "What has widespread deforestation endangered?",
-      "options": ["a) Buildings", "b) Many rare animals and plants", "c) Machines", "d) Computers"],
-      "correct_answer": "b) Many rare animals and plants",
-      "explanation": "Widespread deforestation has endangered many rare animals and plants."
-    },
-    {
-      "id": "eve6_mcq_35",
-      "question": "What has deforestation caused regarding rainfall?",
-      "options": ["a) More rainfall", "b) Erratic rainfall pattern", "c) No change", "d) Constant rainfall"],
-      "correct_answer": "b) Erratic rainfall pattern",
-      "explanation": "Deforestation has caused extensive soil erosion and has resulted in erratic rainfall pattern in many regions of the world."
-    },
-    {
-      "id": "eve6_mcq_36",
-      "question": "According to the chapter, man has overused natural resources:",
-      "options": ["a) Carefully", "b) Carelessly", "c) Moderately", "d) Not at all"],
-      "correct_answer": "b) Carelessly",
-      "explanation": "Man has overused natural resources carelessly."
-    },
-    {
-      "id": "eve6_mcq_37",
-      "question": "What has widespread use of chemical fertilisers led to?",
-      "options": ["a) Better soil quality", "b) Infertility of soil", "c) More water", "d) Cleaner air"],
-      "correct_answer": "b) Infertility of soil",
-      "explanation": "Widespread use of chemical fertilisers has led to infertility of soil."
-    },
-    {
-      "id": "eve6_mcq_38",
-      "question": "What three resources are polluted today by human activities?",
-      "options": ["a) Gold, silver, diamonds", "b) Soil, water and air", "c) Iron, copper, zinc", "d) Sun, moon, stars"],
-      "correct_answer": "b) Soil, water and air",
-      "explanation": "Soil, water and air are polluted today by human activities."
-    },
-    {
-      "id": "eve6_mcq_39",
-      "question": "What does acid rain harm?",
-      "options": ["a) Only plants", "b) Organisms and man-made structures", "c) Only rocks", "d) Nothing"],
-      "correct_answer": "b) Organisms and man-made structures",
-      "explanation": "Acid rain harms organisms and man-made structures."
-    },
-    {
-      "id": "eve6_mcq_40",
-      "question": "What has deforestation threatened?",
-      "options": ["a) Buildings", "b) Wildlife and environment", "c) Roads", "d) Machines"],
-      "correct_answer": "b) Wildlife and environment",
-      "explanation": "Deforestation has threatened wildlife and environment."
-    },
-    {
-      "id": "eve6_mcq_41",
       "question": "Nature has fostered all forms of life on earth from:",
-      "options": ["a) Yesterday", "b) The very beginning", "c) Last century", "d) Last decade"],
-      "correct_answer": "b) The very beginning",
+      "options": ["a) Recent times", "b) The last century", "c) The very beginning", "d) The industrial age"],
+      "correct_answer": "c) The very beginning",
       "explanation": "Nature has fostered all forms of life on the earth from the very beginning."
     },
     {
-      "id": "eve6_mcq_42",
-      "question": "About one century ago, the human population was:",
-      "options": ["a) Unsustainable", "b) Easily sustainable by nature", "c) Very large", "d) Same as today"],
-      "correct_answer": "b) Easily sustainable by nature",
-      "explanation": "About one century ago the human population was easily sustainable by nature."
+      "id": "eve6_mcq_3",
+      "question": "What is the main cause of imbalance in the environment today?",
+      "options": ["a) Natural disasters", "b) Overpopulation", "c) Climate change", "d) Animal migration"],
+      "correct_answer": "b) Overpopulation",
+      "explanation": "The main cause of imbalance in the environment is overpopulation."
     },
     {
-      "id": "eve6_mcq_43",
-      "question": "What has increased demand due to population growth caused?",
-      "options": ["a) Better resources", "b) Blind utilisation of natural resources", "c) More forests", "d) Cleaner environment"],
-      "correct_answer": "b) Blind utilisation of natural resources",
-      "explanation": "Due to increased demand, natural resources have been utilised blindly."
+      "id": "eve6_mcq_4",
+      "question": "How has overpopulation affected natural resources?",
+      "options": ["a) Conserved them", "b) Had no effect", "c) Led to their blind utilization", "d) Increased them"],
+      "correct_answer": "c) Led to their blind utilization",
+      "explanation": "Due to increased demand from overpopulation, natural resources have been utilized blindly."
     },
     {
-      "id": "eve6_mcq_44",
-      "question": "What is water necessary for?",
-      "options": ["a) Pollution", "b) Life", "c) Destruction", "d) Darkness"],
-      "correct_answer": "b) Life",
-      "explanation": "Water is necessary for life. It is used for drinking, cooking, washing, cleaning, etc."
+      "id": "eve6_mcq_5",
+      "question": "Water is necessary for:",
+      "options": ["a) Only drinking", "b) Only agriculture", "c) Drinking, cooking, washing, cleaning, agriculture and industries", "d) Only industries"],
+      "correct_answer": "c) Drinking, cooking, washing, cleaning, agriculture and industries",
+      "explanation": "Water is necessary for life. It is used for drinking, cooking, washing, cleaning, etc. Water is also required for agriculture and industries."
     },
     {
-      "id": "eve6_mcq_45",
-      "question": "What have humans used waterbodies as?",
-      "options": ["a) Swimming pools", "b) Garbage dumps", "c) Fish farms only", "d) Recreational areas"],
+      "id": "eve6_mcq_6",
+      "question": "How has agriculture become less weather dependent today?",
+      "options": ["a) Due to greenhouses", "b) Due to canals for irrigation", "c) Due to chemical fertilizers", "d) Due to better seeds"],
+      "correct_answer": "b) Due to canals for irrigation",
+      "explanation": "Agriculture is not totally weather dependent today. Canals have been dug to provide water for irrigation."
+    },
+    {
+      "id": "eve6_mcq_7",
+      "question": "Seas and rivers are used for transportation by means of:",
+      "options": ["a) Cars", "b) Airplanes", "c) Ships and boats", "d) Trains"],
+      "correct_answer": "c) Ships and boats",
+      "explanation": "Seas and rivers are used for transportation by means of ships and boats."
+    },
+    {
+      "id": "eve6_mcq_8",
+      "question": "Underground water is pumped out by:",
+      "options": ["a) Only manual pumps", "b) Tubewells, wells and submersible pumps", "c) Only rivers", "d) Rain only"],
+      "correct_answer": "b) Tubewells, wells and submersible pumps",
+      "explanation": "Underground water is pumped out by tubewells, wells and submersible pumps for domestic, industrial and agricultural use."
+    },
+    {
+      "id": "eve6_mcq_9",
+      "question": "Dams have been made on rivers to:",
+      "options": ["a) Only for fishing", "b) Store water and generate electricity", "c) Only for recreation", "d) Only for transportation"],
+      "correct_answer": "b) Store water and generate electricity",
+      "explanation": "Dams have been made on rivers to store water and to generate electricity."
+    },
+    {
+      "id": "eve6_mcq_10",
+      "question": "What has man used waterbodies as despite the importance of water?",
+      "options": ["a) Swimming pools", "b) Garbage dumps", "c) Recreation centers", "d) Fish farms"],
       "correct_answer": "b) Garbage dumps",
       "explanation": "In spite of the obvious importance of water, man has used waterbodies as garbage dumps."
     },
     {
-      "id": "eve6_mcq_46",
-      "question": "What threatens aquatic life when solid wastes and chemicals are released into waterbodies?",
-      "options": ["a) Clean water", "b) Polluted water", "c) Fresh air", "d) Sunlight"],
-      "correct_answer": "b) Polluted water",
+      "id": "eve6_mcq_11",
+      "question": "Solid wastes and chemicals released into waterbodies threaten:",
+      "options": ["a) Only fish", "b) Only plants", "c) Aquatic life", "d) Only birds"],
+      "correct_answer": "c) Aquatic life",
       "explanation": "Solid wastes, chemicals, etc. are released into waterbodies without much concern. All these wastes pollute water and threaten aquatic life."
     },
     {
-      "id": "eve6_mcq_47",
-      "question": "Industries use fossil fuels like coal, petrol and diesel to:",
-      "options": ["a) Pollute the environment", "b) Produce energy to run their machines", "c) Create garbage", "d) Make noise"],
+      "id": "eve6_mcq_12",
+      "question": "When industries use water for cooling and discharge heated water into rivers, it causes:",
+      "options": ["a) Air pollution", "b) Thermal pollution", "c) Noise pollution", "d) Soil pollution"],
+      "correct_answer": "b) Thermal pollution",
+      "explanation": "Many industries use water for cooling purposes. This heated water is discharged in ponds, rivers, etc. causing thermal pollution."
+    },
+    {
+      "id": "eve6_mcq_13",
+      "question": "What does rise in temperature of waterbodies do to fish and plants?",
+      "options": ["a) Makes them grow faster", "b) Kills them", "c) Makes them stronger", "d) Has no effect"],
+      "correct_answer": "b) Kills them",
+      "explanation": "The corresponding rise in temperature in waterbodies kills many fish and plants."
+    },
+    {
+      "id": "eve6_mcq_14",
+      "question": "Rise in temperature of water also reduces the level of:",
+      "options": ["a) Salt", "b) Oxygen", "c) Minerals", "d) Carbon dioxide"],
+      "correct_answer": "b) Oxygen",
+      "explanation": "Rise in temperature also reduces oxygen level in water."
+    },
+    {
+      "id": "eve6_mcq_15",
+      "question": "Oil and grease leaking from tanks and marine oil tankers form a coat on:",
+      "options": ["a) Land surface", "b) Air", "c) Water surface", "d) Soil"],
+      "correct_answer": "c) Water surface",
+      "explanation": "Oil and grease leaking from tanks, specially marine oil tankers, form a coat on water surface."
+    },
+    {
+      "id": "eve6_mcq_16",
+      "question": "How does oil on water surface affect aquatic animals?",
+      "options": ["a) Helps them breathe", "b) Clogs their gills", "c) Makes them swim faster", "d) Has no effect"],
+      "correct_answer": "b) Clogs their gills",
+      "explanation": "Oil on water surface clogs gills, etc. of aquatic animals. This causes large scale death of organisms."
+    },
+    {
+      "id": "eve6_mcq_17",
+      "question": "On which date did the oil tanker Exxon Valdez leave its harbour?",
+      "options": ["a) March 24, 1989", "b) March 23, 1989", "c) March 25, 1989", "d) March 22, 1989"],
+      "correct_answer": "b) March 23, 1989",
+      "explanation": "On March 23, 1989 the oil tanker Exxon Valdez left its harbour on the coast of Alaska."
+    },
+    {
+      "id": "eve6_mcq_18",
+      "question": "The Exxon Valdez was carrying how many million gallons of crude oil?",
+      "options": ["a) 11 million", "b) 30 million", "c) 53 million", "d) 100 million"],
+      "correct_answer": "c) 53 million",
+      "explanation": "The Exxon Valdez left with 53 million gallons of crude oil bound for California."
+    },
+    {
+      "id": "eve6_mcq_19",
+      "question": "Where was the Exxon Valdez headed with its cargo?",
+      "options": ["a) Alaska", "b) New York", "c) California", "d) Texas"],
+      "correct_answer": "c) California",
+      "explanation": "The oil tanker Exxon Valdez was carrying 53 million gallons of crude oil bound for California."
+    },
+    {
+      "id": "eve6_mcq_20",
+      "question": "The Exxon Valdez struck which reef?",
+      "options": ["a) Coral Reef", "b) Bligh Reef", "c) Great Barrier Reef", "d) Alaska Reef"],
+      "correct_answer": "b) Bligh Reef",
+      "explanation": "Just after midnight, in the early hours of March 24, 1989, it struck the Bligh Reef, a reef off the coast of Bligh Island in Prince William Sound, Alaska."
+    },
+    {
+      "id": "eve6_mcq_21",
+      "question": "Where is Prince William Sound located?",
+      "options": ["a) California", "b) Texas", "c) Alaska", "d) Florida"],
+      "correct_answer": "c) Alaska",
+      "explanation": "Prince William Sound is located in Alaska, where the Exxon Valdez oil spill occurred."
+    },
+    {
+      "id": "eve6_mcq_22",
+      "question": "How many million gallons of oil leaked into Prince William Sound?",
+      "options": ["a) 53 million", "b) 30 million", "c) 11 million", "d) 5 million"],
+      "correct_answer": "c) 11 million",
+      "explanation": "The collision resulted in a leakage of 11 million gallons of oil into Prince William Sound."
+    },
+    {
+      "id": "eve6_mcq_23",
+      "question": "How many sea birds were killed in the Exxon Valdez oil spill?",
+      "options": ["a) Between 1 to 2 lakh", "b) Between 3 to 5 lakh", "c) Between 5 to 7 lakh", "d) Less than 1 lakh"],
+      "correct_answer": "b) Between 3 to 5 lakh",
+      "explanation": "Thousands of animals died immediately; Between 3 to 5 lakh sea birds were killed."
+    },
+    {
+      "id": "eve6_mcq_24",
+      "question": "What happened to billions of salmon and herring eggs in the oil spill?",
+      "options": ["a) They survived", "b) They were destroyed", "c) They multiplied", "d) They were unaffected"],
+      "correct_answer": "b) They were destroyed",
+      "explanation": "Billions of salmon and herring eggs were destroyed in the Exxon Valdez oil spill."
+    },
+    {
+      "id": "eve6_mcq_25",
+      "question": "How long could some shoreline habitats like contaminated mussel beds take to recover from the oil spill?",
+      "options": ["a) Up to 5 years", "b) Up to 10 years", "c) Up to 30 years", "d) Up to 50 years"],
+      "correct_answer": "c) Up to 30 years",
+      "explanation": "Researchers estimate that some shoreline habitats, such as contaminated mussel beds, could take up to 30 years to recover."
+    },
+    {
+      "id": "eve6_mcq_26",
+      "question": "Which ocean animals showed stunted growth after the oil spill?",
+      "options": ["a) Whales", "b) Dolphins", "c) Pink salmon", "d) Sharks"],
+      "correct_answer": "c) Pink salmon",
+      "explanation": "In the long term, reductions in population have been seen in various ocean animals, including stunted growth in pink salmon populations."
+    },
+    {
+      "id": "eve6_mcq_27",
+      "question": "Sea otters and ducks showed higher death rates because they:",
+      "options": ["a) Couldn't swim", "b) Ingested contaminated creatures", "c) Couldn't find food", "d) Were hunted"],
+      "correct_answer": "b) Ingested contaminated creatures",
+      "explanation": "Sea otters and ducks also showed higher death rates in the following years, partly because they ingested contaminated creatures."
+    },
+    {
+      "id": "eve6_mcq_28",
+      "question": "Animals were also exposed to oil when they:",
+      "options": ["a) Swam in clean water", "b) Dug up their prey in contaminated soil", "c) Flew in the air", "d) Lived in forests"],
+      "correct_answer": "b) Dug up their prey in contaminated soil",
+      "explanation": "Many animals were also exposed to oil when they dug up their prey in contaminated soil."
+    },
+    {
+      "id": "eve6_mcq_29",
+      "question": "Soil is a very important:",
+      "options": ["a) Artificial resource", "b) Natural resource", "c) Man-made material", "d) Synthetic material"],
+      "correct_answer": "b) Natural resource",
+      "explanation": "Soil is a very important natural resource. Much of our land is covered with soil in which plants grow."
+    },
+    {
+      "id": "eve6_mcq_30",
+      "question": "We depend on agriculture for our:",
+      "options": ["a) Clothing only", "b) Shelter only", "c) Food", "d) Entertainment"],
+      "correct_answer": "c) Food",
+      "explanation": "We depend on agriculture for our food. Agriculture is possible because of the presence of soil."
+    },
+    {
+      "id": "eve6_mcq_31",
+      "question": "Soil is being polluted with industrial and agricultural activities as well as by:",
+      "options": ["a) Rain water", "b) Domestic wastes", "c) Sunlight", "d) Wind"],
+      "correct_answer": "b) Domestic wastes",
+      "explanation": "Soil is being polluted with industrial and agricultural activities as well as by domestic wastes."
+    },
+    {
+      "id": "eve6_mcq_32",
+      "question": "What has forced farmers to use chemical fertilizers?",
+      "options": ["a) Cheaper prices", "b) Need for increased yield", "c) Government orders", "d) Fashion"],
+      "correct_answer": "b) Need for increased yield",
+      "explanation": "Need for increased yield has forced farmers to use chemical fertilizers which ultimately ruin soil fertility."
+    },
+    {
+      "id": "eve6_mcq_33",
+      "question": "Chemical pesticides, insecticides, and weedicides pollute the soil and kill:",
+      "options": ["a) Only harmful insects", "b) Beneficial insects and worms", "c) Only plants", "d) Only birds"],
+      "correct_answer": "b) Beneficial insects and worms",
+      "explanation": "Chemical pesticides, insecticides, weedicides, etc. pollute the soil and kill beneficial insects and worms also."
+    },
+    {
+      "id": "eve6_mcq_34",
+      "question": "Chemical fertilizers and pesticides should be replaced by:",
+      "options": ["a) More chemicals", "b) Organic ones", "c) Synthetic materials", "d) Industrial wastes"],
+      "correct_answer": "b) Organic ones",
+      "explanation": "Chemical fertilizers and pesticides should be replaced by organic ones which do not harm the soil."
+    },
+    {
+      "id": "eve6_mcq_35",
+      "question": "The toxic chemicals present in industrial and domestic wastes:",
+      "options": ["a) Help the soil", "b) Pollute the soil", "c) Have no effect", "d) Make plants grow faster"],
+      "correct_answer": "b) Pollute the soil",
+      "explanation": "Industrial and domestic wastes are dumped in the soil. The toxic chemicals present in these wastes pollute soil."
+    },
+    {
+      "id": "eve6_mcq_36",
+      "question": "What should be done to industrial and domestic wastes before dumping in soil?",
+      "options": ["a) Nothing", "b) Treated to remove toxic components", "c) Add more chemicals", "d) Burn them"],
+      "correct_answer": "b) Treated to remove toxic components",
+      "explanation": "It is necessary that all industrial and domestic wastes should be treated to get rid of their toxic components before they are dumped in soil."
+    },
+    {
+      "id": "eve6_mcq_37",
+      "question": "Air is polluted heavily due to:",
+      "options": ["a) Natural processes only", "b) Human activities", "c) Animal activities", "d) Plant activities"],
+      "correct_answer": "b) Human activities",
+      "explanation": "Air is another important natural resource. Life is not possible without air. But air is polluted heavily due to human activities."
+    },
+    {
+      "id": "eve6_mcq_38",
+      "question": "Vehicles mostly run on:",
+      "options": ["a) Water", "b) Electricity only", "c) Petrol and diesel", "d) Solar energy"],
+      "correct_answer": "c) Petrol and diesel",
+      "explanation": "Vehicles are used for transport. Vehicles mostly run on petrol and diesel."
+    },
+    {
+      "id": "eve6_mcq_39",
+      "question": "Auto exhausts contain harmful emissions like:",
+      "options": ["a) Only oxygen", "b) Carbon monoxide, carbon dioxide, nitrogen oxide and hydrocarbons", "c) Only nitrogen", "d) Only water vapor"],
+      "correct_answer": "b) Carbon monoxide, carbon dioxide, nitrogen oxide and hydrocarbons",
+      "explanation": "Auto exhausts contain many harmful emissions like carbon monoxide, carbon dioxide, nitrogen oxide and hydrocarbons."
+    },
+    {
+      "id": "eve6_mcq_40",
+      "question": "Coal is burnt to produce heat in:",
+      "options": ["a) Homes only", "b) Thermal power plants", "c) Schools", "d) Hospitals"],
+      "correct_answer": "b) Thermal power plants",
+      "explanation": "Coal is burnt to produce heat in thermal power plants. Industries use fossil fuels like coal, petrol and diesel to produce energy."
+    },
+    {
+      "id": "eve6_mcq_41",
+      "question": "Industries use fossil fuels to:",
+      "options": ["a) Cool their machines", "b) Produce energy to run their machines", "c) Clean their premises", "d) Water their plants"],
       "correct_answer": "b) Produce energy to run their machines",
       "explanation": "Industries use fossil fuels like coal, petrol and diesel to produce energy to run their machines."
     },
     {
-      "id": "eve6_mcq_48",
-      "question": "CFCs deplete which layer in the atmosphere?",
-      "options": ["a) Troposphere", "b) Ozone layer", "c) Stratosphere", "d) Ionosphere"],
-      "correct_answer": "b) Ozone layer",
-      "explanation": "Refrigerators, air conditioners, aerosol sprays release CFCs in air, depleting the ozone layer."
+      "id": "eve6_mcq_42",
+      "question": "Industrial activities release harmful gases like:",
+      "options": ["a) Only oxygen", "b) Carbon monoxide, oxides of sulphur and nitrogen", "c) Only nitrogen", "d) Only hydrogen"],
+      "correct_answer": "b) Carbon monoxide, oxides of sulphur and nitrogen",
+      "explanation": "All these industrial activities release very harmful gases in the atmosphere. Gases like carbon monoxide, oxides of sulphur and nitrogen."
     },
     {
-      "id": "eve6_mcq_49",
-      "question": "What effect does nitrous and nitric acid have on buildings?",
-      "options": ["a) Makes them stronger", "b) Corrosive actions on buildings, monuments, bridges", "c) Makes them taller", "d) No effect"],
-      "correct_answer": "b) Corrosive actions on buildings, monuments, bridges",
+      "id": "eve6_mcq_43",
+      "question": "Gases like carbon monoxide, sulphur dioxide and nitrogen can cause:",
+      "options": ["a) Better health", "b) Eye and skin diseases as well as lung cancer", "c) Improved vision", "d) Stronger bones"],
+      "correct_answer": "b) Eye and skin diseases as well as lung cancer",
+      "explanation": "Gases like carbon monoxide, oxides of sulphur and nitrogen cause various eye and skin diseases as well as lung cancer."
+    },
+    {
+      "id": "eve6_mcq_44",
+      "question": "Sulphur dioxide and nitrogen oxide combine with water vapour to cause:",
+      "options": ["a) Normal rain", "b) Acid rain", "c) Snow", "d) Fog"],
+      "correct_answer": "b) Acid rain",
+      "explanation": "Sulphur dioxide, nitrogen oxide, etc. combine with water vapour causing acid rain that harms life and property."
+    },
+    {
+      "id": "eve6_mcq_45",
+      "question": "Which famous monument in India is threatened by acid rain?",
+      "options": ["a) Red Fort", "b) Taj Mahal", "c) Qutub Minar", "d) Gateway of India"],
+      "correct_answer": "b) Taj Mahal",
+      "explanation": "The Taj Mahal at Agra is threatened by acid rain."
+    },
+    {
+      "id": "eve6_mcq_46",
+      "question": "Air pollutants like oxides of sulphur and nitrogen combine with water vapour to form:",
+      "options": ["a) Pure water", "b) Nitrous, nitric and sulphuric acids", "c) Oxygen", "d) Hydrogen"],
+      "correct_answer": "b) Nitrous, nitric and sulphuric acids",
+      "explanation": "Air pollutants like oxides of sulphur and nitrogen combine with water vapour in air forming nitrous, nitric and sulphuric acids."
+    },
+    {
+      "id": "eve6_mcq_47",
+      "question": "Sulphur dioxide causes erosion of building materials such as:",
+      "options": ["a) Only wood", "b) Limestone and marble", "c) Only plastic", "d) Only glass"],
+      "correct_answer": "b) Limestone and marble",
+      "explanation": "Sulphur dioxide causes erosion of building materials such as limestone and marble and deterioration of statues."
+    },
+    {
+      "id": "eve6_mcq_48",
+      "question": "Nitrous and nitric acids have corrosive actions on:",
+      "options": ["a) Water only", "b) Buildings, monuments, bridges, railings", "c) Air only", "d) Plants only"],
+      "correct_answer": "b) Buildings, monuments, bridges, railings",
       "explanation": "Nitrous and nitric acids also have corrosive actions on buildings, monuments, bridges, railings, etc."
     },
     {
+      "id": "eve6_mcq_49",
+      "question": "Emissions from which refinery greatly affected the Taj Mahal?",
+      "options": ["a) Delhi Refinery", "b) Mumbai Refinery", "c) Mathura Refinery", "d) Chennai Refinery"],
+      "correct_answer": "c) Mathura Refinery",
+      "explanation": "Exhaust gases from Mathura Refinery greatly affected the Taj Mahal at Agra."
+    },
+    {
       "id": "eve6_mcq_50",
-      "question": "What should be treated before being dumped in soil?",
-      "options": ["a) Clean water", "b) All industrial and domestic wastes", "c) Fresh air", "d) Sunlight"],
-      "correct_answer": "b) All industrial and domestic wastes",
-      "explanation": "It is necessary that all industrial and domestic wastes should be treated to get rid of their toxic components before they are dumped in soil."
+      "question": "What do CFC stand for?",
+      "options": ["a) Carbon Fluoride Compounds", "b) Chlorofluorocarbons", "c) Chemical Fuel Carbons", "d) Chlorine Free Compounds"],
+      "correct_answer": "b) Chlorofluorocarbons",
+      "explanation": "CFCs stand for Chlorofluorocarbons."
+    },
+    {
+      "id": "eve6_mcq_51",
+      "question": "Which appliances release CFCs in air?",
+      "options": ["a) Only refrigerators", "b) Refrigerators, air conditioners, aerosol sprays like deodorants and perfumes", "c) Only televisions", "d) Only computers"],
+      "correct_answer": "b) Refrigerators, air conditioners, aerosol sprays like deodorants and perfumes",
+      "explanation": "Refrigerators, air conditioners, aerosol sprays like deodorants, perfumes, etc. release chlorofluorocarbons (CFCs) in air."
+    },
+    {
+      "id": "eve6_mcq_52",
+      "question": "CFCs deplete which layer in the atmosphere?",
+      "options": ["a) Nitrogen layer", "b) Oxygen layer", "c) Ozone layer", "d) Carbon dioxide layer"],
+      "correct_answer": "c) Ozone layer",
+      "explanation": "CFCs deplete the ozone layer which blocks the dangerous ultraviolet rays of the Sun."
+    },
+    {
+      "id": "eve6_mcq_53",
+      "question": "The ozone layer blocks which dangerous rays from the Sun?",
+      "options": ["a) Infrared rays", "b) Ultraviolet rays", "c) X-rays", "d) Gamma rays"],
+      "correct_answer": "b) Ultraviolet rays",
+      "explanation": "The ozone layer blocks the dangerous ultraviolet rays of the Sun."
+    },
+    {
+      "id": "eve6_mcq_54",
+      "question": "UV rays from the Sun can cause:",
+      "options": ["a) Better eyesight", "b) Skin cancer and other skin diseases", "c) Stronger bones", "d) Better hearing"],
+      "correct_answer": "b) Skin cancer and other skin diseases",
+      "explanation": "Ultraviolet rays can cause skin cancer and other skin diseases."
+    },
+    {
+      "id": "eve6_mcq_55",
+      "question": "Forests are a treasure house of:",
+      "options": ["a) Only trees", "b) A variety of plants and animals", "c) Only animals", "d) Only minerals"],
+      "correct_answer": "b) A variety of plants and animals",
+      "explanation": "Forests are a treasure house of a variety of plants and animals."
+    },
+    {
+      "id": "eve6_mcq_56",
+      "question": "Plants and animals in forests are essential for:",
+      "options": ["a) Decoration only", "b) Environmental balance", "c) Entertainment only", "d) Industry only"],
+      "correct_answer": "b) Environmental balance",
+      "explanation": "These plants and animals are not only beneficial for us but are also essential for environmental balance."
+    },
+    {
+      "id": "eve6_mcq_57",
+      "question": "Forests have been cut down to get more land for:",
+      "options": ["a) Recreation only", "b) Housing, industries and agriculture", "c) Sports only", "d) Tourism only"],
+      "correct_answer": "b) Housing, industries and agriculture",
+      "explanation": "Forests have been cut down to get more land for housing, industries and agriculture."
+    },
+    {
+      "id": "eve6_mcq_58",
+      "question": "Forests have also been felled for timber for:",
+      "options": ["a) Burning only", "b) Furniture, houses, paper pulp", "c) Decoration only", "d) Art only"],
+      "correct_answer": "b) Furniture, houses, paper pulp",
+      "explanation": "Forests have also been felled for timber for furniture, houses, paper pulp, etc."
+    },
+    {
+      "id": "eve6_mcq_59",
+      "question": "Widespread deforestation has endangered:",
+      "options": ["a) Only large animals", "b) Many rare animals and plants", "c) Only birds", "d) Only insects"],
+      "correct_answer": "b) Many rare animals and plants",
+      "explanation": "Widespread deforestation has endangered many rare animals and plants."
+    },
+    {
+      "id": "eve6_mcq_60",
+      "question": "Deforestation has caused extensive:",
+      "options": ["a) Water pollution", "b) Soil erosion", "c) Noise pollution", "d) Light pollution"],
+      "correct_answer": "b) Soil erosion",
+      "explanation": "Deforestation has also caused extensive soil erosion and has resulted in erratic rainfall pattern in many regions of the world."
+    },
+    {
+      "id": "eve6_mcq_61",
+      "question": "What has resulted in erratic rainfall patterns in many regions?",
+      "options": ["a) Industrialization", "b) Deforestation", "c) Urbanization", "d) Tourism"],
+      "correct_answer": "b) Deforestation",
+      "explanation": "Deforestation has resulted in erratic rainfall pattern in many regions of the world."
+    },
+    {
+      "id": "eve6_mcq_62",
+      "question": "According to the chapter, man has overused natural resources:",
+      "options": ["a) Carefully", "b) Carelessly", "c) Wisely", "d) Responsibly"],
+      "correct_answer": "b) Carelessly",
+      "explanation": "Man has overused natural resources carelessly."
+    },
+    {
+      "id": "eve6_mcq_63",
+      "question": "Widespread use of chemical fertilizers has led to:",
+      "options": ["a) Increased fertility", "b) Infertility of soil", "c) Better crops", "d) More water"],
+      "correct_answer": "b) Infertility of soil",
+      "explanation": "Widespread use of chemical fertilizers has led to infertility of soil."
+    },
+    {
+      "id": "eve6_mcq_64",
+      "question": "Which of the following are polluted today by human activities?",
+      "options": ["a) Only soil", "b) Soil, water and air", "c) Only water", "d) Only air"],
+      "correct_answer": "b) Soil, water and air",
+      "explanation": "Soil, water and air are polluted today by human activities."
+    },
+    {
+      "id": "eve6_mcq_65",
+      "question": "Acid rain harms:",
+      "options": ["a) Only buildings", "b) Organisms and man-made structures", "c) Only plants", "d) Only animals"],
+      "correct_answer": "b) Organisms and man-made structures",
+      "explanation": "Acid rain harms organisms and man-made structures."
+    },
+    {
+      "id": "eve6_mcq_66",
+      "question": "Deforestation has threatened:",
+      "options": ["a) Only forests", "b) Wildlife and environment", "c) Only rivers", "d) Only mountains"],
+      "correct_answer": "b) Wildlife and environment",
+      "explanation": "Deforestation has threatened wildlife and environment."
+    },
+    {
+      "id": "eve6_mcq_67",
+      "question": "What was the state of human population about one century ago?",
+      "options": ["a) Very high", "b) Easily sustainable by nature", "c) Higher than today", "d) Zero growth"],
+      "correct_answer": "b) Easily sustainable by nature",
+      "explanation": "About one century ago the human population was easily sustainable by nature."
+    },
+    {
+      "id": "eve6_mcq_68",
+      "question": "The current increase in population has led to overexploitation of:",
+      "options": ["a) Only water", "b) The environment", "c) Only air", "d) Only soil"],
+      "correct_answer": "b) The environment",
+      "explanation": "The current increase in population has disturbed all this. This overexploitation of the environment threatens all life forms today."
+    },
+    {
+      "id": "eve6_mcq_69",
+      "question": "What percentage of earth's water is salty (not fit for drinking)?",
+      "options": ["a) 2.7%", "b) 50%", "c) 71%", "d) 97.3%"],
+      "correct_answer": "d) 97.3%",
+      "explanation": "Most of the water on our planet is salty (97.3%). Only about 2.7% of total water on the earth is potable."
+    },
+    {
+      "id": "eve6_mcq_70",
+      "question": "Visual evidence of the Exxon Valdez oil spill remained in areas frequented by humans for:",
+      "options": ["a) One week", "b) One month", "c) One year", "d) Ten years"],
+      "correct_answer": "c) One year",
+      "explanation": "Very little visual evidence of the event remained in areas frequented by humans just one year later."
+    },
+    {
+      "id": "eve6_mcq_71",
+      "question": "Do the effects of the Exxon Valdez spill continue to be felt today?",
+      "options": ["a) No, they completely disappeared", "b) Yes, the effects continue to be felt", "c) Only minor effects remain", "d) No data available"],
+      "correct_answer": "b) Yes, the effects continue to be felt",
+      "explanation": "Very little visual evidence remained just one year later, but the effects of the spill continue to be felt today."
+    },
+    {
+      "id": "eve6_mcq_72",
+      "question": "Chemicals used in agriculture also pollute:",
+      "options": ["a) Only soil", "b) Waterbodies", "c) Only air", "d) Only buildings"],
+      "correct_answer": "b) Waterbodies",
+      "explanation": "Chemical pesticides, insecticides, weedicides, etc. pollute the soil and kill beneficial insects and worms also. These chemicals even pollute waterbodies."
+    },
+    {
+      "id": "eve6_mcq_73",
+      "question": "What type of pollution do petroleum refineries cause?",
+      "options": ["a) Only noise pollution", "b) Air pollution affecting nearby buildings and monuments", "c) Only water pollution", "d) Only soil pollution"],
+      "correct_answer": "b) Air pollution affecting nearby buildings and monuments",
+      "explanation": "Emissions from petroleum refineries, smelters, etc. may deteriorate nearby buildings and monuments."
+    },
+    {
+      "id": "eve6_mcq_74",
+      "question": "Industries produce many synthetic products by processing:",
+      "options": ["a) Only water", "b) Natural and synthetic ores", "c) Only air", "d) Only plants"],
+      "correct_answer": "b) Natural and synthetic ores",
+      "explanation": "Industries produce many synthetic products or process natural/synthetic ores."
+    },
+    {
+      "id": "eve6_mcq_75",
+      "question": "All habitat and food needs for plants and animals are met by:",
+      "options": ["a) Humans", "b) Nature", "c) Machines", "d) Industries"],
+      "correct_answer": "b) Nature",
+      "explanation": "All needs of habitat and food for both plants and animals are met by nature."
+    },
+    {
+      "id": "eve6_mcq_76",
+      "question": "Even human beings look to nature for:",
+      "options": ["a) Some needs", "b) All their needs", "c) No needs", "d) Only water"],
+      "correct_answer": "b) All their needs",
+      "explanation": "Even human beings look to nature for all their needs."
+    },
+    {
+      "id": "eve6_mcq_77",
+      "question": "Water is present on the earth in:",
+      "options": ["a) Scarcity", "b) Abundance", "c) Very small quantities", "d) No quantities"],
+      "correct_answer": "b) Abundance",
+      "explanation": "Water is present on the earth in abundance. But most of the water on our planet is salty."
+    },
+    {
+      "id": "eve6_mcq_78",
+      "question": "Thermal pollution in waterbodies is caused by discharge of:",
+      "options": ["a) Cold water", "b) Heated water from industries", "c) Clean water", "d) Rain water"],
+      "correct_answer": "b) Heated water from industries",
+      "explanation": "Many industries use water for cooling purposes. This heated water is discharged in ponds, rivers, etc. causing thermal pollution."
+    },
+    {
+      "id": "eve6_mcq_79",
+      "question": "The Exxon Valdez oil spill occurred in which body of water?",
+      "options": ["a) Atlantic Ocean", "b) Prince William Sound", "c) Pacific Ocean", "d) Gulf of Mexico"],
+      "correct_answer": "b) Prince William Sound",
+      "explanation": "The collision resulted in a leakage of 11 million gallons of oil into Prince William Sound."
+    },
+    {
+      "id": "eve6_mcq_80",
+      "question": "Both long and short-term effects of the Exxon Valdez oil spill have been:",
+      "options": ["a) Ignored", "b) Studied comprehensively", "c) Forgotten", "d) Not recorded"],
+      "correct_answer": "b) Studied comprehensively",
+      "explanation": "Both the long and short-term effects of the oil spill have been studied comprehensively."
     }
   ]
 }

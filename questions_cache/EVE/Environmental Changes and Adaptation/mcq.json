@@ -352,6 +352,216 @@
       "options": ["a) They grow stronger", "b) They are eliminated by nature", "c) They migrate to space", "d) They become larger"],
       "correct_answer": "b) They are eliminated by nature",
       "explanation": "Those organisms that change themselves according to their environment survive while others are eliminated by nature as they become unfit for those particular conditions."
+    },
+    {
+      "id": "eve5_mcq_51",
+      "question": "Which of the following is also a hydrophyte like lotus?",
+      "options": ["a) Neem", "b) Peepal", "c) Water hyacinth", "d) Banyan"],
+      "correct_answer": "c) Water hyacinth",
+      "explanation": "Lotus, hydrilla, water hyacinth, and duckweed are all examples of hydrophytes (water plants)."
+    },
+    {
+      "id": "eve5_mcq_52",
+      "question": "Duckweed is an example of:",
+      "options": ["a) Xerophyte", "b) Mesophyte", "c) Hydrophyte", "d) Epiphyte"],
+      "correct_answer": "c) Hydrophyte",
+      "explanation": "Duckweed, along with lotus, hydrilla, and water hyacinth, is a hydrophyte that lives in water."
+    },
+    {
+      "id": "eve5_mcq_53",
+      "question": "Which tree is an example of a mesophyte?",
+      "options": ["a) Cactus", "b) Hydrilla", "c) Neem", "d) Water lily"],
+      "correct_answer": "c) Neem",
+      "explanation": "Neem, along with mango, banyan, and peepal trees, are common examples of mesophytes."
+    },
+    {
+      "id": "eve5_mcq_54",
+      "question": "Banyan tree is classified as a:",
+      "options": ["a) Xerophyte", "b) Hydrophyte", "c) Mesophyte", "d) Halophyte"],
+      "correct_answer": "c) Mesophyte",
+      "explanation": "Banyan is a common land plant (mesophyte) that grows in conditions that are neither too wet nor too dry."
+    },
+    {
+      "id": "eve5_mcq_55",
+      "question": "Peepal tree belongs to which category of plants?",
+      "options": ["a) Hydrophytes", "b) Xerophytes", "c) Mesophytes", "d) Parasites"],
+      "correct_answer": "c) Mesophytes",
+      "explanation": "Peepal, along with mango, neem, and banyan, is an example of mesophyte plants."
+    },
+    {
+      "id": "eve5_mcq_56",
+      "question": "Where are stomata located in mesophytic plants?",
+      "options": ["a) Only on upper surface", "b) Only on lower surface", "c) On both surfaces of thin leaves", "d) In roots"],
+      "correct_answer": "c) On both surfaces of thin leaves",
+      "explanation": "In mesophytes, thin leaves are present with stomata on both sides, which aids transpiration."
+    },
+    {
+      "id": "eve5_mcq_57",
+      "question": "What provides mechanical support to mesophytes?",
+      "options": ["a) Air spaces", "b) Well developed tissue system", "c) Waxy coating", "d) Thorns"],
+      "correct_answer": "b) Well developed tissue system",
+      "explanation": "In mesophytes, there is a well developed tissue system which gives mechanical support to the plant."
+    },
+    {
+      "id": "eve5_mcq_58",
+      "question": "In deserts, the humidity is:",
+      "options": ["a) Very high", "b) Moderate", "c) Low", "d) Variable"],
+      "correct_answer": "c) Low",
+      "explanation": "Xerophytes are characteristic plants of deserts where humidity is low and temperature is high."
+    },
+    {
+      "id": "eve5_mcq_59",
+      "question": "What type of stem does cactus have?",
+      "options": ["a) Thin and woody", "b) Flat, green and succulent", "c) Hollow and light", "d) Covered with leaves"],
+      "correct_answer": "b) Flat, green and succulent",
+      "explanation": "In xerophytes like cactus, the stem is flat, green and succulent to perform the photosynthetic activity."
+    },
+    {
+      "id": "eve5_mcq_60",
+      "question": "Camouflage helps predators to:",
+      "options": ["a) Run faster", "b) Surprise their prey", "c) Drink more water", "d) Sleep longer"],
+      "correct_answer": "b) Surprise their prey",
+      "explanation": "Camouflage is helpful to predators to surprise their prey and for prey to hide from their predators."
+    },
+    {
+      "id": "eve5_mcq_61",
+      "question": "Camouflage involves changes in:",
+      "options": ["a) Only color", "b) Shape, color, stripes, and patterns", "c) Only size", "d) Only smell"],
+      "correct_answer": "b) Shape, color, stripes, and patterns",
+      "explanation": "Camouflage is not limited to color. It involves shape, color, stripes, patterns, etc."
+    },
+    {
+      "id": "eve5_mcq_62",
+      "question": "Which of the following animals is a quadruped (walks on four feet)?",
+      "options": ["a) Kangaroo", "b) Bird", "c) Human", "d) Deer"],
+      "correct_answer": "d) Deer",
+      "explanation": "Deer, horse, cow, and elephant are quadrupeds that walk on four feet, unlike bipedal animals like kangaroo and birds."
+    },
+    {
+      "id": "eve5_mcq_63",
+      "question": "Which bird has a beak adapted for catching fish?",
+      "options": ["a) Sparrow", "b) Duck", "c) Owl", "d) Parrot"],
+      "correct_answer": "b) Duck",
+      "explanation": "Different birds have different beaks according to their feeding habits. Ducks have flat beaks suited for catching fish and filtering water."
+    },
+    {
+      "id": "eve5_mcq_64",
+      "question": "The woodpecker has a beak adapted for:",
+      "options": ["a) Cracking nuts", "b) Drilling holes in trees", "c) Tearing flesh", "d) Filtering water"],
+      "correct_answer": "b) Drilling holes in trees",
+      "explanation": "Woodpeckers have strong, pointed beaks adapted for drilling holes in trees to find insects."
+    },
+    {
+      "id": "eve5_mcq_65",
+      "question": "Eagles have strong, hooked beaks because they:",
+      "options": ["a) Eat seeds", "b) Eat nectar", "c) Tear flesh of prey", "d) Filter water"],
+      "correct_answer": "c) Tear flesh of prey",
+      "explanation": "Eagles are predatory birds with strong, hooked beaks adapted for tearing the flesh of their prey."
+    },
+    {
+      "id": "eve5_mcq_66",
+      "question": "Parrots have curved beaks to:",
+      "options": ["a) Catch fish", "b) Drill wood", "c) Crack nuts and seeds", "d) Tear flesh"],
+      "correct_answer": "c) Crack nuts and seeds",
+      "explanation": "Parrots have strong, curved beaks adapted for cracking nuts and seeds."
+    },
+    {
+      "id": "eve5_mcq_67",
+      "question": "How do sparrows use their beaks?",
+      "options": ["a) To tear meat", "b) To filter water", "c) To pick and eat small seeds", "d) To drill wood"],
+      "correct_answer": "c) To pick and eat small seeds",
+      "explanation": "Sparrows have small, conical beaks adapted for picking and eating small seeds and grains."
+    },
+    {
+      "id": "eve5_mcq_68",
+      "question": "Owls have beaks adapted for:",
+      "options": ["a) Eating seeds", "b) Filtering water", "c) Tearing prey", "d) Drilling wood"],
+      "correct_answer": "c) Tearing prey",
+      "explanation": "Owls are predatory birds with hooked beaks adapted for tearing their prey (small animals)."
+    },
+    {
+      "id": "eve5_mcq_69",
+      "question": "The hoopoe bird uses its long, curved beak to:",
+      "options": ["a) Crack seeds", "b) Probe into the ground for insects", "c) Filter water", "d) Tear meat"],
+      "correct_answer": "b) Probe into the ground for insects",
+      "explanation": "Hoopoes have long, curved beaks adapted for probing into soil and finding insects."
+    },
+    {
+      "id": "eve5_mcq_70",
+      "question": "How can camels drink and store huge quantities of water?",
+      "options": ["a) They have special bladders", "b) Their body tissues can absorb and store water", "c) They carry water in their humps", "d) They don't store water"],
+      "correct_answer": "b) Their body tissues can absorb and store water",
+      "explanation": "Camels can drink and store a huge quantity of water in their bodies at a time, which they use during long desert journeys."
+    },
+    {
+      "id": "eve5_mcq_71",
+      "question": "Rain and wind can cause environmental changes by:",
+      "options": ["a) Increasing temperature", "b) Wearing the soil away", "c) Increasing humidity only", "d) Creating more vegetation"],
+      "correct_answer": "b) Wearing the soil away",
+      "explanation": "Rain and wind can cause environmental changes by wearing the soil away, which directly affects plant growth."
+    },
+    {
+      "id": "eve5_mcq_72",
+      "question": "The vegetation growing in a certain area depends upon the type of:",
+      "options": ["a) Air", "b) Water", "c) Soil", "d) Wind"],
+      "correct_answer": "c) Soil",
+      "explanation": "The vegetation growing in a certain area depends upon the type of soil."
+    },
+    {
+      "id": "eve5_mcq_73",
+      "question": "Living organisms bear the full impression of:",
+      "options": ["a) Other organisms", "b) The environment in which they grow", "c) Their ancestors only", "d) Their predators"],
+      "correct_answer": "b) The environment in which they grow",
+      "explanation": "Living organisms react with their environment and bear the full impression of the environment in which they grow."
+    },
+    {
+      "id": "eve5_mcq_74",
+      "question": "Some animals survive seasonal changes by becoming:",
+      "options": ["a) Larger", "b) More active", "c) Dormant", "d) More colorful"],
+      "correct_answer": "c) Dormant",
+      "explanation": "Some animals and plants cannot withstand temperature changes. Some survive by either becoming dormant or by changing their activities."
+    },
+    {
+      "id": "eve5_mcq_75",
+      "question": "What is the main purpose of adaptations?",
+      "options": ["a) To look different", "b) To maximize survival value", "c) To change color", "d) To grow larger"],
+      "correct_answer": "b) To maximize survival value",
+      "explanation": "In order to maximize their survival value and withstand adverse conditions, organisms develop certain special body features or resort to change in habits and habitats."
+    },
+    {
+      "id": "eve5_mcq_76",
+      "question": "Adaptations can be seen in:",
+      "options": ["a) Only plants", "b) Only animals", "c) Both plants and animals", "d) Only humans"],
+      "correct_answer": "c) Both plants and animals",
+      "explanation": "Adaptations can be seen in both plants and animals."
+    },
+    {
+      "id": "eve5_mcq_77",
+      "question": "Why do roots have no meaning in hydrophytes?",
+      "options": ["a) They cannot grow", "b) The entire body surface absorbs water and minerals", "c) Water plants don't need water", "d) They get nutrients from air"],
+      "correct_answer": "b) The entire body surface absorbs water and minerals",
+      "explanation": "Roots are meaningless in hydrophytes as the entire body surface of the plant absorbs water and minerals."
+    },
+    {
+      "id": "eve5_mcq_78",
+      "question": "Desert animals have many adaptations to help them survive in:",
+      "options": ["a) Cold climate", "b) Wet climate", "c) Desert climate", "d) Moderate climate"],
+      "correct_answer": "c) Desert climate",
+      "explanation": "Desert animals have many adaptations to help them survive in the desert climate."
+    },
+    {
+      "id": "eve5_mcq_79",
+      "question": "Which environmental factor is caused by weather patterns?",
+      "options": ["a) Soil type", "b) Temperature change", "c) Vegetation type", "d) Water availability"],
+      "correct_answer": "b) Temperature change",
+      "explanation": "Change in temperature is one of the causes of environmental change. Temperature change is caused by weather pattern."
+    },
+    {
+      "id": "eve5_mcq_80",
+      "question": "Adaptations enable organisms to:",
+      "options": ["a) Live uncomfortably", "b) Live and adjust according to their environment effectively", "c) Only survive for short periods", "d) Avoid all environmental changes"],
+      "correct_answer": "b) Live and adjust according to their environment effectively",
+      "explanation": "These adaptations have enabled the organisms to live and adjust according to their environment effectively."
     }
   ]
 }
