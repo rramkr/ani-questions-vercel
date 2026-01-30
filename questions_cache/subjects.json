@@ -17,6 +17,12 @@
       "slug": "english_e2",
       "icon": "📚",
       "chapter_count": 4
+    },
+    {
+      "name": "EVE",
+      "slug": "EVE",
+      "icon": "🌍",
+      "chapter_count": 4
     }
   ]
 }

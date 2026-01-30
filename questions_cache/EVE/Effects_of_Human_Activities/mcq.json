@@ -1,0 +1,357 @@
+{
+  "subject": "EVE",
+  "chapter": "Effects of Human Activities and Population Growth",
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "eve7_mcq_1",
+      "question": "At what rate is the human population increasing?",
+      "options": ["a) Slowly", "b) At an alarming rate", "c) Decreasing", "d) Staying constant"],
+      "correct_answer": "b) At an alarming rate",
+      "explanation": "Human population is increasing at an alarming rate."
+    },
+    {
+      "id": "eve7_mcq_2",
+      "question": "The human population is estimated to double in how many years?",
+      "options": ["a) 10 years", "b) 25 years", "c) 35 years", "d) 50 years"],
+      "correct_answer": "c) 35 years",
+      "explanation": "The human population is estimated to double in the next 35 years."
+    },
+    {
+      "id": "eve7_mcq_3",
+      "question": "The population of India has already crossed:",
+      "options": ["a) 500 million", "b) 800 million", "c) One billion", "d) Two billion"],
+      "correct_answer": "c) One billion",
+      "explanation": "It is most alarming to note that the population of India has already crossed one billion."
+    },
+    {
+      "id": "eve7_mcq_4",
+      "question": "What will uncontrolled population growth lead to?",
+      "options": ["a) More resources", "b) Depletion of resources and socio-economic problems", "c) Better environment", "d) More forests"],
+      "correct_answer": "b) Depletion of resources and socio-economic problems",
+      "explanation": "If the current rate continues, it will not only lead to depletion of resources but also cause a number of socio-economic problems."
+    },
+    {
+      "id": "eve7_mcq_5",
+      "question": "What does overpopulation create in cities?",
+      "options": ["a) More parks", "b) More noise pollution and distraction", "c) Cleaner environment", "d) Better infrastructure"],
+      "correct_answer": "b) More noise pollution and distraction",
+      "explanation": "Overpopulation has serious impact on environment. It creates more noise pollution and distraction."
+    },
+    {
+      "id": "eve7_mcq_6",
+      "question": "Why do people in overpopulated cities like New Delhi and New York tend to be less helpful and friendly?",
+      "options": ["a) They are rich", "b) Stress due to overcrowding", "c) They don't speak the same language", "d) They are too busy with entertainment"],
+      "correct_answer": "b) Stress due to overcrowding",
+      "explanation": "Overpopulated cities like New Delhi, New York, etc. have less helpful and friendly people because of stress due to overcrowding."
+    },
+    {
+      "id": "eve7_mcq_7",
+      "question": "What has increased demand for food led to?",
+      "options": ["a) Less farming", "b) More pressure on land and clearing of forests", "c) Better forests", "d) Less population"],
+      "correct_answer": "b) More pressure on land and clearing of forests",
+      "explanation": "With the increase in population, the demand for food has also increased. This has put more pressure on the land. More and more forests are being cleared to provide agricultural land."
+    },
+    {
+      "id": "eve7_mcq_8",
+      "question": "Clearing forests for agriculture disturbs the ecological balance leading to problems like:",
+      "options": ["a) Better weather", "b) Soil erosion, floods, famines, desertification", "c) More rainfall", "d) Cleaner air"],
+      "correct_answer": "b) Soil erosion, floods, famines, desertification",
+      "explanation": "Clearing forests for agriculture has disturbed the ecological balance on the earth leading to problems like soil erosion, floods, famines, desertification, etc."
+    },
+    {
+      "id": "eve7_mcq_9",
+      "question": "What do fertilisers and pesticides used to increase food production cause?",
+      "options": ["a) Clean environment", "b) Soil and water pollution", "c) Better crops only", "d) No harm"],
+      "correct_answer": "b) Soil and water pollution",
+      "explanation": "In order to increase food products, more and more fertilisers and pesticides are used which cause soil and water pollution."
+    },
+    {
+      "id": "eve7_mcq_10",
+      "question": "Indiscriminate cutting of forests increases the carbon dioxide content of air, resulting in:",
+      "options": ["a) Cooler temperatures", "b) Greenhouse effect and increased temperature", "c) More oxygen", "d) Better air quality"],
+      "correct_answer": "b) Greenhouse effect and increased temperature",
+      "explanation": "Indiscriminate cutting of forests for agriculture is increasing the carbon dioxide content of air, thereby resulting in the increased temperature of the earth leading to greenhouse effect."
+    },
+    {
+      "id": "eve7_mcq_11",
+      "question": "What causes loss of habitat for wildlife?",
+      "options": ["a) Planting more trees", "b) Deforestation for land and resources", "c) Protecting forests", "d) Creating wildlife sanctuaries"],
+      "correct_answer": "b) Deforestation for land and resources",
+      "explanation": "More and more forests are being felled for land and for resources. This causes a loss of habitat for wildlife."
+    },
+    {
+      "id": "eve7_mcq_12",
+      "question": "Which of the following animal species became extinct due to human intervention?",
+      "options": ["a) Tiger and elephant", "b) Indian cheetah and dodo", "c) Lion and deer", "d) Cow and horse"],
+      "correct_answer": "b) Indian cheetah and dodo",
+      "explanation": "The Indian cheetah and the dodo are examples of animal species which became extinct as a result of human intervention."
+    },
+    {
+      "id": "eve7_mcq_13",
+      "question": "Where are many endangered Himalayan plants and animals listed?",
+      "options": ["a) Blue Data Book", "b) Green Data Book", "c) Red Data Book", "d) Yellow Data Book"],
+      "correct_answer": "c) Red Data Book",
+      "explanation": "Many Himalayan plants and animals are endangered and listed in the Red Data Book published by IUCN."
+    },
+    {
+      "id": "eve7_mcq_14",
+      "question": "What does IUCN stand for?",
+      "options": ["a) International Union for Conservation of Nature and Natural Resources", "b) Indian Union for Conservation of Nature", "c) International Unit for Climate and Nature", "d) Indian Unit for Climate and Nature"],
+      "correct_answer": "a) International Union for Conservation of Nature and Natural Resources",
+      "explanation": "IUCN stands for International Union for Conservation of Nature and Natural Resources."
+    },
+    {
+      "id": "eve7_mcq_15",
+      "question": "What does loss of a species harm?",
+      "options": ["a) Buildings", "b) The food chain", "c) Roads", "d) Machines"],
+      "correct_answer": "b) The food chain",
+      "explanation": "Loss of a species has many harms. It harms the food chain."
+    },
+    {
+      "id": "eve7_mcq_16",
+      "question": "What can wild reserves help in if managed properly?",
+      "options": ["a) Creating pollution", "b) Earning revenue through tourism", "c) Building houses", "d) Making roads"],
+      "correct_answer": "b) Earning revenue through tourism",
+      "explanation": "Animal species are a tourist attraction. Thus wild reserves can help in earning a lot of revenue if managed properly."
+    },
+    {
+      "id": "eve7_mcq_17",
+      "question": "Which animals are still being poached despite their reduced numbers?",
+      "options": ["a) Dogs and cats", "b) Lions, tigers, rhinos and elephants", "c) Cows and buffaloes", "d) Chickens and ducks"],
+      "correct_answer": "b) Lions, tigers, rhinos and elephants",
+      "explanation": "Sadly, our lions, tigers, rhinos and elephants are still being poached, further threatening their already reduced numbers."
+    },
+    {
+      "id": "eve7_mcq_18",
+      "question": "What are the three non-renewable resources we primarily depend on for energy?",
+      "options": ["a) Water, air, soil", "b) Coal, petroleum, natural gas", "c) Sun, wind, water", "d) Wood, paper, plastic"],
+      "correct_answer": "b) Coal, petroleum, natural gas",
+      "explanation": "At present we are primarily dependent on three non-renewable resources for our requirement of energy. They are coal, petroleum and natural gas."
+    },
+    {
+      "id": "eve7_mcq_19",
+      "question": "By rough estimation, if coal is used at the present rate, available coal reserves will be exhausted within:",
+      "options": ["a) 50 years", "b) 100 years", "c) 200 years", "d) 500 years"],
+      "correct_answer": "b) 100 years",
+      "explanation": "By rough estimation, if coal is continued to be used at the present rate, then available coal reserves will be exhausted within a hundred years."
+    },
+    {
+      "id": "eve7_mcq_20",
+      "question": "What does increased mining and use of coal and petroleum result in?",
+      "options": ["a) Cleaner environment", "b) Pollution of land, water and air", "c) More forests", "d) Better health"],
+      "correct_answer": "b) Pollution of land, water and air",
+      "explanation": "Increased mining and use of coal and petroleum results in pollution of land, water and air."
+    },
+    {
+      "id": "eve7_mcq_21",
+      "question": "What poisonous gases are produced when petrol and diesel are burnt in automobiles?",
+      "options": ["a) Oxygen and hydrogen", "b) Nitrogen oxide and sulphur oxide", "c) Pure air", "d) Water vapor only"],
+      "correct_answer": "b) Nitrogen oxide and sulphur oxide",
+      "explanation": "When petrol and diesel are burnt in automobiles, poisonous gases like nitrogen oxide and sulphur oxide are produced which pollute the air."
+    },
+    {
+      "id": "eve7_mcq_22",
+      "question": "In many rural homes, what is used as a fuel to cook food?",
+      "options": ["a) Electricity", "b) Coal", "c) Solar energy", "d) Natural gas"],
+      "correct_answer": "b) Coal",
+      "explanation": "In many of the rural homes coal is used as a fuel to cook food."
+    },
+    {
+      "id": "eve7_mcq_23",
+      "question": "What poisonous gases does burning of coal produce?",
+      "options": ["a) Oxygen", "b) Carbon monoxide and sulphur oxide", "c) Nitrogen", "d) Hydrogen"],
+      "correct_answer": "b) Carbon monoxide and sulphur oxide",
+      "explanation": "Burning of coal produces poisonous gases like carbon monoxide and sulphur oxide which pollute the air."
+    },
+    {
+      "id": "eve7_mcq_24",
+      "question": "What has increased the level of CO2 in the atmosphere?",
+      "options": ["a) Planting trees", "b) Destruction of forests and excessive burning of fossil fuels", "c) Creating parks", "d) Conserving water"],
+      "correct_answer": "b) Destruction of forests and excessive burning of fossil fuels",
+      "explanation": "Destruction of forests and excessive burning of fossil fuels has increased the level of CO2 in atmosphere."
+    },
+    {
+      "id": "eve7_mcq_25",
+      "question": "What does CO2 do to the Sun's heat?",
+      "options": ["a) Reflects it back", "b) Traps it and prevents it from being re-radiated out", "c) Absorbs it completely", "d) Has no effect"],
+      "correct_answer": "b) Traps it and prevents it from being re-radiated out",
+      "explanation": "CO2 traps the Sun's heat and prevents it from being re-radiated out. This results in the heating up of the earth's atmosphere."
+    },
+    {
+      "id": "eve7_mcq_26",
+      "question": "What is the heating up of the earth's atmosphere due to trapped heat called?",
+      "options": ["a) Acid rain", "b) Greenhouse effect", "c) Ozone depletion", "d) Thermal pollution"],
+      "correct_answer": "b) Greenhouse effect",
+      "explanation": "The heating up of the earth's atmosphere due to trapped heat is called the greenhouse effect."
+    },
+    {
+      "id": "eve7_mcq_27",
+      "question": "Which gases contribute to global warming besides CO2?",
+      "options": ["a) Oxygen only", "b) SO2, NO, NO2, CFCs", "c) Nitrogen only", "d) Hydrogen only"],
+      "correct_answer": "b) SO2, NO, NO2, CFCs",
+      "explanation": "Other gases like SO2, NO, NO2, CFCs also contribute to global warming."
+    },
+    {
+      "id": "eve7_mcq_28",
+      "question": "What threats do we face due to global warming?",
+      "options": ["a) Better weather", "b) Melting of glaciers, flooding of coastal plains, change in rainfall patterns", "c) More forests", "d) Cooler climate"],
+      "correct_answer": "b) Melting of glaciers, flooding of coastal plains, change in rainfall patterns",
+      "explanation": "The threat we face due to global warming is the melting of glaciers and polar ice caps, flooding of low lying coastal plains, change in rainfall patterns and even submersion of some islands."
+    },
+    {
+      "id": "eve7_mcq_29",
+      "question": "Why are new cities and towns coming up fast?",
+      "options": ["a) For entertainment", "b) To accommodate the growing population", "c) For tourism", "d) For forests"],
+      "correct_answer": "b) To accommodate the growing population",
+      "explanation": "New cities and towns are coming up fast to accommodate the growing population."
+    },
+    {
+      "id": "eve7_mcq_30",
+      "question": "What are being cleared to provide land for building houses?",
+      "options": ["a) Oceans", "b) Forests and agricultural lands", "c) Mountains", "d) Deserts"],
+      "correct_answer": "b) Forests and agricultural lands",
+      "explanation": "Forests and agricultural lands are being cleared to provide land for building houses."
+    },
+    {
+      "id": "eve7_mcq_31",
+      "question": "What problems does clearing land for housing create?",
+      "options": ["a) Better drainage", "b) Soil erosion and floods", "c) More forests", "d) Cleaner air"],
+      "correct_answer": "b) Soil erosion and floods",
+      "explanation": "Clearing land for housing creates problems like soil erosion and floods."
+    },
+    {
+      "id": "eve7_mcq_32",
+      "question": "What has increased demand for houses in urban areas resulted in?",
+      "options": ["a) Better housing", "b) Increased number of slums", "c) More parks", "d) Better roads"],
+      "correct_answer": "b) Increased number of slums",
+      "explanation": "Increased demand of houses, especially in urban areas has resulted in the increased number of slums."
+    },
+    {
+      "id": "eve7_mcq_33",
+      "question": "What becomes a great problem in congested slum areas?",
+      "options": ["a) Too much space", "b) Sanitation", "c) Too many trees", "d) Clean water"],
+      "correct_answer": "b) Sanitation",
+      "explanation": "Sanitation becomes a great problem in these congested areas."
+    },
+    {
+      "id": "eve7_mcq_34",
+      "question": "What is wrong to regard as the main enemy of the environment?",
+      "options": ["a) Population", "b) Industrial and technological development alone", "c) Animals", "d) Plants"],
+      "correct_answer": "b) Industrial and technological development alone",
+      "explanation": "It is wrong to regard industrial and technological development as the main enemy of the environment. The main culprit is uncontrolled and mismanaged development."
+    },
+    {
+      "id": "eve7_mcq_35",
+      "question": "What is the main culprit of environmental damage from industries?",
+      "options": ["a) Technology itself", "b) Uncontrolled and mismanaged development", "c) Workers", "d) Machines"],
+      "correct_answer": "b) Uncontrolled and mismanaged development",
+      "explanation": "The main culprit is uncontrolled and mismanaged development."
+    },
+    {
+      "id": "eve7_mcq_36",
+      "question": "What does increase in population result in?",
+      "options": ["a) More wealth", "b) Poverty and unemployment", "c) Better health", "d) More resources"],
+      "correct_answer": "b) Poverty and unemployment",
+      "explanation": "Increase in population results in poverty and unemployment."
+    },
+    {
+      "id": "eve7_mcq_37",
+      "question": "Poverty and unemployment are the root cause of:",
+      "options": ["a) Better society", "b) Human competition leading to violence, crime, stress, disease", "c) More jobs", "d) Peaceful life"],
+      "correct_answer": "b) Human competition leading to violence, crime, stress, disease",
+      "explanation": "Poverty and unemployment are the root cause of human competition which leads to other problems like violence, crime, stress, disease, etc."
+    },
+    {
+      "id": "eve7_mcq_38",
+      "question": "Since when have slums existed in Mumbai?",
+      "options": ["a) Since independence", "b) Over many centuries", "c) Since 2000", "d) Since 1990"],
+      "correct_answer": "b) Over many centuries",
+      "explanation": "Slums have always existed in Mumbai. Over many centuries, they have grown without any planning."
+    },
+    {
+      "id": "eve7_mcq_39",
+      "question": "Since when have slums risen dramatically in Mumbai?",
+      "options": ["a) 1900", "b) 1950", "c) 1980", "d) 2000"],
+      "correct_answer": "b) 1950",
+      "explanation": "Slums have risen dramatically since 1950."
+    },
+    {
+      "id": "eve7_mcq_40",
+      "question": "By how much has Mumbai's population grown since India's independence in 1947?",
+      "options": ["a) Doubled", "b) Tripled", "c) Quadrupled", "d) Same"],
+      "correct_answer": "b) Tripled",
+      "explanation": "Mumbai's population has tripled since India's independence in 1947."
+    },
+    {
+      "id": "eve7_mcq_41",
+      "question": "What is the area of Mumbai?",
+      "options": ["a) 303 sq km", "b) 603 sq km", "c) 903 sq km", "d) 1003 sq km"],
+      "correct_answer": "b) 603 sq km",
+      "explanation": "For an area as tiny as 603 sq km, the population of Mumbai has grown to a staggering 13 million plus."
+    },
+    {
+      "id": "eve7_mcq_42",
+      "question": "What is Mumbai's population density?",
+      "options": ["a) Over 10,000 per sq km", "b) Over 20,000 per sq km", "c) Over 30,000 per sq km", "d) Over 5,000 per sq km"],
+      "correct_answer": "b) Over 20,000 per sq km",
+      "explanation": "This puts the population density at over 20,000 people per sq.km in Mumbai."
+    },
+    {
+      "id": "eve7_mcq_43",
+      "question": "What percentage of Mumbai's population are slum dwellers?",
+      "options": ["a) 30%", "b) 40%", "c) 50%", "d) 60%"],
+      "correct_answer": "d) 60%",
+      "explanation": "Today slum dwellers make up 60% of Mumbai's population, that is approximately 7 million people."
+    },
+    {
+      "id": "eve7_mcq_44",
+      "question": "What issues do slum inhabitants constantly have to deal with?",
+      "options": ["a) Too much space", "b) Constant migration, lack of water, no sewage, pollution, housing shortages", "c) Too many trees", "d) Clean environment"],
+      "correct_answer": "b) Constant migration, lack of water, no sewage, pollution, housing shortages",
+      "explanation": "Slum inhabitants constantly have to deal with issues such as constant migration, lack of water, no sewage or solid waste facilities, lack of public transit, pollution and housing shortages."
+    },
+    {
+      "id": "eve7_mcq_45",
+      "question": "How does infant mortality in Mumbai slums compare to rural India?",
+      "options": ["a) Much lower", "b) As high as in rural India", "c) Non-existent", "d) Better"],
+      "correct_answer": "b) As high as in rural India",
+      "explanation": "Infant mortality in Mumbai slums is as high as it is in rural India."
+    },
+    {
+      "id": "eve7_mcq_46",
+      "question": "What happens to some slums during monsoon season?",
+      "options": ["a) They become dry", "b) They are submerged knee deep in water", "c) They become clean", "d) Nothing happens"],
+      "correct_answer": "b) They are submerged knee deep in water",
+      "explanation": "When monsoon season hits, some slums are submerged knee deep in water."
+    },
+    {
+      "id": "eve7_mcq_47",
+      "question": "Deforestation causes what to the temperature of earth?",
+      "options": ["a) Decrease", "b) Increase", "c) No change", "d) Fluctuation"],
+      "correct_answer": "b) Increase",
+      "explanation": "Deforestation causes increase in the temperature of earth."
+    },
+    {
+      "id": "eve7_mcq_48",
+      "question": "What do many medicinal plants face due to deforestation?",
+      "options": ["a) Growth", "b) Near extinction", "c) Multiplication", "d) No effect"],
+      "correct_answer": "b) Near extinction",
+      "explanation": "Many medicinal plants are nearly extinct due to deforestation."
+    },
+    {
+      "id": "eve7_mcq_49",
+      "question": "What technological progress creates along with pollution?",
+      "options": ["a) More pollution only", "b) Many opportunities to prevent pollution", "c) Nothing useful", "d) More problems only"],
+      "correct_answer": "b) Many opportunities to prevent pollution",
+      "explanation": "It is true that technological processes have intensified pollution. But on the other hand the same technological progress creates many opportunities to prevent pollution."
+    },
+    {
+      "id": "eve7_mcq_50",
+      "question": "Which areas of Mumbai have slums spread into?",
+      "options": ["a) Only Dharavi", "b) Byculla, Mahim Creek, Parel, Dadar, Matunga", "c) Only South Mumbai", "d) Only North Mumbai"],
+      "correct_answer": "b) Byculla, Mahim Creek, Parel, Dadar, Matunga",
+      "explanation": "Slums eventually spread into the areas neighbouring Byculla, such as Mahim Creek, Parel, Dadar and Matunga and wherever else they can find space, even on roads."
+    }
+  ]
+}

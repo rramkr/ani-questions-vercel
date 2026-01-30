@@ -1,0 +1,357 @@
+{
+  "subject": "EVE",
+  "chapter": "Environmental Changes and Adaptation",
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "eve5_mcq_1",
+      "question": "What constitutes the external conditions and circumstances that affect living beings?",
+      "options": ["a) Habitat", "b) Environment", "c) Ecosystem", "d) Biosphere"],
+      "correct_answer": "b) Environment",
+      "explanation": "Environment constitutes the external conditions and circumstances that affect living beings."
+    },
+    {
+      "id": "eve5_mcq_2",
+      "question": "When animals move from one area to another to escape unfavorable conditions, it is called:",
+      "options": ["a) Adaptation", "b) Hibernation", "c) Migration", "d) Camouflage"],
+      "correct_answer": "c) Migration",
+      "explanation": "Migration is when animals move away from one area to another to tide away the unfavorable time."
+    },
+    {
+      "id": "eve5_mcq_3",
+      "question": "Which of the following is NOT a cause of environmental change?",
+      "options": ["a) Temperature", "b) Humidity", "c) Adaptation", "d) Rainfall"],
+      "correct_answer": "c) Adaptation",
+      "explanation": "Temperature, humidity, rainfall, wind, and type of soil are causes of environmental changes. Adaptation is the response to these changes, not a cause."
+    },
+    {
+      "id": "eve5_mcq_4",
+      "question": "What is the development or modification in characteristics to adjust to environmental changes called?",
+      "options": ["a) Evolution", "b) Adaptation", "c) Migration", "d) Mutation"],
+      "correct_answer": "b) Adaptation",
+      "explanation": "Adaptation is the development or modification in characteristics, whether physical or habitual, in an organism to adjust itself according to changes in the environment."
+    },
+    {
+      "id": "eve5_mcq_5",
+      "question": "How many basic categories of plant adaptations are there based on habitat?",
+      "options": ["a) Two", "b) Three", "c) Four", "d) Five"],
+      "correct_answer": "b) Three",
+      "explanation": "There are three basic categories of plant adaptations: Hydrophytes, Mesophytes, and Xerophytes."
+    },
+    {
+      "id": "eve5_mcq_6",
+      "question": "Plants that live in water are called:",
+      "options": ["a) Xerophytes", "b) Mesophytes", "c) Hydrophytes", "d) Epiphytes"],
+      "correct_answer": "c) Hydrophytes",
+      "explanation": "Hydrophytes means water plants. Plants such as lotus, hydrilla, water hyacinth and duckweed that live in water are known as hydrophytes."
+    },
+    {
+      "id": "eve5_mcq_7",
+      "question": "Which of the following is an example of a hydrophyte?",
+      "options": ["a) Cactus", "b) Mango", "c) Lotus", "d) Neem"],
+      "correct_answer": "c) Lotus",
+      "explanation": "Lotus, hydrilla, water hyacinth, and duckweed are examples of hydrophytes (water plants)."
+    },
+    {
+      "id": "eve5_mcq_8",
+      "question": "Why are the leaves of lotus smooth, shining and coated with wax?",
+      "options": ["a) To attract insects", "b) To make them waterproof", "c) To increase transpiration", "d) To absorb more sunlight"],
+      "correct_answer": "b) To make them waterproof",
+      "explanation": "Leaves of free-floating plants like lotus are smooth, shining and coated with wax to make them waterproof."
+    },
+    {
+      "id": "eve5_mcq_9",
+      "question": "What type of leaves do submerged hydrophytes like hydrilla have?",
+      "options": ["a) Broad and thick", "b) Thin, ribbon-like, frayed", "c) Needle-like", "d) Waxy and smooth"],
+      "correct_answer": "b) Thin, ribbon-like, frayed",
+      "explanation": "Submerged hydrophytes like hydrilla are adapted to have thin, ribbon-like, frayed leaves. This allows safe passage of water currents."
+    },
+    {
+      "id": "eve5_mcq_10",
+      "question": "How is the root system in hydrophytes?",
+      "options": ["a) Very well developed", "b) Moderately developed", "c) Very poorly developed", "d) Absent"],
+      "correct_answer": "c) Very poorly developed",
+      "explanation": "Root system in hydrophytes is very poorly developed. Roots are meaningless in hydrophytes as the entire body surface of the plant absorbs water and minerals."
+    },
+    {
+      "id": "eve5_mcq_11",
+      "question": "Why do hydrophytes have tender pliable stems with air spaces?",
+      "options": ["a) To absorb more water", "b) To keep them float", "c) To increase photosynthesis", "d) To protect from predators"],
+      "correct_answer": "b) To keep them float",
+      "explanation": "Hydrophytes have tender pliable stems containing numerous air spaces to keep them float."
+    },
+    {
+      "id": "eve5_mcq_12",
+      "question": "Mesophytes are plants which grow in conditions that are:",
+      "options": ["a) Very wet", "b) Very dry", "c) Neither too wet nor too dry", "d) Extremely cold"],
+      "correct_answer": "c) Neither too wet nor too dry",
+      "explanation": "Mesophytes are common land plants which grow in situations that are neither too wet nor too dry."
+    },
+    {
+      "id": "eve5_mcq_13",
+      "question": "Which of the following is an example of a mesophyte?",
+      "options": ["a) Lotus", "b) Cactus", "c) Mango", "d) Hydrilla"],
+      "correct_answer": "c) Mango",
+      "explanation": "Common examples of mesophytes are mango, neem, banyan and peepal trees."
+    },
+    {
+      "id": "eve5_mcq_14",
+      "question": "What type of root system do mesophytes have?",
+      "options": ["a) Poorly developed", "b) Well developed", "c) Absent", "d) Aerial roots only"],
+      "correct_answer": "b) Well developed",
+      "explanation": "In mesophytes, the root system is well developed."
+    },
+    {
+      "id": "eve5_mcq_15",
+      "question": "What are stomata?",
+      "options": ["a) Large pores for water absorption", "b) Small pores on leaf surface for gaseous exchange", "c) Air spaces in stems", "d) Root hairs"],
+      "correct_answer": "b) Small pores on leaf surface for gaseous exchange",
+      "explanation": "Stomata are small pores on leaf surface for gaseous exchange."
+    },
+    {
+      "id": "eve5_mcq_16",
+      "question": "Why do mesophyte leaves have pointed tips?",
+      "options": ["a) To absorb more sunlight", "b) To promote efficient dripping of water from the surface", "c) To protect from animals", "d) To increase photosynthesis"],
+      "correct_answer": "b) To promote efficient dripping of water from the surface",
+      "explanation": "Leaf tips of mesophytes are generally pointed. This promotes efficient dripping of water from the surface."
+    },
+    {
+      "id": "eve5_mcq_17",
+      "question": "Plants which grow in dry habitats or xeric conditions are called:",
+      "options": ["a) Hydrophytes", "b) Mesophytes", "c) Xerophytes", "d) Halophytes"],
+      "correct_answer": "c) Xerophytes",
+      "explanation": "Plants which grow in dry habitats or xeric conditions are called xerophytes."
+    },
+    {
+      "id": "eve5_mcq_18",
+      "question": "In which type of environment are xerophytes typically found?",
+      "options": ["a) Rainforests", "b) Deserts", "c) Ponds", "d) Oceans"],
+      "correct_answer": "b) Deserts",
+      "explanation": "Xerophytes are characteristic plants of deserts where humidity is low and temperature is high."
+    },
+    {
+      "id": "eve5_mcq_19",
+      "question": "Which is a typical example of a xerophyte?",
+      "options": ["a) Lotus", "b) Mango", "c) Cactus", "d) Banyan"],
+      "correct_answer": "c) Cactus",
+      "explanation": "Cactus (Prickly Pear) is a typical example of a xerophyte."
+    },
+    {
+      "id": "eve5_mcq_20",
+      "question": "Why is the root system of xerophytes very well developed?",
+      "options": ["a) To store water", "b) To absorb water from deep inside the soil", "c) To anchor the plant", "d) To absorb nutrients from air"],
+      "correct_answer": "b) To absorb water from deep inside the soil",
+      "explanation": "The root system of xerophytes is very well developed in order to absorb water from deep inside the soil."
+    },
+    {
+      "id": "eve5_mcq_21",
+      "question": "In xerophytes, leaves are reduced to spines or thorns to:",
+      "options": ["a) Attract pollinators", "b) Minimize water loss", "c) Increase photosynthesis", "d) Store food"],
+      "correct_answer": "b) Minimize water loss",
+      "explanation": "In xerophytes, the leaves are reduced to spines or thorns to minimize water loss."
+    },
+    {
+      "id": "eve5_mcq_22",
+      "question": "In xerophytes like cactus, which part performs photosynthesis?",
+      "options": ["a) Leaves", "b) Roots", "c) Stem", "d) Thorns"],
+      "correct_answer": "c) Stem",
+      "explanation": "In xerophytes, stem is flat, green and succulent to perform the photosynthetic activity."
+    },
+    {
+      "id": "eve5_mcq_23",
+      "question": "Why are stomata sunken in xerophytes?",
+      "options": ["a) To increase water absorption", "b) To reduce water loss through transpiration", "c) To increase photosynthesis", "d) To protect from sunlight"],
+      "correct_answer": "b) To reduce water loss through transpiration",
+      "explanation": "Stomata are sunken in xerophytes to reduce water loss through transpiration."
+    },
+    {
+      "id": "eve5_mcq_24",
+      "question": "What is the purpose of heavy wax deposition on the surface of xerophytes?",
+      "options": ["a) To attract insects", "b) To check water loss", "c) To increase photosynthesis", "d) To store food"],
+      "correct_answer": "b) To check water loss",
+      "explanation": "Heavy wax deposition on the surface helps to check water loss in xerophytes."
+    },
+    {
+      "id": "eve5_mcq_25",
+      "question": "Why is the body of aquatic animals compressed laterally?",
+      "options": ["a) To store water", "b) To allow swift passage in water while swimming", "c) To increase buoyancy", "d) To absorb oxygen"],
+      "correct_answer": "b) To allow swift passage in water while swimming",
+      "explanation": "The body of aquatic animals is compressed laterally. Such a streamlined body allows swift passage in water while swimming."
+    },
+    {
+      "id": "eve5_mcq_26",
+      "question": "What is the function of air bladder in certain fishes?",
+      "options": ["a) Respiration", "b) Maintain buoyancy", "c) Digestion", "d) Reproduction"],
+      "correct_answer": "b) Maintain buoyancy",
+      "explanation": "Certain fishes possess air bladder which is filled with air and helps maintain buoyancy."
+    },
+    {
+      "id": "eve5_mcq_27",
+      "question": "What organs do aquatic animals possess for respiration?",
+      "options": ["a) Lungs", "b) Gills", "c) Skin", "d) Stomata"],
+      "correct_answer": "b) Gills",
+      "explanation": "Aquatic animals possess gills as organs of respiration."
+    },
+    {
+      "id": "eve5_mcq_28",
+      "question": "Fishes possess fins and a laterally compressed tail for:",
+      "options": ["a) Respiration", "b) Locomotion", "c) Digestion", "d) Reproduction"],
+      "correct_answer": "b) Locomotion",
+      "explanation": "Fishes possess fins and a laterally compressed tail for locomotion."
+    },
+    {
+      "id": "eve5_mcq_29",
+      "question": "What is camouflage?",
+      "options": ["a) Migration to a new place", "b) Changing color to blend with surroundings", "c) Storing water in the body", "d) Flying at night"],
+      "correct_answer": "b) Changing color to blend with surroundings",
+      "explanation": "Camouflage is the ability to change color to blend with surroundings. It involves shape, color, stripes, patterns, etc."
+    },
+    {
+      "id": "eve5_mcq_30",
+      "question": "Which animal is famous for camouflage by changing its color?",
+      "options": ["a) Lion", "b) Elephant", "c) Chameleon", "d) Deer"],
+      "correct_answer": "c) Chameleon",
+      "explanation": "Chameleons are able to change their color to blend with their surroundings. This is called camouflage."
+    },
+    {
+      "id": "eve5_mcq_31",
+      "question": "Why do tigers have stripes?",
+      "options": ["a) To attract mates", "b) To surprise their prey in ambush", "c) To keep cool", "d) To scare predators"],
+      "correct_answer": "b) To surprise their prey in ambush",
+      "explanation": "Tigers have stripes that help them to surprise their prey in ambush as part of camouflage."
+    },
+    {
+      "id": "eve5_mcq_32",
+      "question": "Leaf insects and drystick insects resemble:",
+      "options": ["a) Flowers", "b) Fruits", "c) Plant parts", "d) Stones"],
+      "correct_answer": "c) Plant parts",
+      "explanation": "Leaf insects, drystick insects, etc. resemble plant parts and hide in plants as camouflage."
+    },
+    {
+      "id": "eve5_mcq_33",
+      "question": "Terrestrial animals that are runners, walkers, climbers, and draggers have modified:",
+      "options": ["a) Eyes", "b) Feet", "c) Ears", "d) Tails"],
+      "correct_answer": "b) Feet",
+      "explanation": "The foot of terrestrial animals is suitably modified for walking and running to help them find food and escape enemies."
+    },
+    {
+      "id": "eve5_mcq_34",
+      "question": "What is bipedal mode of locomotion?",
+      "options": ["a) Walking on four legs", "b) Walking on two legs", "c) Swimming", "d) Flying"],
+      "correct_answer": "b) Walking on two legs",
+      "explanation": "Bipedal locomotion means two-footed locomotion. Examples include birds, kangaroo, and human beings."
+    },
+    {
+      "id": "eve5_mcq_35",
+      "question": "Which of the following shows bipedal locomotion?",
+      "options": ["a) Horse", "b) Elephant", "c) Kangaroo", "d) Cow"],
+      "correct_answer": "c) Kangaroo",
+      "explanation": "Birds, kangaroo, and human beings show bipedal (two-footed) mode of locomotion."
+    },
+    {
+      "id": "eve5_mcq_36",
+      "question": "Which animals have heads modified for burrowing and digging?",
+      "options": ["a) Birds", "b) Fish", "c) Shrew, mole, rabbit", "d) Deer, horse"],
+      "correct_answer": "c) Shrew, mole, rabbit",
+      "explanation": "In some terrestrial animals like shrew, mole, and rabbit, the head is modified for burrowing and digging."
+    },
+    {
+      "id": "eve5_mcq_37",
+      "question": "Different types of beaks in birds have developed according to their:",
+      "options": ["a) Size", "b) Color", "c) Feeding habits", "d) Habitat"],
+      "correct_answer": "c) Feeding habits",
+      "explanation": "Adaptation has resulted in different types of beaks in birds according to their feeding habits."
+    },
+    {
+      "id": "eve5_mcq_38",
+      "question": "Why is the body of birds streamlined?",
+      "options": ["a) To store food", "b) To allow swift passage through air", "c) To keep warm", "d) To attract mates"],
+      "correct_answer": "b) To allow swift passage through air",
+      "explanation": "The streamlined body of birds allows swift passage through the air."
+    },
+    {
+      "id": "eve5_mcq_39",
+      "question": "What is special about birds' feathers?",
+      "options": ["a) They are heavy", "b) They are light, elastic and waterproof", "c) They can change color", "d) They store food"],
+      "correct_answer": "b) They are light, elastic and waterproof",
+      "explanation": "The entire body of birds is covered with feathers which are light, elastic and waterproof."
+    },
+    {
+      "id": "eve5_mcq_40",
+      "question": "Why are the bones of birds hollow and filled with air?",
+      "options": ["a) To store food", "b) To make the body light and buoyant", "c) To increase strength", "d) To store water"],
+      "correct_answer": "b) To make the body light and buoyant",
+      "explanation": "The bones of birds are hollow, filled with air, making the body light and buoyant for flight."
+    },
+    {
+      "id": "eve5_mcq_41",
+      "question": "In birds, the forelimbs are modified into:",
+      "options": ["a) Fins", "b) Wings", "c) Flippers", "d) Claws"],
+      "correct_answer": "b) Wings",
+      "explanation": "The forelimbs of birds are modified into wings for flying."
+    },
+    {
+      "id": "eve5_mcq_42",
+      "question": "Birds possess beaks which serve both as:",
+      "options": ["a) Nose and ears", "b) Mouth and hand", "c) Eyes and ears", "d) Nose and mouth"],
+      "correct_answer": "b) Mouth and hand",
+      "explanation": "Birds possess beaks which serve both as mouth and hand."
+    },
+    {
+      "id": "eve5_mcq_43",
+      "question": "The camel is known as the 'ship of the desert' because of its:",
+      "options": ["a) Large size", "b) Usefulness and adaptations for desert life", "c) Speed", "d) Appearance"],
+      "correct_answer": "b) Usefulness and adaptations for desert life",
+      "explanation": "The camel is known as the ship of the desert for its usefulness in deserts and shows typical desert adaptations."
+    },
+    {
+      "id": "eve5_mcq_44",
+      "question": "How do camels reduce water loss?",
+      "options": ["a) By drinking more water", "b) By minimal excretion of urine and sweat", "c) By staying in shade", "d) By eating wet food"],
+      "correct_answer": "b) By minimal excretion of urine and sweat",
+      "explanation": "Water loss in camels is reduced by minimal excretion of urine and sweat."
+    },
+    {
+      "id": "eve5_mcq_45",
+      "question": "The excreta of camels is:",
+      "options": ["a) Very wet", "b) Very dry", "c) Liquid", "d) Absent"],
+      "correct_answer": "b) Very dry",
+      "explanation": "Camels' excreta is very dry to minimize water loss."
+    },
+    {
+      "id": "eve5_mcq_46",
+      "question": "Why do camels have long hair in their nostrils?",
+      "options": ["a) To filter water", "b) To keep dust out", "c) To sense smell better", "d) To breathe faster"],
+      "correct_answer": "b) To keep dust out",
+      "explanation": "Camels have long hair in their nostrils to keep dust out in the sandy desert environment."
+    },
+    {
+      "id": "eve5_mcq_47",
+      "question": "Why do camels have broad and flat soles on their feet?",
+      "options": ["a) To run faster", "b) To walk easily on sand without sinking", "c) To swim in water", "d) To climb mountains"],
+      "correct_answer": "b) To walk easily on sand without sinking",
+      "explanation": "Camels have broad and flat soles on their feet so they can walk easily on sand without sinking."
+    },
+    {
+      "id": "eve5_mcq_48",
+      "question": "Which human activity causes permanent change in the environment?",
+      "options": ["a) Walking", "b) Deforestation", "c) Breathing", "d) Sleeping"],
+      "correct_answer": "b) Deforestation",
+      "explanation": "Human beings make changes in the environment through activities such as deforestation and different kinds of pollution. Cutting of trees brings permanent change in the environment."
+    },
+    {
+      "id": "eve5_mcq_49",
+      "question": "Which factor influences both rainfall and temperature conditions in an environment?",
+      "options": ["a) Soil type", "b) Humidity", "c) Vegetation", "d) Wind speed"],
+      "correct_answer": "b) Humidity",
+      "explanation": "Humidity plays a vital role in the change of environment by influencing the rainfall and temperature conditions."
+    },
+    {
+      "id": "eve5_mcq_50",
+      "question": "What happens to organisms that cannot adapt to environmental changes?",
+      "options": ["a) They grow stronger", "b) They are eliminated by nature", "c) They migrate to space", "d) They become larger"],
+      "correct_answer": "b) They are eliminated by nature",
+      "explanation": "Those organisms that change themselves according to their environment survive while others are eliminated by nature as they become unfit for those particular conditions."
+    }
+  ]
+}

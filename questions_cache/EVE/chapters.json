@@ -1,0 +1,29 @@
+{
+  "subject": "EVE",
+  "chapters": [
+    {
+      "name": "Environmental Changes and Adaptation",
+      "slug": "Environmental_Changes_and_Adaptation",
+      "has_questions": true,
+      "icon": "🦎"
+    },
+    {
+      "name": "Modification of Environment",
+      "slug": "Modification_of_Environment",
+      "has_questions": true,
+      "icon": "🏭"
+    },
+    {
+      "name": "Effects of Human Activities and Population Growth",
+      "slug": "Effects_of_Human_Activities",
+      "has_questions": true,
+      "icon": "👥"
+    },
+    {
+      "name": "Consequences of Human Activities",
+      "slug": "Consequences_of_Human_Activities",
+      "has_questions": true,
+      "icon": "⚠️"
+    }
+  ]
+}

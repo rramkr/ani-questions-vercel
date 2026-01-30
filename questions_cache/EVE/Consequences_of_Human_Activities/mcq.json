@@ -1,0 +1,357 @@
+{
+  "subject": "EVE",
+  "chapter": "Consequences of Human Activities",
+  "type": "mcq",
+  "questions": [
+    {
+      "id": "eve8_mcq_1",
+      "question": "What has nature provided us with?",
+      "options": ["a) Nothing useful", "b) A number of natural resources", "c) Only problems", "d) Only air"],
+      "correct_answer": "b) A number of natural resources",
+      "explanation": "Nature has provided us with a number of natural resources."
+    },
+    {
+      "id": "eve8_mcq_2",
+      "question": "What is the most important crisis caused by disturbing natural cycles?",
+      "options": ["a) Food crisis", "b) Water crisis", "c) Energy crisis", "d) Housing crisis"],
+      "correct_answer": "b) Water crisis",
+      "explanation": "Due to excessive use of resources, we are facing ecological imbalance which disturbs the natural cycles. The most important one is water crisis."
+    },
+    {
+      "id": "eve8_mcq_3",
+      "question": "What percentage of the earth's surface is covered by land?",
+      "options": ["a) 10%", "b) 20%", "c) 30%", "d) 40%"],
+      "correct_answer": "b) 20%",
+      "explanation": "Land forms about 20% of the earth's surface."
+    },
+    {
+      "id": "eve8_mcq_4",
+      "question": "What percentage of land is covered by deserts and tundras?",
+      "options": ["a) 10.5%", "b) 21.2%", "c) 41.6%", "d) 50%"],
+      "correct_answer": "b) 21.2%",
+      "explanation": "Out of the 20% land, 21.2% is covered by deserts and tundras."
+    },
+    {
+      "id": "eve8_mcq_5",
+      "question": "What percentage of land is occupied by forests, woodlands and grasslands?",
+      "options": ["a) 21.2%", "b) 41.6%", "c) 23.8%", "d) 13.4%"],
+      "correct_answer": "b) 41.6%",
+      "explanation": "About 41.6% of land is occupied by forests, woodlands and grasslands."
+    },
+    {
+      "id": "eve8_mcq_6",
+      "question": "What percentage of land is fit for cultivation?",
+      "options": ["a) 21.2%", "b) 23.8%", "c) 13.4%", "d) 41.6%"],
+      "correct_answer": "c) 13.4%",
+      "explanation": "So only 13.4% of land is fit for cultivation."
+    },
+    {
+      "id": "eve8_mcq_7",
+      "question": "What is the surface layer of the earth called?",
+      "options": ["a) Rock", "b) Soil", "c) Sand", "d) Clay"],
+      "correct_answer": "b) Soil",
+      "explanation": "The surface layer of the earth is called soil. About four-fifth of the land consists of soil."
+    },
+    {
+      "id": "eve8_mcq_8",
+      "question": "Land or soil can be damaged by which two types of activities?",
+      "options": ["a) Recreational and tourism", "b) Industrial and agricultural", "c) Educational and medical", "d) Sports and entertainment"],
+      "correct_answer": "b) Industrial and agricultural",
+      "explanation": "Land or soil can be damaged by industrial activities and agricultural activities."
+    },
+    {
+      "id": "eve8_mcq_9",
+      "question": "Which industrial activities can cause soil pollution on a massive scale?",
+      "options": ["a) Making clothes", "b) Mining of coal, metal processing, disposal of wastes, fly ash from thermal power stations", "c) Making furniture", "d) Making toys"],
+      "correct_answer": "b) Mining of coal, metal processing, disposal of wastes, fly ash from thermal power stations",
+      "explanation": "Mining of coal and other minerals, metal processing, disposal of soil wastes, domestic wastes and industrial wastes like fly ash from thermal power stations can cause soil pollution on a massive scale."
+    },
+    {
+      "id": "eve8_mcq_10",
+      "question": "When natural vegetation is removed, what else is lost besides the nutrients stored in vegetation?",
+      "options": ["a) Nothing else", "b) The organic matter and nutrients accumulated in the soil", "c) Only water", "d) Only air"],
+      "correct_answer": "b) The organic matter and nutrients accumulated in the soil",
+      "explanation": "When natural vegetation is removed, not only are the nutrients stored in vegetation removed, but the organic matter and nutrients accumulated in the soil are also lost."
+    },
+    {
+      "id": "eve8_mcq_11",
+      "question": "What agricultural activities lead to soil pollution?",
+      "options": ["a) Planting trees", "b) Overuse of fertilisers, insecticides, herbicides and pesticides", "c) Watering plants", "d) Harvesting crops"],
+      "correct_answer": "b) Overuse of fertilisers, insecticides, herbicides and pesticides",
+      "explanation": "The agricultural activities which can lead to soil pollution are overuse of fertilisers, insecticides, herbicides and pesticides."
+    },
+    {
+      "id": "eve8_mcq_12",
+      "question": "What is the effect called when overuse of chemicals adversely changes the properties of soil making it infertile?",
+      "options": ["a) Positive effect", "b) Residual effect", "c) Beneficial effect", "d) Neutral effect"],
+      "correct_answer": "b) Residual effect",
+      "explanation": "Overuse of these chemicals can adversely change the properties of soil. This is called residual effect which makes the soil infertile for cultivation."
+    },
+    {
+      "id": "eve8_mcq_13",
+      "question": "What also leads to the loss of soil fertility besides the residual effect?",
+      "options": ["a) More sunlight", "b) Water logging and application of non-biodegradable chemicals", "c) More rain", "d) Better seeds"],
+      "correct_answer": "b) Water logging and application of non-biodegradable chemicals",
+      "explanation": "Water logging and application of non-biodegradable chemicals also lead to the loss of soil fertility."
+    },
+    {
+      "id": "eve8_mcq_14",
+      "question": "Water is needed for many purposes. Which of the following is NOT mentioned?",
+      "options": ["a) Drinking", "b) Washing", "c) Flying", "d) Irrigation"],
+      "correct_answer": "c) Flying",
+      "explanation": "Water is needed by us for many purposes like drinking, washing, irrigation, transport, industrial use, etc."
+    },
+    {
+      "id": "eve8_mcq_15",
+      "question": "How is the distribution of fresh water?",
+      "options": ["a) Even everywhere", "b) Geographically uneven, varying greatly", "c) Same in all countries", "d) Unlimited"],
+      "correct_answer": "b) Geographically uneven, varying greatly",
+      "explanation": "The distribution of fresh water is geographically uneven, varying greatly from country to country and even within a country from one region to another."
+    },
+    {
+      "id": "eve8_mcq_16",
+      "question": "What does domestic waste include?",
+      "options": ["a) Industrial chemicals", "b) Waste water from bathing and washing containing oils, detergents and bleaching chemicals", "c) Mining waste", "d) Agricultural waste"],
+      "correct_answer": "b) Waste water from bathing and washing containing oils, detergents and bleaching chemicals",
+      "explanation": "Domestic waste includes waste water from bathing and washing. It contains oils, detergents and bleaching chemicals, etc."
+    },
+    {
+      "id": "eve8_mcq_17",
+      "question": "What disease can spread when domestic waste contaminates water?",
+      "options": ["a) Malaria", "b) Cholera", "c) Dengue", "d) Typhoid"],
+      "correct_answer": "b) Cholera",
+      "explanation": "Domestic waste contaminates the water, making it unfit for human consumption, besides spreading diseases like cholera, etc."
+    },
+    {
+      "id": "eve8_mcq_18",
+      "question": "What may industrial waste effluents contain?",
+      "options": ["a) Clean water", "b) Tardy, foul smelling and poisonous oil products, acids, alkalis", "c) Fresh air", "d) Pure oxygen"],
+      "correct_answer": "b) Tardy, foul smelling and poisonous oil products, acids, alkalis",
+      "explanation": "Industrial waste effluents may contain tardy, foul smelling and poisonous oil products, acids, alkalis, etc."
+    },
+    {
+      "id": "eve8_mcq_19",
+      "question": "What happens to pesticides sprayed on crops?",
+      "options": ["a) They disappear completely", "b) They get washed away by rain water and ultimately pollute waterbodies", "c) They stay on crops forever", "d) They evaporate immediately"],
+      "correct_answer": "b) They get washed away by rain water and ultimately pollute waterbodies",
+      "explanation": "Pesticides sprayed on crops also get washed away by rain water. These chemicals ultimately find their way into waterbodies and pollute the water."
+    },
+    {
+      "id": "eve8_mcq_20",
+      "question": "What diseases do wastes in water cause in human beings?",
+      "options": ["a) Only cold", "b) Diarrhoea and gastroenteritis", "c) Only headache", "d) Only fever"],
+      "correct_answer": "b) Diarrhoea and gastroenteritis",
+      "explanation": "These wastes adversely affect the aquatic animals and plants and cause diseases like diarrhoea and gastroenteritis in human beings."
+    },
+    {
+      "id": "eve8_mcq_21",
+      "question": "What happens during mining when it rains?",
+      "options": ["a) Mining stops completely", "b) Loose ore is washed down into rivers and lakes polluting water", "c) Mining becomes easier", "d) Nothing happens"],
+      "correct_answer": "b) Loose ore is washed down into rivers and lakes polluting water",
+      "explanation": "Wherever mining of metals is practised during rains, a considerable quantity of the loose ore is washed down into rivers, lakes and other bodies of standing water."
+    },
+    {
+      "id": "eve8_mcq_22",
+      "question": "What is eutrophication?",
+      "options": ["a) Clean water phenomenon", "b) Luxuriant growth of algae due to nutrients from sewage in waterbodies", "c) Water purification", "d) Water conservation"],
+      "correct_answer": "b) Luxuriant growth of algae due to nutrients from sewage in waterbodies",
+      "explanation": "Addition of sewage water makes lakes, ponds and other waterbodies very rich in nutrients. This results in luxuriant growth of algae. This phenomenon is called eutrophication."
+    },
+    {
+      "id": "eve8_mcq_23",
+      "question": "What does the decomposition of algae in eutrophication deplete?",
+      "options": ["a) Carbon dioxide", "b) Oxygen supply in water", "c) Nitrogen", "d) Hydrogen"],
+      "correct_answer": "b) Oxygen supply in water",
+      "explanation": "The decomposition of algae depletes oxygen supply in water. They also produce toxic substances which are harmful to the aquatic animals."
+    },
+    {
+      "id": "eve8_mcq_24",
+      "question": "What is the best method to control eutrophication?",
+      "options": ["a) Adding more sewage", "b) Treating waste water before discharging it into waterbodies", "c) Ignoring it", "d) Adding chemicals"],
+      "correct_answer": "b) Treating waste water before discharging it into waterbodies",
+      "explanation": "The best method to control eutrophication is to treat waste water before discharging it into waterbodies."
+    },
+    {
+      "id": "eve8_mcq_25",
+      "question": "What does radioactive waste from nuclear installations cause?",
+      "options": ["a) Clean water", "b) Radioactive pollution", "c) Fresh air", "d) Better health"],
+      "correct_answer": "b) Radioactive pollution",
+      "explanation": "When radioactive waste from nuclear installations are discharged into water, they also cause radioactive pollution."
+    },
+    {
+      "id": "eve8_mcq_26",
+      "question": "What is thermal pollution of water?",
+      "options": ["a) Adding cold water", "b) When hot water from cooling plants raises the temperature of waterbodies", "c) Freezing water", "d) Purifying water"],
+      "correct_answer": "b) When hot water from cooling plants raises the temperature of waterbodies",
+      "explanation": "When hot water from cooling plants of industries, nuclear reactors and power generating plants are released directly into waterbodies, it raises the temperature of the waterbodies. This is termed as thermal pollution."
+    },
+    {
+      "id": "eve8_mcq_27",
+      "question": "What are the main air pollutants?",
+      "options": ["a) Oxygen and nitrogen", "b) Carbon dioxide, carbon monoxide, sulphur dioxide, nitrogen oxide and unburnt particles", "c) Only water vapor", "d) Only oxygen"],
+      "correct_answer": "b) Carbon dioxide, carbon monoxide, sulphur dioxide, nitrogen oxide and unburnt particles",
+      "explanation": "The main air pollutants are carbon dioxide, carbon monoxide, sulphur dioxide, nitrogen oxide and other unburnt particles."
+    },
+    {
+      "id": "eve8_mcq_28",
+      "question": "What respiratory diseases do humans and animals suffer from due to air pollution?",
+      "options": ["a) Only cold", "b) Asthma, pneumonia, bronchitis, and other lung diseases", "c) Only headache", "d) Only fever"],
+      "correct_answer": "b) Asthma, pneumonia, bronchitis, and other lung diseases",
+      "explanation": "Due to air pollution, human beings and other animals suffer from respiratory diseases like asthma, pneumonia, bronchitis, and other lung diseases."
+    },
+    {
+      "id": "eve8_mcq_29",
+      "question": "What results from the increase in percentage of sulphur dioxide and nitrous oxides in atmosphere?",
+      "options": ["a) Clean rain", "b) Acid rain", "c) Snow", "d) Fog"],
+      "correct_answer": "b) Acid rain",
+      "explanation": "Increase in the percentage of sulphur dioxide and nitrous oxides in atmosphere increases the deposition of acids in rain water and results in acid rain."
+    },
+    {
+      "id": "eve8_mcq_30",
+      "question": "What is smog?",
+      "options": ["a) Clean air", "b) Combination of smoke and fog", "c) Pure oxygen", "d) Fresh breeze"],
+      "correct_answer": "b) Combination of smoke and fog",
+      "explanation": "Gases and unburnt carbon particles released by vehicles may combine with fog (especially in winter season) and produce smog (smoke + fog)."
+    },
+    {
+      "id": "eve8_mcq_31",
+      "question": "Which chemicals used for refrigeration can attack the ozone layer?",
+      "options": ["a) Oxygen", "b) Chlorofluorocarbons (CFCs)", "c) Nitrogen", "d) Hydrogen"],
+      "correct_answer": "b) Chlorofluorocarbons (CFCs)",
+      "explanation": "A number of air pollutants can attack the ozone layer. Major among these are chemicals such as chlorofluorocarbons used for refrigeration."
+    },
+    {
+      "id": "eve8_mcq_32",
+      "question": "What does the ozone layer in the atmosphere prevent?",
+      "options": ["a) Rain", "b) Harmful ultraviolet rays of the Sun from reaching the earth", "c) Clouds", "d) Wind"],
+      "correct_answer": "b) Harmful ultraviolet rays of the Sun from reaching the earth",
+      "explanation": "Ozone forms a protective layer in the atmosphere which prevents the harmful ultraviolet rays of the Sun from reaching the earth."
+    },
+    {
+      "id": "eve8_mcq_33",
+      "question": "What disease can be caused when organisms are exposed to harmful ultraviolet rays due to damaged ozone layer?",
+      "options": ["a) Only cold", "b) Skin cancer", "c) Only headache", "d) Only fever"],
+      "correct_answer": "b) Skin cancer",
+      "explanation": "When the ozone layer is damaged organisms are exposed to the harmful ultraviolet rays which can cause diseases such as skin cancer."
+    },
+    {
+      "id": "eve8_mcq_34",
+      "question": "What fraction of the earth's total land area is covered by forests?",
+      "options": ["a) One fourth", "b) One third", "c) One half", "d) Two thirds"],
+      "correct_answer": "b) One third",
+      "explanation": "Approximately one third of the earth's total land area is covered by forests."
+    },
+    {
+      "id": "eve8_mcq_35",
+      "question": "Forests are storehouses of:",
+      "options": ["a) Only water", "b) Biodiversity", "c) Only minerals", "d) Only rocks"],
+      "correct_answer": "b) Biodiversity",
+      "explanation": "Forests are valuable wealth of a country. We get many useful products from forests. They are storehouses of biodiversity."
+    },
+    {
+      "id": "eve8_mcq_36",
+      "question": "Why are more and more trees being cut down?",
+      "options": ["a) For entertainment", "b) To meet the ever increasing demand of wood and timber, for roads, railways and industries", "c) For decoration", "d) For fun"],
+      "correct_answer": "b) To meet the ever increasing demand of wood and timber, for roads, railways and industries",
+      "explanation": "More and more trees are being cut down to meet the ever increasing demand of wood and timber. Construction of roads, railway lines, and installation of new industries also prompt man to cut forests."
+    },
+    {
+      "id": "eve8_mcq_37",
+      "question": "What does deforestation result in?",
+      "options": ["a) Better soil", "b) Soil erosion and decreased soil fertility", "c) More forests", "d) Better water"],
+      "correct_answer": "b) Soil erosion and decreased soil fertility",
+      "explanation": "Deforestation results in soil erosion and decreased soil fertility."
+    },
+    {
+      "id": "eve8_mcq_38",
+      "question": "In drier areas, what can deforestation lead to?",
+      "options": ["a) More rain", "b) Desertification", "c) More forests", "d) Better soil"],
+      "correct_answer": "b) Desertification",
+      "explanation": "In drier areas, deforestation can lead to desertification."
+    },
+    {
+      "id": "eve8_mcq_39",
+      "question": "What happens to the amount of running water when forests are cleared?",
+      "options": ["a) Decreases", "b) Increases several fold causing frequent floods", "c) Stays same", "d) Stops completely"],
+      "correct_answer": "b) Increases several fold causing frequent floods",
+      "explanation": "When the forest is cleared, the amount of running water flowing into rivers and streams increases several fold causing frequent floods."
+    },
+    {
+      "id": "eve8_mcq_40",
+      "question": "What does deforestation cause to forest dwelling plants, animals and microbial species?",
+      "options": ["a) Growth", "b) Extinction and loss of irreplaceable genetic resources", "c) Multiplication", "d) No effect"],
+      "correct_answer": "b) Extinction and loss of irreplaceable genetic resources",
+      "explanation": "Deforestation causes the extinction of forest dwelling plants, animals and microbial species resulting in a loss of irreplaceable genetic resources."
+    },
+    {
+      "id": "eve8_mcq_41",
+      "question": "What does burning of fossil fuels lead to?",
+      "options": ["a) Clean air", "b) Air pollution", "c) More oxygen", "d) Better health"],
+      "correct_answer": "b) Air pollution",
+      "explanation": "Burning of fossil fuels leads to air pollution."
+    },
+    {
+      "id": "eve8_mcq_42",
+      "question": "What does land excavation during coal mining lead to?",
+      "options": ["a) Better soil", "b) Erosion of soil", "c) More forests", "d) Clean water"],
+      "correct_answer": "b) Erosion of soil",
+      "explanation": "During coal mining, land excavation leads to erosion of soil."
+    },
+    {
+      "id": "eve8_mcq_43",
+      "question": "What can radioactive sources of energy cause if necessary precautions are not taken?",
+      "options": ["a) Better health", "b) Genetic defects in man and animals", "c) More energy", "d) Clean environment"],
+      "correct_answer": "b) Genetic defects in man and animals",
+      "explanation": "Radioactive sources of energy can cause genetic defects in man and animals if the necessary precautions against exposure to these are not taken."
+    },
+    {
+      "id": "eve8_mcq_44",
+      "question": "What type of resources are minerals?",
+      "options": ["a) Renewable", "b) Exhaustible, non-renewable resources", "c) Unlimited", "d) Self-generating"],
+      "correct_answer": "b) Exhaustible, non-renewable resources",
+      "explanation": "Minerals are exhaustible, non-renewable resources found in the earth's crust."
+    },
+    {
+      "id": "eve8_mcq_45",
+      "question": "What is happening to mineral resources due to rapid expansion of industries?",
+      "options": ["a) Increasing", "b) Getting depleted at a rapid pace", "c) Staying same", "d) Regenerating"],
+      "correct_answer": "b) Getting depleted at a rapid pace",
+      "explanation": "Due to rapid expansion of industries, the consumption of minerals has increased tremendously all over the world. Thus these resources are getting depleted at a rapid pace."
+    },
+    {
+      "id": "eve8_mcq_46",
+      "question": "What have oceans received during the past 50 years?",
+      "options": ["a) Clean water", "b) A wide variety of harmful pollutants", "c) Fresh fish", "d) Pure oxygen"],
+      "correct_answer": "b) A wide variety of harmful pollutants",
+      "explanation": "During the past 50 years, the oceans have received a wide variety of harmful pollutants."
+    },
+    {
+      "id": "eve8_mcq_47",
+      "question": "Where is the city of Minamata located?",
+      "options": ["a) China", "b) Japan (west coast of Southern Kyushu)", "c) India", "d) USA"],
+      "correct_answer": "b) Japan (west coast of Southern Kyushu)",
+      "explanation": "The city of Minamata is located on the west coast of Southern Kyushu, Japan."
+    },
+    {
+      "id": "eve8_mcq_48",
+      "question": "What is Minamata city best known as?",
+      "options": ["a) Tourist destination", "b) Former site of an environmental disaster caused by mercury pollution", "c) Industrial hub", "d) Agricultural center"],
+      "correct_answer": "b) Former site of an environmental disaster caused by mercury pollution",
+      "explanation": "The city of Minamata is best known as the former site of an environmental disaster caused by industrial pollution of the Minamata Bay with mercury."
+    },
+    {
+      "id": "eve8_mcq_49",
+      "question": "What did medical researchers identify as the cause of the Minamata disease in 1956?",
+      "options": ["a) Virus infection", "b) Heavy-metal poisoning caused by eating fish and shellfish from contaminated bay", "c) Air pollution", "d) Bacterial infection"],
+      "correct_answer": "b) Heavy-metal poisoning caused by eating fish and shellfish from contaminated bay",
+      "explanation": "By the end of 1956, medical researchers identified the disease as heavy-metal poisoning caused by eating the fish and shellfish of Minamata Bay."
+    },
+    {
+      "id": "eve8_mcq_50",
+      "question": "In 1963, Public Health Services researchers traced the Minamata disease to which substance from Chisso?",
+      "options": ["a) Lead", "b) Mercury", "c) Copper", "d) Iron"],
+      "correct_answer": "b) Mercury",
+      "explanation": "In 1963, Public Health Services researchers traced the disease to mercury from Chisso."
+    }
+  ]
+}

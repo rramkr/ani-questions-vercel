@@ -1,0 +1,16 @@
+{
+  "subject": "EVE",
+  "chapter": "Effects of Human Activities and Population Growth",
+  "sections": {
+    "textbook": [],
+    "exam": [
+      {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"}
+    ],
+    "miscellaneous": []
+  },
+  "section_labels": {
+    "textbook": "Textbook Questions",
+    "exam": "Practice Questions for Exam",
+    "miscellaneous": "Miscellaneous"
+  }
+}
