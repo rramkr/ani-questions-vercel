@@ -2,158 +2,266 @@
   "question_type": "textbook_qa",
   "questions": [
     {
-      "id": "tbq001",
-      "question": "What is sound? How is it produced?",
-      "answer": "Sound is a form of energy that is produced by vibrating objects. When an object vibrates, it creates disturbances in the surrounding medium (air, water, or solid), which travel as sound waves to our ears.",
-      "source_section": "Introduction to Sound"
+      "id": "tq001",
+      "question": "Speed of sound in air is around",
+      "answer": "340 m/s",
+      "question_type": "mcq_textbook",
+      "options": ["1440 m/s", "300 m/s", "340 m/s", "430 m/s"],
+      "source_section": "Evaluation - A. Choose the correct option"
     },
     {
-      "id": "tbq002",
-      "question": "Define vibratory motion with examples.",
-      "answer": "Vibratory motion (or oscillatory motion) is the to and fro motion of an object about its mean (rest) position. Examples include: the motion of a simple pendulum, vibration of a tuning fork's prongs, vibration of guitar strings when plucked.",
-      "source_section": "Vibratory Motion"
+      "id": "tq002",
+      "question": "Sounds of frequency less than 20 Hz are called",
+      "answer": "infrasonic sounds",
+      "question_type": "mcq_textbook",
+      "options": ["supersonic sounds", "ultrasonic sounds", "sonic sounds", "infrasonic sounds"],
+      "source_section": "Evaluation - A. Choose the correct option"
     },
     {
-      "id": "tbq003",
-      "question": "What is the human voice box called? How does it produce sound?",
-      "answer": "The human voice box is called the larynx. It is located at the top of the windpipe and contains two thin, stretched membranes called vocal cords. When air from the lungs is pushed through the gap between the vocal cords, they vibrate and produce sound.",
-      "source_section": "Sound in Humans"
+      "id": "tq003",
+      "question": "Audible range of frequency is",
+      "answer": "20 Hz-20,000 Hz",
+      "question_type": "mcq_textbook",
+      "options": ["20 Hz-20,000 Hz", "2000 Hz-40,000 Hz", "20 Hz-2000 Hz", "200 Hz-2000 Hz"],
+      "source_section": "Evaluation - A. Choose the correct option"
     },
     {
-      "id": "tbq004",
-      "question": "Why can't sound travel through vacuum?",
-      "answer": "Sound is a mechanical wave that requires a material medium (solid, liquid, or gas) to propagate. In vacuum, there are no particles to vibrate and transfer energy from one point to another. Therefore, sound cannot travel through vacuum.",
-      "source_section": "Medium for Sound"
+      "id": "tq004",
+      "question": "Sound is produced in a flute by",
+      "answer": "blowing",
+      "question_type": "mcq_textbook",
+      "options": ["rubbing", "beating", "plucking", "blowing"],
+      "source_section": "Evaluation - A. Choose the correct option"
     },
     {
-      "id": "tbq005",
-      "question": "Explain why sound waves are called longitudinal waves.",
-      "answer": "Sound waves are called longitudinal waves because in these waves, the particles of the medium vibrate back and forth (parallel) in the same direction as the wave is travelling. This creates alternating regions of compression and rarefaction.",
-      "source_section": "Nature of Sound Waves"
+      "id": "tq005",
+      "question": "Shrillness of a sound is determined by",
+      "answer": "pitch",
+      "question_type": "mcq_textbook",
+      "options": ["pitch", "amplitude", "loudness", "quality"],
+      "source_section": "Evaluation - A. Choose the correct option"
     },
     {
-      "id": "tbq006",
-      "question": "Define: (a) Compression (b) Rarefaction",
-      "answer": "(a) Compression: The region in a sound wave where particles of the medium are crowded together, creating high pressure and high density. (b) Rarefaction: The region in a sound wave where particles of the medium are spread apart, creating low pressure and low density.",
-      "source_section": "Nature of Sound Waves"
+      "id": "tq006",
+      "question": "In which of the following cases will echo be heard the most?\ni. an empty room\nii. a room filled with many objects\niii. a room with walls made of porous material\niv. a room with walls made of non-porous material",
+      "answer": "ii and iv",
+      "question_type": "mcq_textbook",
+      "options": ["i and iii", "i and iv", "ii and iii", "ii and iv"],
+      "source_section": "Evaluation - A. Choose the correct option (HOTS)"
     },
     {
-      "id": "tbq007",
-      "question": "Define frequency and write its SI unit.",
-      "answer": "Frequency is the number of complete oscillations (or vibrations) made by a vibrating body in one second. Its SI unit is Hertz (Hz). 1 Hz = 1 oscillation per second.",
-      "source_section": "Wave Parameters"
+      "id": "tq007",
+      "question": "Name the following: number of oscillations made by a wave in a unit time",
+      "answer": "Frequency",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - B. Name the following"
     },
     {
-      "id": "tbq008",
-      "question": "What is time period? How is it related to frequency?",
-      "answer": "Time period is the time taken to complete one oscillation. It is represented by T and its SI unit is second (s). Time period and frequency are reciprocals of each other: T = 1/f or f = 1/T.",
-      "source_section": "Wave Parameters"
+      "id": "tq008",
+      "question": "Name the following: sounds of frequencies less than 20 Hz",
+      "answer": "Infrasonic sounds (or subsonic sounds)",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - B. Name the following"
     },
     {
-      "id": "tbq009",
-      "question": "Define wavelength. What is its symbol and unit?",
-      "answer": "Wavelength is the distance between two consecutive compressions or two consecutive rarefactions in a sound wave. It is the distance covered by a wave in one complete oscillation. Its symbol is lambda (λ) and SI unit is metre (m).",
-      "source_section": "Wave Parameters"
+      "id": "tq009",
+      "question": "Name the following: an application of the reflected sound",
+      "answer": "Echo",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - B. Name the following"
     },
     {
-      "id": "tbq010",
-      "question": "What is amplitude? What does it determine?",
-      "answer": "Amplitude is the maximum displacement of a vibrating body from its mean (rest) position. Its SI unit is metre (m). Amplitude determines the loudness of sound - greater amplitude produces louder sound, and smaller amplitude produces softer sound.",
-      "source_section": "Wave Parameters"
+      "id": "tq010",
+      "question": "Name the following: humans produce sound with the help of this organ",
+      "answer": "Larynx (voice box)",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - B. Name the following"
     },
     {
-      "id": "tbq011",
-      "question": "Write the formula relating speed, frequency and wavelength of sound.",
-      "answer": "The relationship is: Speed = Frequency × Wavelength, or v = f × λ, where v is speed of sound (m/s), f is frequency (Hz), and λ is wavelength (m).",
-      "source_section": "Speed of Sound"
+      "id": "tq011",
+      "question": "Match the following:\nColumn A: 1. speed of light, 2. reflected sound, 3. speed of sound in air, 4. curtains and rugs, 5. ultrasonics\nColumn B: a. frequency more than 20,000 Hz, b. 340 m/s, c. sound absorbing materials, d. 3 × 10⁸ m/s, e. echo",
+      "answer": "1-d, 2-e, 3-b, 4-c, 5-a\n\n1. speed of light → 3 × 10⁸ m/s\n2. reflected sound → echo\n3. speed of sound in air → 340 m/s\n4. curtains and rugs → sound absorbing materials\n5. ultrasonics → frequency more than 20,000 Hz",
+      "question_type": "match_the_following_textbook",
+      "source_section": "Evaluation - C. Match the following"
     },
     {
-      "id": "tbq012",
-      "question": "What are the three characteristics of sound?",
-      "answer": "The three characteristics of sound are: (1) Loudness - depends on amplitude, measured in decibels (2) Pitch - depends on frequency, determines how shrill or grave a sound is (3) Quality or Timbre - depends on waveform, helps distinguish different sources of same pitch and loudness.",
-      "source_section": "Characteristics of Sound"
+      "id": "tq012",
+      "question": "True or False: All materials reflect sound waves equally.",
+      "answer": "False. Different materials reflect sound waves differently. Metals are good reflectors of sound, whereas clothes, cork, paper, wool, wood, porous materials such as sponge and thermocol are bad reflectors of sound. Bad reflectors have generally soft and fluffy surfaces which absorb most of the sound striking them.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
     },
     {
-      "id": "tbq013",
-      "question": "Why does sound travel faster in solids than in gases?",
-      "answer": "Sound travels faster in solids because the particles in solids are closely packed with strong intermolecular forces. Vibrations can be quickly transferred from one particle to the next. In gases, particles are far apart with weak forces, so vibration transfer is slower.",
-      "source_section": "Speed of Sound"
+      "id": "tq013",
+      "question": "True or False: Bats can produce and detect infrasonics.",
+      "answer": "False. Bats can produce and detect ULTRASONICS (not infrasonics). Bats use ultrasonic sounds for echolocation - to detect prey and obstacles in their path.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
     },
     {
-      "id": "tbq014",
-      "question": "What is an echo? What are the conditions required for an echo to be heard?",
-      "answer": "Echo is the repetition of sound caused by reflection from a distant surface. Conditions: (1) The reflecting surface must be at least 17 metres away from the source (2) There should be a minimum time gap of 0.1 seconds between original sound and reflected sound.",
-      "source_section": "Echo"
+      "id": "tq014",
+      "question": "True or False: Two waves of the same frequency can have different amplitudes.",
+      "answer": "True. Amplitude and frequency are independent properties of a wave. Two waves can have the same frequency but different amplitudes, which would result in sounds of the same pitch but different loudness.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
     },
     {
-      "id": "tbq015",
-      "question": "What is the audible range of sound for humans?",
-      "answer": "The audible range of sound for humans is 20 Hz to 20,000 Hz (20 kHz). Sounds below 20 Hz are called infrasonic and sounds above 20,000 Hz are called ultrasonic - both cannot be heard by humans.",
-      "source_section": "Range of Hearing"
+      "id": "tq015",
+      "question": "True or False: The unit of amplitude is second.",
+      "answer": "False. The unit of amplitude is metre (m), not second. Amplitude is the maximum displacement of a vibrating body from its mean position, which is a measure of distance.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
     },
     {
-      "id": "tbq016",
-      "question": "What are ultrasonic sounds? Name two animals that can produce them.",
-      "answer": "Ultrasonic sounds are sounds with frequency above 20,000 Hz (above the upper limit of human hearing). Bats and dolphins can produce ultrasonic sounds. They use these for echolocation - to navigate and locate prey.",
-      "source_section": "Ultrasonic Sounds"
+      "id": "tq016",
+      "question": "True or False: Waves of sound produced by a body move in all directions.",
+      "answer": "True. Sound waves produced by a vibrating body spread out in all directions from the source, travelling through the surrounding medium.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
     },
     {
-      "id": "tbq017",
-      "question": "What are infrasonic sounds? Give two examples.",
-      "answer": "Infrasonic sounds are sounds with frequency below 20 Hz (below the lower limit of human hearing). Examples: Sounds produced by elephants for long-distance communication, vibrations produced by earthquakes before the main tremor.",
-      "source_section": "Infrasonic Sounds"
+      "id": "tq017",
+      "question": "Fill in the blank: ________, ________ and ________ are three characteristics of sound.",
+      "answer": "Loudness, pitch and quality (or timbre)",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - E. Fill in the blanks"
     },
     {
-      "id": "tbq018",
-      "question": "What is SONAR? What is it used for?",
-      "answer": "SONAR stands for Sound Navigation and Ranging. It uses ultrasonic waves to detect underwater objects, measure the depth of the sea, locate fish shoals, and find submarines. Ships and submarines use SONAR for underwater navigation.",
-      "source_section": "Uses of Ultrasound"
+      "id": "tq018",
+      "question": "Fill in the blank: An echo can be clearly heard by us only if the reflecting surface is at least ________ away from us.",
+      "answer": "17 m (seventeen metres)",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - E. Fill in the blanks"
     },
     {
-      "id": "tbq019",
-      "question": "List any four uses of ultrasound.",
-      "answer": "(1) SONAR for underwater navigation and detection (2) Medical scanning (sonography/ultrasonography) of internal organs and pregnancy monitoring (3) Lithotripsy to break kidney stones (4) Industrial testing to detect cracks in metals (5) Cleaning delicate objects like jewelry.",
-      "source_section": "Uses of Ultrasound"
+      "id": "tq019",
+      "question": "Fill in the blank: Sound requires a ________ to travel.",
+      "answer": "medium (material medium)",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - E. Fill in the blanks"
     },
     {
-      "id": "tbq020",
-      "question": "Why is a child's voice shriller than an adult's voice?",
-      "answer": "A child has shorter and thinner vocal cords compared to an adult. Shorter vocal cords vibrate at a higher frequency when air passes through them. Higher frequency produces higher pitch, which we perceive as a shriller voice.",
-      "source_section": "Sound in Humans"
+      "id": "tq020",
+      "question": "Fill in the blank: In a ________ wave, the particles vibrate in the same direction as that of the sound.",
+      "answer": "longitudinal",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - E. Fill in the blanks"
     },
     {
-      "id": "tbq021",
-      "question": "What is reverberation? How is it different from echo?",
-      "answer": "Reverberation is the persistence of sound due to multiple reflections from walls, ceiling, and floor in an enclosed space. Difference: Echo is a single distinct reflection heard after 0.1 seconds, while reverberation is the mixing of multiple reflections that prolongs the original sound.",
-      "source_section": "Reflection of Sound"
+      "id": "tq021",
+      "question": "Fill in the blank: The SI unit of frequency is ________.",
+      "answer": "hertz (Hz)",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - E. Fill in the blanks"
     },
     {
-      "id": "tbq022",
-      "question": "Name the four types of musical instruments with examples.",
-      "answer": "(1) Stringed instruments (strings vibrate): guitar, sitar, violin (2) Percussion instruments (membrane vibrates): drum, tabla (3) Wind instruments (air column vibrates): flute, trumpet (4) Reed instruments (reeds vibrate): harmonium, saxophone.",
-      "source_section": "Musical Instruments"
+      "id": "tq022",
+      "question": "What is a vibration?",
+      "answer": "A vibration (or oscillation) is the to and fro motion of an object about its mean (rest) position. When a part of the object moves to and fro or back and forth in a fixed pattern about its mean position, it is called vibratory motion. Examples include the motion of a simple pendulum, vibration of a tuning fork's prongs, and vibration of a guitar string when plucked.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Short-answer-type questions"
     },
     {
-      "id": "tbq023",
-      "question": "What is noise pollution? State two harmful effects.",
-      "answer": "Noise pollution is the presence of excessive, unwanted, or disturbing sound that affects human health and environment. Harmful effects: (1) Hearing loss - prolonged exposure to sounds above 85 dB can damage hearing (2) Stress and anxiety, leading to health problems.",
-      "source_section": "Noise Pollution"
+      "id": "tq023",
+      "question": "What is frequency? Give the mathematical relation between frequency and time period.",
+      "answer": "Frequency is the number of oscillations (or vibrations) made by a wave in unit time (one second). Its SI unit is hertz (Hz).\n\nMathematical relation between frequency and time period:\nFrequency = 1/Time period\nf = 1/T\n\nOr, Time period = 1/Frequency\nT = 1/f\n\nThus, frequency and time period are reciprocals of each other. For example, if the frequency of a wave is 1000 Hz, then its time period will be 1/1000 = 0.001 s.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Short-answer-type questions"
     },
     {
-      "id": "tbq024",
-      "question": "How does a stethoscope work?",
-      "answer": "A stethoscope works on the principle of multiple reflection of sound. The chest piece picks up body sounds (heartbeat, breathing). These sounds travel through the rubber tube by reflecting multiple times from the inner walls, reaching the doctor's ears with amplification.",
-      "source_section": "Reflection of Sound"
+      "id": "tq024",
+      "question": "What do you mean by reflection of sound?",
+      "answer": "Reflection of sound is the process of bouncing back of sound on striking a surface. When sound waves strike a hard surface, they bounce back just like light gets reflected. The angle of incidence is equal to the angle of reflection. Echo is an example of reflection of sound. Sound is reflected better by hard, smooth surfaces like metals and walls, while soft and porous materials like curtains and sponge absorb sound.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Short-answer-type questions"
     },
     {
-      "id": "tbq025",
-      "question": "What is persistence of hearing?",
-      "answer": "Persistence of hearing is the property of the human ear by which the sensation of sound lingers in the ear for about 0.1 seconds after the sound source has stopped. This is why we need at least 0.1 seconds gap to hear two sounds as separate sounds.",
-      "source_section": "Echo"
+      "id": "tq025",
+      "question": "What are wind instruments and stringed instruments? Give two examples of each.",
+      "answer": "Wind instruments: These are musical instruments in which sound is produced due to the vibration of air columns when air is blown into them by musicians.\nExamples: Flute, bugle, trumpet, clarinet\n\nStringed instruments: These are musical instruments that have two parts—a hollow body and strings. The stretched strings vibrate when plucked or when stroked with a bow, producing sound. The hollow body enhances the sound produced by the strings.\nExamples: Guitar, sitar, violin, veena, santoor, harp, tanpura",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Short-answer-type questions"
+    },
+    {
+      "id": "tq026",
+      "question": "Give two examples each of:\na. good reflectors of sound\nb. bad reflectors of sound",
+      "answer": "a. Good reflectors of sound: Metals (like aluminium, steel), hard surfaces like walls, glass, marble, concrete\n\nb. Bad reflectors of sound (sound absorbers): Clothes, curtains, rugs, cork, paper, wool, wood, porous materials like sponge and thermocol\n\nNote: Bad reflectors are materials with soft and fluffy surfaces that absorb most of the sound striking them rather than reflecting it.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Short-answer-type questions"
+    },
+    {
+      "id": "tq027",
+      "question": "What is an echo? Where does echo generally occur?",
+      "answer": "Echo is the sound that is heard by the observer after it is reflected from a rigid surface. It is the repetition of sound caused by reflection from a distant surface.\n\nConditions for echo to occur:\n1. The reflecting surface must be at least 17 metres away from the source\n2. There should be a minimum time gap of 0.1 seconds (1/10th of a second) between the original sound and the reflected sound\n\nEcho generally occurs in:\n- Mountains and valleys (where sound strikes the mountains and returns)\n- Large empty halls and auditoriums\n- Near large buildings\n- Wells and caves",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Short-answer-type questions"
+    },
+    {
+      "id": "tq028",
+      "question": "Find the frequency of the wave with a time period 0.50 s.",
+      "answer": "Given: Time period (T) = 0.50 s\n\nWe know that:\nFrequency = 1/Time period\nf = 1/T\n\nSubstituting the value:\nf = 1/0.50\nf = 2 Hz\n\nTherefore, the frequency of the wave is 2 Hz (2 oscillations per second).",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Short-answer-type questions"
+    },
+    {
+      "id": "tq029",
+      "question": "Prove with the help of an activity that sound travels better through liquids.",
+      "answer": "Activity to prove sound travels through liquids:\n\nAim: To show that sound can travel through liquids\n\nMaterials required: A squeaking toy wrapped in a polythene bag and a bucket half-filled with water\n\nProcedure:\n1. Place a squeaking toy in a polythene bag and hold it in a bucket of water\n2. Place your ear against the side of the bucket\n3. Squeeze the toy\n\nObservation: You will observe that the sound travels through the water and the surface of the bucket and reaches your ear. The sound can be heard clearly.\n\nConclusion: Sound can travel through liquids. In general, sound travels better through liquids than through gases because liquid particles are closer together than gas particles, allowing vibrations to be transferred more efficiently.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - G. Long-answer-type questions"
+    },
+    {
+      "id": "tq030",
+      "question": "How do the following produce sound?\na. human beings\nb. animals",
+      "answer": "a. Sound produced by human beings:\nHumans produce sound with the help of an organ called the larynx or voice box. The larynx lies between the pharynx and the trachea. It has a pair of stretchable ligaments known as vocal cords. A narrow slit is present between the two vocal cords for the passage of air. When air from the lungs is pushed through this gap, the vocal cords vibrate and produce sound. The muscles attached to the vocal cords can stretch or loosen them, changing the frequency of vibrations. When vocal cords are tight and thin, the voice is of high frequency (shrill). When they are loose and thick, the voice is of low frequency.\n\nb. Sound produced by animals:\n- Animals with lungs (like frogs and most mammals) produce sound by blowing air through their vocal cords\n- Unlike humans, most animals cannot make complex sounds because their larynx usually lies at a much higher position in the windpipe\n- Birds have a ring of cartilage called syrinx fixed at the lower part of their windpipes. Sound is produced when air passes through it. Some birds have two parts in their voice box, allowing them to produce two notes at the same time\n- Fish have air bladders which when vibrated produce sound\n- Grasshoppers produce a chirping sound by rubbing the stiff hair on their legs\n- Mosquitoes and bees make a buzzing sound by rapidly vibrating their wings\n- Snakes hiss by forcing air out of their mouths",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - G. Long-answer-type questions"
+    },
+    {
+      "id": "tq031",
+      "question": "How is sound produced by different types of musical instruments?",
+      "answer": "Musical instruments produce sound through vibrations. They are classified into four groups based on which part vibrates:\n\n1. Stringed instruments:\n- These have a hollow body and strings\n- The stretched strings vibrate when plucked or stroked with a bow\n- The hollow body enhances the sound (acts as a resonator)\n- Air trapped inside forms an air column\n- Examples: Veena, santoor, guitar, harp, tanpura, sitar, violin\n\n2. Percussion or membrane instruments:\n- These have a hollow frame with a skin or membrane stretched tightly across their openings\n- When the skin is struck, vibrations are produced\n- Examples: Drum, tabla, dholak\n\n3. Wind instruments:\n- Sound is produced due to vibration of air columns when air is blown into them\n- Examples: Flute, bugle, trumpet, clarinet\n\n4. Reed instruments:\n- These have metal reeds\n- Sound is produced when air is blown through these metal reeds\n- Examples: Harmonium, trumpet, mouth organ, saxophone\n\nOther instruments:\n- Jal tarang: Frequency adjusted by using appropriate amount of water in musical cups\n- Bells: Produce sound when struck with a soft internal clapper\n- Manjira and ghatam (mud pots): Produce sound when struck",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - G. Long-answer-type questions"
+    },
+    {
+      "id": "tq032",
+      "question": "Define the following: oscillation, wavelength, frequency, time period, amplitude",
+      "answer": "1. Oscillation: The to and fro motion of particles of the medium when one full wave is constituted is known as one oscillation. A wave starting from point A and reaching point C (one complete cycle) denotes one oscillation.\n\n2. Wavelength: The length of a wave along the x-axis, that is, the distance between two successive crests or troughs, is known as its wavelength. It is represented by the Greek letter lambda (λ). Its SI unit is metre (m). It is also the distance covered by a wave in one complete oscillation.\n\n3. Frequency: The number of oscillations made by a wave in unit time (one second) is called its frequency. Its SI unit is hertz (Hz). For example, a tuning fork with a frequency of 384 Hz makes 384 oscillations per second.\n\n4. Time period: The time taken by a wave to complete one oscillation is called its time period. It is represented by T and its SI unit is second (s). Time period and frequency are reciprocals: T = 1/f or f = 1/T. For example, if frequency is 1000 Hz, time period = 1/1000 = 0.001 s.\n\n5. Amplitude: The maximum displacement of a wave on either side of its mean position is called its amplitude. Its SI unit is metre (m). Amplitude determines the loudness of sound - greater amplitude produces louder sound. Two waves of the same frequency can have different amplitudes.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - G. Long-answer-type questions"
+    },
+    {
+      "id": "tq033",
+      "question": "Explain the factors on which the loudness of sound depends.",
+      "answer": "Loudness of sound depends upon the following factors:\n\n1. Amplitude of vibration:\n- Vibrations of large amplitude or intensity produce loud sounds\n- Vibrations of small amplitude produce soft sounds\n- For example, a rubber band plucked softly produces a soft sound, while the same band plucked with greater force produces a louder sound\n- Loudness of sound is directly proportional to the square of the amplitude of vibration\n- If the amplitude of vibration is doubled, the loudness of sound increases four times\n\n2. Distance between the listener and the source:\n- As the distance between the listener and the source increases, loudness of sound decreases\n- Sound energy spreads over a larger area as it travels farther from the source\n\n3. Area of the vibrating body:\n- Loudness of sound also depends upon the area of the vibrating body\n- Larger the area, louder is the sound produced\n- A drum of larger size will produce a louder sound than a smaller drum\n\n4. Sensitivity of the ear to the sound:\n- Loudness of sound also depends on the sensitivity of the ears of the listener\n- Different people may perceive the same sound as having different loudness\n\nNote: Loudness does NOT depend upon the frequency of the vibrating particle.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - G. Long-answer-type questions"
+    },
+    {
+      "id": "tq034",
+      "question": "What are ultrasonic sounds? State five uses of such sounds.",
+      "answer": "Ultrasonic sounds are sounds of frequencies higher than 20,000 Hz (above the upper limit of human hearing). Some animals such as dogs, leopards, monkeys, and deer can hear ultrasonic sounds but the human ear cannot.\n\nFive uses of ultrasonic sounds:\n\n1. Echolocation by bats: Bats can produce and detect ultrasonic sounds. These waves return to them after getting reflected from objects around them. This helps bats detect prey or obstacles in their path. Whales and seals also use this method.\n\n2. Medical imaging (Ultrasonography): Ultrasonic sounds are used for imaging and scanning internal organs of the body. Reflected waves from different portions of an organ are used to create a picture of the organ. This is used for pregnancy monitoring and examining internal organs.\n\n3. Relieving pain: Ultrasonic sound is used for relieving pain in muscles and joints.\n\n4. Cleaning: Dishwashers use ultrasonics in which water and detergent are vibrated to clean utensils using ultrasonic vibrators. Also used for removal of grease or dirt from materials, and tartar from teeth.\n\n5. Industrial testing: Ultrasonic sounds are used to detect fine faults and cracks in metal sheets for use in aviation, spaceships, and machinery.\n\n6. SONAR: Used by ships and submarines for underwater navigation and detection of objects.\n\n7. Galton's whistle: Can produce frequencies greater than 20,000 Hz, used to train dogs.\n\n8. Making milk powder: Ultrasonic vibrators mix milk with adequate amount of fat to produce milk powder.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - G. Long-answer-type questions"
+    },
+    {
+      "id": "tq035",
+      "question": "Which of the following materials would be the most appropriate for covering the walls of a cinema hall?",
+      "answer": "a. a material that can absorb more sound waves than it reflects\n\nExplanation: Cinema halls require materials that absorb sound rather than reflect it. This is because:\n1. Excessive reflection causes reverberation (prolonged sound due to multiple reflections)\n2. Reverberation interferes with the clarity of the new sounds being produced\n3. Sound absorbing materials on walls, ceiling, and floors help regulate the acoustics\n4. Materials like thick carpets, curtains, and rough/porous materials absorb sound effectively\n5. This prevents echo and ensures clear audio for the audience",
+      "question_type": "hots_textbook",
+      "source_section": "Evaluation - Higher Order Thinking Skills (HOTS)"
+    },
+    {
+      "id": "tq036",
+      "question": "Assertion (A): It creates louder sound in the case of strings of musical instruments plucked with greater force than with force of smaller magnitude.\n\nReason (R): When the string is plucked with greater force, the amplitude of the string will be larger.",
+      "answer": "a. Both A and R are true and R is the correct explanation of A.\n\nExplanation:\n- The assertion is true: When strings are plucked with greater force, louder sound is produced.\n- The reason is also true: Greater force causes larger amplitude of vibration.\n- The reason correctly explains the assertion because loudness of sound is directly proportional to the square of amplitude. When amplitude increases (due to greater force), loudness increases.\n- Therefore, both statements are true and R correctly explains A.",
+      "question_type": "assertion_reason_textbook",
+      "source_section": "Evaluation - Higher Order Thinking Skills (HOTS)"
     }
   ],
-  "total_count": 25,
-  "generated_at": "2026-01-16T12:00:00",
+  "total_count": 36,
+  "generated_at": "2026-01-30T12:00:00",
   "subject": "Physics",
   "chapter": "Sound"
 }

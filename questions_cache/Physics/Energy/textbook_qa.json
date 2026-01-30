@@ -1,19 +1,295 @@
 {
   "question_type": "textbook_qa",
   "questions": [
-    {"id": "tbq001", "question": "What is energy? State its SI unit.", "answer": "Energy is the capacity to do work. Its SI unit is Joule (J). 1 Joule is the energy required to move an object through 1 metre against a force of 1 Newton.", "source_section": "Introduction"},
-    {"id": "tbq002", "question": "Define kinetic energy with its formula.", "answer": "Kinetic energy is the energy possessed by a body due to its motion. KE = ½mv², where m is mass (kg) and v is velocity (m/s).", "source_section": "Kinetic Energy"},
-    {"id": "tbq003", "question": "Define potential energy with its formula.", "answer": "Potential energy is the energy stored in a body due to its position or configuration. Gravitational PE = mgh, where m is mass, g is acceleration due to gravity, and h is height.", "source_section": "Potential Energy"},
-    {"id": "tbq004", "question": "State and explain the law of conservation of energy.", "answer": "The law states that energy can neither be created nor destroyed; it can only be transformed from one form to another. The total energy of an isolated system remains constant.", "source_section": "Conservation"},
-    {"id": "tbq005", "question": "What is power? State its SI unit.", "answer": "Power is the rate of doing work. P = W/t. Its SI unit is Watt (W). 1 Watt = 1 Joule per second.", "source_section": "Power"},
-    {"id": "tbq006", "question": "List different forms of energy.", "answer": "Forms of energy include: Kinetic, Potential (gravitational, elastic), Heat/Thermal, Light, Sound, Electrical, Chemical, Nuclear, and Magnetic energy.", "source_section": "Forms of Energy"},
-    {"id": "tbq007", "question": "What are renewable energy sources? Give examples.", "answer": "Renewable energy sources are those that are continuously replenished by nature. Examples: Solar, Wind, Hydro (water), Geothermal, Tidal, and Biomass energy.", "source_section": "Sources"},
-    {"id": "tbq008", "question": "What are non-renewable energy sources? Give examples.", "answer": "Non-renewable energy sources have limited reserves and take millions of years to form. Examples: Coal, Petroleum (oil), Natural gas, and Nuclear fuels (uranium).", "source_section": "Sources"},
-    {"id": "tbq009", "question": "What is mechanical energy?", "answer": "Mechanical energy is the sum of kinetic and potential energy of a body. ME = KE + PE. In the absence of non-conservative forces, mechanical energy is conserved.", "source_section": "Mechanical Energy"},
-    {"id": "tbq010", "question": "Explain the energy transformation in a simple pendulum.", "answer": "At extreme positions: max PE, zero KE. As pendulum swings down: PE converts to KE. At mean position: max KE, zero PE. Then KE converts back to PE. Total mechanical energy remains constant.", "source_section": "Transformation"}
+    {
+      "id": "tq001",
+      "question": "Energy possessed by virtue of motion is",
+      "answer": "kinetic energy",
+      "question_type": "mcq_textbook",
+      "options": ["heat energy", "kinetic energy", "potential energy", "chemical energy"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq002",
+      "question": "When work is done on a body, its energy",
+      "answer": "increases",
+      "question_type": "mcq_textbook",
+      "options": ["increases", "decreases", "does not change", "none of these"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq003",
+      "question": "In microphones, sound energy is converted to",
+      "answer": "electrical energy",
+      "question_type": "mcq_textbook",
+      "options": ["potential energy", "electrical energy", "light energy", "chemical energy"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq004",
+      "question": "Which energy is used by plants for photosynthesis?",
+      "answer": "light energy",
+      "question_type": "mcq_textbook",
+      "options": ["magnetic energy", "nuclear energy", "heat energy", "light energy"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq005",
+      "question": "In a thermal power plant, _______ energy is converted into _______ energy.",
+      "answer": "heat, electrical",
+      "question_type": "mcq_textbook",
+      "options": ["heat, electrical", "electrical, mechanical", "electrical, heat", "light, electrical"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq006",
+      "question": "A person M climbing up the hill crosses paths with person N who is climbing down the hill. What energy do M and N possess?",
+      "answer": "M and N possess both kinetic and potential energy",
+      "question_type": "mcq_textbook",
+      "options": ["M possesses kinetic energy while N possesses potential energy", "M possesses potential energy while N possesses kinetic energy", "M and N possess kinetic energy only", "M and N possess both kinetic and potential energy"],
+      "source_section": "Evaluation - A. Choose the correct option (HOTS)"
+    },
+    {
+      "id": "tq007",
+      "question": "Fill in the blank: The SI unit of energy is _______.",
+      "answer": "joule",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - B. Fill in the blanks"
+    },
+    {
+      "id": "tq008",
+      "question": "Fill in the blank: In steam engines, heat energy is converted into _______ energy.",
+      "answer": "mechanical",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - B. Fill in the blanks"
+    },
+    {
+      "id": "tq009",
+      "question": "Fill in the blank: 1 calorie = _______ joules.",
+      "answer": "4.186 (or approximately 4.2)",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - B. Fill in the blanks"
+    },
+    {
+      "id": "tq010",
+      "question": "Fill in the blank: In an electric drill, mechanical energy is converted into _______ energy.",
+      "answer": "heat",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - B. Fill in the blanks"
+    },
+    {
+      "id": "tq011",
+      "question": "Fill in the blank: Due to _______ energy, a magnet can attract iron towards itself.",
+      "answer": "magnetic",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - B. Fill in the blanks"
+    },
+    {
+      "id": "tq012",
+      "question": "Fill in the blank: A moving pendulum has _______ energy.",
+      "answer": "mechanical (or kinetic)",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - B. Fill in the blanks"
+    },
+    {
+      "id": "tq013",
+      "question": "A water bottle lying on a table has no energy.",
+      "answer": "False. A water bottle lying on a table has potential energy due to its position above the ground.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - C. Write true or false"
+    },
+    {
+      "id": "tq014",
+      "question": "When we burn a matchstick, chemical energy is released in the form of heat and light.",
+      "answer": "True. Matchsticks have chemical energy stored in them. When burned, chemical energy is converted to heat and light energy.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - C. Write true or false"
+    },
+    {
+      "id": "tq015",
+      "question": "The food that we eat has nuclear energy.",
+      "answer": "False. The food that we eat has chemical energy, not nuclear energy. This chemical energy is released during digestion.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - C. Write true or false"
+    },
+    {
+      "id": "tq016",
+      "question": "During photosynthesis, electrical energy is converted into chemical energy.",
+      "answer": "False. During photosynthesis, light energy (from the sun) is converted into chemical energy (stored in food).",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - C. Write true or false"
+    },
+    {
+      "id": "tq017",
+      "question": "On a roller coaster, the amount of energy changes at every point.",
+      "answer": "False. On a roller coaster, the total amount of mechanical energy remains the same at every point (assuming no friction). Only the form of energy changes - potential energy converts to kinetic energy and vice versa.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - C. Write true or false"
+    },
+    {
+      "id": "tq018",
+      "question": "Name the following: the capacity to do work",
+      "answer": "Energy",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - D. Name the following"
+    },
+    {
+      "id": "tq019",
+      "question": "Name the following: the work done in bringing a body to a state of motion",
+      "answer": "Kinetic energy",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - D. Name the following"
+    },
+    {
+      "id": "tq020",
+      "question": "Name the following: energy stored in the nucleus of atoms",
+      "answer": "Nuclear energy",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - D. Name the following"
+    },
+    {
+      "id": "tq021",
+      "question": "Name the following: the energy stored in matter",
+      "answer": "Chemical energy",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - D. Name the following"
+    },
+    {
+      "id": "tq022",
+      "question": "Name the following: splitting of the nucleus of an atom",
+      "answer": "Nuclear fission",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - D. Name the following"
+    },
+    {
+      "id": "tq023",
+      "question": "Differentiate between kinetic energy and potential energy.",
+      "answer": "Kinetic energy: Energy possessed by a body by virtue of its motion. A moving car, flowing water, or a rolling ball has kinetic energy. It depends on mass and speed of the object. Potential energy: Energy stored in a body by virtue of its position or change in shape. A raised weight, stretched rubber band, or water stored in a dam has potential energy. It depends on mass, height, and gravitational force.",
+      "question_type": "differentiate_textbook",
+      "source_section": "Evaluation - E. Differentiate between"
+    },
+    {
+      "id": "tq024",
+      "question": "Differentiate between work and energy.",
+      "answer": "Work: Work is done when a force is applied on a body and the body moves in the direction of the force. Work = Force × Displacement. Work is a process of energy transfer. Energy: Energy is the capacity to do work. It is possessed by a body and can be stored. When work is done on a body, its energy increases; when work is done by a body, its energy decreases.",
+      "question_type": "differentiate_textbook",
+      "source_section": "Evaluation - E. Differentiate between"
+    },
+    {
+      "id": "tq025",
+      "question": "Write one example of mechanical energy into electrical energy transformation.",
+      "answer": "Generators and dynamos convert mechanical energy into electrical energy. When the coil rotates in the magnetic field, mechanical energy is converted to electrical energy.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Write one example of energy transformations"
+    },
+    {
+      "id": "tq026",
+      "question": "Write one example of electrical energy into chemical energy transformation.",
+      "answer": "Chemical batteries while being charged convert electrical energy into chemical energy. The charging process stores electrical energy as chemical energy in the battery.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Write one example of energy transformations"
+    },
+    {
+      "id": "tq027",
+      "question": "Write one example of light energy into heat energy transformation.",
+      "answer": "Solar cookers and solar water heaters convert light energy into heat energy. The sun's light energy is absorbed and converted to heat energy for cooking or heating water.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Write one example of energy transformations"
+    },
+    {
+      "id": "tq028",
+      "question": "Write one example of electrical energy into light energy transformation.",
+      "answer": "Electric bulbs, tube lights, and CFLs convert electrical energy into light energy. When current passes through them, they emit light.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Write one example of energy transformations"
+    },
+    {
+      "id": "tq029",
+      "question": "Write one example of electrical energy into mechanical energy transformation.",
+      "answer": "Electric fans, motors, washing machines, grinders, lifts, and electric trains convert electrical energy into mechanical energy. The electrical energy makes the motor rotate, producing mechanical motion.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - F. Write one example of energy transformations"
+    },
+    {
+      "id": "tq030",
+      "question": "Define energy. What is its SI unit?",
+      "answer": "Energy is defined as the capacity to do work. When work is done by a body, its energy decreases, and when work is done on a body, its energy increases. The SI unit of energy is joule (J). One joule is the energy required to move an object through 1 metre against a force of 1 Newton. 1 J = 1 N × 1 m",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - G. Short-answer-type questions"
+    },
+    {
+      "id": "tq031",
+      "question": "State the law of conservation of energy.",
+      "answer": "According to the law of conservation of energy, energy can neither be created nor destroyed. The total amount of energy in a system always remains constant. It can only be transformed from one form to another. For example, when a ball is thrown up, kinetic energy is converted to potential energy, and when it falls down, potential energy is converted back to kinetic energy.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - G. Short-answer-type questions"
+    },
+    {
+      "id": "tq032",
+      "question": "What are the two types of mechanical energy? Give one example of each.",
+      "answer": "The two types of mechanical energy are: 1) Kinetic energy - the energy possessed by a body due to its motion. Example: A moving car, a rolling ball, flowing water. 2) Potential energy - the energy stored in a body due to its position or change in shape. Example: Water stored in a dam, a stretched rubber band, a stone lifted above the ground.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - G. Short-answer-type questions"
+    },
+    {
+      "id": "tq033",
+      "question": "What do you mean by transformation of energy?",
+      "answer": "The conversion of energy from one form to another is called transformation of energy or inter-conversion of energy. In almost every situation in daily life, energy is converted from one form to another. For example, in a thermal power plant, heat energy is converted to electrical energy. In an electric bulb, electrical energy is converted to light energy.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - G. Short-answer-type questions"
+    },
+    {
+      "id": "tq034",
+      "question": "State two factors on which the kinetic energy of a moving body depends.",
+      "answer": "The kinetic energy of a moving body depends on: 1) Mass of the object - Greater the mass of an object, greater is its kinetic energy. A cricket ball moving at the same speed as a tennis ball has more kinetic energy because it has more mass. 2) Speed of the object - Faster the speed of a moving object, greater is its kinetic energy. A fast-moving tennis ball has more kinetic energy than a slow-moving tennis ball.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - G. Short-answer-type questions"
+    },
+    {
+      "id": "tq035",
+      "question": "How do we hear sound?",
+      "answer": "Sound is produced by vibrating bodies. When an object vibrates, it causes the air particles around it to vibrate. These vibrations travel through the air as sound waves. When these sound waves reach our ears, they make the membrane inside the ear (eardrum) vibrate. These vibrations are then converted into signals that are sent to the brain, and we perceive sound. Sound energy is also capable of doing work as vibrations caused by sound are a type of motion.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - H. Long-answer-type questions"
+    },
+    {
+      "id": "tq036",
+      "question": "Give one example for each of the following transformation of energy: (a) chemical energy to light energy (b) electrical energy to heat energy (c) mechanical energy to electrical energy (d) electrical energy to sound energy (e) light energy to chemical energy",
+      "answer": "(a) Chemical energy to light energy: Burning of a matchstick or firecracker - chemical energy stored in them is converted to light (and heat) energy. (b) Electrical energy to heat energy: Electric heaters, geysers, irons, and electric kettles convert electrical energy to heat energy. (c) Mechanical energy to electrical energy: Generators and dynamos convert mechanical energy to electrical energy. (d) Electrical energy to sound energy: Loudspeakers, electric bells, music systems, and telephone speakers convert electrical energy to sound energy. (e) Light energy to chemical energy: Photosynthesis in plants - light energy from the sun is converted to chemical energy stored in food.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - H. Long-answer-type questions"
+    },
+    {
+      "id": "tq037",
+      "question": "The bob of a simple pendulum is swinging from its lowest position to its highest position. Which of the following statements is true about the motion of the bob?",
+      "answer": "(c) Potential energy will attain its maximum value and kinetic energy will attain its minimum value. When the bob moves from the lowest position to the highest position, it gains height and loses speed. At the highest position, it momentarily stops (zero kinetic energy) and has maximum potential energy.",
+      "question_type": "hots_textbook",
+      "options": ["Both kinetic and potential energy will be equal", "Kinetic energy will attain its maximum value and potential energy will attain its minimum value", "Potential energy will attain its maximum value and kinetic energy will attain its minimum value", "Both kinetic and potential energy will attain their minimum value"],
+      "source_section": "Evaluation - Higher Order Thinking Skills (HOTS)"
+    },
+    {
+      "id": "tq038",
+      "question": "The given image illustrates the motion of a roller coaster. The roller coaster is pulled by a motor from point A to B. Even though there is no motor to pull the roller coaster from point C to D, it still moves through the loop. Identify the energy or energy conversions that take place: (a) from A to B (b) from C to D",
+      "answer": "(a) From A to B: Electrical energy from the motor is converted to mechanical energy (kinetic and potential energy) of the roller coaster. As the coaster rises from A to B, it gains potential energy. (b) From C to D: Potential energy at C is converted to kinetic energy as the coaster goes down, then back to potential energy as it rises through the loop. The total mechanical energy remains constant (law of conservation of energy), allowing the coaster to complete the loop without a motor.",
+      "question_type": "hots_textbook",
+      "source_section": "Evaluation - Higher Order Thinking Skills (HOTS)"
+    },
+    {
+      "id": "tq039",
+      "question": "An arrow, when shot from the bow, possesses kinetic energy. Where does the arrow get this kinetic energy from?",
+      "answer": "When the bow is stretched, work is done on it and this work is stored as potential energy in the stretched bow (elastic potential energy). When the arrow is released, this potential energy of the stretched bow is converted into kinetic energy of the arrow. The arrow gains speed and moves forward with kinetic energy.",
+      "question_type": "hots_textbook",
+      "source_section": "Evaluation - Higher Order Thinking Skills (HOTS)"
+    },
+    {
+      "id": "tq040",
+      "question": "The energy of a freely falling body is conserved. Explain.",
+      "answer": "When a body is held at a height, it has maximum potential energy and zero kinetic energy. As it falls freely, it loses height (potential energy decreases) but gains speed (kinetic energy increases). At any point during the fall, the sum of potential energy and kinetic energy remains constant. Just before hitting the ground, the body has maximum kinetic energy and zero potential energy. Throughout the fall, total mechanical energy (PE + KE) remains constant, demonstrating the law of conservation of energy.",
+      "question_type": "hots_textbook",
+      "source_section": "Evaluation - Higher Order Thinking Skills (HOTS)"
+    }
   ],
-  "total_count": 10,
-  "generated_at": "2026-01-16T12:00:00",
+  "total_count": 40,
   "subject": "Physics",
   "chapter": "Energy"
 }

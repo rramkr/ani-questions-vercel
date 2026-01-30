@@ -1,19 +1,253 @@
 {
   "question_type": "textbook_qa",
   "questions": [
-    {"id": "tbq001", "question": "What is a physical quantity?", "answer": "A physical quantity is any quantity that can be measured. It is expressed as a number with a unit. Examples include length, mass, time, temperature, speed, etc. A physical quantity has both numerical value and unit.", "source_section": "Introduction"},
-    {"id": "tbq002", "question": "What are fundamental quantities? List the seven SI fundamental quantities with their units.", "answer": "Fundamental quantities are independent physical quantities that cannot be expressed in terms of other quantities. The seven SI fundamental quantities are: (1) Length - metre (m), (2) Mass - kilogram (kg), (3) Time - second (s), (4) Electric current - ampere (A), (5) Temperature - kelvin (K), (6) Amount of substance - mole (mol), (7) Luminous intensity - candela (cd).", "source_section": "Fundamental Quantities"},
-    {"id": "tbq003", "question": "What are derived quantities? Give five examples with their SI units.", "answer": "Derived quantities are obtained by combining fundamental quantities through mathematical operations. Examples: (1) Area - square metre (m²), (2) Volume - cubic metre (m³), (3) Speed - metre per second (m/s), (4) Density - kilogram per cubic metre (kg/m³), (5) Force - newton (N).", "source_section": "Derived Quantities"},
-    {"id": "tbq004", "question": "What is the SI system of units?", "answer": "SI (Système International d'Unités) is the modern metric system adopted internationally for scientific measurements. It was established in 1960 and provides a coherent set of units for all physical measurements based on seven fundamental units.", "source_section": "SI System"},
-    {"id": "tbq005", "question": "Explain the principle of vernier callipers.", "answer": "Vernier callipers work on the principle that a small difference between the main scale and vernier scale divisions allows measurement of smaller lengths. If n vernier divisions equal (n-1) main scale divisions, the least count = 1 MSD - 1 VSD. For standard callipers with 10 VSD = 9 mm, least count = 1 mm - 0.9 mm = 0.1 mm.", "source_section": "Vernier Callipers"},
-    {"id": "tbq006", "question": "What is the principle of screw gauge?", "answer": "Screw gauge works on the principle of a screw. When the screw rotates through one complete turn, it moves forward or backward by a distance equal to its pitch. By dividing this motion into smaller parts using the circular scale, very small lengths can be measured. Least count = Pitch/Number of divisions = 1mm/100 = 0.01 mm.", "source_section": "Screw Gauge"},
-    {"id": "tbq007", "question": "What is zero error? How is it corrected?", "answer": "Zero error occurs when a measuring instrument shows a non-zero reading when it should read zero. Positive zero error means the instrument reads more than the actual value (subtract the error). Negative zero error means it reads less (add the error). Corrected reading = Observed reading ± Zero error.", "source_section": "Errors"},
-    {"id": "tbq008", "question": "What is dimensional formula? Give examples.", "answer": "Dimensional formula expresses a physical quantity in terms of fundamental quantities (M, L, T, etc.). Examples: Velocity = [L T^-1], Force = [M L T^-2], Energy = [M L^2 T^-2], Pressure = [M L^-1 T^-2]. Dimensional formula helps check equations and convert units.", "source_section": "Dimensional Analysis"},
-    {"id": "tbq009", "question": "What are the uses of vernier callipers?", "answer": "Vernier callipers are used to measure: (1) External dimensions of objects using external jaws, (2) Internal dimensions like inner diameter of tubes using internal jaws, (3) Depth of containers or holes using the depth rod. It can measure with an accuracy of 0.1 mm.", "source_section": "Vernier Callipers"},
-    {"id": "tbq010", "question": "What are the advantages of SI system?", "answer": "Advantages of SI system: (1) It is internationally accepted, (2) It is a coherent system (derived units are obtained from base units), (3) It uses decimal system making conversions easy, (4) It has unique symbols for each unit, (5) It covers all branches of science.", "source_section": "SI System"}
+    {
+      "id": "tq001",
+      "question": "The standard unit of volume in SI system is",
+      "answer": "m³",
+      "question_type": "mcq_textbook",
+      "options": ["m", "m²", "m³", "m⁴"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq002",
+      "question": "How many litres make 1 m³?",
+      "answer": "1000",
+      "question_type": "mcq_textbook",
+      "options": ["1", "100", "1000", "10000"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq003",
+      "question": "If a substance of 25 g has a volume of 10 cm³, its density is",
+      "answer": "2.5 g/cm³ or 2500 kg/m³",
+      "question_type": "mcq_textbook",
+      "options": ["2500 kg/m³", "2.5 kg/m³", "2500 g/cm³", "250 g/cm³"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq004",
+      "question": "The formula to find the area of a circle with radius r is",
+      "answer": "πr²",
+      "question_type": "mcq_textbook",
+      "options": ["πr²", "2πr", "2πr²", "πr"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq005",
+      "question": "Graduated cylinders, graduated beakers, flasks, pipettes and burettes are some of the apparatus used to measure",
+      "answer": "volume",
+      "question_type": "mcq_textbook",
+      "options": ["mass", "volume", "density", "concentration"],
+      "source_section": "Evaluation - A. Choose the correct option"
+    },
+    {
+      "id": "tq006",
+      "question": "Equal masses of two substances can have different volumes when they have",
+      "answer": "different densities",
+      "question_type": "mcq_textbook",
+      "options": ["same areas", "different areas", "same densities", "different densities"],
+      "source_section": "Evaluation - A. Choose the correct option (HOTS)"
+    },
+    {
+      "id": "tq007",
+      "question": "Name the following: the amount of surface covered by an object",
+      "answer": "Area",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - B. Name the following"
+    },
+    {
+      "id": "tq008",
+      "question": "Name the following: the internal volume of a container",
+      "answer": "Capacity",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - B. Name the following"
+    },
+    {
+      "id": "tq009",
+      "question": "Name the following: mass per unit volume of a substance",
+      "answer": "Density",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - B. Name the following"
+    },
+    {
+      "id": "tq010",
+      "question": "Name the following: a metal or glass jar with an overflow outlet",
+      "answer": "Overflow jar",
+      "question_type": "name_the_following_textbook",
+      "source_section": "Evaluation - B. Name the following"
+    },
+    {
+      "id": "tq011",
+      "question": "Fill in the blank: 1 m² is the area of a _______ with each side of length 1 metre.",
+      "answer": "square",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - C. Fill in the blanks"
+    },
+    {
+      "id": "tq012",
+      "question": "Fill in the blank: 1 g/cm³ = _______ kg/m³.",
+      "answer": "1000",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - C. Fill in the blanks"
+    },
+    {
+      "id": "tq013",
+      "question": "Fill in the blank: To measure the volume of an irregular solid which dissolves in water, we use _______ instead of water.",
+      "answer": "kerosene",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - C. Fill in the blanks"
+    },
+    {
+      "id": "tq014",
+      "question": "Fill in the blank: A piece of stone displaces 25 mL of water. Its volume is _______ cm³.",
+      "answer": "25",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - C. Fill in the blanks"
+    },
+    {
+      "id": "tq015",
+      "question": "Fill in the blank: _______ is used to measure the volume of petrol.",
+      "answer": "Graduated cylinder",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Evaluation - C. Fill in the blanks"
+    },
+    {
+      "id": "tq016",
+      "question": "Equal volumes of two substances will always have the same mass.",
+      "answer": "False. Equal volumes of two substances may have different masses because substances with different densities have different amounts of matter in the same volume.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
+    },
+    {
+      "id": "tq017",
+      "question": "1 mL = 100 cm³",
+      "answer": "False. 1 mL = 1 cm³",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
+    },
+    {
+      "id": "tq018",
+      "question": "1 kg of iron contains the same amount of matter as 1 kg of peas.",
+      "answer": "True. Both have the same mass (1 kg), which means they contain the same amount of matter, even though their volumes are different.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
+    },
+    {
+      "id": "tq019",
+      "question": "The surface of a liquid poured into a measuring cylinder is always in the form of a convex curve.",
+      "answer": "False. The surface can be concave (like water) or convex (like mercury) depending on whether the liquid wets the sides of the container.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
+    },
+    {
+      "id": "tq020",
+      "question": "To measure the density of a substance, its mass and volume should be known.",
+      "answer": "True. Density = Mass/Volume, so both mass and volume must be known to calculate density.",
+      "question_type": "true_false_textbook",
+      "source_section": "Evaluation - D. Write true or false"
+    },
+    {
+      "id": "tq021",
+      "question": "What do you understand by area? State its SI unit.",
+      "answer": "Area is the amount of surface covered by an object or a place. The SI unit of area is square metre (m²). 1 m² is the area of a square in which the length of each side is 1 metre.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - E. Short-answer-type questions"
+    },
+    {
+      "id": "tq022",
+      "question": "What is volume? Give its SI unit.",
+      "answer": "Volume is the three dimensional space occupied by a substance (solid, liquid or gas). The SI unit of volume is cubic metre (m³). It is the volume of a cube with each side of length 1 m.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - E. Short-answer-type questions"
+    },
+    {
+      "id": "tq023",
+      "question": "What are the different units to measure speed? When is each unit used?",
+      "answer": "The SI unit of speed is metre per second (m/s), which is used for physical measurements and experiments. Kilometre per hour (km/h) is used for vehicles on roads. Centimetre per second (cm/s) is used in laboratories for small-scale measurements.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - E. Short-answer-type questions"
+    },
+    {
+      "id": "tq024",
+      "question": "What do you mean by meniscus?",
+      "answer": "Meniscus is the curve formed on the surface of liquids when they are poured in a measuring cylinder. Liquids like water form a concave meniscus (curves downward) as they wet the sides. Liquids like mercury form a convex meniscus (curves upward) as they do not wet the sides.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - E. Short-answer-type questions"
+    },
+    {
+      "id": "tq025",
+      "question": "Which method is used to measure the volume of irregular solids? What is the principle behind this method?",
+      "answer": "The displacement of liquid method is used to measure the volume of irregular solids. The principle is that when a solid is completely immersed in a liquid, it displaces a certain volume of liquid which is equal to its own volume. The rise in the level of water (R₂ - R₁) gives the volume of the solid.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - E. Short-answer-type questions"
+    },
+    {
+      "id": "tq026",
+      "question": "Differentiate between concave meniscus and convex meniscus.",
+      "answer": "Concave meniscus: Formed by liquids like water and kerosene that wet the sides of the container. The curve is downward, and the reading is taken at the lowest level of the meniscus. Convex meniscus: Formed by liquids like mercury that do not wet the sides of the container. The curve is upward, and the reading is taken at the uppermost level of the meniscus.",
+      "question_type": "short_answer_textbook",
+      "source_section": "Evaluation - E. Short-answer-type questions"
+    },
+    {
+      "id": "tq027",
+      "question": "Describe an activity to find the area of a rose petal.",
+      "answer": "To find the area of a rose petal: 1) Place the rose petal on a graph paper and draw its outline with a pencil. 2) Count the number of complete squares within the outline. 3) Count the number of almost complete squares (more than half filled). 4) Add both numbers. This gives the approximate area of the rose petal in square centimetres (cm²). Note: This method gives only an approximate area, not the exact surface area.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - F. Long-answer-type questions"
+    },
+    {
+      "id": "tq028",
+      "question": "How would you measure the volume of an irregular solid which is insoluble in water, using a measuring cylinder?",
+      "answer": "To measure the volume of an irregular solid using a measuring cylinder: 1) Pour a suitable quantity of water in the measuring cylinder (enough to completely immerse the solid). 2) Note the reading of the water level, say R₁. 3) Tie the irregular solid to a thread and immerse it completely into the water. 4) Note the new reading of the water level, say R₂. 5) The volume of the solid = R₂ - R₁. Since 1 mL = 1 cm³, the volume in mL equals the volume in cm³. For solids that dissolve in water, use kerosene instead of water.",
+      "question_type": "long_answer_textbook",
+      "source_section": "Evaluation - F. Long-answer-type questions"
+    },
+    {
+      "id": "tq029",
+      "question": "Given below are three boxes containing identical tennis balls. Given that the mass of box A and box B is the same, identify the correct statements regarding their densities: (i) density of Box A > density of Box B (ii) density of Box A = density of Box B (iii) density of Box C < density of Box A (iv) density of Box C > density of Box A",
+      "answer": "(a) i and iii. Since box A and B have the same mass but B has more balls (larger volume), density of A > density of B. Box C has the most balls (largest volume), so it has the lowest density. Therefore density of Box C < density of Box A.",
+      "question_type": "hots_textbook",
+      "options": ["i and iii", "i and iv", "ii and iii", "ii and iv"],
+      "source_section": "Evaluation - Higher Order Thinking Skills (HOTS)"
+    },
+    {
+      "id": "tq030",
+      "question": "A small stone is immersed in a measuring cylinder and the water level is recorded before and after the stone is immersed. If the mass of the stone is 0.2 kg, then calculate the density of the stone (in g/cm³). [Given: Water level rises from 18 mL to 29 mL]",
+      "answer": "Given: Mass of stone = 0.2 kg = 200 g, Initial water level = 18 mL, Final water level = 29 mL. Volume of stone = Final level - Initial level = 29 - 18 = 11 mL = 11 cm³. Density = Mass/Volume = 200/11 = 18.18 g/cm³ (approximately).",
+      "question_type": "hots_textbook",
+      "source_section": "Evaluation - Higher Order Thinking Skills (HOTS)"
+    },
+    {
+      "id": "tq031",
+      "question": "Find the volume of a stone in cm³, if the water level rises from 18 mL to 29 mL on immersing it in water.",
+      "answer": "Volume of stone = Final water level - Initial water level = 29 mL - 18 mL = 11 mL = 11 cm³ (since 1 mL = 1 cm³)",
+      "question_type": "numerical_textbook",
+      "source_section": "Evaluation - Numericals"
+    },
+    {
+      "id": "tq032",
+      "question": "The mass of a piece of lead is 232 g and its volume is 20 cm³. Find the density of lead in kg/m³.",
+      "answer": "Given: Mass (M) = 232 g, Volume (V) = 20 cm³. Density = M/V = 232/20 = 11.6 g/cm³. Converting to kg/m³: 11.6 g/cm³ × 1000 = 11600 kg/m³",
+      "question_type": "numerical_textbook",
+      "source_section": "Evaluation - Numericals"
+    },
+    {
+      "id": "tq033",
+      "question": "A substance having a density of 0.8 g/cm³ has a mass of 64 g. What is its volume?",
+      "answer": "Given: Density (D) = 0.8 g/cm³, Mass (M) = 64 g. Using Density = Mass/Volume, Volume = Mass/Density = 64/0.8 = 80 cm³",
+      "question_type": "numerical_textbook",
+      "source_section": "Evaluation - Numericals"
+    },
+    {
+      "id": "tq034",
+      "question": "The density of zinc is 5.1 g/cm³. Find the mass of the zinc of volume 86 cm³.",
+      "answer": "Given: Density (D) = 5.1 g/cm³, Volume (V) = 86 cm³. Using Density = Mass/Volume, Mass = Density × Volume = 5.1 × 86 = 438.6 g",
+      "question_type": "numerical_textbook",
+      "source_section": "Evaluation - Numericals"
+    }
   ],
-  "total_count": 10,
-  "generated_at": "2026-01-16T12:00:00",
+  "total_count": 34,
   "subject": "Physics",
   "chapter": "Physical Quantities"
 }
