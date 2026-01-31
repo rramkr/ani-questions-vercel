@@ -1671,21 +1671,25 @@ function calculateScore() {
 }
 
 function isAnswerCorrect(question, userAnswer) {
-    const qType = question.type;
+    // Support both 'type' and 'question_type', normalize textbook types
+    const rawType = question.type || question.question_type || '';
+    const qType = rawType.replace('_textbook', '');
+    const correctAnswer = question.correct_answer || question.answer || '';
 
     if (qType === 'mcq') {
-        return userAnswer === question.correct_answer;
+        return userAnswer === correctAnswer || correctAnswer.includes(userAnswer);
     } else if (qType === 'assertion_reason') {
         // For assertion-reason, compare by the letter prefix (A, B, C, D)
         const userLetter = (userAnswer || '').trim().charAt(0).toUpperCase();
-        const correctLetter = (question.correct_answer || '').trim().charAt(0).toUpperCase();
+        const correctLetter = correctAnswer.trim().charAt(0).toUpperCase();
         return userLetter === correctLetter && userLetter !== '';
     } else if (qType === 'true_false') {
-        const correctBool = question.correct_answer === true || question.correct_answer === 'True' || question.correct_answer === 'true';
+        const answerStr = String(correctAnswer).toLowerCase();
+        const correctBool = answerStr === 'true' || answerStr.startsWith('true');
         return (userAnswer === 'True' && correctBool) || (userAnswer === 'False' && !correctBool);
-    } else if (qType === 'fill_in_blanks' || qType === 'name_the_following') {
+    } else if (qType === 'fill_in_blanks' || qType === 'fill_in_blank' || qType === 'name_the_following') {
         // Flexible matching for fill in blanks
-        const correct = (question.correct_answer || question.answer || '').toLowerCase().trim();
+        const correct = correctAnswer.toLowerCase().trim();
         const user = (userAnswer || '').toLowerCase().trim();
         // Check if user answer matches any of the acceptable answers (separated by "or")
         const acceptableAnswers = correct.split(/\s*\(or\s*|\s*or\s*|\)\s*/i).map(a => a.trim()).filter(a => a);
@@ -2645,7 +2649,10 @@ function finishOneByOneQuiz() {
 }
 
 function renderQuestion(question, index) {
-    const qType = question.type;
+    // Support both 'type' and 'question_type' fields, including textbook variants
+    const rawType = question.type || question.question_type || '';
+    // Normalize textbook types: "mcq_textbook" -> "mcq", "true_false_textbook" -> "true_false"
+    const qType = rawType.replace('_textbook', '');
     let questionContent = '';
     let answerContent = '';
 
@@ -2731,7 +2738,8 @@ function renderMCQQuestion(q, index, showUnansweredHighlight = false) {
     const options = q.options || [];
     const userAnswer = state.userAnswers[q.id] || '';
     const isRevealed = state.answersRevealed;
-    const qType = q.type || 'mcq';
+    const qType = q.type || q.question_type || 'mcq';
+    const correctAnswer = q.correct_answer || q.answer || '';
 
     return `
         <div class="question-text">${q.question}</div>
@@ -2740,8 +2748,8 @@ function renderMCQQuestion(q, index, showUnansweredHighlight = false) {
                 const isSelected = userAnswer === opt;
                 // For assertion-reason, compare by first letter
                 const isCorrectOption = qType === 'assertion_reason'
-                    ? opt.trim().charAt(0).toUpperCase() === (q.correct_answer || '').trim().charAt(0).toUpperCase()
-                    : opt === q.correct_answer;
+                    ? opt.trim().charAt(0).toUpperCase() === correctAnswer.trim().charAt(0).toUpperCase()
+                    : opt === correctAnswer || correctAnswer.includes(opt);
                 let optionClass = '';
                 if (isRevealed && isSelected) {
                     optionClass = isCorrectOption ? 'selected-correct' : 'selected-incorrect';
@@ -2760,11 +2768,13 @@ function renderMCQQuestion(q, index, showUnansweredHighlight = false) {
 function renderTrueFalseQuestion(q, index, showUnansweredHighlight = false) {
     const userAnswer = state.userAnswers[q.id] || '';
     const isRevealed = state.answersRevealed;
-    const correctAnswer = q.correct_answer;
+    const correctAnswer = q.correct_answer || q.answer || '';
 
     const getTFClass = (option) => {
         if (!isRevealed || userAnswer !== option) return '';
-        const correctBool = correctAnswer === true || correctAnswer === 'True' || correctAnswer === 'true';
+        // Check if correct answer indicates True (handles "True", true, or answer text starting with "True")
+        const answerStr = String(correctAnswer).toLowerCase();
+        const correctBool = answerStr === 'true' || answerStr.startsWith('true');
         const isCorrect = (option === 'True' && correctBool) || (option === 'False' && !correctBool);
         return isCorrect ? 'selected-correct' : 'selected-incorrect';
     };
@@ -2964,6 +2974,7 @@ function renderMCQAnswer(q) {
     const userAnswer = state.userAnswers[q.id] || '';
     const isCorrect = isAnswerCorrect(q, userAnswer);
     const justification = q.explanation || (q.source_section ? `Source: "${q.source_section}"` : '');
+    const correctAnswer = q.correct_answer || q.answer || '';
     return `
         <div class="answer-status ${userAnswer ? (isCorrect ? 'correct' : 'incorrect') : ''}">
             ${userAnswer ? (isCorrect ? '✓ Correct!' : '✗ Incorrect') : 'Not answered'}
@@ -2974,7 +2985,7 @@ function renderMCQAnswer(q) {
             </div>
         ` : ''}
         <div class="correct-answer">
-            <strong>Correct answer:</strong> ${q.correct_answer}
+            <strong>Correct answer:</strong> ${correctAnswer}
         </div>
         <div class="explanation"><strong>Justification:</strong> ${justification}</div>
     `;
