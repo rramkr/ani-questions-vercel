@@ -11,7 +11,7 @@
     {
       "id": "tq002",
       "question": "Define electromagnetism.",
-      "answer": "Electromagnetism is the branch of physics which deals with the magnetic effect of electric current. It studies how electric current can produce magnetic fields and how changing magnetic fields can produce electric current (electromagnetic induction).",
+      "answer": "Electromagnetism is the branch of physics which deals with the magnetic effect of electric current.",
       "question_type": "short_answer_textbook",
       "source_section": "Evaluation - Short Answer Questions"
     },
@@ -66,48 +66,41 @@
     },
     {
       "id": "tq010",
-      "question": "What is electromagnetic induction? Define induced current.",
-      "answer": "Electromagnetic induction is the phenomenon of producing an electric current in a conductor due to change in the magnetic lines of force associated with the conductor.\n\nInduced current is the electric current produced by electromagnetic induction. It is generated when there is relative motion between a conductor and a magnetic field, or when the magnetic field around a conductor changes.",
-      "question_type": "short_answer_textbook",
-      "source_section": "Evaluation - Short Answer Questions"
-    },
-    {
-      "id": "tq011",
       "question": "How does the end of an electromagnet where current flows clockwise behave - as north pole or south pole?",
       "answer": "The end of an electromagnet where the current flows in a clockwise direction acts as the south pole. Conversely, the end where the current flows in an anticlockwise direction acts as the north pole. This rule helps identify the poles of an electromagnet based on the direction of current flow.",
       "question_type": "short_answer_textbook",
       "source_section": "Evaluation - Short Answer Questions"
     },
     {
-      "id": "tq012",
+      "id": "tq011",
       "question": "Why is soft iron used as the core of an electromagnet instead of steel?",
       "answer": "Soft iron is used because:\n1. It easily gets magnetized when current flows through the coil\n2. It quickly loses its magnetism when current is switched off\n3. This makes the electromagnet a controllable temporary magnet\n\nSteel is not suitable because it is a hard material that retains magnetism even after current stops, making it impossible to control the magnet by switching current on and off.",
       "question_type": "short_answer_textbook",
       "source_section": "Evaluation - Short Answer Questions"
     },
     {
-      "id": "tq013",
+      "id": "tq012",
       "question": "What happens to an electromagnet when the current is switched off?",
       "answer": "When the current is switched off, the electromagnet immediately loses its magnetism. The soft iron core, which was behaving like a magnet due to the current flowing through the coil, returns to being an ordinary piece of iron. It can no longer attract magnetic materials. This is why electromagnets are called temporary magnets.",
       "question_type": "short_answer_textbook",
       "source_section": "Evaluation - Short Answer Questions"
     },
     {
-      "id": "tq014",
+      "id": "tq013",
       "question": "In an electric bell, what causes the hammer to keep striking the gong repeatedly?",
       "answer": "The hammer keeps striking repeatedly due to the make-and-break mechanism:\n1. When current flows, electromagnet attracts armature, hammer hits gong\n2. Armature movement breaks contact with contact screw, stopping current\n3. Electromagnet loses magnetism, spring pulls armature back\n4. Contact is restored, current flows again\n5. This cycle repeats as long as push button is pressed\n\nThe continuous making and breaking of the circuit causes repeated striking.",
       "question_type": "short_answer_textbook",
       "source_section": "Evaluation - Short Answer Questions"
     },
     {
-      "id": "tq015",
+      "id": "tq014",
       "question": "Differentiate between permanent magnets and temporary magnets.",
       "answer": "Permanent Magnets:\n- Retain magnetic properties without external magnetic field\n- Made of hard materials\n- Cannot be switched on/off\n- Examples: bar magnets, horse-shoe magnets\n\nTemporary Magnets:\n- Behave as magnets only in presence of strong magnetic field\n- Made of soft materials\n- Can be controlled by switching current\n- Examples: electromagnets\n\nKey difference: Permanent magnets keep their magnetism permanently, while temporary magnets lose magnetism when the external field (or current) is removed.",
       "question_type": "short_answer_textbook",
       "source_section": "Evaluation - Short Answer Questions"
     },
     {
-      "id": "tq016",
+      "id": "tq015",
       "question": "Which of the following instruments is used to detect electric current in an electric circuit?\na. ammeter  b. thermometer  c. electrometer  d. galvanometer",
       "answer": "d. galvanometer",
       "question_type": "mcq_textbook",
@@ -115,7 +108,7 @@
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq017",
+      "id": "tq016",
       "question": "Which of the following is not a part of an electric bell?\na. transformer  b. electromagnet  c. armature  d. contact screw",
       "answer": "a. transformer",
       "question_type": "mcq_textbook",
@@ -123,15 +116,7 @@
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq018",
-      "question": "The magnitude of the induced current in a coil cannot be increased by:",
-      "answer": "b. increasing the distance between the coil and magnet",
-      "question_type": "mcq_textbook",
-      "options": ["increasing the number of turns in the coil", "increasing the distance between the coil and magnet", "increasing the strength of the magnet", "increasing the relative speed between the magnet and the coil"],
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq019",
+      "id": "tq017",
       "question": "The branch of physics which deals with the magnetic effect of electric current is called:",
       "answer": "c. electromagnetism",
       "question_type": "mcq_textbook",
@@ -139,155 +124,91 @@
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq020",
-      "question": "Fill in the blank: Current is induced in the coil due to the _____ between the coil and the magnet.",
-      "answer": "relative motion",
-      "question_type": "fill_in_blank_textbook",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq021",
+      "id": "tq018",
       "question": "Fill in the blank: A magnet shows maximum attraction at its _____.",
       "answer": "poles",
       "question_type": "fill_in_blank_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq022",
-      "question": "Fill in the blank: The current produced by the method of electromagnetic induction is called _____.",
-      "answer": "induced current",
-      "question_type": "fill_in_blank_textbook",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq023",
+      "id": "tq019",
       "question": "Fill in the blank: The soft iron piece in an electromagnet is called the _____.",
       "answer": "core",
       "question_type": "fill_in_blank_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq024",
+      "id": "tq020",
       "question": "Name the following: Device used to measure electric current.",
       "answer": "Ammeter (or Galvanometer for detection)",
       "question_type": "name_the_following_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq025",
+      "id": "tq021",
       "question": "Name the following: A type of magnet in which a magnetic field is produced with electric current.",
       "answer": "Electromagnet",
       "question_type": "name_the_following_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq026",
-      "question": "Name the following: Phenomenon of producing a current in a conductor due to change in the magnetic lines of force associated with the conductor.",
-      "answer": "Electromagnetic induction",
-      "question_type": "name_the_following_textbook",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq027",
+      "id": "tq022",
       "question": "Name the following: The surest test for magnetism.",
       "answer": "Repulsion",
       "question_type": "name_the_following_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq028",
-      "question": "A current is induced in the coil when the number of magnetic lines of force associated with a coil changes.",
-      "answer": "True",
-      "question_type": "true_false_textbook",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq029",
-      "question": "In Faraday's experiment, if the movement of the magnet is continuous, the needle does not show any deflection.",
-      "answer": "False. When the magnet is moved continuously, the galvanometer needle shows continuous deflection because there is a continuous change in magnetic lines of force.",
-      "question_type": "true_false_textbook",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq030",
+      "id": "tq023",
       "question": "An electromagnet becomes weaker when the amount of current through the coil increases.",
       "answer": "False. An electromagnet becomes stronger when the amount of current through the coil increases.",
       "question_type": "true_false_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq031",
+      "id": "tq024",
       "question": "The force exerted by a magnet on a magnetic material is called magnetic force.",
       "answer": "True",
       "question_type": "true_false_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq032",
+      "id": "tq025",
       "question": "Write the name of two magnetic and two non-magnetic materials.",
       "answer": "Magnetic materials: Iron, Cobalt, Nickel, Steel\n\nNon-magnetic materials: Wood, Plastic, Glass, Copper, Aluminium",
       "question_type": "short_answer_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq033",
+      "id": "tq026",
       "question": "What is the difference between a bar magnet and a U-shaped electromagnet?",
       "answer": "Bar Magnet:\n- Permanent magnet made of hard magnetic material\n- Has bar/rectangular shape\n- Poles are at the two ends\n- Cannot be switched on or off\n- Strength cannot be controlled\n\nU-shaped Electromagnet:\n- Temporary magnet made with soft iron core\n- Has U-shape (horseshoe shape)\n- Both poles are close together at the open end\n- Can be switched on/off by controlling current\n- Strength can be varied by changing current",
       "question_type": "short_answer_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq034",
+      "id": "tq027",
       "question": "Write four uses of an electromagnet.",
       "answer": "Four uses of an electromagnet:\n\n1. Electric bells, telephones, and electric motors\n2. Cranes to lift heavy loads of scrap iron and steel in junk yards\n3. Bullet trains (Maglev trains) for magnetic levitation\n4. Removing steel splinters from wounds in hospitals",
       "question_type": "short_answer_textbook",
       "source_section": "Physics Extra - Evaluation"
     },
     {
-      "id": "tq035",
-      "question": "State the two laws of electromagnetic induction.",
-      "answer": "Faraday's Laws of Electromagnetic Induction:\n\n1. First Law: Whenever there is a change in the magnetic lines of force (magnetic flux) associated with a conductor, an EMF is induced in the conductor.\n\n2. Second Law: The magnitude of the induced EMF is directly proportional to the rate of change of magnetic flux linked with the conductor.",
-      "question_type": "short_answer_textbook",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq036",
-      "question": "In Faraday's experiment, what happens when the magnet is completely inside the coil?",
-      "answer": "When the magnet is completely inside the coil and held stationary:\n1. The galvanometer needle shows zero deflection\n2. No current is induced in the coil\n3. This is because there is no change in magnetic flux\n\nCurrent is only induced when there is relative motion between the magnet and coil.",
-      "question_type": "short_answer_textbook",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq037",
-      "question": "Write the observations of Faraday's experiment.",
-      "answer": "Observations of Faraday's Experiment:\n\n1. When north pole moves towards coil: galvanometer deflects in one direction\n2. When north pole moves away from coil: galvanometer deflects in opposite direction\n3. When magnet is stationary: no deflection\n4. When speed of movement increases: deflection increases\n5. When south pole is used: deflection direction reverses\n\nConclusion: Induced current is produced due to relative motion between coil and magnet.",
-      "question_type": "long_answer_textbook",
-      "source_section": "Physics Extra - Evaluation"
-    },
-    {
-      "id": "tq038",
-      "question": "HOTS: In which of the following cases will the highest current be produced?\na. Moving the coil into the magnet bar while keeping the magnet stationary\nb. Moving the magnet bar into the coil while keeping the coil stationary\nc. Moving the magnet and coil towards each other\nd. Moving the magnet and coil away from each other",
-      "answer": "c. Moving the magnet and coil towards each other\n\nExplanation: When both the magnet and coil move towards each other, their relative speed is the sum of both speeds. This causes the fastest rate of change in magnetic flux, producing the highest induced current.",
-      "question_type": "hots_textbook",
-      "options": ["Moving the coil into the magnet bar while keeping the magnet stationary", "Moving the magnet bar into the coil while keeping the coil stationary", "Moving the magnet and coil towards each other", "Moving the magnet and coil away from each other"],
-      "source_section": "Physics Extra - HOTS"
-    },
-    {
-      "id": "tq039",
+      "id": "tq028",
       "question": "HOTS: Why is it advised to keep smartphones away from high intensity magnets?",
-      "answer": "Smartphones should be kept away from high intensity magnets because:\n\n1. Internal components (speakers, microphones, vibration motors) can be damaged\n2. Digital compass can be demagnetized or become inaccurate\n3. Electromagnetic interference can disrupt electronic circuits\n4. Changing magnetic fields can induce unwanted currents in circuits",
+      "answer": "Smartphones should be kept away from high intensity magnets because:\n\n1. Internal components (speakers, microphones, vibration motors) can be damaged\n2. Digital compass can be demagnetized or become inaccurate\n3. Electromagnetic interference can disrupt electronic circuits\n4. Strong magnetic fields can affect the phone's sensors",
       "question_type": "hots_textbook",
       "source_section": "Physics Extra - HOTS"
     },
     {
-      "id": "tq040",
+      "id": "tq029",
       "question": "HOTS: Shaurya made an electromagnet using one battery. Shagun also made an electromagnet using two batteries. Which electromagnet will attract more iron filings? Give reason.",
       "answer": "Shagun's electromagnet (made with two batteries) will attract more iron filings.\n\nReason:\n1. Two batteries provide more voltage than one battery\n2. More voltage means more current flows through the coil\n3. More current creates a stronger magnetic field\n4. A stronger magnetic field attracts more iron filings\n\nThis demonstrates that electromagnet strength is directly proportional to current.",
       "question_type": "hots_textbook",
       "source_section": "Physics Extra - HOTS"
     }
   ],
-  "total_count": 40,
+  "total_count": 29,
   "subject": "Physics",
   "chapter": "Electromagnetism"
 }
