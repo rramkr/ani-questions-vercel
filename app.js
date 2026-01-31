@@ -2806,6 +2806,31 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
     const userAnswer = state.userAnswers[q.id] || '';
     const isRevealed = state.answersRevealed;
 
+    // Check if question has explicit options array (for textbook MCQs)
+    if (q.options && Array.isArray(q.options) && q.options.length >= 2) {
+        const correctAnswer = q.answer || q.correct_answer || '';
+        return `
+            ${hasContext ? `<div class="question-context">${q.context}</div>` : ''}
+            <div class="question-text">${q.question}</div>
+            <div class="mcq-options ${showUnansweredHighlight ? 'unanswered-input' : ''}">
+                ${q.options.map((opt) => {
+                    const isSelected = userAnswer === opt;
+                    const isCorrect = opt === correctAnswer || correctAnswer.includes(opt);
+                    let optionClass = '';
+                    if (isRevealed && isSelected) {
+                        optionClass = isCorrect ? 'selected-correct' : 'selected-incorrect';
+                    }
+                    return `
+                    <label class="option-label ${optionClass}">
+                        <input type="radio" name="q-${q.id}" value="${escapeHtml(opt)}" ${isSelected ? 'checked' : ''} onchange="handleAnswerChange('${q.id}', this.value)">
+                        <span class="option-text">${opt}</span>
+                        ${isRevealed && isSelected ? `<span class="your-choice-marker">← Your answer</span>` : ''}
+                    </label>
+                `}).join('')}
+            </div>
+        `;
+    }
+
     // Check if this is an MCQ-style question with embedded options (a. b. c. d. pattern)
     const mcqPattern = /\n?[a-d]\.\s+.+/gi;
     const questionText = q.question || '';
