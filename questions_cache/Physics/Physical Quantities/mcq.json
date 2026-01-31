@@ -632,13 +632,6 @@
       "explanation": "Joule (J) is the SI unit of energy. 1 J = 1 N·m = 1 kg·m²/s²."
     },
     {
-      "id": "mcq091",
-      "question": "In CGS system, the unit of force is:",
-      "options": ["Newton", "Dyne", "Pound", "Kilogram-force"],
-      "correct_answer": "Dyne",
-      "explanation": "Dyne is the CGS unit of force. 1 dyne = 10^-5 Newton."
-    },
-    {
       "id": "mcq092",
       "question": "Which of these represents correct reading of vernier callipers?",
       "options": ["MSR only", "VSR only", "MSR + VSR × LC", "MSR - VSR × LC"],
@@ -702,7 +695,7 @@
       "explanation": "Total reading = Pitch Scale Reading + (Circular Scale Reading × Least Count)."
     }
   ],
-  "total_count": 100,
+  "total_count": 99,
   "generated_at": "2026-01-16T12:00:00",
   "subject": "Physics",
   "chapter": "Physical Quantities"

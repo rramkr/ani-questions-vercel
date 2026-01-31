@@ -72,17 +72,8 @@
       "column_b": ["Rotating part", "Fixed cylindrical stud", "Ensures uniform pressure", "Movable rod", "Linear scale on sleeve"],
       "correct_matches": {"Anvil": "Fixed cylindrical stud", "Spindle": "Movable rod", "Thimble": "Rotating part", "Ratchet": "Ensures uniform pressure", "Pitch scale": "Linear scale on sleeve"},
       "source_section": "Screw Gauge"
-    },
-    {
-      "id": "mtf010",
-      "instruction": "Match the CGS and SI units:",
-      "column_a": ["Dyne", "Erg", "Poise", "Gauss", "Centimetre"],
-      "column_b": ["Metre", "Newton", "Tesla", "Joule", "Pascal-second"],
-      "correct_matches": {"Dyne": "Newton", "Erg": "Joule", "Poise": "Pascal-second", "Gauss": "Tesla", "Centimetre": "Metre"},
-      "source_section": "CGS System"
-    }
-  ],
-  "total_count": 10,
+    }  ],
+  "total_count": 9,
   "generated_at": "2026-01-16T12:00:00",
   "subject": "Physics",
   "chapter": "Physical Quantities"

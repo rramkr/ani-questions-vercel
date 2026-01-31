@@ -58,13 +58,6 @@
       "source_section": "Speed of Light"
     },
     {
-      "id": "num009",
-      "question": "Express 1 newton in terms of dyne. (1 N = 1 kg·m/s², 1 dyne = 1 g·cm/s²)",
-      "answer": "**Given:**\n- 1 N = 1 kg·m/s²\n- 1 dyne = 1 g·cm/s²\n\n**Conversions:**\n- 1 kg = 1000 g\n- 1 m = 100 cm\n\n**Solution:**\n1 N = 1 kg·m/s²\n= 1 × (1000 g) × (100 cm)/s²\n= 1000 × 100 g·cm/s²\n= 100000 g·cm/s²\n= 10^5 dyne\n\n**Answer:** 1 newton = 10^5 dyne",
-      "formula": "Unit conversion using dimensional analysis",
-      "source_section": "CGS to SI Conversion"
-    },
-    {
       "id": "num010",
       "question": "The diameter of a wire measured by a screw gauge was found to be 1.32 mm, 1.34 mm, 1.33 mm, 1.31 mm, 1.35 mm in five observations. Calculate the mean diameter and the absolute error in the mean.",
       "answer": "**Given:**\nObservations: 1.32, 1.34, 1.33, 1.31, 1.35 mm\n\n**Solution:**\n**Mean diameter:**\nMean = (1.32 + 1.34 + 1.33 + 1.31 + 1.35)/5\n= 6.65/5 = 1.33 mm\n\n**Absolute errors:**\n|1.32 - 1.33| = 0.01 mm\n|1.34 - 1.33| = 0.01 mm\n|1.33 - 1.33| = 0.00 mm\n|1.31 - 1.33| = 0.02 mm\n|1.35 - 1.33| = 0.02 mm\n\n**Mean absolute error:**\nΔd = (0.01 + 0.01 + 0.00 + 0.02 + 0.02)/5\n= 0.06/5 = 0.012 mm ≈ 0.01 mm\n\n**Answer:** Mean diameter = 1.33 ± 0.01 mm",
@@ -84,13 +77,6 @@
       "answer": "**Given:**\n- Zero error = -0.03 cm (negative)\n- MSR = 4.7 cm\n- VSR = 6\n- LC = 0.01 cm\n\n**Formula:**\nObserved reading = MSR + (VSR × LC)\nCorrect reading = Observed reading - Zero error\n\n**Solution:**\nObserved reading = 4.7 + (6 × 0.01)\n= 4.7 + 0.06 = 4.76 cm\n\nCorrect reading = 4.76 - (-0.03)\n= 4.76 + 0.03\n= 4.79 cm\n\n**Answer:** Correct length = 4.79 cm",
       "formula": "Correct = Observed - (-ve zero error) = Observed + zero error",
       "source_section": "Vernier Callipers"
-    },
-    {
-      "id": "num013",
-      "question": "Calculate 1 joule in terms of erg. (1 J = 1 kg·m²/s², 1 erg = 1 g·cm²/s²)",
-      "answer": "**Given:**\n- 1 J = 1 kg·m²/s²\n- 1 erg = 1 g·cm²/s²\n\n**Conversions:**\n- 1 kg = 1000 g = 10^3 g\n- 1 m = 100 cm = 10^2 cm\n- 1 m² = 10^4 cm²\n\n**Solution:**\n1 J = 1 kg·m²/s²\n= 1 × (10^3 g) × (10^4 cm²)/s²\n= 10^3 × 10^4 g·cm²/s²\n= 10^7 g·cm²/s²\n= 10^7 erg\n\n**Answer:** 1 joule = 10^7 erg",
-      "formula": "Unit conversion using SI to CGS",
-      "source_section": "CGS to SI Conversion"
     },
     {
       "id": "num014",
@@ -177,7 +163,7 @@
       "source_section": "Large Units"
     }
   ],
-  "total_count": 25,
+  "total_count": 23,
   "generated_at": "2026-01-16T12:00:00",
   "subject": "Physics",
   "chapter": "Physical Quantities"

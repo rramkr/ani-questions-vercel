@@ -23,8 +23,7 @@
     {"id": "tf020", "statement": "The vernier scale slides along the main scale.", "answer": true, "explanation": "The vernier scale (with movable jaw) slides along the fixed main scale.", "source_section": "Vernier Callipers"},
     {"id": "tf021", "statement": "1 fermi is equal to 10^-15 metres.", "answer": true, "explanation": "1 fermi (femtometre) = 10^-15 m, used for nuclear dimensions.", "source_section": "Small Units"},
     {"id": "tf022", "statement": "Speed and velocity have the same dimensions.", "answer": true, "explanation": "Both have dimensions [L T^-1], though velocity is a vector.", "source_section": "Dimensions"},
-    {"id": "tf023", "statement": "The CGS unit of force is Newton.", "answer": false, "explanation": "The CGS unit of force is dyne. Newton is the SI unit.", "source_section": "CGS System"},
-    {"id": "tf024", "statement": "Precision and accuracy mean the same thing in measurement.", "answer": false, "explanation": "Accuracy is closeness to true value; precision is consistency of readings.", "source_section": "Errors"},
+        {"id": "tf024", "statement": "Precision and accuracy mean the same thing in measurement.", "answer": false, "explanation": "Accuracy is closeness to true value; precision is consistency of readings.", "source_section": "Errors"},
     {"id": "tf025", "statement": "Electric current is a fundamental quantity in SI system.", "answer": true, "explanation": "Electric current (ampere) is one of the seven SI fundamental quantities.", "source_section": "Fundamental Quantities"},
     {"id": "tf026", "statement": "The circular scale of a screw gauge usually has 50 divisions.", "answer": false, "explanation": "A standard screw gauge has 100 divisions on its circular scale.", "source_section": "Screw Gauge"},
     {"id": "tf027", "statement": "Joule and Newton-metre have the same dimensions.", "answer": true, "explanation": "Both are units of energy/work with dimensions [M L^2 T^-2].", "source_section": "Units"},
@@ -32,7 +31,7 @@
     {"id": "tf029", "statement": "The dimension formula [M L^2 T^-3] represents power.", "answer": true, "explanation": "Power = Work/Time = [M L^2 T^-2]/[T] = [M L^2 T^-3].", "source_section": "Dimensions"},
     {"id": "tf030", "statement": "Specific gravity has a unit.", "answer": false, "explanation": "Specific gravity is the ratio of densities, so it is unitless and dimensionless.", "source_section": "Derived Quantities"}
   ],
-  "total_count": 30,
+  "total_count": 29,
   "generated_at": "2026-01-16T12:00:00",
   "subject": "Physics",
   "chapter": "Physical Quantities"

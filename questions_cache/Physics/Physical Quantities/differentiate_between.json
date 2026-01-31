@@ -54,19 +54,6 @@
       "source_section": "Measuring Instruments"
     },
     {
-      "id": "db005",
-      "term1": "SI System",
-      "term2": "CGS System",
-      "differences": [
-        {"aspect": "Full Form", "term1_point": "Système International d'Unités", "term2_point": "Centimetre-Gram-Second system"},
-        {"aspect": "Unit of Length", "term1_point": "Metre (m)", "term2_point": "Centimetre (cm)"},
-        {"aspect": "Unit of Mass", "term1_point": "Kilogram (kg)", "term2_point": "Gram (g)"},
-        {"aspect": "Unit of Force", "term1_point": "Newton (N)", "term2_point": "Dyne"},
-        {"aspect": "Current Status", "term1_point": "Internationally accepted and used worldwide", "term2_point": "Largely replaced by SI but still used in some fields"}
-      ],
-      "source_section": "Systems of Units"
-    },
-    {
       "id": "db006",
       "term1": "Systematic Error",
       "term2": "Random Error",
@@ -106,7 +93,7 @@
       "source_section": "Large Units"
     }
   ],
-  "total_count": 8,
+  "total_count": 7,
   "generated_at": "2026-01-16T12:00:00",
   "subject": "Physics",
   "chapter": "Physical Quantities"
