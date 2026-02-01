@@ -1,0 +1,11 @@
+{
+  "subject": "Computer Science",
+  "chapters": [
+    {
+      "name": "Ethics and Safety Measures",
+      "slug": "Ethics and Safety Measures",
+      "has_questions": true,
+      "icon": "🛡️"
+    }
+  ]
+}

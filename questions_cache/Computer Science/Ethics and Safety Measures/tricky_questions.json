@@ -1,0 +1,98 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "trq001",
+      "question": "Rahul received an email saying 'Your account will be closed in 24 hours. Click here to verify your details.' The email looks like it's from his bank. What type of attack is this, and what should Rahul do?",
+      "answer": "This is a Phishing attack. The email is trying to create urgency to trick Rahul into clicking a malicious link.\n\nRahul should:\n1. NOT click on the link\n2. Remember that banks never ask for credentials via email\n3. Delete the email immediately\n4. If worried, directly visit the bank's official website or call them\n5. Never share personal information through email links",
+      "source_section": "Unethical Practices - Phishing"
+    },
+    {
+      "id": "trq002",
+      "question": "Anita copied an entire paragraph from Wikipedia for her school project without changing anything or mentioning the source. Her friend said it's fine because Wikipedia is free. Is her friend correct? Explain.",
+      "answer": "No, her friend is NOT correct. This is plagiarism.\n\nEven though Wikipedia is free to access, the content is protected by copyright and requires acknowledgment. Anita should:\n1. Cite Wikipedia as the source (citation)\n2. Put copied text in quotation marks\n3. Paraphrase in her own words and still cite the source\n\nFree access doesn't mean free to use without credit. Plagiarism is a serious offence regardless of the source.",
+      "source_section": "Unethical Practices - Plagiarism"
+    },
+    {
+      "id": "trq003",
+      "question": "A company hired Raj to test the security of their computer systems by trying to break into them. Is Raj a hacker or a cracker? Explain your answer.",
+      "answer": "Raj is a Hacker (White Hat Hacker), NOT a cracker.\n\nReason:\n1. He has written permission from the computer owners\n2. His purpose is to find and fix security flaws\n3. He is working to improve security, not steal data\n4. His actions are legal and ethical\n\nA cracker works without permission and aims to steal or corrupt data. Raj's work is called 'ethical hacking' or 'penetration testing.'",
+      "source_section": "Unethical Practices - Hacking"
+    },
+    {
+      "id": "trq004",
+      "question": "Priya uses the password 'Priya2012' (her name and birth year). She thinks it's strong because it has letters and numbers. Is she correct? Why or why not?",
+      "answer": "No, Priya is NOT correct. This is a weak password.\n\nReasons:\n1. It uses her name - easily guessable\n2. It uses her birth year - also easily guessable\n3. It only has 9 characters (should be 8-10, but lacks complexity)\n4. No special characters\n5. No uppercase letters (other than first letter)\n\nA strong password should:\n- Not contain personal information\n- Have uppercase and lowercase letters\n- Include digits and special characters\n- Example: Pr!y@2#Str0ng",
+      "source_section": "Password Protection"
+    },
+    {
+      "id": "trq005",
+      "question": "Amit installed an antivirus on his computer last year. He thinks his computer is now permanently protected. Is he right? Why or why not?",
+      "answer": "No, Amit is NOT right. His computer is NOT permanently protected.\n\nReasons:\n1. New viruses and malware are created every day\n2. Antivirus needs regular updates to recognize new threats\n3. Old antivirus versions cannot detect newer malware\n4. He should update his antivirus regularly\n5. Operating system also needs to be updated for security patches\n\nAntivirus software must be updated frequently to provide effective protection.",
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "trq006",
+      "question": "Sneha's classmate sent her a funny video file named 'funnyvideo.mp4.exe'. Should Sneha open it? Explain why or why not.",
+      "answer": "No, Sneha should NOT open this file. This is likely malware.\n\nRed flags:\n1. The file has double extension (.mp4.exe)\n2. The real extension is .exe (executable program), not a video\n3. Attackers often disguise malware as harmless files\n4. Opening it could install viruses, spyware, or other malware\n\nSneha should:\n1. Delete the file immediately\n2. Never open files with suspicious extensions\n3. Run antivirus scan if she already opened it\n4. Be cautious even with files from friends (their account could be hacked)",
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "trq007",
+      "question": "Rohan's friend gave him a CD with pirated games and said, 'Everyone does it, so it's okay.' Is his friend's reasoning valid?",
+      "answer": "No, his friend's reasoning is NOT valid. This is software piracy.\n\nWhy it's wrong:\n1. 'Everyone does it' doesn't make it legal or ethical\n2. Software piracy is illegal regardless of how common it is\n3. It violates copyright and intellectual property rights\n4. Pirated software may contain malware\n5. It harms the developers who created the software\n\nRohan should refuse and suggest buying licensed copies or using free alternatives.",
+      "source_section": "Software Piracy"
+    },
+    {
+      "id": "trq008",
+      "question": "A website shows a padlock icon and uses https://, but the URL is 'www.amaz0n-login.com' (with a zero instead of 'o'). Is this website safe? Why?",
+      "answer": "No, this website is NOT safe. This is a phishing website.\n\nRed flags:\n1. The URL uses '0' (zero) instead of 'o' - common trick\n2. Real Amazon's URL is 'amazon.com', not 'amaz0n-login.com'\n3. Phishers create fake websites that look authentic\n4. Even https:// and padlock can be on fake sites\n\nAlways:\n1. Check the URL carefully for spelling tricks\n2. Type the website address directly instead of clicking links\n3. Verify the domain name matches the real company\n4. Be suspicious of login pages from email links",
+      "source_section": "Unethical Practices - Phishing"
+    },
+    {
+      "id": "trq009",
+      "question": "Meera thinks that if she deletes her social media posts, they disappear forever. Is she correct? Relate this to digital footprint.",
+      "answer": "No, Meera is NOT correct.\n\nExplanation:\n1. Digital footprint includes all traces of online activity\n2. Even deleted posts may exist in backups, screenshots, or archives\n3. Others may have shared or saved her posts before deletion\n4. Internet archives and cached versions may retain content\n5. 'Whatever you do online persists and establishes your online identity'\n\nLessons:\n1. Think before posting anything online\n2. Digital footprint can affect reputation, jobs, and college admissions\n3. Once something is online, it's very hard to remove completely",
+      "source_section": "Digital Footprint"
+    },
+    {
+      "id": "trq010",
+      "question": "Karan received a phone call from someone claiming to be from his bank, asking for his OTP to 'secure his account'. What type of fraud is this, and what should Karan do?",
+      "answer": "This is Vishing (Voice Phishing).\n\nVishing is a fraudulent act of using phone calls or voice messages pretending to be from a genuine company to steal confidential information.\n\nKaran should:\n1. NOT share his OTP with anyone\n2. Know that banks never ask for OTP over phone\n3. Hang up immediately\n4. Call the bank directly using their official number to verify\n5. Report such calls to the bank\n\nOTP is meant only for you to enter - never share it with anyone, even if they claim to be from your bank.",
+      "source_section": "Unethical Practices - Phishing"
+    },
+    {
+      "id": "trq011",
+      "question": "Sonia uses the same password for all her accounts - email, social media, and online shopping. She thinks this is smart because she only needs to remember one password. Is she right?",
+      "answer": "No, Sonia is NOT right. This is a dangerous practice.\n\nRisks:\n1. If one account is hacked, all accounts are compromised\n2. Data breaches on one site expose all her accounts\n3. Hackers specifically try leaked passwords on multiple sites\n4. Financial accounts become vulnerable through social media hacks\n\nBetter approach:\n1. Use different passwords for different accounts\n2. Use a password manager to remember them\n3. At minimum, use unique passwords for banking and email\n4. Enable two-factor authentication where available",
+      "source_section": "Password Protection"
+    },
+    {
+      "id": "trq012",
+      "question": "A classmate keeps sending mean messages to Ravi on social media and has created a fake account using Ravi's photos. What crimes are being committed, and what should Ravi do?",
+      "answer": "Crimes being committed:\n1. Cyberbullying - sending threatening/mean messages\n2. Identity theft - using Ravi's photos without permission\n3. Defamation - potentially damaging reputation through fake account\n\nRavi should:\n1. Not respond to the bully\n2. Block the accounts sending mean messages\n3. Take screenshots as evidence\n4. Report the fake account to the social media platform\n5. Tell parents and teachers immediately\n6. The bully can face punishment under IT Acts for cybercrime",
+      "source_section": "Unethical Practices - Cyberbullying"
+    },
+    {
+      "id": "trq013",
+      "question": "Vinod thinks that using 'incognito mode' or 'private browsing' makes him completely anonymous online. Is he correct?",
+      "answer": "No, Vinod is NOT completely correct.\n\nWhat incognito mode DOES:\n1. Doesn't save browsing history on your device\n2. Doesn't save cookies after closing the session\n3. Provides privacy from others using the same device\n\nWhat incognito mode DOESN'T DO:\n1. Hide your IP address from websites\n2. Make you invisible to your Internet Service Provider\n3. Prevent websites from tracking your session\n4. Protect from malware or phishing\n\nFor sensitive information, incognito mode is helpful but not a complete anonymity solution.",
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "trq014",
+      "question": "A person invented a new machine and wants to protect it. Should they apply for copyright or patent? Explain.",
+      "answer": "They should apply for a Patent, NOT copyright.\n\nReason:\n- Patent protects inventions (machines, processes, products)\n- Copyright protects creative works (books, music, software, art)\n\nPatent benefits:\n1. Gives sole right to make, use, and sell the invention\n2. Protects the invention for a set period of time\n3. Others cannot copy or manufacture the machine without permission\n\nCopyright would not protect a machine because it's an invention, not a creative work like writing or music.",
+      "source_section": "Intellectual Property Rights"
+    },
+    {
+      "id": "trq015",
+      "question": "Pooja installed free software from an unknown website. The software works fine but her computer has become slow and shows many pop-up ads. What likely happened?",
+      "answer": "Pooja likely installed software bundled with Adware and possibly Spyware.\n\nWhat happened:\n1. Free software from unknown sources often contains adware\n2. Adware places advertisements and pop-ups in the browser\n3. Adware slows down the computer\n4. Spyware may also be installed to track her activities\n\nWhat Pooja should do:\n1. Install and run anti-adware and anti-spyware programs\n2. Run a full antivirus scan\n3. Uninstall the suspicious software\n4. In future, download software only from trusted/official sources\n5. Always take parent's permission before installing software",
+      "source_section": "Safety Measures"
+    }
+  ],
+  "total_count": 15,
+  "subject": "Computer Science",
+  "chapter": "Ethics and Safety Measures"
+}

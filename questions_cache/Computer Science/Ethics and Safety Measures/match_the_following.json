@@ -1,0 +1,88 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "instruction": "Match the terms with their definitions:",
+      "column_a": ["Computer ethics", "Plagiarism", "Cyberbullying", "Hacking", "Spam"],
+      "column_b": ["An unsolicited, unwanted e-mail", "Using others' ideas without acknowledgment", "A set of acceptable behaviors for using Internet", "Threatening a person using Internet", "Gaining unauthorized access to a computer"],
+      "correct_matches": {"Computer ethics": "A set of acceptable behaviors for using Internet", "Plagiarism": "Using others' ideas without acknowledgment", "Cyberbullying": "Threatening a person using Internet", "Hacking": "Gaining unauthorized access to a computer", "Spam": "An unsolicited, unwanted e-mail"},
+      "source_section": "Tech Terms"
+    },
+    {
+      "id": "mtf002",
+      "instruction": "Match the security programs with their functions:",
+      "column_a": ["Firewall", "Antivirus", "Spyware", "Adware", "Cookie"],
+      "column_b": ["Surveys behavior and copies passwords", "Prevents and removes malicious software", "Checks incoming and outgoing information", "Collects online activity information", "Places advertisements and pop-ups"],
+      "correct_matches": {"Firewall": "Checks incoming and outgoing information", "Antivirus": "Prevents and removes malicious software", "Spyware": "Surveys behavior and copies passwords", "Adware": "Places advertisements and pop-ups", "Cookie": "Collects online activity information"},
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "mtf003",
+      "instruction": "Match the intellectual property rights with their descriptions:",
+      "column_a": ["Copyright", "Trademark", "Patent", "Trade secret", "Industrial design right"],
+      "column_b": ["Protects inventions", "Identifies products of a company", "Protects creative works like books and music", "Protects appearance and style of objects", "Non-public commercial information"],
+      "correct_matches": {"Copyright": "Protects creative works like books and music", "Trademark": "Identifies products of a company", "Patent": "Protects inventions", "Trade secret": "Non-public commercial information", "Industrial design right": "Protects appearance and style of objects"},
+      "source_section": "Intellectual Property Rights"
+    },
+    {
+      "id": "mtf004",
+      "instruction": "Match the types of hackers with their descriptions:",
+      "column_a": ["White hat hacker", "Black hat hacker (cracker)", "Keylogger", "Phisher", "Spammer"],
+      "column_b": ["Sends unsolicited emails", "Fixes flaws to improve security", "Tricks people to reveal sensitive info", "Steals data by unauthorized access", "Reads keystrokes to steal passwords"],
+      "correct_matches": {"White hat hacker": "Fixes flaws to improve security", "Black hat hacker (cracker)": "Steals data by unauthorized access", "Keylogger": "Reads keystrokes to steal passwords", "Phisher": "Tricks people to reveal sensitive info", "Spammer": "Sends unsolicited emails"},
+      "source_section": "Unethical Practices"
+    },
+    {
+      "id": "mtf005",
+      "instruction": "Match the social media platforms with their descriptions:",
+      "column_a": ["Facebook", "X (Twitter)", "LinkedIn", "WhatsApp", "Pinterest"],
+      "column_b": ["Professional networking platform", "Image sharing and pinning platform", "Messaging application", "Formerly known as Twitter", "Popular social networking site"],
+      "correct_matches": {"Facebook": "Popular social networking site", "X (Twitter)": "Formerly known as Twitter", "LinkedIn": "Professional networking platform", "WhatsApp": "Messaging application", "Pinterest": "Image sharing and pinning platform"},
+      "source_section": "Advantages - Social Media"
+    },
+    {
+      "id": "mtf006",
+      "instruction": "Match the spamming techniques with their definitions:",
+      "column_a": ["E-mail spoofing", "E-mail bombing", "Flooding", "Vishing", "Clickjacking"],
+      "column_b": ["Sending requests more than a resource can handle", "Using phone calls to steal information", "Email appearing from different source", "Repeatedly sending same email to an address", "Tricking user to click on something malicious"],
+      "correct_matches": {"E-mail spoofing": "Email appearing from different source", "E-mail bombing": "Repeatedly sending same email to an address", "Flooding": "Sending requests more than a resource can handle", "Vishing": "Using phone calls to steal information", "Clickjacking": "Tricking user to click on something malicious"},
+      "source_section": "Unethical Practices - Spamming/Phishing"
+    },
+    {
+      "id": "mtf007",
+      "instruction": "Match the advantages of Internet with their descriptions:",
+      "column_a": ["Education", "E-commerce", "Social media", "Entertainment", "Communication"],
+      "column_b": ["Online shopping and transactions", "Platform for interaction and sharing", "Email, chat, video calling", "Virtual classrooms and online tests", "Movies, music, and games"],
+      "correct_matches": {"Education": "Virtual classrooms and online tests", "E-commerce": "Online shopping and transactions", "Social media": "Platform for interaction and sharing", "Entertainment": "Movies, music, and games", "Communication": "Email, chat, video calling"},
+      "source_section": "Advantages of the Internet"
+    },
+    {
+      "id": "mtf008",
+      "instruction": "Match the terms with examples:",
+      "column_a": ["Web browser", "Antivirus software", "Search engine", "Social media", "Video conferencing"],
+      "column_b": ["Skype, Google Duo", "Google Chrome, Firefox", "Facebook, LinkedIn", "Norton, Kaspersky", "Google, Bing"],
+      "correct_matches": {"Web browser": "Google Chrome, Firefox", "Antivirus software": "Norton, Kaspersky", "Search engine": "Google, Bing", "Social media": "Facebook, LinkedIn", "Video conferencing": "Skype, Google Duo"},
+      "source_section": "Advantages of the Internet"
+    },
+    {
+      "id": "mtf009",
+      "instruction": "Match the cyber crimes with their descriptions:",
+      "column_a": ["Cyberstalking", "Cyber espionage", "Cyberterrorism", "Cyber trafficking", "Software piracy"],
+      "column_b": ["Illegal copying of software", "Crime propagated through Internet", "Stalking or harassing online", "Violent activities via Internet", "Obtaining secrets without permission"],
+      "correct_matches": {"Cyberstalking": "Stalking or harassing online", "Cyber espionage": "Obtaining secrets without permission", "Cyberterrorism": "Violent activities via Internet", "Cyber trafficking": "Crime propagated through Internet", "Software piracy": "Illegal copying of software"},
+      "source_section": "Cybercrime"
+    },
+    {
+      "id": "mtf010",
+      "instruction": "Match the safety tips with their purposes:",
+      "column_a": ["Use incognito mode", "Delete browser history", "Clear browser cache", "Use strong password", "Enable spam filter"],
+      "column_b": ["Protect account from hackers", "Keep sensitive browsing private", "Remove stored temporary files", "Remove visited website records", "Block unwanted emails"],
+      "correct_matches": {"Use incognito mode": "Keep sensitive browsing private", "Delete browser history": "Remove visited website records", "Clear browser cache": "Remove stored temporary files", "Use strong password": "Protect account from hackers", "Enable spam filter": "Block unwanted emails"},
+      "source_section": "Safety Measures"
+    }
+  ],
+  "total_count": 10,
+  "subject": "Computer Science",
+  "chapter": "Ethics and Safety Measures"
+}

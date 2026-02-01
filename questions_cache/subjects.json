@@ -23,6 +23,12 @@
       "slug": "EVE",
       "icon": "🌍",
       "chapter_count": 4
+    },
+    {
+      "name": "Computer Science",
+      "slug": "Computer Science",
+      "icon": "💻",
+      "chapter_count": 1
     }
   ]
 }

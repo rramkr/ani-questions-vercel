@@ -1,0 +1,138 @@
+{
+  "question_type": "differentiate_between",
+  "questions": [
+    {
+      "id": "db001",
+      "term1": "Hacker (White Hat)",
+      "term2": "Cracker (Black Hat)",
+      "differences": [
+        {"aspect": "Purpose", "term1_point": "Fixes flaws and improves security", "term2_point": "Steals or corrupts data"},
+        {"aspect": "Permission", "term1_point": "Works with written permission from owners", "term2_point": "Works without permission (unauthorized)"},
+        {"aspect": "Intent", "term1_point": "Ethical and helpful", "term2_point": "Unethical and harmful"},
+        {"aspect": "Legality", "term1_point": "Legal activity", "term2_point": "Illegal activity (cybercrime)"},
+        {"aspect": "Impact", "term1_point": "Improves system security", "term2_point": "Causes data and financial losses"}
+      ],
+      "source_section": "Unethical Practices - Hacking"
+    },
+    {
+      "id": "db002",
+      "term1": "Phishing",
+      "term2": "Vishing",
+      "differences": [
+        {"aspect": "Medium", "term1_point": "Uses emails and fake websites", "term2_point": "Uses phone calls or voice messages"},
+        {"aspect": "Method", "term1_point": "Sends forged emails from fake organizations", "term2_point": "Makes fraudulent calls pretending to be from genuine company"},
+        {"aspect": "Common Examples", "term1_point": "Lottery winning emails, fake bank emails", "term2_point": "Bank verification calls, OTP requests"},
+        {"aspect": "Target", "term1_point": "Email credentials and online passwords", "term2_point": "Personal and financial information via call"},
+        {"aspect": "Detection", "term1_point": "Check URL and email source", "term2_point": "Verify caller identity before sharing info"}
+      ],
+      "source_section": "Unethical Practices - Phishing"
+    },
+    {
+      "id": "db003",
+      "term1": "Firewall",
+      "term2": "Antivirus",
+      "differences": [
+        {"aspect": "Function", "term1_point": "Monitors and filters incoming/outgoing network traffic", "term2_point": "Prevents, detects, and removes malicious software"},
+        {"aspect": "Protection Type", "term1_point": "Protects against unauthorized network access", "term2_point": "Protects against viruses, malware, trojans"},
+        {"aspect": "Working", "term1_point": "Acts as a barrier between trusted and untrusted networks", "term2_point": "Scans files and programs for malicious code"},
+        {"aspect": "Focus", "term1_point": "Network security", "term2_point": "System and file security"},
+        {"aspect": "Examples", "term1_point": "Windows Firewall, hardware firewalls", "term2_point": "Norton, MacAfee, Kaspersky, Quick Heal"}
+      ],
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "db004",
+      "term1": "Spyware",
+      "term2": "Adware",
+      "differences": [
+        {"aspect": "Purpose", "term1_point": "Surveys Internet behavior and copies passwords", "term2_point": "Places advertisements in browser"},
+        {"aspect": "Visibility", "term1_point": "Works secretly in background", "term2_point": "Visible through pop-up ads"},
+        {"aspect": "Threat Level", "term1_point": "High - steals sensitive information", "term2_point": "Medium - slows down computer"},
+        {"aspect": "Data Collection", "term1_point": "Collects passwords and personal data", "term2_point": "Tracks browsing habits for ads"},
+        {"aspect": "Impact", "term1_point": "Identity theft and fraud", "term2_point": "Annoying ads and slower performance"}
+      ],
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "db005",
+      "term1": "Copyright",
+      "term2": "Patent",
+      "differences": [
+        {"aspect": "Protects", "term1_point": "Creative works like books, movies, music, software", "term2_point": "Inventions and new discoveries"},
+        {"aspect": "Rights Given", "term1_point": "Right to reproduce, distribute, and perform the work", "term2_point": "Sole right to make, use, and sell the invention"},
+        {"aspect": "Duration", "term1_point": "Usually life of author plus 50-70 years", "term2_point": "Usually 20 years from filing date"},
+        {"aspect": "Examples", "term1_point": "Books, songs, paintings, photographs", "term2_point": "New machines, processes, products"},
+        {"aspect": "Registration", "term1_point": "Automatic upon creation", "term2_point": "Requires formal application and approval"}
+      ],
+      "source_section": "Intellectual Property Rights"
+    },
+    {
+      "id": "db006",
+      "term1": "Trademark",
+      "term2": "Trade Secret",
+      "differences": [
+        {"aspect": "Definition", "term1_point": "Word, name, or symbol to identify products", "term2_point": "Non-public commercial information"},
+        {"aspect": "Purpose", "term1_point": "Distinguishes products of one company from others", "term2_point": "Gives competitive advantage to business"},
+        {"aspect": "Disclosure", "term1_point": "Publicly visible on products", "term2_point": "Kept confidential"},
+        {"aspect": "Protection", "term1_point": "Protected through registration", "term2_point": "Protected by keeping it secret"},
+        {"aspect": "Examples", "term1_point": "Company logos, brand names", "term2_point": "Secret formulas, business strategies"}
+      ],
+      "source_section": "Intellectual Property Rights"
+    },
+    {
+      "id": "db007",
+      "term1": "Plagiarism",
+      "term2": "Software Piracy",
+      "differences": [
+        {"aspect": "Definition", "term1_point": "Using others' ideas without acknowledging source", "term2_point": "Illegal copying of software without license"},
+        {"aspect": "What is Stolen", "term1_point": "Ideas, text, images, creative content", "term2_point": "Software programs and applications"},
+        {"aspect": "How to Avoid", "term1_point": "Use citation and acknowledge sources", "term2_point": "Buy licensed software"},
+        {"aspect": "Common in", "term1_point": "Academic work, articles, projects", "term2_point": "Software distribution, CD copying"},
+        {"aspect": "Penalty", "term1_point": "Academic penalties, legal action", "term2_point": "Fines and legal prosecution"}
+      ],
+      "source_section": "Unethical Practices"
+    },
+    {
+      "id": "db008",
+      "term1": "E-mail Bombing",
+      "term2": "Flooding",
+      "differences": [
+        {"aspect": "Definition", "term1_point": "Repeatedly sending same email to an address", "term2_point": "Sending too many requests to a resource"},
+        {"aspect": "Target", "term1_point": "Individual email inbox", "term2_point": "Computer resource or server"},
+        {"aspect": "Result", "term1_point": "Overflows inbox with duplicate emails", "term2_point": "Denial of service to authorized users"},
+        {"aspect": "Method", "term1_point": "Multiple copies of same message", "term2_point": "Overwhelming requests beyond capacity"},
+        {"aspect": "Type of Attack", "term1_point": "Email spam attack", "term2_point": "Denial of Service (DoS) attack"}
+      ],
+      "source_section": "Unethical Practices - Spamming"
+    },
+    {
+      "id": "db009",
+      "term1": "Cyberbullying",
+      "term2": "Cyberstalking",
+      "differences": [
+        {"aspect": "Definition", "term1_point": "Threatening or harassing using Internet", "term2_point": "Stalking or following someone online"},
+        {"aspect": "Nature", "term1_point": "Direct attacks like insults, threats", "term2_point": "Monitoring and tracking activities"},
+        {"aspect": "Methods", "term1_point": "Hurtful messages, embarrassing photos", "term2_point": "False accusations, defamation"},
+        {"aspect": "Victims", "term1_point": "Often children and teenagers", "term2_point": "Can target anyone"},
+        {"aspect": "Intent", "term1_point": "To humiliate or embarrass", "term2_point": "To harass through surveillance"}
+      ],
+      "source_section": "Unethical Practices - Cyberbullying"
+    },
+    {
+      "id": "db010",
+      "term1": "Cookie",
+      "term2": "Spyware",
+      "differences": [
+        {"aspect": "Origin", "term1_point": "Created by websites you visit", "term2_point": "Installed without user's knowledge"},
+        {"aspect": "Purpose", "term1_point": "Track browsing for website functionality/marketing", "term2_point": "Steal passwords and sensitive data"},
+        {"aspect": "Legality", "term1_point": "Legal with user consent", "term2_point": "Illegal malicious software"},
+        {"aspect": "Control", "term1_point": "Can be disabled in browser settings", "term2_point": "Requires anti-spyware to remove"},
+        {"aspect": "Harm Level", "term1_point": "Generally low - tracks for ads", "term2_point": "High - can lead to identity theft"}
+      ],
+      "source_section": "Privacy and Safety"
+    }
+  ],
+  "total_count": 10,
+  "subject": "Computer Science",
+  "chapter": "Ethics and Safety Measures"
+}

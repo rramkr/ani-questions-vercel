@@ -1,0 +1,158 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "sa001",
+      "question": "What is computer ethics?",
+      "answer": "Computer ethics is a set of acceptable behaviors for using a computer and the Internet. It includes being honest, respecting views of others, and acknowledging the rights and properties of people on the Internet.",
+      "source_section": "Computer Ethics"
+    },
+    {
+      "id": "sa002",
+      "question": "List any four advantages of the Internet.",
+      "answer": "Four advantages of the Internet are:\n1. Education - Used for online classes, tests, and virtual classrooms\n2. Abundant information - Internet is a vast storehouse of information accessible via search engines\n3. Communication - Convenient mode through email, chat, instant messenger, and video conferencing\n4. E-commerce - Enables online shopping, paying bills, and financial transactions",
+      "source_section": "Advantages of the Internet"
+    },
+    {
+      "id": "sa003",
+      "question": "What is social media? Give any three examples.",
+      "answer": "Social media refers to the online communication platform used for interaction, content sharing, and collaboration among users. Social media helps users interact and socialize with others even though they live far apart.\n\nExamples: Facebook, X (Twitter), LinkedIn, WhatsApp, Pinterest, Reddit, Instagram",
+      "source_section": "Advantages - Social Media"
+    },
+    {
+      "id": "sa004",
+      "question": "List any four disadvantages of the Internet.",
+      "answer": "Four disadvantages of the Internet are:\n1. Spam - Unwanted, unsolicited emails that overcrowd inbox\n2. Malware - Malicious programs that attack computers and harm data\n3. Internet addiction - Wasting useful time on social media affecting studies\n4. Leakage of private information - Dishonest users can steal sensitive information",
+      "source_section": "Disadvantages of the Internet"
+    },
+    {
+      "id": "sa005",
+      "question": "What is plagiarism? Why is it considered a serious offence?",
+      "answer": "Plagiarism refers to the act of using or imitating others' ideas and works without proper rights or without acknowledging the source of information. It is considered a serious offence because:\n1. It is stealing someone else's intellectual work\n2. It violates copyright laws\n3. It results in severe penalties\n4. It is morally incorrect and unethical",
+      "source_section": "Unethical Practices - Plagiarism"
+    },
+    {
+      "id": "sa006",
+      "question": "How can you avoid plagiarism?",
+      "answer": "To avoid plagiarism:\n1. Always obtain written permission from the copyright owner\n2. Mention the source when using information (citation)\n3. Acknowledge ideas or theories proposed by another person\n4. Give credit for any fact, statistics, image, graph, or uncommon information\n5. Properly cite quotations of other person's spoken or written words",
+      "source_section": "Unethical Practices - Plagiarism"
+    },
+    {
+      "id": "sa007",
+      "question": "What is cyberbullying? How can it affect the victim?",
+      "answer": "Cyberbullying is an act of threatening, harassing, humiliating, embarrassing, or targeting a person by another person using the Internet, digital technologies, or mobile phones.\n\nEffects on victim:\n1. Can cause severe stress and anxiety\n2. Can lead to developmental issues, especially in children\n3. Can cause emotional trauma\n4. May affect the victim's mental health",
+      "source_section": "Unethical Practices - Cyberbullying"
+    },
+    {
+      "id": "sa008",
+      "question": "What steps should you take if you are being cyberbullied?",
+      "answer": "If being cyberbullied:\n1. Stop - Take five minutes to calm down, do not get irritated or terrified\n2. Block - Block the communication with the cyberbully\n3. Tell - Discuss the problem with your parents or a trusted adult\n4. Don't be an accomplice - Don't be silent, take a stand against cyberbullying\n5. Keep personal information private",
+      "source_section": "Unethical Practices - Cyberbullying"
+    },
+    {
+      "id": "sa009",
+      "question": "Differentiate between a hacker and a cracker.",
+      "answer": "Hacker (White hat hacker):\n- Breaks into a computer system to fix flaws and improve security\n- Works with permission from the owner\n- Acts ethically and legally\n- Helps improve system security\n\nCracker (Black hat hacker):\n- Gains unauthorized access to steal or corrupt data\n- Works without permission\n- Acts unethically and illegally\n- Damages social reputation and causes financial losses",
+      "source_section": "Unethical Practices - Hacking"
+    },
+    {
+      "id": "sa010",
+      "question": "What is a firewall? Why is it important?",
+      "answer": "A firewall is a network security program that keeps a check on incoming and outgoing information. It filters information coming through an Internet connection to a computer system or network.\n\nImportance:\n1. Protects computer from unauthorized access\n2. Blocks suspicious incoming data\n3. Monitors outgoing information\n4. Helps handle security challenges\n5. Should be installed and updated regularly",
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "sa011",
+      "question": "What is phishing? How can you identify a phishing email?",
+      "answer": "Phishing is a type of Internet fraud that aims to trick people into revealing sensitive information like credit card numbers and passwords.\n\nHow to identify phishing emails:\n1. They appear to come from well-known organizations but have slight differences\n2. They often promise prizes like lottery winnings\n3. They ask for personal credentials or bank details\n4. They contain links to fake websites\n5. They create urgency to act immediately",
+      "source_section": "Unethical Practices - Phishing"
+    },
+    {
+      "id": "sa012",
+      "question": "How can you avoid phishing attacks?",
+      "answer": "To avoid phishing:\n1. Learn to identify phishing emails\n2. Never share password or personal information via email\n3. Remember that banks will never ask for credentials by email\n4. Never click on links in suspicious emails\n5. Enter sensitive data only on secured websites (https:// with closed lock icon)\n6. If in doubt, verify information by contacting the organization directly",
+      "source_section": "Unethical Practices - Phishing"
+    },
+    {
+      "id": "sa013",
+      "question": "What is spam? What are the problems caused by spamming?",
+      "answer": "Spam refers to any unsolicited and unwanted e-mail. It may carry advertisements or serve as a means of spreading malware.\n\nProblems caused by spamming:\n1. Wastage of user's time in reading unwanted emails\n2. Wastage of network bandwidth\n3. Danger of getting malware infection\n4. Regular emails get buried under spam\n5. May lead to security threats",
+      "source_section": "Unethical Practices - Spamming"
+    },
+    {
+      "id": "sa014",
+      "question": "What are the different forms of spamming?",
+      "answer": "Different forms of spamming are:\n1. E-mail spoofing - Sending email that appears to have originated from one source when it was actually sent from another\n2. E-mail bombing - Repeatedly sending the same email to a particular address\n3. Flooding - Sending requests to a computer resource many times more than it can handle, resulting in denial of service",
+      "source_section": "Unethical Practices - Spamming"
+    },
+    {
+      "id": "sa015",
+      "question": "What is software piracy? How can you avoid it?",
+      "answer": "Software piracy is an act of illegal copying of a software and its distribution without buying the license or copyright.\n\nHow to avoid:\n1. Buy your own licensed copy of software\n2. Do not make copies and distribute them\n3. If you have a license for one user, use it on only one computer\n4. Do not use illegal CDs given by friends containing music or games\n5. Read and follow the license agreement",
+      "source_section": "Software Piracy"
+    },
+    {
+      "id": "sa016",
+      "question": "What are Intellectual Property Rights? List the common types.",
+      "answer": "Intellectual Property Rights (IPR) are legal property rights of creators over their literary or artistic works, music, ideas, discoveries, and designs. These rights protect the interests of creators/owners.\n\nCommon types:\n1. Copyright - Protects creative works like books, movies, music, software\n2. Trademark - Identifies and distinguishes products of a company\n3. Patent - Protects inventions\n4. Industrial design right - Protects appearance and design of objects\n5. Trade secret - Protects non-public business information",
+      "source_section": "Intellectual Property Rights"
+    },
+    {
+      "id": "sa017",
+      "question": "What is cybercrime? Give examples.",
+      "answer": "Cybercrime is any illegal activity conducted through the use of a computer and the Internet.\n\nExamples:\n1. Identity theft\n2. Forgery\n3. Defamation\n4. Mischief\n5. Credit card account theft\n6. Hacking\n7. Spreading malware\n\nCybercrime is punishable under IT Acts with imprisonment and/or heavy monetary fines.",
+      "source_section": "Cybercrime"
+    },
+    {
+      "id": "sa018",
+      "question": "What is digital footprint? Why is it important?",
+      "answer": "Digital footprint is the information about a particular user that exists on the Internet as a result of their online activity. This includes information shared while filling forms, sending emails, uploading photos, talking to friends online, etc.\n\nImportance:\n1. Whatever you do online persists and establishes your online identity\n2. It can make or break your reputation in the cyber world\n3. Companies and colleges search online profiles before giving jobs or admissions\n4. It affects your credibility and trustworthiness online",
+      "source_section": "Digital Footprint"
+    },
+    {
+      "id": "sa019",
+      "question": "What are the guidelines for creating a strong password?",
+      "answer": "Guidelines for creating a strong password:\n1. Length should be at least 8 to 10 characters\n2. Include alphabets in lowercase and uppercase\n3. Include digits and special characters\n4. Do not use name, family member's name, or date of birth\n5. Avoid consecutive letters or numbers\n6. Change password at least once every month\n7. Create a new (unused) password when changing\n8. Do not write down or share your password",
+      "source_section": "Password Protection"
+    },
+    {
+      "id": "sa020",
+      "question": "List any five general safety measures for children while using the Internet.",
+      "answer": "Five safety measures for children:\n1. Use 'private' or 'incognito' mode for sensitive information\n2. Do not share personal information without parent's permission\n3. Do not share password with anyone except parents\n4. Do not agree to meet online friends without parent's permission\n5. Do not respond to messages that make you uncomfortable - tell parents or teacher\n6. Before downloading software, take permission of parents\n7. Always acknowledge sources when using online information in projects",
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "sa021",
+      "question": "What is a cookie? How can you protect your online privacy?",
+      "answer": "A cookie is a small piece of data or a program that collects information of your online activity and reports back to the host. This information may be used for marketing purposes.\n\nProtecting online privacy:\n1. Disable cookies in web browser settings\n2. Set privacy level in social media websites\n3. Delete browser history periodically\n4. Clear browser cache regularly\n5. Use privacy settings to control shared information",
+      "source_section": "Individual Right to Privacy"
+    },
+    {
+      "id": "sa022",
+      "question": "What is an antivirus? Name any two antivirus software.",
+      "answer": "An antivirus is a program used to prevent, detect, and remove malicious software from computers. It helps protect computers from viruses, malware, and other threats.\n\nExamples of antivirus software:\n1. Norton\n2. MacAfee\n3. Kaspersky\n4. Quick Heal\n\nAntivirus should be installed and updated regularly to handle new security threats.",
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "sa023",
+      "question": "What is COPPA? How does it protect children?",
+      "answer": "COPPA stands for Children's Online Privacy Protection Act. It is a law created to protect the privacy of children under 13 years of age.\n\nHow it protects children:\n1. Website operators must seek verification of information from parent or guardian\n2. Operators must work according to the privacy policy mentioned in the Act\n3. Personal information of children cannot be collected without parental consent\n4. Websites must have clear privacy policies for children",
+      "source_section": "Individual Right to Privacy"
+    },
+    {
+      "id": "sa024",
+      "question": "What is the difference between spyware and adware?",
+      "answer": "Spyware:\n- Surveys your Internet behavior\n- Copies your passwords without your knowledge\n- Uses information for illegitimate purposes\n- Operates secretly in the background\n\nAdware:\n- Places advertisements in your browser\n- Allows pop-ups to appear\n- Slows down your computer\n- Gives hackers time to steal information\n\nBoth should be removed using anti-spyware and anti-adware programs.",
+      "source_section": "Safety Measures"
+    },
+    {
+      "id": "sa025",
+      "question": "What ethical rules should you follow while using computers and the Internet?",
+      "answer": "Ethical rules for using computers and Internet:\n1. Do not use computer to harm other people\n2. Do not interfere with other people's work\n3. Do not spy on another person's data\n4. Do not steal important data or information\n5. Do not contribute to the spread of wrong information\n6. Do not copy or use proprietary software without paying\n7. Do not use other people's computer resources without authorization\n8. Do not claim ownership on someone else's work\n9. Be respectful and courteous in communication",
+      "source_section": "Computer Ethics"
+    }
+  ],
+  "total_count": 25,
+  "subject": "Computer Science",
+  "chapter": "Ethics and Safety Measures"
+}

@@ -1,0 +1,195 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tq001",
+      "question": "Fill in the blank: Computer _____ is the set of acceptable behaviors for using a computer and the Internet.",
+      "answer": "Ethics",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Exercises - Section A"
+    },
+    {
+      "id": "tq002",
+      "question": "Fill in the blank: You should not use _____ software for which you have not paid.",
+      "answer": "Proprietary",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Exercises - Section A"
+    },
+    {
+      "id": "tq003",
+      "question": "Fill in the blank: _____ is the act of using others' ideas and works without proper rights or without acknowledging the source of information.",
+      "answer": "Plagiarism",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Exercises - Section A"
+    },
+    {
+      "id": "tq004",
+      "question": "Fill in the blank: Searching the whereabouts of the person you meet online is called _____.",
+      "answer": "Googling",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Exercises - Section A"
+    },
+    {
+      "id": "tq005",
+      "question": "Fill in the blank: A _____ is a network security program to keep a check on incoming and outgoing information.",
+      "answer": "Firewall",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Exercises - Section A"
+    },
+    {
+      "id": "tq006",
+      "question": "You can use any content on Internet in your project work without acknowledging it.",
+      "answer": "False. You must always acknowledge the source of information to avoid plagiarism.",
+      "question_type": "true_false_textbook",
+      "source_section": "Exercises - Section B"
+    },
+    {
+      "id": "tq007",
+      "question": "You should always open an e-mail received from an unknown person.",
+      "answer": "False. Never open an e-mail from an unknown person, just delete it.",
+      "question_type": "true_false_textbook",
+      "source_section": "Exercises - Section B"
+    },
+    {
+      "id": "tq008",
+      "question": "A program that collects the information of your online activity and reports back to the host is called a firewall.",
+      "answer": "False. It is called a cookie. A firewall is a network security program that keeps a check on incoming and outgoing information.",
+      "question_type": "true_false_textbook",
+      "source_section": "Exercises - Section B"
+    },
+    {
+      "id": "tq009",
+      "question": "You should always buy a licensed software.",
+      "answer": "True. Using unlicensed software is software piracy which is illegal.",
+      "question_type": "true_false_textbook",
+      "source_section": "Exercises - Section B"
+    },
+    {
+      "id": "tq010",
+      "question": "Cybercrime is any illegal activity conducted through the use of a computer and the Internet.",
+      "answer": "True",
+      "question_type": "true_false_textbook",
+      "source_section": "Exercises - Section B"
+    },
+    {
+      "id": "tq011",
+      "question": "It is a program that filters the information coming through an Internet connection to a computer system or a network.",
+      "answer": "b. Firewall",
+      "question_type": "mcq_textbook",
+      "options": ["Cookies", "Firewall", "Plagiarism", "Antivirus"],
+      "source_section": "Exercises - Section C"
+    },
+    {
+      "id": "tq012",
+      "question": "It is stealing ideas or creation of others.",
+      "answer": "c. Plagiarism",
+      "question_type": "mcq_textbook",
+      "options": ["Piracy", "Copyright", "Plagiarism", "IPR"],
+      "source_section": "Exercises - Section C"
+    },
+    {
+      "id": "tq013",
+      "question": "What is a set of acceptable behaviors, while working on a computer or on the Internet called?",
+      "answer": "c. Cyber Ethics",
+      "question_type": "mcq_textbook",
+      "options": ["Cybersecurity", "Cyber Safety", "Cyber Ethics", "Cyber Law"],
+      "source_section": "Exercises - Section C"
+    },
+    {
+      "id": "tq014",
+      "question": "When a person is harassed repeatedly by being followed online, it is called _____.",
+      "answer": "b. Cyberbullying",
+      "question_type": "mcq_textbook",
+      "options": ["Phishing", "Cyberbullying", "Cyber Safety", "Identity Theft"],
+      "source_section": "Exercises - Section C"
+    },
+    {
+      "id": "tq015",
+      "question": "An unsolicited commercial email is known as _____.",
+      "answer": "b. Spam",
+      "question_type": "mcq_textbook",
+      "options": ["Virus", "Spam", "Spyware", "Trojan Horse"],
+      "source_section": "Exercises - Section C"
+    },
+    {
+      "id": "tq016",
+      "question": "Mention some ethical rules applicable to the use of computer and the Internet.",
+      "answer": "Some ethical rules applicable to the use of computer and the Internet are:\n1. Do not use computer to harm other people\n2. Do not interfere with other people's work\n3. Do not spy on another person's data\n4. Do not steal important data or information\n5. Do not contribute to the spread of wrong information\n6. Do not copy or use proprietary software for which you have not paid\n7. Do not use other people's computer resources without authorization\n8. Do not claim ownership on a work which is someone else's work\n9. In communication, be respectful and courteous with others",
+      "question_type": "short_answer_textbook",
+      "source_section": "Exercises - Section D"
+    },
+    {
+      "id": "tq017",
+      "question": "What is plagiarism? How will you avoid it?",
+      "answer": "Plagiarism refers to the act of using or imitating others' ideas and works without proper rights or without acknowledging the source of information. It is a serious offence that results in severe penalties.\n\nHow to avoid plagiarism:\n1. Always obtain written permission from the copyright owner\n2. Mention the source when using information like:\n   - Ideas or theories proposed by another person\n   - Any fact, statistics, image, graph, or any piece of information that is not common\n   - Quotation of other person's spoken or written words\n3. Use citation - mentioning an acknowledgment of the source of used information is the simplest technique to avoid plagiarism",
+      "question_type": "short_answer_textbook",
+      "source_section": "Exercises - Section D"
+    },
+    {
+      "id": "tq018",
+      "question": "What will you do if you are cyberbullied by someone?",
+      "answer": "If I am being cyberbullied by someone, I will:\n1. Stop - Take five minutes to calm down, do not get irritated or terrified\n2. Block - Block the communication with the cyberbully\n3. Tell - Discuss the problem with my parents or a trusted adult\n4. Don't be an accomplice - Don't be silent, take a stand against cyberbullying\n5. Keep personal information private and not disclose any information without the consent of parents\n6. Google myself to find out what information is available about me online",
+      "question_type": "short_answer_textbook",
+      "source_section": "Exercises - Section D"
+    },
+    {
+      "id": "tq019",
+      "question": "What is a spam? How will you avoid spamming?",
+      "answer": "Spam refers to any unsolicited and unwanted e-mail. It may carry advertisements or serve as a means of spreading malware such as viruses and worms. Problems caused by spamming include wastage of user's time, wastage of network bandwidth, and danger of getting malware infection.\n\nHow to avoid spam:\n1. Do not give your e-mail address to unknown people\n2. Do not enter your e-mail address at unreliable websites\n3. Use the spam filter of your e-mail program to block unwanted e-mails\n4. Delete spam mails without reading them",
+      "question_type": "short_answer_textbook",
+      "source_section": "Exercises - Section D"
+    },
+    {
+      "id": "tq020",
+      "question": "How will you avoid software piracy? Write any two points.",
+      "answer": "To avoid software piracy:\n1. Buy your own licensed copy of software\n2. Do not make its copies and distribute them\n3. If you have a license for one user, then use it on only one computer\n4. Do not use illegal CDs given to you by your friends containing your favorite music or games",
+      "question_type": "short_answer_textbook",
+      "source_section": "Exercises - Section D"
+    },
+    {
+      "id": "tq021",
+      "question": "Monica has opened an email account for her mother. While creating it, she has to enter a suitable password. Can you suggest Monica a strong password?",
+      "answer": "A strong password should:\n1. Be at least 8 to 10 characters long\n2. Consist of alphabets in lowercase and uppercase, digits, and special characters\n3. Not use name, family member's name, or date of birth as these are easy to guess\n4. Avoid consecutive letters of alphabets and numbers\n\nExample of a strong password: M0m@2024Str!\n\nThis password contains uppercase (M, S), lowercase (m, t, r), numbers (0, 2, 0, 2, 4), and special characters (@, !), making it difficult for hackers to crack.",
+      "question_type": "application_based_textbook",
+      "source_section": "Application-Based Questions"
+    },
+    {
+      "id": "tq022",
+      "question": "Seema's brother has logged into his friend's e-mail account without any permission from his friend. What type of cybercrime is this?",
+      "answer": "This is an act of Hacking (or Cracking). Hacking refers to an act of gaining unauthorized access to a computer and/or network resources. Since Seema's brother accessed his friend's email account without permission, he is acting as a cracker (black hat hacker) - a person who gains unauthorized access to a computer system for the purpose of stealing or corrupting data. This is a cybercrime punishable under IT Acts.",
+      "question_type": "application_based_textbook",
+      "source_section": "Application-Based Questions"
+    },
+    {
+      "id": "tq023",
+      "question": "Govind's brother got a message \"You have won the lottery of 1 Lakh rupees. Please click on the link to submit the bank details so that the money can be transferred.\" Can you suggest what Govind's brother should do?",
+      "answer": "This is a Phishing attempt - a type of Internet fraud that aims to trick people into revealing sensitive information like credit card numbers and passwords.\n\nGovind's brother should:\n1. NOT click on the link in the message\n2. NOT provide any bank details or personal information\n3. Remember that banks will never ask to send password or personal information by e-mail\n4. Delete the message immediately\n5. Never go to websites of banks by clicking on links included in an e-mail\n6. Inform parents or a trusted adult about this fraudulent message\n7. Check that legitimate websites start with https:// and show a closed lock icon",
+      "question_type": "application_based_textbook",
+      "source_section": "Application-Based Questions"
+    },
+    {
+      "id": "tq024",
+      "question": "Rohit's friend told him that he is being threatened by someone on his Facebook. What should Rohit do to help his friend?",
+      "answer": "Rohit should help his friend by:\n1. Telling his friend to not get irritated or terrified - stay calm\n2. Advising him to block the person who is threatening him\n3. Encouraging him to tell his parents or a trusted adult about the cyberbullying\n4. Helping him report the threatening account to Facebook\n5. Reminding him not to respond to the bully\n6. Taking a stand against cyberbullying - don't be silent\n7. Keeping evidence (screenshots) of the threats in case it needs to be reported to authorities",
+      "question_type": "application_based_textbook",
+      "source_section": "Hands On Questions"
+    },
+    {
+      "id": "tq025",
+      "question": "Jacob has used a beautiful photograph in his school project work. He downloaded this photograph from a website. Did he do anything wrong? What must he do if he has to use the photograph in his project work?",
+      "answer": "Yes, Jacob did something wrong if he used the photograph without proper acknowledgment or permission. This could be considered plagiarism.\n\nTo use the photograph correctly, Jacob must:\n1. Obtain written permission from the copyright owner (the photographer or website)\n2. Mention the source of the photograph in his project (citation)\n3. Acknowledge where he got the image from\n4. Check if the image has a Creative Commons license that allows free use\n5. Give proper credit to the original creator\n\nMentioning an acknowledgment of the source of used information is called citation and is the simplest technique to avoid plagiarism.",
+      "question_type": "application_based_textbook",
+      "source_section": "Hands On Questions"
+    },
+    {
+      "id": "tq026",
+      "question": "Shefali has developed a software that can erase all the data from a computer. She is having fun by sharing this software with her friends freely. Is this a right thing to do?",
+      "answer": "No, this is NOT the right thing to do. Shefali's actions are unethical and potentially illegal because:\n\n1. The software she created is a type of malware - a malicious program that can harm users' data\n2. Sharing such software contributes to the spread of harmful programs\n3. It violates computer ethics - \"Do not use computer to harm other people\"\n4. If someone uses this software to destroy others' data, it becomes a cybercrime\n5. Shefali should think about the social impact her software can have\n\nAs per computer ethics: \"If you have developed a software and are willing to share it with others online, think about the social impact it can have.\"",
+      "question_type": "application_based_textbook",
+      "source_section": "Hands On Questions"
+    }
+  ],
+  "total_count": 26,
+  "subject": "Computer Science",
+  "chapter": "Ethics and Safety Measures"
+}

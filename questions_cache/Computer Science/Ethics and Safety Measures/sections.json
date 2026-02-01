@@ -1,0 +1,6 @@
+{
+  "textbook": ["textbook_qa"],
+  "previous_year": [],
+  "exam": ["mcq", "fill_in_blanks", "true_false", "short_answer", "match_the_following"],
+  "misc": ["name_the_following", "differentiate_between", "tricky_questions"]
+}
