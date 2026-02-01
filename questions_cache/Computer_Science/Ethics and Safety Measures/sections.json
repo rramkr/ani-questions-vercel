@@ -1,6 +1,21 @@
 {
-  "textbook": ["textbook_qa"],
-  "previous_year": [],
-  "exam": ["mcq", "fill_in_blanks", "true_false", "short_answer", "match_the_following"],
-  "misc": ["name_the_following", "differentiate_between", "tricky_questions"]
+  "subject": "Computer Science",
+  "chapter": "Ethics and Safety Measures",
+  "sections": {
+    "textbook": [
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+    ],
+    "exam": [
+      {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},
+      {"value": "fill_in_blanks", "label": "Fill in the Blanks", "icon": "✏️"},
+      {"value": "true_false", "label": "True or False", "icon": "✓✗"},
+      {"value": "short_answer", "label": "Short Answer", "icon": "📝"},
+      {"value": "match_the_following", "label": "Match the Following", "icon": "🔗"}
+    ],
+    "miscellaneous": [
+      {"value": "name_the_following", "label": "Name the Following", "icon": "🏷️"},
+      {"value": "differentiate_between", "label": "Differentiate Between", "icon": "↔️"},
+      {"value": "tricky_questions", "label": "Tricky Questions", "icon": "🎯"}
+    ]
+  }
 }
