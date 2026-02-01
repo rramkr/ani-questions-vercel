@@ -1,358 +1,118 @@
 {
   "question_type": "mcq",
   "questions": [
-    {
-      "id": "mcq001",
-      "question": "What is computer ethics?",
-      "options": ["A type of virus", "A set of acceptable behaviors for using a computer and the Internet", "A programming language", "A computer hardware"],
-      "answer": "A set of acceptable behaviors for using a computer and the Internet",
-      "source_section": "Computer Ethics"
-    },
-    {
-      "id": "mcq002",
-      "question": "Which of the following is an advantage of the Internet?",
-      "options": ["Spam emails", "Cyberbullying", "E-commerce", "Malware"],
-      "answer": "E-commerce",
-      "source_section": "Advantages of the Internet"
-    },
-    {
-      "id": "mcq003",
-      "question": "Plagiarism refers to:",
-      "options": ["Protecting your computer", "Using others' ideas without acknowledgment", "Sending emails", "Creating passwords"],
-      "answer": "Using others' ideas without acknowledgment",
-      "source_section": "Unethical Practices - Plagiarism"
-    },
-    {
-      "id": "mcq004",
-      "question": "A person who gains unauthorized access to a computer system for stealing data is called:",
-      "options": ["Programmer", "Cracker", "User", "Designer"],
-      "answer": "Cracker",
-      "source_section": "Unethical Practices - Hacking"
-    },
-    {
-      "id": "mcq005",
-      "question": "Which of the following is a social media platform?",
-      "options": ["Microsoft Word", "Facebook", "Notepad", "Calculator"],
-      "answer": "Facebook",
-      "source_section": "Advantages - Social Media"
-    },
-    {
-      "id": "mcq006",
-      "question": "What is phishing?",
-      "options": ["Catching fish online", "A type of Internet fraud to steal sensitive information", "A social media website", "An antivirus program"],
-      "answer": "A type of Internet fraud to steal sensitive information",
-      "source_section": "Unethical Practices - Phishing"
-    },
-    {
-      "id": "mcq007",
-      "question": "Which program is used to prevent, detect, and remove malicious software?",
-      "options": ["Spyware", "Adware", "Antivirus", "Malware"],
-      "answer": "Antivirus",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "mcq008",
-      "question": "What does COPPA stand for?",
-      "options": ["Computer Online Privacy Protection Act", "Children's Online Privacy Protection Act", "Copyright Online Protection Act", "Cyber Online Privacy Protection Act"],
-      "answer": "Children's Online Privacy Protection Act",
-      "source_section": "Individual Right to Privacy"
-    },
-    {
-      "id": "mcq009",
-      "question": "A firewall is used to:",
-      "options": ["Start fires", "Keep a check on incoming and outgoing information", "Store data", "Print documents"],
-      "answer": "Keep a check on incoming and outgoing information",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "mcq010",
-      "question": "Which of the following is NOT a type of intellectual property right?",
-      "options": ["Copyright", "Trademark", "Patent", "Plagiarism"],
-      "answer": "Plagiarism",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "mcq011",
-      "question": "Software piracy is:",
-      "options": ["Buying original software", "Illegal copying and distribution of software without license", "Developing software", "Testing software"],
-      "answer": "Illegal copying and distribution of software without license",
-      "source_section": "Software Piracy"
-    },
-    {
-      "id": "mcq012",
-      "question": "What is digital footprint?",
-      "options": ["A footprint made by digital camera", "Information about a user that exists on the Internet from their online activity", "A type of virus", "A programming code"],
-      "answer": "Information about a user that exists on the Internet from their online activity",
-      "source_section": "Digital Footprint"
-    },
-    {
-      "id": "mcq013",
-      "question": "Which is the simplest technique to avoid plagiarism?",
-      "options": ["Deleting the content", "Citation", "Hacking", "Spamming"],
-      "answer": "Citation",
-      "source_section": "Unethical Practices - Plagiarism"
-    },
-    {
-      "id": "mcq014",
-      "question": "Cyberbullying includes:",
-      "options": ["Helping someone online", "Threatening or harassing a person using the Internet", "Sending birthday wishes", "Sharing educational content"],
-      "answer": "Threatening or harassing a person using the Internet",
-      "source_section": "Unethical Practices - Cyberbullying"
-    },
-    {
-      "id": "mcq015",
-      "question": "A cookie is:",
-      "options": ["A type of food", "A small piece of data that collects information of your online activity", "An antivirus program", "A type of malware"],
-      "answer": "A small piece of data that collects information of your online activity",
-      "source_section": "Individual Right to Privacy"
-    },
-    {
-      "id": "mcq016",
-      "question": "What is the minimum recommended length for a strong password?",
-      "options": ["2-3 characters", "4-5 characters", "8-10 characters", "20-25 characters"],
-      "answer": "8-10 characters",
-      "source_section": "Password Protection"
-    },
-    {
-      "id": "mcq017",
-      "question": "E-commerce means:",
-      "options": ["Electronic communication", "Buying and selling of goods and services online", "Email communication", "E-learning"],
-      "answer": "Buying and selling of goods and services online",
-      "source_section": "Advantages of the Internet"
-    },
-    {
-      "id": "mcq018",
-      "question": "Which of the following is a web browser?",
-      "options": ["Facebook", "Google Chrome", "WhatsApp", "Instagram"],
-      "answer": "Google Chrome",
-      "source_section": "Advantages of the Internet"
-    },
-    {
-      "id": "mcq019",
-      "question": "A white hat hacker is someone who:",
-      "options": ["Steals data from computers", "Breaks into systems to fix flaws and improve security", "Creates viruses", "Sends spam emails"],
-      "answer": "Breaks into systems to fix flaws and improve security",
-      "source_section": "Unethical Practices - Hacking"
-    },
-    {
-      "id": "mcq020",
-      "question": "Which of the following is a disadvantage of the Internet?",
-      "options": ["Education", "E-commerce", "Spam", "Social media"],
-      "answer": "Spam",
-      "source_section": "Disadvantages of the Internet"
-    },
-    {
-      "id": "mcq021",
-      "question": "Malware is:",
-      "options": ["A helpful software", "A malicious program that attacks computers", "A web browser", "An operating system"],
-      "answer": "A malicious program that attacks computers",
-      "source_section": "Disadvantages of the Internet"
-    },
-    {
-      "id": "mcq022",
-      "question": "Sending the same e-mail repeatedly to a particular address is called:",
-      "options": ["E-mail spoofing", "E-mail bombing", "Flooding", "Phishing"],
-      "answer": "E-mail bombing",
-      "source_section": "Unethical Practices - Spamming"
-    },
-    {
-      "id": "mcq023",
-      "question": "Which of the following protects the rights of creators over their literary or artistic works?",
-      "options": ["Trademark", "Patent", "Copyright", "Trade secret"],
-      "answer": "Copyright",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "mcq024",
-      "question": "Cybercrime is punishable under:",
-      "options": ["Traffic rules", "IT Acts", "Sports rules", "School rules"],
-      "answer": "IT Acts",
-      "source_section": "Cybercrime"
-    },
-    {
-      "id": "mcq025",
-      "question": "A trademark is used to:",
-      "options": ["Protect inventions", "Identify and distinguish products of one company from others", "Protect trade secrets", "Store data"],
-      "answer": "Identify and distinguish products of one company from others",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "mcq026",
-      "question": "What should you do if you receive an email from an unknown person?",
-      "options": ["Open it immediately", "Forward it to friends", "Delete it", "Reply with personal information"],
-      "answer": "Delete it",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "mcq027",
-      "question": "Spyware is a program that:",
-      "options": ["Protects your computer", "Surveys your Internet behavior and copies passwords", "Helps in communication", "Creates documents"],
-      "answer": "Surveys your Internet behavior and copies passwords",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "mcq028",
-      "question": "Which of the following is an example of video conferencing program?",
-      "options": ["Microsoft Word", "Skype", "Notepad", "Calculator"],
-      "answer": "Skype",
-      "source_section": "Advantages of the Internet"
-    },
-    {
-      "id": "mcq029",
-      "question": "Programs that can read keystrokes pressed by a user on a keyboard are called:",
-      "options": ["Keyboards", "Keyloggers", "Key finders", "Key makers"],
-      "answer": "Keyloggers",
-      "source_section": "Unethical Practices - Hacking"
-    },
-    {
-      "id": "mcq030",
-      "question": "Vishing is a fraudulent act using:",
-      "options": ["Only emails", "Phone calls or voice messages", "Only websites", "Only social media"],
-      "answer": "Phone calls or voice messages",
-      "source_section": "Unethical Practices - Phishing"
-    },
-    {
-      "id": "mcq031",
-      "question": "A secured website URL starts with:",
-      "options": ["http://", "https://", "ftp://", "www://"],
-      "answer": "https://",
-      "source_section": "Unethical Practices - Phishing"
-    },
-    {
-      "id": "mcq032",
-      "question": "Internet addiction can lead to:",
-      "options": ["Better studies", "Wastage of useful time", "Improved health", "Better sleep"],
-      "answer": "Wastage of useful time",
-      "source_section": "Disadvantages of the Internet"
-    },
-    {
-      "id": "mcq033",
-      "question": "A patent gives the creator:",
-      "options": ["The right to make copies of books", "The sole right to make, use, and sell an invention", "The right to use trademarks", "The right to share secrets"],
-      "answer": "The sole right to make, use, and sell an invention",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "mcq034",
-      "question": "What is cyber trafficking?",
-      "options": ["Online traffic management", "Crime conducted on and propagated through the Internet", "Traffic signal system", "Vehicle tracking"],
-      "answer": "Crime conducted on and propagated through the Internet",
-      "source_section": "Cybercrime"
-    },
-    {
-      "id": "mcq035",
-      "question": "Adware is a program that:",
-      "options": ["Blocks advertisements", "Places advertisements in your browser and allows pop-ups", "Removes viruses", "Protects passwords"],
-      "answer": "Places advertisements in your browser and allows pop-ups",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "mcq036",
-      "question": "Which social media platform was formerly known as Twitter?",
-      "options": ["Facebook", "X", "LinkedIn", "Pinterest"],
-      "answer": "X",
-      "source_section": "Advantages - Social Media"
-    },
-    {
-      "id": "mcq037",
-      "question": "E-mail spoofing means:",
-      "options": ["Sending email from your own address", "Sending email that appears to have originated from one source but was sent from another", "Deleting emails", "Reading emails"],
-      "answer": "Sending email that appears to have originated from one source but was sent from another",
-      "source_section": "Unethical Practices - Spamming"
-    },
-    {
-      "id": "mcq038",
-      "question": "Cyberterrorism is:",
-      "options": ["Using Internet for education", "Using Internet to carry out violent activities causing loss of life or intimidation", "Online shopping", "Video calling"],
-      "answer": "Using Internet to carry out violent activities causing loss of life or intimidation",
-      "source_section": "Cybercrime"
-    },
-    {
-      "id": "mcq039",
-      "question": "Which is NOT a guideline for creating a strong password?",
-      "options": ["Use at least 8-10 characters", "Include uppercase and lowercase letters", "Use your name or date of birth", "Include special characters"],
-      "answer": "Use your name or date of birth",
-      "source_section": "Password Protection"
-    },
-    {
-      "id": "mcq040",
-      "question": "Flooding in spamming refers to:",
-      "options": ["Sending one email", "Sending requests to a resource many times more than it can handle", "Deleting emails", "Blocking emails"],
-      "answer": "Sending requests to a resource many times more than it can handle",
-      "source_section": "Unethical Practices - Spamming"
-    },
-    {
-      "id": "mcq041",
-      "question": "A trade secret is:",
-      "options": ["Public information", "Non-public information about commercial practices or secrets owned by a business", "A type of trademark", "A social media post"],
-      "answer": "Non-public information about commercial practices or secrets owned by a business",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "mcq042",
-      "question": "What should you use for sensitive information while browsing?",
-      "options": ["Normal mode", "Private or incognito mode", "Public computers", "Shared accounts"],
-      "answer": "Private or incognito mode",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "mcq043",
-      "question": "An industrial design right protects:",
-      "options": ["Written works", "The appearance, style, or design of industrial objects", "Trade secrets", "Software programs"],
-      "answer": "The appearance, style, or design of industrial objects",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "mcq044",
-      "question": "Clickjacking is:",
-      "options": ["Clicking on advertisements", "A phishing technique where user is tricked into clicking something malicious", "Clicking mouse buttons", "A typing technique"],
-      "answer": "A phishing technique where user is tricked into clicking something malicious",
-      "source_section": "Unethical Practices - Phishing"
-    },
-    {
-      "id": "mcq045",
-      "question": "Social media is used for:",
-      "options": ["Only gaming", "Interaction, content sharing, and collaboration", "Only shopping", "Only banking"],
-      "answer": "Interaction, content sharing, and collaboration",
-      "source_section": "Advantages - Social Media"
-    },
-    {
-      "id": "mcq046",
-      "question": "How often should you change your password?",
-      "options": ["Never", "Once in 10 years", "At least once every month", "Only when hacked"],
-      "answer": "At least once every month",
-      "source_section": "Password Protection"
-    },
-    {
-      "id": "mcq047",
-      "question": "Cyberstalking is:",
-      "options": ["Walking on the street", "Using the Internet to stalk or harass a person", "Creating websites", "Downloading files"],
-      "answer": "Using the Internet to stalk or harass a person",
-      "source_section": "Unethical Practices - Cyberbullying"
-    },
-    {
-      "id": "mcq048",
-      "question": "Cyber espionage is:",
-      "options": ["Online shopping", "Obtaining secrets without permission and knowledge of the holder", "Social networking", "Email communication"],
-      "answer": "Obtaining secrets without permission and knowledge of the holder",
-      "source_section": "Unethical Practices - Cyberbullying"
-    },
-    {
-      "id": "mcq049",
-      "question": "Which antivirus software is mentioned in the textbook?",
-      "options": ["Only Norton", "Norton, MacAfee, Kaspersky, Quick Heal", "Only Quick Heal", "None of the above"],
-      "answer": "Norton, MacAfee, Kaspersky, Quick Heal",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "mcq050",
-      "question": "What protects children under 13 years of age online?",
-      "options": ["COPPA", "Copyright", "Trademark", "Patent"],
-      "answer": "COPPA",
-      "source_section": "Individual Right to Privacy"
-    }
+    {"id": "mcq001", "question": "What is computer ethics?", "options": ["A type of virus", "A set of acceptable behaviors for using a computer and the Internet", "A programming language", "A computer hardware"], "answer": "A set of acceptable behaviors for using a computer and the Internet", "source_section": "Computer Ethics"},
+    {"id": "mcq002", "question": "Which of the following is an advantage of the Internet?", "options": ["Spam emails", "Cyberbullying", "E-commerce", "Malware"], "answer": "E-commerce", "source_section": "Advantages of the Internet"},
+    {"id": "mcq003", "question": "Plagiarism refers to:", "options": ["Protecting your computer", "Using others' ideas without acknowledgment", "Sending emails", "Creating passwords"], "answer": "Using others' ideas without acknowledgment", "source_section": "Unethical Practices - Plagiarism"},
+    {"id": "mcq004", "question": "A person who gains unauthorized access to a computer system for stealing data is called:", "options": ["Programmer", "Cracker", "User", "Designer"], "answer": "Cracker", "source_section": "Unethical Practices - Hacking"},
+    {"id": "mcq005", "question": "Which of the following is a social media platform?", "options": ["Microsoft Word", "Facebook", "Notepad", "Calculator"], "answer": "Facebook", "source_section": "Advantages - Social Media"},
+    {"id": "mcq006", "question": "What is phishing?", "options": ["Catching fish online", "A type of Internet fraud to steal sensitive information", "A social media website", "An antivirus program"], "answer": "A type of Internet fraud to steal sensitive information", "source_section": "Unethical Practices - Phishing"},
+    {"id": "mcq007", "question": "Which program is used to prevent, detect, and remove malicious software?", "options": ["Spyware", "Adware", "Antivirus", "Malware"], "answer": "Antivirus", "source_section": "Safety Measures"},
+    {"id": "mcq008", "question": "What does COPPA stand for?", "options": ["Computer Online Privacy Protection Act", "Children's Online Privacy Protection Act", "Copyright Online Protection Act", "Cyber Online Privacy Protection Act"], "answer": "Children's Online Privacy Protection Act", "source_section": "Individual Right to Privacy"},
+    {"id": "mcq009", "question": "A firewall is used to:", "options": ["Start fires", "Keep a check on incoming and outgoing information", "Store data", "Print documents"], "answer": "Keep a check on incoming and outgoing information", "source_section": "Safety Measures"},
+    {"id": "mcq010", "question": "Which of the following is NOT a type of intellectual property right?", "options": ["Copyright", "Trademark", "Patent", "Plagiarism"], "answer": "Plagiarism", "source_section": "Intellectual Property Rights"},
+    {"id": "mcq011", "question": "Software piracy is:", "options": ["Buying original software", "Illegal copying and distribution of software without license", "Developing software", "Testing software"], "answer": "Illegal copying and distribution of software without license", "source_section": "Software Piracy"},
+    {"id": "mcq012", "question": "What is digital footprint?", "options": ["A footprint made by digital camera", "Information about a user that exists on the Internet from their online activity", "A type of virus", "A programming code"], "answer": "Information about a user that exists on the Internet from their online activity", "source_section": "Digital Footprint"},
+    {"id": "mcq013", "question": "Which is the simplest technique to avoid plagiarism?", "options": ["Deleting the content", "Citation", "Hacking", "Spamming"], "answer": "Citation", "source_section": "Unethical Practices - Plagiarism"},
+    {"id": "mcq014", "question": "Cyberbullying includes:", "options": ["Helping someone online", "Threatening or harassing a person using the Internet", "Sending birthday wishes", "Sharing educational content"], "answer": "Threatening or harassing a person using the Internet", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "mcq015", "question": "A cookie is:", "options": ["A type of food", "A small piece of data that collects information of your online activity", "An antivirus program", "A type of malware"], "answer": "A small piece of data that collects information of your online activity", "source_section": "Individual Right to Privacy"},
+    {"id": "mcq016", "question": "What is the minimum recommended length for a strong password?", "options": ["2-3 characters", "4-5 characters", "8-10 characters", "20-25 characters"], "answer": "8-10 characters", "source_section": "Password Protection"},
+    {"id": "mcq017", "question": "E-commerce means:", "options": ["Electronic communication", "Buying and selling of goods and services online", "Email communication", "E-learning"], "answer": "Buying and selling of goods and services online", "source_section": "Advantages of the Internet"},
+    {"id": "mcq018", "question": "Which of the following is a web browser?", "options": ["Facebook", "Google Chrome", "WhatsApp", "Instagram"], "answer": "Google Chrome", "source_section": "Advantages of the Internet"},
+    {"id": "mcq019", "question": "A white hat hacker is someone who:", "options": ["Steals data from computers", "Breaks into systems to fix flaws and improve security", "Creates viruses", "Sends spam emails"], "answer": "Breaks into systems to fix flaws and improve security", "source_section": "Unethical Practices - Hacking"},
+    {"id": "mcq020", "question": "Which of the following is a disadvantage of the Internet?", "options": ["Education", "E-commerce", "Spam", "Social media"], "answer": "Spam", "source_section": "Disadvantages of the Internet"},
+    {"id": "mcq021", "question": "Malware is:", "options": ["A helpful software", "A malicious program that attacks computers", "A web browser", "An operating system"], "answer": "A malicious program that attacks computers", "source_section": "Disadvantages of the Internet"},
+    {"id": "mcq022", "question": "Sending the same e-mail repeatedly to a particular address is called:", "options": ["E-mail spoofing", "E-mail bombing", "Flooding", "Phishing"], "answer": "E-mail bombing", "source_section": "Unethical Practices - Spamming"},
+    {"id": "mcq023", "question": "Which of the following protects the rights of creators over their literary or artistic works?", "options": ["Trademark", "Patent", "Copyright", "Trade secret"], "answer": "Copyright", "source_section": "Intellectual Property Rights"},
+    {"id": "mcq024", "question": "Cybercrime is punishable under:", "options": ["Traffic rules", "IT Acts", "Sports rules", "School rules"], "answer": "IT Acts", "source_section": "Cybercrime"},
+    {"id": "mcq025", "question": "A trademark is used to:", "options": ["Protect inventions", "Identify and distinguish products of one company from others", "Protect trade secrets", "Store data"], "answer": "Identify and distinguish products of one company from others", "source_section": "Intellectual Property Rights"},
+    {"id": "mcq026", "question": "What should you do if you receive an email from an unknown person?", "options": ["Open it immediately", "Forward it to friends", "Delete it", "Reply with personal information"], "answer": "Delete it", "source_section": "Safety Measures"},
+    {"id": "mcq027", "question": "Spyware is a program that:", "options": ["Protects your computer", "Surveys your Internet behavior and copies passwords", "Helps in communication", "Creates documents"], "answer": "Surveys your Internet behavior and copies passwords", "source_section": "Safety Measures"},
+    {"id": "mcq028", "question": "Which of the following is an example of video conferencing program?", "options": ["Microsoft Word", "Skype", "Notepad", "Calculator"], "answer": "Skype", "source_section": "Advantages of the Internet"},
+    {"id": "mcq029", "question": "Programs that can read keystrokes pressed by a user on a keyboard are called:", "options": ["Keyboards", "Keyloggers", "Key finders", "Key makers"], "answer": "Keyloggers", "source_section": "Unethical Practices - Hacking"},
+    {"id": "mcq030", "question": "Vishing is a fraudulent act using:", "options": ["Only emails", "Phone calls or voice messages", "Only websites", "Only social media"], "answer": "Phone calls or voice messages", "source_section": "Unethical Practices - Phishing"},
+    {"id": "mcq031", "question": "A secured website URL starts with:", "options": ["http://", "https://", "ftp://", "www://"], "answer": "https://", "source_section": "Unethical Practices - Phishing"},
+    {"id": "mcq032", "question": "Internet addiction can lead to:", "options": ["Better studies", "Wastage of useful time", "Improved health", "Better sleep"], "answer": "Wastage of useful time", "source_section": "Disadvantages of the Internet"},
+    {"id": "mcq033", "question": "A patent gives the creator:", "options": ["The right to make copies of books", "The sole right to make, use, and sell an invention", "The right to use trademarks", "The right to share secrets"], "answer": "The sole right to make, use, and sell an invention", "source_section": "Intellectual Property Rights"},
+    {"id": "mcq034", "question": "What is cyber trafficking?", "options": ["Online traffic management", "Crime conducted on and propagated through the Internet", "Traffic signal system", "Vehicle tracking"], "answer": "Crime conducted on and propagated through the Internet", "source_section": "Cybercrime"},
+    {"id": "mcq035", "question": "Adware is a program that:", "options": ["Blocks advertisements", "Places advertisements in your browser and allows pop-ups", "Removes viruses", "Protects passwords"], "answer": "Places advertisements in your browser and allows pop-ups", "source_section": "Safety Measures"},
+    {"id": "mcq036", "question": "Which social media platform was formerly known as Twitter?", "options": ["Facebook", "X", "LinkedIn", "Pinterest"], "answer": "X", "source_section": "Advantages - Social Media"},
+    {"id": "mcq037", "question": "E-mail spoofing means:", "options": ["Sending email from your own address", "Sending email that appears to have originated from one source but was sent from another", "Deleting emails", "Reading emails"], "answer": "Sending email that appears to have originated from one source but was sent from another", "source_section": "Unethical Practices - Spamming"},
+    {"id": "mcq038", "question": "Cyberterrorism is:", "options": ["Using Internet for education", "Using Internet to carry out violent activities causing loss of life or intimidation", "Online shopping", "Video calling"], "answer": "Using Internet to carry out violent activities causing loss of life or intimidation", "source_section": "Cybercrime"},
+    {"id": "mcq039", "question": "Which is NOT a guideline for creating a strong password?", "options": ["Use at least 8-10 characters", "Include uppercase and lowercase letters", "Use your name or date of birth", "Include special characters"], "answer": "Use your name or date of birth", "source_section": "Password Protection"},
+    {"id": "mcq040", "question": "Flooding in spamming refers to:", "options": ["Sending one email", "Sending requests to a resource many times more than it can handle", "Deleting emails", "Blocking emails"], "answer": "Sending requests to a resource many times more than it can handle", "source_section": "Unethical Practices - Spamming"},
+    {"id": "mcq041", "question": "A trade secret is:", "options": ["Public information", "Non-public information about commercial practices or secrets owned by a business", "A type of trademark", "A social media post"], "answer": "Non-public information about commercial practices or secrets owned by a business", "source_section": "Intellectual Property Rights"},
+    {"id": "mcq042", "question": "What should you use for sensitive information while browsing?", "options": ["Normal mode", "Private or incognito mode", "Public computers", "Shared accounts"], "answer": "Private or incognito mode", "source_section": "Safety Measures"},
+    {"id": "mcq043", "question": "An industrial design right protects:", "options": ["Written works", "The appearance, style, or design of industrial objects", "Trade secrets", "Software programs"], "answer": "The appearance, style, or design of industrial objects", "source_section": "Intellectual Property Rights"},
+    {"id": "mcq044", "question": "Clickjacking is:", "options": ["Clicking on advertisements", "A phishing technique where user is tricked into clicking something malicious", "Clicking mouse buttons", "A typing technique"], "answer": "A phishing technique where user is tricked into clicking something malicious", "source_section": "Unethical Practices - Phishing"},
+    {"id": "mcq045", "question": "Social media is used for:", "options": ["Only gaming", "Interaction, content sharing, and collaboration", "Only shopping", "Only banking"], "answer": "Interaction, content sharing, and collaboration", "source_section": "Advantages - Social Media"},
+    {"id": "mcq046", "question": "How often should you change your password?", "options": ["Never", "Once in 10 years", "At least once every month", "Only when hacked"], "answer": "At least once every month", "source_section": "Password Protection"},
+    {"id": "mcq047", "question": "Cyberstalking is:", "options": ["Walking on the street", "Using the Internet to stalk or harass a person", "Creating websites", "Downloading files"], "answer": "Using the Internet to stalk or harass a person", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "mcq048", "question": "Cyber espionage is:", "options": ["Online shopping", "Obtaining secrets without permission and knowledge of the holder", "Social networking", "Email communication"], "answer": "Obtaining secrets without permission and knowledge of the holder", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "mcq049", "question": "Which antivirus software is mentioned in the textbook?", "options": ["Only Norton", "Norton, MacAfee, Kaspersky, Quick Heal", "Only Quick Heal", "None"], "answer": "Norton, MacAfee, Kaspersky, Quick Heal", "source_section": "Safety Measures"},
+    {"id": "mcq050", "question": "What protects children under 13 years of age online?", "options": ["COPPA", "Copyright", "Trademark", "Patent"], "answer": "COPPA", "source_section": "Individual Right to Privacy"},
+    {"id": "mcq051", "question": "Which of the following is a search engine?", "options": ["Google Chrome", "Google", "Facebook", "WhatsApp"], "answer": "Google", "source_section": "Advantages of the Internet"},
+    {"id": "mcq052", "question": "Mozilla Firefox is a:", "options": ["Search engine", "Web browser", "Social media site", "Email service"], "answer": "Web browser", "source_section": "Advantages of the Internet"},
+    {"id": "mcq053", "question": "Internet Explorer is an example of:", "options": ["Antivirus", "Web browser", "Operating system", "Search engine"], "answer": "Web browser", "source_section": "Advantages of the Internet"},
+    {"id": "mcq054", "question": "Google Duo is used for:", "options": ["Email", "Video conferencing", "Social networking", "Word processing"], "answer": "Video conferencing", "source_section": "Advantages of the Internet"},
+    {"id": "mcq055", "question": "Reddit is an example of:", "options": ["Antivirus software", "Social media platform", "Web browser", "Operating system"], "answer": "Social media platform", "source_section": "Advantages - Social Media"},
+    {"id": "mcq056", "question": "LinkedIn is primarily used for:", "options": ["Gaming", "Professional networking", "Video streaming", "Music sharing"], "answer": "Professional networking", "source_section": "Advantages - Social Media"},
+    {"id": "mcq057", "question": "Pinterest is known for:", "options": ["Video calling", "Image sharing and pinning", "Email services", "File storage"], "answer": "Image sharing and pinning", "source_section": "Advantages - Social Media"},
+    {"id": "mcq058", "question": "WhatsApp is primarily used for:", "options": ["Web browsing", "Messaging and communication", "Spreadsheets", "Presentations"], "answer": "Messaging and communication", "source_section": "Advantages - Social Media"},
+    {"id": "mcq059", "question": "Wikipedia is:", "options": ["A social media platform", "An online encyclopedia", "A search engine", "An email service"], "answer": "An online encyclopedia", "source_section": "Advantages - Social Media"},
+    {"id": "mcq060", "question": "Virtual classrooms are offered on the Internet under which advantage?", "options": ["Entertainment", "Education", "E-commerce", "Social media"], "answer": "Education", "source_section": "Advantages of the Internet"},
+    {"id": "mcq061", "question": "You can transfer funds, pay taxes, and book movie tickets using:", "options": ["Malware", "E-commerce services", "Spam", "Cyberbullying"], "answer": "E-commerce services", "source_section": "Advantages of the Internet"},
+    {"id": "mcq062", "question": "Watching movies and listening to music online comes under which advantage?", "options": ["Education", "Communication", "Entertainment", "E-commerce"], "answer": "Entertainment", "source_section": "Advantages of the Internet"},
+    {"id": "mcq063", "question": "What happens when regular emails get buried under spam?", "options": ["Emails become faster", "Important emails may be missed", "Computer becomes faster", "Internet speed increases"], "answer": "Important emails may be missed", "source_section": "Disadvantages of the Internet"},
+    {"id": "mcq064", "question": "Leakage of private information is a:", "options": ["Advantage of Internet", "Disadvantage of Internet", "Type of browser", "Social media"], "answer": "Disadvantage of Internet", "source_section": "Disadvantages of the Internet"},
+    {"id": "mcq065", "question": "Kids can be exposed to inappropriate content on the Internet. This is a:", "options": ["Advantage", "Disadvantage", "Benefit", "Feature"], "answer": "Disadvantage", "source_section": "Disadvantages of the Internet"},
+    {"id": "mcq066", "question": "According to computer ethics, you should NOT:", "options": ["Be respectful to others", "Acknowledge sources", "Steal data from others", "Follow rules"], "answer": "Steal data from others", "source_section": "Computer Ethics"},
+    {"id": "mcq067", "question": "Which is an ethical rule for using computers?", "options": ["Copy proprietary software", "Spy on others' data", "Respect views of others", "Spread wrong information"], "answer": "Respect views of others", "source_section": "Computer Ethics"},
+    {"id": "mcq068", "question": "Using other people's computer resources without authorization is:", "options": ["Ethical", "Unethical", "Recommended", "Legal"], "answer": "Unethical", "source_section": "Computer Ethics"},
+    {"id": "mcq069", "question": "Text, images, and information on the Internet are often protected by:", "options": ["Traffic laws", "Copyright laws", "Sports rules", "School rules"], "answer": "Copyright laws", "source_section": "Unethical Practices - Plagiarism"},
+    {"id": "mcq070", "question": "What is citation?", "options": ["Copying without credit", "Mentioning acknowledgment of source", "Deleting information", "Hacking websites"], "answer": "Mentioning acknowledgment of source", "source_section": "Unethical Practices - Plagiarism"},
+    {"id": "mcq071", "question": "If you think you are being cyberbullied, the first thing you should do is:", "options": ["Fight back online", "Stop and calm down", "Share personal info", "Ignore your parents"], "answer": "Stop and calm down", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "mcq072", "question": "The three steps to deal with cyberbullying are:", "options": ["Run, Hide, Fight", "Stop, Block, Tell", "Read, Write, Delete", "Open, Click, Share"], "answer": "Stop, Block, Tell", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "mcq073", "question": "Hackers should have _____ permission from computer owners.", "options": ["No", "Written", "Verbal only", "Implied"], "answer": "Written", "source_section": "Unethical Practices - Hacking"},
+    {"id": "mcq074", "question": "Computer hacking can target your:", "options": ["Only games", "Financial information, passwords, email accounts", "Only music files", "Only photos"], "answer": "Financial information, passwords, email accounts", "source_section": "Unethical Practices - Hacking"},
+    {"id": "mcq075", "question": "Hackers and crackers can damage users':", "options": ["Only hardware", "Social reputation and goodwill", "Only monitor", "Only keyboard"], "answer": "Social reputation and goodwill", "source_section": "Unethical Practices - Hacking"},
+    {"id": "mcq076", "question": "Older versions of operating systems may have:", "options": ["Better security", "Loopholes that can be misused", "Faster speed", "Better graphics"], "answer": "Loopholes that can be misused", "source_section": "Safety Measures"},
+    {"id": "mcq077", "question": "Phishing can be conducted through:", "options": ["Only phone calls", "Forged emails and fake websites", "Only postal mail", "Only fax"], "answer": "Forged emails and fake websites", "source_section": "Unethical Practices - Phishing"},
+    {"id": "mcq078", "question": "Phishing emails often claim to be from:", "options": ["Unknown people", "Well-known organizations", "Aliens", "Animals"], "answer": "Well-known organizations", "source_section": "Unethical Practices - Phishing"},
+    {"id": "mcq079", "question": "Phishing emails often promise:", "options": ["Homework help", "Prizes and gifts to lure users", "Free books", "Better grades"], "answer": "Prizes and gifts to lure users", "source_section": "Unethical Practices - Phishing"},
+    {"id": "mcq080", "question": "Banks will _____ ask you to send your password by email.", "options": ["Always", "Sometimes", "Never", "Often"], "answer": "Never", "source_section": "Unethical Practices - Phishing"},
+    {"id": "mcq081", "question": "A secured website shows an icon of:", "options": ["Open lock", "Closed lock", "Key", "Star"], "answer": "Closed lock", "source_section": "Unethical Practices - Phishing"},
+    {"id": "mcq082", "question": "Spam may carry advertisements or spread:", "options": ["Good news", "Malware such as viruses", "Weather reports", "Sports updates"], "answer": "Malware such as viruses", "source_section": "Unethical Practices - Spamming"},
+    {"id": "mcq083", "question": "Problems caused by spamming include:", "options": ["Faster Internet", "Wastage of time and network bandwidth", "Better security", "More storage"], "answer": "Wastage of time and network bandwidth", "source_section": "Unethical Practices - Spamming"},
+    {"id": "mcq084", "question": "To avoid spam, you should NOT:", "options": ["Use spam filter", "Delete spam", "Give email to unknown people", "Avoid unreliable websites"], "answer": "Give email to unknown people", "source_section": "Unethical Practices - Spamming"},
+    {"id": "mcq085", "question": "A person has the right to determine what information about them is:", "options": ["Public by default", "Collected and how it is used", "Deleted automatically", "Shared freely"], "answer": "Collected and how it is used", "source_section": "Individual Right to Privacy"},
+    {"id": "mcq086", "question": "Cookies are used by websites for:", "options": ["Cooking", "Marketing purposes", "Gaming", "Programming"], "answer": "Marketing purposes", "source_section": "Individual Right to Privacy"},
+    {"id": "mcq087", "question": "You can protect online privacy by:", "options": ["Sharing everything", "Disabling cookies", "Never using Internet", "Ignoring settings"], "answer": "Disabling cookies", "source_section": "Individual Right to Privacy"},
+    {"id": "mcq088", "question": "According to COPPA, websites must seek verification from:", "options": ["Friends", "Parent or guardian", "Teachers only", "Neighbors"], "answer": "Parent or guardian", "source_section": "Individual Right to Privacy"},
+    {"id": "mcq089", "question": "When you purchase original software, you become a:", "options": ["Pirate", "Licensed user", "Hacker", "Cracker"], "answer": "Licensed user", "source_section": "Software Piracy"},
+    {"id": "mcq090", "question": "If you have a license for one user, you can use the software on:", "options": ["Unlimited computers", "Only one computer", "Any friend's computer", "Public computers"], "answer": "Only one computer", "source_section": "Software Piracy"},
+    {"id": "mcq091", "question": "Copyright laws give creators the right to:", "options": ["Only sell", "Make copies, sell, and perform the work", "Only perform", "Only display"], "answer": "Make copies, sell, and perform the work", "source_section": "Intellectual Property Rights"},
+    {"id": "mcq092", "question": "Trademark rights protect owners of a:", "options": ["Book only", "Company or product", "Recipe only", "Song only"], "answer": "Company or product", "source_section": "Intellectual Property Rights"},
+    {"id": "mcq093", "question": "Public disclosure of trade secrets may be:", "options": ["Encouraged", "Illegal", "Free", "Recommended"], "answer": "Illegal", "source_section": "Intellectual Property Rights"},
+    {"id": "mcq094", "question": "Cybercrime includes:", "options": ["Online shopping", "Identity theft and forgery", "Video calling", "Email"], "answer": "Identity theft and forgery", "source_section": "Cybercrime"},
+    {"id": "mcq095", "question": "Cyber trafficking may deal in:", "options": ["Books", "Drugs, weapons, and contrabands", "Vegetables", "Clothes"], "answer": "Drugs, weapons, and contrabands", "source_section": "Cybercrime"},
+    {"id": "mcq096", "question": "You should delete the _____ of your web browser periodically.", "options": ["Applications", "History", "Settings", "Bookmarks"], "answer": "History", "source_section": "Safety Measures"},
+    {"id": "mcq097", "question": "Before meeting an online friend, you should take permission from:", "options": ["Other online friends", "Parents", "Strangers", "No one"], "answer": "Parents", "source_section": "Safety Measures"},
+    {"id": "mcq098", "question": "You should NOT share your password with anyone except:", "options": ["Friends", "Parents", "Teachers", "Siblings"], "answer": "Parents", "source_section": "Safety Measures"},
+    {"id": "mcq099", "question": "On public computers, you should NOT check:", "options": ["Weather", "Remember Password option", "News", "Time"], "answer": "Remember Password option", "source_section": "Password Protection"},
+    {"id": "mcq100", "question": "When changing password, you should create a:", "options": ["Same old password", "New unused password", "Friend's password", "Simple password"], "answer": "New unused password", "source_section": "Password Protection"},
+    {"id": "mcq101", "question": "A strong password should include:", "options": ["Only letters", "Letters, digits, and special characters", "Only numbers", "Only your name"], "answer": "Letters, digits, and special characters", "source_section": "Password Protection"},
+    {"id": "mcq102", "question": "Consecutive letters like 'abcd' in passwords should be:", "options": ["Used always", "Avoided", "Recommended", "Required"], "answer": "Avoided", "source_section": "Password Protection"},
+    {"id": "mcq103", "question": "Digital footprint can affect your:", "options": ["Only gaming", "Reputation, jobs, and college admissions", "Only entertainment", "Only shopping"], "answer": "Reputation, jobs, and college admissions", "source_section": "Digital Footprint"},
+    {"id": "mcq104", "question": "Whatever you do online:", "options": ["Disappears immediately", "Persists and establishes your online identity", "Is forgotten", "Cannot be tracked"], "answer": "Persists and establishes your online identity", "source_section": "Digital Footprint"},
+    {"id": "mcq105", "question": "To establish online identity, you should use your:", "options": ["Fake name", "Real name", "Friend's name", "Celebrity name"], "answer": "Real name", "source_section": "Digital Footprint"},
+    {"id": "mcq106", "question": "Some companies search candidates' online profile before:", "options": ["Asking their name", "Giving them a job", "Sending emails", "Making calls"], "answer": "Giving them a job", "source_section": "Digital Footprint"},
+    {"id": "mcq107", "question": "If you feel uncomfortable with an online message, you should:", "options": ["Reply angrily", "Tell parents or teacher", "Ignore completely", "Share with strangers"], "answer": "Tell parents or teacher", "source_section": "Safety Measures"},
+    {"id": "mcq108", "question": "Many social networking sites have a minimum:", "options": ["File size limit", "Age limit for membership", "Color requirement", "Music requirement"], "answer": "Age limit for membership", "source_section": "Safety Measures"},
+    {"id": "mcq109", "question": "When using online information in projects, you must:", "options": ["Hide the source", "Acknowledge the source", "Delete the source", "Change the source"], "answer": "Acknowledge the source", "source_section": "Safety Measures"},
+    {"id": "mcq110", "question": "Before downloading software, you should take permission of:", "options": ["Strangers", "Parents", "Online friends", "No one"], "answer": "Parents", "source_section": "Safety Measures"}
   ],
-  "total_count": 50,
+  "total_count": 110,
   "subject": "Computer Science",
   "chapter": "Ethics and Safety Measures"
 }

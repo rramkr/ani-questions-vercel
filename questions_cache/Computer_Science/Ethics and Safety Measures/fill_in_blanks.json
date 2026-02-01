@@ -1,248 +1,108 @@
 {
   "question_type": "fill_in_blanks",
   "questions": [
-    {
-      "id": "fib001",
-      "question": "_____ is a set of acceptable behaviors for using a computer and the Internet.",
-      "answer": "Computer ethics",
-      "source_section": "Computer Ethics"
-    },
-    {
-      "id": "fib002",
-      "question": "Internet is a vast storehouse of information. Programs used to search information are called _____.",
-      "answer": "search engines",
-      "source_section": "Advantages of the Internet"
-    },
-    {
-      "id": "fib003",
-      "question": "_____ refers to the online communication platform used for interaction, content sharing, and collaboration.",
-      "answer": "Social media",
-      "source_section": "Advantages - Social Media"
-    },
-    {
-      "id": "fib004",
-      "question": "E-commerce means buying and selling of _____ and services online.",
-      "answer": "goods",
-      "source_section": "Advantages of the Internet"
-    },
-    {
-      "id": "fib005",
-      "question": "_____ refers to an unwanted, unsolicited, and useless e-mail.",
-      "answer": "Spam",
-      "source_section": "Disadvantages of the Internet"
-    },
-    {
-      "id": "fib006",
-      "question": "_____ is a malicious program that attacks a computer and harms the users' data.",
-      "answer": "Malware",
-      "source_section": "Disadvantages of the Internet"
-    },
-    {
-      "id": "fib007",
-      "question": "_____ refers to the act of using or imitating others' ideas and works without acknowledging the source.",
-      "answer": "Plagiarism",
-      "source_section": "Unethical Practices - Plagiarism"
-    },
-    {
-      "id": "fib008",
-      "question": "Mentioning an acknowledgment of the source of used information is called _____.",
-      "answer": "citation",
-      "source_section": "Unethical Practices - Plagiarism"
-    },
-    {
-      "id": "fib009",
-      "question": "_____ is an act of threatening, harassing, or embarrassing a person using the Internet or mobile phones.",
-      "answer": "Cyberbullying",
-      "source_section": "Unethical Practices - Cyberbullying"
-    },
-    {
-      "id": "fib010",
-      "question": "Searching the whereabouts of a person you meet online is called _____.",
-      "answer": "Googling",
-      "source_section": "Unethical Practices - Cyberbullying"
-    },
-    {
-      "id": "fib011",
-      "question": "_____ refers to gaining unauthorized access to a computer and/or network resources.",
-      "answer": "Hacking",
-      "source_section": "Unethical Practices - Hacking"
-    },
-    {
-      "id": "fib012",
-      "question": "A person who does hacking is called a _____ or a cracker.",
-      "answer": "hacker",
-      "source_section": "Unethical Practices - Hacking"
-    },
-    {
-      "id": "fib013",
-      "question": "A hacker who breaks into systems to fix flaws and improve security is called a _____ hat hacker.",
-      "answer": "white",
-      "source_section": "Unethical Practices - Hacking"
-    },
-    {
-      "id": "fib014",
-      "question": "A cracker who gains unauthorized access for stealing data is also called a _____ hat hacker.",
-      "answer": "black",
-      "source_section": "Unethical Practices - Hacking"
-    },
-    {
-      "id": "fib015",
-      "question": "Programs that can read keystrokes pressed on a keyboard to steal confidential information are called _____.",
-      "answer": "Keyloggers",
-      "source_section": "Unethical Practices - Hacking"
-    },
-    {
-      "id": "fib016",
-      "question": "A _____ is a network security program that keeps a check on incoming and outgoing information.",
-      "answer": "firewall",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "fib017",
-      "question": "An _____ program is used to prevent, detect, and remove malicious software.",
-      "answer": "antivirus",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "fib018",
-      "question": "_____ is a type of Internet fraud that tricks people into revealing sensitive information.",
-      "answer": "Phishing",
-      "source_section": "Unethical Practices - Phishing"
-    },
-    {
-      "id": "fib019",
-      "question": "_____ is a fraudulent act of using phone calls or voice messages to steal confidential information.",
-      "answer": "Vishing",
-      "source_section": "Unethical Practices - Phishing"
-    },
-    {
-      "id": "fib020",
-      "question": "A secured website URL starts with _____ and shows a closed lock icon.",
-      "answer": "https://",
-      "source_section": "Unethical Practices - Phishing"
-    },
-    {
-      "id": "fib021",
-      "question": "Sending e-mail that appears to have originated from one source when it was sent from another is called _____.",
-      "answer": "E-mail spoofing",
-      "source_section": "Unethical Practices - Spamming"
-    },
-    {
-      "id": "fib022",
-      "question": "Repeatedly sending the same e-mail to a particular address is called _____.",
-      "answer": "E-mail bombing",
-      "source_section": "Unethical Practices - Spamming"
-    },
-    {
-      "id": "fib023",
-      "question": "Sending requests to a computer resource many times more than it can handle is called _____.",
-      "answer": "Flooding",
-      "source_section": "Unethical Practices - Spamming"
-    },
-    {
-      "id": "fib024",
-      "question": "A _____ is a small piece of data that collects information of your online activity and reports to the host.",
-      "answer": "cookie",
-      "source_section": "Individual Right to Privacy"
-    },
-    {
-      "id": "fib025",
-      "question": "COPPA stands for Children's Online Privacy _____ Act.",
-      "answer": "Protection",
-      "source_section": "Individual Right to Privacy"
-    },
-    {
-      "id": "fib026",
-      "question": "_____ piracy is an act of illegal copying of a software without buying the license or copyright.",
-      "answer": "Software",
-      "source_section": "Software Piracy"
-    },
-    {
-      "id": "fib027",
-      "question": "_____ laws protect creative works such as books, movies, music, and software.",
-      "answer": "Copyright",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "fib028",
-      "question": "A _____ is a word, name, or symbol used to identify and distinguish products of one manufacturer from others.",
-      "answer": "trademark",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "fib029",
-      "question": "A _____ is a legal right that gives the creator the sole right to make, use, and sell an invention.",
-      "answer": "patent",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "fib030",
-      "question": "A _____ secret is non-public information about commercial practices owned by a business.",
-      "answer": "trade",
-      "source_section": "Intellectual Property Rights"
-    },
-    {
-      "id": "fib031",
-      "question": "Any illegal activity conducted through the use of a computer and the Internet is called _____.",
-      "answer": "cybercrime",
-      "source_section": "Cybercrime"
-    },
-    {
-      "id": "fib032",
-      "question": "Cybercrime is punishable under _____ Acts enacted in most countries.",
-      "answer": "IT",
-      "source_section": "Cybercrime"
-    },
-    {
-      "id": "fib033",
-      "question": "The information about a user that exists on the Internet as a result of their online activity is called _____.",
-      "answer": "digital footprint",
-      "source_section": "Digital Footprint"
-    },
-    {
-      "id": "fib034",
-      "question": "The length of a strong password should be at least _____ to 10 characters.",
-      "answer": "8",
-      "source_section": "Password Protection"
-    },
-    {
-      "id": "fib035",
-      "question": "You should change your password at least once every _____.",
-      "answer": "month",
-      "source_section": "Password Protection"
-    },
-    {
-      "id": "fib036",
-      "question": "The _____ program surveys your Internet behavior and copies your passwords to use them for illegitimate purposes.",
-      "answer": "spyware",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "fib037",
-      "question": "An _____ program places advertisements in your browser and allows pop-ups.",
-      "answer": "adware",
-      "source_section": "Safety Measures"
-    },
-    {
-      "id": "fib038",
-      "question": "_____ is an act of using the Internet to stalk or harass a person by labeling false accusations.",
-      "answer": "Cyberstalking",
-      "source_section": "Unethical Practices - Cyberbullying"
-    },
-    {
-      "id": "fib039",
-      "question": "Cyber _____ or cyber espionage is obtaining secrets without the permission of the holder of information.",
-      "answer": "spying",
-      "source_section": "Unethical Practices - Cyberbullying"
-    },
-    {
-      "id": "fib040",
-      "question": "_____ is a phishing technique where a user is tricked into clicking on something malicious.",
-      "answer": "Clickjacking",
-      "source_section": "Unethical Practices - Phishing"
-    }
+    {"id": "fib001", "question": "_____ is a set of acceptable behaviors for using a computer and the Internet.", "answer": "Computer ethics", "source_section": "Computer Ethics"},
+    {"id": "fib002", "question": "Internet is a vast storehouse of information. Programs used to search information are called _____.", "answer": "search engines", "source_section": "Advantages of the Internet"},
+    {"id": "fib003", "question": "_____ refers to the online communication platform used for interaction, content sharing, and collaboration.", "answer": "Social media", "source_section": "Advantages - Social Media"},
+    {"id": "fib004", "question": "E-commerce means buying and selling of _____ and services online.", "answer": "goods", "source_section": "Advantages of the Internet"},
+    {"id": "fib005", "question": "_____ refers to an unwanted, unsolicited, and useless e-mail.", "answer": "Spam", "source_section": "Disadvantages of the Internet"},
+    {"id": "fib006", "question": "_____ is a malicious program that attacks a computer and harms the users' data.", "answer": "Malware", "source_section": "Disadvantages of the Internet"},
+    {"id": "fib007", "question": "_____ refers to the act of using or imitating others' ideas and works without acknowledging the source.", "answer": "Plagiarism", "source_section": "Unethical Practices - Plagiarism"},
+    {"id": "fib008", "question": "Mentioning an acknowledgment of the source of used information is called _____.", "answer": "citation", "source_section": "Unethical Practices - Plagiarism"},
+    {"id": "fib009", "question": "_____ is an act of threatening, harassing, or embarrassing a person using the Internet or mobile phones.", "answer": "Cyberbullying", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "fib010", "question": "Searching the whereabouts of a person you meet online is called _____.", "answer": "Googling", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "fib011", "question": "_____ refers to gaining unauthorized access to a computer and/or network resources.", "answer": "Hacking", "source_section": "Unethical Practices - Hacking"},
+    {"id": "fib012", "question": "A person who does hacking is called a _____ or a cracker.", "answer": "hacker", "source_section": "Unethical Practices - Hacking"},
+    {"id": "fib013", "question": "A hacker who breaks into systems to fix flaws and improve security is called a _____ hat hacker.", "answer": "white", "source_section": "Unethical Practices - Hacking"},
+    {"id": "fib014", "question": "A cracker who gains unauthorized access for stealing data is also called a _____ hat hacker.", "answer": "black", "source_section": "Unethical Practices - Hacking"},
+    {"id": "fib015", "question": "Programs that can read keystrokes pressed on a keyboard to steal confidential information are called _____.", "answer": "Keyloggers", "source_section": "Unethical Practices - Hacking"},
+    {"id": "fib016", "question": "A _____ is a network security program that keeps a check on incoming and outgoing information.", "answer": "firewall", "source_section": "Safety Measures"},
+    {"id": "fib017", "question": "An _____ program is used to prevent, detect, and remove malicious software.", "answer": "antivirus", "source_section": "Safety Measures"},
+    {"id": "fib018", "question": "_____ is a type of Internet fraud that tricks people into revealing sensitive information.", "answer": "Phishing", "source_section": "Unethical Practices - Phishing"},
+    {"id": "fib019", "question": "_____ is a fraudulent act of using phone calls or voice messages to steal confidential information.", "answer": "Vishing", "source_section": "Unethical Practices - Phishing"},
+    {"id": "fib020", "question": "A secured website URL starts with _____ and shows a closed lock icon.", "answer": "https://", "source_section": "Unethical Practices - Phishing"},
+    {"id": "fib021", "question": "Sending e-mail that appears to have originated from one source when it was sent from another is called _____.", "answer": "E-mail spoofing", "source_section": "Unethical Practices - Spamming"},
+    {"id": "fib022", "question": "Repeatedly sending the same e-mail to a particular address is called _____.", "answer": "E-mail bombing", "source_section": "Unethical Practices - Spamming"},
+    {"id": "fib023", "question": "Sending requests to a computer resource many times more than it can handle is called _____.", "answer": "Flooding", "source_section": "Unethical Practices - Spamming"},
+    {"id": "fib024", "question": "A _____ is a small piece of data that collects information of your online activity and reports to the host.", "answer": "cookie", "source_section": "Individual Right to Privacy"},
+    {"id": "fib025", "question": "COPPA stands for Children's Online Privacy _____ Act.", "answer": "Protection", "source_section": "Individual Right to Privacy"},
+    {"id": "fib026", "question": "_____ piracy is an act of illegal copying of a software without buying the license or copyright.", "answer": "Software", "source_section": "Software Piracy"},
+    {"id": "fib027", "question": "_____ laws protect creative works such as books, movies, music, and software.", "answer": "Copyright", "source_section": "Intellectual Property Rights"},
+    {"id": "fib028", "question": "A _____ is a word, name, or symbol used to identify and distinguish products of one manufacturer from others.", "answer": "trademark", "source_section": "Intellectual Property Rights"},
+    {"id": "fib029", "question": "A _____ is a legal right that gives the creator the sole right to make, use, and sell an invention.", "answer": "patent", "source_section": "Intellectual Property Rights"},
+    {"id": "fib030", "question": "A _____ secret is non-public information about commercial practices owned by a business.", "answer": "trade", "source_section": "Intellectual Property Rights"},
+    {"id": "fib031", "question": "Any illegal activity conducted through the use of a computer and the Internet is called _____.", "answer": "cybercrime", "source_section": "Cybercrime"},
+    {"id": "fib032", "question": "Cybercrime is punishable under _____ Acts enacted in most countries.", "answer": "IT", "source_section": "Cybercrime"},
+    {"id": "fib033", "question": "The information about a user that exists on the Internet as a result of their online activity is called _____.", "answer": "digital footprint", "source_section": "Digital Footprint"},
+    {"id": "fib034", "question": "The length of a strong password should be at least _____ to 10 characters.", "answer": "8", "source_section": "Password Protection"},
+    {"id": "fib035", "question": "You should change your password at least once every _____.", "answer": "month", "source_section": "Password Protection"},
+    {"id": "fib036", "question": "The _____ program surveys your Internet behavior and copies your passwords to use them for illegitimate purposes.", "answer": "spyware", "source_section": "Safety Measures"},
+    {"id": "fib037", "question": "An _____ program places advertisements in your browser and allows pop-ups.", "answer": "adware", "source_section": "Safety Measures"},
+    {"id": "fib038", "question": "_____ is an act of using the Internet to stalk or harass a person by labeling false accusations.", "answer": "Cyberstalking", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "fib039", "question": "Cyber _____ or cyber espionage is obtaining secrets without the permission of the holder of information.", "answer": "spying", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "fib040", "question": "_____ is a phishing technique where a user is tricked into clicking on something malicious.", "answer": "Clickjacking", "source_section": "Unethical Practices - Phishing"},
+    {"id": "fib041", "question": "Google Chrome, Internet Explorer, and Mozilla Firefox are examples of web _____.", "answer": "browsers", "source_section": "Advantages of the Internet"},
+    {"id": "fib042", "question": "Facebook, LinkedIn, and WhatsApp are examples of _____ media platforms.", "answer": "social", "source_section": "Advantages - Social Media"},
+    {"id": "fib043", "question": "The social media platform formerly known as Twitter is now called _____.", "answer": "X", "source_section": "Advantages - Social Media"},
+    {"id": "fib044", "question": "Skype and Google Duo are examples of _____ conferencing programs.", "answer": "video", "source_section": "Advantages of the Internet"},
+    {"id": "fib045", "question": "Norton, MacAfee, Kaspersky, and Quick Heal are examples of _____ software.", "answer": "antivirus", "source_section": "Safety Measures"},
+    {"id": "fib046", "question": "Internet is an integral part of modern _____.", "answer": "education", "source_section": "Advantages of the Internet"},
+    {"id": "fib047", "question": "Schools and universities offer virtual _____ on the Internet.", "answer": "classrooms", "source_section": "Advantages of the Internet"},
+    {"id": "fib048", "question": "Users can watch movies, listen to music, and play games on the Internet for _____.", "answer": "entertainment", "source_section": "Advantages of the Internet"},
+    {"id": "fib049", "question": "Email, chat, instant messenger, and telephony are modes of _____ on the Internet.", "answer": "communication", "source_section": "Advantages of the Internet"},
+    {"id": "fib050", "question": "People often get _____ to the Internet and waste useful time.", "answer": "addicted", "source_section": "Disadvantages of the Internet"},
+    {"id": "fib051", "question": "Malware spreads much faster through the Internet because of large number of files and _____ being shared.", "answer": "e-mails", "source_section": "Disadvantages of the Internet"},
+    {"id": "fib052", "question": "Kids like to share videos, photos, and other files, which can lead to careless sharing of personal _____.", "answer": "information", "source_section": "Disadvantages of the Internet"},
+    {"id": "fib053", "question": "We should remain honest, respect views of others, and acknowledge the _____ of people on the Internet.", "answer": "rights", "source_section": "Computer Ethics"},
+    {"id": "fib054", "question": "Do not copy or use _____ software for which you have not paid.", "answer": "proprietary", "source_section": "Computer Ethics"},
+    {"id": "fib055", "question": "Do not claim _____ on a work which is the output of someone else's work.", "answer": "ownership", "source_section": "Computer Ethics"},
+    {"id": "fib056", "question": "If you have developed software to share online, think about the _____ impact it can have.", "answer": "social", "source_section": "Computer Ethics"},
+    {"id": "fib057", "question": "Plagiarism is a serious _____ that results in severe penalties.", "answer": "offence", "source_section": "Unethical Practices - Plagiarism"},
+    {"id": "fib058", "question": "Using information from Internet requires obtaining written permission from the _____ owner.", "answer": "copyright", "source_section": "Unethical Practices - Plagiarism"},
+    {"id": "fib059", "question": "Cyberbullying can be very stressful to the victim, especially children, and can cause _____ issues.", "answer": "developmental", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "fib060", "question": "If being cyberbullied, you should Stop, _____, and Tell.", "answer": "Block", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "fib061", "question": "Don't be an _____: Don't be silent, take a stand against cyberbullying.", "answer": "accomplice", "source_section": "Unethical Practices - Cyberbullying"},
+    {"id": "fib062", "question": "Hackers should have _____ permission from computer or network owners to hack into the system.", "answer": "written", "source_section": "Unethical Practices - Hacking"},
+    {"id": "fib063", "question": "Hackers and crackers can damage users' social reputation and _____ apart from causing data and financial losses.", "answer": "goodwill", "source_section": "Unethical Practices - Hacking"},
+    {"id": "fib064", "question": "Keep your operating system and web browser updated to the _____ version.", "answer": "latest", "source_section": "Safety Measures"},
+    {"id": "fib065", "question": "Older versions of software may have _____ that could be easily misused.", "answer": "loopholes", "source_section": "Safety Measures"},
+    {"id": "fib066", "question": "Phishing is conducted through forged emails that claim to be sent by well-known _____.", "answer": "organizations", "source_section": "Unethical Practices - Phishing"},
+    {"id": "fib067", "question": "Phishing emails often promote _____ and lure users into revealing their private credentials.", "answer": "gifts", "source_section": "Unethical Practices - Phishing"},
+    {"id": "fib068", "question": "Banks will _____ ask you to send your password or personal information by email.", "answer": "never", "source_section": "Unethical Practices - Phishing"},
+    {"id": "fib069", "question": "Problems caused by spamming include wastage of time, wastage of network _____, and malware infection.", "answer": "bandwidth", "source_section": "Unethical Practices - Spamming"},
+    {"id": "fib070", "question": "Use the spam _____ of your email program to block unwanted emails.", "answer": "filter", "source_section": "Unethical Practices - Spamming"},
+    {"id": "fib071", "question": "A person has the right to determine what information about them is collected and how that information is _____.", "answer": "used", "source_section": "Individual Right to Privacy"},
+    {"id": "fib072", "question": "You can protect online privacy by disabling _____ in the web browser settings.", "answer": "cookies", "source_section": "Individual Right to Privacy"},
+    {"id": "fib073", "question": "COPPA is a law to protect the privacy of children under _____ years of age.", "answer": "13", "source_section": "Individual Right to Privacy"},
+    {"id": "fib074", "question": "When you purchase original software, you become a _____ user of the software.", "answer": "licensed", "source_section": "Software Piracy"},
+    {"id": "fib075", "question": "You cannot install copies of software on extra computers or give _____ copies to your friends.", "answer": "duplicate", "source_section": "Software Piracy"},
+    {"id": "fib076", "question": "Intellectual Property Rights protect the interests of the _____ of creations.", "answer": "creators", "source_section": "Intellectual Property Rights"},
+    {"id": "fib077", "question": "Copyright laws protect creative works such as books, movies, music, paintings, photographs, and _____.", "answer": "software", "source_section": "Intellectual Property Rights"},
+    {"id": "fib078", "question": "Trademark rights protect the owners of a particular company or a _____.", "answer": "product", "source_section": "Intellectual Property Rights"},
+    {"id": "fib079", "question": "An industrial design right identifies objects by their appearance, _____, or design.", "answer": "style", "source_section": "Intellectual Property Rights"},
+    {"id": "fib080", "question": "Cybercrime includes identity theft, forgery, defamation, mischief, and credit card account _____.", "answer": "theft", "source_section": "Cybercrime"},
+    {"id": "fib081", "question": "A cybercrime is punishable with _____ and heavy monetary fine.", "answer": "imprisonment", "source_section": "Cybercrime"},
+    {"id": "fib082", "question": "Cyber trafficking may deal in drugs, weapons, other contrabands, and even _____.", "answer": "humans", "source_section": "Cybercrime"},
+    {"id": "fib083", "question": "Cyberterrorism causes loss of _____ or intimidation through threat.", "answer": "life", "source_section": "Cybercrime"},
+    {"id": "fib084", "question": "For sensitive information, use the 'private' or '_____' mode of the web browser.", "answer": "incognito", "source_section": "Safety Measures"},
+    {"id": "fib085", "question": "Delete the _____ of your web browser periodically.", "answer": "history", "source_section": "Safety Measures"},
+    {"id": "fib086", "question": "Clear the _____ of your web browser regularly.", "answer": "cache", "source_section": "Safety Measures"},
+    {"id": "fib087", "question": "Do not share your personal information without your _____'s permission.", "answer": "parent", "source_section": "Safety Measures"},
+    {"id": "fib088", "question": "If working on a public computer, make sure you _____ properly.", "answer": "logout", "source_section": "Safety Measures"},
+    {"id": "fib089", "question": "Do not agree to meet an online friend without your parent's _____.", "answer": "permission", "source_section": "Safety Measures"},
+    {"id": "fib090", "question": "Many social networking sites prescribe a minimum _____ limit for membership.", "answer": "age", "source_section": "Safety Measures"},
+    {"id": "fib091", "question": "Password is the most common _____ method used to protect user's identity.", "answer": "authorization", "source_section": "Password Protection"},
+    {"id": "fib092", "question": "A password should consist of alphabets in lowercase, uppercase, digits, and _____ characters.", "answer": "special", "source_section": "Password Protection"},
+    {"id": "fib093", "question": "Do not use your name, family member's name, or date of _____ as password.", "answer": "birth", "source_section": "Password Protection"},
+    {"id": "fib094", "question": "Avoid typing your password while someone is looking over your _____.", "answer": "shoulder", "source_section": "Password Protection"},
+    {"id": "fib095", "question": "Don't check the _____ Password option on public computers.", "answer": "Remember", "source_section": "Password Protection"},
+    {"id": "fib096", "question": "Don't check the Stay _____ in option when working on public computers.", "answer": "Signed", "source_section": "Password Protection"},
+    {"id": "fib097", "question": "Digital footprint can make or break your _____ in the cyber world.", "answer": "reputation", "source_section": "Digital Footprint"},
+    {"id": "fib098", "question": "Whatever you do online persists and establishes your online _____.", "answer": "identity", "source_section": "Digital Footprint"},
+    {"id": "fib099", "question": "To establish online identity, use your real name and do not hide with _____ identity.", "answer": "fake", "source_section": "Digital Footprint"},
+    {"id": "fib100", "question": "Some companies search the candidate's online _____ before giving the job.", "answer": "profile", "source_section": "Digital Footprint"}
   ],
-  "total_count": 40,
+  "total_count": 100,
   "subject": "Computer Science",
   "chapter": "Ethics and Safety Measures"
 }
