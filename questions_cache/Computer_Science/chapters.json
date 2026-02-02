@@ -6,6 +6,12 @@
       "slug": "Ethics and Safety Measures",
       "has_questions": true,
       "icon": "🛡️"
+    },
+    {
+      "name": "Python Programming",
+      "slug": "Python Programming",
+      "has_questions": true,
+      "icon": "🐍"
     }
   ]
 }
