@@ -75,6 +75,106 @@
       "id": 15,
       "question": "Find the error in the following code:\n\nn = input(\"Enter a number\")\nif (n % 2 == 0):\n    print(\"Even\")",
       "answer": "Error: input() returns a string, but % operator needs an integer. Convert using int().\nCorrect: n = int(input(\"Enter a number\"))"
+    },
+    {
+      "id": 16,
+      "question": "Find the error in the following code:\n\nfor i in range(10, 0)\n    print(i)",
+      "answer": "Error: 1) Missing colon after range(). 2) range(10, 0) produces nothing - need negative step for countdown.\nCorrect:\nfor i in range(10, 0, -1):\n    print(i)"
+    },
+    {
+      "id": 17,
+      "question": "Find the error in the following code:\n\nnumbers = [1, 2, 3, 4, 5]\nprint(numbers[len(numbers)])",
+      "answer": "Error: Index out of range. len(numbers) is 5, but valid indices are 0-4.\nCorrect: print(numbers[len(numbers)-1]) to get the last element."
+    },
+    {
+      "id": 18,
+      "question": "Find the error in the following code:\n\nif (a > b)\n    print(a)\nelse\n    print(b)",
+      "answer": "Error: Missing colons after both if condition and else.\nCorrect:\nif (a > b):\n    print(a)\nelse:\n    print(b)"
+    },
+    {
+      "id": 19,
+      "question": "Find the error in the following code:\n\nfor x in range(1, 10, 0):\n    print(x)",
+      "answer": "Error: Step value cannot be 0 in range(). It will cause a ValueError.\nCorrect: Use step value of 1 or any non-zero number: for x in range(1, 10, 1):"
+    },
+    {
+      "id": 20,
+      "question": "Find the error in the following code:\n\ncolors = [\"red\", \"blue\", \"green\"]\nprint(color[0])",
+      "answer": "Error: Variable name mismatch. List is named 'colors' but 'color' is used.\nCorrect: print(colors[0])"
+    },
+    {
+      "id": 21,
+      "question": "Find the error in the following code:\n\nfor i in range(5)\nprint(i)",
+      "answer": "Error: 1) Missing colon after range(5). 2) Missing indentation for print statement.\nCorrect:\nfor i in range(5):\n    print(i)"
+    },
+    {
+      "id": 22,
+      "question": "Find the error in the following code:\n\nif mark >= 40\n    print(\"Pass\")\nelse:\n    print(\"Fail\")",
+      "answer": "Error: Missing colon after the if condition.\nCorrect:\nif mark >= 40:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+    },
+    {
+      "id": 23,
+      "question": "Find the error in the following code:\n\nimport Time\nTime.sleep(1)",
+      "answer": "Error: Python is case-sensitive. The module is 'time' (lowercase), not 'Time'.\nCorrect:\nimport time\ntime.sleep(1)"
+    },
+    {
+      "id": 24,
+      "question": "Find the error in the following code:\n\nnums = [10 20 30 40 50]\nprint(nums[2])",
+      "answer": "Error: List items must be separated by commas.\nCorrect: nums = [10, 20, 30, 40, 50]"
+    },
+    {
+      "id": 25,
+      "question": "Find the error in the following code:\n\nfor x in \"hello\"\n    print(x)",
+      "answer": "Error: Missing colon after the for statement.\nCorrect:\nfor x in \"hello\":\n    print(x)"
+    },
+    {
+      "id": 26,
+      "question": "Find the error in the following code:\n\na = 10\nb = 20\nif a = b:\n    print(\"Equal\")",
+      "answer": "Error: Using = (assignment) instead of == (comparison) in the condition.\nCorrect:\nif a == b:\n    print(\"Equal\")"
+    },
+    {
+      "id": 27,
+      "question": "Find the error in the following code:\n\nfor i in Range(1, 6):\n    print(i)",
+      "answer": "Error: Python is case-sensitive. The function is 'range' (lowercase), not 'Range'.\nCorrect:\nfor i in range(1, 6):\n    print(i)"
+    },
+    {
+      "id": 28,
+      "question": "Find the error in the following code:\n\nlist = [1, 2, 3]\nprint(list(-1))",
+      "answer": "Error: Using parentheses () instead of square brackets [] for indexing.\nCorrect: print(list[-1])"
+    },
+    {
+      "id": 29,
+      "question": "Find the error in the following code:\n\nage = int(input(\"Enter age\"))\nif age >= 18\n    print(\"Adult\")\nelse\n    print(\"Minor\")",
+      "answer": "Error: Missing colons after if condition and else.\nCorrect:\nif age >= 18:\n    print(\"Adult\")\nelse:\n    print(\"Minor\")"
+    },
+    {
+      "id": 30,
+      "question": "Find the error in the following code:\n\nfruits = [\"apple\", \"banana\", \"cherry\"]\nfor fruit in fruits\nprint(fruit)",
+      "answer": "Error: 1) Missing colon after 'for fruit in fruits'. 2) Missing indentation for print.\nCorrect:\nfor fruit in fruits:\n    print(fruit)"
+    },
+    {
+      "id": 31,
+      "question": "Find the error in the following code:\n\nx = 5\nif x > 3:\nprint(\"Greater\")",
+      "answer": "Error: Missing indentation for the print statement inside the if block.\nCorrect:\nif x > 3:\n    print(\"Greater\")"
+    },
+    {
+      "id": 32,
+      "question": "Find the error in the following code:\n\nnumbers = (10, 20, 30, 40)\nprint(len(numbers))\nfor n in numbers:\n    print(n)",
+      "answer": "This code will run without error! Parentheses () create a tuple (not a list), but tuples also support len() and iteration. If a list was intended, use square brackets: numbers = [10, 20, 30, 40]"
+    },
+    {
+      "id": 33,
+      "question": "Find the error in the following code:\n\nprint(\"Hello)\nprint(\"World\")",
+      "answer": "Error: Missing closing quotation mark in the first print statement.\nCorrect: print(\"Hello\")"
+    },
+    {
+      "id": 34,
+      "question": "Find the error in the following code:\n\nfor i in range(1 10):\n    print(i)",
+      "answer": "Error: Missing comma between range parameters.\nCorrect: for i in range(1, 10):"
+    },
+    {
+      "id": 35,
+      "question": "Find the error in the following code:\n\nmarks = [85, 90, 78]\naverage = sum(marks) / length(marks)\nprint(average)",
+      "answer": "Error: The function is len(), not length().\nCorrect: average = sum(marks) / len(marks)"
     }
   ]
 }

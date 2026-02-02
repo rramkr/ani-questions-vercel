@@ -160,6 +160,96 @@
       "id": 32,
       "question": "Given the list nos = [45, 67, 78, 89, 65], write the Python statement to print the numbers one by one using for loop.",
       "answer": "nos = [45, 67, 78, 89, 65]\nfor num in nos:\n    print(num)\n\nOutput:\n45\n67\n78\n89\n65"
+    },
+    {
+      "id": 33,
+      "question": "Write Python code to find the sum of all numbers from 1 to 100.",
+      "answer": "total = 0\nfor i in range(1, 101):\n    total = total + i\nprint(\"Sum:\", total)\n\nOutput: Sum: 5050"
+    },
+    {
+      "id": 34,
+      "question": "Write Python code to print all even numbers from 2 to 50.",
+      "answer": "for i in range(2, 51, 2):\n    print(i)\n\nOutput: 2, 4, 6, 8... 50"
+    },
+    {
+      "id": 35,
+      "question": "Write Python code to print all odd numbers from 1 to 25.",
+      "answer": "for i in range(1, 26, 2):\n    print(i)\n\nOutput: 1, 3, 5, 7... 25"
+    },
+    {
+      "id": 36,
+      "question": "Write Python code to check if a number is divisible by both 3 and 5.",
+      "answer": "n = int(input(\"Enter a number\"))\nif (n % 3 == 0) and (n % 5 == 0):\n    print(n, \"is divisible by both 3 and 5\")\nelse:\n    print(n, \"is not divisible by both\")\n\nSample Output:\nEnter a number 15\n15 is divisible by both 3 and 5"
+    },
+    {
+      "id": 37,
+      "question": "Write Python code to print the multiplication table of 7.",
+      "answer": "for i in range(1, 11):\n    print(\"7 x\", i, \"=\", 7 * i)\n\nOutput:\n7 x 1 = 7\n7 x 2 = 14\n... \n7 x 10 = 70"
+    },
+    {
+      "id": 38,
+      "question": "Write Python code to accept a number and print its multiplication table.",
+      "answer": "n = int(input(\"Enter a number\"))\nfor i in range(1, 11):\n    print(n, \"x\", i, \"=\", n * i)\n\nSample Output:\nEnter a number 5\n5 x 1 = 5\n5 x 2 = 10\n... \n5 x 10 = 50"
+    },
+    {
+      "id": 39,
+      "question": "Write Python code to find the factorial of a number using for loop.",
+      "answer": "n = int(input(\"Enter a number\"))\nfactorial = 1\nfor i in range(1, n + 1):\n    factorial = factorial * i\nprint(\"Factorial of\", n, \"is\", factorial)\n\nSample Output:\nEnter a number 5\nFactorial of 5 is 120"
+    },
+    {
+      "id": 40,
+      "question": "Write Python code to print squares of numbers from 1 to 10.",
+      "answer": "for i in range(1, 11):\n    print(i, \"squared is\", i * i)\n\nOutput:\n1 squared is 1\n2 squared is 4\n...\n10 squared is 100"
+    },
+    {
+      "id": 41,
+      "question": "Write Python code to count how many even and odd numbers are in a list.",
+      "answer": "numbers = [12, 7, 9, 14, 25, 30, 11]\neven_count = 0\nodd_count = 0\nfor n in numbers:\n    if n % 2 == 0:\n        even_count = even_count + 1\n    else:\n        odd_count = odd_count + 1\nprint(\"Even:\", even_count)\nprint(\"Odd:\", odd_count)\n\nOutput:\nEven: 3\nOdd: 4"
+    },
+    {
+      "id": 42,
+      "question": "Write Python code to find the largest number in a list.",
+      "answer": "numbers = [23, 45, 12, 89, 34, 67]\nlargest = numbers[0]\nfor n in numbers:\n    if n > largest:\n        largest = n\nprint(\"Largest number:\", largest)\n\nOutput: Largest number: 89"
+    },
+    {
+      "id": 43,
+      "question": "Write Python code to find the smallest number in a list.",
+      "answer": "numbers = [23, 45, 12, 89, 34, 67]\nsmallest = numbers[0]\nfor n in numbers:\n    if n < smallest:\n        smallest = n\nprint(\"Smallest number:\", smallest)\n\nOutput: Smallest number: 12"
+    },
+    {
+      "id": 44,
+      "question": "Write Python code to print the reverse of a string.",
+      "answer": "word = input(\"Enter a word\")\nfor i in range(-1, -len(word)-1, -1):\n    print(word[i], end=\"\")\n\nSample Output:\nEnter a word PYTHON\nNOHTYP"
+    },
+    {
+      "id": 45,
+      "question": "Write Python code to check if a number is positive, negative, or zero.",
+      "answer": "n = int(input(\"Enter a number\"))\nif n > 0:\n    print(\"Positive\")\nelse:\n    if n < 0:\n        print(\"Negative\")\n    else:\n        print(\"Zero\")\n\nSample Output:\nEnter a number -5\nNegative"
+    },
+    {
+      "id": 46,
+      "question": "Write Python code to print all numbers from 100 to 1 (reverse counting).",
+      "answer": "for i in range(100, 0, -1):\n    print(i)\n\nOutput: 100, 99, 98... 2, 1"
+    },
+    {
+      "id": 47,
+      "question": "Write Python code to print the first 10 multiples of 9.",
+      "answer": "for i in range(1, 11):\n    print(9 * i)\n\nOutput:\n9\n18\n27\n36\n45\n54\n63\n72\n81\n90"
+    },
+    {
+      "id": 48,
+      "question": "Write Python code to calculate the average of numbers in a list.",
+      "answer": "numbers = [85, 90, 78, 92, 88]\ntotal = 0\nfor n in numbers:\n    total = total + n\naverage = total / len(numbers)\nprint(\"Average:\", average)\n\nOutput: Average: 86.6"
+    },
+    {
+      "id": 49,
+      "question": "Write Python code to create a list of 5 movies and print them with numbering.",
+      "answer": "movies = [\"Avatar\", \"Titanic\", \"Avengers\", \"Frozen\", \"Inception\"]\nfor i in range(len(movies)):\n    print(i + 1, \".\", movies[i])\n\nOutput:\n1 . Avatar\n2 . Titanic\n3 . Avengers\n4 . Frozen\n5 . Inception"
+    },
+    {
+      "id": 50,
+      "question": "Write Python code to check if a year is a leap year.",
+      "answer": "year = int(input(\"Enter a year\"))\nif year % 4 == 0:\n    print(year, \"is a leap year\")\nelse:\n    print(year, \"is not a leap year\")\n\nSample Output:\nEnter a year 2024\n2024 is a leap year"
     }
   ]
 }

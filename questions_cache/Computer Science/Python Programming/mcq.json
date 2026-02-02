@@ -240,6 +240,246 @@
       "question": "To print even numbers from 0 to 10, what step value should be used in range(0, 11, ?)?",
       "options": ["1", "2", "3", "0"],
       "answer": "2"
+    },
+    {
+      "id": 41,
+      "question": "What will happen if you try to access list[10] when the list has only 5 elements?",
+      "options": ["It will return None", "It will return 0", "IndexError will occur", "It will return the last element"],
+      "answer": "IndexError will occur"
+    },
+    {
+      "id": 42,
+      "question": "In a list with 10 elements, what is the valid range of positive indices?",
+      "options": ["1 to 10", "0 to 10", "0 to 9", "1 to 9"],
+      "answer": "0 to 9"
+    },
+    {
+      "id": 43,
+      "question": "In a list with 10 elements, what is the valid range of negative indices?",
+      "options": ["-1 to -10", "-10 to -1", "0 to -10", "-1 to -9"],
+      "answer": "-1 to -10"
+    },
+    {
+      "id": 44,
+      "question": "What is the output of len([1, 2, 3, [4, 5]])?",
+      "options": ["5", "4", "3", "Error"],
+      "answer": "4"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is a valid list in Python?",
+      "options": ["[1, 2, 3}", "{1, 2, 3}", "[1, 2, 3]", "(1, 2, 3]"],
+      "answer": "[1, 2, 3]"
+    },
+    {
+      "id": 46,
+      "question": "What does range(1, 1) produce?",
+      "options": ["1", "0, 1", "Empty (nothing)", "Error"],
+      "answer": "Empty (nothing)"
+    },
+    {
+      "id": 47,
+      "question": "How many iterations will 'for i in range(5, 10)' have?",
+      "options": ["4", "5", "6", "10"],
+      "answer": "5"
+    },
+    {
+      "id": 48,
+      "question": "What is the result of 17 % 5?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "2"
+    },
+    {
+      "id": 49,
+      "question": "What is the result of 20 % 4?",
+      "options": ["5", "4", "0", "1"],
+      "answer": "0"
+    },
+    {
+      "id": 50,
+      "question": "Which statement is used to skip an iteration in a for loop?",
+      "options": ["skip", "pass", "continue", "break"],
+      "answer": "continue"
+    },
+    {
+      "id": 51,
+      "question": "Which statement is used to exit a for loop completely?",
+      "options": ["exit", "stop", "end", "break"],
+      "answer": "break"
+    },
+    {
+      "id": 52,
+      "question": "What is the correct way to check if a number is divisible by 3?",
+      "options": ["n / 3 == 0", "n % 3 == 0", "n // 3 == 0", "n * 3 == 0"],
+      "answer": "n % 3 == 0"
+    },
+    {
+      "id": 53,
+      "question": "In the expression 'for x in colors:', what does 'x' represent?",
+      "options": ["Index of the item", "The list itself", "Each item in the list one by one", "The length of the list"],
+      "answer": "Each item in the list one by one"
+    },
+    {
+      "id": 54,
+      "question": "What happens if you forget the colon after 'if (a > b)'?",
+      "options": ["The code works fine", "SyntaxError occurs", "The condition is ignored", "It returns False"],
+      "answer": "SyntaxError occurs"
+    },
+    {
+      "id": 55,
+      "question": "What happens if indentation is missing after 'for x in range(5):'?",
+      "options": ["The code works fine", "IndentationError occurs", "The loop runs once", "Nothing happens"],
+      "answer": "IndentationError occurs"
+    },
+    {
+      "id": 56,
+      "question": "What is the output of range(10, 5)?",
+      "options": ["10, 9, 8, 7, 6", "5, 6, 7, 8, 9, 10", "Empty (nothing)", "Error"],
+      "answer": "Empty (nothing)"
+    },
+    {
+      "id": 57,
+      "question": "To go from 10 to 5, which range is correct?",
+      "options": ["range(10, 5)", "range(10, 4, -1)", "range(5, 10, -1)", "range(10, 5, 1)"],
+      "answer": "range(10, 4, -1)"
+    },
+    {
+      "id": 58,
+      "question": "What will be the last number printed by range(2, 20, 3)?",
+      "options": ["17", "18", "19", "20"],
+      "answer": "17"
+    },
+    {
+      "id": 59,
+      "question": "What is the first number printed by range(100, 0, -10)?",
+      "options": ["0", "10", "90", "100"],
+      "answer": "100"
+    },
+    {
+      "id": 60,
+      "question": "What is the last number printed by range(100, 0, -10)?",
+      "options": ["0", "10", "90", "100"],
+      "answer": "10"
+    },
+    {
+      "id": 61,
+      "question": "How many elements does the list [\"a\", \"b\", \"c\", \"d\", \"e\", \"f\"] have?",
+      "options": ["5", "6", "7", "4"],
+      "answer": "6"
+    },
+    {
+      "id": 62,
+      "question": "In list = [10, 20, 30, 40], what is list[-2]?",
+      "options": ["10", "20", "30", "40"],
+      "answer": "30"
+    },
+    {
+      "id": 63,
+      "question": "If marks = [85, 90, 78, 92, 88], what index has the value 78?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2"
+    },
+    {
+      "id": 64,
+      "question": "What symbol must end an if statement before the code block?",
+      "options": ["Semicolon ;", "Colon :", "Period .", "Comma ,"],
+      "answer": "Colon :"
+    },
+    {
+      "id": 65,
+      "question": "What symbol must end a for statement before the code block?",
+      "options": ["Semicolon ;", "Colon :", "Period .", "Comma ,"],
+      "answer": "Colon :"
+    },
+    {
+      "id": 66,
+      "question": "In Python, which value is considered False in a condition?",
+      "options": ["1", "\"hello\"", "0", "[1, 2]"],
+      "answer": "0"
+    },
+    {
+      "id": 67,
+      "question": "What does input() function return by default?",
+      "options": ["Integer", "Float", "String", "Boolean"],
+      "answer": "String"
+    },
+    {
+      "id": 68,
+      "question": "To convert a string to an integer, which function is used?",
+      "options": ["str()", "int()", "float()", "bool()"],
+      "answer": "int()"
+    },
+    {
+      "id": 69,
+      "question": "What is 15 // 4 in Python?",
+      "options": ["3", "3.75", "4", "3.0"],
+      "answer": "3"
+    },
+    {
+      "id": 70,
+      "question": "What operator is // in Python?",
+      "options": ["Division", "Floor division", "Modulus", "Exponentiation"],
+      "answer": "Floor division"
+    },
+    {
+      "id": 71,
+      "question": "Which of the following can a list contain?",
+      "options": ["Only numbers", "Only strings", "Only one type of data", "Mixed data types"],
+      "answer": "Mixed data types"
+    },
+    {
+      "id": 72,
+      "question": "What is the correct syntax for an if-else statement?",
+      "options": ["if condition then else", "if condition: ... else:", "if (condition) { } else { }", "if condition; else;"],
+      "answer": "if condition: ... else:"
+    },
+    {
+      "id": 73,
+      "question": "How do you print all numbers from 5 to 1?",
+      "options": ["for i in range(5, 1)", "for i in range(5, 0, -1)", "for i in range(1, 5, -1)", "for i in range(5, 0)"],
+      "answer": "for i in range(5, 0, -1)"
+    },
+    {
+      "id": 74,
+      "question": "What is the output type of len() function?",
+      "options": ["String", "Float", "Integer", "Boolean"],
+      "answer": "Integer"
+    },
+    {
+      "id": 75,
+      "question": "In range(start, stop, step), which parameter is optional?",
+      "options": ["Only start", "Only step", "Start and step", "None are optional"],
+      "answer": "Start and step"
+    },
+    {
+      "id": 76,
+      "question": "What will print(type([1, 2, 3])) display?",
+      "options": ["<class 'tuple'>", "<class 'list'>", "<class 'dict'>", "<class 'set'>"],
+      "answer": "<class 'list'>"
+    },
+    {
+      "id": 77,
+      "question": "What is the result of 10 >= 10?",
+      "options": ["True", "False", "10", "Error"],
+      "answer": "True"
+    },
+    {
+      "id": 78,
+      "question": "What is the result of 10 > 10?",
+      "options": ["True", "False", "10", "Error"],
+      "answer": "False"
+    },
+    {
+      "id": 79,
+      "question": "Which is NOT a valid way to iterate through a list?",
+      "options": ["for item in list:", "for i in range(len(list)):", "for i = 0 to len(list):", "for i, item in enumerate(list):"],
+      "answer": "for i = 0 to len(list):"
+    },
+    {
+      "id": 80,
+      "question": "What does the else block in if-else execute?",
+      "options": ["When condition is True", "When condition is False", "Always", "Never"],
+      "answer": "When condition is False"
     }
   ]
 }

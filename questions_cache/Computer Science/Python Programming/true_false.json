@@ -188,6 +188,194 @@
       "id": 35,
       "question": "range(1, 11, 2) produces all odd numbers from 1 to 9.",
       "answer": "True"
+    },
+    {
+      "id": 36,
+      "question": "A list can contain elements of different data types.",
+      "answer": "True"
+    },
+    {
+      "id": 37,
+      "question": "The index of the fifth element in a list is 5.",
+      "answer": "False",
+      "explanation": "The index of the fifth element is 4 (since indexing starts from 0)."
+    },
+    {
+      "id": 38,
+      "question": "len() can be used to find the length of both lists and strings.",
+      "answer": "True"
+    },
+    {
+      "id": 39,
+      "question": "In Python, 0 is considered as False in conditions.",
+      "answer": "True"
+    },
+    {
+      "id": 40,
+      "question": "In Python, 1 is considered as True in conditions.",
+      "answer": "True"
+    },
+    {
+      "id": 41,
+      "question": "The input() function returns an integer by default.",
+      "answer": "False",
+      "explanation": "input() returns a string by default. Use int() to convert it."
+    },
+    {
+      "id": 42,
+      "question": "range(10, 0) will print numbers from 10 to 1.",
+      "answer": "False",
+      "explanation": "range(10, 0) produces nothing. You need range(10, 0, -1) for countdown."
+    },
+    {
+      "id": 43,
+      "question": "The // operator performs floor division.",
+      "answer": "True"
+    },
+    {
+      "id": 44,
+      "question": "15 // 4 equals 3.75.",
+      "answer": "False",
+      "explanation": "15 // 4 equals 3 (floor division gives integer result)."
+    },
+    {
+      "id": 45,
+      "question": "15 / 4 equals 3.75.",
+      "answer": "True"
+    },
+    {
+      "id": 46,
+      "question": "An empty list [] has length 0.",
+      "answer": "True"
+    },
+    {
+      "id": 47,
+      "question": "You can access list[-6] if the list has only 5 elements.",
+      "answer": "False",
+      "explanation": "For a list with 5 elements, valid negative indices are -1 to -5."
+    },
+    {
+      "id": 48,
+      "question": "The break statement exits only the innermost loop.",
+      "answer": "True"
+    },
+    {
+      "id": 49,
+      "question": "The continue statement exits the loop completely.",
+      "answer": "False",
+      "explanation": "continue skips to the next iteration; break exits the loop."
+    },
+    {
+      "id": 50,
+      "question": "100 % 10 equals 0.",
+      "answer": "True"
+    },
+    {
+      "id": 51,
+      "question": "100 % 7 equals 2.",
+      "answer": "True"
+    },
+    {
+      "id": 52,
+      "question": "A number is odd if n % 2 == 1.",
+      "answer": "True"
+    },
+    {
+      "id": 53,
+      "question": "The expression 5 == 5.0 returns True in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 54,
+      "question": "The expression '5' == 5 returns True in Python.",
+      "answer": "False",
+      "explanation": "'5' is a string and 5 is an integer, so they are not equal."
+    },
+    {
+      "id": 55,
+      "question": "for x in 'ab': print(x) will print 'a' and 'b' on separate lines.",
+      "answer": "True"
+    },
+    {
+      "id": 56,
+      "question": "range(5, 10, 2) produces 5, 7, 9.",
+      "answer": "True"
+    },
+    {
+      "id": 57,
+      "question": "range(5, 10, 2) produces 5, 7, 9, 11.",
+      "answer": "False",
+      "explanation": "11 is beyond the stop value of 10."
+    },
+    {
+      "id": 58,
+      "question": "The else part is mandatory in an if statement.",
+      "answer": "False",
+      "explanation": "else is optional. You can have if without else."
+    },
+    {
+      "id": 59,
+      "question": "Multiple statements can be inside an if block.",
+      "answer": "True"
+    },
+    {
+      "id": 60,
+      "question": "You can have nested for loops in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 61,
+      "question": "You can have nested if statements in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 62,
+      "question": "time.sleep(0.5) pauses for half a second.",
+      "answer": "True"
+    },
+    {
+      "id": 63,
+      "question": "Lists in Python are immutable (cannot be changed).",
+      "answer": "False",
+      "explanation": "Lists are mutable (can be changed). Tuples are immutable."
+    },
+    {
+      "id": 64,
+      "question": "The first parameter in range(start, stop, step) is called start.",
+      "answer": "True"
+    },
+    {
+      "id": 65,
+      "question": "In range(3), the default start value is 1.",
+      "answer": "False",
+      "explanation": "The default start value is 0, not 1."
+    },
+    {
+      "id": 66,
+      "question": "In range(1, 10), the default step value is 1.",
+      "answer": "True"
+    },
+    {
+      "id": 67,
+      "question": "str(123) converts the integer 123 to the string '123'.",
+      "answer": "True"
+    },
+    {
+      "id": 68,
+      "question": "int('hello') will successfully convert 'hello' to an integer.",
+      "answer": "False",
+      "explanation": "int() can only convert numeric strings like '123', not text."
+    },
+    {
+      "id": 69,
+      "question": "len([1, 2, [3, 4]]) returns 4.",
+      "answer": "False",
+      "explanation": "It returns 3. The inner list [3, 4] counts as one element."
+    },
+    {
+      "id": 70,
+      "question": "Indentation errors are syntax errors in Python.",
+      "answer": "True"
     }
   ]
 }

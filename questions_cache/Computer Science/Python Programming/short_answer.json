@@ -100,6 +100,106 @@
       "id": 20,
       "question": "What is the syntax of an if-else statement in Python?",
       "answer": "The syntax is:\nif (condition):\n    # True block statements\nelse:\n    # False block statements\nBoth if and else must end with a colon, and the code blocks must be indented."
+    },
+    {
+      "id": 21,
+      "question": "What is the difference between / and // operators in Python?",
+      "answer": "The / operator performs regular division and returns a float (e.g., 15/4 = 3.75). The // operator performs floor division and returns an integer, discarding the decimal part (e.g., 15//4 = 3)."
+    },
+    {
+      "id": 22,
+      "question": "Why do we need to use int() with input()?",
+      "answer": "The input() function always returns the user's input as a string. To perform mathematical operations, we need to convert this string to an integer using int(). For example, int(input('Enter a number')) converts the input to an integer."
+    },
+    {
+      "id": 23,
+      "question": "What is the difference between break and continue statements?",
+      "answer": "The break statement exits the loop completely and moves to the code after the loop. The continue statement skips the remaining code in the current iteration and moves to the next iteration of the loop."
+    },
+    {
+      "id": 24,
+      "question": "Why does Python indexing start from 0?",
+      "answer": "Python uses zero-based indexing where the first element has index 0, the second has index 1, and so on. This is because the index represents the offset (distance) from the beginning of the list."
+    },
+    {
+      "id": 25,
+      "question": "What happens if you try to access an index that doesn't exist in a list?",
+      "answer": "Python will raise an IndexError. For example, if a list has 5 elements (indices 0-4), trying to access index 5 or higher will cause an IndexError because that position doesn't exist in the list."
+    },
+    {
+      "id": 26,
+      "question": "Explain the three parameters of the range() function.",
+      "answer": "The range(start, stop, step) function has three parameters: 1) start - the first number (inclusive, default is 0), 2) stop - the last number (exclusive, not included), 3) step - the increment value (default is 1). For example, range(2, 10, 2) gives 2, 4, 6, 8."
+    },
+    {
+      "id": 27,
+      "question": "What is the purpose of the import statement?",
+      "answer": "The import statement is used to load external modules (libraries) into your Python program. For example, 'import time' loads the time module, which allows you to use functions like time.sleep() to add delays."
+    },
+    {
+      "id": 28,
+      "question": "How can you iterate through a list in Python?",
+      "answer": "You can iterate through a list using a for loop in two ways: 1) Directly: 'for item in list:' where item takes each element's value, or 2) Using index: 'for i in range(len(list)):' where you access elements using list[i]."
+    },
+    {
+      "id": 29,
+      "question": "What is the difference between > and >= operators?",
+      "answer": "The > operator checks if the left value is strictly greater than the right value. The >= operator checks if the left value is greater than or equal to the right value. For example, 5 > 5 is False, but 5 >= 5 is True."
+    },
+    {
+      "id": 30,
+      "question": "Why must we use a colon (:) after if, else, and for statements?",
+      "answer": "The colon (:) is required in Python to indicate the start of a code block. It tells Python that the indented statements following the colon belong to that if, else, or for statement. Forgetting the colon causes a SyntaxError."
+    },
+    {
+      "id": 31,
+      "question": "How do you access the last element of a list without knowing its length?",
+      "answer": "You can use negative indexing: list[-1] always gives the last element regardless of the list's length. Alternatively, you can use list[len(list)-1], but negative indexing is simpler and more readable."
+    },
+    {
+      "id": 32,
+      "question": "What is the output of range(5) and why?",
+      "answer": "range(5) produces the numbers 0, 1, 2, 3, 4. Since only one argument is given, it's treated as the stop value, start defaults to 0, and step defaults to 1. The stop value (5) is exclusive, so it stops at 4."
+    },
+    {
+      "id": 33,
+      "question": "How can you print items on the same line in a for loop?",
+      "answer": "Use the end parameter in print(). By default, print() ends with a newline. Using print(x, end=' ') or print(x, end='') will print items on the same line separated by a space or no separator respectively."
+    },
+    {
+      "id": 34,
+      "question": "What are the characteristics of a Python list?",
+      "answer": "A Python list is: 1) Ordered - items maintain their order, 2) Changeable/Mutable - items can be modified after creation, 3) Allows duplicates - same value can appear multiple times, 4) Can contain mixed data types, 5) Defined using square brackets []."
+    },
+    {
+      "id": 35,
+      "question": "How do you check if a number is divisible by another number?",
+      "answer": "Use the modulus operator (%). If a % b == 0, then a is divisible by b because the remainder is 0. For example, to check if n is divisible by 5: if n % 5 == 0."
+    },
+    {
+      "id": 36,
+      "question": "What is the difference between a string and a list in Python?",
+      "answer": "A string is a sequence of characters enclosed in quotes ('hello' or \"hello\") and is immutable (cannot be changed). A list is a sequence of items enclosed in square brackets [1, 2, 3] and is mutable (can be changed). Both can be indexed and iterated."
+    },
+    {
+      "id": 37,
+      "question": "Explain how to create a countdown timer in Python.",
+      "answer": "Use range() with a negative step and time.sleep() for delay:\nimport time\nfor i in range(10, 0, -1):\n    print(i)\n    time.sleep(1)\nprint('Done!')\nThis counts from 10 to 1 with 1-second pauses."
+    },
+    {
+      "id": 38,
+      "question": "What happens when range() start equals stop?",
+      "answer": "When start equals stop in range(), no numbers are produced. For example, range(5, 5) produces nothing because there are no numbers from 5 up to (but not including) 5. The loop body never executes."
+    },
+    {
+      "id": 39,
+      "question": "Why is indentation important in Python?",
+      "answer": "Indentation in Python defines code blocks and shows which statements belong together. Unlike other languages that use braces {}, Python uses indentation. Incorrect indentation causes IndentationError and can change the logic of your program."
+    },
+    {
+      "id": 40,
+      "question": "How can you find both the index and value while iterating a list?",
+      "answer": "Use range(len(list)) and access both:\nfor i in range(len(colors)):\n    print('Index', i, 'Value', colors[i])\nOr use enumerate():\nfor i, color in enumerate(colors):\n    print('Index', i, 'Value', color)"
     }
   ]
 }

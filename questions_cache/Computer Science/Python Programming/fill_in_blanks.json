@@ -200,6 +200,206 @@
       "id": 40,
       "question": "A person aged ________ or above is considered a senior citizen.",
       "answer": "60"
+    },
+    {
+      "id": 41,
+      "question": "The index of the second element in a list is ________.",
+      "answer": "1"
+    },
+    {
+      "id": 42,
+      "question": "The index of the third element in a list is ________.",
+      "answer": "2"
+    },
+    {
+      "id": 43,
+      "question": "The negative index of the second last element is ________.",
+      "answer": "-2"
+    },
+    {
+      "id": 44,
+      "question": "The negative index of the third last element is ________.",
+      "answer": "-3"
+    },
+    {
+      "id": 45,
+      "question": "In for loop, the variable takes each ________ one by one.",
+      "answer": "element"
+    },
+    {
+      "id": 46,
+      "question": "range(10) produces numbers from 0 to ________.",
+      "answer": "9"
+    },
+    {
+      "id": 47,
+      "question": "range(1, 20) produces numbers from 1 to ________.",
+      "answer": "19"
+    },
+    {
+      "id": 48,
+      "question": "range(5, 15, 2) produces ________, 7, 9, 11, 13.",
+      "answer": "5"
+    },
+    {
+      "id": 49,
+      "question": "To print multiples of 5 from 5 to 50: range(5, ________, 5).",
+      "answer": "51"
+    },
+    {
+      "id": 50,
+      "question": "To print multiples of 10 from 10 to 100: range(10, ________, 10).",
+      "answer": "101"
+    },
+    {
+      "id": 51,
+      "question": "The ________ statement is used to exit a loop early.",
+      "answer": "break"
+    },
+    {
+      "id": 52,
+      "question": "The ________ statement is used to skip the current iteration.",
+      "answer": "continue"
+    },
+    {
+      "id": 53,
+      "question": "If 10 % 3 = 1, then 10 divided by 3 has a remainder of ________.",
+      "answer": "1"
+    },
+    {
+      "id": 54,
+      "question": "If n % 5 == 0, then n is ________ by 5.",
+      "answer": "divisible"
+    },
+    {
+      "id": 55,
+      "question": "The ________ function converts a string to an integer.",
+      "answer": "int()"
+    },
+    {
+      "id": 56,
+      "question": "The ________ function converts a number to a string.",
+      "answer": "str()"
+    },
+    {
+      "id": 57,
+      "question": "In list = [10, 20, 30], list[0] returns ________.",
+      "answer": "10"
+    },
+    {
+      "id": 58,
+      "question": "In list = [10, 20, 30], list[-1] returns ________.",
+      "answer": "30"
+    },
+    {
+      "id": 59,
+      "question": "In list = [10, 20, 30], list[1] returns ________.",
+      "answer": "20"
+    },
+    {
+      "id": 60,
+      "question": "The ________ operator performs floor division in Python.",
+      "answer": "//"
+    },
+    {
+      "id": 61,
+      "question": "15 // 4 gives ________ as the result.",
+      "answer": "3"
+    },
+    {
+      "id": 62,
+      "question": "17 % 5 gives ________ as the result.",
+      "answer": "2"
+    },
+    {
+      "id": 63,
+      "question": "20 % 4 gives ________ as the result.",
+      "answer": "0"
+    },
+    {
+      "id": 64,
+      "question": "If age = 25, then age >= 18 is ________.",
+      "answer": "True"
+    },
+    {
+      "id": 65,
+      "question": "If age = 15, then age >= 18 is ________.",
+      "answer": "False"
+    },
+    {
+      "id": 66,
+      "question": "In 'for x in \"HELLO\":', x takes each ________ of the string.",
+      "answer": "character"
+    },
+    {
+      "id": 67,
+      "question": "len(\"Python\") returns ________.",
+      "answer": "6"
+    },
+    {
+      "id": 68,
+      "question": "len([]) returns ________ for an empty list.",
+      "answer": "0"
+    },
+    {
+      "id": 69,
+      "question": "To print numbers 100, 90, 80, 70... 10: range(100, ________, -10).",
+      "answer": "0"
+    },
+    {
+      "id": 70,
+      "question": "A list can contain data of ________ types.",
+      "answer": "different"
+    },
+    {
+      "id": 71,
+      "question": "The input() function always returns data as a ________.",
+      "answer": "string"
+    },
+    {
+      "id": 72,
+      "question": "To use time.sleep(), we write ________ time at the top.",
+      "answer": "import"
+    },
+    {
+      "id": 73,
+      "question": "time.sleep(2) pauses the program for ________ seconds.",
+      "answer": "2"
+    },
+    {
+      "id": 74,
+      "question": "range(0, 10, 2) produces ________ even numbers.",
+      "answer": "5"
+    },
+    {
+      "id": 75,
+      "question": "range(1, 10, 2) produces ________ odd numbers.",
+      "answer": "5"
+    },
+    {
+      "id": 76,
+      "question": "The statement inside if block executes when condition is ________.",
+      "answer": "True"
+    },
+    {
+      "id": 77,
+      "question": "The statement inside else block executes when condition is ________.",
+      "answer": "False"
+    },
+    {
+      "id": 78,
+      "question": "In list = [\"a\", \"b\", \"c\", \"d\", \"e\"], the middle element is ________.",
+      "answer": "c"
+    },
+    {
+      "id": 79,
+      "question": "In list = [\"a\", \"b\", \"c\", \"d\", \"e\"], the middle index is ________.",
+      "answer": "2"
+    },
+    {
+      "id": 80,
+      "question": "range(5, 5) produces ________ elements.",
+      "answer": "0"
     }
   ]
 }
