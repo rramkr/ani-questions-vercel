@@ -1,0 +1,545 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": 1,
+      "question": "India has 43 UNESCO World Heritage Sites.",
+      "answer": true,
+      "explanation": "India is home to a diverse array of 43 UNESCO World Heritage Sites."
+    },
+    {
+      "id": 2,
+      "question": "35 of India's UNESCO sites are designated for cultural importance.",
+      "answer": true,
+      "explanation": "35 sites are designated for cultural importance out of India's 43 UNESCO sites."
+    },
+    {
+      "id": 3,
+      "question": "Diamond was first discovered in South Africa.",
+      "answer": false,
+      "explanation": "Diamond was first discovered and mined in India, not South Africa."
+    },
+    {
+      "id": 4,
+      "question": "In Sanskrit, diamond is called 'vajra' meaning thunderbolt.",
+      "answer": true,
+      "explanation": "In Sanskrit, diamond was addressed as 'vajra' meaning thunderbolt."
+    },
+    {
+      "id": 5,
+      "question": "India is the world's largest producer and exporter of tea.",
+      "answer": false,
+      "explanation": "India is the world's largest producer and exporter of spices, not tea."
+    },
+    {
+      "id": 6,
+      "question": "Auroville was founded in 1968 in Tamil Nadu.",
+      "answer": true,
+      "explanation": "Auroville was founded in 1968 and is situated mostly in Tamil Nadu."
+    },
+    {
+      "id": 7,
+      "question": "Auroville has provisions for money and religion.",
+      "answer": false,
+      "explanation": "Auroville has no provisions of money or religion."
+    },
+    {
+      "id": 8,
+      "question": "Indian Postal Service has the most extensive postal system in the world with 154,900 post offices.",
+      "answer": true,
+      "explanation": "Indian Postal Service with 154,900 post offices is regarded as the most extensive postal system in the world."
+    },
+    {
+      "id": 9,
+      "question": "All 10 of the world's highest peaks are in the Himalayas.",
+      "answer": false,
+      "explanation": "9 out of 10 of the world's highest peaks are in the Himalayas, not all 10."
+    },
+    {
+      "id": 10,
+      "question": "India is the only country with a Bill of Rights for cows.",
+      "answer": true,
+      "explanation": "India is the only country with a Bill of Rights for cows."
+    },
+    {
+      "id": 11,
+      "question": "The Golden Temple serves vegetarian meals to over 100,000 people a day.",
+      "answer": false,
+      "explanation": "The Golden Temple serves vegetarian meals to over 50,000 people a day, not 100,000."
+    },
+    {
+      "id": 12,
+      "question": "Siachen is the world's highest battlefield.",
+      "answer": true,
+      "explanation": "Siachen is the world's highest battlefield."
+    },
+    {
+      "id": 13,
+      "question": "Dras is the world's coldest inhabited place.",
+      "answer": false,
+      "explanation": "Dras is the world's second largest coldest inhabited place, not the coldest."
+    },
+    {
+      "id": 14,
+      "question": "India has more internet users than the entire population of the USA.",
+      "answer": true,
+      "explanation": "India has more people using the Internet than the entire population of the U.S."
+    },
+    {
+      "id": 15,
+      "question": "The seven states in Northeast India are called the Seven Brothers.",
+      "answer": false,
+      "explanation": "The seven states in Northeast India are called the Seven Sisters, not Brothers."
+    },
+    {
+      "id": 16,
+      "question": "Centuries-old barter system is still practised at Jonbeel Mela in Assam.",
+      "answer": true,
+      "explanation": "Centuries-old barter system is still practised at Jonbeel Mela, Assam."
+    },
+    {
+      "id": 17,
+      "question": "Golden/Muga silk is produced in Kerala.",
+      "answer": false,
+      "explanation": "Golden/Muga silk is exclusively produced in Assam, not Kerala."
+    },
+    {
+      "id": 18,
+      "question": "Ima Keithel is the world's only women-run market located in Manipur.",
+      "answer": true,
+      "explanation": "Ima Keithel is the world's only women-run market, located in Manipur."
+    },
+    {
+      "id": 19,
+      "question": "Keibul Lamjao National Park is the world's only floating national park.",
+      "answer": true,
+      "explanation": "Keibul Lamjao National Park in Manipur is the world's only floating national park."
+    },
+    {
+      "id": 20,
+      "question": "At Longwa village in Nagaland, one can be in India and China simultaneously.",
+      "answer": false,
+      "explanation": "At Longwa village, one can be in India and Myanmar simultaneously, not China."
+    },
+    {
+      "id": 21,
+      "question": "Nagaland has 17 tribes and 36 languages.",
+      "answer": true,
+      "explanation": "In Nagaland alone, there are 17 tribes and 36 languages."
+    },
+    {
+      "id": 22,
+      "question": "'Mizoram' means country of people living in hills.",
+      "answer": true,
+      "explanation": "'Mi' means people, 'zo' means hills, 'ram' means country - the country of people living in hills."
+    },
+    {
+      "id": 23,
+      "question": "Red Vanda is the state flower of Manipur.",
+      "answer": false,
+      "explanation": "Red Vanda is the state flower of Mizoram, not Manipur."
+    },
+    {
+      "id": 24,
+      "question": "Neer Mahal is the only floating palace in Northeast India.",
+      "answer": true,
+      "explanation": "Tripura is home to the only floating palace in Northeast called Neer Mahal."
+    },
+    {
+      "id": 25,
+      "question": "Dong village in Arunachal Pradesh receives the first ray of sun in India after Japan.",
+      "answer": true,
+      "explanation": "Dong village in Anjaw district, Arunachal Pradesh, is the first place in India to receive the first ray of the sun after Japan."
+    },
+    {
+      "id": 26,
+      "question": "Tawang Monastery is the largest monastery in the world.",
+      "answer": false,
+      "explanation": "Tawang Monastery is the largest in India and second largest in the world after Potala Palace."
+    },
+    {
+      "id": 27,
+      "question": "Meghalaya is the only state where living root bridges are made.",
+      "answer": true,
+      "explanation": "Meghalaya is the only state where living root bridges are made."
+    },
+    {
+      "id": 28,
+      "question": "Mawsynram in Meghalaya receives 467 inches of rain per year.",
+      "answer": true,
+      "explanation": "Mawsynram village in Meghalaya receives 467 inches of rain per year - the rainiest place in the world."
+    },
+    {
+      "id": 29,
+      "question": "Vijaya Lakshmi Pandit was the first Woman President of UN General Assembly.",
+      "answer": true,
+      "explanation": "Vijaya Lakshmi Pandit was the first Woman President of UN General Assembly."
+    },
+    {
+      "id": 30,
+      "question": "Pratibha Patil was the first tribal woman to become President of India.",
+      "answer": false,
+      "explanation": "Draupadi Murmu was the first tribal woman to become President of India."
+    },
+    {
+      "id": 31,
+      "question": "M. Fathima Beevi was the first Woman Judge in Supreme Court of India.",
+      "answer": true,
+      "explanation": "M. Fathima Beevi was the first Woman Judge in the Supreme Court of India."
+    },
+    {
+      "id": 32,
+      "question": "Punita Arora was the first Woman Air Vice Marshal of India.",
+      "answer": false,
+      "explanation": "Padmavathy Bandopadhyay was the first Woman Air Vice Marshal. Punita Arora was first Woman Lieutenant General."
+    },
+    {
+      "id": 33,
+      "question": "Ahmedabad is called the Boston of India.",
+      "answer": true,
+      "explanation": "Ahmedabad is called the Boston of India."
+    },
+    {
+      "id": 34,
+      "question": "Ahmedabad was founded in 1511.",
+      "answer": false,
+      "explanation": "Ahmedabad was founded by Sultan Ahmad Shah in 1411, not 1511."
+    },
+    {
+      "id": 35,
+      "question": "Lucknow is called the City of Nawabs.",
+      "answer": true,
+      "explanation": "Lucknow is called the City of Nawabs."
+    },
+    {
+      "id": 36,
+      "question": "Lucknow is located on the banks of river Yamuna.",
+      "answer": false,
+      "explanation": "Lucknow is located on the banks of river Gomati, not Yamuna."
+    },
+    {
+      "id": 37,
+      "question": "Kerala is called the Land of Spices.",
+      "answer": true,
+      "explanation": "Kerala is called the Land of Spices."
+    },
+    {
+      "id": 38,
+      "question": "Mumbai is called the City of Seven Islands.",
+      "answer": true,
+      "explanation": "Mumbai is called the City of Seven Islands."
+    },
+    {
+      "id": 39,
+      "question": "Shimla is called the Queen of Mountains.",
+      "answer": false,
+      "explanation": "Mussoorie is called the Queen of Mountains, not Shimla."
+    },
+    {
+      "id": 40,
+      "question": "Ruskin Bond's hometown is Mussoorie.",
+      "answer": true,
+      "explanation": "Mussoorie is the hometown of famous writer Ruskin Bond."
+    },
+    {
+      "id": 41,
+      "question": "Zundert, Netherlands holds the largest flower parade in the world.",
+      "answer": true,
+      "explanation": "Bloemencorso in Zundert, Netherlands holds the largest parade of flowers in the world."
+    },
+    {
+      "id": 42,
+      "question": "The Flower Carpet event in Brussels is organized every year.",
+      "answer": false,
+      "explanation": "The Flower Carpet event in Brussels is organised once in every two years, not every year."
+    },
+    {
+      "id": 43,
+      "question": "The Rose Parade in Pasadena is organized on New Year's Day.",
+      "answer": true,
+      "explanation": "The Rose Parade in Pasadena, California is organized on every New Year's Day."
+    },
+    {
+      "id": 44,
+      "question": "Genzano Infiorata Flower Festival has been taking place since 1878.",
+      "answer": false,
+      "explanation": "The Genzano Infiorata Flower Festival has been taking place since 1778, not 1878."
+    },
+    {
+      "id": 45,
+      "question": "Baju Kurung is the National Dress for Brunei and Malaysia.",
+      "answer": true,
+      "explanation": "Baju Kurung is a traditional Malay dress and is the National Dress for Brunei and Malaysia."
+    },
+    {
+      "id": 46,
+      "question": "Kimono is traditionally worn in China.",
+      "answer": false,
+      "explanation": "Kimono is traditionally worn in Japan, not China."
+    },
+    {
+      "id": 47,
+      "question": "Ao Dai is a Vietnamese traditional costume.",
+      "answer": true,
+      "explanation": "Ao Dai is a Vietnamese costume made of silk material."
+    },
+    {
+      "id": 48,
+      "question": "Cheongsam is also known as the Mandarin gown.",
+      "answer": true,
+      "explanation": "Cheongsam is also known as the Mandarin gown."
+    },
+    {
+      "id": 49,
+      "question": "Chami Murmu received the Padma Shri award in 2024.",
+      "answer": true,
+      "explanation": "Chami Murmu was conferred with the Padma Shri award in 2024."
+    },
+    {
+      "id": 50,
+      "question": "Dukhu Majhi is called 'Gachh Dadu' meaning Tree Grandpa.",
+      "answer": true,
+      "explanation": "Dukhu Majhi is affectionately known as 'Gachh Dadu' (Tree Grandpa)."
+    },
+    {
+      "id": 51,
+      "question": "Anirudh Rao invented a tsunami warning system.",
+      "answer": false,
+      "explanation": "Anirudh Rao invented a Tornado Early Warning System, not tsunami."
+    },
+    {
+      "id": 52,
+      "question": "Over 75% of waste is recyclable.",
+      "answer": true,
+      "explanation": "Over 75% of waste is recyclable."
+    },
+    {
+      "id": 53,
+      "question": "We recycle about 50% of recyclable waste.",
+      "answer": false,
+      "explanation": "We only recycle about 30% of waste, not 50%."
+    },
+    {
+      "id": 54,
+      "question": "Paper recycling has increased over 89% since 1990.",
+      "answer": true,
+      "explanation": "Paper recycling has increased over 89% since 1990."
+    },
+    {
+      "id": 55,
+      "question": "The best way to store a toothbrush is under a cap.",
+      "answer": false,
+      "explanation": "The best way to store a toothbrush is NOT under a cap - it needs air to dry."
+    },
+    {
+      "id": 56,
+      "question": "Gum disease has been shown to be associated with heart disease, diabetes, and pregnancy.",
+      "answer": true,
+      "explanation": "Gum disease has been shown to be associated with heart disease, diabetes, and pregnancy."
+    },
+    {
+      "id": 57,
+      "question": "Hard toothbrush bristles are more effective than soft bristles.",
+      "answer": false,
+      "explanation": "This is false - soft bristles are recommended as plaque is soft and easily removed."
+    },
+    {
+      "id": 58,
+      "question": "32 teeth exist in the normal adult mouth including wisdom teeth.",
+      "answer": true,
+      "explanation": "32 teeth exist in the normal adult mouth including wisdom teeth."
+    },
+    {
+      "id": 59,
+      "question": "2/3 of the normal tooth is below the gumline.",
+      "answer": true,
+      "explanation": "2/3 of the normal tooth is below the gumline."
+    },
+    {
+      "id": 60,
+      "question": "A toothbrush should be changed once a month.",
+      "answer": false,
+      "explanation": "A toothbrush should be changed once every two or three months."
+    },
+    {
+      "id": 61,
+      "question": "Mouthwash should be used after brushing.",
+      "answer": false,
+      "explanation": "Mouthwash should be used before brushing, not after."
+    },
+    {
+      "id": 62,
+      "question": "Kumbh Festival had the world's largest gathering of 660 million people.",
+      "answer": true,
+      "explanation": "Kumbh Festival had the world's largest gathering of 660 million people taking a holy dip in the Ganga."
+    },
+    {
+      "id": 63,
+      "question": "Sunita Williams is the second Indian astronaut to go to space after Rakesh Sharma.",
+      "answer": false,
+      "explanation": "Shubhanshu Shukla is the second Indian astronaut to go to space after Rakesh Sharma."
+    },
+    {
+      "id": 64,
+      "question": "China created an artificial Sun.",
+      "answer": true,
+      "explanation": "China created an artificial Sun."
+    },
+    {
+      "id": 65,
+      "question": "Lando Norris won the 2025 F1 Championship.",
+      "answer": true,
+      "explanation": "Lando Norris is the 2025 F1 Champion."
+    },
+    {
+      "id": 66,
+      "question": "Mumbai will host Commonwealth Games 2030.",
+      "answer": false,
+      "explanation": "Ahmedabad will host Commonwealth Games 2030, not Mumbai."
+    },
+    {
+      "id": 67,
+      "question": "The world's first Sky Stadium will be built in Dubai.",
+      "answer": false,
+      "explanation": "The world's first Sky Stadium will be built in Saudi Arabia, not Dubai."
+    },
+    {
+      "id": 68,
+      "question": "India won the ICC Women's Cricket World Cup.",
+      "answer": true,
+      "explanation": "India won the ICC Women's Cricket World Cup."
+    },
+    {
+      "id": 69,
+      "question": "Mosquitoes were discovered for the first time in Iceland in 2025.",
+      "answer": true,
+      "explanation": "Mosquitoes were discovered for the first time in Iceland in 2025."
+    },
+    {
+      "id": 70,
+      "question": "UAE has appointed the first AI minister.",
+      "answer": false,
+      "explanation": "Albania has appointed the first AI minister, not UAE."
+    },
+    {
+      "id": 71,
+      "question": "Indore is the cleanest city of India for the 8th consecutive time.",
+      "answer": true,
+      "explanation": "Indore is the cleanest city of India for the 8th consecutive time."
+    },
+    {
+      "id": 72,
+      "question": "Chennai Super Kings won IPL 2025.",
+      "answer": false,
+      "explanation": "Royal Challengers Bangalore won IPL 2025."
+    },
+    {
+      "id": 73,
+      "question": "JD Vance is the Vice President of USA.",
+      "answer": true,
+      "explanation": "JD Vance is the Vice President of USA."
+    },
+    {
+      "id": 74,
+      "question": "Taylor Swift has the record of highest attended music tour in history.",
+      "answer": false,
+      "explanation": "Coldplay has the record of highest attended music tour in history."
+    },
+    {
+      "id": 75,
+      "question": "Babies born between 2025 and 2039 belong to Generation Alpha.",
+      "answer": false,
+      "explanation": "Babies born between 2025 and 2039 belong to Generation Beta."
+    },
+    {
+      "id": 76,
+      "question": "Nirmala Sitharaman is the Finance Minister of India.",
+      "answer": true,
+      "explanation": "Smt. Nirmala Sitharaman is the Finance Minister of India."
+    },
+    {
+      "id": 77,
+      "question": "Amit Shah is the Defence Minister of India.",
+      "answer": false,
+      "explanation": "Amit Shah is the Minister of Home Affairs. Rajnath Singh is the Defence Minister."
+    },
+    {
+      "id": 78,
+      "question": "National Youth Day is celebrated on 12th January.",
+      "answer": true,
+      "explanation": "National Youth Day is celebrated on 12th January - birthday of Swami Vivekananda."
+    },
+    {
+      "id": 79,
+      "question": "World Wildlife Day is celebrated on 3rd April.",
+      "answer": false,
+      "explanation": "World Wildlife Day is celebrated on 3rd March, not April."
+    },
+    {
+      "id": 80,
+      "question": "International Yoga Day is celebrated on 21st June.",
+      "answer": true,
+      "explanation": "International Yoga Day is celebrated on 21st June."
+    },
+    {
+      "id": 81,
+      "question": "International Tiger Day is celebrated on 29th July.",
+      "answer": true,
+      "explanation": "International Tiger Day is celebrated on 29th July."
+    },
+    {
+      "id": 82,
+      "question": "National Sports Day is celebrated on 29th September.",
+      "answer": false,
+      "explanation": "National Sports Day is celebrated on 29th August, not September."
+    },
+    {
+      "id": 83,
+      "question": "Ramveer Tanwar has saved ten ponds in the past five years.",
+      "answer": true,
+      "explanation": "Ramveer Tanwar has saved ten ponds in the past five years."
+    },
+    {
+      "id": 84,
+      "question": "Shadab Hassan established a school in Kerala.",
+      "answer": false,
+      "explanation": "Shadab Hassan established Hamid Hassan High School in Brambe village, Jharkhand."
+    },
+    {
+      "id": 85,
+      "question": "Dr. Bharat Saran provides free medical coaching in Rajasthan.",
+      "answer": true,
+      "explanation": "Dr. Bharat Saran provides free medical coaching to poor students in Rajasthan."
+    },
+    {
+      "id": 86,
+      "question": "Sahithi Radha's initiative has recycled over 10,000 kg of e-waste.",
+      "answer": true,
+      "explanation": "Sahithi Radha's E-CYCL-India initiative has facilitated recycling of over 10,000 kg of e-waste."
+    },
+    {
+      "id": 87,
+      "question": "Threads 4 Good has crafted over 5,000 school bags from discarded clothing.",
+      "answer": true,
+      "explanation": "Threads 4 Good has crafted over 5,000 school bags from approximately 8,400 pieces of discarded clothing."
+    },
+    {
+      "id": 88,
+      "question": "Veer Mehta is working on tornado early warning systems.",
+      "answer": false,
+      "explanation": "Veer Mehta created 'Turning the Tide' for marine conservation. Anirudh Rao works on tornado warning systems."
+    },
+    {
+      "id": 89,
+      "question": "Kiara Kaur started her environmental journey at age 3.",
+      "answer": true,
+      "explanation": "Kiara Kaur embarked on her path as an environmentalist at the tender age of 3."
+    },
+    {
+      "id": 90,
+      "question": "Licypriya Kangujam is from Maharashtra.",
+      "answer": false,
+      "explanation": "Licypriya Kangujam is from Manipur, not Maharashtra."
+    }
+  ]
+}

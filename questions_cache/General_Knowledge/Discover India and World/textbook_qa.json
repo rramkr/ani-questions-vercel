@@ -1,0 +1,205 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which Hindu festival had world's largest gathering of 660 million people to take a holy dip in the Ganga?",
+      "answer": "Kumbh Festival"
+    },
+    {
+      "id": 2,
+      "question": "Name the two astronauts who returned to Earth after being in space after 286 days.",
+      "answer": "Sunita Williams and Butch Wilmore"
+    },
+    {
+      "id": 3,
+      "question": "Name the second Indian astronaut to go to space after Rakesh Sharma.",
+      "answer": "Shubhanshu Shukla"
+    },
+    {
+      "id": 4,
+      "question": "Which country created an artificial Sun?",
+      "answer": "China"
+    },
+    {
+      "id": 5,
+      "question": "Which Museum witnessed a heist where nine pieces of the 19th century jewellery were stolen?",
+      "answer": "Louvre Museum"
+    },
+    {
+      "id": 6,
+      "question": "Who became Japan's first female Prime Minister?",
+      "answer": "Sanae Takaichi"
+    },
+    {
+      "id": 7,
+      "question": "The Hayli Gubbi volcano erupted in which country?",
+      "answer": "Ethiopia"
+    },
+    {
+      "id": 8,
+      "question": "Which two South East Asian countries broke their ceasefire and resumed war?",
+      "answer": "Thailand and Cambodia"
+    },
+    {
+      "id": 9,
+      "question": "What is the Oxford Dictionary Word of the Year?",
+      "answer": "Ragebait"
+    },
+    {
+      "id": 10,
+      "question": "Who is the 2025 F1 Champion?",
+      "answer": "Lando Norris"
+    },
+    {
+      "id": 11,
+      "question": "Who won the Nobel Peace Prize in 2025?",
+      "answer": "Maria Corina Machado (Venezuela)"
+    },
+    {
+      "id": 12,
+      "question": "Which city will be the host city for Commonwealth Games 2030?",
+      "answer": "Ahmedabad"
+    },
+    {
+      "id": 13,
+      "question": "Who is the new Chief Justice of India?",
+      "answer": "Justice Suryakant"
+    },
+    {
+      "id": 14,
+      "question": "Where will the world's first Sky Stadium be built?",
+      "answer": "Saudi Arabia"
+    },
+    {
+      "id": 15,
+      "question": "Which country won ICC Women's Cricket World Cup?",
+      "answer": "India"
+    },
+    {
+      "id": 16,
+      "question": "In which country were mosquitoes discovered for the first time in 2025?",
+      "answer": "Iceland"
+    },
+    {
+      "id": 17,
+      "question": "Name two of India's newest airports.",
+      "answer": "Navi Mumbai International Airport and Guwahati Airport (Lokapriya Gopinath Bordoloi International)"
+    },
+    {
+      "id": 18,
+      "question": "Who is the Vice President of India?",
+      "answer": "CP Radhakrishnan"
+    },
+    {
+      "id": 19,
+      "question": "Which country has appointed the first AI minister?",
+      "answer": "Albania"
+    },
+    {
+      "id": 20,
+      "question": "Which is the cleanest city of India for the 8th consecutive time?",
+      "answer": "Indore"
+    },
+    {
+      "id": 21,
+      "question": "Which city in India tried cloud seeding to fight the rising AQI?",
+      "answer": "Delhi"
+    },
+    {
+      "id": 22,
+      "question": "Who won IPL 2025?",
+      "answer": "Royal Challengers Bangalore"
+    },
+    {
+      "id": 23,
+      "question": "Who is the Vice President of USA?",
+      "answer": "JD Vance"
+    },
+    {
+      "id": 24,
+      "question": "Who has the record of the highest attended music tour in history?",
+      "answer": "Coldplay"
+    },
+    {
+      "id": 25,
+      "question": "Babies born between 2025 and 2039 belong to which generation?",
+      "answer": "Generation Beta"
+    },
+    {
+      "id": 26,
+      "question": "Who is the Chief Minister of Tamil Nadu?",
+      "answer": "Thiru M.K. Stalin"
+    },
+    {
+      "id": 27,
+      "question": "Who is the Finance Minister of India?",
+      "answer": "Smt. Nirmala Sitharaman"
+    },
+    {
+      "id": 28,
+      "question": "Who is the Minister of Home Affairs of India?",
+      "answer": "Shri Amit Shah"
+    },
+    {
+      "id": 29,
+      "question": "Who is the Education Minister of India?",
+      "answer": "Shri Dharmendra Pradhan"
+    },
+    {
+      "id": 30,
+      "question": "Who is the Defence Minister of India?",
+      "answer": "Shri Raj Nath Singh"
+    },
+    {
+      "id": 31,
+      "question": "Who is the Road Transport and Highways Minister of India?",
+      "answer": "Shri Nitin Jairam Gadkari"
+    },
+    {
+      "id": 32,
+      "question": "Who is the Finance Minister of Tamil Nadu?",
+      "answer": "Mr Thangam Thennarasu"
+    },
+    {
+      "id": 33,
+      "question": "Who is the Transport Minister of Tamil Nadu?",
+      "answer": "Mr. S.S. Sivasankar"
+    },
+    {
+      "id": 34,
+      "question": "When is National Youth Day celebrated and whose birthday does it mark?",
+      "answer": "12th January - Birthday of Swami Vivekananda"
+    },
+    {
+      "id": 35,
+      "question": "When is World Wildlife Day celebrated?",
+      "answer": "3rd March"
+    },
+    {
+      "id": 36,
+      "question": "When is World Heritage Day celebrated?",
+      "answer": "18th April"
+    },
+    {
+      "id": 37,
+      "question": "When is World Athletics Day celebrated?",
+      "answer": "7th May"
+    },
+    {
+      "id": 38,
+      "question": "When is International Yoga Day celebrated?",
+      "answer": "21st June"
+    },
+    {
+      "id": 39,
+      "question": "When is International Tiger Day celebrated?",
+      "answer": "29th July"
+    },
+    {
+      "id": 40,
+      "question": "When is National Sports Day celebrated?",
+      "answer": "29th August"
+    }
+  ]
+}

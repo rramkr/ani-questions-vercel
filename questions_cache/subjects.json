@@ -29,6 +29,12 @@
       "slug": "Computer Science",
       "icon": "💻",
       "chapter_count": 1
+    },
+    {
+      "name": "General Knowledge",
+      "slug": "General Knowledge",
+      "icon": "🧠",
+      "chapter_count": 1
     }
   ]
 }

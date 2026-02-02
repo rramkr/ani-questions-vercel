@@ -1,0 +1,11 @@
+{
+  "subject": "General Knowledge",
+  "chapters": [
+    {
+      "name": "Discover India and World",
+      "slug": "Discover India and World",
+      "has_questions": true,
+      "icon": "🌍"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The UNESCO site in India praised for its blend of culture and nature.",
+      "answer": "Khangchendzonga National Park"
+    },
+    {
+      "id": 2,
+      "question": "The Sanskrit word for diamond meaning 'thunderbolt'.",
+      "answer": "Vajra"
+    },
+    {
+      "id": 3,
+      "question": "The experimental township in Tamil Nadu with no provisions of money or religion.",
+      "answer": "Auroville"
+    },
+    {
+      "id": 4,
+      "question": "The world's highest battlefield.",
+      "answer": "Siachen"
+    },
+    {
+      "id": 5,
+      "question": "The world's second coldest inhabited place in India.",
+      "answer": "Dras"
+    },
+    {
+      "id": 6,
+      "question": "The collective name for seven states in Northeast India.",
+      "answer": "Seven Sisters"
+    },
+    {
+      "id": 7,
+      "question": "The fair in Assam where centuries-old barter system is practised.",
+      "answer": "Jonbeel Mela"
+    },
+    {
+      "id": 8,
+      "question": "The silk exclusively produced in Assam.",
+      "answer": "Golden/Muga silk"
+    },
+    {
+      "id": 9,
+      "question": "The world's only women-run market in Manipur.",
+      "answer": "Ima Keithel"
+    },
+    {
+      "id": 10,
+      "question": "The world's only floating national park in Manipur.",
+      "answer": "Keibul Lamjao National Park"
+    },
+    {
+      "id": 11,
+      "question": "The village in Nagaland where one can be in India and Myanmar simultaneously.",
+      "answer": "Longwa"
+    },
+    {
+      "id": 12,
+      "question": "The state flower of Mizoram.",
+      "answer": "Red Vanda"
+    },
+    {
+      "id": 13,
+      "question": "The only floating palace in Northeast India, located in Tripura.",
+      "answer": "Neer Mahal"
+    },
+    {
+      "id": 14,
+      "question": "The village in Arunachal Pradesh that receives first ray of sun in India.",
+      "answer": "Dong village"
+    },
+    {
+      "id": 15,
+      "question": "The largest monastery in India located in Arunachal Pradesh.",
+      "answer": "Tawang Monastery"
+    },
+    {
+      "id": 16,
+      "question": "The rainiest place in the world located in Meghalaya.",
+      "answer": "Mawsynram"
+    },
+    {
+      "id": 17,
+      "question": "The unique bridges made only in Meghalaya.",
+      "answer": "Living root bridges"
+    },
+    {
+      "id": 18,
+      "question": "The first Woman President of UN General Assembly.",
+      "answer": "Vijaya Lakshmi Pandit"
+    },
+    {
+      "id": 19,
+      "question": "The first tribal woman to become President of India.",
+      "answer": "Draupadi Murmu"
+    },
+    {
+      "id": 20,
+      "question": "India's first Woman Ambassador.",
+      "answer": "C.B. Muthamma"
+    },
+    {
+      "id": 21,
+      "question": "The first Woman Air Vice Marshal of India.",
+      "answer": "Padmavathy Bandopadhyay"
+    },
+    {
+      "id": 22,
+      "question": "The first Woman Judge in Supreme Court of India.",
+      "answer": "M. Fathima Beevi"
+    },
+    {
+      "id": 23,
+      "question": "The first Woman Lieutenant General of India.",
+      "answer": "Punita Arora"
+    },
+    {
+      "id": 24,
+      "question": "The first Indian Woman to scale all seven continental peaks.",
+      "answer": "Premlata Agrawal"
+    },
+    {
+      "id": 25,
+      "question": "The first Indian woman to ride a motorbike from Kanyakumari to Kashmir.",
+      "answer": "Roshni Sharma"
+    },
+    {
+      "id": 26,
+      "question": "The city called 'Boston of India'.",
+      "answer": "Ahmedabad"
+    },
+    {
+      "id": 27,
+      "question": "The city called 'City of Nawabs'.",
+      "answer": "Lucknow"
+    },
+    {
+      "id": 28,
+      "question": "The state called 'Land of Spices'.",
+      "answer": "Kerala"
+    },
+    {
+      "id": 29,
+      "question": "The place called 'Heaven of India'.",
+      "answer": "Jammu and Kashmir"
+    },
+    {
+      "id": 30,
+      "question": "The city called 'City of Seven Islands'.",
+      "answer": "Mumbai"
+    },
+    {
+      "id": 31,
+      "question": "The city called 'Queen of Mountains'.",
+      "answer": "Mussoorie"
+    },
+    {
+      "id": 32,
+      "question": "The famous writer whose hometown is Mussoorie.",
+      "answer": "Ruskin Bond"
+    },
+    {
+      "id": 33,
+      "question": "The place holding largest flower parade in the world.",
+      "answer": "Zundert, Netherlands"
+    },
+    {
+      "id": 34,
+      "question": "The flower festival in Colombia that symbolises end of slavery.",
+      "answer": "Feria de las Flores"
+    },
+    {
+      "id": 35,
+      "question": "The national dress of Brunei and Malaysia.",
+      "answer": "Baju Kurung"
+    },
+    {
+      "id": 36,
+      "question": "The traditional T-shaped dress worn by Japanese.",
+      "answer": "Kimono"
+    },
+    {
+      "id": 37,
+      "question": "The Vietnamese traditional costume made of silk.",
+      "answer": "Ao Dai"
+    },
+    {
+      "id": 38,
+      "question": "The Chinese outfit also known as Mandarin gown.",
+      "answer": "Cheongsam"
+    },
+    {
+      "id": 39,
+      "question": "The dress worn by Flamenco dancers in Spain.",
+      "answer": "Traje de Flamenca"
+    },
+    {
+      "id": 40,
+      "question": "The formal dress worn in Hawaii during festivals.",
+      "answer": "Muumuu"
+    },
+    {
+      "id": 41,
+      "question": "The organisation set up by Chami Murmu.",
+      "answer": "Sahayogi Mahila"
+    },
+    {
+      "id": 42,
+      "question": "The nickname given to Dukhu Majhi meaning 'Tree Grandpa'.",
+      "answer": "Gachh Dadu"
+    },
+    {
+      "id": 43,
+      "question": "The tornado warning device invented by Anirudh Rao.",
+      "answer": "Revere"
+    },
+    {
+      "id": 44,
+      "question": "The mobile solar-powered shop initiative by Licypriya Kangujam.",
+      "answer": "Plastic Money Shop"
+    },
+    {
+      "id": 45,
+      "question": "The initiative by Tejas Pugalia to create school bags from textile waste.",
+      "answer": "Threads 4 Good"
+    },
+    {
+      "id": 46,
+      "question": "The e-waste recycling initiative by Sahithi Radha.",
+      "answer": "E-CYCL-India"
+    },
+    {
+      "id": 47,
+      "question": "The marine conservation initiative by Veer Mehta.",
+      "answer": "Turning the Tide"
+    },
+    {
+      "id": 48,
+      "question": "The water awareness gatherings started by Ramveer Tanwar.",
+      "answer": "Jal-chaupals"
+    },
+    {
+      "id": 49,
+      "question": "The school established by Shadab Hassan in Jharkhand.",
+      "answer": "Hamid Hassan High School"
+    },
+    {
+      "id": 50,
+      "question": "The coaching institute by Dr. Bharat Saran for poor students.",
+      "answer": "50 Villagers Seva Sansthan"
+    },
+    {
+      "id": 51,
+      "question": "The Hindu festival with 660 million people gathering at Ganga.",
+      "answer": "Kumbh Festival"
+    },
+    {
+      "id": 52,
+      "question": "The second Indian astronaut after Rakesh Sharma.",
+      "answer": "Shubhanshu Shukla"
+    },
+    {
+      "id": 53,
+      "question": "The Oxford Dictionary Word of the Year.",
+      "answer": "Ragebait"
+    },
+    {
+      "id": 54,
+      "question": "The 2025 F1 Champion.",
+      "answer": "Lando Norris"
+    },
+    {
+      "id": 55,
+      "question": "The Nobel Peace Prize winner of 2025.",
+      "answer": "Maria Corina Machado"
+    },
+    {
+      "id": 56,
+      "question": "The host city for Commonwealth Games 2030.",
+      "answer": "Ahmedabad"
+    },
+    {
+      "id": 57,
+      "question": "The new Chief Justice of India.",
+      "answer": "Justice Suryakant"
+    },
+    {
+      "id": 58,
+      "question": "The country where world's first Sky Stadium will be built.",
+      "answer": "Saudi Arabia"
+    },
+    {
+      "id": 59,
+      "question": "The country where mosquitoes were discovered for first time in 2025.",
+      "answer": "Iceland"
+    },
+    {
+      "id": 60,
+      "question": "The first country to appoint an AI minister.",
+      "answer": "Albania"
+    },
+    {
+      "id": 61,
+      "question": "The cleanest city of India for 8th consecutive time.",
+      "answer": "Indore"
+    },
+    {
+      "id": 62,
+      "question": "The winner of IPL 2025.",
+      "answer": "Royal Challengers Bangalore"
+    },
+    {
+      "id": 63,
+      "question": "The Vice President of USA.",
+      "answer": "JD Vance"
+    },
+    {
+      "id": 64,
+      "question": "The band with record of highest attended music tour.",
+      "answer": "Coldplay"
+    },
+    {
+      "id": 65,
+      "question": "The generation name for babies born 2025-2039.",
+      "answer": "Generation Beta"
+    },
+    {
+      "id": 66,
+      "question": "The Finance Minister of India.",
+      "answer": "Nirmala Sitharaman"
+    },
+    {
+      "id": 67,
+      "question": "The Minister of Home Affairs of India.",
+      "answer": "Amit Shah"
+    },
+    {
+      "id": 68,
+      "question": "The Defence Minister of India.",
+      "answer": "Rajnath Singh"
+    },
+    {
+      "id": 69,
+      "question": "The Education Minister of India.",
+      "answer": "Dharmendra Pradhan"
+    },
+    {
+      "id": 70,
+      "question": "The Chief Minister of Tamil Nadu.",
+      "answer": "M.K. Stalin"
+    }
+  ]
+}

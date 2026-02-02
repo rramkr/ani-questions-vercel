@@ -1,0 +1,915 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many UNESCO World Heritage Sites does India have?",
+      "options": ["35", "43", "50", "28"],
+      "answer": "43",
+      "explanation": "India is home to a diverse array of 43 UNESCO World Heritage Sites."
+    },
+    {
+      "id": 2,
+      "question": "How many of India's UNESCO sites are designated for cultural importance?",
+      "options": ["35", "7", "43", "1"],
+      "answer": "35",
+      "explanation": "35 sites are designated for cultural importance out of India's 43 UNESCO sites."
+    },
+    {
+      "id": 3,
+      "question": "How many of India's UNESCO sites are recognized for natural beauty?",
+      "options": ["1", "35", "7", "43"],
+      "answer": "7",
+      "explanation": "Seven UNESCO sites in India are recognized for natural beauty."
+    },
+    {
+      "id": 4,
+      "question": "Which UNESCO site is praised for its blend of culture and nature?",
+      "options": ["Taj Mahal", "Khangchendzonga National Park", "Qutub Minar", "Hampi"],
+      "answer": "Khangchendzonga National Park",
+      "explanation": "Khangchendzonga National Park is praised for its blend of culture and nature."
+    },
+    {
+      "id": 5,
+      "question": "How many countries boast more World Heritage Sites than India?",
+      "options": ["3", "5", "10", "7"],
+      "answer": "5",
+      "explanation": "Worldwide, only five countries boast more World Heritage Sites than India."
+    },
+    {
+      "id": 6,
+      "question": "Where was diamond first discovered and mined?",
+      "options": ["South Africa", "Brazil", "India", "Russia"],
+      "answer": "India",
+      "explanation": "Diamond was first discovered and mined in India."
+    },
+    {
+      "id": 7,
+      "question": "What is diamond called in Sanskrit?",
+      "options": ["Ratna", "Vajra", "Heera", "Mani"],
+      "answer": "Vajra",
+      "explanation": "In Sanskrit, diamond was addressed as 'vajra' meaning thunderbolt."
+    },
+    {
+      "id": 8,
+      "question": "Early descriptions of diamond date back to which century BC?",
+      "options": ["1st century BC", "2nd century BC", "4th century BC", "6th century BC"],
+      "answer": "4th century BC",
+      "explanation": "Early descriptions of diamond date back to the 4th century BC."
+    },
+    {
+      "id": 9,
+      "question": "India is the world's largest producer and exporter of what?",
+      "options": ["Rice", "Tea", "Spices", "Cotton"],
+      "answer": "Spices",
+      "explanation": "India is the world's largest producer and exporter of spices."
+    },
+    {
+      "id": 10,
+      "question": "When was Auroville founded?",
+      "options": ["1958", "1968", "1978", "1988"],
+      "answer": "1968",
+      "explanation": "Auroville was founded in 1968."
+    },
+    {
+      "id": 11,
+      "question": "Where is Auroville situated?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+      "answer": "Tamil Nadu",
+      "explanation": "Auroville is situated mostly in Tamil Nadu."
+    },
+    {
+      "id": 12,
+      "question": "What is special about Auroville township?",
+      "options": ["Largest in India", "No money or religion provisions", "Oldest township", "Most populated"],
+      "answer": "No money or religion provisions",
+      "explanation": "Auroville welcomes citizens from all over the world and has no provisions of money or religion."
+    },
+    {
+      "id": 13,
+      "question": "How many post offices does Indian Postal Service have?",
+      "options": ["100,000", "154,900", "200,000", "50,000"],
+      "answer": "154,900",
+      "explanation": "Indian Postal Service has 154,900 post offices, the most extensive postal system in the world."
+    },
+    {
+      "id": 14,
+      "question": "Where is the largest number of vegetarians in the world found?",
+      "options": ["USA", "UK", "China", "India"],
+      "answer": "India",
+      "explanation": "The largest number of vegetarians in the world are found in India."
+    },
+    {
+      "id": 15,
+      "question": "How many of the world's 10 highest peaks are in the Himalayas?",
+      "options": ["5", "7", "9", "10"],
+      "answer": "9",
+      "explanation": "9 out of 10 of the world's highest peaks are in the Himalayas mountain."
+    },
+    {
+      "id": 16,
+      "question": "India is the only country with a Bill of Rights for which animal?",
+      "options": ["Tigers", "Elephants", "Cows", "Lions"],
+      "answer": "Cows",
+      "explanation": "India is the only country with a Bill of Rights for cows."
+    },
+    {
+      "id": 17,
+      "question": "How many people does the Golden Temple serve vegetarian meals to daily?",
+      "options": ["10,000", "25,000", "50,000", "100,000"],
+      "answer": "50,000",
+      "explanation": "The Golden Temple in India serves a vegetarian meal to over 50,000 people a day."
+    },
+    {
+      "id": 18,
+      "question": "What is Siachen known as?",
+      "options": ["World's coldest place", "World's highest battlefield", "World's largest glacier", "World's deepest valley"],
+      "answer": "World's highest battlefield",
+      "explanation": "Siachen is the world's highest battlefield."
+    },
+    {
+      "id": 19,
+      "question": "Dras is the world's second largest what?",
+      "options": ["Desert", "Coldest inhabited place", "Mountain", "Lake"],
+      "answer": "Coldest inhabited place",
+      "explanation": "Dras is the world's second largest coldest inhabited place."
+    },
+    {
+      "id": 20,
+      "question": "India has more internet users than the entire population of which country?",
+      "options": ["UK", "Germany", "USA", "France"],
+      "answer": "USA",
+      "explanation": "India has more people using the Internet than the entire population of the U.S."
+    },
+    {
+      "id": 21,
+      "question": "The seven states in Northeast India are collectively called what?",
+      "options": ["Seven Brothers", "Seven Sisters", "Seven Stars", "Seven Hills"],
+      "answer": "Seven Sisters",
+      "explanation": "The seven states in Northeast India are collectively called the Seven Sisters."
+    },
+    {
+      "id": 22,
+      "question": "Where is the centuries-old barter system still practised at Jonbeel Mela?",
+      "options": ["Manipur", "Nagaland", "Assam", "Meghalaya"],
+      "answer": "Assam",
+      "explanation": "Centuries-old barter system is still practised at Jonbeel Mela, Assam."
+    },
+    {
+      "id": 23,
+      "question": "Golden/Muga silk is exclusively produced in which state?",
+      "options": ["Kerala", "Assam", "West Bengal", "Karnataka"],
+      "answer": "Assam",
+      "explanation": "Golden/Muga silk is not produced anywhere else in the world other than Assam."
+    },
+    {
+      "id": 24,
+      "question": "Where is Ima Keithel, the world's only women-run market, located?",
+      "options": ["Assam", "Tripura", "Manipur", "Meghalaya"],
+      "answer": "Manipur",
+      "explanation": "Ima Keithel, the world's only women-run market, is in Manipur."
+    },
+    {
+      "id": 25,
+      "question": "Which is the world's only floating national park?",
+      "options": ["Kaziranga National Park", "Keibul Lamjao National Park", "Sundarbans", "Jim Corbett"],
+      "answer": "Keibul Lamjao National Park",
+      "explanation": "World's only floating national park Keibul Lamjao National Park is in Manipur."
+    },
+    {
+      "id": 26,
+      "question": "At Longwa village in Nagaland, one can be in two countries simultaneously. Which countries?",
+      "options": ["India and China", "India and Bangladesh", "India and Myanmar", "India and Bhutan"],
+      "answer": "India and Myanmar",
+      "explanation": "At Longwa village in Nagaland, one can be simultaneously in India and Myanmar as the village is on the border."
+    },
+    {
+      "id": 27,
+      "question": "How many tribes and languages are there in Nagaland alone?",
+      "options": ["10 tribes, 20 languages", "17 tribes, 36 languages", "25 tribes, 50 languages", "5 tribes, 10 languages"],
+      "answer": "17 tribes, 36 languages",
+      "explanation": "In Nagaland alone, there are 17 tribes and 36 languages."
+    },
+    {
+      "id": 28,
+      "question": "What does 'Mizoram' mean?",
+      "options": ["Land of flowers", "Land of hills", "Country of people living in hills", "Valley of mountains"],
+      "answer": "Country of people living in hills",
+      "explanation": "'Mi' means people, 'zo' means hills, 'ram' means country - the country of people living in hills."
+    },
+    {
+      "id": 29,
+      "question": "What is the state flower of Mizoram?",
+      "options": ["Lotus", "Red Vanda", "Rose", "Rhododendron"],
+      "answer": "Red Vanda",
+      "explanation": "Red Vanda is the state flower of Mizoram."
+    },
+    {
+      "id": 30,
+      "question": "What type of farming is most common in Mizoram?",
+      "options": ["Terrace farming", "Slash and Burn", "Organic farming", "Irrigation farming"],
+      "answer": "Slash and Burn",
+      "explanation": "The most common type of farming in Mizoram is 'Slash and Burn' or shifting cultivation."
+    },
+    {
+      "id": 31,
+      "question": "What is the only floating palace in Northeast India called?",
+      "options": ["Jal Mahal", "Neer Mahal", "Lake Palace", "Water Palace"],
+      "answer": "Neer Mahal",
+      "explanation": "Tripura is home to the only floating palace in Northeast called Neer Mahal."
+    },
+    {
+      "id": 32,
+      "question": "Which place in India receives the first ray of the sun after Japan?",
+      "options": ["Itanagar", "Dong village in Anjaw district", "Tawang", "Ziro"],
+      "answer": "Dong village in Anjaw district",
+      "explanation": "Dong village in Anjaw district in Arunachal Pradesh is the first place in India to receive the first ray of the sun after Japan."
+    },
+    {
+      "id": 33,
+      "question": "Where is the largest monastery in India located?",
+      "options": ["Ladakh", "Sikkim", "Tawang, Arunachal Pradesh", "Himachal Pradesh"],
+      "answer": "Tawang, Arunachal Pradesh",
+      "explanation": "Arunachal Pradesh is home to the largest monastery in India - the 400-years-old Tawang Monastery."
+    },
+    {
+      "id": 34,
+      "question": "Tawang Monastery is the second largest in the world after which monastery?",
+      "options": ["Shaolin Temple", "Potala Palace in Lhasa, Tibet", "Rumtek Monastery", "Hemis Monastery"],
+      "answer": "Potala Palace in Lhasa, Tibet",
+      "explanation": "Tawang Monastery is the second largest in the world after the Potala Palace in Lhasa, Tibet."
+    },
+    {
+      "id": 35,
+      "question": "Meghalaya is the only state where what unique structures are made?",
+      "options": ["Bamboo bridges", "Living root bridges", "Stone bridges", "Rope bridges"],
+      "answer": "Living root bridges",
+      "explanation": "Meghalaya is the only state where living root bridges are made."
+    },
+    {
+      "id": 36,
+      "question": "Where is the rainiest place in the world located?",
+      "options": ["Amazon", "Meghalaya", "Congo", "Indonesia"],
+      "answer": "Meghalaya",
+      "explanation": "The rainiest place in the world Mawsynram is located in Meghalaya."
+    },
+    {
+      "id": 37,
+      "question": "How much rainfall does Mawsynram receive per year?",
+      "options": ["200 inches", "350 inches", "467 inches", "500 inches"],
+      "answer": "467 inches",
+      "explanation": "Mawsynram village in Meghalaya receives 467 inches of rain per year."
+    },
+    {
+      "id": 38,
+      "question": "Who was the first Woman President of UN General Assembly?",
+      "options": ["Indira Gandhi", "Vijaya Lakshmi Pandit", "Sarojini Naidu", "Sushma Swaraj"],
+      "answer": "Vijaya Lakshmi Pandit",
+      "explanation": "Vijaya Lakshmi Pandit was the first Woman President of UN General Assembly."
+    },
+    {
+      "id": 39,
+      "question": "Who was the first tribal woman to become the President of India?",
+      "options": ["Pratibha Patil", "Draupadi Murmu", "Meira Kumar", "Sumitra Mahajan"],
+      "answer": "Draupadi Murmu",
+      "explanation": "Draupadi Murmu was the first tribal woman to become the President of India."
+    },
+    {
+      "id": 40,
+      "question": "Who was India's first Woman Ambassador?",
+      "options": ["Vijaya Lakshmi Pandit", "C.B. Muthamma", "Indira Gandhi", "Sarojini Naidu"],
+      "answer": "C.B. Muthamma",
+      "explanation": "C.B. Muthamma was India's first Woman Ambassador."
+    },
+    {
+      "id": 41,
+      "question": "Who was the first Woman Air Vice Marshal of India?",
+      "options": ["Punita Arora", "Padmavathy Bandopadhyay", "Gunjan Saxena", "Avani Chaturvedi"],
+      "answer": "Padmavathy Bandopadhyay",
+      "explanation": "Padmavathy Bandopadhyay was the first Woman Air Vice Marshal of India."
+    },
+    {
+      "id": 42,
+      "question": "Who was the first Woman Judge in the Supreme Court of India?",
+      "options": ["Leila Seth", "M. Fathima Beevi", "Indira Banerjee", "Ruma Pal"],
+      "answer": "M. Fathima Beevi",
+      "explanation": "M. Fathima Beevi was the first Woman Judge in the Supreme Court of India."
+    },
+    {
+      "id": 43,
+      "question": "Who was the first Woman Lieutenant General of India?",
+      "options": ["Padmavathy Bandopadhyay", "Punita Arora", "Madhuri Kanitkar", "Sarojini Naidu"],
+      "answer": "Punita Arora",
+      "explanation": "Punita Arora was the first Woman Lieutenant General of India."
+    },
+    {
+      "id": 44,
+      "question": "Who was the first Indian Woman Mountaineer to scale all seven continental peaks?",
+      "options": ["Bachendri Pal", "Premlata Agrawal", "Arunima Sinha", "Santosh Yadav"],
+      "answer": "Premlata Agrawal",
+      "explanation": "Premlata Agrawal was the first Indian Woman Mountaineer to scale all seven continental peaks."
+    },
+    {
+      "id": 45,
+      "question": "Who was the first Indian woman to ride a motorbike from Kanyakumari to Kashmir?",
+      "options": ["Veenu Paliwal", "Roshni Sharma", "Sana Iqbal", "Urvashi Patole"],
+      "answer": "Roshni Sharma",
+      "explanation": "Roshni Sharma was the first Indian woman to ride a motorbike from Kanyakumari to Kashmir."
+    },
+    {
+      "id": 46,
+      "question": "Which city is called the 'Boston of India'?",
+      "options": ["Mumbai", "Ahmedabad", "Kolkata", "Chennai"],
+      "answer": "Ahmedabad",
+      "explanation": "Ahmedabad is called the Boston of India - founded by Sultan Ahmad Shah in 1411."
+    },
+    {
+      "id": 47,
+      "question": "When was Ahmedabad founded?",
+      "options": ["1311", "1411", "1511", "1611"],
+      "answer": "1411",
+      "explanation": "Ahmedabad was founded by Sultan Ahmad Shah in 1411."
+    },
+    {
+      "id": 48,
+      "question": "When did Ahmedabad become India's largest industrial centre?",
+      "options": ["1759", "1859", "1959", "1909"],
+      "answer": "1859",
+      "explanation": "With the opening of cotton mills in 1859, Ahmedabad became India's largest industrial centre."
+    },
+    {
+      "id": 49,
+      "question": "Which city is called the 'City of Nawabs'?",
+      "options": ["Hyderabad", "Lucknow", "Bhopal", "Delhi"],
+      "answer": "Lucknow",
+      "explanation": "Lucknow is called the City of Nawabs - an important railway junction on the banks of river Gomati."
+    },
+    {
+      "id": 50,
+      "question": "On which river's banks is Lucknow located?",
+      "options": ["Ganga", "Yamuna", "Gomati", "Sarayu"],
+      "answer": "Gomati",
+      "explanation": "Lucknow is located on the banks of river Gomati."
+    },
+    {
+      "id": 51,
+      "question": "Which state is called the 'Land of Spices'?",
+      "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+      "answer": "Kerala",
+      "explanation": "Kerala is called the Land of Spices - lies between Western Ghats and Arabian Sea."
+    },
+    {
+      "id": 52,
+      "question": "Which place is called the 'Heaven of India'?",
+      "options": ["Shimla", "Darjeeling", "Jammu and Kashmir", "Ooty"],
+      "answer": "Jammu and Kashmir",
+      "explanation": "Jammu and Kashmir is called the Heaven of India - famous for beautiful gardens and Dal Lake."
+    },
+    {
+      "id": 53,
+      "question": "Which city is called the 'City of Seven Islands'?",
+      "options": ["Chennai", "Kolkata", "Mumbai", "Kochi"],
+      "answer": "Mumbai",
+      "explanation": "Mumbai is called the City of Seven Islands - India's principal port in the Arabian Sea."
+    },
+    {
+      "id": 54,
+      "question": "Which city is called the 'Queen of Mountains'?",
+      "options": ["Shimla", "Mussoorie", "Nainital", "Darjeeling"],
+      "answer": "Mussoorie",
+      "explanation": "Mussoorie is called the Queen of Mountains - located in Uttrakhand, hometown of Ruskin Bond."
+    },
+    {
+      "id": 55,
+      "question": "Which famous writer's hometown is Mussoorie?",
+      "options": ["R.K. Narayan", "Ruskin Bond", "Vikram Seth", "Amitav Ghosh"],
+      "answer": "Ruskin Bond",
+      "explanation": "Mussoorie is the hometown of famous writer Ruskin Bond."
+    },
+    {
+      "id": 56,
+      "question": "Which place holds the largest parade of flowers in the world?",
+      "options": ["Brussels, Belgium", "Zundert, Netherlands", "Valencia, Spain", "Pasadena, California"],
+      "answer": "Zundert, Netherlands",
+      "explanation": "Bloemencorso in Zundert, Netherlands holds the largest parade of flowers in the world."
+    },
+    {
+      "id": 57,
+      "question": "How often is the Flower Carpet event in Brussels, Belgium organized?",
+      "options": ["Every year", "Every two years", "Every five years", "Every three years"],
+      "answer": "Every two years",
+      "explanation": "The Flower Carpet event in Brussels, Belgium is organised once in every two years."
+    },
+    {
+      "id": 58,
+      "question": "Batalla de Flores marks the end of which month in Valencia, Spain?",
+      "options": ["Feria de Mayo", "Feria de Julio", "Feria de Abril", "Feria de Marzo"],
+      "answer": "Feria de Julio",
+      "explanation": "Batalla de Flores marks the end of the long Feria de Julio month in Valencia, Spain."
+    },
+    {
+      "id": 59,
+      "question": "When is Chiang Mai Flower Festival held?",
+      "options": ["First weekend of January", "First weekend of February", "First weekend of March", "First weekend of April"],
+      "answer": "First weekend of February",
+      "explanation": "Chiang Mai Flower Festival is organised on the first weekend of February."
+    },
+    {
+      "id": 60,
+      "question": "Which flower parade in Medellin, Colombia symbolises the end of slavery?",
+      "options": ["Rose Parade", "Feria de las Flores", "Batalla de Flores", "Flower Carpet"],
+      "answer": "Feria de las Flores",
+      "explanation": "Feria de las Flores in Medellin, Columbia symbolises the end of slavery."
+    },
+    {
+      "id": 61,
+      "question": "When is the Rose Parade in Pasadena, California organized?",
+      "options": ["Christmas Day", "New Year's Day", "Thanksgiving", "Independence Day"],
+      "answer": "New Year's Day",
+      "explanation": "The Rose Parade in Pasadena, California is organized on every New Year's Day."
+    },
+    {
+      "id": 62,
+      "question": "Since when has the Genzano Infiorata Flower Festival been taking place?",
+      "options": ["1678", "1778", "1878", "1978"],
+      "answer": "1778",
+      "explanation": "The Genzano Infiorata Flower Festival has been taking place for more than two centuries since 1778."
+    },
+    {
+      "id": 63,
+      "question": "Baju Kurung is the national dress of which countries?",
+      "options": ["Japan and Korea", "Brunei and Malaysia", "Thailand and Vietnam", "Indonesia and Philippines"],
+      "answer": "Brunei and Malaysia",
+      "explanation": "Baju Kurung is a traditional Malay dress and is the National Dress for Brunei and Malaysia."
+    },
+    {
+      "id": 64,
+      "question": "Dirndl is traditionally worn by women of which countries?",
+      "options": ["France and Italy", "Germany, Austria, Switzerland, Liechtenstein", "Spain and Portugal", "UK and Ireland"],
+      "answer": "Germany, Austria, Switzerland, Liechtenstein",
+      "explanation": "Dirndl is worn with a long skirt, shirt, bodice and apron by women of Germany, Austria, Switzerland and Liechtenstein."
+    },
+    {
+      "id": 65,
+      "question": "Traje de Flamenca is worn by dancers in which country?",
+      "options": ["Italy", "France", "Spain", "Portugal"],
+      "answer": "Spain",
+      "explanation": "Traje de Flamenca is worn by the Flamenco dancers in Spain."
+    },
+    {
+      "id": 66,
+      "question": "Muumuu is a formal clothing worn during festivals and weddings in which place?",
+      "options": ["Fiji", "Hawaii", "Samoa", "Tahiti"],
+      "answer": "Hawaii",
+      "explanation": "Muumuu is formal clothing worn during occasional parties, festivals and weddings in Hawaii."
+    },
+    {
+      "id": 67,
+      "question": "Kimono is traditionally worn in which country?",
+      "options": ["China", "Korea", "Japan", "Vietnam"],
+      "answer": "Japan",
+      "explanation": "Kimono is worn by the Japanese during cultural events and weddings - a long T-shaped dress."
+    },
+    {
+      "id": 68,
+      "question": "Ao Dai is a traditional costume of which country?",
+      "options": ["Thailand", "Vietnam", "Cambodia", "Laos"],
+      "answer": "Vietnam",
+      "explanation": "Ao Dai is a Vietnamese costume - a tight outfit made of complete silk material."
+    },
+    {
+      "id": 69,
+      "question": "What is Cheongsam also known as?",
+      "options": ["Hanbok", "Kimono", "Mandarin gown", "Ao Dai"],
+      "answer": "Mandarin gown",
+      "explanation": "Cheongsam is also known as the Mandarin gown - popular among Chinese men and women."
+    },
+    {
+      "id": 70,
+      "question": "Sinh is a traditional garment worn by women in which countries?",
+      "options": ["China and Japan", "Laos and Thailand", "Vietnam and Cambodia", "Korea and Mongolia"],
+      "answer": "Laos and Thailand",
+      "explanation": "Sinh is a traditional garment worn by Lao and Thai women in Laos and Thailand."
+    },
+    {
+      "id": 71,
+      "question": "Chami Murmu is an environmental activist from which state?",
+      "options": ["Bihar", "Jharkhand", "Odisha", "West Bengal"],
+      "answer": "Jharkhand",
+      "explanation": "Chami Murmu is an environmental activist from Saraikela Kharsawan district of Jharkhand."
+    },
+    {
+      "id": 72,
+      "question": "What organisation did Chami Murmu set up?",
+      "options": ["Green India", "Sahayogi Mahila", "Eco Warriors", "Tree Foundation"],
+      "answer": "Sahayogi Mahila",
+      "explanation": "Chami Murmu formed a network of women and set up her organisation 'Sahayogi Mahila'."
+    },
+    {
+      "id": 73,
+      "question": "In which year was Chami Murmu awarded the Indira Priyadarshini Vrikshamitra Puraskar?",
+      "options": ["2000", "2010", "2019", "2024"],
+      "answer": "2019",
+      "explanation": "Chami Murmu was awarded the Indira Priyadarshini Vrikshamitra Puraskar in 2019."
+    },
+    {
+      "id": 74,
+      "question": "In which year was Chami Murmu conferred with the Padma Shri award?",
+      "options": ["2020", "2022", "2024", "2019"],
+      "answer": "2024",
+      "explanation": "Chami Murmu was conferred with the Padma Shri award in 2024."
+    },
+    {
+      "id": 75,
+      "question": "Dukhu Majhi is an environmental activist from which village?",
+      "options": ["Sindri village, West Bengal", "Ranchi, Jharkhand", "Patna, Bihar", "Bhubaneswar, Odisha"],
+      "answer": "Sindri village, West Bengal",
+      "explanation": "Dukhu Majhi is an environmental activist from Sindri village in West Bengal's Purulia district."
+    },
+    {
+      "id": 76,
+      "question": "What is Dukhu Majhi affectionately known as?",
+      "options": ["Ped Baba", "Gachh Dadu", "Tree Uncle", "Van Pitaji"],
+      "answer": "Gachh Dadu",
+      "explanation": "Dukhu Majhi is affectionately known as 'Gachh Dadu' (Tree Grandpa)."
+    },
+    {
+      "id": 77,
+      "question": "At what age does Dukhu Majhi continue to plant trees?",
+      "options": ["68", "78", "88", "58"],
+      "answer": "78",
+      "explanation": "At 78, Dukhu Majhi continues to plant trees at rural markets, bus stands, roadsides, etc."
+    },
+    {
+      "id": 78,
+      "question": "What invention did 11-year-old Anirudh Rao create?",
+      "options": ["Solar Panel", "Tornado Early Warning System", "Water Purifier", "Air Filter"],
+      "answer": "Tornado Early Warning System",
+      "explanation": "Anirudh Rao is the young mind behind the Tornado Early Warning System invention."
+    },
+    {
+      "id": 79,
+      "question": "What is Anirudh Rao's prototype tornado warning device called?",
+      "options": ["Warning", "Revere", "Alert", "Tornado Watch"],
+      "answer": "Revere",
+      "explanation": "Anirudh Rao's prototype is named 'Revere' - a blend of drones and sensors."
+    },
+    {
+      "id": 80,
+      "question": "Licypriya Kangujam is an environmental activist from which state?",
+      "options": ["Assam", "Manipur", "Nagaland", "Meghalaya"],
+      "answer": "Manipur",
+      "explanation": "Licypriya Kangujam is a passionate environmental activist from Manipur."
+    },
+    {
+      "id": 81,
+      "question": "What innovative initiative did Licypriya Kangujam start in 2022?",
+      "options": ["Green Shop", "Plastic Money Shop", "Eco Store", "Recycle Hub"],
+      "answer": "Plastic Money Shop",
+      "explanation": "Licypriya initiated the 'Plastic Money Shop' in 2022 - a mobile, solar-powered shop."
+    },
+    {
+      "id": 82,
+      "question": "Kiara Kaur started her environmental journey at what age?",
+      "options": ["3", "5", "7", "10"],
+      "answer": "3",
+      "explanation": "Kiara Kaur embarked on her path as an environmentalist at the tender age of 3."
+    },
+    {
+      "id": 83,
+      "question": "Kiara Kaur was one of the youngest speakers at which UN Climate conference?",
+      "options": ["COY16 and COP26", "COY18 and COP28", "COY17 and COP27", "COY15 and COP25"],
+      "answer": "COY18 and COP28",
+      "explanation": "Kiara Kaur was recognized as one of the youngest speakers at COY18 and COP28."
+    },
+    {
+      "id": 84,
+      "question": "What initiative did Tejas Pugalia spearhead?",
+      "options": ["Bags 4 Good", "Threads 4 Good", "Clothes 4 Good", "Waste 4 Good"],
+      "answer": "Threads 4 Good",
+      "explanation": "Tejas Pugalia spearheaded the impactful initiative called 'Threads 4 Good'."
+    },
+    {
+      "id": 85,
+      "question": "How many school bags has Threads 4 Good crafted from discarded clothing?",
+      "options": ["1,000", "5,000", "10,000", "2,500"],
+      "answer": "5,000",
+      "explanation": "Threads 4 Good has crafted over 5,000 school bags from approximately 8,400 pieces of discarded clothing."
+    },
+    {
+      "id": 86,
+      "question": "What electronic waste initiative did Sahithi Radha create?",
+      "options": ["E-CYCL-India", "E-Waste India", "Recycle-E", "Green-E"],
+      "answer": "E-CYCL-India",
+      "explanation": "Sahithi Radha created E-CYCL-India, an electronic waste recycling and awareness initiative."
+    },
+    {
+      "id": 87,
+      "question": "How much e-waste has Sahithi Radha's initiative helped recycle?",
+      "options": ["1,000 kg", "5,000 kg", "10,000 kg", "15,000 kg"],
+      "answer": "10,000 kg",
+      "explanation": "Sahithi Radha's initiative has facilitated the recycling of over 10,000 kilograms of e-waste."
+    },
+    {
+      "id": 88,
+      "question": "What initiative did Veer Mehta create for marine conservation?",
+      "options": ["Ocean Watch", "Turning the Tide", "Sea Saver", "Marine Guard"],
+      "answer": "Turning the Tide",
+      "explanation": "Veer Mehta created 'Turning the Tide' - a data-driven initiative for marine pollution detection."
+    },
+    {
+      "id": 89,
+      "question": "What are the six main ways for waste disposal?",
+      "options": ["Burning, burying, throwing, dumping, hiding, ignoring", "Preventing, recycling, incineration, composting, landfill, reuse", "Only recycling and burning", "Just landfill and composting"],
+      "answer": "Preventing, recycling, incineration, composting, landfill, reuse",
+      "explanation": "There are six main ways for waste disposal: preventing, recycling, incineration, composting, landfill, and reuse."
+    },
+    {
+      "id": 90,
+      "question": "What percentage of waste is recyclable?",
+      "options": ["50%", "60%", "75%", "90%"],
+      "answer": "75%",
+      "explanation": "Over 75% of waste is recyclable, but we only recycle about 30% of it."
+    },
+    {
+      "id": 91,
+      "question": "What percentage of waste do we actually recycle?",
+      "options": ["10%", "20%", "30%", "50%"],
+      "answer": "30%",
+      "explanation": "We only recycle about 30% of waste even though over 75% is recyclable."
+    },
+    {
+      "id": 92,
+      "question": "How long does it take for an aluminum can to return to the shop floor after recycling?",
+      "options": ["1 week", "3 weeks", "3 months", "1 year"],
+      "answer": "3 weeks",
+      "explanation": "An aluminum can placed for recycling can be back on the shop floor in 3 weeks."
+    },
+    {
+      "id": 93,
+      "question": "Recycling 100 cans could light your bedroom for how long?",
+      "options": ["1 week", "2 weeks", "1 month", "2 whole weeks"],
+      "answer": "2 whole weeks",
+      "explanation": "Recycling 100 cans could light your bedroom for 2 whole weeks."
+    },
+    {
+      "id": 94,
+      "question": "By how much has paper recycling increased since 1990?",
+      "options": ["50%", "65%", "89%", "75%"],
+      "answer": "89%",
+      "explanation": "Paper recycling has increased over 89% since 1990."
+    },
+    {
+      "id": 95,
+      "question": "Which Hindu festival had world's largest gathering of 660 million people?",
+      "options": ["Diwali", "Kumbh Festival", "Holi", "Durga Puja"],
+      "answer": "Kumbh Festival",
+      "explanation": "Kumbh Festival had the world's largest gathering of 660 million people taking a holy dip in the Ganga."
+    },
+    {
+      "id": 96,
+      "question": "Who is the second Indian astronaut to go to space after Rakesh Sharma?",
+      "options": ["Kalpana Chawla", "Sunita Williams", "Shubhanshu Shukla", "Ravish Malhotra"],
+      "answer": "Shubhanshu Shukla",
+      "explanation": "Shubhanshu Shukla is the second Indian astronaut to go to space after Rakesh Sharma."
+    },
+    {
+      "id": 97,
+      "question": "Which country created an artificial Sun?",
+      "options": ["USA", "Russia", "Japan", "China"],
+      "answer": "China",
+      "explanation": "China created an artificial Sun."
+    },
+    {
+      "id": 98,
+      "question": "What is the Oxford Dictionary Word of the Year?",
+      "options": ["Selfie", "Ragebait", "Vibe", "Gaslighting"],
+      "answer": "Ragebait",
+      "explanation": "Ragebait is the Oxford Dictionary Word of the Year."
+    },
+    {
+      "id": 99,
+      "question": "Who won the 2025 F1 Championship?",
+      "options": ["Max Verstappen", "Lewis Hamilton", "Lando Norris", "Charles Leclerc"],
+      "answer": "Lando Norris",
+      "explanation": "Lando Norris is the 2025 F1 Champion."
+    },
+    {
+      "id": 100,
+      "question": "Which city will host the Commonwealth Games 2030?",
+      "options": ["New Delhi", "Mumbai", "Ahmedabad", "Bangalore"],
+      "answer": "Ahmedabad",
+      "explanation": "Ahmedabad will be the host city for Commonwealth Games 2030."
+    },
+    {
+      "id": 101,
+      "question": "Who is the new Chief Justice of India?",
+      "options": ["Justice Chandrachud", "Justice Suryakant", "Justice Ramana", "Justice Bobde"],
+      "answer": "Justice Suryakant",
+      "explanation": "Justice Suryakant is the new Chief Justice of India."
+    },
+    {
+      "id": 102,
+      "question": "Where will the world's first Sky Stadium be built?",
+      "options": ["Dubai", "Saudi Arabia", "Qatar", "Singapore"],
+      "answer": "Saudi Arabia",
+      "explanation": "The world's first Sky Stadium will be built in Saudi Arabia."
+    },
+    {
+      "id": 103,
+      "question": "Which country won the ICC Women's Cricket World Cup?",
+      "options": ["Australia", "England", "India", "South Africa"],
+      "answer": "India",
+      "explanation": "India won the ICC Women's Cricket World Cup."
+    },
+    {
+      "id": 104,
+      "question": "In which country were mosquitoes discovered for the first time in 2025?",
+      "options": ["Greenland", "Iceland", "Antarctica", "Alaska"],
+      "answer": "Iceland",
+      "explanation": "Mosquitoes were discovered for the first time in Iceland in 2025."
+    },
+    {
+      "id": 105,
+      "question": "Which country has appointed the first AI minister?",
+      "options": ["Estonia", "Albania", "Singapore", "UAE"],
+      "answer": "Albania",
+      "explanation": "Albania has appointed the first AI minister."
+    },
+    {
+      "id": 106,
+      "question": "Which is the cleanest city of India for the 8th consecutive time?",
+      "options": ["Surat", "Mysore", "Indore", "Chandigarh"],
+      "answer": "Indore",
+      "explanation": "Indore is the cleanest city of India for the 8th consecutive time."
+    },
+    {
+      "id": 107,
+      "question": "Who won IPL 2025?",
+      "options": ["Mumbai Indians", "Chennai Super Kings", "Royal Challengers Bangalore", "Kolkata Knight Riders"],
+      "answer": "Royal Challengers Bangalore",
+      "explanation": "Royal Challengers Bangalore won IPL 2025."
+    },
+    {
+      "id": 108,
+      "question": "Who is the Vice President of USA?",
+      "options": ["Kamala Harris", "JD Vance", "Mike Pence", "Tim Walz"],
+      "answer": "JD Vance",
+      "explanation": "JD Vance is the Vice President of USA."
+    },
+    {
+      "id": 109,
+      "question": "Which band has the record of highest attended music tour in history?",
+      "options": ["BTS", "Taylor Swift", "Coldplay", "Ed Sheeran"],
+      "answer": "Coldplay",
+      "explanation": "Coldplay has the record of the highest attended music tour in history."
+    },
+    {
+      "id": 110,
+      "question": "Babies born between 2025 and 2039 belong to which generation?",
+      "options": ["Generation Alpha", "Generation Z", "Generation Beta", "Generation Gamma"],
+      "answer": "Generation Beta",
+      "explanation": "Babies born between 2025 and 2039 belong to Generation Beta."
+    },
+    {
+      "id": 111,
+      "question": "The best way to store a toothbrush is under a cap. True or False?",
+      "options": ["True", "False"],
+      "answer": "False",
+      "explanation": "The best way to store a toothbrush is NOT under a cap - it needs air to dry."
+    },
+    {
+      "id": 112,
+      "question": "Gum disease has been shown to be associated with:",
+      "options": ["Heart disease only", "Diabetes only", "Pregnancy only", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Gum disease has been shown to be associated with heart disease, diabetes, and pregnancy."
+    },
+    {
+      "id": 113,
+      "question": "What is the most common cause of dry mouth?",
+      "options": ["Medications", "Advancing age", "Tobacco", "Head and neck radiation"],
+      "answer": "Medications",
+      "explanation": "Medications are the most common cause of dry mouth."
+    },
+    {
+      "id": 114,
+      "question": "Hard toothbrush bristles are more effective than soft because tooth plaque is hard. True or False?",
+      "options": ["True", "False"],
+      "answer": "False",
+      "explanation": "This is false - soft bristles are recommended as plaque is soft and easily removed."
+    },
+    {
+      "id": 115,
+      "question": "How many teeth exist in the normal adult mouth (including wisdom teeth)?",
+      "options": ["18", "30", "32", "34"],
+      "answer": "32",
+      "explanation": "32 teeth exist in the normal adult mouth including wisdom teeth."
+    },
+    {
+      "id": 116,
+      "question": "What fraction of the normal tooth is below the gumline?",
+      "options": ["1/4", "2/3", "1/2", "3/4"],
+      "answer": "2/3",
+      "explanation": "2/3 of the normal tooth is below the gumline."
+    },
+    {
+      "id": 117,
+      "question": "How often should a toothbrush be changed?",
+      "options": ["Once per month", "At the close of every illness", "Once every two or three months", "Once per year"],
+      "answer": "Once every two or three months",
+      "explanation": "A toothbrush should be changed once every two or three months."
+    },
+    {
+      "id": 118,
+      "question": "When should mouthwash be used?",
+      "options": ["Before brushing", "After brushing", "Both", "Neither"],
+      "answer": "Before brushing",
+      "explanation": "Mouthwash should be used before brushing."
+    },
+    {
+      "id": 119,
+      "question": "Ramveer Tanwar from Greater Noida has saved how many ponds in the past five years?",
+      "options": ["5", "10", "15", "20"],
+      "answer": "10",
+      "explanation": "Ramveer Tanwar has saved ten ponds in the past five years by reviving small ponds."
+    },
+    {
+      "id": 120,
+      "question": "What initiative did Ramveer Tanwar start to create water awareness?",
+      "options": ["Pani Bachao", "Jal-chaupals", "Water Talks", "Pond Savers"],
+      "answer": "Jal-chaupals",
+      "explanation": "Ramveer Tanwar started organising Jal-chaupals to create water awareness."
+    },
+    {
+      "id": 121,
+      "question": "Shadab Hassan established which school in Brambe village, Jharkhand?",
+      "options": ["Hamid Hassan Primary School", "Hamid Hassan High School", "Brambe Public School", "Rural Education Center"],
+      "answer": "Hamid Hassan High School",
+      "explanation": "Shadab Hassan established the Hamid Hassan High School (HHHS) in Brambe village."
+    },
+    {
+      "id": 122,
+      "question": "How far is Brambe village from Ranchi in Jharkhand?",
+      "options": ["10 kms", "20 kms", "30 kms", "50 kms"],
+      "answer": "20 kms",
+      "explanation": "Brambe is a small village 20 kms from Ranchi in Jharkhand."
+    },
+    {
+      "id": 123,
+      "question": "Dr. Bharat Saran's coaching institute provides free medical education to how many students?",
+      "options": ["25 students from Class 11 and 25 from Class 12", "50 students from Class 11 only", "100 students total", "10 students from each class"],
+      "answer": "25 students from Class 11 and 25 from Class 12",
+      "explanation": "Dr. Bharat Saran provides free medical education to 25 underprivileged students from Class 11 and 25 from Class 12."
+    },
+    {
+      "id": 124,
+      "question": "What is Dr. Bharat Saran's coaching institute called?",
+      "options": ["Medical Foundation", "50 Villagers Seva Sansthan", "Rural Medical Academy", "Barmer Institute"],
+      "answer": "50 Villagers Seva Sansthan",
+      "explanation": "Dr. Bharat Saran opened a coaching institute named 50 Villagers Seva Sansthan."
+    },
+    {
+      "id": 125,
+      "question": "Who is the Finance Minister of India?",
+      "options": ["Amit Shah", "Nirmala Sitharaman", "Piyush Goyal", "Arun Jaitley"],
+      "answer": "Nirmala Sitharaman",
+      "explanation": "Smt. Nirmala Sitharaman is the Finance Minister of India."
+    },
+    {
+      "id": 126,
+      "question": "Who is the Minister of Home Affairs of India?",
+      "options": ["Rajnath Singh", "Amit Shah", "Nitin Gadkari", "S. Jaishankar"],
+      "answer": "Amit Shah",
+      "explanation": "Shri Amit Shah is the Minister of Home Affairs of India."
+    },
+    {
+      "id": 127,
+      "question": "Who is the Defence Minister of India?",
+      "options": ["Amit Shah", "Nitin Gadkari", "Rajnath Singh", "Piyush Goyal"],
+      "answer": "Rajnath Singh",
+      "explanation": "Shri Raj Nath Singh is the Defence Minister of India."
+    },
+    {
+      "id": 128,
+      "question": "Who is the Education Minister of India?",
+      "options": ["Smriti Irani", "Dharmendra Pradhan", "Prakash Javadekar", "Ramesh Pokhriyal"],
+      "answer": "Dharmendra Pradhan",
+      "explanation": "Shri Dharmendra Pradhan is the Education Minister of India."
+    },
+    {
+      "id": 129,
+      "question": "When is International Yoga Day celebrated?",
+      "options": ["21st May", "21st June", "21st July", "21st August"],
+      "answer": "21st June",
+      "explanation": "International Yoga Day is celebrated on 21st June."
+    },
+    {
+      "id": 130,
+      "question": "When is World Wildlife Day celebrated?",
+      "options": ["3rd February", "3rd March", "3rd April", "3rd May"],
+      "answer": "3rd March",
+      "explanation": "World Wildlife Day is celebrated on 3rd March."
+    }
+  ]
+}

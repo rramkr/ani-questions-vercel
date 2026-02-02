@@ -1,0 +1,305 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Match the UNESCO Heritage Sites with their locations",
+      "left_column": [
+        "Humayun's Tomb",
+        "Qutub Minar",
+        "Jantar Mantar",
+        "Kaziranga National Park",
+        "Sundarbans"
+      ],
+      "right_column": [
+        "Delhi",
+        "Delhi",
+        "Jaipur",
+        "Assam",
+        "West Bengal"
+      ],
+      "answer": {
+        "Humayun's Tomb": "Delhi",
+        "Qutub Minar": "Delhi",
+        "Jantar Mantar": "Jaipur",
+        "Kaziranga National Park": "Assam",
+        "Sundarbans": "West Bengal"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Match the Indian Sobriquets with their cities",
+      "left_column": [
+        "Boston of India",
+        "City of Nawabs",
+        "Land of Spices",
+        "Heaven of India",
+        "Queen of Mountains"
+      ],
+      "right_column": [
+        "Ahmedabad",
+        "Lucknow",
+        "Kerala",
+        "Jammu and Kashmir",
+        "Mussoorie"
+      ],
+      "answer": {
+        "Boston of India": "Ahmedabad",
+        "City of Nawabs": "Lucknow",
+        "Land of Spices": "Kerala",
+        "Heaven of India": "Jammu and Kashmir",
+        "Queen of Mountains": "Mussoorie"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Match the First Indian Women Achievers with their achievements",
+      "left_column": [
+        "Vijaya Lakshmi Pandit",
+        "Draupadi Murmu",
+        "M. Fathima Beevi",
+        "Punita Arora",
+        "Premlata Agrawal"
+      ],
+      "right_column": [
+        "First Woman President of UN General Assembly",
+        "First tribal woman President of India",
+        "First Woman Judge in Supreme Court",
+        "First Woman Lieutenant General",
+        "First to scale all seven continental peaks"
+      ],
+      "answer": {
+        "Vijaya Lakshmi Pandit": "First Woman President of UN General Assembly",
+        "Draupadi Murmu": "First tribal woman President of India",
+        "M. Fathima Beevi": "First Woman Judge in Supreme Court",
+        "Punita Arora": "First Woman Lieutenant General",
+        "Premlata Agrawal": "First to scale all seven continental peaks"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Match the Seven Sister States with their unique features",
+      "left_column": [
+        "Assam",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Arunachal Pradesh"
+      ],
+      "right_column": [
+        "Golden/Muga silk",
+        "World's only floating national park",
+        "Rainiest place in the world",
+        "Slash and Burn cultivation",
+        "First place to receive sun's rays in India"
+      ],
+      "answer": {
+        "Assam": "Golden/Muga silk",
+        "Manipur": "World's only floating national park",
+        "Meghalaya": "Rainiest place in the world",
+        "Mizoram": "Slash and Burn cultivation",
+        "Arunachal Pradesh": "First place to receive sun's rays in India"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Match the Traditional Costumes with their countries",
+      "left_column": [
+        "Kimono",
+        "Ao Dai",
+        "Dirndl",
+        "Traje de Flamenca",
+        "Baju Kurung"
+      ],
+      "right_column": [
+        "Japan",
+        "Vietnam",
+        "Germany/Austria/Switzerland",
+        "Spain",
+        "Malaysia/Brunei"
+      ],
+      "answer": {
+        "Kimono": "Japan",
+        "Ao Dai": "Vietnam",
+        "Dirndl": "Germany/Austria/Switzerland",
+        "Traje de Flamenca": "Spain",
+        "Baju Kurung": "Malaysia/Brunei"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Match the Flower Festivals with their locations",
+      "left_column": [
+        "Bloemencorso",
+        "Flower Carpet",
+        "Batalla de Flores",
+        "Rose Parade",
+        "Feria de las Flores"
+      ],
+      "right_column": [
+        "Zundert, Netherlands",
+        "Brussels, Belgium",
+        "Valencia, Spain",
+        "Pasadena, California",
+        "Medellin, Columbia"
+      ],
+      "answer": {
+        "Bloemencorso": "Zundert, Netherlands",
+        "Flower Carpet": "Brussels, Belgium",
+        "Batalla de Flores": "Valencia, Spain",
+        "Rose Parade": "Pasadena, California",
+        "Feria de las Flores": "Medellin, Columbia"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Match the Young Environmentalists with their initiatives",
+      "left_column": [
+        "Anirudh Rao",
+        "Licypriya Kangujam",
+        "Tejas Pugalia",
+        "Sahithi Radha",
+        "Veer Mehta"
+      ],
+      "right_column": [
+        "Tornado Early Warning System",
+        "Plastic Money Shop",
+        "Threads 4 Good",
+        "E-CYCL-India",
+        "Turning the Tide"
+      ],
+      "answer": {
+        "Anirudh Rao": "Tornado Early Warning System",
+        "Licypriya Kangujam": "Plastic Money Shop",
+        "Tejas Pugalia": "Threads 4 Good",
+        "Sahithi Radha": "E-CYCL-India",
+        "Veer Mehta": "Turning the Tide"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Match the Cabinet Ministers with their portfolios",
+      "left_column": [
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Rajnath Singh",
+        "Dharmendra Pradhan",
+        "Nitin Gadkari"
+      ],
+      "right_column": [
+        "Finance",
+        "Home Affairs",
+        "Defence",
+        "Education",
+        "Road Transport and Highways"
+      ],
+      "answer": {
+        "Nirmala Sitharaman": "Finance",
+        "Amit Shah": "Home Affairs",
+        "Rajnath Singh": "Defence",
+        "Dharmendra Pradhan": "Education",
+        "Nitin Gadkari": "Road Transport and Highways"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Match the Important Days with their dates",
+      "left_column": [
+        "National Youth Day",
+        "World Wildlife Day",
+        "International Yoga Day",
+        "International Tiger Day",
+        "National Sports Day"
+      ],
+      "right_column": [
+        "12th January",
+        "3rd March",
+        "21st June",
+        "29th July",
+        "29th August"
+      ],
+      "answer": {
+        "National Youth Day": "12th January",
+        "World Wildlife Day": "3rd March",
+        "International Yoga Day": "21st June",
+        "International Tiger Day": "29th July",
+        "National Sports Day": "29th August"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Match the Heroes with their contributions",
+      "left_column": [
+        "Ramveer Tanwar",
+        "Shadab Hassan",
+        "Dr. Bharat Saran",
+        "Chami Murmu",
+        "Dukhu Majhi"
+      ],
+      "right_column": [
+        "Reviving ponds and Jal-chaupals",
+        "Hamid Hassan High School",
+        "50 Villagers Seva Sansthan",
+        "Sahayogi Mahila organization",
+        "Gachh Dadu - Tree Grandpa"
+      ],
+      "answer": {
+        "Ramveer Tanwar": "Reviving ponds and Jal-chaupals",
+        "Shadab Hassan": "Hamid Hassan High School",
+        "Dr. Bharat Saran": "50 Villagers Seva Sansthan",
+        "Chami Murmu": "Sahayogi Mahila organization",
+        "Dukhu Majhi": "Gachh Dadu - Tree Grandpa"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Match the Current Affairs facts (2025)",
+      "left_column": [
+        "2025 F1 Champion",
+        "Nobel Peace Prize 2025",
+        "IPL 2025 Winner",
+        "Commonwealth Games 2030 Host",
+        "New Chief Justice of India"
+      ],
+      "right_column": [
+        "Lando Norris",
+        "Maria Corina Machado",
+        "Royal Challengers Bangalore",
+        "Ahmedabad",
+        "Justice Suryakant"
+      ],
+      "answer": {
+        "2025 F1 Champion": "Lando Norris",
+        "Nobel Peace Prize 2025": "Maria Corina Machado",
+        "IPL 2025 Winner": "Royal Challengers Bangalore",
+        "Commonwealth Games 2030 Host": "Ahmedabad",
+        "New Chief Justice of India": "Justice Suryakant"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Match the Fascinating India Facts",
+      "left_column": [
+        "First country to mine diamonds",
+        "Largest producer of spices",
+        "Most post offices",
+        "Highest battlefield",
+        "Most vegetarians"
+      ],
+      "right_column": [
+        "India",
+        "India",
+        "India (154,900)",
+        "Siachen",
+        "India"
+      ],
+      "answer": {
+        "First country to mine diamonds": "India",
+        "Largest producer of spices": "India",
+        "Most post offices": "India (154,900)",
+        "Highest battlefield": "Siachen",
+        "Most vegetarians": "India"
+      }
+    }
+  ]
+}

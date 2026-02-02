@@ -1,0 +1,605 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": 1,
+      "question": "India has _______ UNESCO World Heritage Sites.",
+      "answer": "43"
+    },
+    {
+      "id": 2,
+      "question": "_______ UNESCO sites in India are designated for cultural importance.",
+      "answer": "35"
+    },
+    {
+      "id": 3,
+      "question": "_______ of India's UNESCO sites are recognized for natural beauty.",
+      "answer": "Seven"
+    },
+    {
+      "id": 4,
+      "question": "_______ National Park is praised for its blend of culture and nature.",
+      "answer": "Khangchendzonga"
+    },
+    {
+      "id": 5,
+      "question": "Diamond was first discovered and mined in _______.",
+      "answer": "India"
+    },
+    {
+      "id": 6,
+      "question": "In Sanskrit, diamond was addressed as '_______' meaning thunderbolt.",
+      "answer": "vajra"
+    },
+    {
+      "id": 7,
+      "question": "Diamond was also called '_______' - warrior god Indra's weapon.",
+      "answer": "indrayudha"
+    },
+    {
+      "id": 8,
+      "question": "Early descriptions of diamond date back to the _______ century BC.",
+      "answer": "4th"
+    },
+    {
+      "id": 9,
+      "question": "India is the world's largest producer and exporter of _______.",
+      "answer": "spices"
+    },
+    {
+      "id": 10,
+      "question": "Auroville was founded in _______.",
+      "answer": "1968"
+    },
+    {
+      "id": 11,
+      "question": "Auroville is situated mostly in _______.",
+      "answer": "Tamil Nadu"
+    },
+    {
+      "id": 12,
+      "question": "Indian Postal Service has _______ post offices.",
+      "answer": "154,900"
+    },
+    {
+      "id": 13,
+      "question": "The largest number of _______ in the world are found in India.",
+      "answer": "vegetarians"
+    },
+    {
+      "id": 14,
+      "question": "_______ out of 10 of the world's highest peaks are in the Himalayas.",
+      "answer": "9"
+    },
+    {
+      "id": 15,
+      "question": "India is the only country with a Bill of Rights for _______.",
+      "answer": "cows"
+    },
+    {
+      "id": 16,
+      "question": "The Golden Temple serves vegetarian meals to over _______ people a day.",
+      "answer": "50,000"
+    },
+    {
+      "id": 17,
+      "question": "_______ is the world's highest battlefield.",
+      "answer": "Siachen"
+    },
+    {
+      "id": 18,
+      "question": "_______ is the world's second largest coldest inhabited place.",
+      "answer": "Dras"
+    },
+    {
+      "id": 19,
+      "question": "The seven states in Northeast India are collectively called the _______.",
+      "answer": "Seven Sisters"
+    },
+    {
+      "id": 20,
+      "question": "Centuries-old barter system is still practised at _______ Mela, Assam.",
+      "answer": "Jonbeel"
+    },
+    {
+      "id": 21,
+      "question": "_______/Muga silk is not produced anywhere else in the world other than Assam.",
+      "answer": "Golden"
+    },
+    {
+      "id": 22,
+      "question": "_______ is the world's only women-run market located in Manipur.",
+      "answer": "Ima Keithel"
+    },
+    {
+      "id": 23,
+      "question": "_______ National Park is the world's only floating national park in Manipur.",
+      "answer": "Keibul Lamjao"
+    },
+    {
+      "id": 24,
+      "question": "At _______ village in Nagaland, one can be in India and Myanmar simultaneously.",
+      "answer": "Longwa"
+    },
+    {
+      "id": 25,
+      "question": "In Nagaland alone, there are _______ tribes and 36 languages.",
+      "answer": "17"
+    },
+    {
+      "id": 26,
+      "question": "'Mi' means people, 'zo' means hills, 'ram' means country - hence _______ means country of people living in hills.",
+      "answer": "Mizoram"
+    },
+    {
+      "id": 27,
+      "question": "_______ is the state flower of Mizoram.",
+      "answer": "Red Vanda"
+    },
+    {
+      "id": 28,
+      "question": "'Slash and Burn' or _______ cultivation is common in Mizoram.",
+      "answer": "shifting"
+    },
+    {
+      "id": 29,
+      "question": "_______ is the only floating palace in Northeast, located in Tripura.",
+      "answer": "Neer Mahal"
+    },
+    {
+      "id": 30,
+      "question": "_______ village in Arunachal Pradesh is the first place in India to receive the sun's first ray after Japan.",
+      "answer": "Dong"
+    },
+    {
+      "id": 31,
+      "question": "The _______ Monastery in Tawang is the largest monastery in India.",
+      "answer": "Tawang"
+    },
+    {
+      "id": 32,
+      "question": "Tawang Monastery is _______ years old.",
+      "answer": "400"
+    },
+    {
+      "id": 33,
+      "question": "Meghalaya is the only state where _______ bridges are made.",
+      "answer": "living root"
+    },
+    {
+      "id": 34,
+      "question": "_______ in Meghalaya is the rainiest place in the world.",
+      "answer": "Mawsynram"
+    },
+    {
+      "id": 35,
+      "question": "Mawsynram receives _______ inches of rain per year.",
+      "answer": "467"
+    },
+    {
+      "id": 36,
+      "question": "_______ was the first Woman President of UN General Assembly.",
+      "answer": "Vijaya Lakshmi Pandit"
+    },
+    {
+      "id": 37,
+      "question": "_______ was the first tribal woman to become President of India.",
+      "answer": "Draupadi Murmu"
+    },
+    {
+      "id": 38,
+      "question": "_______ was India's first Woman Ambassador.",
+      "answer": "C.B. Muthamma"
+    },
+    {
+      "id": 39,
+      "question": "_______ was the first Woman Air Vice Marshal of India.",
+      "answer": "Padmavathy Bandopadhyay"
+    },
+    {
+      "id": 40,
+      "question": "_______ was the first Woman Judge in Supreme Court of India.",
+      "answer": "M. Fathima Beevi"
+    },
+    {
+      "id": 41,
+      "question": "_______ was the first Woman Lieutenant General of India.",
+      "answer": "Punita Arora"
+    },
+    {
+      "id": 42,
+      "question": "_______ was the first Indian Woman to scale all seven continental peaks.",
+      "answer": "Premlata Agrawal"
+    },
+    {
+      "id": 43,
+      "question": "_______ was the first Indian woman to ride a motorbike from Kanyakumari to Kashmir.",
+      "answer": "Roshni Sharma"
+    },
+    {
+      "id": 44,
+      "question": "Ahmedabad is called the _______ of India.",
+      "answer": "Boston"
+    },
+    {
+      "id": 45,
+      "question": "Ahmedabad was founded by Sultan Ahmad Shah in _______.",
+      "answer": "1411"
+    },
+    {
+      "id": 46,
+      "question": "Lucknow is called the City of _______.",
+      "answer": "Nawabs"
+    },
+    {
+      "id": 47,
+      "question": "Lucknow is located on the banks of river _______.",
+      "answer": "Gomati"
+    },
+    {
+      "id": 48,
+      "question": "Kerala is called the Land of _______.",
+      "answer": "Spices"
+    },
+    {
+      "id": 49,
+      "question": "Jammu and Kashmir is called the _______ of India.",
+      "answer": "Heaven"
+    },
+    {
+      "id": 50,
+      "question": "Mumbai is called the City of _______ Islands.",
+      "answer": "Seven"
+    },
+    {
+      "id": 51,
+      "question": "Mussoorie is called the _______ of Mountains.",
+      "answer": "Queen"
+    },
+    {
+      "id": 52,
+      "question": "_______ is the hometown of famous writer Ruskin Bond.",
+      "answer": "Mussoorie"
+    },
+    {
+      "id": 53,
+      "question": "Bloemencorso in _______, Netherlands holds the largest flower parade in the world.",
+      "answer": "Zundert"
+    },
+    {
+      "id": 54,
+      "question": "The Flower Carpet event in Brussels, Belgium is organised once in every _______ years.",
+      "answer": "two"
+    },
+    {
+      "id": 55,
+      "question": "Batalla de Flores marks the end of _______ month in Valencia, Spain.",
+      "answer": "Feria de Julio"
+    },
+    {
+      "id": 56,
+      "question": "Chiang Mai Flower Festival is held on the first weekend of _______.",
+      "answer": "February"
+    },
+    {
+      "id": 57,
+      "question": "Feria de las Flores in Medellin, Columbia symbolises the end of _______.",
+      "answer": "slavery"
+    },
+    {
+      "id": 58,
+      "question": "The Rose Parade in Pasadena, California is organized on every _______ Day.",
+      "answer": "New Year's"
+    },
+    {
+      "id": 59,
+      "question": "The Genzano Infiorata Flower Festival has been taking place since _______.",
+      "answer": "1778"
+    },
+    {
+      "id": 60,
+      "question": "_______ is the National Dress for Brunei and Malaysia.",
+      "answer": "Baju Kurung"
+    },
+    {
+      "id": 61,
+      "question": "_______ is worn by women of Germany, Austria, Switzerland and Liechtenstein.",
+      "answer": "Dirndl"
+    },
+    {
+      "id": 62,
+      "question": "_______ is worn by Flamenco dancers in Spain.",
+      "answer": "Traje de Flamenca"
+    },
+    {
+      "id": 63,
+      "question": "_______ is formal clothing worn during festivals in Hawaii.",
+      "answer": "Muumuu"
+    },
+    {
+      "id": 64,
+      "question": "_______ is a long T-shaped dress worn by Japanese.",
+      "answer": "Kimono"
+    },
+    {
+      "id": 65,
+      "question": "_______ is a Vietnamese costume made of silk.",
+      "answer": "Ao Dai"
+    },
+    {
+      "id": 66,
+      "question": "Cheongsam is also known as _______ gown.",
+      "answer": "Mandarin"
+    },
+    {
+      "id": 67,
+      "question": "_______ is a tube-like skirt worn by women in Laos and Thailand.",
+      "answer": "Sinh"
+    },
+    {
+      "id": 68,
+      "question": "Chami Murmu is an environmental activist from _______ district of Jharkhand.",
+      "answer": "Saraikela Kharsawan"
+    },
+    {
+      "id": 69,
+      "question": "Chami Murmu set up her organisation called '_______'.",
+      "answer": "Sahayogi Mahila"
+    },
+    {
+      "id": 70,
+      "question": "Chami Murmu received the Padma Shri award in _______.",
+      "answer": "2024"
+    },
+    {
+      "id": 71,
+      "question": "Dukhu Majhi is affectionately known as '_______' (Tree Grandpa).",
+      "answer": "Gachh Dadu"
+    },
+    {
+      "id": 72,
+      "question": "Dukhu Majhi, at age _______, continues to plant trees.",
+      "answer": "78"
+    },
+    {
+      "id": 73,
+      "question": "Anirudh Rao won first place in the International Young _______ awards.",
+      "answer": "Eco-Heroes"
+    },
+    {
+      "id": 74,
+      "question": "Anirudh Rao's tornado warning prototype is called '_______'.",
+      "answer": "Revere"
+    },
+    {
+      "id": 75,
+      "question": "Licypriya Kangujam initiated the '_______ Shop' in 2022.",
+      "answer": "Plastic Money"
+    },
+    {
+      "id": 76,
+      "question": "Kiara Kaur started her environmental journey at age _______.",
+      "answer": "3"
+    },
+    {
+      "id": 77,
+      "question": "Tejas Pugalia spearheaded the initiative called '_______'.",
+      "answer": "Threads 4 Good"
+    },
+    {
+      "id": 78,
+      "question": "Sahithi Radha created _______, an electronic waste recycling initiative.",
+      "answer": "E-CYCL-India"
+    },
+    {
+      "id": 79,
+      "question": "Veer Mehta created '_______ the Tide' for marine conservation.",
+      "answer": "Turning"
+    },
+    {
+      "id": 80,
+      "question": "Over _______% of waste is recyclable.",
+      "answer": "75"
+    },
+    {
+      "id": 81,
+      "question": "We only recycle about _______% of waste.",
+      "answer": "30"
+    },
+    {
+      "id": 82,
+      "question": "An aluminum can can return to shop floor in _______ weeks after recycling.",
+      "answer": "3"
+    },
+    {
+      "id": 83,
+      "question": "Paper recycling has increased over _______% since 1990.",
+      "answer": "89"
+    },
+    {
+      "id": 84,
+      "question": "_______ Festival had 660 million people gathering for a holy dip in Ganga.",
+      "answer": "Kumbh"
+    },
+    {
+      "id": 85,
+      "question": "_______ is the second Indian astronaut to go to space after Rakesh Sharma.",
+      "answer": "Shubhanshu Shukla"
+    },
+    {
+      "id": 86,
+      "question": "_______ created an artificial Sun.",
+      "answer": "China"
+    },
+    {
+      "id": 87,
+      "question": "_______ is the Oxford Dictionary Word of the Year.",
+      "answer": "Ragebait"
+    },
+    {
+      "id": 88,
+      "question": "_______ won the 2025 F1 Championship.",
+      "answer": "Lando Norris"
+    },
+    {
+      "id": 89,
+      "question": "_______ will host Commonwealth Games 2030.",
+      "answer": "Ahmedabad"
+    },
+    {
+      "id": 90,
+      "question": "Justice _______ is the new Chief Justice of India.",
+      "answer": "Suryakant"
+    },
+    {
+      "id": 91,
+      "question": "The world's first Sky Stadium will be built in _______.",
+      "answer": "Saudi Arabia"
+    },
+    {
+      "id": 92,
+      "question": "_______ won the ICC Women's Cricket World Cup.",
+      "answer": "India"
+    },
+    {
+      "id": 93,
+      "question": "Mosquitoes were discovered for the first time in _______ in 2025.",
+      "answer": "Iceland"
+    },
+    {
+      "id": 94,
+      "question": "_______ has appointed the first AI minister.",
+      "answer": "Albania"
+    },
+    {
+      "id": 95,
+      "question": "_______ is the cleanest city of India for the 8th consecutive time.",
+      "answer": "Indore"
+    },
+    {
+      "id": 96,
+      "question": "_______ won IPL 2025.",
+      "answer": "Royal Challengers Bangalore"
+    },
+    {
+      "id": 97,
+      "question": "_______ is the Vice President of USA.",
+      "answer": "JD Vance"
+    },
+    {
+      "id": 98,
+      "question": "_______ has the record of highest attended music tour in history.",
+      "answer": "Coldplay"
+    },
+    {
+      "id": 99,
+      "question": "Babies born between 2025 and 2039 belong to Generation _______.",
+      "answer": "Beta"
+    },
+    {
+      "id": 100,
+      "question": "_______ teeth exist in the normal adult mouth including wisdom teeth.",
+      "answer": "32"
+    },
+    {
+      "id": 101,
+      "question": "A toothbrush should be changed once every _______ months.",
+      "answer": "two or three"
+    },
+    {
+      "id": 102,
+      "question": "_______/3 of the normal tooth is below the gumline.",
+      "answer": "2"
+    },
+    {
+      "id": 103,
+      "question": "Ramveer Tanwar has saved _______ ponds in the past five years.",
+      "answer": "ten"
+    },
+    {
+      "id": 104,
+      "question": "Ramveer Tanwar started organising _______ to create water awareness.",
+      "answer": "Jal-chaupals"
+    },
+    {
+      "id": 105,
+      "question": "Shadab Hassan established _______ High School in Brambe village.",
+      "answer": "Hamid Hassan"
+    },
+    {
+      "id": 106,
+      "question": "Dr. Bharat Saran's institute is called _______ Seva Sansthan.",
+      "answer": "50 Villagers"
+    },
+    {
+      "id": 107,
+      "question": "_______ is the Finance Minister of India.",
+      "answer": "Nirmala Sitharaman"
+    },
+    {
+      "id": 108,
+      "question": "_______ is the Minister of Home Affairs of India.",
+      "answer": "Amit Shah"
+    },
+    {
+      "id": 109,
+      "question": "_______ is the Defence Minister of India.",
+      "answer": "Rajnath Singh"
+    },
+    {
+      "id": 110,
+      "question": "_______ is the Education Minister of India.",
+      "answer": "Dharmendra Pradhan"
+    },
+    {
+      "id": 111,
+      "question": "National Youth Day is celebrated on _______ January.",
+      "answer": "12th"
+    },
+    {
+      "id": 112,
+      "question": "World Wildlife Day is celebrated on _______ March.",
+      "answer": "3rd"
+    },
+    {
+      "id": 113,
+      "question": "World Heritage Day is celebrated on _______ April.",
+      "answer": "18th"
+    },
+    {
+      "id": 114,
+      "question": "International Yoga Day is celebrated on _______ June.",
+      "answer": "21st"
+    },
+    {
+      "id": 115,
+      "question": "International Tiger Day is celebrated on _______ July.",
+      "answer": "29th"
+    },
+    {
+      "id": 116,
+      "question": "National Sports Day is celebrated on _______ August.",
+      "answer": "29th"
+    },
+    {
+      "id": 117,
+      "question": "National Youth Day marks the birthday of Swami _______.",
+      "answer": "Vivekananda"
+    },
+    {
+      "id": 118,
+      "question": "_______ is the Chief Minister of Tamil Nadu.",
+      "answer": "M.K. Stalin"
+    },
+    {
+      "id": 119,
+      "question": "_______ is the Vice President of India.",
+      "answer": "CP Radhakrishnan"
+    },
+    {
+      "id": 120,
+      "question": "_______ won the Nobel Peace Prize in 2025.",
+      "answer": "Maria Corina Machado"
+    }
+  ]
+}

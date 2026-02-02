@@ -1,0 +1,180 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the different categories of India's UNESCO World Heritage Sites?",
+      "answer": "India has 43 UNESCO sites: 35 designated for cultural importance, 7 recognized for natural beauty, and 1 (Khangchendzonga National Park) praised for its blend of culture and nature."
+    },
+    {
+      "id": 2,
+      "question": "What is special about diamond's history in India?",
+      "answer": "Diamond was first discovered and mined in India. In Sanskrit it was called 'vajra' (thunderbolt) and 'indrayudha' (warrior god Indra's weapon). Early descriptions date back to 4th century BC."
+    },
+    {
+      "id": 3,
+      "question": "What makes Auroville unique?",
+      "answer": "Auroville, founded in 1968 in Tamil Nadu, is an experimental township that welcomes citizens from all over the world and has no provisions of money or religion."
+    },
+    {
+      "id": 4,
+      "question": "What are some unique records held by India?",
+      "answer": "India has the largest postal system (154,900 post offices), most vegetarians, largest producer of spices, only country with Bill of Rights for cows, Golden Temple serves 50,000+ meals daily, and more internet users than USA's population."
+    },
+    {
+      "id": 5,
+      "question": "What is special about Siachen and Dras?",
+      "answer": "Siachen is the world's highest battlefield. Dras is the world's second largest coldest inhabited place."
+    },
+    {
+      "id": 6,
+      "question": "Why are Northeast states called Seven Sisters?",
+      "answer": "The seven states in Northeast India (Assam, Manipur, Nagaland, Mizoram, Tripura, Arunachal Pradesh, Meghalaya) are collectively called the Seven Sisters due to their geographical and cultural similarities."
+    },
+    {
+      "id": 7,
+      "question": "What are the unique features of Assam?",
+      "answer": "Assam has the centuries-old barter system still practised at Jonbeel Mela, and Golden/Muga silk which is not produced anywhere else in the world."
+    },
+    {
+      "id": 8,
+      "question": "What makes Manipur special?",
+      "answer": "Manipur has Ima Keithel (world's only women-run market) and Keibul Lamjao National Park (world's only floating national park)."
+    },
+    {
+      "id": 9,
+      "question": "What is unique about Longwa village in Nagaland?",
+      "answer": "At Longwa village in Nagaland, one can be at two places simultaneously - in India and in Myanmar - as the village is located on the border."
+    },
+    {
+      "id": 10,
+      "question": "What does 'Mizoram' mean?",
+      "answer": "'Mi' means people, 'zo' means hills, and 'ram' means country. Hence Mizoram means 'the country of people living in hills'. Red Vanda is its state flower."
+    },
+    {
+      "id": 11,
+      "question": "What is special about Tripura?",
+      "answer": "Tripura is home to Neer Mahal, the only floating palace in Northeast India."
+    },
+    {
+      "id": 12,
+      "question": "What are the unique features of Arunachal Pradesh?",
+      "answer": "Dong village in Anjaw district receives India's first ray of sun after Japan. It has India's largest monastery - the 400-year-old Tawang Monastery, which is second largest in the world after Potala Palace."
+    },
+    {
+      "id": 13,
+      "question": "What makes Meghalaya unique?",
+      "answer": "Meghalaya is the only state where living root bridges are made. Mawsynram, the rainiest place in the world, is located here receiving 467 inches of rain per year."
+    },
+    {
+      "id": 14,
+      "question": "Name any five First Indian Women achievers and their achievements.",
+      "answer": "Vijaya Lakshmi Pandit - First Woman President of UN General Assembly; Draupadi Murmu - First tribal woman President of India; M. Fathima Beevi - First Woman Judge in Supreme Court; Punita Arora - First Woman Lieutenant General; Premlata Agrawal - First to scale all seven continental peaks."
+    },
+    {
+      "id": 15,
+      "question": "What is the significance of Ahmedabad in Indian history?",
+      "answer": "Ahmedabad was founded by Sultan Ahmad Shah in 1411. With the opening of cotton mills in 1859, it became India's largest industrial centre. It is called the 'Boston of India'."
+    },
+    {
+      "id": 16,
+      "question": "List any four Indian city sobriquets with their meanings.",
+      "answer": "Lucknow - City of Nawabs (on banks of Gomati); Kerala - Land of Spices; Jammu & Kashmir - Heaven of India; Mumbai - City of Seven Islands; Mussoorie - Queen of Mountains."
+    },
+    {
+      "id": 17,
+      "question": "Name any three famous flower festivals of the world.",
+      "answer": "Bloemencorso in Zundert, Netherlands (largest flower parade); Flower Carpet in Brussels, Belgium (organized every 2 years); Rose Parade in Pasadena, California (on New Year's Day)."
+    },
+    {
+      "id": 18,
+      "question": "Describe Baju Kurung and its significance.",
+      "answer": "Baju Kurung is a traditional Malay dress and the National Dress for Brunei and Malaysia. It is known as 'enclosed dress' because of its closed structure and loosely stitched appearance covering the complete body."
+    },
+    {
+      "id": 19,
+      "question": "What is a Kimono?",
+      "answer": "Kimono is a traditional Japanese dress worn during cultural events and weddings. It is a long T-shaped dress which covers the complete body and has wide and long sleeves on both sides."
+    },
+    {
+      "id": 20,
+      "question": "Describe Chami Murmu's environmental work.",
+      "answer": "Chami Murmu from Jharkhand mobilised women to plant trees in 500+ villages, formed 'Sahayogi Mahila' organization. She received Indira Priyadarshini Vrikshamitra Puraskar (2019), Nari Shakti Award, and Padma Shri (2024)."
+    },
+    {
+      "id": 21,
+      "question": "Who is Dukhu Majhi and why is he famous?",
+      "answer": "Dukhu Majhi is a 78-year-old environmental activist from Sindri village, West Bengal. Called 'Gachh Dadu' (Tree Grandpa), he plants trees at markets, bus stands, schools, and temples. He received Padma Shri in 2024."
+    },
+    {
+      "id": 22,
+      "question": "What did Anirudh Rao invent?",
+      "answer": "11-year-old Anirudh Rao from Colorado, USA won first place in International Young Eco-Heroes awards. He invented 'Revere', a Tornado Early Warning System - a blend of drones and sensors including infrasound, temperature, and pressure detectors."
+    },
+    {
+      "id": 23,
+      "question": "Describe Licypriya Kangujam's environmental initiatives.",
+      "answer": "Licypriya Kangujam from Manipur is dedicated to combating plastic pollution. In 2022, she initiated the 'Plastic Money Shop' - a mobile, solar-powered shop where people exchange single-use plastic for free rice, school stationery, or plant saplings."
+    },
+    {
+      "id": 24,
+      "question": "What is 'Threads 4 Good'?",
+      "answer": "Threads 4 Good is an initiative by 16-year-old Tejas Pugalia from Maharashtra. It creates school bags from textile waste, addressing environmental sustainability and social inclusion. Over 5,000 bags have been crafted from 8,400 pieces of discarded clothing."
+    },
+    {
+      "id": 25,
+      "question": "Describe Sahithi Radha's work.",
+      "answer": "Sahithi Radha from Hyderabad became UN National Environmental Program Ambassador for India. She created E-CYCL-India for e-waste recycling awareness. Her initiative has recycled 10,000+ kg of e-waste and supported 50 sanitation workers."
+    },
+    {
+      "id": 26,
+      "question": "What are the six main ways of waste disposal?",
+      "answer": "The six main ways are: Preventing/reducing waste generation, Recycling, Incineration (burning waste for energy), Composting, Landfill, and Reuse. Over 75% of waste is recyclable but we only recycle about 30%."
+    },
+    {
+      "id": 27,
+      "question": "What are some interesting recycling facts?",
+      "answer": "Paper recycling has increased 89% since 1990; recycling 100 cans can light a bedroom for 2 weeks; an aluminum can returns to shop floor in 3 weeks; recycled gold from Japan goes to charity; sports brands recycle shoe rubber for tennis courts."
+    },
+    {
+      "id": 28,
+      "question": "Who is Ramveer Tanwar and what does he do?",
+      "answer": "Ramveer Tanwar from Greater Noida quit his MNC job to revive small ponds. He has saved 10 ponds in 5 years and started 'Jal-chaupals' to create water awareness in villages."
+    },
+    {
+      "id": 29,
+      "question": "Describe Shadab Hassan's contribution to education.",
+      "answer": "Shadab Hassan, an MBA graduate from BIT Mesra, established Hamid Hassan High School in Brambe village, 20 km from Ranchi, Jharkhand. With his mother Roshan Ara, they brought 80 kids from nearby villages, providing education with minimal resources."
+    },
+    {
+      "id": 30,
+      "question": "What is Dr. Bharat Saran's contribution?",
+      "answer": "Dr. Bharat Saran provides free medical coaching to poor students in Barmer district, Rajasthan. Inspired by Anand Kumar's Super 30, he established '50 Villagers Seva Sansthan' providing free education to 25 students each from Class 11 and 12."
+    },
+    {
+      "id": 31,
+      "question": "What are some important dental health facts?",
+      "answer": "Adults have 32 teeth; 2/3 of tooth is below gumline; toothbrush should be changed every 2-3 months; mouthwash should be used before brushing; gum disease is linked to heart disease and diabetes; medications are the common cause of dry mouth."
+    },
+    {
+      "id": 32,
+      "question": "Name any five Cabinet Ministers of India with their portfolios.",
+      "answer": "Nirmala Sitharaman - Finance; Amit Shah - Home Affairs; Rajnath Singh - Defence; Dharmendra Pradhan - Education; Nitin Gadkari - Road Transport and Highways."
+    },
+    {
+      "id": 33,
+      "question": "List any five Important Days with their dates.",
+      "answer": "National Youth Day - 12th January (Swami Vivekananda's birthday); World Wildlife Day - 3rd March; World Heritage Day - 18th April; International Yoga Day - 21st June; International Tiger Day - 29th July."
+    },
+    {
+      "id": 34,
+      "question": "What are some current affairs highlights of 2025?",
+      "answer": "Kumbh Festival had 660 million gathering; Shubhanshu Shukla became 2nd Indian astronaut; China created artificial Sun; Lando Norris won F1; India won ICC Women's Cricket World Cup; RCB won IPL 2025."
+    },
+    {
+      "id": 35,
+      "question": "Who is Veer Mehta and what has he achieved?",
+      "answer": "Veer Mehta, 16, from Mumbai created 'Turning the Tide' - a data-driven marine conservation initiative using machine learning for pollution detection. He presented at World Ocean Science Congress 2024 to 4,000 delegates."
+    }
+  ]
+}
