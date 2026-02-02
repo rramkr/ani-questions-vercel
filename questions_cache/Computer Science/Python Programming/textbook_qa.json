@@ -1,0 +1,165 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Write the code to declare and initialize a list of 5 Indian cities and print the number of items in the list.",
+      "answer": "names = [\"Chennai\", \"Bangalore\", \"Kolkata\", \"Delhi\", \"Mumbai\"]\nc = len(names)\nprint(\"No of items in the list\", c)\n\nOutput: No of items in the list 5"
+    },
+    {
+      "id": 2,
+      "question": "Write the code to create a list of 5 colors of your choice and print them one by one in a new line using for loop.",
+      "answer": "colors = [\"red\", \"blue\", \"orange\", \"yellow\", \"green\"]\nfor x in colors:\n    print(x)\n\nOutput:\nred\nblue\norange\nyellow\ngreen"
+    },
+    {
+      "id": 3,
+      "question": "Write the code to create a list of 5 cars of your choice and print the first item from the list using positive index.",
+      "answer": "cars = [\"ferrari\", \"bmw\", \"kia\", \"bens\", \"testla\"]\nprint(cars[0])\n\nOutput: ferrari"
+    },
+    {
+      "id": 4,
+      "question": "Write the code to create a list of 5 sportsmen and print the last item from the list using positive index.",
+      "answer": "sports = [\"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\"]\nprint(sports[4])\n\nOutput: Dhyaan Chand"
+    },
+    {
+      "id": 5,
+      "question": "Write the code to create a list of 5 fruits and print the last item from the list using positive index and len function.",
+      "answer": "fruits = [\"apple\", \"guava\", \"pears\", \"pineapple\", \"watermelon\"]\nprint(fruits[len(fruits)-1])\n\nOutput: watermelon\n\nNote: This method is useful if the list is very large and you don't know the length."
+    },
+    {
+      "id": 6,
+      "question": "Write the code to create a list of 5 sportsmen and print the last item from the list using negative index.",
+      "answer": "sports = [\"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\"]\nprint(sports[-1])\n\nOutput: Dhyaan Chand"
+    },
+    {
+      "id": 7,
+      "question": "Write the code to create a list of 5 sportsmen and print the first item from the list using negative index.",
+      "answer": "sports = [\"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\"]\nprint(sports[-5])\n\nOutput: Virat Kohli"
+    },
+    {
+      "id": 8,
+      "question": "Write the code to create a list of 5 countries and print them one by one using positive index.",
+      "answer": "countries = [\"India\", \"Srilanka\", \"USA\", \"UK\", \"Australia\"]\nprint(countries[0])\nprint(countries[1])\nprint(countries[2])\nprint(countries[3])\nprint(countries[4])\n\nOutput:\nIndia\nSrilanka\nUSA\nUK\nAustralia"
+    },
+    {
+      "id": 9,
+      "question": "Write the code to create a list of 5 countries and print them in reverse one by one using negative index.",
+      "answer": "countries = [\"India\", \"Srilanka\", \"USA\", \"UK\", \"Australia\"]\nprint(countries[-1])\nprint(countries[-2])\nprint(countries[-3])\nprint(countries[-4])\nprint(countries[-5])\n\nOutput:\nAustralia\nUK\nUSA\nSrilanka\nIndia"
+    },
+    {
+      "id": 10,
+      "question": "Write the code to create a list of 5 cartoon characters and print them one by one using positive index using for loop.",
+      "answer": "cartoon = [\"Shinchan\", \"Hattori\", \"Bajrangi\", \"Doraemon\", \"Tom and Jerry\"]\nn = len(cartoon)\nfor x in range(0, n):\n    print(cartoon[x])\n\nOutput:\nShinchan\nHattori\nBajrangi\nDoraemon\nTom and Jerry"
+    },
+    {
+      "id": 11,
+      "question": "Write the code to create a list of 5 even numbers and print the item present in the middle.",
+      "answer": "numbers = [56, 64, 42, 28, 80]\nprint(numbers[2])\n\nOutput: 42"
+    },
+    {
+      "id": 12,
+      "question": "Write a Python program to accept 2 numbers and print which is greater.",
+      "answer": "a = int(input(\"Enter the first number\"))\nb = int(input(\"Enter the second number\"))\nif (a > b):\n    print(a, \"is greater\")\nelse:\n    print(b, \"is greater\")\n\nSample Output:\nEnter the first number 45\nEnter the second number 56\n56 is greater"
+    },
+    {
+      "id": 13,
+      "question": "Write a Python program to accept your age and check whether you can vote or not.",
+      "answer": "age = int(input(\"Enter your age\"))\nif (age >= 18):\n    print(\"You can vote\")\nelse:\n    print(\"You cannot vote\")\n\nSample Output:\nEnter your age 45\nYou can vote"
+    },
+    {
+      "id": 14,
+      "question": "Write a Python program to accept your age and check whether you are a senior citizen or not.",
+      "answer": "age = int(input(\"Enter your age\"))\nif (age >= 60):\n    print(\"You are a senior citizen\")\nelse:\n    print(\"You are not a senior citizen\")\n\nSample Output:\nEnter your age 67\nYou are a senior citizen"
+    },
+    {
+      "id": 15,
+      "question": "Write a Python program to accept your mark and check whether you have passed or failed.",
+      "answer": "mark = int(input(\"Enter your mark\"))\nif (mark >= 40):\n    print(\"You have passed\")\nelse:\n    print(\"You have failed\")\n\nSample Output:\nEnter your mark 56\nYou have passed"
+    },
+    {
+      "id": 16,
+      "question": "Write a Python program to accept a number and display whether it is even or odd.",
+      "answer": "n = int(input(\"Enter a number\"))\nr = n % 2\nif (r == 0):\n    print(n, \"is an even number\")\nelse:\n    print(n, \"is an odd number\")\n\nSample Output:\nEnter a number 45\n45 is an odd number"
+    },
+    {
+      "id": 17,
+      "question": "Write a Python program to accept the three angles of a triangle and check whether they can form the angles of a triangle or not.",
+      "answer": "a = int(input(\"Enter the first angle\"))\nb = int(input(\"Enter the second angle\"))\nc = int(input(\"Enter the third angle\"))\ns = a + b + c\nif (s == 180):\n    print(\"They can form the angles of a triangle\")\nelse:\n    print(\"They cannot form the angles of a triangle\")\n\nSample Output:\nEnter the first angle 60\nEnter the second angle 50\nEnter the third angle 70\nThey can form the angles of a triangle"
+    },
+    {
+      "id": 18,
+      "question": "Write python code to print \"Sishya\" 10 times.",
+      "answer": "for x in range(1, 11):\n    print(\"Sishya\")\n\nOutput: Sishya printed 10 times"
+    },
+    {
+      "id": 19,
+      "question": "Write python code to accept the name of your favourite sportsman and print his name 15 times.",
+      "answer": "hero = input(\"Who is your favourite sportsman\")\nfor i in range(1, 16):\n    print(hero)\n\nSample Output:\nWho is your favourite sportsman MSD\nMSD (printed 15 times)"
+    },
+    {
+      "id": 20,
+      "question": "Write python code to print numbers from 1 to 10.",
+      "answer": "for i in range(1, 11):\n    print(i)\n\nOutput:\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10"
+    },
+    {
+      "id": 21,
+      "question": "Write python code to print numbers from 51 to 100.",
+      "answer": "for k in range(51, 101):\n    print(k)\n\nOutput: 51, 52, 53... 100"
+    },
+    {
+      "id": 22,
+      "question": "Write python code to print numbers 0 2 4 6 8 10.",
+      "answer": "for p in range(0, 11, 2):\n    print(p)\n\nOutput:\n0\n2\n4\n6\n8\n10"
+    },
+    {
+      "id": 23,
+      "question": "Write python code to print numbers 1 3 5 7 9.",
+      "answer": "for p in range(1, 11, 2):\n    print(p)\n\nOutput:\n1\n3\n5\n7\n9"
+    },
+    {
+      "id": 24,
+      "question": "Write python code to print numbers 10 9 8 7 6 ... 1 (countdown).",
+      "answer": "for i in range(10, 0, -1):\n    print(i)\n\nOutput:\n10\n9\n8\n7\n6\n5\n4\n3\n2\n1"
+    },
+    {
+      "id": 25,
+      "question": "Write Python code to print the letters of the string \"INDIA\".",
+      "answer": "country = \"INDIA\"\nfor x in country:\n    print(x)\n\nOutput:\nI\nN\nD\nI\nA"
+    },
+    {
+      "id": 26,
+      "question": "Write Python code to accept your name and print the letters in your name one by one.",
+      "answer": "name = input(\"What is your name\")\nfor t in name:\n    print(t)\n\nSample Output:\nWhat is your name John\nJ\no\nh\nn"
+    },
+    {
+      "id": 27,
+      "question": "Write python code to do a 10-1 countdown with 1 second time delay and print \"Happy birthday\" message.",
+      "answer": "import time\nfor x in range(10, 0, -1):\n    print(x)\n    time.sleep(1)\nprint(\"Happy birthday\")\n\nOutput:\n10\n9\n8\n7\n6\n5\n4\n3\n2\n1\nHappy birthday"
+    },
+    {
+      "id": 28,
+      "question": "Write python code to print \"India\" 5 times with a time delay of 1 second.",
+      "answer": "import time\nfor x in range(1, 6):\n    print(\"India\")\n    time.sleep(1)\n\nOutput:\nIndia\nIndia\nIndia\nIndia\nIndia"
+    },
+    {
+      "id": 29,
+      "question": "Given the list nos = [45, 67, 78, 89, 65], write the Python statement to print the first number using positive index.",
+      "answer": "nos = [45, 67, 78, 89, 65]\nprint(nos[0])\n\nOutput: 45"
+    },
+    {
+      "id": 30,
+      "question": "Given the list nos = [45, 67, 78, 89, 65], write the Python statement to print the last number using negative index.",
+      "answer": "nos = [45, 67, 78, 89, 65]\nprint(nos[-1])\n\nOutput: 65"
+    },
+    {
+      "id": 31,
+      "question": "Given the list nos = [45, 67, 78, 89, 65], write the Python statement to print the middle number using positive index.",
+      "answer": "nos = [45, 67, 78, 89, 65]\nprint(nos[2])\n\nOutput: 78"
+    },
+    {
+      "id": 32,
+      "question": "Given the list nos = [45, 67, 78, 89, 65], write the Python statement to print the numbers one by one using for loop.",
+      "answer": "nos = [45, 67, 78, 89, 65]\nfor num in nos:\n    print(num)\n\nOutput:\n45\n67\n78\n89\n65"
+    }
+  ]
+}

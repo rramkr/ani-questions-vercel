@@ -1,0 +1,80 @@
+{
+  "question_type": "find_error",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Find the error in the following code:\n\ncolors = (\"red\", \"blue\", \"green\")\nprint(colors[0])",
+      "answer": "Error: Lists should be defined using square brackets [], not parentheses ().\nCorrect: colors = [\"red\", \"blue\", \"green\"]"
+    },
+    {
+      "id": 2,
+      "question": "Find the error in the following code:\n\nfruits = [\"apple\" \"banana\" \"cherry\"]\nprint(fruits)",
+      "answer": "Error: List items must be separated by commas.\nCorrect: fruits = [\"apple\", \"banana\", \"cherry\"]"
+    },
+    {
+      "id": 3,
+      "question": "Find the error in the following code:\n\nnumbers = [1, 2, 3, 4, 5]\nprint(numbers[5])",
+      "answer": "Error: Index out of range. A list with 5 elements has indices 0-4.\nCorrect: print(numbers[4]) to access the last element, or print(numbers[-1])"
+    },
+    {
+      "id": 4,
+      "question": "Find the error in the following code:\n\nif (a > b)\n    print(\"a is greater\")",
+      "answer": "Error: Missing colon (:) after the if condition.\nCorrect: if (a > b):\n    print(\"a is greater\")"
+    },
+    {
+      "id": 5,
+      "question": "Find the error in the following code:\n\nif (age >= 18):\nprint(\"You can vote\")",
+      "answer": "Error: Missing indentation for the statement inside the if block.\nCorrect:\nif (age >= 18):\n    print(\"You can vote\")"
+    },
+    {
+      "id": 6,
+      "question": "Find the error in the following code:\n\nfor x in range(1, 10)\n    print(x)",
+      "answer": "Error: Missing colon (:) after the for statement.\nCorrect: for x in range(1, 10):\n    print(x)"
+    },
+    {
+      "id": 7,
+      "question": "Find the error in the following code:\n\nfor x in range(1, 10):\nprint(x)",
+      "answer": "Error: Missing indentation for the print statement inside the for loop.\nCorrect:\nfor x in range(1, 10):\n    print(x)"
+    },
+    {
+      "id": 8,
+      "question": "Find the error in the following code:\n\na = 10\nb = 15\nif (a = b):\n    print(\"Equal\")",
+      "answer": "Error: Using = (assignment) instead of == (comparison) in the condition.\nCorrect: if (a == b):\n    print(\"Equal\")"
+    },
+    {
+      "id": 9,
+      "question": "Find the error in the following code:\n\nfor x in \"word\"\n    print(x)",
+      "answer": "Error: Missing colon (:) after the for statement.\nCorrect: for x in \"word\":\n    print(x)"
+    },
+    {
+      "id": 10,
+      "question": "Find the error in the following code:\n\ntime.sleep(1)\nfor i in range(5, 0, -1):\n    print(i)",
+      "answer": "Error: The time module is not imported.\nCorrect:\nimport time\nfor i in range(5, 0, -1):\n    print(i)\n    time.sleep(1)"
+    },
+    {
+      "id": 11,
+      "question": "Find the error in the following code:\n\nnumbers = [10, 20, 30]\nc = length(numbers)\nprint(c)",
+      "answer": "Error: The function name is len(), not length().\nCorrect: c = len(numbers)"
+    },
+    {
+      "id": 12,
+      "question": "Find the error in the following code:\n\nif (mark >= 40):\n    print(\"Pass\")\nelse\n    print(\"Fail\")",
+      "answer": "Error: Missing colon (:) after else.\nCorrect:\nif (mark >= 40):\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+    },
+    {
+      "id": 13,
+      "question": "Find the error in the following code:\n\nfor i in range(10, 0, 1):\n    print(i)",
+      "answer": "Error: When counting backwards (from 10 to 0), the step should be negative (-1), not positive.\nCorrect: for i in range(10, 0, -1):\n    print(i)"
+    },
+    {
+      "id": 14,
+      "question": "Find the error in the following code:\n\ncolors = [\"red\", \"blue\", \"green\"]\nfor x in colors\n    Print(x)",
+      "answer": "Error: 1) Missing colon after the for statement. 2) Python is case-sensitive; Print should be print.\nCorrect:\nfor x in colors:\n    print(x)"
+    },
+    {
+      "id": 15,
+      "question": "Find the error in the following code:\n\nn = input(\"Enter a number\")\nif (n % 2 == 0):\n    print(\"Even\")",
+      "answer": "Error: input() returns a string, but % operator needs an integer. Convert using int().\nCorrect: n = int(input(\"Enter a number\"))"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A list in Python is defined using square brackets [].",
+      "answer": "True"
+    },
+    {
+      "id": 2,
+      "question": "The first element of a list has index 1.",
+      "answer": "False",
+      "explanation": "The first element has index 0, not 1."
+    },
+    {
+      "id": 3,
+      "question": "The negative index -1 refers to the last element of a list.",
+      "answer": "True"
+    },
+    {
+      "id": 4,
+      "question": "The len() function returns the number of items in a list.",
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "Lists in Python do not allow duplicate values.",
+      "answer": "False",
+      "explanation": "Lists allow duplicate values."
+    },
+    {
+      "id": 6,
+      "question": "Lists in Python are changeable.",
+      "answer": "True"
+    },
+    {
+      "id": 7,
+      "question": "List items are separated using semicolons.",
+      "answer": "False",
+      "explanation": "List items are separated using commas."
+    },
+    {
+      "id": 8,
+      "question": "A condition in Python returns True or False.",
+      "answer": "True"
+    },
+    {
+      "id": 9,
+      "question": "The operator = is used to compare if two values are equal.",
+      "answer": "False",
+      "explanation": "The operator == is used to compare equality. = is the assignment operator."
+    },
+    {
+      "id": 10,
+      "question": "The operator != means 'not equal to'.",
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "In Python, indentation is optional.",
+      "answer": "False",
+      "explanation": "Indentation is mandatory in Python to define code blocks."
+    },
+    {
+      "id": 12,
+      "question": "Indentation is used to define blocks of code in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 13,
+      "question": "If a = 10 and b = 15, then a > b is True.",
+      "answer": "False",
+      "explanation": "10 is not greater than 15, so a > b is False."
+    },
+    {
+      "id": 14,
+      "question": "If a = 10 and b = 15, then a < b is True.",
+      "answer": "True"
+    },
+    {
+      "id": 15,
+      "question": "The for loop can iterate through strings.",
+      "answer": "True"
+    },
+    {
+      "id": 16,
+      "question": "The for loop can iterate through lists.",
+      "answer": "True"
+    },
+    {
+      "id": 17,
+      "question": "In range(10, 20, 1), the number 20 will be printed.",
+      "answer": "False",
+      "explanation": "The stop value is exclusive, so it stops at 19."
+    },
+    {
+      "id": 18,
+      "question": "In range(5), the output starts from 0.",
+      "answer": "True"
+    },
+    {
+      "id": 19,
+      "question": "range(5) produces 0, 1, 2, 3, 4, 5.",
+      "answer": "False",
+      "explanation": "range(5) produces 0, 1, 2, 3, 4 (stops before 5)."
+    },
+    {
+      "id": 20,
+      "question": "To count backwards, we use a negative step value.",
+      "answer": "True"
+    },
+    {
+      "id": 21,
+      "question": "range(10, 0, -1) will print numbers from 10 to 1.",
+      "answer": "True"
+    },
+    {
+      "id": 22,
+      "question": "time.sleep(1) pauses the program for 1 minute.",
+      "answer": "False",
+      "explanation": "time.sleep(1) pauses for 1 second, not 1 minute."
+    },
+    {
+      "id": 23,
+      "question": "To use time.sleep(), we must import the time module.",
+      "answer": "True"
+    },
+    {
+      "id": 24,
+      "question": "The modulus operator % gives the quotient of division.",
+      "answer": "False",
+      "explanation": "The % operator gives the remainder, not the quotient."
+    },
+    {
+      "id": 25,
+      "question": "A number is even if n % 2 == 0.",
+      "answer": "True"
+    },
+    {
+      "id": 26,
+      "question": "The sum of angles in a triangle is 360 degrees.",
+      "answer": "False",
+      "explanation": "The sum of angles in a triangle is 180 degrees."
+    },
+    {
+      "id": 27,
+      "question": "A person can vote in India if their age is 18 or above.",
+      "answer": "True"
+    },
+    {
+      "id": 28,
+      "question": "A person aged 55 is a senior citizen.",
+      "answer": "False",
+      "explanation": "A person is a senior citizen if aged 60 or above."
+    },
+    {
+      "id": 29,
+      "question": "In Python, True and False start with capital letters.",
+      "answer": "True"
+    },
+    {
+      "id": 30,
+      "question": "The colon : is required at the end of if and for statements.",
+      "answer": "True"
+    },
+    {
+      "id": 31,
+      "question": "print(fruits[-5]) will print the first element if the list has 5 elements.",
+      "answer": "True"
+    },
+    {
+      "id": 32,
+      "question": "range(3, 8) produces numbers 3, 4, 5, 6, 7, 8.",
+      "answer": "False",
+      "explanation": "range(3, 8) produces 3, 4, 5, 6, 7 (stops before 8)."
+    },
+    {
+      "id": 33,
+      "question": "In 'for x in \"hello\"', x takes each character of the string one by one.",
+      "answer": "True"
+    },
+    {
+      "id": 34,
+      "question": "range(0, 11, 2) produces all even numbers from 0 to 10.",
+      "answer": "True"
+    },
+    {
+      "id": 35,
+      "question": "range(1, 11, 2) produces all odd numbers from 1 to 9.",
+      "answer": "True"
+    }
+  ]
+}

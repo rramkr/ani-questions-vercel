@@ -1,0 +1,135 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Match the relational operators with their meanings:",
+      "column_a": [">", ">=", "<", "<=", "=="],
+      "column_b": ["Equal to", "Lesser than", "Greater than", "Greater than or equal to", "Lesser than or equal to"],
+      "answer": {
+        ">": "Greater than",
+        ">=": "Greater than or equal to",
+        "<": "Lesser than",
+        "<=": "Lesser than or equal to",
+        "==": "Equal to"
+      }
+    },
+    {
+      "id": 2,
+      "question": "Match the Python concepts with their descriptions:",
+      "column_a": ["len()", "for loop", "if-else", "range()", "list"],
+      "column_b": ["Collection using square brackets", "Make decisions based on conditions", "Find number of items", "Generate sequence of numbers", "Iterate through elements"],
+      "answer": {
+        "len()": "Find number of items",
+        "for loop": "Iterate through elements",
+        "if-else": "Make decisions based on conditions",
+        "range()": "Generate sequence of numbers",
+        "list": "Collection using square brackets"
+      }
+    },
+    {
+      "id": 3,
+      "question": "Match the index with the element for list = [\"A\", \"B\", \"C\", \"D\", \"E\"]:",
+      "column_a": ["Index 0", "Index 2", "Index 4", "Index -1", "Index -3"],
+      "column_b": ["E", "A", "D", "C", "E"],
+      "answer": {
+        "Index 0": "A",
+        "Index 2": "C",
+        "Index 4": "E",
+        "Index -1": "E",
+        "Index -3": "C"
+      }
+    },
+    {
+      "id": 4,
+      "question": "Match the range() function with its output:",
+      "column_a": ["range(5)", "range(1, 6)", "range(0, 10, 2)", "range(5, 0, -1)", "range(3, 8)"],
+      "column_b": ["3, 4, 5, 6, 7", "0, 2, 4, 6, 8", "1, 2, 3, 4, 5", "0, 1, 2, 3, 4", "5, 4, 3, 2, 1"],
+      "answer": {
+        "range(5)": "0, 1, 2, 3, 4",
+        "range(1, 6)": "1, 2, 3, 4, 5",
+        "range(0, 10, 2)": "0, 2, 4, 6, 8",
+        "range(5, 0, -1)": "5, 4, 3, 2, 1",
+        "range(3, 8)": "3, 4, 5, 6, 7"
+      }
+    },
+    {
+      "id": 5,
+      "question": "Match the condition with its result when a = 10, b = 20:",
+      "column_a": ["a > b", "a < b", "a == b", "a != b", "a >= 10"],
+      "column_b": ["True", "False", "True", "True", "False"],
+      "answer": {
+        "a > b": "False",
+        "a < b": "True",
+        "a == b": "False",
+        "a != b": "True",
+        "a >= 10": "True"
+      }
+    },
+    {
+      "id": 6,
+      "question": "Match the term with its definition:",
+      "column_a": ["Indentation", "Boolean", "Iterate", "Modulus", "Condition"],
+      "column_b": ["Remainder of division", "Go through element by element", "True or False", "Whitespace at beginning", "Compares two values"],
+      "answer": {
+        "Indentation": "Whitespace at beginning",
+        "Boolean": "True or False",
+        "Iterate": "Go through element by element",
+        "Modulus": "Remainder of division",
+        "Condition": "Compares two values"
+      }
+    },
+    {
+      "id": 7,
+      "question": "Match the code with its purpose:",
+      "column_a": ["n % 2 == 0", "age >= 18", "mark >= 40", "age >= 60", "s == 180"],
+      "column_b": ["Triangle angle check", "Senior citizen check", "Voting eligibility", "Even number check", "Pass/fail check"],
+      "answer": {
+        "n % 2 == 0": "Even number check",
+        "age >= 18": "Voting eligibility",
+        "mark >= 40": "Pass/fail check",
+        "age >= 60": "Senior citizen check",
+        "s == 180": "Triangle angle check"
+      }
+    },
+    {
+      "id": 8,
+      "question": "Match the list operation with its result for fruits = [\"apple\", \"banana\", \"cherry\"]:",
+      "column_a": ["fruits[0]", "fruits[-1]", "fruits[1]", "len(fruits)", "fruits[-2]"],
+      "column_b": ["cherry", "banana", "apple", "3", "banana"],
+      "answer": {
+        "fruits[0]": "apple",
+        "fruits[-1]": "cherry",
+        "fruits[1]": "banana",
+        "len(fruits)": "3",
+        "fruits[-2]": "banana"
+      }
+    },
+    {
+      "id": 9,
+      "question": "Match the range parameters with their meaning:",
+      "column_a": ["First parameter", "Second parameter", "Third parameter", "Default start", "Exclusive value"],
+      "column_b": ["Stop", "0", "Step", "Start", "Stop"],
+      "answer": {
+        "First parameter": "Start",
+        "Second parameter": "Stop",
+        "Third parameter": "Step",
+        "Default start": "0",
+        "Exclusive value": "Stop"
+      }
+    },
+    {
+      "id": 10,
+      "question": "Match the Python statement with its function:",
+      "column_a": ["import time", "time.sleep(1)", "print()", "input()", "int()"],
+      "column_b": ["Accept user input", "Pause for 1 second", "Display output", "Load time module", "Convert to integer"],
+      "answer": {
+        "import time": "Load time module",
+        "time.sleep(1)": "Pause for 1 second",
+        "print()": "Display output",
+        "input()": "Accept user input",
+        "int()": "Convert to integer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A list is defined using ________ brackets.",
+      "answer": "square"
+    },
+    {
+      "id": 2,
+      "question": "List items are separated using ________ (comma).",
+      "answer": ","
+    },
+    {
+      "id": 3,
+      "question": "The ________ function is used to find the number of items in a list.",
+      "answer": "len()"
+    },
+    {
+      "id": 4,
+      "question": "The first item on a list has a positive index of ________.",
+      "answer": "0"
+    },
+    {
+      "id": 5,
+      "question": "The last item on a list has a negative index of ________.",
+      "answer": "-1"
+    },
+    {
+      "id": 6,
+      "question": "Negative index allows us to access the list from the ________.",
+      "answer": "last"
+    },
+    {
+      "id": 7,
+      "question": "A condition in Python always returns a ________ result.",
+      "answer": "Boolean"
+    },
+    {
+      "id": 8,
+      "question": "The two Boolean values in Python are ________ and ________.",
+      "answer": "True and False"
+    },
+    {
+      "id": 9,
+      "question": "The relational operator > means ________.",
+      "answer": "greater than"
+    },
+    {
+      "id": 10,
+      "question": "The relational operator >= means ________.",
+      "answer": "greater than or equal to"
+    },
+    {
+      "id": 11,
+      "question": "The relational operator < means ________.",
+      "answer": "lesser than"
+    },
+    {
+      "id": 12,
+      "question": "The relational operator <= means ________.",
+      "answer": "lesser than or equal to"
+    },
+    {
+      "id": 13,
+      "question": "The relational operator == means ________.",
+      "answer": "equal to"
+    },
+    {
+      "id": 14,
+      "question": "The relational operator != means ________.",
+      "answer": "not equal to"
+    },
+    {
+      "id": 15,
+      "question": "In Python, ________ is used to define blocks of code.",
+      "answer": "indentation"
+    },
+    {
+      "id": 16,
+      "question": "To indent code, we insert a ________ or tab key at the beginning of each line.",
+      "answer": "whitespace"
+    },
+    {
+      "id": 17,
+      "question": "Conditional statements are used to make ________ in Python.",
+      "answer": "decisions"
+    },
+    {
+      "id": 18,
+      "question": "The for loop can be used to ________ through sequences.",
+      "answer": "iterate"
+    },
+    {
+      "id": 19,
+      "question": "Iterate means to go through ________ by element.",
+      "answer": "element"
+    },
+    {
+      "id": 20,
+      "question": "The range function has three parameters: ________, stop and step.",
+      "answer": "start"
+    },
+    {
+      "id": 21,
+      "question": "In range function, the start value is ________ (included).",
+      "answer": "inclusive"
+    },
+    {
+      "id": 22,
+      "question": "In range function, the stop value is ________ (not included).",
+      "answer": "exclusive"
+    },
+    {
+      "id": 23,
+      "question": "If range has only one argument, it represents the ________ value.",
+      "answer": "stop"
+    },
+    {
+      "id": 24,
+      "question": "If range has only one argument, the start value is by default ________.",
+      "answer": "0"
+    },
+    {
+      "id": 25,
+      "question": "To count backwards, we use a ________ step value.",
+      "answer": "negative"
+    },
+    {
+      "id": 26,
+      "question": "The time.sleep(1) function adds a delay of ________ second.",
+      "answer": "1"
+    },
+    {
+      "id": 27,
+      "question": "To use time.sleep(), we must first ________ the time module.",
+      "answer": "import"
+    },
+    {
+      "id": 28,
+      "question": "The % operator in Python gives the ________ of division.",
+      "answer": "remainder"
+    },
+    {
+      "id": 29,
+      "question": "If n % 2 == 0, then n is an ________ number.",
+      "answer": "even"
+    },
+    {
+      "id": 30,
+      "question": "If n % 2 != 0, then n is an ________ number.",
+      "answer": "odd"
+    },
+    {
+      "id": 31,
+      "question": "To print the range (10, 0, -1): for x in range(10, ________, -1)",
+      "answer": "0"
+    },
+    {
+      "id": 32,
+      "question": "To print 3 6 9...30: for x in range(3, ________, 3)",
+      "answer": "31"
+    },
+    {
+      "id": 33,
+      "question": "To print 5 10 15...100: for x in range(5, ________, 5)",
+      "answer": "101"
+    },
+    {
+      "id": 34,
+      "question": "To print 2 4 6 8 10: for x in range(2, ________, 2)",
+      "answer": "11"
+    },
+    {
+      "id": 35,
+      "question": "To print 10 8 6 4 2 0: for x in range(10, ________, -2)",
+      "answer": "-1"
+    },
+    {
+      "id": 36,
+      "question": "In list subjects = [\"English\", \"Tamil\", \"Maths\"], the item at index 0 is ________.",
+      "answer": "English"
+    },
+    {
+      "id": 37,
+      "question": "In list fruits[len(fruits)-1], this expression gives the ________ element.",
+      "answer": "last"
+    },
+    {
+      "id": 38,
+      "question": "A list can be ordered, unordered, changeable and allows ________ members.",
+      "answer": "duplicate"
+    },
+    {
+      "id": 39,
+      "question": "The minimum age to vote in India is ________ years.",
+      "answer": "18"
+    },
+    {
+      "id": 40,
+      "question": "A person aged ________ or above is considered a senior citizen.",
+      "answer": "60"
+    }
+  ]
+}

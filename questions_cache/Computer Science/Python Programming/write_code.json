@@ -1,0 +1,105 @@
+{
+  "question_type": "write_code",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Fill in the range() parameters to print the series: 10 9 8 7 6 5 4 3 2 1\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(10, 0, -1):\n    print(x)"
+    },
+    {
+      "id": 2,
+      "question": "Fill in the range() parameters to print the series: 10 8 6 4 2 0\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(10, -1, -2):\n    print(x)"
+    },
+    {
+      "id": 3,
+      "question": "Fill in the range() parameters to print the series: 3 6 9 12 15 18 21 24 27 30\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(3, 31, 3):\n    print(x)"
+    },
+    {
+      "id": 4,
+      "question": "Fill in the range() parameters to print the series: 5 10 15 20 ... 100\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(5, 101, 5):\n    print(x)"
+    },
+    {
+      "id": 5,
+      "question": "Fill in the range() parameters to print the series: 2 4 6 8 10\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(2, 11, 2):\n    print(x)"
+    },
+    {
+      "id": 6,
+      "question": "Write Python code to create a list of 5 subjects and print all items using a for loop.",
+      "answer": "subjects = [\"English\", \"Tamil\", \"Maths\", \"Science\", \"Social\"]\nfor x in subjects:\n    print(x)"
+    },
+    {
+      "id": 7,
+      "question": "Write Python code to create a list of 5 numbers and print the first item using positive index.",
+      "answer": "numbers = [10, 20, 30, 40, 50]\nprint(numbers[0])"
+    },
+    {
+      "id": 8,
+      "question": "Write Python code to create a list of 5 fruits and print the last item using negative index.",
+      "answer": "fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\"]\nprint(fruits[-1])"
+    },
+    {
+      "id": 9,
+      "question": "Write Python code to print numbers from 1 to 20.",
+      "answer": "for i in range(1, 21):\n    print(i)"
+    },
+    {
+      "id": 10,
+      "question": "Write Python code to print odd numbers from 1 to 15.",
+      "answer": "for i in range(1, 16, 2):\n    print(i)"
+    },
+    {
+      "id": 11,
+      "question": "Write Python code to check if a number is positive or negative.",
+      "answer": "n = int(input(\"Enter a number\"))\nif (n >= 0):\n    print(\"Positive\")\nelse:\n    print(\"Negative\")"
+    },
+    {
+      "id": 12,
+      "question": "Write Python code to check if a number is divisible by 5.",
+      "answer": "n = int(input(\"Enter a number\"))\nif (n % 5 == 0):\n    print(\"Divisible by 5\")\nelse:\n    print(\"Not divisible by 5\")"
+    },
+    {
+      "id": 13,
+      "question": "Write Python code to print \"Hello\" 5 times using a for loop.",
+      "answer": "for i in range(1, 6):\n    print(\"Hello\")"
+    },
+    {
+      "id": 14,
+      "question": "Write Python code to print the letters of the word \"PYTHON\" one by one.",
+      "answer": "word = \"PYTHON\"\nfor x in word:\n    print(x)"
+    },
+    {
+      "id": 15,
+      "question": "Write Python code to print multiples of 7 from 7 to 70.",
+      "answer": "for i in range(7, 71, 7):\n    print(i)"
+    },
+    {
+      "id": 16,
+      "question": "Write Python code to create a list and find its length.",
+      "answer": "colors = [\"red\", \"green\", \"blue\", \"yellow\", \"orange\"]\nc = len(colors)\nprint(\"Number of items:\", c)"
+    },
+    {
+      "id": 17,
+      "question": "Write Python code to print countdown from 5 to 1.",
+      "answer": "for i in range(5, 0, -1):\n    print(i)"
+    },
+    {
+      "id": 18,
+      "question": "Write Python code to check if a student has passed (marks >= 35).",
+      "answer": "marks = int(input(\"Enter marks\"))\nif (marks >= 35):\n    print(\"Passed\")\nelse:\n    print(\"Failed\")"
+    },
+    {
+      "id": 19,
+      "question": "Write Python code to print even numbers from 2 to 20.",
+      "answer": "for i in range(2, 21, 2):\n    print(i)"
+    },
+    {
+      "id": 20,
+      "question": "Write Python code to access the middle element of a list with 5 items.",
+      "answer": "items = [10, 20, 30, 40, 50]\nprint(items[2])"
+    }
+  ]
+}
