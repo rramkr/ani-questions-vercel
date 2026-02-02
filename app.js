@@ -1646,6 +1646,11 @@ async function loadWrongQuestions(questionType) {
     state.hasMore = false; // No more for wrong questions
     state.allQuestions = processedQuestions;
 
+    // Enable one-by-one mode for wrong questions review so users can see answers
+    state.oneByOneMode = true;
+    state.currentQuestionIndex = 0;
+    state.currentAnswerRevealed = false;
+
     renderQuiz();
     showView('quiz');
     showLoading(false);
