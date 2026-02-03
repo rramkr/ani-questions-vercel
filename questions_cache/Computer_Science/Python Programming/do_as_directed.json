@@ -1,0 +1,155 @@
+{
+  "question_type": "do_as_directed",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Given: numbers = [10, 20, 30, 40, 50]\nWrite the statement to print the first element using positive index.",
+      "answer": "print(numbers[0])\nOutput: 10"
+    },
+    {
+      "id": 2,
+      "question": "Given: numbers = [10, 20, 30, 40, 50]\nWrite the statement to print the last element using negative index.",
+      "answer": "print(numbers[-1])\nOutput: 50"
+    },
+    {
+      "id": 3,
+      "question": "Given: fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\"]\nWrite the statement to find and print the number of items in the list.",
+      "answer": "print(len(fruits))\nOutput: 5"
+    },
+    {
+      "id": 4,
+      "question": "Correct the following code:\nfor i in range(5)\n    print(i)",
+      "answer": "for i in range(5):\n    print(i)\n\nCorrection: Added colon (:) after range(5)"
+    },
+    {
+      "id": 5,
+      "question": "Correct the following code:\nif (a > b)\nprint(\"a is greater\")",
+      "answer": "if (a > b):\n    print(\"a is greater\")\n\nCorrection: Added colon after condition and indented the print statement"
+    },
+    {
+      "id": 6,
+      "question": "Convert the following to print numbers from 10 to 1:\nfor i in range(1, 11):\n    print(i)",
+      "answer": "for i in range(10, 0, -1):\n    print(i)\n\nChanged range to start from 10, stop at 0, with step -1"
+    },
+    {
+      "id": 7,
+      "question": "Rewrite using negative index:\ncolors = [\"red\", \"blue\", \"green\"]\nprint(colors[2])",
+      "answer": "colors = [\"red\", \"blue\", \"green\"]\nprint(colors[-1])\n\nBoth print \"green\" (the last element)"
+    },
+    {
+      "id": 8,
+      "question": "Fill in the blanks to print even numbers from 2 to 20:\nfor i in range(___, ___, ___):\n    print(i)",
+      "answer": "for i in range(2, 21, 2):\n    print(i)\n\nStart: 2, Stop: 21 (exclusive), Step: 2"
+    },
+    {
+      "id": 9,
+      "question": "Fill in the blanks to print odd numbers from 1 to 19:\nfor i in range(___, ___, ___):\n    print(i)",
+      "answer": "for i in range(1, 20, 2):\n    print(i)\n\nStart: 1, Stop: 20 (exclusive), Step: 2"
+    },
+    {
+      "id": 10,
+      "question": "Correct the error:\ncolors = (\"red\", \"blue\", \"green\")\nprint(colors[0])",
+      "answer": "colors = [\"red\", \"blue\", \"green\"]\nprint(colors[0])\n\nCorrection: Use square brackets [] for lists, not parentheses ()"
+    },
+    {
+      "id": 11,
+      "question": "Complete the code to check if a number is even:\nn = int(input(\"Enter a number\"))\nif (_____):\n    print(\"Even\")\nelse:\n    print(\"Odd\")",
+      "answer": "n = int(input(\"Enter a number\"))\nif (n % 2 == 0):\n    print(\"Even\")\nelse:\n    print(\"Odd\")"
+    },
+    {
+      "id": 12,
+      "question": "Complete the code to check voting eligibility:\nage = int(input(\"Enter your age\"))\nif (_____):\n    print(\"Can vote\")\nelse:\n    print(\"Cannot vote\")",
+      "answer": "age = int(input(\"Enter your age\"))\nif (age >= 18):\n    print(\"Can vote\")\nelse:\n    print(\"Cannot vote\")"
+    },
+    {
+      "id": 13,
+      "question": "Given: word = \"PYTHON\"\nWrite code to print each letter on a new line using a for loop.",
+      "answer": "word = \"PYTHON\"\nfor letter in word:\n    print(letter)\n\nOutput:\nP\nY\nT\nH\nO\nN"
+    },
+    {
+      "id": 14,
+      "question": "Rewrite using len() to access the last element:\nfruits = [\"apple\", \"banana\", \"cherry\"]\nprint(fruits[2])",
+      "answer": "fruits = [\"apple\", \"banana\", \"cherry\"]\nprint(fruits[len(fruits)-1])\n\nBoth print \"cherry\""
+    },
+    {
+      "id": 15,
+      "question": "Add the missing import statement:\nfor i in range(3, 0, -1):\n    print(i)\n    time.sleep(1)\nprint(\"Go!\")",
+      "answer": "import time\nfor i in range(3, 0, -1):\n    print(i)\n    time.sleep(1)\nprint(\"Go!\")"
+    },
+    {
+      "id": 16,
+      "question": "Correct the comparison operator:\na = 10\nb = 10\nif (a = b):\n    print(\"Equal\")",
+      "answer": "a = 10\nb = 10\nif (a == b):\n    print(\"Equal\")\n\nCorrection: Use == for comparison, not = (assignment)"
+    },
+    {
+      "id": 17,
+      "question": "Convert to print multiples of 5 from 5 to 50:\nfor i in range(1, 11):\n    print(i)",
+      "answer": "for i in range(5, 51, 5):\n    print(i)\n\nOutput: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50"
+    },
+    {
+      "id": 18,
+      "question": "Fix the indentation error:\nfor x in range(5):\nprint(x)",
+      "answer": "for x in range(5):\n    print(x)\n\nCorrection: Added indentation before print(x)"
+    },
+    {
+      "id": 19,
+      "question": "Rewrite using for loop to print all items:\ncolors = [\"red\", \"blue\", \"green\"]\nprint(colors[0])\nprint(colors[1])\nprint(colors[2])",
+      "answer": "colors = [\"red\", \"blue\", \"green\"]\nfor color in colors:\n    print(color)"
+    },
+    {
+      "id": 20,
+      "question": "Complete the pass/fail check:\nmark = int(input(\"Enter marks\"))\nif (_____):\n    print(\"Pass\")\nelse:\n    print(\"Fail\")",
+      "answer": "mark = int(input(\"Enter marks\"))\nif (mark >= 40):\n    print(\"Pass\")\nelse:\n    print(\"Fail\")"
+    },
+    {
+      "id": 21,
+      "question": "Given: nums = [5, 10, 15, 20, 25]\nWrite code to print the middle element.",
+      "answer": "nums = [5, 10, 15, 20, 25]\nprint(nums[2])\n\nOutput: 15"
+    },
+    {
+      "id": 22,
+      "question": "Fix the list syntax:\nfruits = [\"apple\" \"banana\" \"cherry\"]\nprint(fruits)",
+      "answer": "fruits = [\"apple\", \"banana\", \"cherry\"]\nprint(fruits)\n\nCorrection: Add commas between list items"
+    },
+    {
+      "id": 23,
+      "question": "Complete the senior citizen check:\nage = int(input(\"Enter age\"))\nif (_____):\n    print(\"Senior citizen\")\nelse:\n    print(\"Not a senior citizen\")",
+      "answer": "age = int(input(\"Enter age\"))\nif (age >= 60):\n    print(\"Senior citizen\")\nelse:\n    print(\"Not a senior citizen\")"
+    },
+    {
+      "id": 24,
+      "question": "Add colon where needed:\nif (x > 10)\n    print(\"Greater\")\nelse\n    print(\"Smaller\")",
+      "answer": "if (x > 10):\n    print(\"Greater\")\nelse:\n    print(\"Smaller\")\n\nCorrection: Added colon after if condition and after else"
+    },
+    {
+      "id": 25,
+      "question": "Write the range() to produce: 100, 90, 80, 70, 60, 50, 40, 30, 20, 10",
+      "answer": "range(100, 0, -10)\n\nStart: 100, Stop: 0 (exclusive), Step: -10"
+    },
+    {
+      "id": 26,
+      "question": "Fix the function name:\nnumbers = [1, 2, 3, 4, 5]\ncount = length(numbers)\nprint(count)",
+      "answer": "numbers = [1, 2, 3, 4, 5]\ncount = len(numbers)\nprint(count)\n\nCorrection: Use len() not length()"
+    },
+    {
+      "id": 27,
+      "question": "Convert input to integer:\nn = input(\"Enter a number\")\nif (n % 2 == 0):\n    print(\"Even\")",
+      "answer": "n = int(input(\"Enter a number\"))\nif (n % 2 == 0):\n    print(\"Even\")\n\nCorrection: Wrap input() with int() to convert string to integer"
+    },
+    {
+      "id": 28,
+      "question": "Write range() to produce: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30",
+      "answer": "range(3, 31, 3)\n\nStart: 3, Stop: 31 (exclusive), Step: 3"
+    },
+    {
+      "id": 29,
+      "question": "Fix the case sensitivity error:\nfor i in Range(5):\n    Print(i)",
+      "answer": "for i in range(5):\n    print(i)\n\nCorrection: Python is case-sensitive. Use range() and print() (lowercase)"
+    },
+    {
+      "id": 30,
+      "question": "Given: letters = [\"A\", \"B\", \"C\", \"D\", \"E\"]\nWrite code to print them in reverse order using negative indices.",
+      "answer": "letters = [\"A\", \"B\", \"C\", \"D\", \"E\"]\nprint(letters[-1])  # E\nprint(letters[-2])  # D\nprint(letters[-3])  # C\nprint(letters[-4])  # B\nprint(letters[-5])  # A\n\nOr using loop:\nfor i in range(-1, -6, -1):\n    print(letters[i])"
+    }
+  ]
+}

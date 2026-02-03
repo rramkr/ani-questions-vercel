@@ -1,0 +1,105 @@
+{
+  "question_type": "define",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Define: List in Python",
+      "answer": "A list is a collection of data that can be ordered, unordered, changeable and allows duplicate members. It is defined using square brackets [] and items are separated using commas."
+    },
+    {
+      "id": 2,
+      "question": "Define: Indentation",
+      "answer": "Indentation is the whitespace (spaces or tabs) at the beginning of a line of code. In Python, indentation is used to define blocks of code and tells the interpreter which statements belong together."
+    },
+    {
+      "id": 3,
+      "question": "Define: Iteration",
+      "answer": "Iteration means to go through element by element. In Python, the for loop is used to iterate through sequences such as strings and lists."
+    },
+    {
+      "id": 4,
+      "question": "Define: Condition",
+      "answer": "A condition in Python compares two pieces of information using relational operators and always returns a Boolean result (True or False). Conditions are used inside if-else statements to make decisions."
+    },
+    {
+      "id": 5,
+      "question": "Define: Boolean",
+      "answer": "Boolean is a data type that can have only two values: True or False. It is the result of comparisons and conditions in Python."
+    },
+    {
+      "id": 6,
+      "question": "Define: Relational Operators",
+      "answer": "Relational operators are symbols used to compare two values. The six relational operators in Python are: > (greater than), >= (greater than or equal to), < (lesser than), <= (lesser than or equal to), == (equal to), and != (not equal to)."
+    },
+    {
+      "id": 7,
+      "question": "Define: for loop",
+      "answer": "A for loop is a control structure used to iterate through a sequence (like a list, string, or range). It executes a block of code for each item in the sequence."
+    },
+    {
+      "id": 8,
+      "question": "Define: range() function",
+      "answer": "The range() function is used to generate a sequence of numbers. It has three parameters: start (inclusive), stop (exclusive), and step. It is commonly used with for loops to repeat code a fixed number of times."
+    },
+    {
+      "id": 9,
+      "question": "Define: if-else statement",
+      "answer": "An if-else statement is a conditional statement used to make decisions in Python. If the condition is True, the if block executes; otherwise, the else block executes."
+    },
+    {
+      "id": 10,
+      "question": "Define: Modulus operator (%)",
+      "answer": "The modulus operator (%) returns the remainder of a division. For example, 10 % 3 gives 1. It is commonly used to check if a number is even (n % 2 == 0) or odd."
+    },
+    {
+      "id": 11,
+      "question": "Define: Index in a list",
+      "answer": "An index is the position number of an element in a list. Positive index starts from 0 for the first element. Negative index starts from -1 for the last element."
+    },
+    {
+      "id": 12,
+      "question": "Define: len() function",
+      "answer": "The len() function returns the number of items (length) in an object such as a list or string. For example, len([1, 2, 3]) returns 3."
+    },
+    {
+      "id": 13,
+      "question": "Define: input() function",
+      "answer": "The input() function is used to accept data from the user through the keyboard. It always returns the input as a string, so int() or float() may be needed to convert it to a number."
+    },
+    {
+      "id": 14,
+      "question": "Define: print() function",
+      "answer": "The print() function is used to display output on the screen. It can print strings, numbers, variables, and expressions."
+    },
+    {
+      "id": 15,
+      "question": "Define: time.sleep() function",
+      "answer": "The time.sleep() function pauses the execution of a program for a specified number of seconds. To use it, the time module must be imported first using 'import time'."
+    },
+    {
+      "id": 16,
+      "question": "Define: Positive Index",
+      "answer": "Positive index numbers start from 0 for the first item in the list. The first item has position 0, second item has position 1, and so on."
+    },
+    {
+      "id": 17,
+      "question": "Define: Negative Index",
+      "answer": "Negative index numbers start with -1 for the last element. They allow us to access the list from the end. -1 refers to the last item, -2 refers to the second last item, and so on."
+    },
+    {
+      "id": 18,
+      "question": "Define: Assignment Operator (=)",
+      "answer": "The assignment operator (=) is used to store a value in a variable. For example, a = 10 assigns the value 10 to the variable a."
+    },
+    {
+      "id": 19,
+      "question": "Define: Comparison Operator (==)",
+      "answer": "The comparison operator (==) is used to check if two values are equal. It returns True if they are equal and False if they are not. For example, 5 == 5 returns True."
+    },
+    {
+      "id": 20,
+      "question": "Define: Floor Division (//)",
+      "answer": "Floor division (//) divides two numbers and returns the integer part of the result, discarding the decimal. For example, 15 // 4 returns 3."
+    }
+  ]
+}

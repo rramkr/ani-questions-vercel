@@ -1,0 +1,155 @@
+{
+  "question_type": "do_as_directed",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Classify the following as Advantage or Disadvantage of Internet:\na) E-commerce\nb) Spam\nc) Education\nd) Malware",
+      "answer": "Advantages: a) E-commerce, c) Education\nDisadvantages: b) Spam, d) Malware"
+    },
+    {
+      "id": 2,
+      "question": "Identify the type of unethical practice:\nA person receives an email claiming to be from a bank asking for password and credit card details.",
+      "answer": "Phishing - This is a fraudulent attempt to steal sensitive information through fake emails pretending to be from legitimate organizations."
+    },
+    {
+      "id": 3,
+      "question": "Identify the type of unethical practice:\nA student copies an article from Wikipedia and submits it as their own work without mentioning the source.",
+      "answer": "Plagiarism - Using others' work without giving credit or acknowledgment."
+    },
+    {
+      "id": 4,
+      "question": "Classify the following as Web Browser or Search Engine:\na) Google Chrome\nb) Google\nc) Mozilla Firefox\nd) Bing\ne) Safari",
+      "answer": "Web Browsers: a) Google Chrome, c) Mozilla Firefox, e) Safari\nSearch Engines: b) Google, d) Bing"
+    },
+    {
+      "id": 5,
+      "question": "Identify the type of malware:\nA program that records all keystrokes typed by the user including passwords.",
+      "answer": "Keylogger - A surveillance program that captures keystrokes to steal sensitive information."
+    },
+    {
+      "id": 6,
+      "question": "Identify the type of malware:\nA program that shows unwanted advertisements and pop-ups while browsing.",
+      "answer": "Adware - Software that displays advertisements and allows pop-ups in the browser."
+    },
+    {
+      "id": 7,
+      "question": "Identify the type of malware:\nA program that secretly monitors your online activity and steals passwords.",
+      "answer": "Spyware - Software that surveys Internet behavior and copies sensitive data."
+    },
+    {
+      "id": 8,
+      "question": "Classify the following as Copyright, Trademark, or Patent:\na) A company logo\nb) A new invention\nc) A book written by an author\nd) A brand name",
+      "answer": "Copyright: c) A book written by an author\nTrademark: a) A company logo, d) A brand name\nPatent: b) A new invention"
+    },
+    {
+      "id": 9,
+      "question": "Identify the cybercrime:\nUsing the Internet to threaten, harass, and embarrass a classmate.",
+      "answer": "Cyberbullying - Using electronic media to threaten or harass another person."
+    },
+    {
+      "id": 10,
+      "question": "Identify the type of spamming:\nSending the same email 1000 times to one email address to overflow the inbox.",
+      "answer": "E-mail bombing - Repeatedly sending the same email to a particular address."
+    },
+    {
+      "id": 11,
+      "question": "Identify the type of spamming:\nSending millions of requests to a website causing it to crash.",
+      "answer": "Flooding - Sending requests to a resource many times more than it can handle."
+    },
+    {
+      "id": 12,
+      "question": "Correct the unsafe online behavior:\nRaj shares his password with his best friend because he trusts him.",
+      "answer": "Never share passwords with anyone, not even friends. Passwords should be kept confidential. If needed, change the password after sharing."
+    },
+    {
+      "id": 13,
+      "question": "Correct the unsafe online behavior:\nPriya clicks on a link in an email that promises a free iPhone if she enters her bank details.",
+      "answer": "Never click on suspicious links or provide bank details in response to emails promising prizes. This is a phishing attempt. Delete such emails immediately."
+    },
+    {
+      "id": 14,
+      "question": "Correct the unsafe online behavior:\nArun uses '123456' as his password for all his accounts.",
+      "answer": "Use strong passwords with 8-10 characters including uppercase, lowercase, numbers, and special characters. Use different passwords for different accounts. Never use easily guessable passwords."
+    },
+    {
+      "id": 15,
+      "question": "Identify the hacker type:\nA security expert hired by a company to find weaknesses in their system.",
+      "answer": "White hat hacker - An ethical hacker who breaks into systems with permission to find and fix security flaws."
+    },
+    {
+      "id": 16,
+      "question": "Identify the hacker type:\nA person who illegally accesses a bank's computer to steal money.",
+      "answer": "Cracker (Black hat hacker) - A person who gains unauthorized access to steal or destroy data."
+    },
+    {
+      "id": 17,
+      "question": "State three steps to deal with cyberbullying.",
+      "answer": "1. STOP - Stop and calm down. Don't react or respond immediately.\n2. BLOCK - Block the person doing the bullying.\n3. TELL - Tell a trusted adult like parents or teachers about the bullying."
+    },
+    {
+      "id": 18,
+      "question": "Classify as Social Media or Video Conferencing:\na) Facebook\nb) Skype\nc) Instagram\nd) Zoom\ne) WhatsApp\nf) Google Meet",
+      "answer": "Social Media: a) Facebook, c) Instagram, e) WhatsApp\nVideo Conferencing: b) Skype, d) Zoom, f) Google Meet"
+    },
+    {
+      "id": 19,
+      "question": "Identify what is being described:\nA small piece of data stored on your computer that tracks your online activity for marketing purposes.",
+      "answer": "Cookie - Websites use cookies to collect information about user behavior for marketing purposes."
+    },
+    {
+      "id": 20,
+      "question": "Identify what is being described:\nThe trail of data you leave behind when using the Internet.",
+      "answer": "Digital Footprint - Information about a user that exists on the Internet from their online activity."
+    },
+    {
+      "id": 21,
+      "question": "What safety precautions should be taken based on this scenario:\nYou receive a call from someone claiming to be from your bank asking for your ATM PIN.",
+      "answer": "1. Never share PIN, password, or OTP over phone calls\n2. Banks never ask for such details over phone\n3. This is Vishing (voice phishing)\n4. Hang up and report to the bank directly"
+    },
+    {
+      "id": 22,
+      "question": "Identify the intellectual property right being violated:\nA person downloads a movie from an illegal website without paying.",
+      "answer": "Copyright violation / Piracy - Downloading copyrighted content without authorization is illegal."
+    },
+    {
+      "id": 23,
+      "question": "Identify the intellectual property right being violated:\nA company uses another company's logo on their products.",
+      "answer": "Trademark violation - Using another company's logo or brand identity without permission."
+    },
+    {
+      "id": 24,
+      "question": "Arrange the following steps of dealing with cyberbullying in correct order:\na) Block the bully\nb) Tell a trusted adult\nc) Stop and calm down",
+      "answer": "Correct order:\n1. c) Stop and calm down\n2. a) Block the bully\n3. b) Tell a trusted adult"
+    },
+    {
+      "id": 25,
+      "question": "Identify the type of cybercrime:\nSelling illegal drugs and weapons through secret websites on the Internet.",
+      "answer": "Cyber trafficking - Using the Internet to deal in drugs, weapons, and other illegal items."
+    },
+    {
+      "id": 26,
+      "question": "What law protects children in this scenario:\nA website wants to collect personal information from a 10-year-old child.",
+      "answer": "COPPA (Children's Online Privacy Protection Act) - The website must get verification from the child's parent or guardian before collecting any data."
+    },
+    {
+      "id": 27,
+      "question": "Identify the type of fraud:\nA user clicks on what appears to be a play button but it actually downloads malware.",
+      "answer": "Clickjacking - A technique where users are tricked into clicking something different from what they perceive."
+    },
+    {
+      "id": 28,
+      "question": "State two ways to identify if a website is secure.",
+      "answer": "1. The URL should start with https:// (not just http://)\n2. Look for a closed lock icon in the address bar"
+    },
+    {
+      "id": 29,
+      "question": "Classify as Ethical or Unethical behavior:\na) Citing sources in a project\nb) Copying software without license\nc) Using strong passwords\nd) Sharing others' personal photos without permission",
+      "answer": "Ethical: a) Citing sources, c) Using strong passwords\nUnethical: b) Copying software without license, d) Sharing photos without permission"
+    },
+    {
+      "id": 30,
+      "question": "What should you do in this situation:\nAn online friend you've never met wants to meet you in person.",
+      "answer": "1. Never meet online friends alone\n2. Tell your parents about the request\n3. If meeting is necessary, take parents along\n4. Meet only in public places\n5. Be cautious as online identities can be fake"
+    }
+  ]
+}

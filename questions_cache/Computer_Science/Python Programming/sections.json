@@ -6,13 +6,16 @@
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
     ],
     "exam": [
-      {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},
-      {"value": "fill_in_blanks", "label": "Fill in the Blanks", "icon": "✏️"},
-      {"value": "true_false", "label": "True or False", "icon": "✓✗"},
-      {"value": "short_answer", "label": "Short Answer", "icon": "📝"},
-      {"value": "predict_output", "label": "Predict the Output", "icon": "🖥️"},
-      {"value": "write_code", "label": "Write Python Code", "icon": "💻"},
-      {"value": "match_the_following", "label": "Match the Following", "icon": "🔗"}
+      {"value": "mcq", "label": "Multiple Choice (I)", "icon": "🔘"},
+      {"value": "match_the_following", "label": "Match the Following (II)", "icon": "🔗"},
+      {"value": "true_false", "label": "True or False (IV)", "icon": "✓✗"},
+      {"value": "fill_in_blanks", "label": "Fill in the Blanks (V)", "icon": "✏️"},
+      {"value": "one_word", "label": "One Word Answer (VI)", "icon": "1️⃣"},
+      {"value": "define", "label": "Define the Following (VII)", "icon": "📚"},
+      {"value": "do_as_directed", "label": "Do as Directed (VIII & IX)", "icon": "📋"},
+      {"value": "predict_output", "label": "Predict the Output (X)", "icon": "🖥️"},
+      {"value": "short_answer", "label": "Short Answer (XI)", "icon": "📝"},
+      {"value": "write_code", "label": "Write Python Code (XII)", "icon": "💻"}
     ],
     "miscellaneous": [
       {"value": "find_error", "label": "Find the Error", "icon": "🔍"}

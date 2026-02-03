@@ -1,0 +1,155 @@
+{
+  "question_type": "one_word",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the name for a set of acceptable behaviors for using a computer and the Internet?",
+      "answer": "Computer Ethics"
+    },
+    {
+      "id": 2,
+      "question": "What is using others' ideas or work without giving them credit called?",
+      "answer": "Plagiarism"
+    },
+    {
+      "id": 3,
+      "question": "What is the technique of acknowledging the source of information to avoid plagiarism?",
+      "answer": "Citation"
+    },
+    {
+      "id": 4,
+      "question": "What is threatening or harassing a person using the Internet called?",
+      "answer": "Cyberbullying"
+    },
+    {
+      "id": 5,
+      "question": "What is the name for a person who gains unauthorized access to computer systems?",
+      "answer": "Hacker/Cracker"
+    },
+    {
+      "id": 6,
+      "question": "What type of hacker breaks into systems to fix flaws and improve security?",
+      "answer": "White hat hacker"
+    },
+    {
+      "id": 7,
+      "question": "What is the Internet fraud technique that steals sensitive information using fake emails called?",
+      "answer": "Phishing"
+    },
+    {
+      "id": 8,
+      "question": "What is phishing using phone calls or voice messages called?",
+      "answer": "Vishing"
+    },
+    {
+      "id": 9,
+      "question": "What are unwanted emails sent in bulk called?",
+      "answer": "Spam"
+    },
+    {
+      "id": 10,
+      "question": "What is sending the same email repeatedly to a particular address called?",
+      "answer": "E-mail bombing"
+    },
+    {
+      "id": 11,
+      "question": "What is sending requests to a resource many times more than it can handle called?",
+      "answer": "Flooding"
+    },
+    {
+      "id": 12,
+      "question": "What is the software that prevents, detects, and removes malicious programs called?",
+      "answer": "Antivirus"
+    },
+    {
+      "id": 13,
+      "question": "What is the system that keeps check on incoming and outgoing network information called?",
+      "answer": "Firewall"
+    },
+    {
+      "id": 14,
+      "question": "What is a malicious program that attacks computers called?",
+      "answer": "Malware"
+    },
+    {
+      "id": 15,
+      "question": "What is a program that surveys your Internet behavior and copies passwords called?",
+      "answer": "Spyware"
+    },
+    {
+      "id": 16,
+      "question": "What is a program that places advertisements and allows pop-ups called?",
+      "answer": "Adware"
+    },
+    {
+      "id": 17,
+      "question": "What programs can read keystrokes pressed by users?",
+      "answer": "Keyloggers"
+    },
+    {
+      "id": 18,
+      "question": "What is a small piece of data that collects information of online activity called?",
+      "answer": "Cookie"
+    },
+    {
+      "id": 19,
+      "question": "What is the information about a user from their online activity called?",
+      "answer": "Digital footprint"
+    },
+    {
+      "id": 20,
+      "question": "What is illegal copying and distribution of software without license called?",
+      "answer": "Software piracy"
+    },
+    {
+      "id": 21,
+      "question": "What protects the rights of creators over their literary or artistic works?",
+      "answer": "Copyright"
+    },
+    {
+      "id": 22,
+      "question": "What identifies and distinguishes products of one company from others?",
+      "answer": "Trademark"
+    },
+    {
+      "id": 23,
+      "question": "What gives the creator the sole right to make, use, and sell an invention?",
+      "answer": "Patent"
+    },
+    {
+      "id": 24,
+      "question": "What is non-public information about commercial practices owned by a business called?",
+      "answer": "Trade secret"
+    },
+    {
+      "id": 25,
+      "question": "What law protects children under 13 years of age online?",
+      "answer": "COPPA"
+    },
+    {
+      "id": 26,
+      "question": "What is buying and selling of goods and services online called?",
+      "answer": "E-commerce"
+    },
+    {
+      "id": 27,
+      "question": "What is crime conducted on and propagated through the Internet called?",
+      "answer": "Cybercrime"
+    },
+    {
+      "id": 28,
+      "question": "What is using the Internet to stalk or harass a person called?",
+      "answer": "Cyberstalking"
+    },
+    {
+      "id": 29,
+      "question": "What is obtaining secrets without permission and knowledge of the holder called?",
+      "answer": "Cyber espionage"
+    },
+    {
+      "id": 30,
+      "question": "What is using Internet to carry out violent activities causing loss of life called?",
+      "answer": "Cyberterrorism"
+    }
+  ]
+}

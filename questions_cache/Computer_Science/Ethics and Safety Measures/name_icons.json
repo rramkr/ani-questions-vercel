@@ -1,0 +1,155 @@
+{
+  "question_type": "name_icons",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Name the web browser with a blue 'e' icon and yellow ring around it.",
+      "answer": "Internet Explorer"
+    },
+    {
+      "id": 2,
+      "question": "Name the web browser with a colorful (red, yellow, green, blue) circular icon.",
+      "answer": "Google Chrome"
+    },
+    {
+      "id": 3,
+      "question": "Name the web browser with an orange fox wrapped around a blue globe.",
+      "answer": "Mozilla Firefox"
+    },
+    {
+      "id": 4,
+      "question": "Name the social media platform with a blue 'f' icon.",
+      "answer": "Facebook"
+    },
+    {
+      "id": 5,
+      "question": "Name the social media platform with a white bird on blue background.",
+      "answer": "Twitter (now X)"
+    },
+    {
+      "id": 6,
+      "question": "Name the social media/messaging app with a green phone icon in a speech bubble.",
+      "answer": "WhatsApp"
+    },
+    {
+      "id": 7,
+      "question": "Name the social media platform with a camera icon in gradient purple, pink, and orange colors.",
+      "answer": "Instagram"
+    },
+    {
+      "id": 8,
+      "question": "Name the video platform with a red play button icon.",
+      "answer": "YouTube"
+    },
+    {
+      "id": 9,
+      "question": "Name the professional networking site with 'in' letters in a blue square.",
+      "answer": "LinkedIn"
+    },
+    {
+      "id": 10,
+      "question": "Name the image sharing platform with a red 'P' icon.",
+      "answer": "Pinterest"
+    },
+    {
+      "id": 11,
+      "question": "Name the search engine with colorful letters (blue, red, yellow, green).",
+      "answer": "Google"
+    },
+    {
+      "id": 12,
+      "question": "Name the video conferencing app with a blue video camera icon and 'S' letter.",
+      "answer": "Skype"
+    },
+    {
+      "id": 13,
+      "question": "Name the video conferencing app with a blue camera icon used by Google.",
+      "answer": "Google Meet / Google Duo"
+    },
+    {
+      "id": 14,
+      "question": "Name the online encyclopedia with a puzzle globe icon.",
+      "answer": "Wikipedia"
+    },
+    {
+      "id": 15,
+      "question": "Name the social media platform with an orange alien icon.",
+      "answer": "Reddit"
+    },
+    {
+      "id": 16,
+      "question": "Name the web browser with a blue compass icon (Apple devices).",
+      "answer": "Safari"
+    },
+    {
+      "id": 17,
+      "question": "Name the video conferencing app with a blue icon showing a video camera.",
+      "answer": "Zoom"
+    },
+    {
+      "id": 18,
+      "question": "Name the messaging app with a blue speech bubble and white lightning bolt.",
+      "answer": "Messenger (Facebook Messenger)"
+    },
+    {
+      "id": 19,
+      "question": "Name the email service with a red and white envelope icon by Google.",
+      "answer": "Gmail"
+    },
+    {
+      "id": 20,
+      "question": "Name the short video platform with a black musical note icon.",
+      "answer": "TikTok"
+    },
+    {
+      "id": 21,
+      "question": "Name the music streaming app with a green circle and black sound waves.",
+      "answer": "Spotify"
+    },
+    {
+      "id": 22,
+      "question": "Name the web browser with a blue wave/swirl icon by Microsoft.",
+      "answer": "Microsoft Edge"
+    },
+    {
+      "id": 23,
+      "question": "Name the cloud storage service with a blue cloud icon by Microsoft.",
+      "answer": "OneDrive"
+    },
+    {
+      "id": 24,
+      "question": "Name the cloud storage service with a colorful triangle icon by Google.",
+      "answer": "Google Drive"
+    },
+    {
+      "id": 25,
+      "question": "Name the cloud storage service with a blue open box icon.",
+      "answer": "Dropbox"
+    },
+    {
+      "id": 26,
+      "question": "Name the antivirus software with a yellow and black icon.",
+      "answer": "Norton"
+    },
+    {
+      "id": 27,
+      "question": "Name the antivirus software with a red shield icon.",
+      "answer": "McAfee"
+    },
+    {
+      "id": 28,
+      "question": "Name the antivirus software with a green 'K' icon.",
+      "answer": "Kaspersky"
+    },
+    {
+      "id": 29,
+      "question": "Name the Indian antivirus software with a red 'Q' icon.",
+      "answer": "Quick Heal"
+    },
+    {
+      "id": 30,
+      "question": "Name the e-commerce platform with an orange arrow from A to Z.",
+      "answer": "Amazon"
+    }
+  ]
+}

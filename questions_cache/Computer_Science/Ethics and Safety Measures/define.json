@@ -1,0 +1,155 @@
+{
+  "question_type": "define",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Define: Computer Ethics",
+      "answer": "Computer ethics is a set of acceptable behaviors for using a computer and the Internet. It includes being respectful to others, acknowledging sources, not spying on others' data, and respecting others' views and privacy."
+    },
+    {
+      "id": 2,
+      "question": "Define: Plagiarism",
+      "answer": "Plagiarism is the act of using other people's ideas, information, or text in your work without giving them credit or acknowledgment. It is considered unethical and often illegal as content on the Internet is protected by copyright laws."
+    },
+    {
+      "id": 3,
+      "question": "Define: Citation",
+      "answer": "Citation is the technique of acknowledging the source of information when using others' work. It is the simplest technique to avoid plagiarism by giving credit to the original creator."
+    },
+    {
+      "id": 4,
+      "question": "Define: Cyberbullying",
+      "answer": "Cyberbullying is the use of electronic media, especially the Internet, to threaten, harass, embarrass, or target another person. It includes activities like cyberstalking and cyber espionage."
+    },
+    {
+      "id": 5,
+      "question": "Define: Hacking",
+      "answer": "Hacking is the act of gaining unauthorized access to computer systems or networks. A hacker exploits weaknesses in computer systems without having written permission from the owner."
+    },
+    {
+      "id": 6,
+      "question": "Define: Cracker",
+      "answer": "A cracker is a person who gains unauthorized access to a computer system for the purpose of stealing or destroying data. Unlike white hat hackers, crackers have malicious intent."
+    },
+    {
+      "id": 7,
+      "question": "Define: Phishing",
+      "answer": "Phishing is a type of Internet fraud conducted through forged emails and fake websites to steal sensitive information like passwords and credit card details. It attempts to create panic and urgency to trick users."
+    },
+    {
+      "id": 8,
+      "question": "Define: Vishing",
+      "answer": "Vishing is a fraudulent act similar to phishing but conducted using phone calls or voice messages instead of emails and websites."
+    },
+    {
+      "id": 9,
+      "question": "Define: Spam",
+      "answer": "Spam refers to unwanted emails sent in bulk, typically containing advertisements or malware. Spam wastes time and network bandwidth, and may bury important emails."
+    },
+    {
+      "id": 10,
+      "question": "Define: E-mail bombing",
+      "answer": "E-mail bombing is a form of spamming where the same email is sent repeatedly to a particular address, overwhelming the recipient's inbox."
+    },
+    {
+      "id": 11,
+      "question": "Define: Flooding",
+      "answer": "Flooding is a form of spamming where requests are sent to a resource many times more than it can handle, causing the system to slow down or crash."
+    },
+    {
+      "id": 12,
+      "question": "Define: Malware",
+      "answer": "Malware (malicious software) is a program designed to damage, disrupt, or gain unauthorized access to computer systems. Examples include viruses, spyware, and adware."
+    },
+    {
+      "id": 13,
+      "question": "Define: Antivirus",
+      "answer": "Antivirus is a software program used to prevent, detect, and remove malicious software (malware) from computers. Examples include Norton, McAfee, Kaspersky, and Quick Heal."
+    },
+    {
+      "id": 14,
+      "question": "Define: Firewall",
+      "answer": "A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. It keeps check on information flowing in and out of the computer."
+    },
+    {
+      "id": 15,
+      "question": "Define: Spyware",
+      "answer": "Spyware is a type of malware that surveys your Internet behavior, collects information, and can copy passwords and other sensitive data without your knowledge."
+    },
+    {
+      "id": 16,
+      "question": "Define: Adware",
+      "answer": "Adware is a type of software that places advertisements in your browser and allows unwanted pop-ups to appear while you browse the Internet."
+    },
+    {
+      "id": 17,
+      "question": "Define: Cookie",
+      "answer": "A cookie is a small piece of data stored on the user's computer by a website. It collects information about online activity and is often used for marketing purposes."
+    },
+    {
+      "id": 18,
+      "question": "Define: Digital Footprint",
+      "answer": "Digital footprint is the information about a user that exists on the Internet as a result of their online activity. It includes all data created while using the Internet."
+    },
+    {
+      "id": 19,
+      "question": "Define: Software Piracy",
+      "answer": "Software piracy is the illegal copying, distribution, or use of software without proper license or authorization from the copyright owner."
+    },
+    {
+      "id": 20,
+      "question": "Define: Copyright",
+      "answer": "Copyright is an intellectual property right that protects the rights of creators over their literary, musical, and artistic works. It gives creators the right to make copies, sell, and perform the work."
+    },
+    {
+      "id": 21,
+      "question": "Define: Trademark",
+      "answer": "A trademark is an intellectual property right that identifies and distinguishes products of one company from those of others. It protects company names, logos, and product identities."
+    },
+    {
+      "id": 22,
+      "question": "Define: Patent",
+      "answer": "A patent is an intellectual property right that gives the creator the sole right to make, use, and sell an invention for a limited period of time."
+    },
+    {
+      "id": 23,
+      "question": "Define: Trade Secret",
+      "answer": "A trade secret is non-public information about commercial practices, processes, or secrets owned by a business. Public disclosure of trade secrets may be illegal."
+    },
+    {
+      "id": 24,
+      "question": "Define: COPPA",
+      "answer": "COPPA (Children's Online Privacy Protection Act) is a law that protects children under 13 years of age online. It requires websites to seek verification from parents or guardians before collecting children's data."
+    },
+    {
+      "id": 25,
+      "question": "Define: E-commerce",
+      "answer": "E-commerce is the buying and selling of goods and services using the Internet. It includes activities like online shopping, fund transfers, paying taxes, and booking tickets."
+    },
+    {
+      "id": 26,
+      "question": "Define: Cybercrime",
+      "answer": "Cybercrime refers to criminal activities conducted on and propagated through the Internet. It includes identity theft, forgery, fraud, cyber trafficking, and cyberterrorism."
+    },
+    {
+      "id": 27,
+      "question": "Define: Cyberterrorism",
+      "answer": "Cyberterrorism is the use of the Internet to carry out violent activities that cause loss of life, create panic, or intimidate people and governments."
+    },
+    {
+      "id": 28,
+      "question": "Define: Keylogger",
+      "answer": "A keylogger is a type of surveillance software that records keystrokes pressed by a user on a keyboard. It can capture passwords and sensitive information."
+    },
+    {
+      "id": 29,
+      "question": "Define: Clickjacking",
+      "answer": "Clickjacking is a phishing technique where users are tricked into clicking something different from what they perceive, potentially downloading malware or revealing confidential information."
+    },
+    {
+      "id": 30,
+      "question": "Define: White Hat Hacker",
+      "answer": "A white hat hacker is an ethical hacker who breaks into computer systems with permission to find security flaws and improve security, rather than for malicious purposes."
+    }
+  ]
+}
