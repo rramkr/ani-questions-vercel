@@ -3748,9 +3748,10 @@ b, strong {
 /* Completed Exams Section */
 .completed-section {
     width: 100%;
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    border-top: 2px dashed #e5e7eb;
+    grid-column: 1 / -1;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px dashed #d1d5db;
 }
 
 .completed-header {
