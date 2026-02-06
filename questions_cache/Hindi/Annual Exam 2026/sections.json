@@ -1,6 +1,6 @@
 {
   "subject": "Hindi",
-  "chapter": "Annual_Exam_2026",
+  "chapter": "Annual Exam 2026",
   "sections": {
     "textbook": [
       {"value": "word_meanings", "label": "शब्दार्थ (Word Meanings)", "icon": "📚"},
@@ -13,6 +13,7 @@
       {"value": "gender", "label": "लिंग बदलो", "icon": "🔄"},
       {"value": "hindi_numbers", "label": "हिंदी गिनती", "icon": "🔢"},
       {"value": "tense_conversion", "label": "काल परिवर्तन", "icon": "⏰"}
-    ]
+    ],
+    "miscellaneous": []
   }
 }
