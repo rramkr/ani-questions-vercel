@@ -3744,3 +3744,45 @@ b, strong {
         width: 100%;
     }
 }
+
+/* Completed Exams Section */
+.completed-section {
+    width: 100%;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 2px dashed #e5e7eb;
+}
+
+.completed-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #6b7280;
+    margin-bottom: 1rem;
+    padding-left: 0.5rem;
+}
+
+.completed-icon {
+    font-size: 1.3rem;
+}
+
+.completed-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1rem;
+}
+
+.completed-card {
+    opacity: 0.7;
+    background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%) !important;
+}
+
+.completed-card:hover {
+    opacity: 0.9;
+}
+
+.completed-card .card-icon {
+    filter: grayscale(30%);
+}

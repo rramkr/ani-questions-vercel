@@ -25,12 +25,6 @@
       "chapter_count": 4
     },
     {
-      "name": "EVE",
-      "slug": "EVE",
-      "icon": "🌍",
-      "chapter_count": 4
-    },
-    {
       "name": "Computer Science",
       "slug": "Computer_Science",
       "icon": "💻",
@@ -41,6 +35,14 @@
       "slug": "General Knowledge",
       "icon": "🧠",
       "chapter_count": 1
+    }
+  ],
+  "completed": [
+    {
+      "name": "EVE",
+      "slug": "EVE",
+      "icon": "🌍",
+      "chapter_count": 4
     }
   ]
 }

@@ -2,49 +2,17 @@
   "subject": "Hindi",
   "chapter": "Annual_Exam_2026",
   "sections": {
-    "textbook_questions": [
-      {
-        "type": "word_meanings",
-        "label": "शब्दार्थ (Word Meanings)",
-        "description": "Hindi words with English meanings from both chapters"
-      },
-      {
-        "type": "short_answer",
-        "label": "प्रश्न-उत्तर (Questions & Answers)",
-        "description": "Questions and answers from both chapters"
-      },
-      {
-        "type": "fill_in_blanks",
-        "label": "रिक्त स्थान भरो (Fill in the Blanks)",
-        "description": "Fill in the blanks from पक्के दोस्त"
-      }
+    "textbook": [
+      {"value": "word_meanings", "label": "शब्दार्थ (Word Meanings)", "icon": "📚"},
+      {"value": "short_answer", "label": "प्रश्न-उत्तर (Q&A)", "icon": "📝"},
+      {"value": "fill_in_blanks", "label": "रिक्त स्थान भरो", "icon": "✏️"}
     ],
-    "exam_questions": [
-      {
-        "type": "mcq",
-        "label": "सही उत्तर चुनो (MCQ)",
-        "description": "Choose the correct answer from both chapters"
-      },
-      {
-        "type": "correct_spellings",
-        "label": "सही वर्तनी (Correct Spellings)",
-        "description": "Encircle correct spellings from तीन लोक से न्यारा"
-      },
-      {
-        "type": "gender",
-        "label": "लिंग बदलो (Gender)",
-        "description": "Masculine and feminine forms"
-      },
-      {
-        "type": "hindi_numbers",
-        "label": "हिंदी में गिनती (Numbers in Hindi)",
-        "description": "Write numbers in Hindi"
-      },
-      {
-        "type": "tense_conversion",
-        "label": "काल परिवर्तन (Tense Conversion)",
-        "description": "Change present tense to past tense"
-      }
+    "exam": [
+      {"value": "mcq", "label": "सही उत्तर चुनो (MCQ)", "icon": "🔘"},
+      {"value": "correct_spellings", "label": "सही वर्तनी", "icon": "✓"},
+      {"value": "gender", "label": "लिंग बदलो", "icon": "🔄"},
+      {"value": "hindi_numbers", "label": "हिंदी गिनती", "icon": "🔢"},
+      {"value": "tense_conversion", "label": "काल परिवर्तन", "icon": "⏰"}
     ]
   }
 }

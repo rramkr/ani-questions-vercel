@@ -598,7 +598,23 @@ async function loadSubjects() {
             return subject; // Return original if fetch fails
         }));
 
-        renderSubjects(subjectsWithCounts);
+        // Also fetch chapter counts for completed subjects
+        const completedWithCounts = data.completed ? await Promise.all(data.completed.map(async (subject) => {
+            try {
+                const subjectFolder = subject.name.replace(/ /g, '_');
+                const chaptersResponse = await fetch(`${GITHUB_BASE_URL}/${subjectFolder}/chapters.json`);
+                if (chaptersResponse.ok) {
+                    const chaptersData = await chaptersResponse.json();
+                    const availableChapters = chaptersData.chapters.filter(ch => ch.has_questions);
+                    return { ...subject, chapter_count: availableChapters.length };
+                }
+            } catch (e) {
+                console.warn(`Could not fetch chapters for ${subject.name}`);
+            }
+            return subject;
+        })) : [];
+
+        renderSubjects(subjectsWithCounts, completedWithCounts);
     } catch (error) {
         console.error('Error loading subjects:', error);
         showEmptyState('Failed to load subjects. Please try again later.');
@@ -1957,14 +1973,36 @@ function renderTextAnswerShowAll(q) {
 }
 
 // Renderers
-function renderSubjects(subjects) {
-    elements.subjectsGrid.innerHTML = subjects.map(subject => `
+function renderSubjects(subjects, completed = []) {
+    let html = subjects.map(subject => `
         <div class="card" onclick="loadChapters(${JSON.stringify(subject).replace(/"/g, '&quot;')})">
             <div class="card-icon">${subject.icon}</div>
             <div class="card-title">${subject.name}</div>
             <div class="card-subtitle">${subject.chapter_count} chapter${subject.chapter_count !== 1 ? 's' : ''}</div>
         </div>
     `).join('');
+
+    if (completed.length > 0) {
+        html += `
+            <div class="completed-section">
+                <div class="completed-header">
+                    <span class="completed-icon">✅</span>
+                    <span>Completed Exams</span>
+                </div>
+                <div class="completed-grid">
+                    ${completed.map(subject => `
+                        <div class="card completed-card" onclick="loadChapters(${JSON.stringify(subject).replace(/"/g, '&quot;')})">
+                            <div class="card-icon">${subject.icon}</div>
+                            <div class="card-title">${subject.name}</div>
+                            <div class="card-subtitle">${subject.chapter_count} chapter${subject.chapter_count !== 1 ? 's' : ''}</div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    elements.subjectsGrid.innerHTML = html;
 }
 
 function renderChapters(chapters) {
