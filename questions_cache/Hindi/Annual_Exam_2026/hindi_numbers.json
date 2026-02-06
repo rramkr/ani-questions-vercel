@@ -1,0 +1,105 @@
+{
+  "question_type": "hindi_numbers",
+  "instructions": "अंग्रेज़ी संख्या को हिंदी में लिखो (Write the English number in Hindi)",
+  "questions": [
+    {
+      "id": "hn_1",
+      "question": "1",
+      "answer": "१ (एक)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_2",
+      "question": "2",
+      "answer": "२ (दो)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_3",
+      "question": "3",
+      "answer": "३ (तीन)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_4",
+      "question": "4",
+      "answer": "४ (चार)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_5",
+      "question": "5",
+      "answer": "५ (पाँच)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_6",
+      "question": "6",
+      "answer": "६ (छह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_7",
+      "question": "7",
+      "answer": "७ (सात)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_8",
+      "question": "8",
+      "answer": "८ (आठ)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_9",
+      "question": "9",
+      "answer": "९ (नौ)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_10",
+      "question": "0",
+      "answer": "० (शून्य)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_11",
+      "question": "10",
+      "answer": "१० (दस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_12",
+      "question": "15",
+      "answer": "१५ (पंद्रह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_13",
+      "question": "20",
+      "answer": "२० (बीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_14",
+      "question": "25",
+      "answer": "२५ (पच्चीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_15",
+      "question": "50",
+      "answer": "५० (पचास)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_16",
+      "question": "100",
+      "answer": "१०० (सौ)",
+      "source": "Notebook"
+    }
+  ],
+  "total_count": 16,
+  "subject": "Hindi",
+  "chapter": "Annual_Exam_2026"
+}

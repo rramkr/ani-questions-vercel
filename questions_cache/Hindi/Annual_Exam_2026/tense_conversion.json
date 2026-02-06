@@ -1,0 +1,81 @@
+{
+  "question_type": "tense_conversion",
+  "instructions": "वर्तमान काल को भूतकाल में बदलो (Change present tense to past tense)",
+  "questions": [
+    {
+      "id": "tc_1",
+      "question": "राम खाना खाता है।",
+      "answer": "राम ने खाना खाया।",
+      "source": "Notebook"
+    },
+    {
+      "id": "tc_2",
+      "question": "सीता गाना गाती है।",
+      "answer": "सीता ने गाना गाया।",
+      "source": "Notebook"
+    },
+    {
+      "id": "tc_3",
+      "question": "बच्चे खेलते हैं।",
+      "answer": "बच्चे खेले।",
+      "source": "Notebook"
+    },
+    {
+      "id": "tc_4",
+      "question": "माँ खाना पकाती है।",
+      "answer": "माँ ने खाना पकाया।",
+      "source": "Notebook"
+    },
+    {
+      "id": "tc_5",
+      "question": "वह किताब पढ़ता है।",
+      "answer": "उसने किताब पढ़ी।",
+      "source": "Notebook"
+    },
+    {
+      "id": "tc_6",
+      "question": "पक्षी उड़ते हैं।",
+      "answer": "पक्षी उड़े।",
+      "source": "Notebook"
+    },
+    {
+      "id": "tc_7",
+      "question": "शेर शिकार करता है।",
+      "answer": "शेर ने शिकार किया।",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "tc_8",
+      "question": "लोमड़ी झूठ बोलती है।",
+      "answer": "लोमड़ी ने झूठ बोला।",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "tc_9",
+      "question": "भालू सज़ा देता है।",
+      "answer": "भालू ने सज़ा दी।",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "tc_10",
+      "question": "बच्चा पंख माँगता है।",
+      "answer": "बच्चे ने पंख माँगे।",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "tc_11",
+      "question": "फूल खिलते हैं।",
+      "answer": "फूल खिले।",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "tc_12",
+      "question": "मैं स्कूल जाता हूँ।",
+      "answer": "मैं स्कूल गया।",
+      "source": "Notebook"
+    }
+  ],
+  "total_count": 12,
+  "subject": "Hindi",
+  "chapter": "Annual_Exam_2026"
+}

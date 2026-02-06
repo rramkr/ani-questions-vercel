@@ -1,0 +1,128 @@
+{
+  "question_type": "word_meanings",
+  "questions": [
+    {
+      "id": "wm_1",
+      "question": "घनिष्ठ",
+      "answer": "close",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_2",
+      "question": "रूखा",
+      "answer": "provocative / dry",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_3",
+      "question": "प्रयास",
+      "answer": "try / attempt",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_4",
+      "question": "सज़ा",
+      "answer": "punishment",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_5",
+      "question": "तंग",
+      "answer": "worried / troubled",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_6",
+      "question": "शिकार",
+      "answer": "hunt / prey",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_7",
+      "question": "ज़रूरी",
+      "answer": "necessary / important",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_8",
+      "question": "जंगल",
+      "answer": "forest",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_9",
+      "question": "पकाना",
+      "answer": "to cook",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_10",
+      "question": "श्रेष्ठ",
+      "answer": "best / supreme",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "wm_11",
+      "question": "मौज़",
+      "answer": "happiness / joy",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "wm_12",
+      "question": "न्यारा",
+      "answer": "unique / different",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "wm_13",
+      "question": "लोक",
+      "answer": "world",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "wm_14",
+      "question": "स्वर्ग",
+      "answer": "heaven",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "wm_15",
+      "question": "खिलना",
+      "answer": "to bloom",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "wm_16",
+      "question": "सितारे",
+      "answer": "stars",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "wm_17",
+      "question": "पर्वत",
+      "answer": "mountain",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "wm_18",
+      "question": "झरना",
+      "answer": "waterfall",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "wm_19",
+      "question": "दोस्ती",
+      "answer": "friendship",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "wm_20",
+      "question": "चालाक",
+      "answer": "clever / cunning",
+      "source": "पक्के दोस्त"
+    }
+  ],
+  "total_count": 20,
+  "subject": "Hindi",
+  "chapter": "Annual_Exam_2026"
+}
