@@ -2885,12 +2885,13 @@ function renderTextQuestion(q, index, showUnansweredHighlight = false) {
     }
 
     // Check if this is an MCQ-style question with embedded options (a. b. c. d. pattern)
-    const mcqPattern = /\n?[a-d]\.\s+.+/gi;
+    // Must be at start of line (after newline or at beginning) to avoid false positives like "discouraged. (although)"
+    const mcqPattern = /(?:^|\n)\s*[a-d]\.\s+.+/gim;
     const questionText = q.question || '';
 
     if (mcqPattern.test(questionText)) {
-        // Parse out embedded MCQ options
-        const parts = questionText.split(/(?=\n?[a-d]\.\s)/i);
+        // Parse out embedded MCQ options (only when letter is at start of line)
+        const parts = questionText.split(/(?=(?:^|\n)\s*[a-d]\.\s)/im);
         const mainQuestion = parts[0].trim();
         const options = parts.slice(1).map(opt => opt.trim()).filter(opt => opt);
 
