@@ -751,6 +751,606 @@
       "question": "What does the proverb 'The proof of the pudding is in the eating' mean?",
       "answer": "It means that the true value or quality of something can only be judged when it is put to use or tested in practice.",
       "key_points": ["judged by results", "practical test reveals quality"]
+    },
+    {
+      "id": "ip_ep_101",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'A blessing in ___' (meaning: something good that seemed bad at first)",
+      "answer": "disguise",
+      "acceptable_answers": ["disguise"],
+      "explanation": "A good thing that initially appeared to be bad."
+    },
+    {
+      "id": "ip_ep_102",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Beat around the ___' (meaning: avoid saying what you mean)",
+      "answer": "bush",
+      "acceptable_answers": ["bush"],
+      "explanation": "To avoid getting to the point or speaking directly."
+    },
+    {
+      "id": "ip_ep_103",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Bite the ___' (meaning: endure something painful but inevitable)",
+      "answer": "bullet",
+      "acceptable_answers": ["bullet"],
+      "explanation": "To face a difficult situation with courage."
+    },
+    {
+      "id": "ip_ep_104",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Break a ___' (meaning: good luck)",
+      "answer": "leg",
+      "acceptable_answers": ["leg"],
+      "explanation": "A way to wish someone good luck, especially performers."
+    },
+    {
+      "id": "ip_ep_105",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Call it a ___' (meaning: stop working)",
+      "answer": "day",
+      "acceptable_answers": ["day"],
+      "explanation": "To stop working and rest for the day."
+    },
+    {
+      "id": "ip_ep_106",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Cutting ___' (meaning: doing something poorly to save time or money)",
+      "answer": "corners",
+      "acceptable_answers": ["corners"],
+      "explanation": "To do something in a cheaper or easier way that reduces quality."
+    },
+    {
+      "id": "ip_ep_107",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Get out of ___' (meaning: get out of control)",
+      "answer": "hand",
+      "acceptable_answers": ["hand"],
+      "explanation": "When a situation becomes uncontrollable."
+    },
+    {
+      "id": "ip_ep_108",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Hang in ___' (meaning: don't give up)",
+      "answer": "there",
+      "acceptable_answers": ["there"],
+      "explanation": "To persist despite difficulties."
+    },
+    {
+      "id": "ip_ep_109",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Hit the ___' (meaning: go to sleep)",
+      "answer": "sack",
+      "acceptable_answers": ["sack", "hay"],
+      "explanation": "To go to bed."
+    },
+    {
+      "id": "ip_ep_110",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Miss the ___' (meaning: it's too late)",
+      "answer": "boat",
+      "acceptable_answers": ["boat"],
+      "explanation": "To miss an opportunity."
+    },
+    {
+      "id": "ip_ep_111",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'No pain, no ___' (meaning: you must work for what you want)",
+      "answer": "gain",
+      "acceptable_answers": ["gain"],
+      "explanation": "Success requires effort and sometimes discomfort."
+    },
+    {
+      "id": "ip_ep_112",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Pull someone's ___' (meaning: joke with someone)",
+      "answer": "leg",
+      "acceptable_answers": ["leg"],
+      "explanation": "To tease or joke with someone playfully."
+    },
+    {
+      "id": "ip_ep_113",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Speak of the ___' (meaning: the person we were talking about appeared)",
+      "answer": "devil",
+      "acceptable_answers": ["devil"],
+      "explanation": "Said when someone you were just discussing arrives."
+    },
+    {
+      "id": "ip_ep_114",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'That's the last ___' (meaning: my patience has run out)",
+      "answer": "straw",
+      "acceptable_answers": ["straw"],
+      "explanation": "The final problem in a series that causes one to lose patience."
+    },
+    {
+      "id": "ip_ep_115",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Under the ___' (meaning: feeling sick)",
+      "answer": "weather",
+      "acceptable_answers": ["weather"],
+      "explanation": "Feeling unwell or ill."
+    },
+    {
+      "id": "ip_ep_116",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'It's raining cats and ___' (meaning: raining heavily)",
+      "answer": "dogs",
+      "acceptable_answers": ["dogs"],
+      "explanation": "Very heavy rain."
+    },
+    {
+      "id": "ip_ep_117",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Kill two birds with one ___' (meaning: accomplish two things at once)",
+      "answer": "stone",
+      "acceptable_answers": ["stone"],
+      "explanation": "To achieve two goals with a single action."
+    },
+    {
+      "id": "ip_ep_118",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Once in a blue ___' (meaning: very rarely)",
+      "answer": "moon",
+      "acceptable_answers": ["moon"],
+      "explanation": "Something that happens very infrequently."
+    },
+    {
+      "id": "ip_ep_119",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Spill the ___' (meaning: reveal a secret)",
+      "answer": "beans",
+      "acceptable_answers": ["beans"],
+      "explanation": "To accidentally or deliberately reveal a secret."
+    },
+    {
+      "id": "ip_ep_120",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'The ball is in your ___' (meaning: it's your decision)",
+      "answer": "court",
+      "acceptable_answers": ["court"],
+      "explanation": "It's now your turn to make a decision or take action."
+    },
+    {
+      "id": "ip_ep_121",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Costs an arm and a ___' (meaning: very expensive)",
+      "answer": "leg",
+      "acceptable_answers": ["leg"],
+      "explanation": "Something that is extremely expensive."
+    },
+    {
+      "id": "ip_ep_122",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'It's a piece of ___' (meaning: it's easy)",
+      "answer": "cake",
+      "acceptable_answers": ["cake"],
+      "explanation": "Something that is very easy to do."
+    },
+    {
+      "id": "ip_ep_123",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'On thin ___' (meaning: in a risky situation)",
+      "answer": "ice",
+      "acceptable_answers": ["ice"],
+      "explanation": "In a precarious or dangerous position."
+    },
+    {
+      "id": "ip_ep_124",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Burn ___' (meaning: destroy relationships)",
+      "answer": "bridges",
+      "acceptable_answers": ["bridges"],
+      "explanation": "To permanently damage a relationship or opportunity."
+    },
+    {
+      "id": "ip_ep_125",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Fit as a ___' (meaning: in good health)",
+      "answer": "fiddle",
+      "acceptable_answers": ["fiddle"],
+      "explanation": "In excellent physical condition."
+    },
+    {
+      "id": "ip_ep_126",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Through thick and ___' (meaning: in good times and bad)",
+      "answer": "thin",
+      "acceptable_answers": ["thin"],
+      "explanation": "Remaining loyal through all circumstances."
+    },
+    {
+      "id": "ip_ep_127",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Absence makes the heart grow ___' (meaning: being apart makes you appreciate more)",
+      "answer": "fonder",
+      "acceptable_answers": ["fonder"],
+      "explanation": "Being away from someone makes you love them more."
+    },
+    {
+      "id": "ip_ep_128",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Actions speak louder than ___' (meaning: what you do matters more than what you say)",
+      "answer": "words",
+      "acceptable_answers": ["words"],
+      "explanation": "Deeds are more important than promises."
+    },
+    {
+      "id": "ip_ep_129",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'All good things must come to an ___' (meaning: nothing lasts forever)",
+      "answer": "end",
+      "acceptable_answers": ["end"],
+      "explanation": "Good times eventually finish."
+    },
+    {
+      "id": "ip_ep_130",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Beggars can't be ___' (meaning: accept what you're given)",
+      "answer": "choosers",
+      "acceptable_answers": ["choosers"],
+      "explanation": "Those in need cannot be picky about help offered."
+    },
+    {
+      "id": "ip_ep_131",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Don't bite the hand that ___ you' (meaning: don't hurt those helping you)",
+      "answer": "feeds",
+      "acceptable_answers": ["feeds"],
+      "explanation": "Don't harm those who support you."
+    },
+    {
+      "id": "ip_ep_132",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Honesty is the best ___' (meaning: always tell the truth)",
+      "answer": "policy",
+      "acceptable_answers": ["policy"],
+      "explanation": "Being truthful is always the best approach."
+    },
+    {
+      "id": "ip_ep_133",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Knowledge is ___' (meaning: the more you know, the stronger you are)",
+      "answer": "power",
+      "acceptable_answers": ["power"],
+      "explanation": "Information and learning give you advantages."
+    },
+    {
+      "id": "ip_ep_134",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Practice makes ___' (meaning: repetition leads to mastery)",
+      "answer": "perfect",
+      "acceptable_answers": ["perfect"],
+      "explanation": "Consistent practice improves your skills."
+    },
+    {
+      "id": "ip_ep_135",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Two heads are better than ___' (meaning: working together is easier)",
+      "answer": "one",
+      "acceptable_answers": ["one"],
+      "explanation": "Collaboration produces better results."
+    },
+    {
+      "id": "ip_ep_136",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Two wrongs don't make a ___' (meaning: revenge doesn't fix things)",
+      "answer": "right",
+      "acceptable_answers": ["right"],
+      "explanation": "Responding to wrongdoing with wrongdoing doesn't help."
+    },
+    {
+      "id": "ip_ep_137",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Time is ___' (meaning: don't waste time)",
+      "answer": "money",
+      "acceptable_answers": ["money"],
+      "explanation": "Time is valuable and should not be wasted."
+    },
+    {
+      "id": "ip_ep_138",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'The pen is mightier than the ___' (meaning: words are more powerful than violence)",
+      "answer": "sword",
+      "acceptable_answers": ["sword"],
+      "explanation": "Ideas and communication are more effective than force."
+    },
+    {
+      "id": "ip_ep_139",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'The grass is always greener on the other ___' (meaning: others' situations seem better)",
+      "answer": "side",
+      "acceptable_answers": ["side"],
+      "explanation": "We tend to think others have it better than us."
+    },
+    {
+      "id": "ip_ep_140",
+      "type": "fill_in_blanks",
+      "question": "Complete: 'Where there's smoke, there's ___' (meaning: signs of problems indicate real problems)",
+      "answer": "fire",
+      "acceptable_answers": ["fire"],
+      "explanation": "If there are signs of a problem, a problem probably exists."
+    },
+    {
+      "id": "ip_ep_141",
+      "type": "short_answer",
+      "question": "What does 'a blessing in disguise' mean?",
+      "answer": "It means something that initially seems bad but turns out to be good.",
+      "key_points": ["seemed bad at first", "turned out to be good", "hidden benefit"]
+    },
+    {
+      "id": "ip_ep_142",
+      "type": "short_answer",
+      "question": "What does 'beat around the bush' mean?",
+      "answer": "It means to avoid speaking directly about something, usually because it's uncomfortable.",
+      "key_points": ["avoid the point", "not direct", "hesitant to say"]
+    },
+    {
+      "id": "ip_ep_143",
+      "type": "short_answer",
+      "question": "What does 'bite the bullet' mean?",
+      "answer": "It means to endure a painful or difficult situation because it cannot be avoided.",
+      "key_points": ["face difficulty", "endure pain", "get it over with"]
+    },
+    {
+      "id": "ip_ep_144",
+      "type": "short_answer",
+      "question": "What does 'call it a day' mean?",
+      "answer": "It means to stop working on something and rest.",
+      "key_points": ["stop working", "finish for now", "take a break"]
+    },
+    {
+      "id": "ip_ep_145",
+      "type": "short_answer",
+      "question": "What does 'cutting corners' mean?",
+      "answer": "It means doing something poorly or cheaply to save time or money.",
+      "key_points": ["poor quality", "save time/money", "take shortcuts"]
+    },
+    {
+      "id": "ip_ep_146",
+      "type": "short_answer",
+      "question": "What does 'speak of the devil' mean?",
+      "answer": "It's said when someone you were just talking about suddenly appears.",
+      "key_points": ["person appears", "just mentioned them", "coincidence"]
+    },
+    {
+      "id": "ip_ep_147",
+      "type": "short_answer",
+      "question": "What does 'under the weather' mean?",
+      "answer": "It means feeling sick or unwell.",
+      "key_points": ["feeling ill", "unwell", "not healthy"]
+    },
+    {
+      "id": "ip_ep_148",
+      "type": "short_answer",
+      "question": "What does 'it's raining cats and dogs' mean?",
+      "answer": "It means it's raining very heavily.",
+      "key_points": ["heavy rain", "pouring", "intense rainfall"]
+    },
+    {
+      "id": "ip_ep_149",
+      "type": "short_answer",
+      "question": "What does 'kill two birds with one stone' mean?",
+      "answer": "It means to accomplish two things with a single action.",
+      "key_points": ["two goals at once", "efficient", "double benefit"]
+    },
+    {
+      "id": "ip_ep_150",
+      "type": "short_answer",
+      "question": "What does 'once in a blue moon' mean?",
+      "answer": "It means very rarely or almost never.",
+      "key_points": ["very rare", "infrequent", "hardly ever"]
+    },
+    {
+      "id": "ip_ep_151",
+      "type": "short_answer",
+      "question": "What does 'spill the beans' mean?",
+      "answer": "It means to reveal a secret, usually accidentally.",
+      "key_points": ["reveal secret", "disclose information", "let slip"]
+    },
+    {
+      "id": "ip_ep_152",
+      "type": "short_answer",
+      "question": "What does 'costs an arm and a leg' mean?",
+      "answer": "It means something is very expensive.",
+      "key_points": ["very costly", "expensive", "high price"]
+    },
+    {
+      "id": "ip_ep_153",
+      "type": "short_answer",
+      "question": "What does 'on thin ice' mean?",
+      "answer": "It means being in a risky or dangerous situation where you might get in trouble.",
+      "key_points": ["risky situation", "danger of trouble", "precarious position"]
+    },
+    {
+      "id": "ip_ep_154",
+      "type": "short_answer",
+      "question": "What does 'burn bridges' mean?",
+      "answer": "It means to permanently damage relationships or destroy opportunities.",
+      "key_points": ["destroy relationships", "no going back", "ruin connections"]
+    },
+    {
+      "id": "ip_ep_155",
+      "type": "short_answer",
+      "question": "What does 'absence makes the heart grow fonder' mean?",
+      "answer": "It means being away from someone or something makes you appreciate them more.",
+      "key_points": ["appreciate more when apart", "distance increases love", "value what's missing"]
+    },
+    {
+      "id": "ip_ep_156",
+      "type": "short_answer",
+      "question": "What does 'actions speak louder than words' mean?",
+      "answer": "It means what you do is more important than what you say.",
+      "key_points": ["deeds matter more", "prove by actions", "don't just talk"]
+    },
+    {
+      "id": "ip_ep_157",
+      "type": "short_answer",
+      "question": "What does 'beggars can't be choosers' mean?",
+      "answer": "It means if you need help, you should accept what's offered without being picky.",
+      "key_points": ["accept what's given", "don't be picky", "grateful for help"]
+    },
+    {
+      "id": "ip_ep_158",
+      "type": "short_answer",
+      "question": "What does 'don't bite the hand that feeds you' mean?",
+      "answer": "It means don't hurt or criticize someone who helps you.",
+      "key_points": ["don't harm helpers", "be grateful", "respect supporters"]
+    },
+    {
+      "id": "ip_ep_159",
+      "type": "short_answer",
+      "question": "What does 'honesty is the best policy' mean?",
+      "answer": "It means it's always better to tell the truth than to lie.",
+      "key_points": ["truth is best", "don't lie", "be honest"]
+    },
+    {
+      "id": "ip_ep_160",
+      "type": "short_answer",
+      "question": "What does 'practice makes perfect' mean?",
+      "answer": "It means the more you practice something, the better you become at it.",
+      "key_points": ["repetition improves skill", "keep practicing", "mastery through practice"]
+    },
+    {
+      "id": "ip_ep_161",
+      "type": "short_answer",
+      "question": "Use 'a blessing in disguise' in a sentence.",
+      "answer": "Losing my job was a blessing in disguise because I found a much better one.",
+      "key_points": ["shows something bad becoming good", "hidden benefit"]
+    },
+    {
+      "id": "ip_ep_162",
+      "type": "short_answer",
+      "question": "Use 'beat around the bush' in a sentence.",
+      "answer": "Stop beating around the bush and tell me what really happened.",
+      "key_points": ["avoiding the point", "not being direct"]
+    },
+    {
+      "id": "ip_ep_163",
+      "type": "short_answer",
+      "question": "Use 'under the weather' in a sentence.",
+      "answer": "I'm feeling a bit under the weather today, so I'll stay home and rest.",
+      "key_points": ["feeling unwell", "sickness"]
+    },
+    {
+      "id": "ip_ep_164",
+      "type": "short_answer",
+      "question": "Use 'kill two birds with one stone' in a sentence.",
+      "answer": "By walking to school, I kill two birds with one stone - I get exercise and save money on transport.",
+      "key_points": ["achieving two things at once", "efficiency"]
+    },
+    {
+      "id": "ip_ep_165",
+      "type": "short_answer",
+      "question": "Use 'it's raining cats and dogs' in a sentence.",
+      "answer": "Take an umbrella - it's raining cats and dogs outside!",
+      "key_points": ["heavy rain", "bad weather"]
+    },
+    {
+      "id": "ip_ep_166",
+      "type": "short_answer",
+      "question": "Use 'actions speak louder than words' in a sentence.",
+      "answer": "He keeps promising to help, but actions speak louder than words - I want to see him actually do something.",
+      "key_points": ["deeds vs promises", "prove through action"]
+    },
+    {
+      "id": "ip_ep_167",
+      "type": "short_answer",
+      "question": "Use 'practice makes perfect' in a sentence.",
+      "answer": "Don't give up on learning the guitar. Practice makes perfect!",
+      "key_points": ["encouragement to practice", "improvement through repetition"]
+    },
+    {
+      "id": "ip_ep_168",
+      "type": "short_answer",
+      "question": "Use 'honesty is the best policy' in a sentence.",
+      "answer": "I decided to tell my parents the truth because honesty is the best policy.",
+      "key_points": ["choosing truth", "being honest"]
+    },
+    {
+      "id": "ip_ep_169",
+      "type": "short_answer",
+      "question": "Which proverb means 'being away from someone makes you value them more'?",
+      "answer": "Absence makes the heart grow fonder.",
+      "key_points": ["distance increases appreciation", "missing someone"]
+    },
+    {
+      "id": "ip_ep_170",
+      "type": "short_answer",
+      "question": "Which proverb means 'what you do is more important than what you say'?",
+      "answer": "Actions speak louder than words.",
+      "key_points": ["deeds over words", "prove through action"]
+    },
+    {
+      "id": "ip_ep_171",
+      "type": "short_answer",
+      "question": "Which proverb means 'the more you know, the more capable you become'?",
+      "answer": "Knowledge is power.",
+      "key_points": ["learning empowers", "education is valuable"]
+    },
+    {
+      "id": "ip_ep_172",
+      "type": "short_answer",
+      "question": "Which proverb means 'people always want what they don't have'?",
+      "answer": "The grass is always greener on the other side.",
+      "key_points": ["envy others", "think others have it better"]
+    },
+    {
+      "id": "ip_ep_173",
+      "type": "short_answer",
+      "question": "Which proverb means 'working together is more effective than alone'?",
+      "answer": "Two heads are better than one.",
+      "key_points": ["collaboration", "teamwork is better"]
+    },
+    {
+      "id": "ip_ep_174",
+      "type": "short_answer",
+      "question": "Which proverb means 'if there are signs of a problem, there probably is one'?",
+      "answer": "Where there's smoke, there's fire.",
+      "key_points": ["signs indicate problems", "rumors often have truth"]
+    },
+    {
+      "id": "ip_ep_175",
+      "type": "short_answer",
+      "question": "Which idiom means 'something that is very easy to do'?",
+      "answer": "It's a piece of cake.",
+      "key_points": ["very easy", "simple task"]
+    },
+    {
+      "id": "ip_ep_176",
+      "type": "short_answer",
+      "question": "Which idiom means 'to go to bed'?",
+      "answer": "Hit the sack (or hit the hay).",
+      "key_points": ["go to sleep", "bedtime"]
+    },
+    {
+      "id": "ip_ep_177",
+      "type": "short_answer",
+      "question": "Which idiom means 'the person we were talking about just arrived'?",
+      "answer": "Speak of the devil.",
+      "key_points": ["person appeared", "coincidence"]
+    },
+    {
+      "id": "ip_ep_178",
+      "type": "short_answer",
+      "question": "Which idiom means 'very rarely'?",
+      "answer": "Once in a blue moon.",
+      "key_points": ["rare occurrence", "infrequent"]
+    },
+    {
+      "id": "ip_ep_179",
+      "type": "short_answer",
+      "question": "Which idiom means 'feeling sick or unwell'?",
+      "answer": "Under the weather.",
+      "key_points": ["feeling ill", "not healthy"]
+    },
+    {
+      "id": "ip_ep_180",
+      "type": "short_answer",
+      "question": "Which idiom means 'my patience has run out'?",
+      "answer": "That's the last straw.",
+      "key_points": ["final limit", "no more patience"]
     }
   ]
 }
