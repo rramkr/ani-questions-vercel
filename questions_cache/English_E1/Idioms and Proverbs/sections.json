@@ -7,7 +7,9 @@
     ],
     "exam": [
       {"value": "previous_year_questions", "label": "Previous Year Questions", "icon": "📋"},
-      {"value": "exam_practice", "label": "Exam Practice", "icon": "✍️"}
+      {"value": "exam_practice", "label": "Exam Practice", "icon": "✍️"},
+      {"value": "additional_idioms", "label": "100 Common Idioms", "icon": "💬"},
+      {"value": "additional_proverbs", "label": "50 Common Proverbs", "icon": "📜"}
     ],
     "miscellaneous": []
   }

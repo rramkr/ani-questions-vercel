@@ -1,0 +1,309 @@
+{
+  "subject": "English E1",
+  "chapter": "Idioms and Proverbs",
+  "type": "additional_proverbs",
+  "description": "50 Common Proverbs from teacher's reference material",
+  "questions": [
+    {
+      "id": "ap_1",
+      "question": "What does the proverb 'Absence makes the heart grow fonder' mean?",
+      "answer": "Being away from someone for a period of time makes you appreciate them more.",
+      "example": "I used to hate going to my aunt's house, but now I miss it. Absence makes the heart grow fonder."
+    },
+    {
+      "id": "ap_2",
+      "question": "What does the proverb 'Actions speak louder than words' mean?",
+      "answer": "What you do is more important than what you say.",
+      "example": "Don't just tell me you're going to change. Do it! Actions speak louder than words."
+    },
+    {
+      "id": "ap_3",
+      "question": "What does the proverb 'A journey of a thousand miles begins with a single step' mean?",
+      "answer": "You must begin something if you hope to finish it; even big tasks start with small actions.",
+      "example": "If you want to lose weight, start exercising today. A journey of a thousand miles begins with a single step."
+    },
+    {
+      "id": "ap_4",
+      "question": "What does the proverb 'All good things must come to an end' mean?",
+      "answer": "Nothing lasts forever; good times eventually end.",
+      "example": "I wish this vacation would go on forever, but all good things must come to an end."
+    },
+    {
+      "id": "ap_5",
+      "question": "What does the proverb 'A picture is worth a thousand words' mean?",
+      "answer": "An image can tell a story better than words.",
+      "example": "I wasn't sure he loved her, but then I saw them hugging. A picture is worth a thousand words."
+    },
+    {
+      "id": "ap_6",
+      "question": "What does the proverb 'A watched pot never boils' mean?",
+      "answer": "If you constantly check on something, it seems to take longer.",
+      "example": "Stop checking your email every minute. A watched pot never boils."
+    },
+    {
+      "id": "ap_7",
+      "question": "What does the proverb 'Beggars can't be choosers' mean?",
+      "answer": "If you need help, you should accept what you're given and not ask for more.",
+      "example": "The free food wasn't great, but beggars can't be choosers."
+    },
+    {
+      "id": "ap_8",
+      "question": "What does the proverb 'Beauty is in the eye of the beholder' mean?",
+      "answer": "Different people have different ideas about what is beautiful.",
+      "example": "I think their house is ugly, but they love it. Beauty is in the eye of the beholder."
+    },
+    {
+      "id": "ap_9",
+      "question": "What does the proverb 'Cleanliness is next to godliness' mean?",
+      "answer": "Being clean is very important and is a good quality to have.",
+      "example": "Go take a shower before dinner. Cleanliness is next to godliness."
+    },
+    {
+      "id": "ap_10",
+      "question": "What does the proverb 'Don't bite the hand that feeds you' mean?",
+      "answer": "Don't hurt or criticize someone who is helping you.",
+      "example": "You had a fight with your boss? Don't bite the hand that feeds you!"
+    },
+    {
+      "id": "ap_11",
+      "question": "What does the proverb 'Don't count your chickens before they hatch' mean?",
+      "answer": "Don't expect a positive result before it actually happens.",
+      "example": "You think you'll get the job? Don't count your chickens before they hatch."
+    },
+    {
+      "id": "ap_12",
+      "question": "What does the proverb 'Don't judge a book by its cover' mean?",
+      "answer": "Don't judge someone or something only by appearance.",
+      "example": "The restaurant looked old, but the food was amazing. Don't judge a book by its cover."
+    },
+    {
+      "id": "ap_13",
+      "question": "What does the proverb 'Don't put all your eggs in one basket' mean?",
+      "answer": "Don't risk everything on one option; have backup plans.",
+      "example": "Apply to multiple colleges. Don't put all your eggs in one basket."
+    },
+    {
+      "id": "ap_14",
+      "question": "What does the proverb 'Don't put off until tomorrow what you can do today' mean?",
+      "answer": "Don't procrastinate; do things now if you can.",
+      "example": "You have free time now, so start your homework. Don't put off until tomorrow what you can do today."
+    },
+    {
+      "id": "ap_15",
+      "question": "What does the proverb 'Don't put too many irons in the fire' mean?",
+      "answer": "Don't try to do too many things at once.",
+      "example": "You're exhausted because you have too many irons in the fire."
+    },
+    {
+      "id": "ap_16",
+      "question": "What does the proverb 'Easy come, easy go' mean?",
+      "answer": "Money or things that come easily are often lost quickly.",
+      "example": "I won Rs.500 and spent it all on snacks. Easy come, easy go."
+    },
+    {
+      "id": "ap_17",
+      "question": "What does the proverb 'Fortune favors the bold' mean?",
+      "answer": "People who take risks are more likely to succeed.",
+      "example": "It's risky, but go for it. Fortune favors the bold."
+    },
+    {
+      "id": "ap_18",
+      "question": "What does the proverb 'God helps those who help themselves' mean?",
+      "answer": "Don't wait for good things to happen; work hard to make them happen.",
+      "example": "If you want success, you have to work for it. God helps those who help themselves."
+    },
+    {
+      "id": "ap_19",
+      "question": "What does the proverb 'Good things come to those who wait' mean?",
+      "answer": "If you are patient, good things will happen.",
+      "example": "Be patient about your results. Good things come to those who wait."
+    },
+    {
+      "id": "ap_20",
+      "question": "What does the proverb 'Honesty is the best policy' mean?",
+      "answer": "It's always better to tell the truth than to lie.",
+      "example": "Just tell your parents what happened. Honesty is the best policy."
+    },
+    {
+      "id": "ap_21",
+      "question": "What does the proverb 'Hope for the best, prepare for the worst' mean?",
+      "answer": "Be optimistic but also be ready for problems.",
+      "example": "Take an umbrella just in case. Hope for the best, prepare for the worst."
+    },
+    {
+      "id": "ap_22",
+      "question": "What does the proverb 'If it ain't broke, don't fix it' mean?",
+      "answer": "Don't try to change something that's working well.",
+      "example": "The system works fine. If it ain't broke, don't fix it."
+    },
+    {
+      "id": "ap_23",
+      "question": "What does the proverb 'If you can't beat them, join them' mean?",
+      "answer": "If you can't change someone's behavior, it's easier to go along with them.",
+      "example": "Everyone was playing video games, so I joined them. If you can't beat them, join them."
+    },
+    {
+      "id": "ap_24",
+      "question": "What does the proverb 'If you play with fire, you'll get burned' mean?",
+      "answer": "If you get involved in dangerous situations, you'll face consequences.",
+      "example": "Don't make him angry. If you play with fire, you'll get burned."
+    },
+    {
+      "id": "ap_25",
+      "question": "What does the proverb 'If you want something done right, you have to do it yourself' mean?",
+      "answer": "Don't depend on others to do a good job.",
+      "example": "The dishes weren't clean, so I rewashed them. If you want something done right, do it yourself."
+    },
+    {
+      "id": "ap_26",
+      "question": "What does the proverb 'Keep your friends close and your enemies closer' mean?",
+      "answer": "Watch your enemies carefully so you can be prepared if they try to harm you.",
+      "example": "I don't trust him, but I keep him close. Keep your friends close and your enemies closer."
+    },
+    {
+      "id": "ap_27",
+      "question": "What does the proverb 'Knowledge is power' mean?",
+      "answer": "The more you know, the more powerful and capable you become.",
+      "example": "Keep studying and learning. Knowledge is power."
+    },
+    {
+      "id": "ap_28",
+      "question": "What does the proverb 'Laughter is the best medicine' mean?",
+      "answer": "Laughing can help you feel better, especially during difficult times.",
+      "example": "I'm sorry about your troubles. Want to watch a funny movie? Laughter is the best medicine."
+    },
+    {
+      "id": "ap_29",
+      "question": "What does the proverb 'Like father, like son' mean?",
+      "answer": "A son often behaves like his father.",
+      "example": "He loves cricket just like his dad. Like father, like son."
+    },
+    {
+      "id": "ap_30",
+      "question": "What does the proverb 'No man is an island' mean?",
+      "answer": "No one can live completely alone; we need other people.",
+      "example": "You can't do everything yourself. No man is an island."
+    },
+    {
+      "id": "ap_31",
+      "question": "What does the proverb 'People who live in glass houses should not throw stones' mean?",
+      "answer": "Don't criticize others if you have the same faults.",
+      "example": "You criticize her for being late, but you're always late too. People in glass houses shouldn't throw stones."
+    },
+    {
+      "id": "ap_32",
+      "question": "What does the proverb 'Practice makes perfect' mean?",
+      "answer": "The more you practice something, the better you become at it.",
+      "example": "Keep playing the violin. Practice makes perfect."
+    },
+    {
+      "id": "ap_33",
+      "question": "What does the proverb 'The early bird gets the worm' mean?",
+      "answer": "Those who act early or arrive first have the best chance of success.",
+      "example": "I got front row seats because I arrived early. The early bird gets the worm."
+    },
+    {
+      "id": "ap_34",
+      "question": "What does the proverb 'The enemy of my enemy is my friend' mean?",
+      "answer": "Two people who share a common enemy can work together.",
+      "example": "We don't like each other, but we both dislike him, so let's work together."
+    },
+    {
+      "id": "ap_35",
+      "question": "What does the proverb 'The grass is always greener on the other side' mean?",
+      "answer": "People always want what they don't have.",
+      "example": "You're jealous of your friend's life, but the grass is always greener on the other side."
+    },
+    {
+      "id": "ap_36",
+      "question": "What does the proverb 'The pen is mightier than the sword' mean?",
+      "answer": "Words and ideas are more powerful than violence.",
+      "example": "We should use diplomacy, not war. The pen is mightier than the sword."
+    },
+    {
+      "id": "ap_37",
+      "question": "What does the proverb 'There is no place like home' mean?",
+      "answer": "Your home is the most comfortable place in the world.",
+      "example": "After a long trip, I'm glad to be back. There's no place like home."
+    },
+    {
+      "id": "ap_38",
+      "question": "What does the proverb 'There is no such thing as a free lunch' mean?",
+      "answer": "Nothing is truly free; there's always a hidden cost.",
+      "example": "The 'free' gift required a purchase. There's no such thing as a free lunch."
+    },
+    {
+      "id": "ap_39",
+      "question": "What does the proverb 'There is no time like the present' mean?",
+      "answer": "Do things now, don't wait.",
+      "example": "Call your grandmother now. There's no time like the present."
+    },
+    {
+      "id": "ap_40",
+      "question": "What does the proverb 'The squeaky wheel gets the grease' mean?",
+      "answer": "The person who complains the most gets the most attention.",
+      "example": "She keeps asking for a raise and finally got one. The squeaky wheel gets the grease."
+    },
+    {
+      "id": "ap_41",
+      "question": "What does the proverb 'Time is money' mean?",
+      "answer": "Time is valuable; don't waste it.",
+      "example": "Hurry up and finish! Time is money."
+    },
+    {
+      "id": "ap_42",
+      "question": "What does the proverb 'Two heads are better than one' mean?",
+      "answer": "It's easier to solve problems when working together.",
+      "example": "I'm stuck on this problem. Can you help? Two heads are better than one."
+    },
+    {
+      "id": "ap_43",
+      "question": "What does the proverb 'Two wrongs don't make a right' mean?",
+      "answer": "Doing something bad in response to something bad doesn't make it okay.",
+      "example": "She hurt you, but revenge won't help. Two wrongs don't make a right."
+    },
+    {
+      "id": "ap_44",
+      "question": "What does the proverb 'When in Rome, do as the Romans do' mean?",
+      "answer": "When in a new place, follow the local customs.",
+      "example": "Everyone here eats with their hands, so I did too. When in Rome!"
+    },
+    {
+      "id": "ap_45",
+      "question": "What does the proverb 'When the going gets tough, the tough get going' mean?",
+      "answer": "Strong people work harder when situations become difficult.",
+      "example": "Don't give up now. When the going gets tough, the tough get going."
+    },
+    {
+      "id": "ap_46",
+      "question": "What does the proverb 'Where there's smoke, there's fire' mean?",
+      "answer": "If there are signs of a problem, there probably is one.",
+      "example": "Everyone's talking about their breakup. Where there's smoke, there's fire."
+    },
+    {
+      "id": "ap_47",
+      "question": "What does the proverb 'You can lead a horse to water, but you can't make him drink' mean?",
+      "answer": "You can give someone an opportunity, but you can't force them to take it.",
+      "example": "I helped him find jobs, but he didn't apply. You can lead a horse to water..."
+    },
+    {
+      "id": "ap_48",
+      "question": "What does the proverb 'You can't always get what you want' mean?",
+      "answer": "Sometimes things don't go as planned; accept disappointments.",
+      "example": "I wanted to see that movie but couldn't. You can't always get what you want."
+    },
+    {
+      "id": "ap_49",
+      "question": "What does the proverb 'Slow and steady wins the race' mean?",
+      "answer": "Being consistent and careful is more important than being fast.",
+      "example": "Don't rush your work. Slow and steady wins the race."
+    },
+    {
+      "id": "ap_50",
+      "question": "What does the proverb 'Look before you leap' mean?",
+      "answer": "Think carefully before making a decision.",
+      "example": "Before you quit your job, make sure you have another one. Look before you leap."
+    }
+  ],
+  "total_count": 50
+}

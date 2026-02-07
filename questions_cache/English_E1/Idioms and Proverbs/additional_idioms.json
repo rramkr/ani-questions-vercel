@@ -1,0 +1,609 @@
+{
+  "subject": "English E1",
+  "chapter": "Idioms and Proverbs",
+  "type": "additional_idioms",
+  "description": "Additional idioms from teacher's reference material",
+  "questions": [
+    {
+      "id": "ai_1",
+      "question": "What does the idiom 'a blessing in disguise' mean?",
+      "answer": "A good thing that seemed bad at first.",
+      "example": "Losing that job was a blessing in disguise - I found a much better one!"
+    },
+    {
+      "id": "ai_2",
+      "question": "What does the idiom 'a dime a dozen' mean?",
+      "answer": "Something very common and not special.",
+      "example": "Those kinds of toys are a dime a dozen at the market."
+    },
+    {
+      "id": "ai_3",
+      "question": "What does the idiom 'beat around the bush' mean?",
+      "answer": "Avoid saying what you mean, usually because it is uncomfortable.",
+      "example": "Stop beating around the bush and tell me what happened."
+    },
+    {
+      "id": "ai_4",
+      "question": "What does the idiom 'better late than never' mean?",
+      "answer": "It is better to arrive late than not to come at all.",
+      "example": "You finally submitted your project! Well, better late than never."
+    },
+    {
+      "id": "ai_5",
+      "question": "What does the idiom 'bite the bullet' mean?",
+      "answer": "To get something over with because it is inevitable; to endure a painful situation.",
+      "example": "I hate going to the dentist, but I'll just have to bite the bullet."
+    },
+    {
+      "id": "ai_6",
+      "question": "What does the idiom 'break a leg' mean?",
+      "answer": "Good luck (often said to performers before a show).",
+      "example": "You're performing tonight? Break a leg!"
+    },
+    {
+      "id": "ai_7",
+      "question": "What does the idiom 'call it a day' mean?",
+      "answer": "To stop working on something; to end the day's work.",
+      "example": "We've been working for hours. Let's call it a day."
+    },
+    {
+      "id": "ai_8",
+      "question": "What does the idiom 'cut somebody some slack' mean?",
+      "answer": "Don't be so critical; give someone a break.",
+      "example": "He's new here, so cut him some slack."
+    },
+    {
+      "id": "ai_9",
+      "question": "What does the idiom 'cutting corners' mean?",
+      "answer": "Doing something poorly or cheaply in order to save time or money.",
+      "example": "The builders were cutting corners, so the house has many problems now."
+    },
+    {
+      "id": "ai_10",
+      "question": "What does the idiom 'easy does it' mean?",
+      "answer": "Slow down; be careful.",
+      "example": "Easy does it - that box is fragile!"
+    },
+    {
+      "id": "ai_11",
+      "question": "What does the idiom 'get out of hand' mean?",
+      "answer": "Get out of control.",
+      "example": "The party got out of hand and the neighbors complained."
+    },
+    {
+      "id": "ai_12",
+      "question": "What does the idiom 'get your act together' mean?",
+      "answer": "Start behaving better or more responsibly.",
+      "example": "You need to get your act together and start studying seriously."
+    },
+    {
+      "id": "ai_13",
+      "question": "What does the idiom 'give someone the benefit of the doubt' mean?",
+      "answer": "Trust what someone says without proof.",
+      "example": "I'll give him the benefit of the doubt and believe his excuse."
+    },
+    {
+      "id": "ai_14",
+      "question": "What does the idiom 'go back to the drawing board' mean?",
+      "answer": "Start over; begin again from the beginning.",
+      "example": "That plan didn't work. Let's go back to the drawing board."
+    },
+    {
+      "id": "ai_15",
+      "question": "What does the idiom 'hang in there' mean?",
+      "answer": "Don't give up; keep trying.",
+      "example": "I know it's tough, but hang in there - things will get better."
+    },
+    {
+      "id": "ai_16",
+      "question": "What does the idiom 'hit the sack' mean?",
+      "answer": "Go to bed; go to sleep.",
+      "example": "I'm exhausted. I'm going to hit the sack early tonight."
+    },
+    {
+      "id": "ai_17",
+      "question": "What does the idiom 'it's not rocket science' mean?",
+      "answer": "It's not complicated; it's easy to understand.",
+      "example": "Just follow the instructions - it's not rocket science."
+    },
+    {
+      "id": "ai_18",
+      "question": "What does the idiom 'let someone off the hook' mean?",
+      "answer": "To not hold someone responsible for something.",
+      "example": "The teacher let him off the hook because it was his first offense."
+    },
+    {
+      "id": "ai_19",
+      "question": "What does the idiom 'make a long story short' mean?",
+      "answer": "Tell something briefly; get to the point.",
+      "example": "To make a long story short, we missed the train and had to walk."
+    },
+    {
+      "id": "ai_20",
+      "question": "What does the idiom 'miss the boat' mean?",
+      "answer": "It's too late; you've missed the opportunity.",
+      "example": "If you don't apply now, you'll miss the boat."
+    },
+    {
+      "id": "ai_21",
+      "question": "What does the idiom 'no pain, no gain' mean?",
+      "answer": "You have to work hard for what you want.",
+      "example": "Keep exercising! No pain, no gain."
+    },
+    {
+      "id": "ai_22",
+      "question": "What does the idiom 'on the ball' mean?",
+      "answer": "Doing a good job; being alert and competent.",
+      "example": "She's really on the ball - she noticed the error right away."
+    },
+    {
+      "id": "ai_23",
+      "question": "What does the idiom 'pull someone's leg' mean?",
+      "answer": "To joke with someone; to tease playfully.",
+      "example": "I was just pulling your leg - I didn't really eat your chocolate."
+    },
+    {
+      "id": "ai_24",
+      "question": "What does the idiom 'pull yourself together' mean?",
+      "answer": "Calm down; regain your composure.",
+      "example": "Pull yourself together - the interview is in five minutes."
+    },
+    {
+      "id": "ai_25",
+      "question": "What does the idiom 'so far so good' mean?",
+      "answer": "Things are going well so far.",
+      "example": "How's the project going? So far so good!"
+    },
+    {
+      "id": "ai_26",
+      "question": "What does the idiom 'speak of the devil' mean?",
+      "answer": "The person we were just talking about showed up!",
+      "example": "We were just discussing Ram, and speak of the devil, here he comes!"
+    },
+    {
+      "id": "ai_27",
+      "question": "What does the idiom 'that's the last straw' mean?",
+      "answer": "My patience has run out; this is too much.",
+      "example": "You're late again? That's the last straw!"
+    },
+    {
+      "id": "ai_28",
+      "question": "What does the idiom 'the best of both worlds' mean?",
+      "answer": "An ideal situation where you enjoy two different advantages.",
+      "example": "Working from home gives me the best of both worlds - career and family time."
+    },
+    {
+      "id": "ai_29",
+      "question": "What does the idiom 'time flies when you're having fun' mean?",
+      "answer": "You don't notice how long something lasts when it's enjoyable.",
+      "example": "Is it already 6 PM? Time flies when you're having fun!"
+    },
+    {
+      "id": "ai_30",
+      "question": "What does the idiom 'to get bent out of shape' mean?",
+      "answer": "To get upset or angry.",
+      "example": "Don't get bent out of shape - it was just a small mistake."
+    },
+    {
+      "id": "ai_31",
+      "question": "What does the idiom 'to make matters worse' mean?",
+      "answer": "To make a bad situation even worse.",
+      "example": "I was already late, and to make matters worse, my car broke down."
+    },
+    {
+      "id": "ai_32",
+      "question": "What does the idiom 'under the weather' mean?",
+      "answer": "Feeling sick or ill.",
+      "example": "I'm feeling a bit under the weather today, so I'll stay home."
+    },
+    {
+      "id": "ai_33",
+      "question": "What does the idiom 'we'll cross that bridge when we come to it' mean?",
+      "answer": "We'll deal with that problem when it actually happens.",
+      "example": "What if we fail? We'll cross that bridge when we come to it."
+    },
+    {
+      "id": "ai_34",
+      "question": "What does the idiom 'wrap your head around something' mean?",
+      "answer": "Understand something complicated.",
+      "example": "I can't wrap my head around this math problem."
+    },
+    {
+      "id": "ai_35",
+      "question": "What does the idiom 'you can say that again' mean?",
+      "answer": "That's true; I completely agree.",
+      "example": "'This weather is terrible!' 'You can say that again!'"
+    },
+    {
+      "id": "ai_36",
+      "question": "What does the idiom 'your guess is as good as mine' mean?",
+      "answer": "I have no idea; I don't know either.",
+      "example": "Where did he go? Your guess is as good as mine."
+    },
+    {
+      "id": "ai_37",
+      "question": "What does the idiom 'a penny for your thoughts' mean?",
+      "answer": "Tell me what you're thinking.",
+      "example": "You look worried. A penny for your thoughts?"
+    },
+    {
+      "id": "ai_38",
+      "question": "What does the idiom 'a perfect storm' mean?",
+      "answer": "The worst possible situation; a combination of bad factors.",
+      "example": "Traffic, rain, and a flat tire - it was a perfect storm of problems."
+    },
+    {
+      "id": "ai_39",
+      "question": "What does the idiom 'add insult to injury' mean?",
+      "answer": "To make a bad situation worse by doing something hurtful.",
+      "example": "He broke my phone and, to add insult to injury, blamed me for it."
+    },
+    {
+      "id": "ai_40",
+      "question": "What does the idiom 'by the skin of your teeth' mean?",
+      "answer": "Just barely; very narrowly.",
+      "example": "I passed the exam by the skin of my teeth - just one mark above passing!"
+    },
+    {
+      "id": "ai_41",
+      "question": "What does the idiom 'comparing apples to oranges' mean?",
+      "answer": "Comparing two things that cannot be fairly compared.",
+      "example": "Comparing a car to a bicycle is like comparing apples to oranges."
+    },
+    {
+      "id": "ai_42",
+      "question": "What does the idiom 'costs an arm and a leg' mean?",
+      "answer": "Very expensive.",
+      "example": "That designer bag costs an arm and a leg."
+    },
+    {
+      "id": "ai_43",
+      "question": "What does the idiom 'at the drop of a hat' mean?",
+      "answer": "Do something immediately without planning.",
+      "example": "She can recite poems at the drop of a hat."
+    },
+    {
+      "id": "ai_44",
+      "question": "What does the idiom 'don't cry over spilt milk' mean?",
+      "answer": "Don't complain about something that can't be fixed.",
+      "example": "The vase is broken. Don't cry over spilt milk - let's clean it up."
+    },
+    {
+      "id": "ai_45",
+      "question": "What does the idiom 'give someone the cold shoulder' mean?",
+      "answer": "Ignore someone deliberately.",
+      "example": "Ever since our argument, she's been giving me the cold shoulder."
+    },
+    {
+      "id": "ai_46",
+      "question": "What does the idiom 'go on a wild goose chase' mean?",
+      "answer": "To do something pointless; search for something impossible to find.",
+      "example": "Looking for that old document was a wild goose chase."
+    },
+    {
+      "id": "ai_47",
+      "question": "What does the idiom 'he's a chip off the old block' mean?",
+      "answer": "The son is similar to his father in character or appearance.",
+      "example": "He loves cricket just like his dad - a real chip off the old block."
+    },
+    {
+      "id": "ai_48",
+      "question": "What does the idiom 'hit the nail on the head' mean?",
+      "answer": "Get something exactly right.",
+      "example": "You hit the nail on the head with that analysis."
+    },
+    {
+      "id": "ai_49",
+      "question": "What does the idiom 'ignorance is bliss' mean?",
+      "answer": "You're happier not knowing certain things.",
+      "example": "I didn't know about the problem until yesterday. Ignorance is bliss!"
+    },
+    {
+      "id": "ai_50",
+      "question": "What does the idiom 'it ain't over till the fat lady sings' mean?",
+      "answer": "This isn't finished yet; don't give up hope.",
+      "example": "We're losing, but it ain't over till the fat lady sings!"
+    },
+    {
+      "id": "ai_51",
+      "question": "What does the idiom 'it takes one to know one' mean?",
+      "answer": "You're just as bad as I am; you have the same fault.",
+      "example": "'You're lazy!' 'It takes one to know one!'"
+    },
+    {
+      "id": "ai_52",
+      "question": "What does the idiom 'it's a piece of cake' mean?",
+      "answer": "It's very easy.",
+      "example": "Don't worry about the test - it's a piece of cake."
+    },
+    {
+      "id": "ai_53",
+      "question": "What does the idiom 'it's raining cats and dogs' mean?",
+      "answer": "It's raining very heavily.",
+      "example": "Take an umbrella - it's raining cats and dogs outside."
+    },
+    {
+      "id": "ai_54",
+      "question": "What does the idiom 'kill two birds with one stone' mean?",
+      "answer": "Accomplish two things with a single action.",
+      "example": "By cycling to work, I kill two birds with one stone - exercise and commuting."
+    },
+    {
+      "id": "ai_55",
+      "question": "What does the idiom 'once in a blue moon' mean?",
+      "answer": "Very rarely.",
+      "example": "I only eat pizza once in a blue moon."
+    },
+    {
+      "id": "ai_56",
+      "question": "What does the idiom 'play devil's advocate' mean?",
+      "answer": "To argue the opposite side just for the sake of argument.",
+      "example": "Let me play devil's advocate - what if the plan fails?"
+    },
+    {
+      "id": "ai_57",
+      "question": "What does the idiom 'put something on ice' mean?",
+      "answer": "Put a project on hold; postpone something.",
+      "example": "Let's put this project on ice until next month."
+    },
+    {
+      "id": "ai_58",
+      "question": "What does the idiom 'rain on someone's parade' mean?",
+      "answer": "To spoil someone's plans or happiness.",
+      "example": "I don't want to rain on your parade, but there might be a problem."
+    },
+    {
+      "id": "ai_59",
+      "question": "What does the idiom 'saving for a rainy day' mean?",
+      "answer": "Saving money for future needs or emergencies.",
+      "example": "I always save some money for a rainy day."
+    },
+    {
+      "id": "ai_60",
+      "question": "What does the idiom 'spill the beans' mean?",
+      "answer": "Reveal a secret.",
+      "example": "Don't spill the beans about the surprise party!"
+    },
+    {
+      "id": "ai_61",
+      "question": "What does the idiom 'take a rain check' mean?",
+      "answer": "Postpone an offer to another time.",
+      "example": "I can't come today, but can I take a rain check for next week?"
+    },
+    {
+      "id": "ai_62",
+      "question": "What does the idiom 'take it with a grain of salt' mean?",
+      "answer": "Don't take it too seriously; be skeptical.",
+      "example": "He exaggerates, so take his stories with a grain of salt."
+    },
+    {
+      "id": "ai_63",
+      "question": "What does the idiom 'the ball is in your court' mean?",
+      "answer": "It's your decision; it's your turn to act.",
+      "example": "I've made my offer. The ball is in your court now."
+    },
+    {
+      "id": "ai_64",
+      "question": "What does the idiom 'the best thing since sliced bread' mean?",
+      "answer": "A really good invention or idea.",
+      "example": "This new app is the best thing since sliced bread!"
+    },
+    {
+      "id": "ai_65",
+      "question": "What does the idiom 'the devil is in the details' mean?",
+      "answer": "Small things can cause big problems; details matter.",
+      "example": "The plan looks good, but the devil is in the details."
+    },
+    {
+      "id": "ai_66",
+      "question": "What does the idiom 'the elephant in the room' mean?",
+      "answer": "An obvious problem that everyone is ignoring.",
+      "example": "Let's address the elephant in the room - we're over budget."
+    },
+    {
+      "id": "ai_67",
+      "question": "What does the idiom 'the whole nine yards' mean?",
+      "answer": "Everything; all of it.",
+      "example": "She wanted the party with decorations, cake, music - the whole nine yards."
+    },
+    {
+      "id": "ai_68",
+      "question": "What does the idiom 'there are other fish in the sea' mean?",
+      "answer": "There are other opportunities available.",
+      "example": "Don't be sad about that job - there are other fish in the sea."
+    },
+    {
+      "id": "ai_69",
+      "question": "What does the idiom 'there's a method to his madness' mean?",
+      "answer": "His strange behavior actually has a purpose.",
+      "example": "His approach seems odd, but there's a method to his madness."
+    },
+    {
+      "id": "ai_70",
+      "question": "What does the idiom 'throw caution to the wind' mean?",
+      "answer": "Take a risk; act recklessly.",
+      "example": "She threw caution to the wind and quit her job to travel."
+    },
+    {
+      "id": "ai_71",
+      "question": "What does the idiom 'on thin ice' mean?",
+      "answer": "In a risky situation; likely to get in trouble.",
+      "example": "After missing two deadlines, he's on thin ice with his boss."
+    },
+    {
+      "id": "ai_72",
+      "question": "What does the idiom 'burn bridges' mean?",
+      "answer": "Destroy relationships or opportunities permanently.",
+      "example": "Don't burn bridges when you leave a job - you might need references."
+    },
+    {
+      "id": "ai_73",
+      "question": "What does the idiom 'calm before the storm' mean?",
+      "answer": "A peaceful period before trouble arrives.",
+      "example": "Everything seemed fine, but it was just the calm before the storm."
+    },
+    {
+      "id": "ai_74",
+      "question": "What does the idiom 'come rain or shine' mean?",
+      "answer": "No matter what happens; in any circumstances.",
+      "example": "I'll be there, come rain or shine."
+    },
+    {
+      "id": "ai_75",
+      "question": "What does the idiom 'curiosity killed the cat' mean?",
+      "answer": "Being too curious can lead to trouble.",
+      "example": "Stop asking so many questions - curiosity killed the cat!"
+    },
+    {
+      "id": "ai_76",
+      "question": "What does the idiom 'cut the mustard' mean?",
+      "answer": "Meet the required standard; do a good enough job.",
+      "example": "His work just doesn't cut the mustard anymore."
+    },
+    {
+      "id": "ai_77",
+      "question": "What does the idiom 'don't beat a dead horse' mean?",
+      "answer": "Stop wasting time on something that's already over.",
+      "example": "That topic is finished - don't beat a dead horse."
+    },
+    {
+      "id": "ai_78",
+      "question": "What does the idiom 'every dog has his day' mean?",
+      "answer": "Everyone gets a chance to succeed at some point.",
+      "example": "I'll win someday - every dog has his day."
+    },
+    {
+      "id": "ai_79",
+      "question": "What does the idiom 'fit as a fiddle' mean?",
+      "answer": "In very good health.",
+      "example": "After his recovery, he's as fit as a fiddle."
+    },
+    {
+      "id": "ai_80",
+      "question": "What does the idiom 'get a second wind' mean?",
+      "answer": "Get renewed energy after being tired.",
+      "example": "After a short break, I got my second wind and finished the work."
+    },
+    {
+      "id": "ai_81",
+      "question": "What does the idiom 'go down in flames' mean?",
+      "answer": "Fail spectacularly.",
+      "example": "His business idea went down in flames."
+    },
+    {
+      "id": "ai_82",
+      "question": "What does the idiom 'have your head in the clouds' mean?",
+      "answer": "Not paying attention; daydreaming.",
+      "example": "She has her head in the clouds during class."
+    },
+    {
+      "id": "ai_83",
+      "question": "What does the idiom 'he who laughs last laughs loudest' mean?",
+      "answer": "The final winner will have the greatest satisfaction.",
+      "example": "They laughed at my idea, but he who laughs last laughs loudest."
+    },
+    {
+      "id": "ai_84",
+      "question": "What does the idiom 'hear something straight from the horse's mouth' mean?",
+      "answer": "Hear information directly from the source.",
+      "example": "I heard it straight from the horse's mouth - the boss told me himself."
+    },
+    {
+      "id": "ai_85",
+      "question": "What does the idiom 'he's not playing with a full deck' mean?",
+      "answer": "He's not very smart; he's a bit crazy.",
+      "example": "His ideas are strange - I don't think he's playing with a full deck."
+    },
+    {
+      "id": "ai_86",
+      "question": "What does the idiom 'he's sitting on the fence' mean?",
+      "answer": "He can't make up his mind; he's undecided.",
+      "example": "Stop sitting on the fence and make a decision!"
+    },
+    {
+      "id": "ai_87",
+      "question": "What does the idiom 'jump on the bandwagon' mean?",
+      "answer": "Follow a popular trend; do what everyone else is doing.",
+      "example": "Everyone's jumping on the bandwagon with this new diet."
+    },
+    {
+      "id": "ai_88",
+      "question": "What does the idiom 'leave no stone unturned' mean?",
+      "answer": "Search everywhere; try every possibility.",
+      "example": "The police left no stone unturned in their investigation."
+    },
+    {
+      "id": "ai_89",
+      "question": "What does the idiom 'let sleeping dogs lie' mean?",
+      "answer": "Don't disturb a situation that might cause trouble.",
+      "example": "Don't mention that old argument - let sleeping dogs lie."
+    },
+    {
+      "id": "ai_90",
+      "question": "What does the idiom 'like riding a bicycle' mean?",
+      "answer": "Something you never forget how to do.",
+      "example": "Don't worry, playing piano is like riding a bicycle - it'll come back to you."
+    },
+    {
+      "id": "ai_91",
+      "question": "What does the idiom 'like two peas in a pod' mean?",
+      "answer": "Very similar; always together.",
+      "example": "Those twins are like two peas in a pod."
+    },
+    {
+      "id": "ai_92",
+      "question": "What does the idiom 'once bitten, twice shy' mean?",
+      "answer": "If you've been hurt before, you're more careful next time.",
+      "example": "After losing money in stocks, I'm cautious now - once bitten, twice shy."
+    },
+    {
+      "id": "ai_93",
+      "question": "What does the idiom 'out of the frying pan and into the fire' mean?",
+      "answer": "Going from a bad situation to an even worse one.",
+      "example": "Quitting that job for this one was out of the frying pan and into the fire."
+    },
+    {
+      "id": "ai_94",
+      "question": "What does the idiom 'run like the wind' mean?",
+      "answer": "Run very fast.",
+      "example": "When he heard the bell, he ran like the wind to class."
+    },
+    {
+      "id": "ai_95",
+      "question": "What does the idiom 'shape up or ship out' mean?",
+      "answer": "Improve your behavior or leave.",
+      "example": "The coach told him: shape up or ship out!"
+    },
+    {
+      "id": "ai_96",
+      "question": "What does the idiom 'snowed under' mean?",
+      "answer": "Overwhelmed with work.",
+      "example": "I'm snowed under with assignments this week."
+    },
+    {
+      "id": "ai_97",
+      "question": "What does the idiom 'that ship has sailed' mean?",
+      "answer": "It's too late; the opportunity has passed.",
+      "example": "I wanted to apologize but that ship has sailed - she's moved away."
+    },
+    {
+      "id": "ai_98",
+      "question": "What does the idiom 'the pot calling the kettle black' mean?",
+      "answer": "Criticizing someone for a fault you have yourself.",
+      "example": "You're calling me lazy? That's the pot calling the kettle black!"
+    },
+    {
+      "id": "ai_99",
+      "question": "What does the idiom 'through thick and thin' mean?",
+      "answer": "Through good times and bad times.",
+      "example": "True friends stay together through thick and thin."
+    },
+    {
+      "id": "ai_100",
+      "question": "What does the idiom 'when it rains it pours' mean?",
+      "answer": "Problems tend to come all at once.",
+      "example": "First my phone broke, then my car - when it rains it pours!"
+    }
+  ],
+  "total_count": 100
+}
