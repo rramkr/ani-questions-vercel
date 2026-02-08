@@ -4,246 +4,306 @@
   "questions": [
     {
       "id": "hn_1",
-      "question": "1",
-      "answer": "१ (एक)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_2",
-      "question": "2",
-      "answer": "२ (दो)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_3",
-      "question": "3",
-      "answer": "३ (तीन)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_4",
-      "question": "4",
-      "answer": "४ (चार)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_5",
-      "question": "5",
-      "answer": "५ (पाँच)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_6",
-      "question": "6",
-      "answer": "६ (छह)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_7",
-      "question": "7",
-      "answer": "७ (सात)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_8",
-      "question": "8",
-      "answer": "८ (आठ)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_9",
-      "question": "9",
-      "answer": "९ (नौ)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_10",
-      "question": "0",
-      "answer": "० (शून्य)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_11",
-      "question": "10",
-      "answer": "१० (दस)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_12",
-      "question": "11",
-      "answer": "११ (ग्यारह)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_13",
-      "question": "12",
-      "answer": "१२ (बारह)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_14",
-      "question": "13",
-      "answer": "१३ (तेरह)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_15",
-      "question": "14",
-      "answer": "१४ (चौदह)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_16",
-      "question": "15",
-      "answer": "१५ (पंद्रह)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_17",
-      "question": "16",
-      "answer": "१६ (सोलह)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_18",
       "question": "17",
       "answer": "१७ (सत्रह)",
       "source": "Notebook"
     },
     {
-      "id": "hn_19",
-      "question": "18",
-      "answer": "१८ (अठारह)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_20",
-      "question": "19",
-      "answer": "१९ (उन्नीस)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_21",
-      "question": "20",
-      "answer": "२० (बीस)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_22",
-      "question": "21",
-      "answer": "२१ (इक्कीस)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_23",
-      "question": "22",
-      "answer": "२२ (बाईस)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_24",
+      "id": "hn_2",
       "question": "23",
       "answer": "२३ (तेईस)",
       "source": "Notebook"
     },
     {
-      "id": "hn_25",
-      "question": "24",
-      "answer": "२४ (चौबीस)",
+      "id": "hn_3",
+      "question": "36",
+      "answer": "३६ (छत्तीस)",
       "source": "Notebook"
     },
     {
-      "id": "hn_26",
-      "question": "25",
-      "answer": "२५ (पच्चीस)",
+      "id": "hn_4",
+      "question": "42",
+      "answer": "४२ (बयालीस)",
       "source": "Notebook"
     },
     {
-      "id": "hn_27",
-      "question": "30",
-      "answer": "३० (तीस)",
+      "id": "hn_5",
+      "question": "58",
+      "answer": "५८ (अट्ठावन)",
       "source": "Notebook"
     },
     {
-      "id": "hn_28",
-      "question": "40",
-      "answer": "४० (चालीस)",
+      "id": "hn_6",
+      "question": "64",
+      "answer": "६४ (चौंसठ)",
       "source": "Notebook"
     },
     {
-      "id": "hn_29",
-      "question": "50",
-      "answer": "५० (पचास)",
+      "id": "hn_7",
+      "question": "79",
+      "answer": "७९ (उनासी)",
       "source": "Notebook"
     },
     {
-      "id": "hn_30",
-      "question": "60",
-      "answer": "६० (साठ)",
+      "id": "hn_8",
+      "question": "85",
+      "answer": "८५ (पचासी)",
       "source": "Notebook"
     },
     {
-      "id": "hn_31",
-      "question": "70",
-      "answer": "७० (सत्तर)",
+      "id": "hn_9",
+      "question": "91",
+      "answer": "९१ (इक्यानवे)",
       "source": "Notebook"
     },
     {
-      "id": "hn_32",
-      "question": "80",
-      "answer": "८० (अस्सी)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_33",
-      "question": "90",
-      "answer": "९० (नब्बे)",
-      "source": "Notebook"
-    },
-    {
-      "id": "hn_34",
+      "id": "hn_10",
       "question": "100",
       "answer": "१०० (सौ)",
       "source": "Notebook"
     },
     {
+      "id": "hn_11",
+      "question": "125",
+      "answer": "१२५ (एक सौ पच्चीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_12",
+      "question": "248",
+      "answer": "२४८ (दो सौ अड़तालीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_13",
+      "question": "367",
+      "answer": "३६७ (तीन सौ सड़सठ)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_14",
+      "question": "419",
+      "answer": "४१९ (चार सौ उन्नीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_15",
+      "question": "532",
+      "answer": "५३२ (पाँच सौ बत्तीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_16",
+      "question": "678",
+      "answer": "६७८ (छह सौ अठहत्तर)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_17",
+      "question": "743",
+      "answer": "७४३ (सात सौ तैंतालीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_18",
+      "question": "856",
+      "answer": "८५६ (आठ सौ छप्पन)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_19",
+      "question": "999",
+      "answer": "९९९ (नौ सौ निन्यानवे)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_20",
+      "question": "1000",
+      "answer": "१००० (एक हज़ार)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_21",
+      "question": "47",
+      "answer": "४७ (सैंतालीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_22",
+      "question": "53",
+      "answer": "५३ (तिरपन)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_23",
+      "question": "66",
+      "answer": "६६ (छियासठ)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_24",
+      "question": "72",
+      "answer": "७२ (बहत्तर)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_25",
+      "question": "88",
+      "answer": "८८ (अठ्ठासी)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_26",
+      "question": "94",
+      "answer": "९४ (चौरानवे)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_27",
+      "question": "156",
+      "answer": "१५६ (एक सौ छप्पन)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_28",
+      "question": "289",
+      "answer": "२८९ (दो सौ नवासी)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_29",
+      "question": "315",
+      "answer": "३१५ (तीन सौ पंद्रह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_30",
+      "question": "444",
+      "answer": "४४४ (चार सौ चवालीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_31",
+      "question": "571",
+      "answer": "५७१ (पाँच सौ इकहत्तर)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_32",
+      "question": "623",
+      "answer": "६२३ (छह सौ तेईस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_33",
+      "question": "777",
+      "answer": "७७७ (सात सौ सतहत्तर)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_34",
+      "question": "892",
+      "answer": "८९२ (आठ सौ बानवे)",
+      "source": "Notebook"
+    },
+    {
       "id": "hn_35",
-      "question": "26",
-      "answer": "२६ (छब्बीस)",
+      "question": "39",
+      "answer": "३९ (उनतालीस)",
       "source": "Notebook"
     },
     {
       "id": "hn_36",
-      "question": "27",
-      "answer": "२७ (सत्ताईस)",
+      "question": "61",
+      "answer": "६१ (इकसठ)",
       "source": "Notebook"
     },
     {
       "id": "hn_37",
-      "question": "28",
-      "answer": "२८ (अट्ठाईस)",
+      "question": "76",
+      "answer": "७६ (छिहत्तर)",
       "source": "Notebook"
     },
     {
       "id": "hn_38",
+      "question": "83",
+      "answer": "८३ (तिरासी)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_39",
+      "question": "97",
+      "answer": "९७ (सत्तानवे)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_40",
+      "question": "234",
+      "answer": "२३४ (दो सौ चौंतीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_41",
+      "question": "456",
+      "answer": "४५६ (चार सौ छप्पन)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_42",
+      "question": "789",
+      "answer": "७८९ (सात सौ नवासी)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_43",
+      "question": "111",
+      "answer": "१११ (एक सौ ग्यारह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_44",
+      "question": "555",
+      "answer": "५५५ (पाँच सौ पचपन)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_45",
+      "question": "333",
+      "answer": "३३३ (तीन सौ तैंतीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_46",
       "question": "29",
       "answer": "२९ (उनतीस)",
       "source": "Notebook"
     },
     {
-      "id": "hn_39",
-      "question": "35",
-      "answer": "३५ (पैंतीस)",
+      "id": "hn_47",
+      "question": "44",
+      "answer": "४४ (चवालीस)",
       "source": "Notebook"
     },
     {
-      "id": "hn_40",
-      "question": "45",
-      "answer": "४५ (पैंतालीस)",
+      "id": "hn_48",
+      "question": "68",
+      "answer": "६८ (अड़सठ)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_49",
+      "question": "192",
+      "answer": "१९२ (एक सौ बानवे)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_50",
+      "question": "847",
+      "answer": "८४७ (आठ सौ सैंतालीस)",
       "source": "Notebook"
     }
   ],
-  "total_count": 40,
+  "total_count": 50,
   "subject": "Hindi",
   "chapter": "Annual Exam 2026"
 }
