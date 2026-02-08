@@ -3,7 +3,8 @@
   "chapter": "Idioms and Proverbs",
   "sections": {
     "textbook": [
-      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"},
+      {"value": "match_the_following", "label": "Match the Following", "icon": "🔗"}
     ],
     "exam": [
       {"value": "previous_year_questions", "label": "Previous Year Questions", "icon": "📋"},
