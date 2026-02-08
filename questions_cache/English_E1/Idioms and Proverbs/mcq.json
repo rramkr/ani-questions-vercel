@@ -1,0 +1,113 @@
+{
+  "question_type": "mcq",
+  "description": "MCQ questions for Idioms - Exercise B from textbook",
+  "questions": [
+    {
+      "id": "ip_mcq_1",
+      "type": "mcq",
+      "question": "Rahul felt that the time had come for him to take the bull by the horns.\n\n'Take the bull by the horns' means:",
+      "options": [
+        "tame the bull by holding its horns",
+        "handle the difficulty boldly",
+        "run away from problems",
+        "ask others for help"
+      ],
+      "answer": "handle the difficulty boldly",
+      "source": "Textbook Exercise B"
+    },
+    {
+      "id": "ip_mcq_2",
+      "type": "mcq",
+      "question": "The students had no other alternative; they had to face the music.\n\n'Face the music' means:",
+      "options": [
+        "face the consequences of one's actions",
+        "take up music classes",
+        "listen to loud music",
+        "enjoy a concert"
+      ],
+      "answer": "face the consequences of one's actions",
+      "source": "Textbook Exercise B"
+    },
+    {
+      "id": "ip_mcq_3",
+      "type": "mcq",
+      "question": "He does not take a walk in the garden; neither does he allow anybody else to do so. He has a dog in the manger attitude.\n\n'A dog in the manger' means:",
+      "options": [
+        "keeping a watch over what is yours",
+        "preventing someone from having what you yourself don't use",
+        "being a loyal friend",
+        "guarding your property"
+      ],
+      "answer": "preventing someone from having what you yourself don't use",
+      "source": "Textbook Exercise B"
+    },
+    {
+      "id": "ip_mcq_4",
+      "type": "mcq",
+      "question": "She keeps me on my toes.\n\n'To keep one on their toes' means:",
+      "options": [
+        "be ready to dance and walk on your toes",
+        "be always ready to deal with anything that might happen",
+        "make someone tired",
+        "teach someone to dance"
+      ],
+      "answer": "be always ready to deal with anything that might happen",
+      "source": "Textbook Exercise B"
+    },
+    {
+      "id": "ip_mcq_5",
+      "type": "mcq",
+      "question": "Sudha hasn't been too well lately, but I think she is on the mend now.\n\n'To be on the mend' means:",
+      "options": [
+        "trying to be cheerful despite being ill",
+        "on the path of recovery",
+        "getting worse",
+        "pretending to be sick"
+      ],
+      "answer": "on the path of recovery",
+      "source": "Textbook Exercise B"
+    },
+    {
+      "id": "ip_mcq_6",
+      "type": "mcq",
+      "question": "We feel that it was foolish of him to change horses in midstream.\n\n'Change horses in midstream' means:",
+      "options": [
+        "prefer a fresh horse that is not tired",
+        "make changes in an activity that has already begun",
+        "ride different horses",
+        "cross a river on horseback"
+      ],
+      "answer": "make changes in an activity that has already begun",
+      "source": "Textbook Exercise B"
+    },
+    {
+      "id": "ip_mcq_7",
+      "type": "mcq",
+      "question": "He has been advised to mend his behaviour, but all that he has been told is just water off a duck's back.\n\n'Water off a duck's back' means:",
+      "options": [
+        "a duck which is completely dry",
+        "comments that have no effect on the listener",
+        "waterproof clothing",
+        "ignoring good advice"
+      ],
+      "answer": "comments that have no effect on the listener",
+      "source": "Textbook Exercise B"
+    },
+    {
+      "id": "ip_mcq_8",
+      "type": "mcq",
+      "question": "The family has lost most of their money, yet the members are working together to weather the storm.\n\n'Weather the storm' means:",
+      "options": [
+        "succeed in overcoming a difficult situation",
+        "succeed in keeping away from the storm",
+        "predict the weather",
+        "build a shelter"
+      ],
+      "answer": "succeed in overcoming a difficult situation",
+      "source": "Textbook Exercise B"
+    }
+  ],
+  "total_count": 8,
+  "subject": "English E1",
+  "chapter": "Idioms and Proverbs"
+}

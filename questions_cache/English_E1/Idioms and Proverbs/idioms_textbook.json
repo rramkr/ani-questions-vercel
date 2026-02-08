@@ -1,0 +1,123 @@
+{
+  "question_type": "textbook_qa",
+  "description": "Idioms from textbook - Exercise A (Match) and Exercise B (MCQ)",
+  "questions": [
+    {
+      "id": "ip_a1",
+      "exercise": "A",
+      "solved_example": true,
+      "question": "Match the idiom with its meaning:\n\nlike a bear with a sore head",
+      "answer": "very irritated",
+      "explanation": "When someone is 'like a bear with a sore head', they are in a very bad mood and easily annoyed."
+    },
+    {
+      "id": "ip_a2",
+      "exercise": "A",
+      "question": "Match the idiom with its meaning:\n\nlike a bull in a china shop",
+      "answer": "make mistakes or damage things",
+      "explanation": "A bull in a china shop would break all the delicate items. This idiom describes someone who is clumsy or careless."
+    },
+    {
+      "id": "ip_a3",
+      "exercise": "A",
+      "question": "Match the idiom with its meaning:\n\nlaugh up your sleeve",
+      "answer": "have a secret laugh at someone's problems",
+      "explanation": "This idiom means to be secretly amused, especially at someone else's misfortune."
+    },
+    {
+      "id": "ip_a4",
+      "exercise": "A",
+      "question": "Match the idiom with its meaning:\n\nhold the fort",
+      "answer": "take care of an organisation or business when the person in charge is away",
+      "explanation": "Like a soldier guarding a fort, this means to take responsibility while the usual person is absent."
+    },
+    {
+      "id": "ip_a5",
+      "exercise": "A",
+      "question": "Match the idiom with its meaning:\n\npaddle one's own canoe",
+      "answer": "do something without anyone's help or interference",
+      "explanation": "Just as someone paddling their own canoe is self-reliant, this idiom means to be independent."
+    },
+    {
+      "id": "ip_a6",
+      "exercise": "A",
+      "question": "Match the idiom with its meaning:\n\nput the cart before the horse",
+      "answer": "do something in the wrong order",
+      "explanation": "A horse pulls the cart, not the other way around. This idiom means to do things in the wrong sequence."
+    },
+    {
+      "id": "ip_a7",
+      "exercise": "A",
+      "question": "Match the idiom with its meaning:\n\non cloud nine",
+      "answer": "very happy",
+      "explanation": "Being 'on cloud nine' means being extremely happy or elated."
+    },
+    {
+      "id": "ip_a8",
+      "exercise": "A",
+      "question": "Match the idiom with its meaning:\n\nmake a beeline for",
+      "answer": "go directly for something",
+      "explanation": "Bees fly directly to flowers. This idiom means to go straight towards something."
+    },
+    {
+      "id": "ip_b1",
+      "exercise": "B",
+      "solved_example": true,
+      "question": "What does 'take the bull by the horns' mean?\n\nRahul felt that the time had come for him to take the bull by the horns.",
+      "answer": "handle the difficulty boldly",
+      "explanation": "This idiom means to face a difficult situation directly and with courage."
+    },
+    {
+      "id": "ip_b2",
+      "exercise": "B",
+      "question": "What does 'face the music' mean?\n\nThe students had no other alternative; they had to face the music.",
+      "answer": "face the consequences of one's actions",
+      "explanation": "To 'face the music' means to accept the unpleasant consequences of your actions."
+    },
+    {
+      "id": "ip_b3",
+      "exercise": "B",
+      "question": "What does 'a dog in the manger' mean?\n\nHe does not take a walk in the garden; neither does he allow anybody else to do so. He has a dog in the manger attitude.",
+      "answer": "preventing someone from having or using what you yourself don't use",
+      "explanation": "Like a dog lying in a manger preventing the horse from eating hay it cannot eat itself."
+    },
+    {
+      "id": "ip_b4",
+      "exercise": "B",
+      "question": "What does 'keep one on their toes' mean?\n\nShe keeps me on my toes.",
+      "answer": "be always ready to deal with anything that might happen",
+      "explanation": "Being 'on your toes' means being alert and prepared for any situation."
+    },
+    {
+      "id": "ip_b5",
+      "exercise": "B",
+      "question": "What does 'on the mend' mean?\n\nSudha hasn't been too well lately, but I think she is on the mend now.",
+      "answer": "on the path of recovery",
+      "explanation": "To be 'on the mend' means to be recovering from an illness or injury."
+    },
+    {
+      "id": "ip_b6",
+      "exercise": "B",
+      "question": "What does 'change horses in midstream' mean?\n\nWe feel that it was foolish of him to change horses in midstream.",
+      "answer": "make changes in an activity that has already begun",
+      "explanation": "This idiom warns against making major changes when already in the middle of something."
+    },
+    {
+      "id": "ip_b7",
+      "exercise": "B",
+      "question": "What does 'water off a duck's back' mean?\n\nHe has been advised to mend his behaviour, but all that he has been told is just water off a duck's back.",
+      "answer": "comments that have no effect on the listener",
+      "explanation": "Just as water rolls off a duck's waterproof feathers, criticism has no effect on the person."
+    },
+    {
+      "id": "ip_b8",
+      "exercise": "B",
+      "question": "What does 'weather the storm' mean?\n\nThe family has lost most of their money, yet the members are working together to weather the storm.",
+      "answer": "succeed in overcoming a difficult situation",
+      "explanation": "To 'weather the storm' means to survive or get through a difficult period successfully."
+    }
+  ],
+  "total_count": 16,
+  "subject": "English E1",
+  "chapter": "Idioms and Proverbs"
+}

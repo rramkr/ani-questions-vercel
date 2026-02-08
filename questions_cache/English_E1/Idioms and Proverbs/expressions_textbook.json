@@ -1,0 +1,66 @@
+{
+  "question_type": "textbook_qa",
+  "description": "Expressions from textbook - Exercise E (Use in sentences)",
+  "questions": [
+    {
+      "id": "ip_e1",
+      "exercise": "E",
+      "solved_example": true,
+      "question": "Use this expression in a sentence:\n\naccede to",
+      "answer": "The parents acceded to their child's request.",
+      "explanation": "'Accede to' means to agree or consent to something."
+    },
+    {
+      "id": "ip_e2",
+      "exercise": "E",
+      "question": "Use this expression in a sentence:\n\naccustomed to",
+      "answer": "I am not accustomed to having a heavy breakfast.",
+      "explanation": "'Accustomed to' means 'used to' something."
+    },
+    {
+      "id": "ip_e3",
+      "exercise": "E",
+      "question": "Use this expression in a sentence:\n\naddicted to",
+      "answer": "He is addicted to playing video games.",
+      "explanation": "'Addicted to' means obsessed with a particular activity."
+    },
+    {
+      "id": "ip_e4",
+      "exercise": "E",
+      "question": "Use this expression in a sentence:\n\napprove of",
+      "answer": "We approve of her choice of pursuing this course.",
+      "explanation": "'Approve of' means to have a positive feeling towards something."
+    },
+    {
+      "id": "ip_e5",
+      "exercise": "E",
+      "question": "Use this expression in a sentence:\n\nbent on",
+      "answer": "They seem bent on going ahead with their programme.",
+      "explanation": "'Bent on' means very determined to do something."
+    },
+    {
+      "id": "ip_e6",
+      "exercise": "E",
+      "question": "Use this expression in a sentence:\n\nblind to",
+      "answer": "He is blind to his sister's faults.",
+      "explanation": "'Blind to' means to fail to notice or acknowledge something."
+    },
+    {
+      "id": "ip_e7",
+      "exercise": "E",
+      "question": "Use this expression in a sentence:\n\ncontent with",
+      "answer": "She is content with whatever she has.",
+      "explanation": "'Content with' means to be satisfied with something."
+    },
+    {
+      "id": "ip_e8",
+      "exercise": "E",
+      "question": "Use this expression in a sentence:\n\ndistinguish between",
+      "answer": "He could not distinguish between the right choice and the wrong one.",
+      "explanation": "'Distinguish between' means to tell the difference."
+    }
+  ],
+  "total_count": 8,
+  "subject": "English E1",
+  "chapter": "Idioms and Proverbs"
+}

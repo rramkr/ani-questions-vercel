@@ -1,0 +1,123 @@
+{
+  "question_type": "textbook_qa",
+  "description": "Proverbs from textbook - Exercise C (Complete) and Exercise D (Situations)",
+  "questions": [
+    {
+      "id": "ip_c1",
+      "exercise": "C",
+      "solved_example": true,
+      "question": "Complete the proverb:\n\nNothing ventured, ___",
+      "answer": "nothing gained",
+      "explanation": "This proverb means you cannot achieve anything without taking some risk."
+    },
+    {
+      "id": "ip_c2",
+      "exercise": "C",
+      "question": "Complete the proverb:\n\nPrevention ___",
+      "answer": "is better than cure",
+      "explanation": "It is easier to stop something from happening than to deal with the consequences later."
+    },
+    {
+      "id": "ip_c3",
+      "exercise": "C",
+      "question": "Complete the proverb:\n\nThe proof of the pudding ___",
+      "answer": "is in the eating",
+      "explanation": "The real value of something can only be judged by practical experience."
+    },
+    {
+      "id": "ip_c4",
+      "exercise": "C",
+      "question": "Complete the proverb:\n\nThe early bird ___",
+      "answer": "catches the worm",
+      "explanation": "Those who act promptly and start early get the best opportunities."
+    },
+    {
+      "id": "ip_c5",
+      "exercise": "C",
+      "question": "Complete the proverb:\n\nBirds of a feather ___",
+      "answer": "flock together",
+      "explanation": "People with similar interests or characteristics tend to associate with each other."
+    },
+    {
+      "id": "ip_c6",
+      "exercise": "C",
+      "question": "Complete the proverb:\n\nYou can take a horse to water, ___",
+      "answer": "but you can't make it drink",
+      "explanation": "You can give someone an opportunity, but you cannot force them to take advantage of it."
+    },
+    {
+      "id": "ip_c7",
+      "exercise": "C",
+      "question": "Complete the proverb:\n\nA fool and his money ___",
+      "answer": "are soon parted",
+      "explanation": "A foolish person will quickly lose their money through unwise decisions."
+    },
+    {
+      "id": "ip_c8",
+      "exercise": "C",
+      "question": "Complete the proverb:\n\nStill waters ___",
+      "answer": "run deep",
+      "explanation": "A quiet person may have more knowledge or emotions than they show outwardly."
+    },
+    {
+      "id": "ip_d1",
+      "exercise": "D",
+      "solved_example": true,
+      "question": "Which proverb fits this situation?\n\nVera was a very careless girl. Once, her uncle presented a beautiful emerald bracelet to her. When she wore it, she noticed that the clasp was a little loose. Her mother asked her to get it repaired, but Vera paid no heed. One day, when she came home after a birthday party, she saw that she had lost the bracelet.",
+      "answer": "A stitch in time saves nine",
+      "explanation": "If Vera had fixed the clasp when it was first noticed, she wouldn't have lost the bracelet."
+    },
+    {
+      "id": "ip_d2",
+      "exercise": "D",
+      "question": "Which proverb fits this situation?\n\nVikram completed his chart without paying much attention to matter or presentation. His mother was not surprised when his chart was not selected for display, but Vikram came up with his own reasons. He was convinced that his chart would have been selected if he had better quality sketch pens and more colourful pictures.",
+      "answer": "A bad workman blames his tools",
+      "explanation": "Instead of accepting that he didn't pay attention to his work, Vikram blamed his tools."
+    },
+    {
+      "id": "ip_d3",
+      "exercise": "D",
+      "question": "Which proverb fits this situation?\n\nHarish sat in the chair watching his friends swim. He wished he could swim, but he did not have the courage to step into the pool. He had almost drowned two years back, and the experience had left him shattered. He could not imagine getting into the pool again.",
+      "answer": "A burnt child dreads the fire",
+      "explanation": "Just as a child who has been burned fears fire, Harish fears swimming because of his traumatic past experience."
+    },
+    {
+      "id": "ip_d4",
+      "exercise": "D",
+      "question": "Which proverb fits this situation?\n\nNita was waiting in the hospital for news of her friend who had met with a serious accident. The doctors were attending to her. Nita's friend had a head injury, multiple bruises and had been bleeding profusely. Nita, however, was certain that her friend would recover, and the doctors were confident that she would pull through.",
+      "answer": "The darkest hour is just before the dawn",
+      "explanation": "Things were looking very bad, but recovery was near. The most difficult time often comes just before things improve."
+    },
+    {
+      "id": "ip_d5",
+      "exercise": "D",
+      "question": "Which proverb fits this situation?\n\nMehak was at her work all day. She wanted to score high marks in the Board examination and make her parents proud. When the results were declared, Mehak had not only topped the school but also the state. No wonder, for she had worked really hard.",
+      "answer": "Hard work always pays off",
+      "explanation": "Mehak's dedication and hard work resulted in excellent results."
+    },
+    {
+      "id": "ip_d6",
+      "exercise": "D",
+      "question": "Which proverb fits this situation?\n\nThe new manager assumed charge on Monday and immediately started making changes that would benefit the organisation. Everything was streamlined, and customers and the staff alike were happy, but it did not continue for long. The manager started losing interest in his work after the initial enthusiasm died down.",
+      "answer": "A new broom sweeps clean",
+      "explanation": "A new person in charge often makes many changes at first, but their enthusiasm may not last."
+    },
+    {
+      "id": "ip_d7",
+      "exercise": "D",
+      "question": "Which proverb fits this situation?\n\nThe school was doing well. The results were excellent, the parents were happy and everything was going on as expected. The situation was ideal as the state in which the school was situated needed such educational institutions to serve the people.",
+      "answer": "A rising tide lifts all boats",
+      "explanation": "When one thing improves, it benefits everyone connected to it. The school's success benefited the whole community."
+    },
+    {
+      "id": "ip_d8",
+      "exercise": "D",
+      "question": "Which proverb fits this situation?\n\nThe girl was weaving a basket of cane. She had just started learning the art of basket weaving. In a few months, the girl became an expert at weaving baskets of every size and shape. Soon, she started weaving intricately designed baskets, table mats and even vases of bamboo. So adept was she that she was able to hold an exhibition of her products. And it all started with one ordinary cane basket.",
+      "answer": "Tall oaks from small acorns grow",
+      "explanation": "Great achievements can have humble beginnings. Her success started from learning to weave one simple basket."
+    }
+  ],
+  "total_count": 16,
+  "subject": "English E1",
+  "chapter": "Idioms and Proverbs"
+}

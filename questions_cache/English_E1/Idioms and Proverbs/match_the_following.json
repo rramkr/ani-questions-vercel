@@ -4,241 +4,121 @@
     {
       "id": "ip_mtf_1",
       "type": "match_the_following",
-      "question": "Exercise A: Match the idioms with their meanings",
-      "left_items": [
-        "like a bear with a sore head",
-        "like a bull in a china shop",
-        "laugh up your sleeve",
-        "hold the fort",
-        "paddle one's own canoe"
+      "instruction": "Exercise A: Match the idioms with their meanings",
+      "pairs": [
+        {"left": "like a bear with a sore head", "right": "very irritated"},
+        {"left": "like a bull in a china shop", "right": "make mistakes or damage things"},
+        {"left": "laugh up your sleeve", "right": "have a secret laugh at someone's problems"},
+        {"left": "hold the fort", "right": "take care of an organisation when the person in charge is away"},
+        {"left": "paddle one's own canoe", "right": "do something without anyone's help"}
       ],
-      "right_items": [
-        "do something without anyone's help",
-        "very irritated",
-        "take care of an organisation when the person in charge is away",
-        "make mistakes or damage things",
-        "have a secret laugh at someone's problems"
-      ],
-      "correct_matches": {
-        "1": "B",
-        "2": "D",
-        "3": "E",
-        "4": "C",
-        "5": "A"
-      },
       "source": "Textbook Exercise A"
     },
     {
       "id": "ip_mtf_2",
       "type": "match_the_following",
-      "question": "Exercise A: Match the idioms with their meanings",
-      "left_items": [
-        "put the cart before the horse",
-        "on cloud nine",
-        "make a beeline for"
+      "instruction": "Exercise A: Match the idioms with their meanings",
+      "pairs": [
+        {"left": "put the cart before the horse", "right": "do something in the wrong order"},
+        {"left": "on cloud nine", "right": "very happy"},
+        {"left": "make a beeline for", "right": "go directly for something"}
       ],
-      "right_items": [
-        "very happy",
-        "go directly for something",
-        "do something in the wrong order"
-      ],
-      "correct_matches": {
-        "1": "C",
-        "2": "A",
-        "3": "B"
-      },
       "source": "Textbook Exercise A"
     },
     {
       "id": "ip_mtf_3",
       "type": "match_the_following",
-      "question": "Exercise C: Complete the proverbs - match Column A with Column B",
-      "left_items": [
-        "Nothing ventured,",
-        "Prevention",
-        "The proof of the pudding",
-        "The early bird",
-        "Birds of a feather"
+      "instruction": "Exercise C: Complete the proverbs - match Column A with Column B",
+      "pairs": [
+        {"left": "Nothing ventured,", "right": "nothing gained"},
+        {"left": "Prevention", "right": "is better than cure"},
+        {"left": "The proof of the pudding", "right": "is in the eating"},
+        {"left": "The early bird", "right": "catches the worm"},
+        {"left": "Birds of a feather", "right": "flock together"}
       ],
-      "right_items": [
-        "catches the worm",
-        "flock together",
-        "nothing gained",
-        "is better than cure",
-        "is in the eating"
-      ],
-      "correct_matches": {
-        "1": "C",
-        "2": "D",
-        "3": "E",
-        "4": "A",
-        "5": "B"
-      },
       "source": "Textbook Exercise C"
     },
     {
       "id": "ip_mtf_4",
       "type": "match_the_following",
-      "question": "Exercise C: Complete the proverbs - match Column A with Column B",
-      "left_items": [
-        "You can take a horse to water,",
-        "A fool and his money",
-        "Still waters"
+      "instruction": "Exercise C: Complete the proverbs - match Column A with Column B",
+      "pairs": [
+        {"left": "You can take a horse to water,", "right": "but you can't make it drink"},
+        {"left": "A fool and his money", "right": "are soon parted"},
+        {"left": "Still waters", "right": "run deep"}
       ],
-      "right_items": [
-        "are soon parted",
-        "run deep",
-        "but you can't make it drink"
-      ],
-      "correct_matches": {
-        "1": "C",
-        "2": "A",
-        "3": "B"
-      },
       "source": "Textbook Exercise C"
     },
     {
       "id": "ip_mtf_5",
       "type": "match_the_following",
-      "question": "Match the idioms with their meanings",
-      "left_items": [
-        "take the bull by the horns",
-        "face the music",
-        "a dog in the manger",
-        "keep one on their toes",
-        "on the mend"
+      "instruction": "Match the idioms with their meanings",
+      "pairs": [
+        {"left": "take the bull by the horns", "right": "handle the difficulty boldly"},
+        {"left": "face the music", "right": "face the consequences of one's actions"},
+        {"left": "a dog in the manger", "right": "preventing someone from using what you don't use"},
+        {"left": "keep one on their toes", "right": "be always ready to deal with anything"},
+        {"left": "on the mend", "right": "on the path of recovery"}
       ],
-      "right_items": [
-        "on the path of recovery",
-        "handle the difficulty boldly",
-        "be always ready to deal with anything",
-        "face the consequences of one's actions",
-        "preventing someone from using what you don't use"
-      ],
-      "correct_matches": {
-        "1": "B",
-        "2": "D",
-        "3": "E",
-        "4": "C",
-        "5": "A"
-      },
       "source": "Textbook Exercise B"
     },
     {
       "id": "ip_mtf_6",
       "type": "match_the_following",
-      "question": "Match the idioms with their meanings",
-      "left_items": [
-        "change horses in midstream",
-        "water off a duck's back",
-        "weather the storm"
+      "instruction": "Match the idioms with their meanings",
+      "pairs": [
+        {"left": "change horses in midstream", "right": "make changes in an activity already begun"},
+        {"left": "water off a duck's back", "right": "comments that have no effect on the listener"},
+        {"left": "weather the storm", "right": "succeed in overcoming a difficult situation"}
       ],
-      "right_items": [
-        "succeed in overcoming a difficult situation",
-        "comments that have no effect on the listener",
-        "make changes in an activity already begun"
-      ],
-      "correct_matches": {
-        "1": "C",
-        "2": "B",
-        "3": "A"
-      },
       "source": "Textbook Exercise B"
     },
     {
       "id": "ip_mtf_7",
       "type": "match_the_following",
-      "question": "Match the proverbs with their meanings",
-      "left_items": [
-        "A stitch in time saves nine",
-        "A bad workman blames his tools",
-        "A burnt child dreads the fire",
-        "The darkest hour is just before the dawn",
-        "Hard work always pays off"
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "A stitch in time saves nine", "right": "Fix problems early to prevent bigger issues"},
+        {"left": "A bad workman blames his tools", "right": "An unskilled person blames equipment for their mistakes"},
+        {"left": "A burnt child dreads the fire", "right": "A painful experience makes one avoid similar situations"},
+        {"left": "The darkest hour is just before the dawn", "right": "Things often get worse before they improve"},
+        {"left": "Hard work always pays off", "right": "Dedication and effort lead to success"}
       ],
-      "right_items": [
-        "Dedication and effort lead to success",
-        "Things often get worse before they improve",
-        "Fix problems early to prevent bigger issues",
-        "A painful experience makes one avoid similar situations",
-        "An unskilled person blames equipment for their mistakes"
-      ],
-      "correct_matches": {
-        "1": "C",
-        "2": "E",
-        "3": "D",
-        "4": "B",
-        "5": "A"
-      },
       "source": "Textbook Exercise D"
     },
     {
       "id": "ip_mtf_8",
       "type": "match_the_following",
-      "question": "Match the proverbs with their meanings",
-      "left_items": [
-        "A new broom sweeps clean",
-        "A rising tide lifts all boats",
-        "Tall oaks from small acorns grow"
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "A new broom sweeps clean", "right": "New people make many changes at first"},
+        {"left": "A rising tide lifts all boats", "right": "When one thing improves, it benefits everyone"},
+        {"left": "Tall oaks from small acorns grow", "right": "Great achievements can have humble beginnings"}
       ],
-      "right_items": [
-        "Great achievements can have humble beginnings",
-        "When one thing improves, it benefits everyone",
-        "New people make many changes at first"
-      ],
-      "correct_matches": {
-        "1": "C",
-        "2": "B",
-        "3": "A"
-      },
       "source": "Textbook Exercise D"
     },
     {
       "id": "ip_mtf_9",
       "type": "match_the_following",
-      "question": "Match the expressions with their meanings",
-      "left_items": [
-        "accede to",
-        "accustomed to",
-        "addicted to",
-        "approve of",
-        "bent on"
+      "instruction": "Match the expressions with their meanings",
+      "pairs": [
+        {"left": "accede to", "right": "agree or consent to something"},
+        {"left": "accustomed to", "right": "used to something"},
+        {"left": "addicted to", "right": "obsessed with a particular activity"},
+        {"left": "approve of", "right": "have a positive feeling towards something"},
+        {"left": "bent on", "right": "very determined to do something"}
       ],
-      "right_items": [
-        "very determined to do something",
-        "have a positive feeling towards something",
-        "agree or consent to something",
-        "used to something",
-        "obsessed with a particular activity"
-      ],
-      "correct_matches": {
-        "1": "C",
-        "2": "D",
-        "3": "E",
-        "4": "B",
-        "5": "A"
-      },
       "source": "Textbook Exercise E"
     },
     {
       "id": "ip_mtf_10",
       "type": "match_the_following",
-      "question": "Match the expressions with their meanings",
-      "left_items": [
-        "blind to",
-        "content with",
-        "distinguish between"
+      "instruction": "Match the expressions with their meanings",
+      "pairs": [
+        {"left": "blind to", "right": "fail to notice or acknowledge something"},
+        {"left": "content with", "right": "satisfied with something"},
+        {"left": "distinguish between", "right": "tell the difference between two things"}
       ],
-      "right_items": [
-        "tell the difference between two things",
-        "satisfied with something",
-        "fail to notice or acknowledge something"
-      ],
-      "correct_matches": {
-        "1": "C",
-        "2": "B",
-        "3": "A"
-      },
       "source": "Textbook Exercise E"
     }
   ],
