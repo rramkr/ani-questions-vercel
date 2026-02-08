@@ -1,0 +1,672 @@
+{
+  "question_type": "comprehension",
+  "description": "Unseen Comprehension passages from sample papers and previous exams",
+  "passages": [
+    {
+      "id": "exam_passage_1",
+      "title": "The Miser and His Gold",
+      "source": "Sample Paper 1",
+      "topic": "Unseen Comprehension",
+      "passage": "Once there was a miser who sold all his possessions and, with the money, bought a great lump of gold, dug a deep hole at the edge of the garden, and there he buried his gold. Once a day, thereafter, the miser went to the garden, dug up his gold, and embraced it lovingly. One of the miser's workmen wondered why his master spent so much time in the garden. One day, he hid behind a tree and soon discovered the secret of the hidden treasure. That night, when the miser was fast asleep, the workman crept into the garden and stole the lump of gold. When the miser found that his gold was gone, he tore his hair and cried aloud in his despair. A neighbour came running to see what the matter was, and the grief-stricken miser told him what had happened. Then the neighbour said, \"Pray stop your weeping. Go and find a stone. Place the stone in the hole and imagine that it is your lump of gold. The stone will serve your purpose, for you never meant to use the gold anyway. It makes little difference whether it is gold or stone if you are never going to use it.\"",
+      "questions": [
+        {
+          "id": "ep1_q1",
+          "type": "mcq",
+          "question": "How did the miser get the lump of gold?",
+          "options": ["By selling all he had", "While digging the garden", "From his ancestors", "From his neighbour"],
+          "answer": "By selling all he had",
+          "explanation": "The passage states that the miser 'sold all his possessions and, with the money, bought a great lump of gold'."
+        },
+        {
+          "id": "ep1_q2",
+          "type": "mcq",
+          "question": "Why did the miser spend so much time in the garden?",
+          "options": ["He was a nature lover", "He liked watching children playing in the garden", "To keep an eye on his hidden treasure", "To change the place of his lump of gold"],
+          "answer": "To keep an eye on his hidden treasure",
+          "explanation": "The passage says 'Once a day, thereafter, the miser went to the garden, dug up his gold, and embraced it lovingly.'"
+        },
+        {
+          "id": "ep1_q3",
+          "type": "mcq",
+          "question": "By whom was the gold stolen?",
+          "options": ["A thief", "His neighbour", "The miser's workman", "The miser himself"],
+          "answer": "The miser's workman",
+          "explanation": "The passage clearly states 'the workman crept into the garden and stole the lump of gold'."
+        },
+        {
+          "id": "ep1_q4",
+          "type": "mcq",
+          "question": "The neighbour told the miser to...",
+          "options": ["look for the thief", "stop crying", "inform the police", "cover the hole"],
+          "answer": "stop crying",
+          "explanation": "The neighbour said, 'Pray stop your weeping. Go and find a stone.'"
+        },
+        {
+          "id": "ep1_q5",
+          "type": "mcq",
+          "question": "The neighbour advised the miser to put a stone in the hole because...",
+          "options": ["Gold is like a stone only", "The miser would never use the gold, hence there was no difference between the two", "The stone will become gold after some time", "For a wise man, gold and stone has equal worth"],
+          "answer": "The miser would never use the gold, hence there was no difference between the two",
+          "explanation": "The neighbour said 'The stone will serve your purpose, for you never meant to use the gold anyway.'"
+        },
+        {
+          "id": "ep1_q6",
+          "type": "short_answer",
+          "question": "What did the miser do with the gold?",
+          "answer": "The miser dug a deep hole at the edge of the garden and buried his gold there. Once a day, he would dig it up and embrace it lovingly."
+        },
+        {
+          "id": "ep1_q7",
+          "type": "short_answer",
+          "question": "How often did the miser go to the garden? What did he do there?",
+          "answer": "The miser went to the garden once a day. He would dig up his gold and embrace it lovingly."
+        },
+        {
+          "id": "ep1_q8",
+          "type": "short_answer",
+          "question": "What did the workman do one day and how did the miser react to the loss?",
+          "answer": "One night, the workman crept into the garden and stole the lump of gold. When the miser found that his gold was gone, he tore his hair and cried aloud in his despair."
+        },
+        {
+          "id": "ep1_q9",
+          "type": "short_answer",
+          "question": "What advice did the neighbour give the miser?",
+          "answer": "The neighbour advised the miser to stop weeping, find a stone, place it in the hole, and imagine it was his lump of gold. He said the stone would serve the same purpose since the miser never intended to use the gold anyway."
+        },
+        {
+          "id": "ep1_q10",
+          "type": "vocabulary",
+          "question": "Find the word in the passage that means: A person who loves to have money but hates to spend it.",
+          "answer": "Miser"
+        },
+        {
+          "id": "ep1_q11",
+          "type": "vocabulary",
+          "question": "Find the word in the passage that means: A state of having lost all hope.",
+          "answer": "Despair"
+        }
+      ]
+    },
+    {
+      "id": "exam_passage_2",
+      "title": "The Train Journey",
+      "source": "Sample Paper 3",
+      "topic": "Unseen Comprehension",
+      "passage": "I entered the second class compartment and took a corner seat. A few minutes later, a large, noisy family rushed in and spread themselves all over the compartment. The parents arranged and rearranged their belongings on the luggage racks. A suitcase fell on the grandmother's feet and she shouted at them. The children quarrelled and the baby cried.\n\nSuddenly, the whistle blew and with much clanging and groaning the train moved out of the station. It soon gathered speed and rushed on through the night.\n\nMy companions opened large tiffin carriers and settled down to their meal. But the baby's cries became howls and the grandmother hung a saree from the chain on the side wall of the carriage. She put the baby in this cradle and the baby stopped crying almost at once.\n\nAt the same time, the train came to a halt. There was a great commotion. I looked out of the window and found that a large crowd had gathered outside and everyone was asking who had pulled the chain. Suddenly I saw that the grandmother had hung the cradle on the alarm chain!",
+      "questions": [
+        {
+          "id": "ep2_q1",
+          "type": "short_answer",
+          "question": "Who were the occupants of the second class compartment?",
+          "answer": "The occupants were the narrator, and a large, noisy family consisting of parents, children, a baby, and a grandmother."
+        },
+        {
+          "id": "ep2_q2",
+          "type": "short_answer",
+          "question": "Why did the grandmother shout?",
+          "answer": "The grandmother shouted because a suitcase fell on her feet while the parents were arranging their belongings on the luggage racks."
+        },
+        {
+          "id": "ep2_q3",
+          "type": "short_answer",
+          "question": "How did the grandmother make a cradle?",
+          "answer": "The grandmother hung a saree from the chain on the side wall of the carriage to make a cradle for the baby."
+        },
+        {
+          "id": "ep2_q4",
+          "type": "short_answer",
+          "question": "Why did the train stop?",
+          "answer": "The train stopped because the grandmother had accidentally hung the cradle on the alarm chain, which pulled the chain and caused the train to halt."
+        },
+        {
+          "id": "ep2_q5",
+          "type": "short_answer",
+          "question": "What two things stopped almost at the same time?",
+          "answer": "The baby's crying and the train both stopped almost at the same time."
+        },
+        {
+          "id": "ep2_q6",
+          "type": "fill_blank",
+          "question": "The family that entered the compartment was...",
+          "answer": "large and noisy"
+        },
+        {
+          "id": "ep2_q7",
+          "type": "fill_blank",
+          "question": "A great noise was created inside the compartment by...",
+          "answer": "the children quarrelling and the baby crying"
+        },
+        {
+          "id": "ep2_q8",
+          "type": "fill_blank",
+          "question": "Soon after the train gathered speed, the family...",
+          "answer": "opened large tiffin carriers and settled down to their meal"
+        },
+        {
+          "id": "ep2_q9",
+          "type": "fill_blank",
+          "question": "As soon as the baby was put in the cradle...",
+          "answer": "the baby stopped crying almost at once"
+        },
+        {
+          "id": "ep2_q10",
+          "type": "fill_blank",
+          "question": "The grandmother had hung the cradle...",
+          "answer": "on the alarm chain"
+        },
+        {
+          "id": "ep2_q11",
+          "type": "vocabulary",
+          "question": "Find the word that means: had a heated argument or disagreement.",
+          "answer": "Quarrelled"
+        },
+        {
+          "id": "ep2_q12",
+          "type": "vocabulary",
+          "question": "Find the word that means: open out something.",
+          "answer": "Spread"
+        },
+        {
+          "id": "ep2_q13",
+          "type": "vocabulary",
+          "question": "Find the word that means: a series of linked metals.",
+          "answer": "Chain"
+        },
+        {
+          "id": "ep2_q14",
+          "type": "vocabulary",
+          "question": "Find the word that means: come together; assemble.",
+          "answer": "Gathered"
+        },
+        {
+          "id": "ep2_q15",
+          "type": "vocabulary",
+          "question": "Find the word that means: a lot of noise and confusion.",
+          "answer": "Commotion"
+        }
+      ]
+    },
+    {
+      "id": "exam_passage_3",
+      "title": "Homesickness by Roald Dahl",
+      "source": "Sample Paper 4",
+      "topic": "Unseen Comprehension",
+      "passage": "I was homesick during the whole of my first term at St Peter's. Homesickness is a bit like seasickness. You don't know how awful it is till you get it, and when you do, it hits you right in the top of the stomach and you want to die. The only comfort is that both homesickness and seasickness are instantly curable. The first goes away the moment you walk out of the school grounds and the second is forgotten as soon as the ship enters port.\n\nI was so terribly homesick during my first two weeks that I set about making a plan for getting myself sent back home, even if it were for only a few days. My idea was that I should all of a sudden develop an attack of acute appendicitis.\n\nYou will probably think it silly that a nine-year old boy imagined that he could get away with a trick like that, but I had sound reasons for trying it. Only a month before, my elder sister had actually had appendicitis, and for several days before her operation I was able to observe her behavior at close quarters. I noticed that the thing she complained about the most was a severe pain down in the lower right side of her tummy. As well as this, she kept being sick and refused to eat and ran a temperature.\n\nYou might, by the way, be interested that this sister had her appendix removed not in a fine hospital operating-room full of bright lights and gowned nurses, but on our own nursery table at home by the local doctor and his anesthetist. In those days it was fairly common practice for a doctor to arrive at your house with a bag of instruments, then drape a clean sheet over the most convenient table and get on with it.\n\nOn this occasion, I can remember lurking in the corridor outside the nursery while the operation was going on. My other sisters were with me, and we stood spellbound, listening to the soft medical murmurs coming from behind the locked door.\n\nThe next day we were allowed to inspect the appendix itself in a glass bottle. It was a longish black wormy-looking thing, and I said, \"Do I have one of those inside me, Nanny?\"\n\"Everybody has one,\" Nanny answered.\n\"What's it for?\" I asked her.\n\"God works in mysterious ways,\" she said, which was her stock reply whenever she did not know the answer.\n\"What makes it go bad?\" I asked her.\n\"Toothbrush bristles,\" she answered, this time with no hesitation at all. \"Whenever a bristle comes out of your toothbrush and you swallow it, it sticks to your appendix and turns it rotten,\" she added.\n\nAs I went upstairs and knocked on the brown door after breakfast, I did not even feel frightened of the Matron.\n\"Come in!\" boomed the voice. I entered the room clutching my stomach on the right-hand side and staggered pathetically.\n\"What's the matter with you?\" the Matron shouted. \"It hurts, Matron,\" I moaned. \"Oh, it hurts so much! Just here!\"",
+      "questions": [
+        {
+          "id": "ep3_q1",
+          "type": "mcq",
+          "question": "What is St Peter's?",
+          "options": ["A hospital", "A town", "A school", "A park"],
+          "answer": "A school",
+          "explanation": "The passage mentions 'my first term at St Peter's' and 'the moment you walk out of the school grounds'."
+        },
+        {
+          "id": "ep3_q2",
+          "type": "mcq",
+          "question": "Seasickness occurs when...",
+          "options": ["One drinks sea water", "Travelling by ship", "Sitting on the beach", "Watching the sea"],
+          "answer": "Travelling by ship",
+          "explanation": "The passage says seasickness 'is forgotten as soon as the ship enters port'."
+        },
+        {
+          "id": "ep3_q3",
+          "type": "mcq",
+          "question": "The expression 'at close quarters' means...",
+          "options": ["To observe closely", "To live close by", "Behind closed doors", "Living quarters"],
+          "answer": "To observe closely",
+          "explanation": "The writer says he was able to 'observe her behavior at close quarters', meaning he could watch her closely."
+        },
+        {
+          "id": "ep3_q4",
+          "type": "mcq",
+          "question": "Appendicitis causes pain in the...",
+          "options": ["Lower right side of the stomach", "Arms and legs", "Left side of the tummy", "In the lower back"],
+          "answer": "Lower right side of the stomach",
+          "explanation": "The passage states 'a severe pain down in the lower right side of her tummy'."
+        },
+        {
+          "id": "ep3_q5",
+          "type": "mcq",
+          "question": "The writer's sister had the operation in...",
+          "options": ["The hospital", "The drawing room", "The doctor's clinic", "The nursery at home"],
+          "answer": "The nursery at home",
+          "explanation": "The passage says 'this sister had her appendix removed... on our own nursery table at home'."
+        },
+        {
+          "id": "ep3_q6",
+          "type": "mcq",
+          "question": "What did the children inspect after the operation?",
+          "options": ["The room", "The appendix", "The instruments", "The toothbrush"],
+          "answer": "The appendix",
+          "explanation": "The passage states 'we were allowed to inspect the appendix itself in a glass bottle'."
+        },
+        {
+          "id": "ep3_q7",
+          "type": "mcq",
+          "question": "The word 'lurking' means...",
+          "options": ["Waiting quietly", "Being restless", "To jump excitedly", "To make noise"],
+          "answer": "Waiting quietly",
+          "explanation": "'Lurking in the corridor' means waiting quietly and secretly outside the room."
+        },
+        {
+          "id": "ep3_q8",
+          "type": "mcq",
+          "question": "The word 'spellbound' means...",
+          "options": ["To be sick", "To be fascinated", "To cast a spell", "To watch quietly"],
+          "answer": "To be fascinated",
+          "explanation": "The children 'stood spellbound, listening' - they were fascinated and completely absorbed."
+        },
+        {
+          "id": "ep3_q9",
+          "type": "mcq",
+          "question": "According to the nanny, what causes the appendix to turn rotten?",
+          "options": ["Eating the wrong food", "Drinking too much water", "Not chewing the food properly", "Swallowing toothbrush bristles"],
+          "answer": "Swallowing toothbrush bristles",
+          "explanation": "The nanny said 'Whenever a bristle comes out of your toothbrush and you swallow it, it sticks to your appendix and turns it rotten'."
+        },
+        {
+          "id": "ep3_q10",
+          "type": "mcq",
+          "question": "The term 'to stagger' means...",
+          "options": ["To walk with difficulty", "To walk straight", "To fall down while walking", "To trip while running"],
+          "answer": "To walk with difficulty",
+          "explanation": "The writer 'staggered pathetically' while pretending to be in pain, meaning he walked unsteadily."
+        },
+        {
+          "id": "ep3_q11",
+          "type": "short_answer",
+          "question": "How does the writer think homesickness can be cured?",
+          "answer": "The writer thinks homesickness can be cured instantly by walking out of the school grounds."
+        },
+        {
+          "id": "ep3_q12",
+          "type": "short_answer",
+          "question": "What symptoms did the writer's sister show for appendicitis?",
+          "answer": "The writer's sister complained about severe pain in the lower right side of her tummy. She also kept being sick, refused to eat, and ran a temperature."
+        },
+        {
+          "id": "ep3_q13",
+          "type": "short_answer",
+          "question": "What did the other children do while the operation was going on?",
+          "answer": "The other children stood with the writer in the corridor outside the nursery, lurking and spellbound, listening to the soft medical murmurs coming from behind the locked door."
+        },
+        {
+          "id": "ep3_q14",
+          "type": "short_answer",
+          "question": "How does the writer describe the appendix?",
+          "answer": "The writer describes the appendix as 'a longish black wormy-looking thing' that he saw in a glass bottle."
+        },
+        {
+          "id": "ep3_q15",
+          "type": "short_answer",
+          "question": "Why did the writer go to see the Matron?",
+          "answer": "The writer went to see the Matron to fake appendicitis symptoms, hoping to be sent home. He entered clutching his stomach on the right-hand side and staggered pathetically."
+        }
+      ]
+    },
+    {
+      "id": "exam_passage_4",
+      "title": "Environmental Pollution",
+      "source": "Sample Paper 5",
+      "topic": "Unseen Comprehension",
+      "passage": "The introduction of harmful waste materials that are hazardous to life, the natural world and our activities, is commonly known as pollution. Pollution has harmful effects on the ecosystem. It disturbs the balance of the biosphere in which living beings survive. This imbalance of oxygen, nitrogen, carbon dioxide, argon and water vapour causes discomfort to all living organisms on the planet. It depletes the ozone layer over the earth that defends us from the damaging ultraviolet rays of the sun. The major types of environmental pollution are air pollution, water pollution, noise pollution, thermal pollution, soil pollution and light pollution. Environmental pollution is caused by deforestation and hazardous gaseous emissions.\n\nAir pollution is caused by the smoke emitted by cars, buses, trucks, trains and factories. This is known to cause lung cancer, asthma, allergies, and various skin and breathing problems along with severe and irreparable damage to flora and fauna. Water pollution is caused when industrial waste products are released into lakes, rivers, and other water bodies. This is destructive for the marine ecosystem. Noise pollution is caused by loud noises from aircrafts, cars, buses and trucks, vehicle horns, loudspeakers and noise from factories.\n\nSoil pollution is a result of acid rain, polluted water, fertilizers, etc. In short, this occurs when chemicals are released into the soil. Light pollution includes use of excess lighting equipment. The excessive and inappropriate use of artificial light causes several phenomena that decrease visibility and cause severe visual discomfort. Light pollution is a great hindrance to astronomy as it has become increasingly difficult to view the night sky because of interference from artificial light. The last decade has witnessed an alarming rise in environmental pollution. This problem is even more alarming as this has caused irreparable damage to the earth.",
+      "questions": [
+        {
+          "id": "ep4_q1",
+          "type": "short_answer",
+          "question": "What is pollution?",
+          "answer": "Pollution is the introduction of harmful waste materials that are hazardous to life, the natural world and our activities."
+        },
+        {
+          "id": "ep4_q2",
+          "type": "short_answer",
+          "question": "Mention four different kinds of pollution.",
+          "answer": "The four different kinds of pollution are: (1) Air pollution, (2) Water pollution, (3) Noise pollution, and (4) Soil pollution. (Light pollution and thermal pollution are also mentioned.)"
+        },
+        {
+          "id": "ep4_q3",
+          "type": "short_answer",
+          "question": "What are the two chief causes of environmental pollution?",
+          "answer": "The two chief causes of environmental pollution are deforestation and hazardous gaseous emissions."
+        },
+        {
+          "id": "ep4_q4",
+          "type": "short_answer",
+          "question": "What is causing the waters to get polluted?",
+          "answer": "Water pollution is caused when industrial waste products are released into lakes, rivers, and other water bodies."
+        },
+        {
+          "id": "ep4_q5",
+          "type": "short_answer",
+          "question": "Mention any two causes of noise pollution.",
+          "answer": "Two causes of noise pollution are: (1) Loud noises from aircrafts, cars, buses and trucks, and (2) Vehicle horns and loudspeakers."
+        },
+        {
+          "id": "ep4_q6",
+          "type": "short_answer",
+          "question": "What is the most disturbing consequence of increasing pollution?",
+          "answer": "The most disturbing consequence is that pollution has caused irreparable damage to the earth. It disturbs the balance of the biosphere and depletes the ozone layer."
+        },
+        {
+          "id": "ep4_q7",
+          "type": "mcq",
+          "question": "The word 'hazardous' means...",
+          "options": ["Dangerous", "Waste", "Endangered", "Hazy"],
+          "answer": "Dangerous",
+          "explanation": "Hazardous means dangerous or risky."
+        },
+        {
+          "id": "ep4_q8",
+          "type": "mcq",
+          "question": "The word 'irreparable' means...",
+          "options": ["Safe", "Immense", "Beyond repair", "Can be repaired"],
+          "answer": "Beyond repair",
+          "explanation": "Irreparable means something that cannot be repaired or fixed."
+        },
+        {
+          "id": "ep4_q9",
+          "type": "mcq",
+          "question": "The word 'alarming' means...",
+          "options": ["Boring", "Frightening", "Fast", "Slow"],
+          "answer": "Frightening",
+          "explanation": "Alarming means causing worry or fear."
+        }
+      ]
+    },
+    {
+      "id": "exam_passage_5",
+      "title": "The Incredible Machine (The Ferris Wheel)",
+      "source": "Sample Paper 6",
+      "topic": "Unseen Comprehension",
+      "passage": "Everyone has a favourite attraction at an amusement park, and I am no different. However, unlike most people who seem to prefer roller coasters, my favourite ride is a little more gentle. Every time I go to a fair or an amusement park, I absolutely have to ride the Ferris wheel.\n\nThe Ferris wheel is simple and yet also quite complex. That is, riding it is easy, but how it works is complicated. A series of carts are attached to a wheel, which is attached to a rim. That rim rotates vertically around an axis, and gravity keeps the carts upright. As simple as the ride seems, only advanced engineers can make safe and fun Ferris wheels.\n\nWhile the Ferris wheel is not as thrilling as a roller coaster, it is still very exciting. The fact of being high in the air makes it so much more entertaining than a lot of rides. I mean, how often do you hang from that high up in daily life?\n\nNevertheless, I have to admit, I don't seek out Ferris wheels because of their excitement. Rather, I find them very relaxing. At the top of the Ferris wheel, you get beautiful sights of the park. You also get a sense of calm that you don't get in the hustle and bustle of the park below.\n\nAdditionally, Ferris wheels are also gorgeous to look at when they are lit up at night. In fact, the original Ferris wheel was designed as much to be seen as to be ridden.\n\nThe first Ferris wheel was made by and named after George Washington Gale Ferris, Jr. He designed it for the Chicago World's Fair in 1893. It was the tallest attraction there, standing 264 feet high.\n\nHowever visitors to the fair were impressed by the size of the ride as well as the mechanics of it. In 1893, anything that was not turned by hand was considered a sight to see. And the wheel, which was a machine, was truly incredible to see. Further, as one visitor put it, the wheel was amazing because it seemed to be missing support. That is, it did not look like it could stand on its own. And yet it did and even rotated.\n\nFerris wheel technology has only improved since then. Most of today's Ferris wheels are much larger than the first one. The largest in the world is the \"Singapore Flyer,\" which stands slightly taller than twice what Ferris's did.\n\nToday, the Ferris wheel is the most common amusement park ride. But that does not mean you should take them for granted. Instead, be thankful for Ferris' invention. The next time you're at an amusement park, don't just look up at the impressive wheel in the sky on your way to a newer attraction. Take it for a spin!",
+      "questions": [
+        {
+          "id": "ep5_q1",
+          "type": "mcq",
+          "question": "The author prefers the Ferris wheel because...",
+          "options": ["He is scared of the other rides", "He finds it gentle and relaxing", "He likes fast rides", "He thinks the wheel is not very common"],
+          "answer": "He finds it gentle and relaxing",
+          "explanation": "The author says 'my favourite ride is a little more gentle' and 'I find them very relaxing'."
+        },
+        {
+          "id": "ep5_q2",
+          "type": "mcq",
+          "question": "What does the author like best about the Ferris wheels?",
+          "options": ["The impressive engineering they have", "The excitement and thrills they guarantee", "The beautiful sights and relaxation they allow", "The fact that most amusement parks have one"],
+          "answer": "The beautiful sights and relaxation they allow",
+          "explanation": "The author says 'At the top of the Ferris wheel, you get beautiful sights of the park. You also get a sense of calm'."
+        },
+        {
+          "id": "ep5_q3",
+          "type": "mcq",
+          "question": "According to the passage, the Ferris wheel was originally designed for...",
+          "options": ["Disneyworld", "London Eye", "Chicago World's Fair", "Singapore"],
+          "answer": "Chicago World's Fair",
+          "explanation": "The passage states 'He designed it for the Chicago World's Fair in 1893'."
+        },
+        {
+          "id": "ep5_q4",
+          "type": "mcq",
+          "question": "Using the information from the passage, we know that the tallest Ferris wheel in the world is...",
+          "options": ["Under 250 feet tall", "Between 250 and 500 feet tall", "Between 500 and 750 feet tall", "Over 500 feet tall"],
+          "answer": "Over 500 feet tall",
+          "explanation": "The original was 264 feet, and the Singapore Flyer 'stands slightly taller than twice what Ferris's did' - so over 528 feet."
+        },
+        {
+          "id": "ep5_q5",
+          "type": "mcq",
+          "question": "As used in paragraph 2, which is the opposite of the word 'complex'?",
+          "options": ["Impressive", "Beautiful", "Exciting", "Simple"],
+          "answer": "Simple",
+          "explanation": "The passage says 'The Ferris wheel is simple and yet also quite complex'."
+        },
+        {
+          "id": "ep5_q6",
+          "type": "mcq",
+          "question": "The seats of the Ferris wheels are described as...",
+          "options": ["Carts", "Baskets", "Boxes", "Ledges"],
+          "answer": "Carts",
+          "explanation": "The passage states 'A series of carts are attached to a wheel'."
+        },
+        {
+          "id": "ep5_q7",
+          "type": "mcq",
+          "question": "From the 4th paragraph, find the phrase that describes the crowd and the noise of the amusement park.",
+          "options": ["High in the air", "Hustle and bustle", "Sense of calm", "In daily life"],
+          "answer": "Hustle and bustle",
+          "explanation": "The passage mentions 'the hustle and bustle of the park below'."
+        },
+        {
+          "id": "ep5_q8",
+          "type": "mcq",
+          "question": "When the Ferris wheels are lit up at night they look...",
+          "options": ["Gorgeous", "Gigantic", "Frightening", "Simple"],
+          "answer": "Gorgeous",
+          "explanation": "The passage says 'Ferris wheels are also gorgeous to look at when they are lit up at night'."
+        },
+        {
+          "id": "ep5_q9",
+          "type": "mcq",
+          "question": "The author wrote this passage to...",
+          "options": ["Describe his favourite amusement parks", "Tell us about his interests in rides", "Explain the history of Ferris wheels and why he likes them", "Explain the original design of the Ferris wheel"],
+          "answer": "Explain the history of Ferris wheels and why he likes them",
+          "explanation": "The passage covers both the author's love for Ferris wheels and their history."
+        },
+        {
+          "id": "ep5_q10",
+          "type": "mcq",
+          "question": "People were impressed by the first Ferris wheel because of its size and also the...",
+          "options": ["Mechanics", "Colour", "Design", "Thrill"],
+          "answer": "Mechanics",
+          "explanation": "The passage says 'visitors to the fair were impressed by the size of the ride as well as the mechanics of it'."
+        },
+        {
+          "id": "ep5_q11",
+          "type": "short_answer",
+          "question": "How does the author describe the working of the Ferris wheel telling us how simple yet complex it is?",
+          "answer": "The author says riding it is easy, but how it works is complicated. A series of carts are attached to a wheel, which is attached to a rim. That rim rotates vertically around an axis, and gravity keeps the carts upright. Only advanced engineers can make safe and fun Ferris wheels."
+        },
+        {
+          "id": "ep5_q12",
+          "type": "short_answer",
+          "question": "Which ride does the author prefer and why?",
+          "answer": "The author prefers the Ferris wheel because it is gentle and relaxing. At the top, you get beautiful sights of the park and a sense of calm away from the hustle and bustle below."
+        },
+        {
+          "id": "ep5_q13",
+          "type": "short_answer",
+          "question": "How has the Ferris wheel technology improved since 1893?",
+          "answer": "Ferris wheel technology has improved significantly. Most of today's Ferris wheels are much larger than the first one. The largest in the world is the Singapore Flyer, which stands slightly taller than twice what the original Ferris wheel did (over 528 feet)."
+        }
+      ]
+    },
+    {
+      "id": "exam_passage_6",
+      "title": "Earthquakes: Movement of the Earth's Crust",
+      "source": "Sample Paper 7",
+      "topic": "Unseen Comprehension",
+      "passage": "Earthquakes are the shaking and moving of the ground when energy is released in waves. These waves are called seismic waves. These waves are similar to ocean waves, which move through water. Seismic waves, however, move through the ground.\n\nMost earthquakes are caused by the movement of large sections of the Earth's crust, called plates. The place where two plates meet is called a fault. Faults look like large cracks in the ground. If the two plates move in different directions, they build up energy at the fault line. When enough energy builds up, the stress on the fault becomes too great and it ruptures. This releases the energy and the ground starts to shake.\n\nEarthquakes can also be caused by other natural events, such as landslides and volcanoes. Manmade earthquakes happen because of nuclear testing and mining explosions.\n\nThe first movement of an earthquake, called the main shock, is often followed by smaller ground trembles, called aftershocks. These aftershocks are the plates settling into their new position. Aftershocks can continue for days after the main shock.\n\nThere are an estimated 500,000 earthquakes around the world each year. Most are so mild they are only recorded on scientific instruments. Only about 100,000 can be felt by humans. Of these, only about 19 a year cause major damage.\n\nMajor earthquakes in populated areas can cause huge destruction. Buildings collapse, roads and bridges buckle and crack, and electrical and gas lines break and cause fires. If the earthquake happens in the ocean, it makes a series of huge ocean waves called a tsunami. The tsunami travels until it finally reaches land, where it causes large flooding.\n\nScientists are searching for ways to predict earthquakes. They study the historical patterns of earthquakes and monitor the movement of the plates with seismic equipment. While they cannot predict an exact date of a future earthquake, they have a better understanding of when earthquakes are more likely to happen.",
+      "questions": [
+        {
+          "id": "ep6_q1",
+          "type": "mcq",
+          "question": "Seismic waves move through...",
+          "options": ["The mountains", "The ground", "The water", "The air"],
+          "answer": "The ground",
+          "explanation": "The passage states 'Seismic waves, however, move through the ground'."
+        },
+        {
+          "id": "ep6_q2",
+          "type": "mcq",
+          "question": "A fault is formed when...",
+          "options": ["2 plates meet", "2 rocks hit each other", "Many plates meet", "2 rivers meet"],
+          "answer": "2 plates meet",
+          "explanation": "The passage says 'The place where two plates meet is called a fault'."
+        },
+        {
+          "id": "ep6_q3",
+          "type": "mcq",
+          "question": "Manmade earthquakes are caused due to...",
+          "options": ["Nuclear testing and mining explosions", "Floods", "Cyclones", "Volcanoes"],
+          "answer": "Nuclear testing and mining explosions",
+          "explanation": "The passage says manmade earthquakes happen because of 'nuclear testing and mining explosions'."
+        },
+        {
+          "id": "ep6_q4",
+          "type": "mcq",
+          "question": "The main shock is the...",
+          "options": ["First movement of an earthquake", "The destruction caused due to an earthquake", "The after effects of an earthquake", "Minor tremors during the earthquake"],
+          "answer": "First movement of an earthquake",
+          "explanation": "The passage states 'The first movement of an earthquake, called the main shock'."
+        },
+        {
+          "id": "ep6_q5",
+          "type": "mcq",
+          "question": "Tsunamis are caused due to earthquakes in...",
+          "options": ["Space", "Deserts", "Rivers", "Oceans"],
+          "answer": "Oceans",
+          "explanation": "The passage says 'If the earthquake happens in the ocean, it makes a series of huge ocean waves called a tsunami'."
+        },
+        {
+          "id": "ep6_q6",
+          "type": "mcq",
+          "question": "Fires are caused during earthquakes due to...",
+          "options": ["Rocks falling", "Gas line breaks", "Dust in the air", "Buildings shaking"],
+          "answer": "Gas line breaks",
+          "explanation": "The passage states 'electrical and gas lines break and cause fires'."
+        },
+        {
+          "id": "ep6_q7",
+          "type": "mcq",
+          "question": "Not all earthquakes are felt by humans, only about ___ can be felt by us.",
+          "options": ["10,000", "1000", "100,000", "19"],
+          "answer": "100,000",
+          "explanation": "The passage says 'Only about 100,000 can be felt by humans'."
+        },
+        {
+          "id": "ep6_q8",
+          "type": "mcq",
+          "question": "The word 'rupture' means...",
+          "options": ["To join", "To form a new plate", "To break", "To shake"],
+          "answer": "To break",
+          "explanation": "In context, 'it ruptures' means the fault breaks open, releasing energy."
+        },
+        {
+          "id": "ep6_q9",
+          "type": "mcq",
+          "question": "The word 'predict' means...",
+          "options": ["To prevent", "To prepare for an event", "To know a future event", "To examine"],
+          "answer": "To know a future event",
+          "explanation": "To predict means to forecast or tell what will happen in the future."
+        },
+        {
+          "id": "ep6_q10",
+          "type": "short_answer",
+          "question": "Explain the movement of plates which result in an earthquake.",
+          "answer": "If two plates move in different directions, they build up energy at the fault line. When enough energy builds up, the stress on the fault becomes too great and it ruptures. This releases the energy and the ground starts to shake, causing an earthquake."
+        },
+        {
+          "id": "ep6_q11",
+          "type": "short_answer",
+          "question": "What kind of destruction can an earthquake cause?",
+          "answer": "Major earthquakes in populated areas can cause huge destruction: buildings collapse, roads and bridges buckle and crack, electrical and gas lines break causing fires. If the earthquake happens in the ocean, it creates a tsunami that causes large flooding when it reaches land."
+        },
+        {
+          "id": "ep6_q12",
+          "type": "short_answer",
+          "question": "How do scientists predict earthquakes?",
+          "answer": "Scientists predict earthquakes by studying the historical patterns of earthquakes and monitoring the movement of the plates with seismic equipment. While they cannot predict an exact date, they have a better understanding of when earthquakes are more likely to happen."
+        }
+      ]
+    },
+    {
+      "id": "exam_passage_7",
+      "title": "Nepal and the Dashain Festival",
+      "source": "Sample Paper Term 2 (2025)",
+      "topic": "Unseen Comprehension",
+      "passage": "Nepal, a small, mountainous country tucked between India and China, may seem completely foreign to many Americans. Cows walk down busy streets unharmed, 24 different languages are spoken, and people eat two meals of rice and lentils every day. Nepali holidays, many of which are related to the Hindu religion, can seem especially bizarre to Americans unfamiliar with the culture. However, if we look beyond how others celebrate to consider the things they are celebrating, we find surprising similarities to our own culture.\n\nThe biggest holiday in Nepal is Dashain, a ten-day festival for the Hindu goddess Durga that takes place in September or October. According to Hindu beliefs, Durga defeated the evil demons of the world. To thank the goddess, people visit temples in her honour and sacrifice goats or sheep as offerings. Throughout the year, most Nepalis do not eat much meat because it is expensive, but Dashain is a time to enjoy meat every day. Children fly colourful, homemade kites during Dashain. People also construct enormous bamboo swings on street corners and in parks. Every evening people gather at these swings and take turns swinging. Nepalis say that by swinging, people can relieve the earth of their weight, if only for a few minutes out of the year. Dashain is a time for people to eat good food, relax, and enjoy themselves!\n\nAside from eating and enjoying themselves, during Dashain, people also receive blessings from their elders. Schools and offices shut down so people can travel to be with their families. Reuniting with family reminds people of the importance of kindness, respect, and forgiveness. People also clean and decorate their homes for Dashain. And, like many holidays in the United States, it is a time for shopping. Children and adults alike get new clothes for the occasion. People express appreciation for all that they have, while looking forward to good fortune and peace in the year to come.\n\nDuring American holidays, people may not sacrifice goats or soar on bamboo swings, but we do often travel to be with family members and take time off work or school to relax. No matter how we celebrate, many people around the world spend their holidays honouring family, reflecting on their blessings, and hoping for good fortune in the future.",
+      "questions": [
+        {
+          "id": "ep7_q1",
+          "type": "mcq",
+          "question": "According to the passage, Hindus believe that the goddess Durga...",
+          "options": ["Sacrificed goats and sheep", "Defeated the evil demons of the world", "Visited temples", "Enjoyed meat every day"],
+          "answer": "Defeated the evil demons of the world",
+          "explanation": "The passage states 'According to Hindu beliefs, Durga defeated the evil demons of the world'."
+        },
+        {
+          "id": "ep7_q2",
+          "type": "mcq",
+          "question": "As used in paragraph 1, 'bizarre' means...",
+          "options": ["Unbelievable", "Unknown", "Awkward", "Strange"],
+          "answer": "Strange",
+          "explanation": "In context, 'bizarre' means strange or unusual to those unfamiliar with the culture."
+        },
+        {
+          "id": "ep7_q3",
+          "type": "mcq",
+          "question": "Both the colourful kites and bamboo swings are used as examples of...",
+          "options": ["Ways people relax and enjoy themselves during Dashain", "Things people honour and reflect on during Dashain", "Offerings to the goddess Durga", "Ways people reunite with family during Dashain"],
+          "answer": "Ways people relax and enjoy themselves during Dashain",
+          "explanation": "The passage mentions these activities in the context of 'Dashain is a time for people to eat good food, relax, and enjoy themselves'."
+        },
+        {
+          "id": "ep7_q4",
+          "type": "mcq",
+          "question": "Which of the following sentences from the passage best indicates why the author thinks Nepal would seem very foreign to many Americans?",
+          "options": ["Cows walk down busy streets unharmed, 24 different languages are spoken, and people eat two meals of rice and lentils every day", "Every evening, people gather at these swings and take turns swinging", "People also clean and decorate their homes for Dashain", "During American holidays, people may not sacrifice goats or soar on bamboo swings"],
+          "answer": "Cows walk down busy streets unharmed, 24 different languages are spoken, and people eat two meals of rice and lentils every day",
+          "explanation": "This sentence lists things that would seem foreign to Americans."
+        },
+        {
+          "id": "ep7_q5",
+          "type": "mcq",
+          "question": "The author suggests that although people in different cultures celebrate holidays differently, one similarity is that many people...",
+          "options": ["Ask for blessings from their elders during holidays", "Agree that holidays reveal a lot about a culture", "Believe that holidays must be celebrated", "Think of holidays as a time to spend with their families"],
+          "answer": "Think of holidays as a time to spend with their families",
+          "explanation": "The passage concludes that 'many people around the world spend their holidays honouring family'."
+        },
+        {
+          "id": "ep7_q6",
+          "type": "short_answer",
+          "question": "What is Dashain? When does it take place?",
+          "answer": "Dashain is the biggest holiday in Nepal, a ten-day festival for the Hindu goddess Durga. It takes place in September or October."
+        },
+        {
+          "id": "ep7_q7",
+          "type": "short_answer",
+          "question": "Why is meeting with family important to these people?",
+          "answer": "Reuniting with family reminds people of the importance of kindness, respect, and forgiveness. Schools and offices shut down so people can travel to be with their families."
+        },
+        {
+          "id": "ep7_q8",
+          "type": "short_answer",
+          "question": "Name any two things that people do during Dashain.",
+          "answer": "During Dashain, people: (1) Visit temples and sacrifice goats or sheep as offerings to goddess Durga, (2) Fly colourful, homemade kites, (3) Swing on bamboo swings, (4) Receive blessings from their elders, (5) Clean and decorate their homes, (6) Buy new clothes."
+        },
+        {
+          "id": "ep7_q9",
+          "type": "short_answer",
+          "question": "Why do people swing during this period?",
+          "answer": "Nepalis say that by swinging, people can relieve the earth of their weight, if only for a few minutes out of the year."
+        },
+        {
+          "id": "ep7_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: The act of offering something to a god especially an animal that has been killed in a special way.",
+          "answer": "Sacrifice"
+        },
+        {
+          "id": "ep7_q11",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: Make something more attractive by adding extra items or images to it.",
+          "answer": "Decorate"
+        }
+      ]
+    }
+  ],
+  "total_count": 7,
+  "subject": "English E1",
+  "chapter": "Exam Questions"
+}

@@ -1,0 +1,462 @@
+{
+  "question_type": "previous_year_questions",
+  "description": "Consolidated previous year exam questions from all grammar chapters",
+  "questions": [
+    {
+      "id": "exam_apv_1",
+      "type": "fill_in_blanks",
+      "topic": "Active and Passive Voice",
+      "year": "Annual Exam 2020",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'A mistake was made by me.'",
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "The subject 'mistake' receives the action. Structure: was + V3 (was made) with 'by me' indicates passive voice."
+    },
+    {
+      "id": "exam_apv_2",
+      "type": "fill_in_blanks",
+      "topic": "Active and Passive Voice",
+      "year": "Annual Exam 2020",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'Lata sang a song in English.'",
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'Lata' performs the action of singing. Simple past active form."
+    },
+    {
+      "id": "exam_apv_3",
+      "type": "fill_in_blanks",
+      "topic": "Active and Passive Voice",
+      "year": "Annual Exam 2020",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'She was brought up by her aunt.'",
+      "answer": "Passive voice",
+      "acceptable_answers": ["passive", "passive voice"],
+      "explanation": "The subject 'She' receives the action. Structure: was + V3 (was brought up) with 'by her aunt' indicates passive voice."
+    },
+    {
+      "id": "exam_apv_4",
+      "type": "fill_in_blanks",
+      "topic": "Active and Passive Voice",
+      "year": "Annual Exam 2020",
+      "question": "State whether the sentence is in 'active' or 'passive' voice: 'I opened the door for the guests.'",
+      "answer": "Active voice",
+      "acceptable_answers": ["active", "active voice"],
+      "explanation": "The subject 'I' performs the action of opening. Simple past active form."
+    },
+    {
+      "id": "exam_apv_5",
+      "type": "short_answer",
+      "topic": "Active and Passive Voice",
+      "year": "Annual Exam 2020",
+      "question": "Change from active voice to passive voice: 'I am bending the branch.'",
+      "answer": "The branch is being bent by me.",
+      "key_points": ["Present continuous: am bending -> is being bent", "Object 'branch' becomes subject", "Subject 'I' becomes 'by me'"]
+    },
+    {
+      "id": "exam_apv_6",
+      "type": "short_answer",
+      "topic": "Active and Passive Voice",
+      "year": "Annual Exam 2020",
+      "question": "Change from passive voice to active voice: 'He was given a reward.'",
+      "answer": "Someone gave him a reward. / They gave him a reward.",
+      "key_points": ["Simple past passive -> simple past active", "'He' becomes indirect object 'him'", "Add general subject like 'Someone' or 'They'"]
+    },
+    {
+      "id": "exam_apv_7",
+      "type": "short_answer",
+      "topic": "Active and Passive Voice",
+      "year": "Annual Exam 2020",
+      "question": "Change from active voice to passive voice: 'Is she boiling potatoes?'",
+      "answer": "Are potatoes being boiled by her?",
+      "key_points": ["Present continuous interrogative", "is...boiling -> are...being boiled", "Object 'potatoes' becomes subject"]
+    },
+    {
+      "id": "exam_apv_8",
+      "type": "short_answer",
+      "topic": "Active and Passive Voice",
+      "year": "Annual Exam 2020",
+      "question": "Change from active voice to passive voice: 'She sent invitation cards to her friends.'",
+      "answer": "Invitation cards were sent to her friends by her.",
+      "key_points": ["Simple past: sent -> were sent", "Direct object 'invitation cards' becomes subject", "'by her' at the end"]
+    },
+    {
+      "id": "exam_conj_1",
+      "type": "fill_in_blanks",
+      "topic": "Conjunctions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with conjunction: 'The box was heavy _____ he could not lift it.' (Options: otherwise, as well as, or, therefore, but, until, where, while)",
+      "answer": "therefore",
+      "acceptable_answers": ["therefore"],
+      "explanation": "'Therefore' shows cause and effect - the box being heavy resulted in him not being able to lift it."
+    },
+    {
+      "id": "exam_conj_2",
+      "type": "fill_in_blanks",
+      "topic": "Conjunctions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with conjunction: 'Rashi is quite rich _____ she is not happy.'",
+      "answer": "but",
+      "acceptable_answers": ["but"],
+      "explanation": "'But' shows contrast between being rich and not being happy."
+    },
+    {
+      "id": "exam_conj_3",
+      "type": "fill_in_blanks",
+      "topic": "Conjunctions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with conjunction: 'Walk fast _____ you will miss the train.'",
+      "answer": "or",
+      "acceptable_answers": ["or", "otherwise"],
+      "explanation": "'Or' or 'otherwise' presents an alternative/consequence."
+    },
+    {
+      "id": "exam_conj_4",
+      "type": "fill_in_blanks",
+      "topic": "Conjunctions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with conjunction: 'He _____ his brothers are very good players.'",
+      "answer": "as well as",
+      "acceptable_answers": ["as well as", "and"],
+      "explanation": "'As well as' adds similar information about both subjects."
+    },
+    {
+      "id": "exam_conj_5",
+      "type": "fill_in_blanks",
+      "topic": "Conjunctions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with conjunction: 'Make hay _____ the sun shines.'",
+      "answer": "while",
+      "acceptable_answers": ["while"],
+      "explanation": "'While' indicates simultaneous action - making hay during the time the sun is shining."
+    },
+    {
+      "id": "exam_conj_6",
+      "type": "fill_in_blanks",
+      "topic": "Conjunctions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with conjunction: 'Work hard _____ you will fail.'",
+      "answer": "otherwise",
+      "acceptable_answers": ["otherwise", "or"],
+      "explanation": "'Otherwise' or 'or' presents the consequence of not working hard."
+    },
+    {
+      "id": "exam_conj_7",
+      "type": "fill_in_blanks",
+      "topic": "Conjunctions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with conjunction: 'We waited _____ our friend arrived.'",
+      "answer": "until",
+      "acceptable_answers": ["until", "till"],
+      "explanation": "'Until' indicates waiting up to the point when the friend arrived."
+    },
+    {
+      "id": "exam_conj_8",
+      "type": "fill_in_blanks",
+      "topic": "Conjunctions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with conjunction: 'He found his watch _____ he had left it.'",
+      "answer": "where",
+      "acceptable_answers": ["where"],
+      "explanation": "'Where' indicates the place - he found it at the location where he left it."
+    },
+    {
+      "id": "exam_prep_1",
+      "type": "fill_in_blanks",
+      "topic": "Prepositions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with suitable preposition: 'The cat is hiding ___ the table.'",
+      "answer": "under",
+      "acceptable_answers": ["under", "beneath"],
+      "explanation": "'Under' or 'beneath' indicates a position below the table."
+    },
+    {
+      "id": "exam_prep_2",
+      "type": "fill_in_blanks",
+      "topic": "Prepositions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with suitable preposition: 'He has been working here ___ 2015.'",
+      "answer": "since",
+      "acceptable_answers": ["since"],
+      "explanation": "'Since' is used with a specific point in time (2015)."
+    },
+    {
+      "id": "exam_prep_3",
+      "type": "fill_in_blanks",
+      "topic": "Prepositions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with suitable preposition: 'She is good ___ painting.'",
+      "answer": "at",
+      "acceptable_answers": ["at"],
+      "explanation": "'Good at' is the correct phrase for skills."
+    },
+    {
+      "id": "exam_prep_4",
+      "type": "fill_in_blanks",
+      "topic": "Prepositions",
+      "year": "Annual Exam 2020",
+      "question": "Fill in the blank with suitable preposition: 'We arrived ___ the airport ___ time.'",
+      "answer": "at, on",
+      "acceptable_answers": ["at, on", "at, in"],
+      "explanation": "'At' for location (airport). 'On time' or 'in time' for punctuality."
+    },
+    {
+      "id": "exam_prep_5",
+      "type": "fill_in_blanks",
+      "topic": "Prepositions",
+      "year": "Annual Exam 2019",
+      "question": "Fill in the blank with suitable preposition: 'The meeting will be held ___ Friday ___ 3 p.m.'",
+      "answer": "on, at",
+      "acceptable_answers": ["on, at"],
+      "explanation": "'On' for days. 'At' for specific times."
+    },
+    {
+      "id": "exam_prep_6",
+      "type": "fill_in_blanks",
+      "topic": "Prepositions",
+      "year": "Annual Exam 2019",
+      "question": "Fill in the blank with suitable preposition: 'She is suffering ___ a cold.'",
+      "answer": "from",
+      "acceptable_answers": ["from"],
+      "explanation": "'Suffer from' is the correct phrase."
+    },
+    {
+      "id": "exam_prep_7",
+      "type": "fill_in_blanks",
+      "topic": "Prepositions",
+      "year": "Annual Exam 2019",
+      "question": "Fill in the blank with suitable preposition: 'He jumped ___ the river to save the child.'",
+      "answer": "into",
+      "acceptable_answers": ["into"],
+      "explanation": "'Into' shows movement from outside to inside."
+    },
+    {
+      "id": "exam_prep_8",
+      "type": "fill_in_blanks",
+      "topic": "Prepositions",
+      "year": "Annual Exam 2019",
+      "question": "Fill in the blank with suitable preposition: 'The teacher was angry ___ the students ___ their behaviour.'",
+      "answer": "with, for",
+      "acceptable_answers": ["with, for", "with, about"],
+      "explanation": "'Angry with' a person. 'Angry for/about' the reason."
+    },
+    {
+      "id": "exam_dis_1",
+      "type": "conversion",
+      "topic": "Direct and Indirect Speech",
+      "year": "Annual Exam 2020",
+      "question": "Change from indirect speech to direct speech: 'The stranger asked me if my father was at home.'",
+      "answer": "The stranger said to me, \"Is your father at home?\"",
+      "acceptable_answers": ["The stranger said to me, \"Is your father at home?\""],
+      "explanation": "'If' in indirect speech indicates a yes/no question. 'Was' changes back to 'is'."
+    },
+    {
+      "id": "exam_dis_2",
+      "type": "conversion",
+      "topic": "Direct and Indirect Speech",
+      "year": "Annual Exam 2020",
+      "question": "Change from indirect speech to direct speech: 'The teacher reminded the students to be regular and punctual.'",
+      "answer": "The teacher said to the students, \"Be regular and punctual.\"",
+      "acceptable_answers": ["The teacher said to the students, \"Be regular and punctual.\"", "The teacher said to the students, \"You should be regular and punctual.\""],
+      "explanation": "'Reminded...to be' converts to an imperative sentence in direct speech."
+    },
+    {
+      "id": "exam_dis_3",
+      "type": "conversion",
+      "topic": "Direct and Indirect Speech",
+      "year": "Annual Exam 2020",
+      "question": "Rewrite in indirect speech using a suitable reporting verb: 'Father said to Raj, \"Go and bring your report card.\"'",
+      "answer": "Father ordered Raj to go and bring his report card.",
+      "acceptable_answers": ["Father ordered Raj to go and bring his report card.", "Father told Raj to go and bring his report card."],
+      "explanation": "Imperative sentences use 'ordered/told + object + to + infinitive'. 'Your' changes to 'his'."
+    },
+    {
+      "id": "exam_dis_4",
+      "type": "conversion",
+      "topic": "Direct and Indirect Speech",
+      "year": "Annual Exam 2020",
+      "question": "Rewrite in indirect speech using a suitable reporting verb: 'Mother said to Tom, \"I want to know why you missed school yesterday.\"'",
+      "answer": "Mother told Tom that she wanted to know why he had missed school the previous day.",
+      "acceptable_answers": ["Mother told Tom that she wanted to know why he had missed school the previous day.", "Mother told Tom that she wanted to know why he had missed school the day before."],
+      "explanation": "'Want' becomes 'wanted', 'you' becomes 'he', 'missed' becomes 'had missed', 'yesterday' becomes 'the previous day/the day before'."
+    },
+    {
+      "id": "exam_dis_5",
+      "type": "conversion",
+      "topic": "Direct and Indirect Speech",
+      "year": "Annual Exam 2019",
+      "question": "Change to indirect speech: 'She said to me, \"Will you help me with my homework?\"'",
+      "answer": "She asked me if I would help her with her homework.",
+      "acceptable_answers": ["She asked me if I would help her with her homework.", "She asked me whether I would help her with her homework."],
+      "explanation": "Yes/no questions use 'if/whether'. 'Will' becomes 'would'. Pronouns change accordingly."
+    },
+    {
+      "id": "exam_dis_6",
+      "type": "conversion",
+      "topic": "Direct and Indirect Speech",
+      "year": "Annual Exam 2019",
+      "question": "Change to indirect speech: 'The captain said to the players, \"Hurrah! We have won the match.\"'",
+      "answer": "The captain exclaimed with joy that they had won the match.",
+      "acceptable_answers": ["The captain exclaimed with joy that they had won the match."],
+      "explanation": "'Hurrah' expresses joy, so we use 'exclaimed with joy'. 'Have won' becomes 'had won'."
+    },
+    {
+      "id": "exam_dis_7",
+      "type": "conversion",
+      "topic": "Direct and Indirect Speech",
+      "year": "Annual Exam 2019",
+      "question": "Change to direct speech: 'He asked me what my name was.'",
+      "answer": "He said to me, \"What is your name?\"",
+      "acceptable_answers": ["He said to me, \"What is your name?\""],
+      "explanation": "'What' is retained as the question word. 'Was' changes back to 'is', 'my' becomes 'your'."
+    },
+    {
+      "id": "exam_dis_8",
+      "type": "conversion",
+      "topic": "Direct and Indirect Speech",
+      "year": "Annual Exam 2019",
+      "question": "Change to direct speech: 'Mother advised me not to eat junk food.'",
+      "answer": "Mother said to me, \"Don't eat junk food.\"",
+      "acceptable_answers": ["Mother said to me, \"Don't eat junk food.\"", "Mother said to me, \"Do not eat junk food.\""],
+      "explanation": "'Advised...not to' converts to negative imperative 'Don't/Do not'."
+    },
+    {
+      "id": "exam_sent_1",
+      "type": "fill_in_blanks",
+      "topic": "Sentences",
+      "year": "2020",
+      "question": "Identify the sentence type: 'The farmer worked hard in the field.'",
+      "answer": "Simple",
+      "acceptable_answers": ["Simple", "simple", "S"]
+    },
+    {
+      "id": "exam_sent_2",
+      "type": "fill_in_blanks",
+      "topic": "Sentences",
+      "year": "2020",
+      "question": "Identify the sentence type: 'He was tired, yet he continued working.'",
+      "answer": "Compound",
+      "acceptable_answers": ["Compound", "compound", "C"]
+    },
+    {
+      "id": "exam_sent_3",
+      "type": "short_answer",
+      "topic": "Sentences",
+      "year": "2019",
+      "question": "Change to exclamatory: 'It was a very surprising result.'",
+      "answer": "What a surprising result it was!"
+    },
+    {
+      "id": "exam_sent_4",
+      "type": "short_answer",
+      "topic": "Sentences",
+      "year": "2019",
+      "question": "Change from simple to complex: 'He is too weak to walk.'",
+      "answer": "He is so weak that he cannot walk."
+    },
+    {
+      "id": "exam_sent_5",
+      "type": "short_answer",
+      "topic": "Sentences",
+      "year": "2018",
+      "question": "Change to interrogative: 'Honesty is always rewarded.'",
+      "answer": "Isn't honesty always rewarded?"
+    },
+    {
+      "id": "exam_sent_6",
+      "type": "short_answer",
+      "topic": "Sentences",
+      "year": "2018",
+      "question": "Change from compound to simple: 'He worked hard, and he succeeded.'",
+      "answer": "Working hard, he succeeded."
+    },
+    {
+      "id": "exam_sent_7",
+      "type": "fill_in_blanks",
+      "topic": "Sentences",
+      "year": "2017",
+      "question": "Identify the sentence type: 'When the bell rang, the students stood up.'",
+      "answer": "Complex",
+      "acceptable_answers": ["Complex", "complex", "Cx"]
+    },
+    {
+      "id": "exam_sent_8",
+      "type": "short_answer",
+      "topic": "Sentences",
+      "year": "2017",
+      "question": "Change to assertive: 'How sweet the child is!'",
+      "answer": "The child is very sweet."
+    },
+    {
+      "id": "exam_ip_1",
+      "type": "fill_in_blanks",
+      "topic": "Idioms and Proverbs",
+      "year": "2020",
+      "question": "Complete the proverb: 'A stitch in time ___.'",
+      "answer": "saves nine",
+      "acceptable_answers": ["saves nine"]
+    },
+    {
+      "id": "exam_ip_2",
+      "type": "fill_in_blanks",
+      "topic": "Idioms and Proverbs",
+      "year": "2020",
+      "question": "Complete the proverb: 'Prevention is ___.'",
+      "answer": "better than cure",
+      "acceptable_answers": ["better than cure"]
+    },
+    {
+      "id": "exam_ip_3",
+      "type": "fill_in_blanks",
+      "topic": "Idioms and Proverbs",
+      "year": "2019",
+      "question": "Complete the idiom: 'To let the cat ___.'",
+      "answer": "out of the bag",
+      "acceptable_answers": ["out of the bag"]
+    },
+    {
+      "id": "exam_ip_4",
+      "type": "short_answer",
+      "topic": "Idioms and Proverbs",
+      "year": "2019",
+      "question": "Use the idiom 'face the music' in a sentence to show its meaning.",
+      "answer": "After breaking the school window, Ravi had to face the music when he was called to the principal's office."
+    },
+    {
+      "id": "exam_ip_5",
+      "type": "fill_in_blanks",
+      "topic": "Idioms and Proverbs",
+      "year": "2018",
+      "question": "Complete the proverb: 'The early bird catches ___.'",
+      "answer": "the worm",
+      "acceptable_answers": ["the worm", "worm"]
+    },
+    {
+      "id": "exam_ip_6",
+      "type": "short_answer",
+      "topic": "Idioms and Proverbs",
+      "year": "2018",
+      "question": "What does the idiom 'to take the bull by the horns' mean?",
+      "answer": "To face a difficulty boldly; to deal with a problem directly and with determination."
+    },
+    {
+      "id": "exam_ip_7",
+      "type": "fill_in_blanks",
+      "topic": "Idioms and Proverbs",
+      "year": "2017",
+      "question": "Complete: 'He is accustomed ___ waking up early.'",
+      "answer": "to",
+      "acceptable_answers": ["to"]
+    },
+    {
+      "id": "exam_ip_8",
+      "type": "fill_in_blanks",
+      "topic": "Idioms and Proverbs",
+      "year": "2017",
+      "question": "Complete: 'The child is blind ___ his own faults.'",
+      "answer": "to",
+      "acceptable_answers": ["to"]
+    }
+  ],
+  "total_count": 48,
+  "subject": "English E1",
+  "chapter": "Exam Questions"
+}

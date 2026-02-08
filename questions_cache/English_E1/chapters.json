@@ -2,6 +2,14 @@
   "subject": "English E1",
   "chapters": [
     {
+      "name": "Exam Questions",
+      "slug": "Exam Questions",
+      "has_questions": true,
+      "icon": "📋",
+      "category": "Revision",
+      "category_icon": "📚"
+    },
+    {
       "name": "Active and Passive Voice",
       "slug": "Active and Passive Voice",
       "has_questions": true,

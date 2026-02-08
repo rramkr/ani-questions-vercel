@@ -1,0 +1,12 @@
+{
+  "subject": "English E1",
+  "chapter": "Exam Questions",
+  "sections": {
+    "textbook": [],
+    "exam": [
+      {"value": "all_previous_year_questions", "label": "Grammar (Previous Year)", "icon": "📝"},
+      {"value": "exam_comprehension", "label": "Unseen Comprehension (Sample Papers)", "icon": "📖"}
+    ],
+    "miscellaneous": []
+  }
+}
