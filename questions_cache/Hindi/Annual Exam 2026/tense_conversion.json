@@ -181,9 +181,129 @@
       "question": "वह घूमने जाता है।",
       "answer": "वह घूमने गया।",
       "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "tc_31",
+      "question": "लड़की चिट्ठी लिखती है।",
+      "answer": "लड़की ने चिट्ठी लिखी।",
+      "source": "Tricky (ने with feminine object)"
+    },
+    {
+      "id": "tc_32",
+      "question": "वह दूध पीती है।",
+      "answer": "उसने दूध पिया।",
+      "source": "Tricky (ने with masculine object)"
+    },
+    {
+      "id": "tc_33",
+      "question": "मैं रोज़ दौड़ता हूँ।",
+      "answer": "मैं रोज़ दौड़ता था।",
+      "source": "Tricky (habitual past)"
+    },
+    {
+      "id": "tc_34",
+      "question": "वे हमेशा हँसते हैं।",
+      "answer": "वे हमेशा हँसते थे।",
+      "source": "Tricky (habitual past)"
+    },
+    {
+      "id": "tc_35",
+      "question": "माँ रोटी बनाती है।",
+      "answer": "माँ ने रोटी बनाई।",
+      "source": "Tricky (ने with feminine object)"
+    },
+    {
+      "id": "tc_36",
+      "question": "पिताजी अखबार पढ़ते हैं।",
+      "answer": "पिताजी ने अखबार पढ़ा।",
+      "source": "Tricky (ने with masculine object)"
+    },
+    {
+      "id": "tc_37",
+      "question": "बच्चा सो जाता है।",
+      "answer": "बच्चा सो गया।",
+      "source": "Tricky (compound verb)"
+    },
+    {
+      "id": "tc_38",
+      "question": "वह खाना खा लेता है।",
+      "answer": "उसने खाना खा लिया।",
+      "source": "Tricky (compound verb with ने)"
+    },
+    {
+      "id": "tc_39",
+      "question": "मैं काम कर देता हूँ।",
+      "answer": "मैंने काम कर दिया।",
+      "source": "Tricky (compound verb with ने)"
+    },
+    {
+      "id": "tc_40",
+      "question": "वह नहीं आता है।",
+      "answer": "वह नहीं आया।",
+      "source": "Tricky (negative sentence)"
+    },
+    {
+      "id": "tc_41",
+      "question": "क्या तुम जाते हो?",
+      "answer": "क्या तुम गए?",
+      "source": "Tricky (question form)"
+    },
+    {
+      "id": "tc_42",
+      "question": "वह कहाँ जाती है?",
+      "answer": "वह कहाँ गई?",
+      "source": "Tricky (question with feminine)"
+    },
+    {
+      "id": "tc_43",
+      "question": "लड़के मिठाई खाते हैं।",
+      "answer": "लड़कों ने मिठाई खाई।",
+      "source": "Tricky (plural with ने)"
+    },
+    {
+      "id": "tc_44",
+      "question": "लड़कियाँ गाना गाती हैं।",
+      "answer": "लड़कियों ने गाना गाया।",
+      "source": "Tricky (feminine plural with ने)"
+    },
+    {
+      "id": "tc_45",
+      "question": "वह मुझे देखता है।",
+      "answer": "उसने मुझे देखा।",
+      "source": "Tricky (ने with pronoun object)"
+    },
+    {
+      "id": "tc_46",
+      "question": "हम उसे बुलाते हैं।",
+      "answer": "हमने उसे बुलाया।",
+      "source": "Tricky (ने with pronoun object)"
+    },
+    {
+      "id": "tc_47",
+      "question": "वह रोज़ सुबह उठता है।",
+      "answer": "वह रोज़ सुबह उठता था।",
+      "source": "Tricky (habitual past)"
+    },
+    {
+      "id": "tc_48",
+      "question": "दादी कहानी सुनाती है।",
+      "answer": "दादी ने कहानी सुनाई।",
+      "source": "Tricky (ने with feminine object)"
+    },
+    {
+      "id": "tc_49",
+      "question": "वह हमें पढ़ाता है।",
+      "answer": "उसने हमें पढ़ाया।",
+      "source": "Tricky (ने with pronoun object)"
+    },
+    {
+      "id": "tc_50",
+      "question": "बिल्ली दूध पीती है।",
+      "answer": "बिल्ली ने दूध पिया।",
+      "source": "Tricky (feminine subject with ने)"
     }
   ],
-  "total_count": 30,
+  "total_count": 50,
   "subject": "Hindi",
   "chapter": "Annual Exam 2026"
 }
