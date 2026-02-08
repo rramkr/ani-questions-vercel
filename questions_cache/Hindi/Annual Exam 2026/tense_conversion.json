@@ -6,169 +6,169 @@
       "id": "tc_1",
       "question": "मैं पढ़ रहा हूँ।",
       "answer": "मैं पढ़ रहा था।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_2",
       "question": "वे चल रहे हैं।",
       "answer": "वे चल रहे थे।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_3",
       "question": "वह रोटी खाता है।",
       "answer": "वह रोटी खाता था।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_4",
       "question": "गीता नाच रही है।",
       "answer": "गीता नाच रही थी।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_5",
-      "question": "वह रोना रहा है।",
+      "question": "वह रो रहा है।",
       "answer": "वह रो रहा था।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_6",
       "question": "राम खाना खाता है।",
       "answer": "राम ने खाना खाया।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_7",
       "question": "सीता गाना गाती है।",
       "answer": "सीता ने गाना गाया।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_8",
       "question": "बच्चे खेलते हैं।",
       "answer": "बच्चे खेले।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_9",
       "question": "माँ खाना पकाती है।",
       "answer": "माँ ने खाना पकाया।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_10",
       "question": "वह किताब पढ़ता है।",
       "answer": "उसने किताब पढ़ी।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_11",
       "question": "पक्षी उड़ते हैं।",
       "answer": "पक्षी उड़े।",
-      "source": "Notebook"
+      "source": "Notebook (Textbook)"
     },
     {
       "id": "tc_12",
+      "question": "मैं स्कूल जाता हूँ।",
+      "answer": "मैं स्कूल गया।",
+      "source": "Notebook (Textbook)"
+    },
+    {
+      "id": "tc_13",
+      "question": "वह पानी पीता है।",
+      "answer": "उसने पानी पिया।",
+      "source": "Notebook (Textbook)"
+    },
+    {
+      "id": "tc_14",
+      "question": "हम खेलते हैं।",
+      "answer": "हम खेले।",
+      "source": "Notebook (Textbook)"
+    },
+    {
+      "id": "tc_15",
+      "question": "तुम गाना गाते हो।",
+      "answer": "तुमने गाना गाया।",
+      "source": "Notebook (Textbook)"
+    },
+    {
+      "id": "tc_16",
+      "question": "वे स्कूल जाते हैं।",
+      "answer": "वे स्कूल गए।",
+      "source": "Notebook (Textbook)"
+    },
+    {
+      "id": "tc_17",
       "question": "शेर शिकार करता है।",
       "answer": "शेर ने शिकार किया।",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "tc_13",
+      "id": "tc_18",
       "question": "लोमड़ी झूठ बोलती है।",
       "answer": "लोमड़ी ने झूठ बोला।",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "tc_14",
+      "id": "tc_19",
       "question": "भालू सज़ा देता है।",
       "answer": "भालू ने सज़ा दी।",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "tc_15",
-      "question": "बच्चा पंख माँगता है।",
-      "answer": "बच्चे ने पंख माँगे।",
-      "source": "तीन लोक से न्यारा"
-    },
-    {
-      "id": "tc_16",
-      "question": "फूल खिलते हैं।",
-      "answer": "फूल खिले।",
-      "source": "तीन लोक से न्यारा"
-    },
-    {
-      "id": "tc_17",
-      "question": "मैं स्कूल जाता हूँ।",
-      "answer": "मैं स्कूल गया।",
-      "source": "Notebook"
-    },
-    {
-      "id": "tc_18",
-      "question": "वह पानी पीता है।",
-      "answer": "उसने पानी पिया।",
-      "source": "Notebook"
-    },
-    {
-      "id": "tc_19",
+      "id": "tc_20",
       "question": "चूहा दोस्ती करता है।",
       "answer": "चूहे ने दोस्ती की।",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "tc_20",
+      "id": "tc_21",
       "question": "लोमड़ी भागती है।",
       "answer": "लोमड़ी भागी।",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "tc_21",
-      "question": "बच्चा आसमान में उड़ता है।",
-      "answer": "बच्चा आसमान में उड़ा।",
-      "source": "तीन लोक से न्यारा"
-    },
-    {
       "id": "tc_22",
-      "question": "वह मौज मनाता है।",
-      "answer": "उसने मौज मनाई।",
-      "source": "तीन लोक से न्यारा"
-    },
-    {
-      "id": "tc_23",
-      "question": "हम खेलते हैं।",
-      "answer": "हम खेले।",
-      "source": "Notebook"
-    },
-    {
-      "id": "tc_24",
-      "question": "तुम गाना गाते हो।",
-      "answer": "तुमने गाना गाया।",
-      "source": "Notebook"
-    },
-    {
-      "id": "tc_25",
-      "question": "वे स्कूल जाते हैं।",
-      "answer": "वे स्कूल गए।",
-      "source": "Notebook"
-    },
-    {
-      "id": "tc_26",
       "question": "शेर जंगल में रहता है।",
       "answer": "शेर जंगल में रहता था।",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "tc_27",
+      "id": "tc_23",
       "question": "चूहा शेर से मिलता है।",
       "answer": "चूहा शेर से मिला।",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "tc_28",
+      "id": "tc_24",
       "question": "लोमड़ी चालाकी करती है।",
       "answer": "लोमड़ी ने चालाकी की।",
       "source": "पक्के दोस्त"
+    },
+    {
+      "id": "tc_25",
+      "question": "बच्चा पंख माँगता है।",
+      "answer": "बच्चे ने पंख माँगे।",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "tc_26",
+      "question": "फूल खिलते हैं।",
+      "answer": "फूल खिले।",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "tc_27",
+      "question": "बच्चा आसमान में उड़ता है।",
+      "answer": "बच्चा आसमान में उड़ा।",
+      "source": "तीन लोक से न्यारा"
+    },
+    {
+      "id": "tc_28",
+      "question": "वह मौज मनाता है।",
+      "answer": "उसने मौज मनाई।",
+      "source": "तीन लोक से न्यारा"
     },
     {
       "id": "tc_29",
