@@ -5,7 +5,7 @@
     "textbook": [],
     "exam": [
       {"value": "all_previous_year_questions", "label": "Grammar (Previous Year)", "icon": "📝"},
-      {"value": "exam_comprehension", "label": "Unseen Comprehension (Sample Papers)", "icon": "📖"}
+      {"value": "exam_passages", "label": "Unseen Comprehension (Sample Papers)", "icon": "📖"}
     ],
     "miscellaneous": []
   }
