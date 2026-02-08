@@ -5,17 +5,17 @@
     "textbook": [
       {"value": "word_meanings", "label": "शब्दार्थ (Word Meanings)", "icon": "📚"},
       {"value": "short_answer", "label": "प्रश्न-उत्तर (Q&A)", "icon": "📝"},
-      {"value": "fill_in_blanks", "label": "रिक्त स्थान भरो", "icon": "✏️"}
+      {"value": "fill_in_blanks", "label": "रिक्त स्थान भरो", "icon": "✏️"},
+      {"value": "correct_spellings", "label": "सही वर्तनी (Correct Spellings)", "icon": "✓"},
+      {"value": "gender", "label": "लिंग बदलो (Gender)", "icon": "🔄"},
+      {"value": "hindi_numbers", "label": "हिंदी गिनती (Numbers)", "icon": "🔢"},
+      {"value": "tense_conversion", "label": "काल परिवर्तन (Tense)", "icon": "⏰"}
     ],
     "exam": [
       {"value": "mcq", "label": "सही उत्तर चुनो (MCQ)", "icon": "🔘"},
       {"value": "word_meanings_practice", "label": "शब्दार्थ अभ्यास (Practice)", "icon": "📖"},
       {"value": "short_answer_practice", "label": "प्रश्न-उत्तर अभ्यास (Practice)", "icon": "✍️"},
-      {"value": "fill_in_blanks_practice", "label": "रिक्त स्थान अभ्यास (Practice)", "icon": "📝"},
-      {"value": "correct_spellings", "label": "सही वर्तनी", "icon": "✓"},
-      {"value": "gender", "label": "लिंग बदलो", "icon": "🔄"},
-      {"value": "hindi_numbers", "label": "हिंदी गिनती", "icon": "🔢"},
-      {"value": "tense_conversion", "label": "काल परिवर्तन", "icon": "⏰"}
+      {"value": "fill_in_blanks_practice", "label": "रिक्त स्थान अभ्यास (Practice)", "icon": "📝"}
     ],
     "miscellaneous": []
   }
