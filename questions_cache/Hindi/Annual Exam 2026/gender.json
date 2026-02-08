@@ -1,6 +1,6 @@
 {
   "question_type": "gender",
-  "instructions": "पुल्लिंग से स्त्रीलिंग बनाओ (Change masculine to feminine)",
+  "instructions": "पुल्लिंग से स्त्रीलिंग बनाओ (Change masculine to feminine) - from पक्के दोस्त page 38",
   "questions": [
     {
       "id": "gen_1",
@@ -61,9 +61,99 @@
       "question": "राजा",
       "answer": "रानी",
       "source": "पक्के दोस्त (page 38)"
+    },
+    {
+      "id": "gen_11",
+      "question": "मोर",
+      "answer": "मोरनी",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_12",
+      "question": "भालू",
+      "answer": "भालुनी",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_13",
+      "question": "ऊँट",
+      "answer": "ऊँटनी",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_14",
+      "question": "कुत्ता",
+      "answer": "कुतिया",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_15",
+      "question": "घोड़ा",
+      "answer": "घोड़ी",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_16",
+      "question": "बकरा",
+      "answer": "बकरी",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_17",
+      "question": "मुर्गा",
+      "answer": "मुर्गी",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_18",
+      "question": "बंदर",
+      "answer": "बंदरिया",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_19",
+      "question": "देव",
+      "answer": "देवी",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_20",
+      "question": "सेठ",
+      "answer": "सेठानी",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_21",
+      "question": "मालिक",
+      "answer": "मालकिन",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_22",
+      "question": "बेटा",
+      "answer": "बेटी",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_23",
+      "question": "भाई",
+      "answer": "बहन",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_24",
+      "question": "पिता",
+      "answer": "माता",
+      "source": "पक्के दोस्त"
+    },
+    {
+      "id": "gen_25",
+      "question": "दादा",
+      "answer": "दादी",
+      "source": "पक्के दोस्त"
     }
   ],
-  "total_count": 10,
+  "total_count": 25,
   "subject": "Hindi",
-  "chapter": "Annual_Exam_2026"
+  "chapter": "Annual Exam 2026"
 }

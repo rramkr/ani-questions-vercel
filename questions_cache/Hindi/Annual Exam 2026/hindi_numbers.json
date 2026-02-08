@@ -70,36 +70,180 @@
     },
     {
       "id": "hn_12",
+      "question": "11",
+      "answer": "११ (ग्यारह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_13",
+      "question": "12",
+      "answer": "१२ (बारह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_14",
+      "question": "13",
+      "answer": "१३ (तेरह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_15",
+      "question": "14",
+      "answer": "१४ (चौदह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_16",
       "question": "15",
       "answer": "१५ (पंद्रह)",
       "source": "Notebook"
     },
     {
-      "id": "hn_13",
+      "id": "hn_17",
+      "question": "16",
+      "answer": "१६ (सोलह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_18",
+      "question": "17",
+      "answer": "१७ (सत्रह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_19",
+      "question": "18",
+      "answer": "१८ (अठारह)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_20",
+      "question": "19",
+      "answer": "१९ (उन्नीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_21",
       "question": "20",
       "answer": "२० (बीस)",
       "source": "Notebook"
     },
     {
-      "id": "hn_14",
+      "id": "hn_22",
+      "question": "21",
+      "answer": "२१ (इक्कीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_23",
+      "question": "22",
+      "answer": "२२ (बाईस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_24",
+      "question": "23",
+      "answer": "२३ (तेईस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_25",
+      "question": "24",
+      "answer": "२४ (चौबीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_26",
       "question": "25",
       "answer": "२५ (पच्चीस)",
       "source": "Notebook"
     },
     {
-      "id": "hn_15",
+      "id": "hn_27",
+      "question": "30",
+      "answer": "३० (तीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_28",
+      "question": "40",
+      "answer": "४० (चालीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_29",
       "question": "50",
       "answer": "५० (पचास)",
       "source": "Notebook"
     },
     {
-      "id": "hn_16",
+      "id": "hn_30",
+      "question": "60",
+      "answer": "६० (साठ)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_31",
+      "question": "70",
+      "answer": "७० (सत्तर)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_32",
+      "question": "80",
+      "answer": "८० (अस्सी)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_33",
+      "question": "90",
+      "answer": "९० (नब्बे)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_34",
       "question": "100",
       "answer": "१०० (सौ)",
       "source": "Notebook"
+    },
+    {
+      "id": "hn_35",
+      "question": "26",
+      "answer": "२६ (छब्बीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_36",
+      "question": "27",
+      "answer": "२७ (सत्ताईस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_37",
+      "question": "28",
+      "answer": "२८ (अट्ठाईस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_38",
+      "question": "29",
+      "answer": "२९ (उनतीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_39",
+      "question": "35",
+      "answer": "३५ (पैंतीस)",
+      "source": "Notebook"
+    },
+    {
+      "id": "hn_40",
+      "question": "45",
+      "answer": "४५ (पैंतालीस)",
+      "source": "Notebook"
     }
   ],
-  "total_count": 16,
+  "total_count": 40,
   "subject": "Hindi",
-  "chapter": "Annual_Exam_2026"
+  "chapter": "Annual Exam 2026"
 }
