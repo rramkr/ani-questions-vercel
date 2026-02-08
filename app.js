@@ -1562,7 +1562,7 @@ function processQuestion(q, questionType) {
         const pairs = q.pairs || [];
         processed.question = q.instruction || 'Match the following:';
         processed.left_items = pairs.map(p => p.left);
-        processed.right_items = shuffleArray(pairs.map(p => p.right));
+        processed.right_items = pairs.map(p => p.right); // Don't shuffle - keep in order for clear answers
         processed.pairs = pairs;
     } else if (questionType === 'give_reason') {
         // Handle both naming conventions: statement/question
@@ -2940,8 +2940,8 @@ function renderMatchQuestion(q, index, showUnansweredHighlight = false) {
     // If pairs exist, extract left and right items from them
     if (pairs.length > 0 && leftItems.length === 0) {
         leftItems = pairs.map(p => p.left);
-        // Shuffle right items for the question display
-        rightItems = [...pairs.map(p => p.right)].sort(() => Math.random() - 0.5);
+        // Keep right items in order so answer 1-A, 2-B, 3-C is clear
+        rightItems = pairs.map(p => p.right);
     }
 
     const userAnswer = state.userAnswers[q.id] || '';
@@ -3284,7 +3284,10 @@ function renderMatchAnswer(q) {
     // Handle both formats: pairs array or correct_matches object
     let matchesHtml = '';
     if (pairs.length > 0) {
-        matchesHtml = pairs.map((p, i) => `<div>${i + 1}. ${p.left} → ${p.right}</div>`).join('');
+        // Show answer in format: 1-A, 2-B, 3-C with full text
+        const answerLetters = pairs.map((p, i) => `${i + 1}-${String.fromCharCode(65 + i)}`).join(', ');
+        matchesHtml = `<div style="font-weight: bold; margin-bottom: 10px;">Answer: ${answerLetters}</div>`;
+        matchesHtml += pairs.map((p, i) => `<div>${i + 1}. ${p.left} → ${String.fromCharCode(65 + i)}. ${p.right}</div>`).join('');
     } else if (Object.keys(correctMatches).length > 0) {
         matchesHtml = Object.entries(correctMatches).map(([left, right], i) =>
             `<div>${i + 1}. ${left} → ${right}</div>`
