@@ -1,309 +1,369 @@
 {
   "question_type": "word_meanings_practice",
-  "description": "Additional word meanings practice for exam preparation",
+  "description": "Complete word meanings practice - includes all textbook words plus additional words",
   "questions": [
     {
       "id": "wmp_1",
+      "question": "घनिष्ठ",
+      "answer": "close / intimate",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_2",
+      "question": "रूखा",
+      "answer": "provocative / dry",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_3",
+      "question": "प्रयास",
+      "answer": "try / attempt",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_4",
+      "question": "सज़ा",
+      "answer": "punishment",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_5",
+      "question": "तंग",
+      "answer": "worried / troubled",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_6",
+      "question": "शिकार",
+      "answer": "hunt / prey",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_7",
+      "question": "ज़रूरी",
+      "answer": "necessary / important",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_8",
+      "question": "जंगल",
+      "answer": "forest",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_9",
+      "question": "पकाना",
+      "answer": "to cook",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_10",
+      "question": "श्रेष्ठ",
+      "answer": "best / supreme",
+      "source": "तीन लोक से न्यारा (Textbook)"
+    },
+    {
+      "id": "wmp_11",
+      "question": "मौज़",
+      "answer": "happiness / joy",
+      "source": "तीन लोक से न्यारा (Textbook)"
+    },
+    {
+      "id": "wmp_12",
+      "question": "न्यारा",
+      "answer": "unique / different",
+      "source": "तीन लोक से न्यारा (Textbook)"
+    },
+    {
+      "id": "wmp_13",
+      "question": "लोक",
+      "answer": "world",
+      "source": "तीन लोक से न्यारा (Textbook)"
+    },
+    {
+      "id": "wmp_14",
+      "question": "स्वर्ग",
+      "answer": "heaven",
+      "source": "तीन लोक से न्यारा (Textbook)"
+    },
+    {
+      "id": "wmp_15",
+      "question": "खिलना",
+      "answer": "to bloom",
+      "source": "तीन लोक से न्यारा (Textbook)"
+    },
+    {
+      "id": "wmp_16",
+      "question": "सितारे",
+      "answer": "stars",
+      "source": "तीन लोक से न्यारा (Textbook)"
+    },
+    {
+      "id": "wmp_17",
+      "question": "पर्वत",
+      "answer": "mountain",
+      "source": "तीन लोक से न्यारा (Textbook)"
+    },
+    {
+      "id": "wmp_18",
+      "question": "झरना",
+      "answer": "waterfall",
+      "source": "तीन लोक से न्यारा (Textbook)"
+    },
+    {
+      "id": "wmp_19",
+      "question": "दोस्ती",
+      "answer": "friendship",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_20",
+      "question": "चालाक",
+      "answer": "clever / cunning",
+      "source": "पक्के दोस्त (Textbook)"
+    },
+    {
+      "id": "wmp_21",
       "question": "अंगारा देना",
       "answer": "to love / to show affection",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_2",
+      "id": "wmp_22",
       "question": "नीरस",
       "answer": "boring / dry / uninteresting",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_3",
+      "id": "wmp_23",
       "question": "कोशिश",
       "answer": "try / attempt / effort",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_4",
+      "id": "wmp_24",
       "question": "दंड",
       "answer": "punishment",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_5",
+      "id": "wmp_25",
       "question": "परेशान",
       "answer": "worried / troubled",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_6",
+      "id": "wmp_26",
       "question": "भरोसा",
       "answer": "trust / faith / confidence",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_7",
+      "id": "wmp_27",
       "question": "मज़बूत",
       "answer": "strong / firm",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_8",
+      "id": "wmp_28",
       "question": "झूठी",
       "answer": "false / fake / lie",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_9",
+      "id": "wmp_29",
       "question": "दावत",
       "answer": "feast / party / invitation to eat",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_10",
+      "id": "wmp_30",
       "question": "बुलाना",
       "answer": "to call / to invite",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_11",
+      "id": "wmp_31",
       "question": "उठक-बैठक",
       "answer": "sit-ups / squats",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_12",
+      "id": "wmp_32",
       "question": "माफ़ी",
       "answer": "forgiveness / apology",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_13",
+      "id": "wmp_33",
       "question": "पंख",
       "answer": "wings / feathers",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_14",
+      "id": "wmp_34",
       "question": "ईश्वर",
       "answer": "God",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_15",
+      "id": "wmp_35",
       "question": "उड़ना",
       "answer": "to fly",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_16",
+      "id": "wmp_36",
       "question": "घूमना",
       "answer": "to roam / to travel",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_17",
+      "id": "wmp_37",
       "question": "मित्र",
       "answer": "friend",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_18",
+      "id": "wmp_38",
       "question": "धरती",
       "answer": "earth",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_19",
+      "id": "wmp_39",
       "question": "फूल",
       "answer": "flower",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_20",
+      "id": "wmp_40",
       "question": "चाँद",
       "answer": "moon",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_21",
-      "question": "जमकर",
-      "answer": "thoroughly / heartily",
-      "source": "तीन लोक से न्यारा"
-    },
-    {
-      "id": "wmp_22",
-      "question": "मनाना",
-      "answer": "to celebrate / to enjoy",
-      "source": "तीन लोक से न्यारा"
-    },
-    {
-      "id": "wmp_23",
-      "question": "बच्चे",
-      "answer": "children",
-      "source": "तीन लोक से न्यारा"
-    },
-    {
-      "id": "wmp_24",
-      "question": "हाल",
-      "answer": "condition / state / news",
-      "source": "तीन लोक से न्यारा"
-    },
-    {
-      "id": "wmp_25",
-      "question": "बनाना",
-      "answer": "to make / to create",
-      "source": "तीन लोक से न्यारा"
-    },
-    {
-      "id": "wmp_26",
+      "id": "wmp_41",
       "question": "राजा",
       "answer": "king",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_27",
+      "id": "wmp_42",
       "question": "भालू",
       "answer": "bear",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_28",
+      "id": "wmp_43",
       "question": "लोमड़ी",
       "answer": "fox",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_29",
+      "id": "wmp_44",
       "question": "शेर",
       "answer": "lion",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_30",
+      "id": "wmp_45",
       "question": "चूहा",
       "answer": "mouse / rat",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_31",
+      "id": "wmp_46",
       "question": "सच्ची",
       "answer": "true / real / honest",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_32",
+      "id": "wmp_47",
       "question": "तोड़ना",
       "answer": "to break",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_33",
+      "id": "wmp_48",
       "question": "मज़ाक",
       "answer": "joke / fun",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_34",
-      "question": "उड़ाना",
-      "answer": "to make fly / to mock",
-      "source": "पक्के दोस्त"
-    },
-    {
-      "id": "wmp_35",
+      "id": "wmp_49",
       "question": "विश्वास",
       "answer": "trust / belief / faith",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_36",
+      "id": "wmp_50",
       "question": "अनोखा",
       "answer": "unique / special",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_37",
+      "id": "wmp_51",
       "question": "प्यारा",
       "answer": "dear / lovely / beloved",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_38",
+      "id": "wmp_52",
       "question": "देश",
       "answer": "country",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_39",
+      "id": "wmp_53",
       "question": "प्रकृति",
       "answer": "nature",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_40",
+      "id": "wmp_54",
       "question": "सुंदर",
       "answer": "beautiful",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_41",
+      "id": "wmp_55",
       "question": "आसमान",
       "answer": "sky",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_42",
+      "id": "wmp_56",
       "question": "भारत",
       "answer": "India",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_43",
+      "id": "wmp_57",
       "question": "कवि",
       "answer": "poet",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_44",
+      "id": "wmp_58",
       "question": "कविता",
       "answer": "poem",
       "source": "तीन लोक से न्यारा"
     },
     {
-      "id": "wmp_45",
+      "id": "wmp_59",
       "question": "भगाना",
       "answer": "to chase away / to drive out",
       "source": "पक्के दोस्त"
     },
     {
-      "id": "wmp_46",
-      "question": "पकड़ना",
-      "answer": "to catch / to hold",
-      "source": "पक्के दोस्त"
-    },
-    {
-      "id": "wmp_47",
-      "question": "बोलना",
-      "answer": "to speak / to say",
-      "source": "पक्के दोस्त"
-    },
-    {
-      "id": "wmp_48",
+      "id": "wmp_60",
       "question": "खाना",
       "answer": "to eat / food",
       "source": "पक्के दोस्त"
-    },
-    {
-      "id": "wmp_49",
-      "question": "रहना",
-      "answer": "to live / to stay",
-      "source": "पक्के दोस्त"
-    },
-    {
-      "id": "wmp_50",
-      "question": "देखना",
-      "answer": "to see / to look",
-      "source": "तीन लोक से न्यारा"
     }
   ],
-  "total_count": 50,
+  "total_count": 60,
   "subject": "Hindi",
   "chapter": "Annual Exam 2026"
 }
