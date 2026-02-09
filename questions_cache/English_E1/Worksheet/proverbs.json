@@ -1,148 +1,128 @@
 {
-  "question_type": "mcq",
+  "question_type": "match_the_following",
   "questions": [
     {
-      "id": "proverb_ws_1",
-      "question": "What does 'A stitch in time saves nine' mean?",
-      "options": ["Practice makes a person perfect", "Acting early prevents bigger problems", "Hard work leads to success", "Truthfulness is always rewarded"],
-      "answer": "Acting early prevents bigger problems",
-      "explanation": "If you fix a small tear (one stitch) immediately, you won't need nine stitches later. Taking early action prevents bigger problems."
+      "id": "proverb_mtf_ws_1",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings (from worksheet)",
+      "pairs": [
+        {"left": "A stitch in time saves nine", "right": "Acting early prevents bigger problems"},
+        {"left": "Where there is a will, there is a way", "right": "Hard work leads to success"},
+        {"left": "Honesty is the best policy", "right": "Truthfulness is always rewarded"},
+        {"left": "Practice makes perfect", "right": "Practice makes a person perfect"}
+      ],
+      "source": "Worksheet Exercise B"
     },
     {
-      "id": "proverb_ws_2",
-      "question": "What does 'Where there is a will, there is a way' mean?",
-      "options": ["Acting early prevents bigger problems", "Hard work leads to success", "Truthfulness is always rewarded", "Practice makes a person perfect"],
-      "answer": "Hard work leads to success",
-      "explanation": "If you have determination (will), you will find a method (way) to succeed. Determination and hard work lead to success."
+      "id": "proverb_mtf_ws_2",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "Don't count your chickens before they hatch", "right": "Don't be overconfident about something that hasn't happened yet"},
+        {"left": "Actions speak louder than words", "right": "What you do matters more than what you say"},
+        {"left": "The early bird catches the worm", "right": "Those who act early have an advantage"},
+        {"left": "Don't judge a book by its cover", "right": "Don't judge things or people by their appearance"}
+      ],
+      "source": "Additional Practice"
     },
     {
-      "id": "proverb_ws_3",
-      "question": "What does 'Honesty is the best policy' mean?",
-      "options": ["Practice makes a person perfect", "Acting early prevents bigger problems", "Hard work leads to success", "Truthfulness is always rewarded"],
-      "answer": "Truthfulness is always rewarded",
-      "explanation": "Being honest is the best approach in life. Truth always wins in the end."
+      "id": "proverb_mtf_ws_3",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "Too many cooks spoil the broth", "right": "Too many people involved in a task can ruin it"},
+        {"left": "Rome wasn't built in a day", "right": "Great things take time to accomplish"},
+        {"left": "When in Rome, do as the Romans do", "right": "Adapt to local customs and behavior"},
+        {"left": "A penny saved is a penny earned", "right": "Saving money is as important as earning it"}
+      ],
+      "source": "Additional Practice"
     },
     {
-      "id": "proverb_ws_4",
-      "question": "What does 'Practice makes perfect' mean?",
-      "options": ["Practice makes a person perfect", "Acting early prevents bigger problems", "Hard work leads to success", "Truthfulness is always rewarded"],
-      "answer": "Practice makes a person perfect",
-      "explanation": "Repeated practice of any skill leads to mastery and perfection."
+      "id": "proverb_mtf_ws_4",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "Better late than never", "right": "It's better to do something late than not do it at all"},
+        {"left": "Look before you leap", "right": "Think carefully before acting"},
+        {"left": "Necessity is the mother of invention", "right": "Need drives people to create solutions"},
+        {"left": "All that glitters is not gold", "right": "Not everything that looks valuable is actually valuable"}
+      ],
+      "source": "Additional Practice"
     },
     {
-      "id": "proverb_5",
-      "question": "What does 'Don't count your chickens before they hatch' mean?",
-      "options": ["Don't be overconfident about something that hasn't happened yet", "Always plan ahead", "Hard work is important", "Be careful with animals"],
-      "answer": "Don't be overconfident about something that hasn't happened yet",
-      "explanation": "Don't assume success before it actually happens. Wait for results before celebrating."
+      "id": "proverb_mtf_ws_5",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "Birds of a feather flock together", "right": "People with similar interests spend time together"},
+        {"left": "Every cloud has a silver lining", "right": "There is something good in every bad situation"},
+        {"left": "Two wrongs don't make a right", "right": "Responding to wrongdoing with wrongdoing is not justified"},
+        {"left": "An apple a day keeps the doctor away", "right": "Healthy habits prevent illness"}
+      ],
+      "source": "Additional Practice"
     },
     {
-      "id": "proverb_6",
-      "question": "What does 'Actions speak louder than words' mean?",
-      "options": ["Speaking loudly is important", "What you do matters more than what you say", "Words are meaningless", "Actions are noisy"],
-      "answer": "What you do matters more than what you say",
-      "explanation": "Your actions demonstrate your true intentions more than your words. Doing is more important than just saying."
+      "id": "proverb_mtf_ws_6",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "A bird in the hand is worth two in the bush", "right": "What you have is more valuable than what you might get"},
+        {"left": "Beggars can't be choosers", "right": "When you need something, you can't be picky"},
+        {"left": "The pen is mightier than the sword", "right": "Writing and words are more powerful than violence"},
+        {"left": "You can't have your cake and eat it too", "right": "You can't have everything both ways"}
+      ],
+      "source": "Additional Practice"
     },
     {
-      "id": "proverb_7",
-      "question": "What does 'The early bird catches the worm' mean?",
-      "options": ["Birds eat worms", "Those who act early have an advantage", "Waking up early is healthy", "Birds are smart"],
-      "answer": "Those who act early have an advantage",
-      "explanation": "People who start early or act promptly have the best chance of success."
+      "id": "proverb_mtf_ws_7",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "A watched pot never boils", "right": "Time seems slower when you wait impatiently"},
+        {"left": "Barking dogs seldom bite", "right": "Those who threaten often don't act"},
+        {"left": "Blood is thicker than water", "right": "Family bonds are stronger than other relationships"},
+        {"left": "Curiosity killed the cat", "right": "Being too curious can lead to trouble"}
+      ],
+      "source": "Additional Practice"
     },
     {
-      "id": "proverb_8",
-      "question": "What does 'Don't judge a book by its cover' mean?",
-      "options": ["Books have attractive covers", "Don't judge things or people by their appearance", "Reading is important", "Covers are expensive"],
-      "answer": "Don't judge things or people by their appearance",
-      "explanation": "You shouldn't form opinions based only on outward appearance. Look deeper to understand true value."
+      "id": "proverb_mtf_ws_8",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "Empty vessels make the most noise", "right": "Those with little knowledge talk the most"},
+        {"left": "Fortune favours the brave", "right": "Bold people are more likely to succeed"},
+        {"left": "Great minds think alike", "right": "Smart people often have similar ideas"},
+        {"left": "Haste makes waste", "right": "Rushing leads to mistakes and wastage"}
+      ],
+      "source": "Additional Practice"
     },
     {
-      "id": "proverb_9",
-      "question": "What does 'Too many cooks spoil the broth' mean?",
-      "options": ["Cooking is difficult", "Too many people involved in a task can ruin it", "Broth is easy to make", "Cooks are careless"],
-      "answer": "Too many people involved in a task can ruin it",
-      "explanation": "When too many people try to manage something, they end up making it worse. Too much interference is harmful."
+      "id": "proverb_mtf_ws_9",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "Ignorance is bliss", "right": "Sometimes not knowing is better"},
+        {"left": "Jack of all trades, master of none", "right": "Someone who does many things but excels at nothing"},
+        {"left": "Knowledge is power", "right": "Being informed gives you an advantage"},
+        {"left": "Laughter is the best medicine", "right": "Being happy helps you feel better"}
+      ],
+      "source": "Additional Practice"
     },
     {
-      "id": "proverb_10",
-      "question": "What does 'Rome wasn't built in a day' mean?",
-      "options": ["Rome is an ancient city", "Great things take time to accomplish", "Building is hard work", "Rome has many buildings"],
-      "answer": "Great things take time to accomplish",
-      "explanation": "Important achievements require time and patience. Don't expect instant results for big goals."
-    },
-    {
-      "id": "proverb_11",
-      "question": "What does 'When in Rome, do as the Romans do' mean?",
-      "options": ["Romans have good habits", "Adapt to local customs and behavior", "Travel to Rome", "Follow Roman laws"],
-      "answer": "Adapt to local customs and behavior",
-      "explanation": "When you're in a new place or situation, follow the local customs and adapt to your surroundings."
-    },
-    {
-      "id": "proverb_12",
-      "question": "What does 'A penny saved is a penny earned' mean?",
-      "options": ["Pennies are valuable", "Saving money is as important as earning it", "Spend money carefully", "Earning is difficult"],
-      "answer": "Saving money is as important as earning it",
-      "explanation": "Money that you save is just as valuable as money you earn. Being frugal is wise."
-    },
-    {
-      "id": "proverb_13",
-      "question": "What does 'Better late than never' mean?",
-      "options": ["Being late is acceptable", "It's better to do something late than not do it at all", "Never be late", "Punctuality is important"],
-      "answer": "It's better to do something late than not do it at all",
-      "explanation": "It's preferable to complete something behind schedule than to not complete it at all."
-    },
-    {
-      "id": "proverb_14",
-      "question": "What does 'Look before you leap' mean?",
-      "options": ["Leaping is dangerous", "Think carefully before acting", "Look at your feet", "Jump carefully"],
-      "answer": "Think carefully before acting",
-      "explanation": "Consider the consequences before taking action. Don't act rashly without thinking."
-    },
-    {
-      "id": "proverb_15",
-      "question": "What does 'Necessity is the mother of invention' mean?",
-      "options": ["Mothers are inventive", "Need drives people to create solutions", "Inventions are necessary", "Mothers know everything"],
-      "answer": "Need drives people to create solutions",
-      "explanation": "When people need something, they find creative ways to get or make it. Necessity inspires innovation."
-    },
-    {
-      "id": "proverb_16",
-      "question": "What does 'All that glitters is not gold' mean?",
-      "options": ["Gold is shiny", "Not everything that looks valuable is actually valuable", "Glitter is fake", "Gold is expensive"],
-      "answer": "Not everything that looks valuable is actually valuable",
-      "explanation": "Things that appear attractive or valuable on the surface may not be genuine. Appearances can be deceptive."
-    },
-    {
-      "id": "proverb_17",
-      "question": "What does 'Birds of a feather flock together' mean?",
-      "options": ["Birds have feathers", "People with similar interests tend to spend time together", "Birds fly in groups", "Feathers are soft"],
-      "answer": "People with similar interests tend to spend time together",
-      "explanation": "People who are alike tend to associate with each other. Like-minded people group together."
-    },
-    {
-      "id": "proverb_18",
-      "question": "What does 'Every cloud has a silver lining' mean?",
-      "options": ["Clouds are beautiful", "There is something good in every bad situation", "Silver is valuable", "Weather is unpredictable"],
-      "answer": "There is something good in every bad situation",
-      "explanation": "Even in difficult times, there is always some hope or positive aspect. Bad situations can have good outcomes."
-    },
-    {
-      "id": "proverb_19",
-      "question": "What does 'Two wrongs don't make a right' mean?",
-      "options": ["Math is difficult", "Responding to wrongdoing with wrongdoing is not justified", "Two is a small number", "Being right is important"],
-      "answer": "Responding to wrongdoing with wrongdoing is not justified",
-      "explanation": "You cannot justify doing something wrong just because someone else did something wrong to you."
-    },
-    {
-      "id": "proverb_20",
-      "question": "What does 'An apple a day keeps the doctor away' mean?",
-      "options": ["Apples are medicine", "Healthy habits prevent illness", "Doctors don't like apples", "Eat apples daily"],
-      "answer": "Healthy habits prevent illness",
-      "explanation": "Taking care of your health through good habits (like eating fruit) helps you stay healthy and avoid getting sick."
+      "id": "proverb_mtf_ws_10",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "pairs": [
+        {"left": "Make hay while the sun shines", "right": "Take advantage of opportunities when available"},
+        {"left": "No pain, no gain", "right": "You must work hard to achieve results"},
+        {"left": "Out of sight, out of mind", "right": "We forget things we don't see often"},
+        {"left": "The grass is always greener on the other side", "right": "Other people's situations always seem better than ours"}
+      ],
+      "source": "Additional Practice"
     }
   ],
-  "total_count": 20,
+  "total_count": 10,
   "subject": "English E1",
   "chapter": "Worksheet"
 }
