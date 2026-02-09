@@ -5,240 +5,250 @@
       "id": "proverb_mtf_ws_1",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings (from worksheet)",
-      "left_column": [
-        {"id": "1", "text": "A stitch in time saves nine"},
-        {"id": "2", "text": "Where there is a will, there is a way"},
-        {"id": "3", "text": "Honesty is the best policy"},
-        {"id": "4", "text": "Practice makes perfect"}
+      "left_items": [
+        "A stitch in time saves nine",
+        "Where there is a will, there is a way",
+        "Honesty is the best policy",
+        "Practice makes perfect"
       ],
-      "right_column": [
-        {"id": "A", "text": "Truthfulness is always rewarded"},
-        {"id": "B", "text": "Practice makes a person perfect"},
-        {"id": "C", "text": "Acting early prevents bigger problems"},
-        {"id": "D", "text": "Hard work leads to success"}
+      "right_items": [
+        "Truthfulness is always rewarded",
+        "Practice makes a person perfect",
+        "Acting early prevents bigger problems",
+        "Hard work leads to success"
       ],
-      "answers": {
-        "1": "C",
-        "2": "D",
-        "3": "A",
-        "4": "B"
-      },
+      "pairs": [
+        {"left": "A stitch in time saves nine", "right": "Acting early prevents bigger problems"},
+        {"left": "Where there is a will, there is a way", "right": "Hard work leads to success"},
+        {"left": "Honesty is the best policy", "right": "Truthfulness is always rewarded"},
+        {"left": "Practice makes perfect", "right": "Practice makes a person perfect"}
+      ],
+      "answers": "1-C, 2-D, 3-A, 4-B",
       "source": "Worksheet Exercise B"
     },
     {
       "id": "proverb_mtf_ws_2",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings",
-      "left_column": [
-        {"id": "1", "text": "Don't count your chickens before they hatch"},
-        {"id": "2", "text": "Actions speak louder than words"},
-        {"id": "3", "text": "The early bird catches the worm"},
-        {"id": "4", "text": "Don't judge a book by its cover"}
+      "left_items": [
+        "Don't count your chickens before they hatch",
+        "Actions speak louder than words",
+        "The early bird catches the worm",
+        "Don't judge a book by its cover"
       ],
-      "right_column": [
-        {"id": "A", "text": "Those who act early have an advantage"},
-        {"id": "B", "text": "Don't judge things or people by their appearance"},
-        {"id": "C", "text": "What you do matters more than what you say"},
-        {"id": "D", "text": "Don't be overconfident about something that hasn't happened yet"}
+      "right_items": [
+        "Those who act early have an advantage",
+        "Don't judge things or people by their appearance",
+        "What you do matters more than what you say",
+        "Don't be overconfident about something that hasn't happened yet"
       ],
-      "answers": {
-        "1": "D",
-        "2": "C",
-        "3": "A",
-        "4": "B"
-      },
+      "pairs": [
+        {"left": "Don't count your chickens before they hatch", "right": "Don't be overconfident about something that hasn't happened yet"},
+        {"left": "Actions speak louder than words", "right": "What you do matters more than what you say"},
+        {"left": "The early bird catches the worm", "right": "Those who act early have an advantage"},
+        {"left": "Don't judge a book by its cover", "right": "Don't judge things or people by their appearance"}
+      ],
+      "answers": "1-D, 2-C, 3-A, 4-B",
       "source": "Additional Practice"
     },
     {
       "id": "proverb_mtf_ws_3",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings",
-      "left_column": [
-        {"id": "1", "text": "Too many cooks spoil the broth"},
-        {"id": "2", "text": "Rome wasn't built in a day"},
-        {"id": "3", "text": "When in Rome, do as the Romans do"},
-        {"id": "4", "text": "A penny saved is a penny earned"}
+      "left_items": [
+        "Too many cooks spoil the broth",
+        "Rome wasn't built in a day",
+        "When in Rome, do as the Romans do",
+        "A penny saved is a penny earned"
       ],
-      "right_column": [
-        {"id": "A", "text": "Saving money is as important as earning it"},
-        {"id": "B", "text": "Great things take time to accomplish"},
-        {"id": "C", "text": "Adapt to local customs and behavior"},
-        {"id": "D", "text": "Too many people involved in a task can ruin it"}
+      "right_items": [
+        "Saving money is as important as earning it",
+        "Great things take time to accomplish",
+        "Adapt to local customs and behavior",
+        "Too many people involved in a task can ruin it"
       ],
-      "answers": {
-        "1": "D",
-        "2": "B",
-        "3": "C",
-        "4": "A"
-      },
+      "pairs": [
+        {"left": "Too many cooks spoil the broth", "right": "Too many people involved in a task can ruin it"},
+        {"left": "Rome wasn't built in a day", "right": "Great things take time to accomplish"},
+        {"left": "When in Rome, do as the Romans do", "right": "Adapt to local customs and behavior"},
+        {"left": "A penny saved is a penny earned", "right": "Saving money is as important as earning it"}
+      ],
+      "answers": "1-D, 2-B, 3-C, 4-A",
       "source": "Additional Practice"
     },
     {
       "id": "proverb_mtf_ws_4",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings",
-      "left_column": [
-        {"id": "1", "text": "Better late than never"},
-        {"id": "2", "text": "Look before you leap"},
-        {"id": "3", "text": "Necessity is the mother of invention"},
-        {"id": "4", "text": "All that glitters is not gold"}
+      "left_items": [
+        "Better late than never",
+        "Look before you leap",
+        "Necessity is the mother of invention",
+        "All that glitters is not gold"
       ],
-      "right_column": [
-        {"id": "A", "text": "Not everything that looks valuable is actually valuable"},
-        {"id": "B", "text": "Need drives people to create solutions"},
-        {"id": "C", "text": "It's better to do something late than not do it at all"},
-        {"id": "D", "text": "Think carefully before acting"}
+      "right_items": [
+        "Not everything that looks valuable is actually valuable",
+        "Need drives people to create solutions",
+        "It's better to do something late than not do it at all",
+        "Think carefully before acting"
       ],
-      "answers": {
-        "1": "C",
-        "2": "D",
-        "3": "B",
-        "4": "A"
-      },
+      "pairs": [
+        {"left": "Better late than never", "right": "It's better to do something late than not do it at all"},
+        {"left": "Look before you leap", "right": "Think carefully before acting"},
+        {"left": "Necessity is the mother of invention", "right": "Need drives people to create solutions"},
+        {"left": "All that glitters is not gold", "right": "Not everything that looks valuable is actually valuable"}
+      ],
+      "answers": "1-C, 2-D, 3-B, 4-A",
       "source": "Additional Practice"
     },
     {
       "id": "proverb_mtf_ws_5",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings",
-      "left_column": [
-        {"id": "1", "text": "Birds of a feather flock together"},
-        {"id": "2", "text": "Every cloud has a silver lining"},
-        {"id": "3", "text": "Two wrongs don't make a right"},
-        {"id": "4", "text": "An apple a day keeps the doctor away"}
+      "left_items": [
+        "Birds of a feather flock together",
+        "Every cloud has a silver lining",
+        "Two wrongs don't make a right",
+        "An apple a day keeps the doctor away"
       ],
-      "right_column": [
-        {"id": "A", "text": "Responding to wrongdoing with wrongdoing is not justified"},
-        {"id": "B", "text": "Healthy habits prevent illness"},
-        {"id": "C", "text": "There is something good in every bad situation"},
-        {"id": "D", "text": "People with similar interests spend time together"}
+      "right_items": [
+        "Responding to wrongdoing with wrongdoing is not justified",
+        "Healthy habits prevent illness",
+        "There is something good in every bad situation",
+        "People with similar interests spend time together"
       ],
-      "answers": {
-        "1": "D",
-        "2": "C",
-        "3": "A",
-        "4": "B"
-      },
+      "pairs": [
+        {"left": "Birds of a feather flock together", "right": "People with similar interests spend time together"},
+        {"left": "Every cloud has a silver lining", "right": "There is something good in every bad situation"},
+        {"left": "Two wrongs don't make a right", "right": "Responding to wrongdoing with wrongdoing is not justified"},
+        {"left": "An apple a day keeps the doctor away", "right": "Healthy habits prevent illness"}
+      ],
+      "answers": "1-D, 2-C, 3-A, 4-B",
       "source": "Additional Practice"
     },
     {
       "id": "proverb_mtf_ws_6",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings",
-      "left_column": [
-        {"id": "1", "text": "A bird in the hand is worth two in the bush"},
-        {"id": "2", "text": "Beggars can't be choosers"},
-        {"id": "3", "text": "The pen is mightier than the sword"},
-        {"id": "4", "text": "You can't have your cake and eat it too"}
+      "left_items": [
+        "A bird in the hand is worth two in the bush",
+        "Beggars can't be choosers",
+        "The pen is mightier than the sword",
+        "You can't have your cake and eat it too"
       ],
-      "right_column": [
-        {"id": "A", "text": "You can't have everything both ways"},
-        {"id": "B", "text": "Writing and words are more powerful than violence"},
-        {"id": "C", "text": "When you need something, you can't be picky"},
-        {"id": "D", "text": "What you have is more valuable than what you might get"}
+      "right_items": [
+        "You can't have everything both ways",
+        "Writing and words are more powerful than violence",
+        "When you need something, you can't be picky",
+        "What you have is more valuable than what you might get"
       ],
-      "answers": {
-        "1": "D",
-        "2": "C",
-        "3": "B",
-        "4": "A"
-      },
+      "pairs": [
+        {"left": "A bird in the hand is worth two in the bush", "right": "What you have is more valuable than what you might get"},
+        {"left": "Beggars can't be choosers", "right": "When you need something, you can't be picky"},
+        {"left": "The pen is mightier than the sword", "right": "Writing and words are more powerful than violence"},
+        {"left": "You can't have your cake and eat it too", "right": "You can't have everything both ways"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
       "source": "Additional Practice"
     },
     {
       "id": "proverb_mtf_ws_7",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings",
-      "left_column": [
-        {"id": "1", "text": "A watched pot never boils"},
-        {"id": "2", "text": "Barking dogs seldom bite"},
-        {"id": "3", "text": "Blood is thicker than water"},
-        {"id": "4", "text": "Curiosity killed the cat"}
+      "left_items": [
+        "A watched pot never boils",
+        "Barking dogs seldom bite",
+        "Blood is thicker than water",
+        "Curiosity killed the cat"
       ],
-      "right_column": [
-        {"id": "A", "text": "Being too curious can lead to trouble"},
-        {"id": "B", "text": "Family bonds are stronger than other relationships"},
-        {"id": "C", "text": "Those who threaten often don't act"},
-        {"id": "D", "text": "Time seems slower when you wait impatiently"}
+      "right_items": [
+        "Being too curious can lead to trouble",
+        "Family bonds are stronger than other relationships",
+        "Those who threaten often don't act",
+        "Time seems slower when you wait impatiently"
       ],
-      "answers": {
-        "1": "D",
-        "2": "C",
-        "3": "B",
-        "4": "A"
-      },
+      "pairs": [
+        {"left": "A watched pot never boils", "right": "Time seems slower when you wait impatiently"},
+        {"left": "Barking dogs seldom bite", "right": "Those who threaten often don't act"},
+        {"left": "Blood is thicker than water", "right": "Family bonds are stronger than other relationships"},
+        {"left": "Curiosity killed the cat", "right": "Being too curious can lead to trouble"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
       "source": "Additional Practice"
     },
     {
       "id": "proverb_mtf_ws_8",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings",
-      "left_column": [
-        {"id": "1", "text": "Empty vessels make the most noise"},
-        {"id": "2", "text": "Fortune favours the brave"},
-        {"id": "3", "text": "Great minds think alike"},
-        {"id": "4", "text": "Haste makes waste"}
+      "left_items": [
+        "Empty vessels make the most noise",
+        "Fortune favours the brave",
+        "Great minds think alike",
+        "Haste makes waste"
       ],
-      "right_column": [
-        {"id": "A", "text": "Rushing leads to mistakes and wastage"},
-        {"id": "B", "text": "Smart people often have similar ideas"},
-        {"id": "C", "text": "Those with little knowledge talk the most"},
-        {"id": "D", "text": "Bold people are more likely to succeed"}
+      "right_items": [
+        "Rushing leads to mistakes and wastage",
+        "Smart people often have similar ideas",
+        "Those with little knowledge talk the most",
+        "Bold people are more likely to succeed"
       ],
-      "answers": {
-        "1": "C",
-        "2": "D",
-        "3": "B",
-        "4": "A"
-      },
+      "pairs": [
+        {"left": "Empty vessels make the most noise", "right": "Those with little knowledge talk the most"},
+        {"left": "Fortune favours the brave", "right": "Bold people are more likely to succeed"},
+        {"left": "Great minds think alike", "right": "Smart people often have similar ideas"},
+        {"left": "Haste makes waste", "right": "Rushing leads to mistakes and wastage"}
+      ],
+      "answers": "1-C, 2-D, 3-B, 4-A",
       "source": "Additional Practice"
     },
     {
       "id": "proverb_mtf_ws_9",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings",
-      "left_column": [
-        {"id": "1", "text": "Ignorance is bliss"},
-        {"id": "2", "text": "Jack of all trades, master of none"},
-        {"id": "3", "text": "Knowledge is power"},
-        {"id": "4", "text": "Laughter is the best medicine"}
+      "left_items": [
+        "Ignorance is bliss",
+        "Jack of all trades, master of none",
+        "Knowledge is power",
+        "Laughter is the best medicine"
       ],
-      "right_column": [
-        {"id": "A", "text": "Being happy helps you feel better"},
-        {"id": "B", "text": "Being informed gives you an advantage"},
-        {"id": "C", "text": "Someone who does many things but excels at nothing"},
-        {"id": "D", "text": "Sometimes not knowing is better"}
+      "right_items": [
+        "Being happy helps you feel better",
+        "Being informed gives you an advantage",
+        "Someone who does many things but excels at nothing",
+        "Sometimes not knowing is better"
       ],
-      "answers": {
-        "1": "D",
-        "2": "C",
-        "3": "B",
-        "4": "A"
-      },
+      "pairs": [
+        {"left": "Ignorance is bliss", "right": "Sometimes not knowing is better"},
+        {"left": "Jack of all trades, master of none", "right": "Someone who does many things but excels at nothing"},
+        {"left": "Knowledge is power", "right": "Being informed gives you an advantage"},
+        {"left": "Laughter is the best medicine", "right": "Being happy helps you feel better"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
       "source": "Additional Practice"
     },
     {
       "id": "proverb_mtf_ws_10",
       "type": "match_the_following",
       "instruction": "Match the proverbs with their meanings",
-      "left_column": [
-        {"id": "1", "text": "Make hay while the sun shines"},
-        {"id": "2", "text": "No pain, no gain"},
-        {"id": "3", "text": "Out of sight, out of mind"},
-        {"id": "4", "text": "The grass is always greener on the other side"}
+      "left_items": [
+        "Make hay while the sun shines",
+        "No pain, no gain",
+        "Out of sight, out of mind",
+        "The grass is always greener on the other side"
       ],
-      "right_column": [
-        {"id": "A", "text": "We forget things we don't see often"},
-        {"id": "B", "text": "Other people's situations always seem better than ours"},
-        {"id": "C", "text": "You must work hard to achieve results"},
-        {"id": "D", "text": "Take advantage of opportunities when available"}
+      "right_items": [
+        "We forget things we don't see often",
+        "Other people's situations always seem better than ours",
+        "You must work hard to achieve results",
+        "Take advantage of opportunities when available"
       ],
-      "answers": {
-        "1": "D",
-        "2": "C",
-        "3": "A",
-        "4": "B"
-      },
+      "pairs": [
+        {"left": "Make hay while the sun shines", "right": "Take advantage of opportunities when available"},
+        {"left": "No pain, no gain", "right": "You must work hard to achieve results"},
+        {"left": "Out of sight, out of mind", "right": "We forget things we don't see often"},
+        {"left": "The grass is always greener on the other side", "right": "Other people's situations always seem better than ours"}
+      ],
+      "answers": "1-D, 2-C, 3-A, 4-B",
       "source": "Additional Practice"
     }
   ],
