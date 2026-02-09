@@ -1561,9 +1561,11 @@ function processQuestion(q, questionType) {
     } else if (questionType === 'match_the_following') {
         const pairs = q.pairs || [];
         processed.question = q.instruction || 'Match the following:';
-        processed.left_items = pairs.map(p => p.left);
-        processed.right_items = pairs.map(p => p.right); // Don't shuffle - keep in order for clear answers
+        // Use provided left_items/right_items if available (for jumbled display), otherwise use pairs
+        processed.left_items = q.left_items || pairs.map(p => p.left);
+        processed.right_items = q.right_items || pairs.map(p => p.right);
         processed.pairs = pairs;
+        processed.answers = q.answers || '';
     } else if (questionType === 'give_reason') {
         // Handle both naming conventions: statement/question
         const statement = q.statement || q.question || '';
@@ -3280,14 +3282,15 @@ function renderTextAnswer(q) {
 function renderMatchAnswer(q) {
     const pairs = q.pairs || [];
     const correctMatches = q.correct_matches || {};
+    const answersString = q.answers || '';
 
     // Handle both formats: pairs array or correct_matches object
     let matchesHtml = '';
     if (pairs.length > 0) {
-        // Show answer in format: 1-A, 2-B, 3-C with full text
-        const answerLetters = pairs.map((p, i) => `${i + 1}-${String.fromCharCode(65 + i)}`).join(', ');
+        // Use provided answers string if available (for jumbled questions), otherwise assume 1-A, 2-B order
+        const answerLetters = answersString || pairs.map((p, i) => `${i + 1}-${String.fromCharCode(65 + i)}`).join(', ');
         matchesHtml = `<div style="font-weight: bold; margin-bottom: 10px;">Answer: ${answerLetters}</div>`;
-        matchesHtml += pairs.map((p, i) => `<div>${i + 1}. ${p.left} → ${String.fromCharCode(65 + i)}. ${p.right}</div>`).join('');
+        matchesHtml += pairs.map((p, i) => `<div>${i + 1}. ${p.left} → ${p.right}</div>`).join('');
     } else if (Object.keys(correctMatches).length > 0) {
         matchesHtml = Object.entries(correctMatches).map(([left, right], i) =>
             `<div>${i + 1}. ${left} → ${right}</div>`
