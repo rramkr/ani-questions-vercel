@@ -23,12 +23,6 @@
       "slug": "Computer_Science",
       "icon": "💻",
       "chapter_count": 2
-    },
-    {
-      "name": "General Knowledge",
-      "slug": "General Knowledge",
-      "icon": "🧠",
-      "chapter_count": 1
     }
   ],
   "completed": [
@@ -42,6 +36,12 @@
       "name": "Hindi",
       "slug": "Hindi",
       "icon": "🇮🇳",
+      "chapter_count": 1
+    },
+    {
+      "name": "General Knowledge",
+      "slug": "General Knowledge",
+      "icon": "🧠",
       "chapter_count": 1
     }
   ]
