@@ -260,10 +260,12 @@ const elements = {
     previousYearTypes: document.getElementById('previous-year-types'),
     examTypes: document.getElementById('exam-types'),
     miscTypes: document.getElementById('misc-types'),
+    referenceTypes: document.getElementById('reference-types'),
     textbookSection: document.getElementById('textbook-section'),
     previousYearSection: document.getElementById('previous-year-section'),
     examSection: document.getElementById('exam-section'),
     miscSection: document.getElementById('misc-section'),
+    referenceSection: document.getElementById('reference-section'),
     quizTitle: document.getElementById('quiz-title'),
     questionsShown: document.getElementById('questions-shown'),
     questionsContainer: document.getElementById('questions-container'),
@@ -466,7 +468,8 @@ async function handleHashChange() {
                     const allTypes = [
                         ...(sectionsData.sections.textbook || []),
                         ...(sectionsData.sections.exam || []),
-                        ...(sectionsData.sections.miscellaneous || [])
+                        ...(sectionsData.sections.miscellaneous || []),
+                        ...(sectionsData.sections.reference || [])
                     ];
                     const questionType = allTypes.find(t => t.value === typeValue);
 
@@ -2135,12 +2138,14 @@ function renderSections(sections) {
     renderSectionTypes(elements.previousYearTypes, sections.previous_year || [], 'previous-year-section');
     renderSectionTypes(elements.examTypes, sections.exam, 'exam-section');
     renderSectionTypes(elements.miscTypes, sections.miscellaneous, 'misc-section');
+    renderSectionTypes(elements.referenceTypes, sections.reference || [], 'reference-section');
 
     // Show/hide sections based on content
     elements.textbookSection.style.display = sections.textbook.length > 0 ? 'block' : 'none';
     elements.previousYearSection.style.display = (sections.previous_year && sections.previous_year.length > 0) ? 'block' : 'none';
     elements.examSection.style.display = sections.exam.length > 0 ? 'block' : 'none';
     elements.miscSection.style.display = sections.miscellaneous.length > 0 ? 'block' : 'none';
+    elements.referenceSection.style.display = (sections.reference && sections.reference.length > 0) ? 'block' : 'none';
 
     // For students: Show "Previously Wrong" section
     if (currentUser && currentUser.role === 'student') {
