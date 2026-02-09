@@ -1,0 +1,158 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "prep_ws_1",
+      "question": "The cat is hiding ___ the table.",
+      "answer": "under",
+      "explanation": "'Under' indicates position below something. The cat is below the table, concealed from view."
+    },
+    {
+      "id": "prep_ws_2",
+      "question": "We reached the station ___ time.",
+      "answer": "on",
+      "explanation": "'On time' is a fixed phrase meaning punctually, at the scheduled time. Not early, not late."
+    },
+    {
+      "id": "prep_ws_3",
+      "question": "She is very good ___ mathematics.",
+      "answer": "at",
+      "explanation": "'Good at' is the correct collocation for skills and subjects. We always say 'good at' something, not 'good in'."
+    },
+    {
+      "id": "prep_ws_4",
+      "question": "The book was kept ___ the shelf.",
+      "answer": "on",
+      "explanation": "'On the shelf' indicates position on top of a surface. Books are placed on shelves."
+    },
+    {
+      "id": "prep_ws_5",
+      "question": "He has been absent ___ Monday.",
+      "answer": "since",
+      "explanation": "'Since' is used with a point in time when using present perfect. 'Since Monday' = from Monday until now. NOT 'on Monday'."
+    },
+    {
+      "id": "prep_6",
+      "question": "The train will arrive ___ 9 o'clock.",
+      "answer": "at",
+      "explanation": "'At' is used with specific times. We say 'at 9 o'clock', 'at noon', 'at midnight'."
+    },
+    {
+      "id": "prep_7",
+      "question": "She was born ___ 15th August.",
+      "answer": "on",
+      "explanation": "'On' is used with specific dates. We say 'on 15th August', 'on Monday', 'on Christmas Day'."
+    },
+    {
+      "id": "prep_8",
+      "question": "The shop is closed ___ Sundays.",
+      "answer": "on",
+      "explanation": "'On' is used with days of the week. 'On Sundays' (plural) means every Sunday."
+    },
+    {
+      "id": "prep_9",
+      "question": "I have been waiting ___ two hours.",
+      "answer": "for",
+      "explanation": "'For' is used with a duration of time (two hours, three days, etc.). 'Since' is used with a point in time."
+    },
+    {
+      "id": "prep_10",
+      "question": "The bird flew ___ the window.",
+      "answer": "through",
+      "explanation": "'Through' indicates movement from one side to the other of an opening or enclosed space."
+    },
+    {
+      "id": "prep_11",
+      "question": "He jumped ___ the river to save the child.",
+      "answer": "into",
+      "explanation": "'Into' indicates movement from outside to inside. Jumping into water means entering it."
+    },
+    {
+      "id": "prep_12",
+      "question": "The picture is hanging ___ the wall.",
+      "answer": "on",
+      "explanation": "'On the wall' is used for pictures because they are attached to the wall's surface."
+    },
+    {
+      "id": "prep_13",
+      "question": "She is afraid ___ dogs.",
+      "answer": "of",
+      "explanation": "'Afraid of' is a fixed phrase. We say 'afraid of' something or someone we fear."
+    },
+    {
+      "id": "prep_14",
+      "question": "He is interested ___ music.",
+      "answer": "in",
+      "explanation": "'Interested in' is a fixed phrase. We say 'interested in' a topic, hobby, or activity."
+    },
+    {
+      "id": "prep_15",
+      "question": "The book belongs ___ my sister.",
+      "answer": "to",
+      "explanation": "'Belongs to' is a fixed phrase indicating ownership. Something belongs to its owner."
+    },
+    {
+      "id": "prep_16",
+      "question": "We walked ___ the bridge to reach the other side.",
+      "answer": "across",
+      "explanation": "'Across' indicates movement from one side to the other of a surface or area."
+    },
+    {
+      "id": "prep_17",
+      "question": "The plane flew ___ the clouds.",
+      "answer": "above",
+      "explanation": "'Above' indicates position higher than something else without touching. The plane was higher than the clouds."
+    },
+    {
+      "id": "prep_18",
+      "question": "She divided the cake ___ her friends.",
+      "answer": "among",
+      "explanation": "'Among' is used for distribution within a group of three or more. 'Between' is used for two."
+    },
+    {
+      "id": "prep_19",
+      "question": "He sat ___ his two brothers.",
+      "answer": "between",
+      "explanation": "'Between' is used when referring to two people or things. He was in the middle of his two brothers."
+    },
+    {
+      "id": "prep_20",
+      "question": "The meeting will start ___ noon.",
+      "answer": "at",
+      "explanation": "'At' is used with specific times including 'noon', 'midnight', 'dawn', 'dusk'."
+    },
+    {
+      "id": "prep_21",
+      "question": "She is fond ___ chocolates.",
+      "answer": "of",
+      "explanation": "'Fond of' is a fixed phrase meaning to like something. You are always 'fond of' something."
+    },
+    {
+      "id": "prep_22",
+      "question": "The children ran ___ the garden.",
+      "answer": "around",
+      "explanation": "'Around' indicates movement in a circular path or in various directions within an area."
+    },
+    {
+      "id": "prep_23",
+      "question": "He lives ___ the fifth floor.",
+      "answer": "on",
+      "explanation": "'On' is used with floors of a building. We say 'on the first floor', 'on the ground floor'."
+    },
+    {
+      "id": "prep_24",
+      "question": "The dog was running ___ the car.",
+      "answer": "behind",
+      "explanation": "'Behind' indicates position at the back of something. The dog was at the back, following the car."
+    },
+    {
+      "id": "prep_25",
+      "question": "She looked ___ the mirror.",
+      "answer": "into",
+      "explanation": "'Look into' means to examine or investigate. When looking at a mirror, you look 'into' it to see your reflection."
+    }
+  ],
+  "total_count": 25,
+  "subject": "English E1",
+  "chapter": "Worksheet"
+}

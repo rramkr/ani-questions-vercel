@@ -1,0 +1,148 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "idiom_ws_1",
+      "question": "When Riya saw the surprise test paper, she was ___.",
+      "options": ["over the moon", "in hot water"],
+      "answer": "in hot water",
+      "explanation": "'In hot water' means in trouble or difficulty. Seeing a surprise test would make someone worried, not happy. 'Over the moon' means extremely happy."
+    },
+    {
+      "id": "idiom_ws_2",
+      "question": "Don't tell him the secret – he always ___.",
+      "options": ["lets the cat out of the bag", "hits the nail on the head"],
+      "answer": "lets the cat out of the bag",
+      "explanation": "'Lets the cat out of the bag' means to reveal a secret accidentally. 'Hits the nail on the head' means to be exactly right about something."
+    },
+    {
+      "id": "idiom_ws_3",
+      "question": "After losing the match, the team decided to ___.",
+      "options": ["call it a day", "face the music"],
+      "answer": "call it a day",
+      "explanation": "'Call it a day' means to stop working/trying for now. After losing, the team decided to stop and rest."
+    },
+    {
+      "id": "idiom_ws_4",
+      "question": "My brother is very lazy; he always ___.",
+      "options": ["beats around the bush", "passes the buck"],
+      "answer": "passes the buck",
+      "explanation": "'Passes the buck' means to shift responsibility to someone else, which lazy people often do. 'Beats around the bush' means to avoid talking directly about something."
+    },
+    {
+      "id": "idiom_ws_5",
+      "question": "The teacher asked us to ___ the new student.",
+      "options": ["keep an eye on", "spill the beans"],
+      "answer": "keep an eye on",
+      "explanation": "'Keep an eye on' means to watch carefully or look after someone. 'Spill the beans' means to reveal secret information."
+    },
+    {
+      "id": "idiom_6",
+      "question": "She was ___ when she heard about her promotion.",
+      "options": ["over the moon", "under the weather"],
+      "answer": "over the moon",
+      "explanation": "'Over the moon' means extremely happy or delighted. A promotion is good news that would make someone very happy. 'Under the weather' means feeling ill."
+    },
+    {
+      "id": "idiom_7",
+      "question": "Stop ___ and tell me what really happened!",
+      "options": ["beating around the bush", "breaking the ice"],
+      "answer": "beating around the bush",
+      "explanation": "'Beating around the bush' means avoiding the main topic or not speaking directly. 'Breaking the ice' means to start a conversation in a social situation."
+    },
+    {
+      "id": "idiom_8",
+      "question": "The exam was a ___; everyone passed easily.",
+      "options": ["piece of cake", "hard nut to crack"],
+      "answer": "piece of cake",
+      "explanation": "'Piece of cake' means something very easy. 'Hard nut to crack' means something difficult to understand or deal with."
+    },
+    {
+      "id": "idiom_9",
+      "question": "You need to ___ and apologize for your mistake.",
+      "options": ["face the music", "call it a day"],
+      "answer": "face the music",
+      "explanation": "'Face the music' means to accept the consequences of your actions. 'Call it a day' means to stop working."
+    },
+    {
+      "id": "idiom_10",
+      "question": "The new project costs an ___ because of all the expensive materials.",
+      "options": ["arm and a leg", "apple of my eye"],
+      "answer": "arm and a leg",
+      "explanation": "'Costs an arm and a leg' means very expensive. 'Apple of my eye' refers to someone you love very much."
+    },
+    {
+      "id": "idiom_11",
+      "question": "I'm feeling a bit ___ today, so I'll stay home and rest.",
+      "options": ["under the weather", "on cloud nine"],
+      "answer": "under the weather",
+      "explanation": "'Under the weather' means feeling ill or unwell. 'On cloud nine' means extremely happy."
+    },
+    {
+      "id": "idiom_12",
+      "question": "Learning to drive is not difficult; you'll get the ___ soon.",
+      "options": ["hang of it", "ball rolling"],
+      "answer": "hang of it",
+      "explanation": "'Get the hang of it' means to learn how to do something. 'Get the ball rolling' means to start something."
+    },
+    {
+      "id": "idiom_13",
+      "question": "Don't worry about what others say; just take it with a ___.",
+      "options": ["grain of salt", "piece of mind"],
+      "answer": "grain of salt",
+      "explanation": "'Take it with a grain of salt' means to not take something too seriously or literally. 'Piece of mind' is incorrect (the idiom is 'peace of mind')."
+    },
+    {
+      "id": "idiom_14",
+      "question": "The two companies decided to ___ and work together.",
+      "options": ["bury the hatchet", "bite the bullet"],
+      "answer": "bury the hatchet",
+      "explanation": "'Bury the hatchet' means to make peace and end a disagreement. 'Bite the bullet' means to endure something painful."
+    },
+    {
+      "id": "idiom_15",
+      "question": "She ___ when she saw the spider on the wall.",
+      "options": ["jumped out of her skin", "kept her cool"],
+      "answer": "jumped out of her skin",
+      "explanation": "'Jumped out of her skin' means to be extremely startled or frightened. 'Kept her cool' means to stay calm."
+    },
+    {
+      "id": "idiom_16",
+      "question": "My grandmother is the ___ – I love her more than anyone.",
+      "options": ["apple of my eye", "black sheep"],
+      "answer": "apple of my eye",
+      "explanation": "'Apple of my eye' refers to a person you love very much. 'Black sheep' refers to someone who is different or troublesome in a family."
+    },
+    {
+      "id": "idiom_17",
+      "question": "Let's ___ and start the discussion.",
+      "options": ["break the ice", "rock the boat"],
+      "answer": "break the ice",
+      "explanation": "'Break the ice' means to initiate conversation or make people feel comfortable. 'Rock the boat' means to cause trouble or disturb a stable situation."
+    },
+    {
+      "id": "idiom_18",
+      "question": "He's been burning the ___ studying for exams.",
+      "options": ["midnight oil", "bridges"],
+      "answer": "midnight oil",
+      "explanation": "'Burning the midnight oil' means working or studying late into the night. 'Burning bridges' means destroying relationships."
+    },
+    {
+      "id": "idiom_19",
+      "question": "The math problem was a ___ – even the teacher couldn't solve it!",
+      "options": ["hard nut to crack", "piece of cake"],
+      "answer": "hard nut to crack",
+      "explanation": "'Hard nut to crack' means something very difficult to understand or solve. 'Piece of cake' means something easy."
+    },
+    {
+      "id": "idiom_20",
+      "question": "You should ___ and accept this job offer before it's too late.",
+      "options": ["bite the bullet", "cry over spilt milk"],
+      "answer": "bite the bullet",
+      "explanation": "'Bite the bullet' means to face a difficult situation with courage. 'Cry over spilt milk' means to regret something that cannot be changed."
+    }
+  ],
+  "total_count": 20,
+  "subject": "English E1",
+  "chapter": "Worksheet"
+}

@@ -1,0 +1,148 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "dis_ws_1",
+      "question": "Convert to indirect speech: She said, 'I am feeling unwell today.'",
+      "options": ["She said that she is feeling unwell today.", "She said that she was feeling unwell that day.", "She said that I was feeling unwell that day.", "She said that she was feeling unwell today."],
+      "answer": "She said that she was feeling unwell that day.",
+      "explanation": "Tense backshift: 'am feeling' → 'was feeling'. Pronoun change: 'I' → 'she'. Time change: 'today' → 'that day'. Add 'that' as connector."
+    },
+    {
+      "id": "dis_ws_2",
+      "question": "Convert to indirect speech: The teacher said, 'Do not make noise in the class.'",
+      "options": ["The teacher said not to make noise in the class.", "The teacher ordered us not to make noise in the class.", "The teacher said that do not make noise in the class.", "The teacher ordered not making noise in the class."],
+      "answer": "The teacher ordered us not to make noise in the class.",
+      "explanation": "For commands, use reporting verbs like 'ordered/instructed/commanded'. Structure: ordered + object + not to + verb for negative commands."
+    },
+    {
+      "id": "dis_ws_3",
+      "question": "Convert to indirect speech: Ravi said to me, 'I have finished my project.'",
+      "options": ["Ravi said to me that he has finished his project.", "Ravi told me that he had finished his project.", "Ravi told me that I had finished my project.", "Ravi said that he have finished his project."],
+      "answer": "Ravi told me that he had finished his project.",
+      "explanation": "'Said to me' → 'told me'. Present perfect 'have finished' → past perfect 'had finished'. 'I' → 'he', 'my' → 'his'."
+    },
+    {
+      "id": "dis_ws_4",
+      "question": "Convert to indirect speech: Mother said, 'Where have you kept the keys?'",
+      "options": ["Mother asked where have I kept the keys.", "Mother asked me where I had kept the keys.", "Mother said where had I kept the keys.", "Mother asked me where had I kept the keys."],
+      "answer": "Mother asked me where I had kept the keys.",
+      "explanation": "For wh-questions, keep the wh-word. 'Said' → 'asked'. Use statement word order (not question order). 'Have kept' → 'had kept'. 'You' → 'I'."
+    },
+    {
+      "id": "dis_5",
+      "question": "Convert to indirect speech: He said, 'I will come tomorrow.'",
+      "options": ["He said that he will come tomorrow.", "He said that he would come the next day.", "He said that I would come the next day.", "He said that he would come tomorrow."],
+      "answer": "He said that he would come the next day.",
+      "explanation": "'Will' → 'would' (tense backshift). 'Tomorrow' → 'the next day' (time change). 'I' → 'he' (pronoun change)."
+    },
+    {
+      "id": "dis_6",
+      "question": "Convert to indirect speech: She said, 'I can swim well.'",
+      "options": ["She said that she can swim well.", "She said that she could swim well.", "She said that I could swim well.", "She said that she may swim well."],
+      "answer": "She said that she could swim well.",
+      "explanation": "'Can' → 'could' (modal verb backshift). 'I' → 'she'. Add 'that' as connector."
+    },
+    {
+      "id": "dis_7",
+      "question": "Convert to indirect speech: The boy said, 'Please help me.'",
+      "options": ["The boy said to please help him.", "The boy requested to help him.", "The boy requested us to help him.", "The boy said that please help me."],
+      "answer": "The boy requested us to help him.",
+      "explanation": "For polite requests ('please'), use 'requested'. Structure: requested + object + to + verb. 'Me' → 'him'."
+    },
+    {
+      "id": "dis_8",
+      "question": "Convert to indirect speech: 'Are you coming to the party?' she asked.",
+      "options": ["She asked that was I coming to the party.", "She asked if I was coming to the party.", "She asked whether am I coming to the party.", "She asked if was I coming to the party."],
+      "answer": "She asked if I was coming to the party.",
+      "explanation": "Yes/no questions use 'if' or 'whether'. Statement word order (not question order). 'Are you coming' → 'I was coming'. 'You' → 'I'."
+    },
+    {
+      "id": "dis_9",
+      "question": "Convert to indirect speech: 'What a lovely dress!' she exclaimed.",
+      "options": ["She exclaimed that what a lovely dress.", "She exclaimed that it was a lovely dress.", "She exclaimed what a lovely dress it was.", "She exclaimed that dress was lovely."],
+      "answer": "She exclaimed that it was a lovely dress.",
+      "explanation": "Exclamations use 'exclaimed' as reporting verb. The exclamatory sentence becomes a statement: 'it was a lovely dress'."
+    },
+    {
+      "id": "dis_10",
+      "question": "Convert to indirect speech: Father said, 'The earth revolves around the sun.'",
+      "options": ["Father said that the earth revolved around the sun.", "Father said that the earth revolves around the sun.", "Father said the earth was revolving around the sun.", "Father told the earth revolves around the sun."],
+      "answer": "Father said that the earth revolves around the sun.",
+      "explanation": "Universal truths/scientific facts do NOT change tense. The statement about earth revolving is a permanent truth, so 'revolves' stays in present tense."
+    },
+    {
+      "id": "dis_11",
+      "question": "Convert to indirect speech: Ram said, 'I am writing a letter now.'",
+      "options": ["Ram said that he was writing a letter then.", "Ram said that he is writing a letter now.", "Ram said that I was writing a letter then.", "Ram said that he had written a letter then."],
+      "answer": "Ram said that he was writing a letter then.",
+      "explanation": "'Am writing' (present continuous) → 'was writing' (past continuous). 'I' → 'he'. 'Now' → 'then'."
+    },
+    {
+      "id": "dis_12",
+      "question": "Convert to indirect speech: She said, 'I went to the market yesterday.'",
+      "options": ["She said that she went to the market yesterday.", "She said that she had gone to the market the previous day.", "She said that she had went to the market the day before.", "She said that I had gone to the market yesterday."],
+      "answer": "She said that she had gone to the market the previous day.",
+      "explanation": "'Went' (simple past) → 'had gone' (past perfect). 'I' → 'she'. 'Yesterday' → 'the previous day/the day before'."
+    },
+    {
+      "id": "dis_13",
+      "question": "Convert to indirect speech: The teacher said, 'Open your books.'",
+      "options": ["The teacher said to open our books.", "The teacher instructed us to open our books.", "The teacher said that open your books.", "The teacher instructed to open your books."],
+      "answer": "The teacher instructed us to open our books.",
+      "explanation": "Commands use verbs like 'ordered/instructed/told'. Structure: instructed + object + to + verb. 'Your' → 'our'."
+    },
+    {
+      "id": "dis_14",
+      "question": "Convert to indirect speech: 'I must finish this work,' said John.",
+      "options": ["John said that he must finish that work.", "John said that he had to finish that work.", "John said that I must finish this work.", "John said that he may finish that work."],
+      "answer": "John said that he had to finish that work.",
+      "explanation": "'Must' → 'had to' (past obligation). 'I' → 'he'. 'This' → 'that'."
+    },
+    {
+      "id": "dis_15",
+      "question": "Convert to indirect speech: He said, 'I lived here two years ago.'",
+      "options": ["He said that he lived there two years ago.", "He said that he had lived there two years before.", "He said that I had lived here two years before.", "He said that he lived here two years before."],
+      "answer": "He said that he had lived there two years before.",
+      "explanation": "'Lived' (simple past) → 'had lived' (past perfect). 'Here' → 'there'. 'Ago' → 'before'."
+    },
+    {
+      "id": "dis_16",
+      "question": "Convert to indirect speech: 'Don't touch the wire,' the electrician warned.",
+      "options": ["The electrician warned not to touch the wire.", "The electrician warned us not to touch the wire.", "The electrician warned that don't touch the wire.", "The electrician warned us to not touch the wire."],
+      "answer": "The electrician warned us not to touch the wire.",
+      "explanation": "Warnings use 'warned'. Negative commands: warned + object + not to + verb. 'Don't' → 'not to'."
+    },
+    {
+      "id": "dis_17",
+      "question": "Convert to indirect speech: She said, 'I have been working since morning.'",
+      "options": ["She said that she has been working since morning.", "She said that she had been working since morning.", "She said that I had been working since morning.", "She said that she was working since morning."],
+      "answer": "She said that she had been working since morning.",
+      "explanation": "'Have been working' (present perfect continuous) → 'had been working' (past perfect continuous). 'I' → 'she'."
+    },
+    {
+      "id": "dis_18",
+      "question": "Convert to indirect speech: 'Who broke the window?' asked the principal.",
+      "options": ["The principal asked who broke the window.", "The principal asked who had broken the window.", "The principal asked that who broke the window.", "The principal asked who did break the window."],
+      "answer": "The principal asked who had broken the window.",
+      "explanation": "Wh-questions keep the wh-word. 'Asked' for questions. 'Broke' → 'had broken'. Statement word order (no inversion)."
+    },
+    {
+      "id": "dis_19",
+      "question": "Convert to indirect speech: 'Let's go for a picnic,' suggested Riya.",
+      "options": ["Riya suggested that let's go for a picnic.", "Riya suggested going for a picnic.", "Riya suggested that they should go for a picnic.", "Riya suggested to go for a picnic."],
+      "answer": "Riya suggested that they should go for a picnic.",
+      "explanation": "'Let's' suggestions become 'suggested that + subject + should + verb' or 'suggested going' (gerund form)."
+    },
+    {
+      "id": "dis_20",
+      "question": "Convert to indirect speech: He said, 'I may visit you next week.'",
+      "options": ["He said that he may visit me next week.", "He said that he might visit me the following week.", "He said that I might visit you the following week.", "He said that he might visit me next week."],
+      "answer": "He said that he might visit me the following week.",
+      "explanation": "'May' → 'might'. 'I' → 'he'. 'You' → 'me'. 'Next week' → 'the following week'."
+    }
+  ],
+  "total_count": 20,
+  "subject": "English E1",
+  "chapter": "Worksheet"
+}

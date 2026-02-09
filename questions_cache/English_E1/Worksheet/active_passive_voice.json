@@ -1,0 +1,148 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "apv_ws_1",
+      "question": "Change to passive voice: 'The gardener waters the plants every morning.'",
+      "options": ["The plants are being watered by the gardener every morning.", "The plants are watered by the gardener every morning.", "The plants were watered by the gardener every morning.", "The plants have been watered by the gardener every morning."],
+      "answer": "The plants are watered by the gardener every morning.",
+      "explanation": "Simple present active → simple present passive. 'Waters' → 'are watered' (are + past participle). Object becomes subject."
+    },
+    {
+      "id": "apv_ws_2",
+      "question": "Change to active voice: 'The homework was completed by Ananya.'",
+      "options": ["Ananya completed the homework.", "Ananya has completed the homework.", "Ananya was completing the homework.", "Ananya completes the homework."],
+      "answer": "Ananya completed the homework.",
+      "explanation": "Simple past passive → simple past active. 'Was completed' → 'completed'. 'By Ananya' becomes the subject."
+    },
+    {
+      "id": "apv_ws_3",
+      "question": "Change to passive voice: 'The police caught the thief.'",
+      "options": ["The thief is caught by the police.", "The thief was caught by the police.", "The thief has been caught by the police.", "The thief were caught by the police."],
+      "answer": "The thief was caught by the police.",
+      "explanation": "Simple past active → simple past passive. 'Caught' → 'was caught'. Singular subject 'thief' takes 'was'."
+    },
+    {
+      "id": "apv_ws_4",
+      "question": "Change to active voice: 'The letter will be written by him tomorrow.'",
+      "options": ["He writes the letter tomorrow.", "He will write the letter tomorrow.", "He is writing the letter tomorrow.", "He wrote the letter tomorrow."],
+      "answer": "He will write the letter tomorrow.",
+      "explanation": "Future passive → future active. 'Will be written' → 'will write'. 'By him' → 'He' becomes subject."
+    },
+    {
+      "id": "apv_5",
+      "question": "Change to passive voice: 'She is reading a book.'",
+      "options": ["A book is read by her.", "A book is being read by her.", "A book was being read by her.", "A book has been read by her."],
+      "answer": "A book is being read by her.",
+      "explanation": "Present continuous active → present continuous passive. 'Is reading' → 'is being read' (is + being + past participle)."
+    },
+    {
+      "id": "apv_6",
+      "question": "Change to passive voice: 'They have completed the project.'",
+      "options": ["The project has been completed by them.", "The project is completed by them.", "The project was completed by them.", "The project had been completed by them."],
+      "answer": "The project has been completed by them.",
+      "explanation": "Present perfect active → present perfect passive. 'Have completed' → 'has been completed' (has + been + past participle)."
+    },
+    {
+      "id": "apv_7",
+      "question": "Change to active voice: 'The cake was being baked by mother.'",
+      "options": ["Mother baked the cake.", "Mother was baking the cake.", "Mother is baking the cake.", "Mother has baked the cake."],
+      "answer": "Mother was baking the cake.",
+      "explanation": "Past continuous passive → past continuous active. 'Was being baked' → 'was baking'."
+    },
+    {
+      "id": "apv_8",
+      "question": "Change to passive voice: 'The doctor will examine the patient.'",
+      "options": ["The patient will be examined by the doctor.", "The patient is examined by the doctor.", "The patient was examined by the doctor.", "The patient has been examined by the doctor."],
+      "answer": "The patient will be examined by the doctor.",
+      "explanation": "Simple future active → simple future passive. 'Will examine' → 'will be examined' (will + be + past participle)."
+    },
+    {
+      "id": "apv_9",
+      "question": "Change to passive voice: 'Ram had written the essay.'",
+      "options": ["The essay had been written by Ram.", "The essay was written by Ram.", "The essay has been written by Ram.", "The essay is written by Ram."],
+      "answer": "The essay had been written by Ram.",
+      "explanation": "Past perfect active → past perfect passive. 'Had written' → 'had been written' (had + been + past participle)."
+    },
+    {
+      "id": "apv_10",
+      "question": "Change to active voice: 'The window was broken by the children.'",
+      "options": ["The children break the window.", "The children broke the window.", "The children have broken the window.", "The children are breaking the window."],
+      "answer": "The children broke the window.",
+      "explanation": "Simple past passive → simple past active. 'Was broken' → 'broke'. 'By the children' becomes the subject."
+    },
+    {
+      "id": "apv_11",
+      "question": "Change to passive voice: 'Someone has stolen my wallet.'",
+      "options": ["My wallet has been stolen.", "My wallet is stolen.", "My wallet was stolen.", "My wallet had been stolen."],
+      "answer": "My wallet has been stolen.",
+      "explanation": "When the doer is unknown ('someone'), we omit 'by someone' in passive. Present perfect: 'has stolen' → 'has been stolen'."
+    },
+    {
+      "id": "apv_12",
+      "question": "Change to passive voice: 'They are building a new bridge.'",
+      "options": ["A new bridge is built by them.", "A new bridge is being built by them.", "A new bridge was being built by them.", "A new bridge has been built by them."],
+      "answer": "A new bridge is being built by them.",
+      "explanation": "Present continuous active → present continuous passive. 'Are building' → 'is being built' (singular subject 'bridge')."
+    },
+    {
+      "id": "apv_13",
+      "question": "Change to active voice: 'A song is being sung by her.'",
+      "options": ["She sings a song.", "She is singing a song.", "She was singing a song.", "She has sung a song."],
+      "answer": "She is singing a song.",
+      "explanation": "Present continuous passive → present continuous active. 'Is being sung' → 'is singing'."
+    },
+    {
+      "id": "apv_14",
+      "question": "Change to passive voice: 'The cat drank the milk.'",
+      "options": ["The milk is drunk by the cat.", "The milk was drunk by the cat.", "The milk has been drunk by the cat.", "The milk was drank by the cat."],
+      "answer": "The milk was drunk by the cat.",
+      "explanation": "Simple past active → simple past passive. 'Drank' → 'was drunk'. Note: 'drunk' is the past participle of 'drink'."
+    },
+    {
+      "id": "apv_15",
+      "question": "Change to passive voice: 'We must obey the rules.'",
+      "options": ["The rules must be obeyed.", "The rules must be obeyed by us.", "The rules are obeyed by us.", "The rules should be obeyed by us."],
+      "answer": "The rules must be obeyed by us.",
+      "explanation": "Modal + verb: 'must obey' → 'must be obeyed' (modal + be + past participle). 'By us' can be included or omitted."
+    },
+    {
+      "id": "apv_16",
+      "question": "Change to active voice: 'The letter has been posted by her.'",
+      "options": ["She posts the letter.", "She posted the letter.", "She has posted the letter.", "She is posting the letter."],
+      "answer": "She has posted the letter.",
+      "explanation": "Present perfect passive → present perfect active. 'Has been posted' → 'has posted'."
+    },
+    {
+      "id": "apv_17",
+      "question": "Change to passive voice: 'Who wrote this poem?'",
+      "options": ["By whom was this poem written?", "Who was this poem written by?", "This poem was written by whom?", "By whom this poem was written?"],
+      "answer": "By whom was this poem written?",
+      "explanation": "Interrogative sentences: 'Who' (subject) → 'By whom' at the start. Passive structure follows: 'was + past participle'."
+    },
+    {
+      "id": "apv_18",
+      "question": "Change to passive voice: 'People speak English all over the world.'",
+      "options": ["English is spoken all over the world.", "English is spoken by people all over the world.", "English was spoken all over the world.", "English has been spoken all over the world."],
+      "answer": "English is spoken all over the world.",
+      "explanation": "When the subject is general ('people'), we usually omit 'by people' in passive. Simple present: 'speak' → 'is spoken'."
+    },
+    {
+      "id": "apv_19",
+      "question": "Change to passive voice: 'They were watching the match.'",
+      "options": ["The match was watched by them.", "The match was being watched by them.", "The match is being watched by them.", "The match had been watched by them."],
+      "answer": "The match was being watched by them.",
+      "explanation": "Past continuous active → past continuous passive. 'Were watching' → 'was being watched' (singular subject 'match')."
+    },
+    {
+      "id": "apv_20",
+      "question": "Change to active voice: 'A beautiful song was sung by the girl.'",
+      "options": ["The girl sings a beautiful song.", "The girl sang a beautiful song.", "The girl is singing a beautiful song.", "The girl was singing a beautiful song."],
+      "answer": "The girl sang a beautiful song.",
+      "explanation": "Simple past passive → simple past active. 'Was sung' → 'sang'. 'By the girl' becomes the subject."
+    }
+  ],
+  "total_count": 20,
+  "subject": "English E1",
+  "chapter": "Worksheet"
+}

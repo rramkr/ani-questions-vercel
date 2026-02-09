@@ -1,0 +1,148 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "kos_ws_1",
+      "question": "Identify the kind of sentence: 'What a beautiful painting this is!'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Exclamatory",
+      "explanation": "This sentence expresses strong emotion (admiration) and ends with an exclamation mark. The structure 'What a + adjective + noun' is typical of exclamatory sentences."
+    },
+    {
+      "id": "kos_ws_2",
+      "question": "Identify the kind of sentence: 'Please close the door quietly.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Imperative",
+      "explanation": "This sentence gives a request/command (to close the door). Despite saying 'please,' it's still telling someone to do something. Imperative sentences give orders, requests, or advice."
+    },
+    {
+      "id": "kos_ws_3",
+      "question": "Identify the kind of sentence: 'We will visit the museum tomorrow.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Assertive",
+      "explanation": "This sentence states a fact or makes a declaration about a future plan. Assertive (declarative) sentences make statements and typically end with a period."
+    },
+    {
+      "id": "kos_ws_4",
+      "question": "Identify the kind of sentence: 'Have you completed your homework?'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Interrogative",
+      "explanation": "This sentence asks a question and ends with a question mark. Interrogative sentences seek information or confirmation."
+    },
+    {
+      "id": "kos_ws_5",
+      "question": "Identify the kind of sentence: 'How foolish I was to believe him!'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Exclamatory",
+      "explanation": "This sentence expresses strong emotion (regret/self-criticism) and ends with an exclamation mark. The structure 'How + adjective' is typical of exclamatory sentences."
+    },
+    {
+      "id": "kos_6",
+      "question": "Identify the kind of sentence: 'The sun rises in the east.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Assertive",
+      "explanation": "This sentence states a fact. Assertive sentences make statements about facts, opinions, or descriptions."
+    },
+    {
+      "id": "kos_7",
+      "question": "Identify the kind of sentence: 'Do not run in the corridor.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Imperative",
+      "explanation": "This sentence gives a command (prohibition). Imperative sentences can be positive commands or negative prohibitions using 'Do not' or 'Don't'."
+    },
+    {
+      "id": "kos_8",
+      "question": "Identify the kind of sentence: 'Where did you keep my book?'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Interrogative",
+      "explanation": "This sentence asks a wh-question seeking information about location. It ends with a question mark."
+    },
+    {
+      "id": "kos_9",
+      "question": "Identify the kind of sentence: 'Alas! We lost the match.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Exclamatory",
+      "explanation": "This sentence expresses strong emotion (sorrow/disappointment) using the interjection 'Alas!' Exclamatory sentences express sudden feelings."
+    },
+    {
+      "id": "kos_10",
+      "question": "Identify the kind of sentence: 'Always speak the truth.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Imperative",
+      "explanation": "This sentence gives advice/instruction. It tells the listener what to do. Imperative sentences can also give advice, not just commands."
+    },
+    {
+      "id": "kos_11",
+      "question": "Identify the kind of sentence: 'What time does the train arrive?'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Interrogative",
+      "explanation": "This sentence asks for information about time. It's a wh-question ending with a question mark."
+    },
+    {
+      "id": "kos_12",
+      "question": "Identify the kind of sentence: 'Hurrah! We won the competition.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Exclamatory",
+      "explanation": "This sentence expresses strong emotion (joy) using the interjection 'Hurrah!' It shows excitement about winning."
+    },
+    {
+      "id": "kos_13",
+      "question": "Identify the kind of sentence: 'Let us go for a walk.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Imperative",
+      "explanation": "'Let us' (Let's) sentences are suggestions/proposals, which are a type of imperative. It's proposing an action for the group."
+    },
+    {
+      "id": "kos_14",
+      "question": "Identify the kind of sentence: 'I am very happy today.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Assertive",
+      "explanation": "This sentence makes a statement about feelings. It's a simple declaration ending with a period. Without an exclamation mark or interjection, it's assertive."
+    },
+    {
+      "id": "kos_15",
+      "question": "Identify the kind of sentence: 'May God bless you!'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Exclamatory",
+      "explanation": "This sentence expresses a blessing or wish with strong emotion. Sentences expressing wishes, blessings, or curses with emotion are exclamatory."
+    },
+    {
+      "id": "kos_16",
+      "question": "Identify the kind of sentence: 'Kindly switch off your phones.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Imperative",
+      "explanation": "This sentence gives a polite request/instruction. Words like 'kindly' or 'please' make it polite, but it's still an imperative sentence."
+    },
+    {
+      "id": "kos_17",
+      "question": "Identify the kind of sentence: 'Isn't she a talented singer?'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Interrogative",
+      "explanation": "This is a negative question (tag question style) asking for confirmation. Despite expecting agreement, it's still in question form."
+    },
+    {
+      "id": "kos_18",
+      "question": "Identify the kind of sentence: 'How wonderful the weather is today!'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Exclamatory",
+      "explanation": "This sentence expresses admiration using 'How + adjective.' Despite having 'How' at the start, it's not a question – it expresses strong positive emotion."
+    },
+    {
+      "id": "kos_19",
+      "question": "Identify the kind of sentence: 'The children are playing in the garden.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Assertive",
+      "explanation": "This sentence describes what is happening (a fact/observation). It makes a statement about the children's activity."
+    },
+    {
+      "id": "kos_20",
+      "question": "Identify the kind of sentence: 'Be quiet during the assembly.'",
+      "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Imperative",
+      "explanation": "This sentence gives an instruction/command. The subject 'you' is implied. It tells the listener to be quiet."
+    }
+  ],
+  "total_count": 20,
+  "subject": "English E1",
+  "chapter": "Worksheet"
+}

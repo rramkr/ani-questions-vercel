@@ -1,0 +1,17 @@
+{
+  "subject": "English E1",
+  "chapter": "Worksheet",
+  "sections": {
+    "textbook": [
+      {"value": "idioms", "label": "Idioms", "icon": "💬"},
+      {"value": "proverbs", "label": "Proverbs", "icon": "📜"},
+      {"value": "kinds_of_sentences", "label": "Kinds of Sentences", "icon": "📝"},
+      {"value": "direct_indirect_speech", "label": "Direct & Indirect Speech", "icon": "🗣️"},
+      {"value": "active_passive_voice", "label": "Active & Passive Voice", "icon": "🔄"},
+      {"value": "prepositions", "label": "Prepositions", "icon": "📍"},
+      {"value": "conjunctions", "label": "Conjunctions", "icon": "🔗"}
+    ],
+    "exam": [],
+    "miscellaneous": []
+  }
+}

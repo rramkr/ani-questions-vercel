@@ -1,0 +1,172 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "conj_ws_1",
+      "question": "He was tired. He continued to work. (Join with a suitable conjunction)",
+      "answer": "Although he was tired, he continued to work.",
+      "alternatives": ["He was tired but he continued to work.", "He was tired, yet he continued to work."],
+      "explanation": "'Although/Though' shows contrast/concession. Despite being tired (unexpected), he still worked. 'But' and 'yet' also show contrast."
+    },
+    {
+      "id": "conj_ws_2",
+      "question": "I stayed at home. It was raining heavily. (Join with a suitable conjunction)",
+      "answer": "I stayed at home because it was raining heavily.",
+      "alternatives": ["I stayed at home as it was raining heavily.", "I stayed at home since it was raining heavily."],
+      "explanation": "'Because/as/since' shows cause-effect. The rain (cause) led to staying home (effect)."
+    },
+    {
+      "id": "conj_ws_3",
+      "question": "She is intelligent. She is careless at times. (Join with a suitable conjunction)",
+      "answer": "She is intelligent but careless at times.",
+      "alternatives": ["She is intelligent yet careless at times.", "Although she is intelligent, she is careless at times."],
+      "explanation": "'But' shows contrast between positive trait (intelligent) and negative trait (careless)."
+    },
+    {
+      "id": "conj_ws_4",
+      "question": "Hurry up. We will miss the bus. (Join with a suitable conjunction)",
+      "answer": "Hurry up, or we will miss the bus.",
+      "alternatives": ["Hurry up, otherwise we will miss the bus."],
+      "explanation": "'Or/otherwise' presents a consequence if the action isn't taken. It's a conditional warning."
+    },
+    {
+      "id": "conj_5",
+      "question": "Fill in: Rahul ___ Santosh are best friends.",
+      "answer": "and",
+      "explanation": "'And' joins two equal subjects. Both Rahul and Santosh together are best friends."
+    },
+    {
+      "id": "conj_6",
+      "question": "Fill in: ___ you work hard, you will not succeed.",
+      "answer": "Unless",
+      "explanation": "'Unless' means 'if not'. The sentence means: If you don't work hard, you will not succeed."
+    },
+    {
+      "id": "conj_7",
+      "question": "Fill in: I will wait ___ you come back.",
+      "answer": "until",
+      "alternatives": ["till"],
+      "explanation": "'Until/till' indicates up to the point when. I will wait up to the time when you return."
+    },
+    {
+      "id": "conj_8",
+      "question": "Fill in: ___ he is rich, he is not happy.",
+      "answer": "Although",
+      "alternatives": ["Though", "Even though"],
+      "explanation": "'Although/Though' shows concession. Despite being rich (unexpected), he is not happy."
+    },
+    {
+      "id": "conj_9",
+      "question": "Fill in: She failed ___ she worked hard.",
+      "answer": "although",
+      "alternatives": ["though", "even though"],
+      "explanation": "'Although/though' shows unexpected result. Despite working hard (cause), she failed (unexpected effect)."
+    },
+    {
+      "id": "conj_10",
+      "question": "Fill in: I don't know ___ he will come or not.",
+      "answer": "whether",
+      "alternatives": ["if"],
+      "explanation": "'Whether' or 'if' introduces an indirect yes/no question showing uncertainty."
+    },
+    {
+      "id": "conj_11",
+      "question": "Fill in: Make hay ___ the sun shines.",
+      "answer": "while",
+      "explanation": "'While' indicates during the time that. This is the proverb meaning to take advantage of opportunities when available."
+    },
+    {
+      "id": "conj_12",
+      "question": "Fill in: He ran fast ___ he could catch the bus.",
+      "answer": "so that",
+      "explanation": "'So that' shows purpose. He ran fast with the purpose/intention of catching the bus."
+    },
+    {
+      "id": "conj_13",
+      "question": "Fill in: I was late ___ my car broke down.",
+      "answer": "because",
+      "alternatives": ["as", "since"],
+      "explanation": "'Because/as/since' gives the reason. The car breaking down is the reason for being late."
+    },
+    {
+      "id": "conj_14",
+      "question": "Fill in: ___ had I reached home ___ it started raining.",
+      "answer": "No sooner, than",
+      "explanation": "'No sooner...than' is a correlative conjunction showing that one thing happened immediately after another."
+    },
+    {
+      "id": "conj_15",
+      "question": "Fill in: He is ___ a singer ___ a dancer.",
+      "answer": "both, and",
+      "explanation": "'Both...and' is a correlative conjunction used to emphasize two things together. He has both qualities."
+    },
+    {
+      "id": "conj_16",
+      "question": "Fill in: ___ you apologize, I will not forgive you.",
+      "answer": "Unless",
+      "explanation": "'Unless' means 'if not'. The condition for forgiveness is apologizing."
+    },
+    {
+      "id": "conj_17",
+      "question": "Fill in: She is ___ rich ___ generous.",
+      "answer": "not only, but also",
+      "explanation": "'Not only...but also' emphasizes two qualities. She has both richness and generosity."
+    },
+    {
+      "id": "conj_18",
+      "question": "Fill in: I like tea ___ I don't like coffee.",
+      "answer": "but",
+      "explanation": "'But' shows contrast between two preferences - liking one thing but not the other."
+    },
+    {
+      "id": "conj_19",
+      "question": "Fill in: ___ it was cold, we went for a swim.",
+      "answer": "Although",
+      "alternatives": ["Though", "Even though"],
+      "explanation": "'Although/though' shows unexpected action. Despite the cold (unusual), we still went swimming."
+    },
+    {
+      "id": "conj_20",
+      "question": "Fill in: Study hard ___ you will fail.",
+      "answer": "otherwise",
+      "alternatives": ["or", "else"],
+      "explanation": "'Otherwise/or/else' shows consequence. If you don't study hard, failure will result."
+    },
+    {
+      "id": "conj_21",
+      "question": "Fill in: ___ you ___ I can solve this problem.",
+      "answer": "Neither, nor",
+      "explanation": "'Neither...nor' is a correlative conjunction used to negate both options. Neither person can solve it."
+    },
+    {
+      "id": "conj_22",
+      "question": "Fill in: He came ___ I was leaving.",
+      "answer": "as",
+      "alternatives": ["when", "while"],
+      "explanation": "'As/when/while' indicates simultaneous actions. Both events happened at the same time."
+    },
+    {
+      "id": "conj_23",
+      "question": "Fill in: ___ you want tea ___ coffee?",
+      "answer": "Do, or",
+      "explanation": "'Or' presents a choice between alternatives. It asks which one you prefer."
+    },
+    {
+      "id": "conj_24",
+      "question": "Fill in: She will come ___ she finishes her work.",
+      "answer": "after",
+      "alternatives": ["when", "once"],
+      "explanation": "'After/when/once' shows time sequence. She will come following the completion of her work."
+    },
+    {
+      "id": "conj_25",
+      "question": "Fill in: ___ he is poor, he is honest.",
+      "answer": "Though",
+      "alternatives": ["Although", "Even though"],
+      "explanation": "'Though/Although' shows concession. Despite being poor, honesty is maintained."
+    }
+  ],
+  "total_count": 25,
+  "subject": "English E1",
+  "chapter": "Worksheet"
+}
