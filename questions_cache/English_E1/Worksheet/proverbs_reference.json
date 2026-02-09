@@ -1,0 +1,383 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "proverb_ref_mtf_1",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings (from Chapter 23)",
+      "left_items": [
+        "A friend in need is a friend indeed",
+        "Charity begins at home",
+        "Make hay while the sun shines",
+        "A little knowledge is a dangerous thing"
+      ],
+      "right_items": [
+        "Having incomplete knowledge can be harmful",
+        "Take advantage of favorable opportunities",
+        "Take care of your own family first before helping others",
+        "A true friend is one who helps in difficult times"
+      ],
+      "pairs": [
+        {"left": "A friend in need is a friend indeed", "right": "A true friend is one who helps in difficult times"},
+        {"left": "Charity begins at home", "right": "Take care of your own family first before helping others"},
+        {"left": "Make hay while the sun shines", "right": "Take advantage of favorable opportunities"},
+        {"left": "A little knowledge is a dangerous thing", "right": "Having incomplete knowledge can be harmful"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "proverb_ref_mtf_2",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "Coming events cast their shadows before",
+        "Half a loaf is better than no bread",
+        "Nothing ventured, nothing gained",
+        "Prevention is better than cure"
+      ],
+      "right_items": [
+        "It's better to stop a problem from happening than to fix it later",
+        "If you don't take risks, you won't achieve anything",
+        "Future events often give warning signs",
+        "It's better to have something small than nothing at all"
+      ],
+      "pairs": [
+        {"left": "Coming events cast their shadows before", "right": "Future events often give warning signs"},
+        {"left": "Half a loaf is better than no bread", "right": "It's better to have something small than nothing at all"},
+        {"left": "Nothing ventured, nothing gained", "right": "If you don't take risks, you won't achieve anything"},
+        {"left": "Prevention is better than cure", "right": "It's better to stop a problem from happening than to fix it later"}
+      ],
+      "answers": "1-C, 2-D, 3-B, 4-A",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "proverb_ref_mtf_3",
+      "type": "match_the_following",
+      "instruction": "Complete the proverbs by matching Column A with Column B",
+      "left_items": [
+        "The proof of the pudding",
+        "The early bird",
+        "Birds of a feather",
+        "You can take a horse to water"
+      ],
+      "right_items": [
+        "but you can't make it drink",
+        "catches the worm",
+        "flock together",
+        "is in the eating"
+      ],
+      "pairs": [
+        {"left": "The proof of the pudding", "right": "is in the eating"},
+        {"left": "The early bird", "right": "catches the worm"},
+        {"left": "Birds of a feather", "right": "flock together"},
+        {"left": "You can take a horse to water", "right": "but you can't make it drink"}
+      ],
+      "answers": "1-D, 2-B, 3-C, 4-A",
+      "source": "Chapter 23 - Word Power (Exercise C)"
+    },
+    {
+      "id": "proverb_ref_mtf_4",
+      "type": "match_the_following",
+      "instruction": "Complete the proverbs by matching Column A with Column B",
+      "left_items": [
+        "A fool and his money",
+        "Still waters",
+        "A rolling stone",
+        "All that glitters"
+      ],
+      "right_items": [
+        "is not gold",
+        "gathers no moss",
+        "run deep",
+        "are soon parted"
+      ],
+      "pairs": [
+        {"left": "A fool and his money", "right": "are soon parted"},
+        {"left": "Still waters", "right": "run deep"},
+        {"left": "A rolling stone", "right": "gathers no moss"},
+        {"left": "All that glitters", "right": "is not gold"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "Chapter 23 - Word Power (Exercise C)"
+    },
+    {
+      "id": "proverb_ref_mtf_5",
+      "type": "match_the_following",
+      "instruction": "Match the situations with the appropriate proverbs",
+      "left_items": [
+        "Vera lost her bracelet because she didn't repair the loose clasp when told",
+        "Vikram blamed his sketch pens for his chart not being selected",
+        "Harish can't swim because he almost drowned years ago",
+        "Nita was confident her friend would recover from the accident"
+      ],
+      "right_items": [
+        "The darkest hour is just before the dawn",
+        "A burnt child dreads the fire",
+        "A bad workman blames his tools",
+        "A stitch in time saves nine"
+      ],
+      "pairs": [
+        {"left": "Vera lost her bracelet because she didn't repair the loose clasp when told", "right": "A stitch in time saves nine"},
+        {"left": "Vikram blamed his sketch pens for his chart not being selected", "right": "A bad workman blames his tools"},
+        {"left": "Harish can't swim because he almost drowned years ago", "right": "A burnt child dreads the fire"},
+        {"left": "Nita was confident her friend would recover from the accident", "right": "The darkest hour is just before the dawn"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "Chapter 23 - Word Power (Exercise D)"
+    },
+    {
+      "id": "proverb_ref_mtf_6",
+      "type": "match_the_following",
+      "instruction": "Match the situations with the appropriate proverbs",
+      "left_items": [
+        "Mehak topped the state because she worked really hard",
+        "The new manager's initial enthusiasm didn't last long",
+        "The school was doing well and serving the state's educational needs",
+        "The girl became an expert at weaving from one ordinary cane basket"
+      ],
+      "right_items": [
+        "Tall oaks from small acorns grow",
+        "A rising tide lifts all boats",
+        "A new broom sweeps clean",
+        "Hard work always pays off"
+      ],
+      "pairs": [
+        {"left": "Mehak topped the state because she worked really hard", "right": "Hard work always pays off"},
+        {"left": "The new manager's initial enthusiasm didn't last long", "right": "A new broom sweeps clean"},
+        {"left": "The school was doing well and serving the state's educational needs", "right": "A rising tide lifts all boats"},
+        {"left": "The girl became an expert at weaving from one ordinary cane basket", "right": "Tall oaks from small acorns grow"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "Chapter 23 - Word Power (Exercise D)"
+    },
+    {
+      "id": "proverb_ref_mtf_7",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "Better late than never",
+        "Don't cry over spilt milk",
+        "Good things come to those who wait",
+        "Slow and steady wins the race"
+      ],
+      "right_items": [
+        "Reliability is more important than speed",
+        "Be patient",
+        "There's no reason to complain about something that can't be fixed",
+        "It's better to arrive late than not to come at all"
+      ],
+      "pairs": [
+        {"left": "Better late than never", "right": "It's better to arrive late than not to come at all"},
+        {"left": "Don't cry over spilt milk", "right": "There's no reason to complain about something that can't be fixed"},
+        {"left": "Good things come to those who wait", "right": "Be patient"},
+        {"left": "Slow and steady wins the race", "right": "Reliability is more important than speed"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "proverb_ref_mtf_8",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "A penny saved is a penny earned",
+        "Do unto others as you would have them do unto you",
+        "Don't put all your eggs in one basket",
+        "He's a chip off the old block"
+      ],
+      "right_items": [
+        "The son is like the father",
+        "Don't risk everything on one opportunity",
+        "Treat people fairly (The Golden Rule)",
+        "Money you save today you can spend later"
+      ],
+      "pairs": [
+        {"left": "A penny saved is a penny earned", "right": "Money you save today you can spend later"},
+        {"left": "Do unto others as you would have them do unto you", "right": "Treat people fairly (The Golden Rule)"},
+        {"left": "Don't put all your eggs in one basket", "right": "Don't risk everything on one opportunity"},
+        {"left": "He's a chip off the old block", "right": "The son is like the father"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "proverb_ref_mtf_9",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "Ignorance is bliss",
+        "There's a method to his madness",
+        "There's no such thing as a free lunch",
+        "You can't have your cake and eat it too"
+      ],
+      "right_items": [
+        "You can't have everything",
+        "Nothing is entirely free",
+        "He seems crazy but actually he's clever",
+        "Sometimes not knowing is better"
+      ],
+      "pairs": [
+        {"left": "Ignorance is bliss", "right": "Sometimes not knowing is better"},
+        {"left": "There's a method to his madness", "right": "He seems crazy but actually he's clever"},
+        {"left": "There's no such thing as a free lunch", "right": "Nothing is entirely free"},
+        {"left": "You can't have your cake and eat it too", "right": "You can't have everything"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "proverb_ref_mtf_10",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "A picture is worth a thousand words",
+        "It ain't over till the fat lady sings",
+        "It takes one to know one",
+        "Live and learn"
+      ],
+      "right_items": [
+        "I made a mistake (and learned from it)",
+        "You're just as bad as I am",
+        "This isn't over yet",
+        "Better to show than tell"
+      ],
+      "pairs": [
+        {"left": "A picture is worth a thousand words", "right": "Better to show than tell"},
+        {"left": "It ain't over till the fat lady sings", "right": "This isn't over yet"},
+        {"left": "It takes one to know one", "right": "You're just as bad as I am"},
+        {"left": "Live and learn", "right": "I made a mistake (and learned from it)"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "proverb_ref_mtf_11",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "There are other fish in the sea",
+        "He has bigger fish to fry",
+        "The devil is in the details",
+        "The elephant in the room"
+      ],
+      "right_items": [
+        "The big issue that people are avoiding",
+        "It looks good from a distance, but there are problems up close",
+        "He has more important things to take care of",
+        "It's okay to miss this opportunity; others will arise"
+      ],
+      "pairs": [
+        {"left": "There are other fish in the sea", "right": "It's okay to miss this opportunity; others will arise"},
+        {"left": "He has bigger fish to fry", "right": "He has more important things to take care of"},
+        {"left": "The devil is in the details", "right": "It looks good from a distance, but there are problems up close"},
+        {"left": "The elephant in the room", "right": "The big issue that people are avoiding"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "proverb_ref_mtf_12",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "Bite off more than you can chew",
+        "Comparing apples to oranges",
+        "Give someone the cold shoulder",
+        "Rain on someone's parade"
+      ],
+      "right_items": [
+        "To spoil something",
+        "Ignore someone",
+        "Comparing two things that cannot be compared",
+        "Take on a project that you cannot finish"
+      ],
+      "pairs": [
+        {"left": "Bite off more than you can chew", "right": "Take on a project that you cannot finish"},
+        {"left": "Comparing apples to oranges", "right": "Comparing two things that cannot be compared"},
+        {"left": "Give someone the cold shoulder", "right": "Ignore someone"},
+        {"left": "Rain on someone's parade", "right": "To spoil something"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "proverb_ref_mtf_13",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "On thin ice",
+        "Throw caution to the wind",
+        "Saving for a rainy day",
+        "Take a rain check"
+      ],
+      "right_items": [
+        "Postpone a plan",
+        "Saving money for later",
+        "Take a risk",
+        "On probation; if you make another mistake, there will be trouble"
+      ],
+      "pairs": [
+        {"left": "On thin ice", "right": "On probation; if you make another mistake, there will be trouble"},
+        {"left": "Throw caution to the wind", "right": "Take a risk"},
+        {"left": "Saving for a rainy day", "right": "Saving money for later"},
+        {"left": "Take a rain check", "right": "Postpone a plan"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "proverb_ref_mtf_14",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "The best thing since sliced bread",
+        "Go on a wild goose chase",
+        "Get a taste of your own medicine",
+        "Add insult to injury"
+      ],
+      "right_items": [
+        "To make a bad situation worse",
+        "Get treated the way you've been treating others",
+        "To do something pointless",
+        "A really good invention"
+      ],
+      "pairs": [
+        {"left": "The best thing since sliced bread", "right": "A really good invention"},
+        {"left": "Go on a wild goose chase", "right": "To do something pointless"},
+        {"left": "Get a taste of your own medicine", "right": "Get treated the way you've been treating others"},
+        {"left": "Add insult to injury", "right": "To make a bad situation worse"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "proverb_ref_mtf_15",
+      "type": "match_the_following",
+      "instruction": "Match the proverbs with their meanings",
+      "left_items": [
+        "A perfect storm",
+        "The best of both worlds",
+        "Time flies when you're having fun",
+        "We'll cross that bridge when we come to it"
+      ],
+      "right_items": [
+        "Let's not talk about that problem right now",
+        "You don't notice how long something lasts when it's fun",
+        "An ideal situation",
+        "The worst possible situation"
+      ],
+      "pairs": [
+        {"left": "A perfect storm", "right": "The worst possible situation"},
+        {"left": "The best of both worlds", "right": "An ideal situation"},
+        {"left": "Time flies when you're having fun", "right": "You don't notice how long something lasts when it's fun"},
+        {"left": "We'll cross that bridge when we come to it", "right": "Let's not talk about that problem right now"}
+      ],
+      "answers": "1-D, 2-C, 3-B, 4-A",
+      "source": "English Idioms Reference"
+    }
+  ],
+  "total_count": 15,
+  "subject": "English E1",
+  "chapter": "Worksheet"
+}

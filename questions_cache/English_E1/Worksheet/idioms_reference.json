@@ -1,0 +1,488 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "idiom_ref_1",
+      "question": "What does 'eager beaver' mean?",
+      "options": ["a lazy person", "very enthusiastic and hard-working", "someone who is angry", "a person who is always late"],
+      "answer": "very enthusiastic and hard-working",
+      "explanation": "'Eager beaver' means someone who is very enthusiastic and hard-working.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_2",
+      "question": "What does 'let the cat out of the bag' mean?",
+      "options": ["to release an animal", "reveal a secret", "to make someone angry", "to be very happy"],
+      "answer": "reveal a secret",
+      "explanation": "'Let the cat out of the bag' means to reveal a secret accidentally.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_3",
+      "question": "What does 'a red rag to a bull' mean?",
+      "options": ["a beautiful cloth", "say or do something that makes someone very angry", "to calm someone down", "a warning sign"],
+      "answer": "say or do something that makes someone very angry",
+      "explanation": "'A red rag to a bull' means to say or do something that makes someone very angry.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_4",
+      "question": "What does 'cut a long story short' mean?",
+      "options": ["to edit a story", "be precise", "to interrupt someone", "to tell a lie"],
+      "answer": "be precise",
+      "explanation": "'Cut a long story short' means to be precise or to tell something briefly.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_5",
+      "question": "What does 'be all ears' mean?",
+      "options": ["to have big ears", "listen very attentively", "to ignore someone", "to be deaf"],
+      "answer": "listen very attentively",
+      "explanation": "'Be all ears' means to listen very attentively.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_6",
+      "question": "What does 'barking up the wrong tree' mean?",
+      "options": ["a dog near a tree", "doing something that will not get the result you want", "to climb a tree", "to be very loud"],
+      "answer": "doing something that will not get the result you want",
+      "explanation": "'Barking up the wrong tree' means doing something that will not get the result you want.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_7",
+      "question": "What does 'break every rule in the book' mean?",
+      "options": ["to read a book", "do something unacceptable", "to follow all rules", "to destroy a book"],
+      "answer": "do something unacceptable",
+      "explanation": "'Break every rule in the book' means to do something unacceptable.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_8",
+      "question": "What does 'get on your high horse' mean?",
+      "options": ["to ride a tall horse", "behave haughtily", "to be humble", "to run fast"],
+      "answer": "behave haughtily",
+      "explanation": "'Get on your high horse' means to behave haughtily or act superior.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_9",
+      "question": "What does 'keep your nose to the grindstone' mean?",
+      "options": ["to hurt your nose", "keep working hard", "to stop working", "to be curious"],
+      "answer": "keep working hard",
+      "explanation": "'Keep your nose to the grindstone' means to keep working hard.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_10",
+      "question": "What does 'set the world on fire' mean?",
+      "options": ["to cause destruction", "do something remarkable", "to be ordinary", "to start a fire"],
+      "answer": "do something remarkable",
+      "explanation": "'Set the world on fire' means to do something remarkable or extraordinary.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_11",
+      "question": "What does 'like a bear with a sore head' mean?",
+      "options": ["have a secret laugh at someone's problems", "to be very friendly", "to be ill", "to be happy"],
+      "answer": "have a secret laugh at someone's problems",
+      "explanation": "'Like a bear with a sore head' means having a secret laugh at someone's problems or being very grumpy.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_12",
+      "question": "What does 'like a bull in a china shop' mean?",
+      "options": ["to be very careful", "do something without anyone's help or interference", "to shop for china", "to be gentle"],
+      "answer": "do something without anyone's help or interference",
+      "explanation": "'Like a bull in a china shop' means doing something clumsily without anyone's help or interference.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_13",
+      "question": "What does 'laugh up your sleeve' mean?",
+      "options": ["to laugh loudly", "go directly for something", "to hide your sleeve", "to cry secretly"],
+      "answer": "go directly for something",
+      "explanation": "'Laugh up your sleeve' means to secretly laugh at someone or go directly for something.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_14",
+      "question": "What does 'hold the fort' mean?",
+      "options": ["to build a fort", "do something in the wrong order", "take care of an organisation when the person in charge is away", "to surrender"],
+      "answer": "take care of an organisation when the person in charge is away",
+      "explanation": "'Hold the fort' means to take care of an organisation or business when the person in charge is away.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_15",
+      "question": "What does 'paddle one's own canoe' mean?",
+      "options": ["to go boating", "very irritated", "to ask for help", "to be independent"],
+      "answer": "very irritated",
+      "explanation": "'Paddle one's own canoe' means being very irritated or doing things independently.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_16",
+      "question": "What does 'put the cart before the horse' mean?",
+      "options": ["to arrange things properly", "do something in the wrong order", "to travel by cart", "to be in a hurry"],
+      "answer": "do something in the wrong order",
+      "explanation": "'Put the cart before the horse' means to do something in the wrong order.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_17",
+      "question": "What does 'on cloud nine' mean?",
+      "options": ["to be in the sky", "very happy", "to be sad", "to be confused"],
+      "answer": "very happy",
+      "explanation": "'On cloud nine' means to be extremely happy.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_18",
+      "question": "What does 'make a beeline for' mean?",
+      "options": ["to walk in a zigzag", "go directly for something", "to avoid something", "to walk slowly"],
+      "answer": "go directly for something",
+      "explanation": "'Make a beeline for' means to go directly for something.",
+      "source": "Chapter 23 - Word Power"
+    },
+    {
+      "id": "idiom_ref_19",
+      "question": "'Take the bull by the horns' means:",
+      "options": ["tame the bull by holding its horns", "handle the difficulty boldly", "to be afraid", "to run away"],
+      "answer": "handle the difficulty boldly",
+      "explanation": "'Take the bull by the horns' means to handle a difficult situation boldly and directly.",
+      "source": "Chapter 23 - Word Power (Exercise B)"
+    },
+    {
+      "id": "idiom_ref_20",
+      "question": "'Face the music' means:",
+      "options": ["take up music classes", "face the consequences of one's actions", "to sing a song", "to enjoy music"],
+      "answer": "face the consequences of one's actions",
+      "explanation": "'Face the music' means to face the consequences of one's actions.",
+      "source": "Chapter 23 - Word Power (Exercise B)"
+    },
+    {
+      "id": "idiom_ref_21",
+      "question": "'A dog in the manger' means:",
+      "options": ["keeping a watch over what is yours", "preventing someone from having or using what you yourself don't use", "a helpful person", "a friendly dog"],
+      "answer": "preventing someone from having or using what you yourself don't use",
+      "explanation": "'A dog in the manger' refers to someone who prevents others from having or using something that they themselves don't use.",
+      "source": "Chapter 23 - Word Power (Exercise B)"
+    },
+    {
+      "id": "idiom_ref_22",
+      "question": "'To keep one on their toes' means:",
+      "options": ["be ready to dance and walk on your toes", "be always ready to deal with anything that might happen", "to stand on tiptoes", "to exercise regularly"],
+      "answer": "be always ready to deal with anything that might happen",
+      "explanation": "'To keep one on their toes' means to be always ready to deal with anything that might happen.",
+      "source": "Chapter 23 - Word Power (Exercise B)"
+    },
+    {
+      "id": "idiom_ref_23",
+      "question": "'To be on the mend' means:",
+      "options": ["trying to be cheerful despite being ill", "on the path of recovery", "to repair something", "to be very sick"],
+      "answer": "on the path of recovery",
+      "explanation": "'To be on the mend' means to be on the path of recovery from an illness.",
+      "source": "Chapter 23 - Word Power (Exercise B)"
+    },
+    {
+      "id": "idiom_ref_24",
+      "question": "'Change horses in midstream' means:",
+      "options": ["prefer a fresh horse that is not tired", "make changes in an activity that has already begun", "to go swimming", "to change directions"],
+      "answer": "make changes in an activity that has already begun",
+      "explanation": "'Change horses in midstream' means to make changes in an activity that has already begun.",
+      "source": "Chapter 23 - Word Power (Exercise B)"
+    },
+    {
+      "id": "idiom_ref_25",
+      "question": "'Water off a duck's back' means:",
+      "options": ["a duck which is completely dry", "comments that have no effect on the listener", "to give a bath to a duck", "to be very wet"],
+      "answer": "comments that have no effect on the listener",
+      "explanation": "'Water off a duck's back' means comments or criticism that have no effect on the listener.",
+      "source": "Chapter 23 - Word Power (Exercise B)"
+    },
+    {
+      "id": "idiom_ref_26",
+      "question": "'Weather the storm' means:",
+      "options": ["succeed in keeping themselves away from the storm that is brewing", "succeed in overcoming a difficult situation", "to check the weather", "to stay indoors"],
+      "answer": "succeed in overcoming a difficult situation",
+      "explanation": "'Weather the storm' means to succeed in overcoming a difficult situation.",
+      "source": "Chapter 23 - Word Power (Exercise B)"
+    },
+    {
+      "id": "idiom_ref_27",
+      "question": "What does 'a blessing in disguise' mean?",
+      "options": ["something that is obviously good", "a good thing that seemed bad at first", "a hidden curse", "a gift in a box"],
+      "answer": "a good thing that seemed bad at first",
+      "explanation": "'A blessing in disguise' refers to something that seems bad initially but turns out to be good.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_28",
+      "question": "What does 'a dime a dozen' mean?",
+      "options": ["very expensive", "something common", "exactly twelve items", "very rare"],
+      "answer": "something common",
+      "explanation": "'A dime a dozen' means something that is very common and not particularly valuable.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_29",
+      "question": "What does 'beat around the bush' mean?",
+      "options": ["to garden", "avoid saying what you mean", "to hit bushes", "to speak directly"],
+      "answer": "avoid saying what you mean",
+      "explanation": "'Beat around the bush' means to avoid saying what you mean, usually because it is uncomfortable.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_30",
+      "question": "What does 'bite the bullet' mean?",
+      "options": ["to eat metal", "to get something over with because it is inevitable", "to be afraid", "to avoid problems"],
+      "answer": "to get something over with because it is inevitable",
+      "explanation": "'Bite the bullet' means to endure a painful situation or get something difficult over with because it is inevitable.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_31",
+      "question": "What does 'break a leg' mean?",
+      "options": ["to get injured", "good luck", "to be careful", "to run fast"],
+      "answer": "good luck",
+      "explanation": "'Break a leg' is an expression used to wish someone good luck, especially before a performance.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_32",
+      "question": "What does 'call it a day' mean?",
+      "options": ["to name the day", "stop working on something", "to start a new day", "to celebrate"],
+      "answer": "stop working on something",
+      "explanation": "'Call it a day' means to stop working on something, usually when you've done enough for one day.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_33",
+      "question": "What does 'cutting corners' mean?",
+      "options": ["trimming paper", "doing something poorly to save time or money", "being very precise", "making sharp turns"],
+      "answer": "doing something poorly to save time or money",
+      "explanation": "'Cutting corners' means doing something poorly or incompletely in order to save time or money.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_34",
+      "question": "What does 'get out of hand' mean?",
+      "options": ["to release something", "get out of control", "to wash hands", "to be organized"],
+      "answer": "get out of control",
+      "explanation": "'Get out of hand' means to become uncontrollable or unmanageable.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_35",
+      "question": "What does 'hang in there' mean?",
+      "options": ["to climb something", "don't give up", "to wait in a line", "to hang clothes"],
+      "answer": "don't give up",
+      "explanation": "'Hang in there' means don't give up; keep trying despite difficulties.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_36",
+      "question": "What does 'hit the sack' mean?",
+      "options": ["to punch a bag", "go to sleep", "to exercise", "to start working"],
+      "answer": "go to sleep",
+      "explanation": "'Hit the sack' means to go to bed or go to sleep.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_37",
+      "question": "What does 'it's not rocket science' mean?",
+      "options": ["it's about space", "it's not complicated", "it's very difficult", "it's scientific"],
+      "answer": "it's not complicated",
+      "explanation": "'It's not rocket science' means it's not complicated; it's easy to understand.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_38",
+      "question": "What does 'miss the boat' mean?",
+      "options": ["to not catch a boat", "it's too late", "to go sailing", "to be early"],
+      "answer": "it's too late",
+      "explanation": "'Miss the boat' means it's too late; you've missed your opportunity.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_39",
+      "question": "What does 'no pain, no gain' mean?",
+      "options": ["pain is bad", "you have to work for what you want", "avoid all pain", "exercise is painful"],
+      "answer": "you have to work for what you want",
+      "explanation": "'No pain, no gain' means you have to work hard and make sacrifices to achieve your goals.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_40",
+      "question": "What does 'on the ball' mean?",
+      "options": ["sitting on a ball", "doing a good job", "playing sports", "being lazy"],
+      "answer": "doing a good job",
+      "explanation": "'On the ball' means being alert, quick to understand, and doing a good job.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_41",
+      "question": "What does 'pull someone's leg' mean?",
+      "options": ["to hurt someone's leg", "to joke with someone", "to help someone walk", "to trip someone"],
+      "answer": "to joke with someone",
+      "explanation": "'Pull someone's leg' means to tease or joke with someone in a playful way.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_42",
+      "question": "What does 'speak of the devil' mean?",
+      "options": ["to talk about evil", "the person we were just talking about showed up", "to curse someone", "to pray"],
+      "answer": "the person we were just talking about showed up",
+      "explanation": "'Speak of the devil' is used when the person you were just talking about appears.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_43",
+      "question": "What does 'under the weather' mean?",
+      "options": ["outside in rain", "feeling sick", "checking the weather", "feeling great"],
+      "answer": "feeling sick",
+      "explanation": "'Under the weather' means feeling ill or unwell.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_44",
+      "question": "What does 'a bird in the hand is worth two in the bush' mean?",
+      "options": ["birds are valuable", "what you have is worth more than what you might have later", "hunting is fun", "birds live in bushes"],
+      "answer": "what you have is worth more than what you might have later",
+      "explanation": "This idiom means it's better to keep what you have than to risk losing it by trying to get something better.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_45",
+      "question": "What does 'actions speak louder than words' mean?",
+      "options": ["speaking is important", "believe what people do and not what they say", "actions are noisy", "words don't matter"],
+      "answer": "believe what people do and not what they say",
+      "explanation": "This idiom means that what people actually do is more important than what they say they will do.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_46",
+      "question": "What does 'birds of a feather flock together' mean?",
+      "options": ["birds fly in groups", "people who are alike are often friends", "feathers are similar", "birds are social"],
+      "answer": "people who are alike are often friends",
+      "explanation": "This idiom means people with similar interests, tastes, or characters tend to spend time together.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_47",
+      "question": "What does 'don't count your chickens before they hatch' mean?",
+      "options": ["count chickens carefully", "don't be overconfident about something that hasn't happened yet", "chickens are hard to count", "wait for eggs to hatch"],
+      "answer": "don't be overconfident about something that hasn't happened yet",
+      "explanation": "This idiom means don't assume something will happen before it actually does.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_48",
+      "question": "What does 'every cloud has a silver lining' mean?",
+      "options": ["clouds are beautiful", "good things come after bad things", "clouds are silver", "rain is coming"],
+      "answer": "good things come after bad things",
+      "explanation": "This idiom means that there is something positive in every negative situation.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_49",
+      "question": "What does 'hit the nail on the head' mean?",
+      "options": ["to do carpentry", "get something exactly right", "to miss the target", "to hurt yourself"],
+      "answer": "get something exactly right",
+      "explanation": "'Hit the nail on the head' means to describe exactly what is causing a situation or problem.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_50",
+      "question": "What does 'it's raining cats and dogs' mean?",
+      "options": ["animals are falling from the sky", "it's raining very hard", "pets are outside", "the weather is nice"],
+      "answer": "it's raining very hard",
+      "explanation": "'It's raining cats and dogs' means it's raining very heavily.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_51",
+      "question": "What does 'kill two birds with one stone' mean?",
+      "options": ["to hunt birds", "get two things done with a single action", "to be cruel", "to throw stones"],
+      "answer": "get two things done with a single action",
+      "explanation": "'Kill two birds with one stone' means to accomplish two goals with one effort.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_52",
+      "question": "What does 'look before you leap' mean?",
+      "options": ["check where you jump", "take only calculated risks", "jumping is dangerous", "look around often"],
+      "answer": "take only calculated risks",
+      "explanation": "'Look before you leap' means to think carefully about the possible risks before taking action.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_53",
+      "question": "What does 'once in a blue moon' mean?",
+      "options": ["when the moon is blue", "rarely", "every month", "frequently"],
+      "answer": "rarely",
+      "explanation": "'Once in a blue moon' means something that happens very rarely.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_54",
+      "question": "What does 'the ball is in your court' mean?",
+      "options": ["you have a ball", "it's your decision", "you're playing tennis", "the game is over"],
+      "answer": "it's your decision",
+      "explanation": "'The ball is in your court' means it's your turn to make a decision or take action.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_55",
+      "question": "What does 'the early bird gets the worm' mean?",
+      "options": ["birds eat worms", "the first people who arrive will get the best stuff", "wake up early", "worms are tasty"],
+      "answer": "the first people who arrive will get the best stuff",
+      "explanation": "This idiom means those who act early or arrive first have an advantage.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_56",
+      "question": "What does 'costs an arm and a leg' mean?",
+      "options": ["to lose body parts", "very expensive", "requires physical effort", "to be injured"],
+      "answer": "very expensive",
+      "explanation": "'Costs an arm and a leg' means something is very expensive.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_57",
+      "question": "What does 'spill the beans' mean?",
+      "options": ["to drop beans", "give away a secret", "to cook beans", "to make a mess"],
+      "answer": "give away a secret",
+      "explanation": "'Spill the beans' means to reveal secret information, usually accidentally.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_58",
+      "question": "What does 'take it with a grain of salt' mean?",
+      "options": ["add salt to food", "don't take it too seriously", "it's salty", "believe everything"],
+      "answer": "don't take it too seriously",
+      "explanation": "'Take it with a grain of salt' means to view something with skepticism or not take it too literally.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_59",
+      "question": "What does 'you can't judge a book by its cover' mean?",
+      "options": ["books have covers", "don't judge things by their appearance", "covers are important", "read the summary first"],
+      "answer": "don't judge things by their appearance",
+      "explanation": "This idiom means you shouldn't judge someone or something based only on outward appearance.",
+      "source": "English Idioms Reference"
+    },
+    {
+      "id": "idiom_ref_60",
+      "question": "What does 'break the ice' mean?",
+      "options": ["to crack ice", "make people feel more comfortable", "to start freezing", "to be cold"],
+      "answer": "make people feel more comfortable",
+      "explanation": "'Break the ice' means to initiate conversation or do something to make people feel more comfortable in a social situation.",
+      "source": "English Idioms Reference"
+    }
+  ],
+  "total_count": 60,
+  "subject": "English E1",
+  "chapter": "Worksheet"
+}

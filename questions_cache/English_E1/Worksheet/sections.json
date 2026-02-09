@@ -11,6 +11,10 @@
       {"value": "prepositions", "label": "Prepositions", "icon": "📍"},
       {"value": "conjunctions", "label": "Conjunctions", "icon": "🔗"}
     ],
+    "reference": [
+      {"value": "idioms_reference", "label": "Idioms (Reference)", "icon": "💬"},
+      {"value": "proverbs_reference", "label": "Proverbs (Reference)", "icon": "📜"}
+    ],
     "exam": [],
     "miscellaneous": []
   }
