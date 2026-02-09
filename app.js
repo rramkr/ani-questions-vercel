@@ -2497,6 +2497,27 @@ function renderOneByOneAnswer(question) {
         `;
     }
 
+    // For match the following
+    if (qType === 'match_the_following') {
+        const pairs = question.pairs || [];
+        const answersString = question.answers || '';
+        const answerLetters = answersString || pairs.map((p, i) => `${i + 1}-${String.fromCharCode(65 + i)}`).join(', ');
+
+        let matchesHtml = '';
+        if (pairs.length > 0) {
+            matchesHtml = pairs.map((p, i) => `<div>${i + 1}. ${p.left} → ${p.right}</div>`).join('');
+        }
+
+        return `
+            <div class="correct-answer">
+                <strong>Answer: ${answerLetters}</strong>
+                <div class="match-answers" style="margin-top: 10px;">
+                    ${matchesHtml}
+                </div>
+            </div>
+        `;
+    }
+
     // Default for text-based questions (short_answer, long_answer, textbook_qa, etc.)
     const justification = question.justification || question.explanation || '';
     const keyPoints = question.key_points || [];
