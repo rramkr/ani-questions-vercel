@@ -4,124 +4,124 @@
   "type": "textbook_qa",
   "questions": [
     {
-      "id": "tl_tq_1",
-      "question": "Describe the setting of the poem.",
-      "answer": "The poem is set at night in a lonely house deep in a forest. The Traveller arrives on horseback at a house with a moonlit door. The forest floor is covered with ferns ('ferny floor'). The house has a turret (small tower), a dark staircase, and an empty hall. Moonlight enters the house, creating faint moonbeams on the dark stair. The setting is isolated, mysterious, and creates an eerie, supernatural atmosphere perfect for the ghostly inhabitants.",
-      "key_points": ["Night time", "Lonely house in forest", "Moonlit door", "Ferny floor", "House has turret", "Dark stair", "Empty hall", "Eerie atmosphere"]
+      "id": "tl_tb_1a",
+      "question": "1(a) When and where does the action of the poem take place?",
+      "answer": "The action takes place at night, at a lonely house deep in a forest. The Traveller arrives on horseback at a moonlit door. The forest floor is covered with ferns ('ferny floor'), and the house has a turret (small tower) and a dark staircase leading to an empty hall.",
+      "source": "Textbook Comprehension Q1(a)"
     },
     {
-      "id": "tl_tq_2",
+      "id": "tl_tb_1b",
+      "question": "1(b) Which words or phrases tell us that the plants around the house are overgrown?",
+      "answer": "The words and phrases that tell us the plants are overgrown are: 'ferny floor' (the forest floor is covered in ferns), 'leaf-fringed sill' (the window sill is surrounded by leaves), and 'cropping the dark turf' (the horse eats the overgrown grass).",
+      "source": "Textbook Comprehension Q1(b)"
+    },
+    {
+      "id": "tl_tb_1c",
+      "question": "1(c) Which word from near the start of the poem suggests that this house is quite big and grand?",
+      "answer": "The word 'turret' suggests that this house is quite big and grand. A turret is a small tower that is part of a larger building, typically found on castles or grand old houses.",
+      "source": "Textbook Comprehension Q1(c)"
+    },
+    {
+      "id": "tl_tb_1d",
+      "question": "1(d) What is 'stirred and shaken' by the Traveller's shouts?",
+      "answer": "The air is 'stirred and shaken' by the Traveller's shouts. The poem says the phantom listeners stood 'Hearkening in an air stirred and shaken / By the lonely Traveller's call.'",
+      "source": "Textbook Comprehension Q1(d)"
+    },
+    {
+      "id": "tl_tb_1e",
+      "question": "1(e) Which lines tell us that the Traveller had made a promise that he would come to the house?",
+      "answer": "The lines that tell us the Traveller had made a promise are: 'Tell them I came, and no one answered, / That I kept my word.' These lines show he had promised someone he would come to this house.",
+      "source": "Textbook Comprehension Q1(e)"
+    },
+    {
+      "id": "tl_tb_1f",
+      "question": "1(f) Which word is repeated at the beginning and ending of the poem, and what impact does it have?",
+      "answer": "The word 'silence' is repeated (implied through 'stillness' at the start and 'silence surged softly backward' at the end). Also, the question 'Is there anybody there?' is asked twice. This repetition creates a circular structure and emphasizes the eerie, unanswered nature of the Traveller's visit. The silence at the end mirrors the silence at the beginning, showing nothing has changed despite his visit.",
+      "source": "Textbook Comprehension Q1(f)"
+    },
+    {
+      "id": "tl_tb_1g",
+      "question": "1(g) Which words are used to describe the following?\ni. the door\nii. the forest floor\niii. the sill\niv. the Traveller's eyes\nv. the house\nvi. the sky\nvii. the turf\nviii. the hoof",
+      "answer": "i. the door - 'moonlit' (moonlit door)\nii. the forest floor - 'ferny' (ferny floor)\niii. the sill - 'leaf-fringed' (leaf-fringed sill)\niv. the Traveller's eyes - 'grey' (grey eyes)\nv. the house - 'lone' and 'still' (lone house, still house)\nvi. the sky - 'starred and leafy' (starred and leafy sky)\nvii. the turf - 'dark' (dark turf)\nviii. the hoof - 'plunging' (plunging hoofs)",
+      "source": "Textbook Comprehension Q1(g)"
+    },
+    {
+      "id": "tl_tb_hots_h",
+      "question": "(HOTS) The poet has created a creepy atmosphere through his word choices and his use of imagery. Which words and images create a creepy atmosphere?",
+      "answer": "Words and images that create a creepy atmosphere include:\n- 'phantom listeners' - suggests ghosts\n- 'lone house' - isolated and abandoned\n- 'moonlit door' - eerie night lighting\n- 'dark stair' - shadowy and mysterious\n- 'shadowiness' - suggests darkness and mystery\n- 'stillness' and 'silence' - unnatural quiet\n- 'empty hall' - abandoned, no living presence\n- 'faint moonbeams' - dim, ghostly light\n- 'thronging' - crowded with unseen beings\n- 'strangeness' - supernatural feeling\n- The image of phantoms standing silently on a dark staircase listening to a human visitor creates a deeply unsettling atmosphere.",
+      "source": "Textbook Comprehension HOTS (h)"
+    },
+    {
+      "id": "tl_tb_hots_i",
+      "question": "(HOTS) The poem gives us clues about the characters in the poem. Fill in: What we know about The Traveller, The listeners, and 'Them' (line 27), with evidence from the poem.",
+      "answer": "**The Traveller:**\n- What we know: He is a man on horseback who came to keep a promise. He has grey eyes. He is persistent (knocks multiple times). He is honorable (keeps his word). He feels the supernatural presence.\n- Evidence: 'grey eyes', 'smote upon the door', 'I kept my word', 'he felt in his heart their strangeness'\n\n**The listeners:**\n- What we know: They are phantom/ghostly beings. There are many of them ('host'). They live in the house. They can hear but don't respond. They are completely still.\n- Evidence: 'phantom listeners', 'host', 'dwelt in the lone house', 'never the least stir made the listeners'\n\n**'Them' (line 27):**\n- What we know: They are the people the Traveller made his promise to. They were expected to be at the house. Their identity is mysterious - possibly the living people who once lived there or people waiting for news.\n- Evidence: 'Tell them I came', 'Tell them I kept my word'",
+      "source": "Textbook Comprehension HOTS (i)"
+    },
+    {
+      "id": "tl_tb_2",
+      "question": "2. What is the rhyme scheme of the poem?",
+      "answer": "The poem has an irregular rhyme scheme. It does not follow a strict pattern like ABAB or ABCD throughout. The rhymes appear at irregular intervals - for example: 'door/floor', 'head/said', 'Traveller/still', 'eyes/listeners'. Some lines rhyme in couplets (AA), some in alternate lines (ABAB), and some don't rhyme at all. This irregular scheme creates a sense of unease and mystery that matches the poem's supernatural theme.",
+      "source": "Textbook Learning About Poetry Q2"
+    },
+    {
+      "id": "tl_tb_3",
+      "question": "3. Which sentence most accurately describes the form and viewpoint of this poem?\na. This is a narrative poem written in the third person.\nb. This is a sonnet written in the third person.\nc. This is a narrative poem written in the first person.",
+      "answer": "a. This is a narrative poem written in the third person.\n\nThe poem tells a story (narrative) about a Traveller who visits a haunted house. It is written in the third person because the narrator refers to the main character as 'the Traveller', 'he', and 'his' rather than 'I' or 'we'. It is not a sonnet because it does not follow the 14-line sonnet structure.",
+      "source": "Textbook Learning About Poetry Q3"
+    },
+    {
+      "id": "tl_tb_4a",
+      "question": "4(a) Reference to Context: 'Where he stood perplexed and still.'\ni. Who is being described?\nii. Why is he perplexed?",
+      "answer": "i. The Traveller is being described.\n\nii. He is perplexed (confused and puzzled) because he had come to the house expecting to meet someone, but no one answers his knocking. He called out 'Is there anybody there?' but received no response. Despite sensing that someone (or something) is there - 'he felt in his heart their strangeness' - no one comes down to greet him or even looks out the window ('No head from the leaf-fringed sill / Leaned over and looked into his grey eyes'). This lack of response to his visit, despite his promise to come, leaves him confused.",
+      "source": "Textbook Comprehension Q4(a)"
+    },
+    {
+      "id": "tl_tb_4b",
+      "question": "4(b) Reference to Context: 'But only a host of phantom listeners / That dwelt in the lone house then / Stood listening in the quiet of the moonlight / To that voice from the world of men:'\ni. What could 'phantom listeners' refer to?\nii. How does the poet make the listeners seem like real people?\niii. Who is being referred to as 'that voice from the world of men'?",
+      "answer": "i. 'Phantom listeners' could refer to ghosts or spirits who inhabit the house. They may be the souls of people who once lived there and have now died. They could also represent supernatural beings or the mysterious presence of the dead who remain connected to the house.\n\nii. The poet makes the listeners seem like real people by:\n- Describing them as 'standing' and 'thronging' (crowding together) on the stair\n- Saying they 'dwelt' (lived) in the house\n- Describing them as 'listening' and 'hearkening' (paying attention)\n- Noting that they heard 'every word' the Traveller spoke\n- Showing they were aware of his departure (heard his foot on the stirrup)\n\niii. 'That voice from the world of men' refers to the Traveller. He is the only living human ('the one man left awake') in this supernatural scene. His voice represents the living world calling out to the world of the dead/spirits.",
+      "source": "Textbook Comprehension Q4(b)"
+    },
+    {
+      "id": "tl_tb_extra_1",
+      "question": "Describe the setting of the poem in detail.",
+      "answer": "The poem is set at night in a lonely house deep in a forest. The Traveller arrives on horseback at a house with a moonlit door. The forest floor is covered with ferns ('ferny floor'). The house has a turret (small tower), a dark staircase, and an empty hall. Moonlight enters the house, creating faint moonbeams on the dark stair. The setting is isolated, mysterious, and creates an eerie, supernatural atmosphere perfect for the ghostly inhabitants. The window has a 'leaf-fringed sill' suggesting overgrown vegetation. Outside, there is 'dark turf' and a 'starred and leafy sky'.",
+      "source": "Additional Question"
+    },
+    {
+      "id": "tl_tb_extra_2",
       "question": "Who was the Traveller and what did he do at the deserted house?",
       "answer": "The Traveller was a mysterious visitor who arrived on horseback at a deserted house in the forest at night. He had apparently made a promise to someone to come to this house. At the house, he knocked on the moonlit door multiple times and called out 'Is there anybody there?' When he received no answer despite knocking 'louder' and 'smote upon the door again a second time', he left a message for the unseen listeners, saying 'Tell them I came, and no one answered, Tell them I kept my word.' Then he mounted his horse and rode away into the darkness.",
-      "key_points": ["Mysterious visitor on horseback", "Came to keep a promise", "Knocked multiple times", "Called out asking if anyone was there", "Left a message about keeping his word", "Rode away"]
+      "source": "Additional Question"
     },
     {
-      "id": "tl_tq_3",
+      "id": "tl_tb_extra_3",
       "question": "Who were the 'listeners' in the poem? What details does the poet give about them?",
       "answer": "The listeners were phantom or ghostly beings who inhabited the lonely house. The poet provides several details about them: They were a 'host' (large number) of 'phantom listeners'. They 'dwelt' (lived) in the lone house. They stood 'thronging' (crowded together) on the dark stair in the faint moonbeams. They were completely still and silent - 'Never the least stir made the listeners'. They heard every word the Traveller spoke ('every word he spake fell echoing through the shadowiness'). They heard the sounds of his departure - his foot on the stirrup, the iron horseshoes on stone. Despite hearing everything, they never responded.",
-      "key_points": ["Phantom/ghostly beings", "Host = many in number", "Dwelt in lone house", "Stood on dark stair", "Completely still and silent", "Heard every word", "Never responded"]
+      "source": "Additional Question"
     },
     {
-      "id": "tl_tq_4",
-      "question": "Did anyone respond to the Traveller's call? What answer did he get?",
-      "answer": "No one responded to the Traveller's call. The only 'answer' he received was silence - 'Their stillness answering his cry.' Though the phantom listeners heard every word he spoke, they made 'never the least stir.' A bird flew out of the turret when he knocked, but this was just a startled bird, not a response. The Traveller sensed the supernatural presence - 'he felt in his heart their strangeness' - but received no spoken or visible response. The silence itself was the only answer.",
-      "key_points": ["No one responded", "Stillness was the only answer", "Listeners heard but didn't stir", "Bird flew out but wasn't a response", "Traveller sensed their presence but got no reply"]
-    },
-    {
-      "id": "tl_tq_5",
+      "id": "tl_tb_extra_4",
       "question": "What was the Traveller's message for 'them'? What does this tell us about the Traveller?",
       "answer": "The Traveller's message was: 'Tell them I came, and no one answered, Tell them I kept my word.' This message tells us several things about the Traveller. First, he is honorable and keeps his promises - he came as he said he would, even to this eerie, deserted place. Second, he is persistent - he knocked multiple times despite getting no answer. Third, he wants the people he promised to know that he fulfilled his commitment. Fourth, there is something lonely and perhaps tragic about him - he keeps faith with people who cannot or will not respond. The message suggests a man of integrity who values honor above personal comfort.",
-      "key_points": ["Message: I came, no one answered, I kept my word", "Shows he is honorable", "Keeps promises", "Persistent", "Wants to be known for keeping commitment", "Suggests loneliness and integrity"]
+      "source": "Additional Question"
     },
     {
-      "id": "tl_tq_6",
+      "id": "tl_tb_extra_5",
       "question": "Explain the contrast between the human world and the supernatural world in the poem.",
       "answer": "The poem creates a striking contrast between the human world (the Traveller) and the supernatural world (the phantom listeners). The human world is characterized by sound and action - the Traveller knocks, calls out, his horse champed grass, we hear iron horseshoes on stone. The supernatural world is characterized by stillness and silence - the listeners make 'never the least stir.' The human world is visible and physical; the supernatural is invisible - the hall appears 'empty' though listeners are there. The Traveller is 'the one man left awake' - alive, conscious, active; the phantoms seem to exist in a different state of being. Yet despite this contrast, there is awareness between worlds - the Traveller senses 'their strangeness' and the listeners hear his every word. The final image of silence 'surging softly backward' after the Traveller leaves suggests the supernatural world is permanent while human presence is temporary.",
-      "key_points": ["Human = sound and action", "Supernatural = stillness and silence", "Human = visible, physical", "Supernatural = invisible", "Traveller is alive and awake", "Phantoms exist differently", "Both worlds aware of each other", "Supernatural is permanent, human temporary"]
+      "source": "Additional Question"
     },
     {
-      "id": "tl_tq_7",
+      "id": "tl_tb_extra_6",
       "question": "What literary devices does Walter de la Mare use in this poem?",
-      "answer": "Walter de la Mare uses several literary devices: 1) Personification - 'silence surged softly backward' gives silence human qualities of movement. 'Stillness answering his cry' makes silence a responder. 2) Alliteration - 'silence surged softly' (s sounds), 'ferny floor' (f sounds), 'stood listening' creates musical effects. 3) Imagery - vivid descriptions like 'moonlit door', 'ferny floor', 'dark stair', 'faint moonbeams' create visual pictures. 4) Contrast - between sound/silence, human/supernatural, living/dead. 5) Symbolism - moonlight symbolizes the boundary between worlds; the lone house represents isolation and mystery. 6) Atmosphere - through careful word choice, creates an eerie, mysterious mood. 7) Rhetorical question - 'Is there anybody there?' emphasizes the loneliness and lack of response.",
-      "key_points": ["Personification - silence surging", "Alliteration - silence surged softly", "Imagery - moonlit door, dark stair", "Contrast - sound/silence, human/supernatural", "Symbolism - moonlight, lone house", "Eerie atmosphere", "Rhetorical question"]
+      "answer": "Walter de la Mare uses several literary devices:\n1) Personification - 'silence surged softly backward' gives silence human qualities of movement. 'Stillness answering his cry' makes silence a responder.\n2) Alliteration - 'silence surged softly' (s sounds), 'ferny floor' (f sounds) creates musical effects.\n3) Imagery - vivid descriptions like 'moonlit door', 'ferny floor', 'dark stair', 'faint moonbeams' create visual pictures.\n4) Contrast - between sound/silence, human/supernatural, living/dead.\n5) Symbolism - moonlight symbolizes the boundary between worlds; the lone house represents isolation and mystery.\n6) Atmosphere - through careful word choice, creates an eerie, mysterious mood.\n7) Rhetorical question - 'Is there anybody there?' emphasizes the loneliness.\n8) Epithets - compound words like 'leaf-fringed' to describe the sill.",
+      "source": "Additional Question"
     },
     {
-      "id": "tl_tq_8",
-      "question": "What mood or atmosphere does the poem create? How does the poet achieve this?",
-      "answer": "The poem creates an atmosphere of mystery, eeriness, loneliness, and the supernatural. The poet achieves this through several techniques. Setting: The lonely house in a dark forest at night immediately creates mystery. The ferny floor, turret, dark stairs, and empty hall add Gothic elements. Lighting: Moonlight creates an otherworldly glow, suggesting the boundary between natural and supernatural. Word choice: Words like 'phantom', 'shadowiness', 'stillness', 'strangeness' evoke the supernatural. Silence: The overwhelming silence despite the Traveller's calls creates tension. Unanswered questions: We never learn who the Traveller is, who 'they' are, or why he made a promise - mystery remains. The listeners: Their invisible, silent presence watching but never responding is deeply eerie. The ending: Silence 'surging back' suggests something supernatural remaining after the human leaves.",
-      "key_points": ["Mystery, eeriness, loneliness", "Gothic setting", "Moonlight creates otherworldly glow", "Supernatural word choice", "Overwhelming silence creates tension", "Unanswered questions", "Invisible listeners watching", "Silence returning at end"]
-    },
-    {
-      "id": "tl_tq_9",
-      "question": "What does 'smote upon the door' mean? Why did the Traveller do this?",
-      "answer": "'Smote upon the door' means he struck or knocked on the door forcefully. 'Smote' is the past tense of 'smite', an archaic word meaning to hit hard. The Traveller did this because he received no answer to his first knock. He knocked 'again a second time' and later 'louder', becoming more forceful in his attempts to get a response. His increasing force shows his determination to fulfill his promise and his frustration at the silence. He was certain someone should be there to receive him, and the lack of response puzzled him. The use of the word 'smote' instead of 'knocked' also adds to the dramatic, almost violent urgency of his action.",
-      "key_points": ["Smote means struck/knocked forcefully", "Past tense of smite", "Did it because no answer first time", "Knocked harder each time", "Shows determination and frustration", "Word 'smote' adds urgency"]
-    },
-    {
-      "id": "tl_tq_10",
-      "question": "What is the significance of the phrase 'the one man left awake'?",
-      "answer": "The phrase 'the one man left awake' is significant for several reasons. First, it emphasizes the Traveller's isolation - he is the only living, conscious human being in this eerie place. Second, it contrasts with the phantom listeners who are not truly alive or awake in the human sense - they exist in a different state. Third, the word 'awake' suggests consciousness and life, while the listeners are like sleepers or the dead who cannot respond. Fourth, 'left awake' might suggest he is the last survivor of some group, or the only one who remembers a promise. Fifth, it highlights the loneliness of the human condition - alone in a world of spirits and silence. The phrase powerfully captures the Traveller's situation: a single conscious being surrounded by supernatural presences.",
-      "key_points": ["Emphasizes Traveller's isolation", "Contrasts with phantom listeners", "Awake = conscious, alive", "Listeners like sleepers or dead", "Might be last survivor", "Highlights loneliness", "Single conscious being among spirits"]
-    },
-    {
-      "id": "tl_tq_11",
-      "question": "(HOTS) Why do you think the phantom listeners did not answer the Traveller? Give possible reasons.",
-      "answer": "There could be several reasons why the phantom listeners did not answer the Traveller. First, as supernatural beings, they may be unable to communicate with the living - a barrier exists between the spirit world and human world. Second, they might be ghosts of those who once lived in the house and made some arrangement with the Traveller, but being dead, they cannot fulfill it. Third, perhaps the listeners are bound to the house and can only observe, not interact with the physical world. Fourth, they might represent the unknowable mystery of death - the dead know we exist but cannot reach us. Fifth, their silence could be deliberate - perhaps they have reasons of their own for not responding. Sixth, they may represent the passage of time - everyone the Traveller knew here has died, and only phantoms remain. The ambiguity is intentional; the poet leaves it mysterious to make readers ponder the relationship between the living and the dead.",
-      "key_points": ["Unable to communicate with living", "Barrier between worlds", "Could be ghosts of original inhabitants", "Bound to house, can only observe", "Represent mystery of death", "Silence could be deliberate", "Everyone Traveller knew has died", "Ambiguity is intentional"]
-    },
-    {
-      "id": "tl_tq_12",
-      "question": "(HOTS) What promise do you think the Traveller had made? To whom had he made it?",
-      "answer": "The poem deliberately leaves this mysterious, but we can speculate. The Traveller might have promised to return to visit someone who once lived in this house - perhaps a loved one, family member, or close friend who has since died and become one of the phantom listeners. He might have promised to bring news or fulfill a task. Alternatively, he might have made a promise to the living who expected the house to be occupied - perhaps to deliver a message or complete a mission. The promise could be an old one from many years ago, and the Traveller has returned to find only phantoms where people once lived. Some interpretations suggest the Traveller represents someone returning to their own past - to a place and people now lost to time. The mystery of who 'they' are is central to the poem's power - it represents all the unfinished business between the living and the dead, all the promises we cannot fulfill because those we made them to are gone.",
-      "key_points": ["Deliberately mysterious", "Might have promised to visit someone", "Person may have died, become phantom", "Could be old promise from years ago", "House once had living people", "Traveller returning to past", "Represents unfinished business", "Promises to the dead we cannot fulfill"]
-    },
-    {
-      "id": "tl_tq_13",
-      "question": "Reference to Context: 'Is there anybody there?' said the Traveller, Knocking on the moonlit door. (i) Who is speaking? (ii) Where is this scene set? (iii) What response does the speaker receive?",
-      "answer": "(i) The Traveller is speaking. He is a mysterious visitor who has arrived on horseback at a deserted house in the forest to fulfill a promise.\n\n(ii) The scene is set at a lonely house deep in a forest at night. The door is illuminated by moonlight ('moonlit door'), the forest floor is covered with ferns, and the house has a turret. The setting is eerie and isolated.\n\n(iii) The speaker receives no response from any human being. A bird flies out of the turret, startled by the knocking. Inside the house, phantom listeners stand silently on the dark stair, but they make 'never the least stir.' The only 'answer' is their stillness - silence itself is the response.",
-      "key_points": ["Speaker: The Traveller", "Setting: Lonely house in forest at night", "Moonlit door", "Response: None from humans, only silence", "Bird flies out", "Phantoms listen but don't respond"]
-    },
-    {
-      "id": "tl_tq_14",
-      "question": "Reference to Context: 'Tell them I came, and no one answered, Tell them I kept my word,' said he. (i) Who are 'them'? (ii) What does 'kept my word' mean? (iii) What does this tell us about the speaker?",
-      "answer": "(i) 'Them' refers to the people the Traveller had made a promise to visit. Their identity is deliberately left mysterious - they could be former inhabitants of the house, now dead, or people living elsewhere who expected news from this visit. The mystery of who 'they' are adds to the poem's enigmatic quality.\n\n(ii) 'Kept my word' means that the Traveller fulfilled his promise. He had said he would come to this place, and despite the eerie silence and supernatural atmosphere, he came as promised. He wants it known that he is a man of his word.\n\n(iii) This tells us that the Traveller is honorable, trustworthy, and values keeping promises. He is persistent - he didn't give up despite no answer. He is brave - he stayed despite sensing the supernatural presence. He is lonely and perhaps tragic - keeping faith with people who cannot or will not respond. He represents integrity and duty.",
-      "key_points": ["Them = people he promised to visit (identity unknown)", "Kept my word = fulfilled promise", "Shows he is honorable", "Persistent", "Brave", "Lonely but faithful"]
-    },
-    {
-      "id": "tl_tq_15",
-      "question": "Reference to Context: 'But only a host of phantom listeners That dwelt in the lone house then Stood listening in the quiet of the moonlight.' (i) Who are the 'phantom listeners'? (ii) What does 'host' mean here? (iii) What were they doing?",
-      "answer": "(i) The phantom listeners are ghostly, supernatural beings who inhabit the lonely house. They are not living humans but spirits or ghosts. They can hear and observe but do not interact with the living world. They may be the ghosts of former inhabitants or supernatural entities.\n\n(ii) 'Host' means a large number or multitude. It tells us that there were many phantom listeners in the house, not just one or two. The house was full of these ghostly beings, crowded together on the dark stair.\n\n(iii) The phantom listeners were standing still on the dark staircase in the faint moonbeams, listening to the Traveller's calls. They heard every word he spoke, but they made no movement ('never the least stir') and gave no response. They were passive observers of the human visitor, unable or unwilling to respond.",
-      "key_points": ["Phantom listeners = ghosts/spirits", "Supernatural beings", "Host = large number", "Many phantoms in house", "Standing on dark stair", "Listening but not responding", "Silent observers"]
-    },
-    {
-      "id": "tl_tq_16",
-      "question": "Reference to Context: 'Ay, they heard his foot upon the stirrup, And the sound of iron on stone, And how the silence surged softly backward, When the plunging hoofs were gone.' (i) What sounds did 'they' hear? (ii) What is 'iron on stone'? (iii) What happened after the Traveller left?",
-      "answer": "(i) 'They' (the phantom listeners) heard several sounds: the Traveller's foot stepping into the stirrup as he mounted his horse, the sound of the horse's iron horseshoes striking the stone path as the horse began to move, and eventually the sound of the plunging (galloping) hoofs fading into the distance.\n\n(ii) 'Iron on stone' refers to the sound made by the horse's iron horseshoes striking the stone surface of the path or road as the Traveller rode away. Horseshoes were traditionally made of iron, and this sound would be distinctive on a hard stone surface.\n\n(iii) After the Traveller left, 'silence surged softly backward.' This personification describes how the silence returned to fill the space once the sounds of the horse and rider faded. The supernatural quiet of the house reclaimed the space. The human intrusion was temporary; the eternal silence of the phantom world was permanent. The image suggests that the spirit world patiently waited and then returned to its natural state once the living visitor departed.",
-      "key_points": ["Sounds: foot on stirrup, horseshoes on stone, hoofs fading", "Iron on stone = horseshoes on path", "After departure: silence returned", "Personification of silence", "Spirit world reclaimed space"]
-    },
-    {
-      "id": "tl_tq_17",
+      "id": "tl_tb_extra_7",
       "question": "What themes are explored in 'The Listeners'?",
-      "answer": "The poem explores several profound themes. 1) The Unknown/Unknowable: The poem suggests realms of existence beyond human perception - the spirit world we can sense but not see or understand. 2) Loneliness and Isolation: The Traveller is 'the one man left awake,' alone among spirits. The lone house represents isolation. 3) Keeping Promises and Honor: The Traveller fulfills his commitment despite receiving no acknowledgment, suggesting promises have value in themselves. 4) Communication Failure: The Traveller tries to reach the listeners but cannot - representing how we cannot truly communicate with the dead or unknown. 5) Boundary Between Life and Death: The poem explores the divide between the living and dead - aware of each other but unable to interact. 6) Memory and the Past: The house with its phantoms represents a place where something significant happened - the past lingers as ghosts. 7) Mystery: The poem celebrates mystery itself, leaving questions unanswered.",
-      "key_points": ["Unknown and unknowable", "Loneliness and isolation", "Keeping promises and honor", "Communication failure", "Boundary between life and death", "Memory and the past", "Mystery celebrated"]
-    },
-    {
-      "id": "tl_tq_18",
-      "question": "Explain the significance of the horse in the poem.",
-      "answer": "The horse in the poem serves several important functions. First, it establishes the setting - the Traveller is on horseback, suggesting a time before cars, adding to the timeless, mysterious quality. Second, the horse provides realistic, earthly sounds that contrast with the supernatural silence: it 'champed the grasses' (ate), and its iron shoes ring on stone. These sounds anchor the poem in the physical world. Third, the horse's ordinary behavior (eating grass while waiting) highlights how strange the situation is - a normal creature in an abnormal place. Fourth, the sounds of departure (foot on stirrup, plunging hoofs) create a vivid picture of the Traveller leaving. Fifth, the horse connects this poem to the tradition of mysterious riders in English literature - think of knights errant or messengers on urgent quests. The horse makes the Traveller more dramatic and romantic. Finally, the silence after the 'plunging hoofs were gone' emphasizes the return of the supernatural quiet.",
-      "key_points": ["Establishes time period", "Provides earthly sounds", "Contrasts with silence", "Normal creature in strange place", "Creates vivid departure", "Connects to literary tradition", "Dramatic and romantic element"]
-    },
-    {
-      "id": "tl_tq_19",
-      "question": "What happens in the end of the poem? What is the significance of the ending?",
-      "answer": "At the end of the poem, the Traveller, having received no answer, leaves a message for the phantom listeners to pass on ('Tell them I came, and no one answered, Tell them I kept my word'). He then mounts his horse and rides away. The phantom listeners hear his departure - his foot on the stirrup, the iron horseshoes on stone, the plunging hoofs. Then 'the silence surged softly backward' once the hoofs are gone. The significance of this ending is profound: 1) The Traveller accepts that he will receive no answer and moves on - sometimes we must accept mystery without resolution. 2) He has done his duty - kept his promise - regardless of response. 3) The silence returning shows the supernatural world is permanent while human presence is fleeting. 4) Nothing is truly resolved - we never learn who he visited or why, maintaining mystery. 5) The image of silence 'surging back' personifies silence as a powerful force, suggesting the spirit world reclaiming its territory.",
-      "key_points": ["Traveller leaves message and rides away", "Listeners hear his departure", "Silence returns", "Accepts mystery without resolution", "Duty done regardless of response", "Supernatural is permanent, human is fleeting", "Nothing resolved - mystery maintained"]
-    },
-    {
-      "id": "tl_tq_20",
-      "question": "Why is the poem titled 'The Listeners'? Why not 'The Traveller'?",
-      "answer": "The poem is titled 'The Listeners' rather than 'The Traveller' for several important reasons. First, the listeners represent the mystery at the heart of the poem - they are the unknown element that creates the eerie atmosphere. The Traveller is human and understandable; the listeners are supernatural and mysterious. Second, the title focuses our attention on the response (or lack of it) rather than the action. It's about those who hear but don't answer. Third, the listeners are the permanent inhabitants while the Traveller is just passing through - the poem is ultimately about this haunted house and its ghostly occupants. Fourth, by titling it 'The Listeners,' the poet emphasizes the silence and stillness - listeners are those who hear but don't speak. Fifth, it creates intrigue - readers wonder who these listeners are before they even start the poem. Finally, the listeners represent something universal: all the silent witnesses to our lives, all those who observe but remain unknowable - perhaps death itself.",
-      "key_points": ["Listeners are the mystery", "Focuses on response, not action", "Listeners are permanent, Traveller passing through", "Emphasizes silence - listeners hear but don't speak", "Creates intrigue", "Represent universal mystery - silent witnesses to life"]
+      "answer": "The poem explores several profound themes:\n1) The Unknown/Unknowable: The poem suggests realms of existence beyond human perception - the spirit world we can sense but not see or understand.\n2) Loneliness and Isolation: The Traveller is 'the one man left awake,' alone among spirits. The lone house represents isolation.\n3) Keeping Promises and Honor: The Traveller fulfills his commitment despite receiving no acknowledgment.\n4) Communication Failure: The Traveller tries to reach the listeners but cannot - representing how we cannot truly communicate with the dead.\n5) Boundary Between Life and Death: The poem explores the divide between the living and dead - aware of each other but unable to interact.\n6) Memory and the Past: The house with its phantoms represents a place where something significant happened - the past lingers as ghosts.\n7) Mystery: The poem celebrates mystery itself, leaving questions unanswered.",
+      "source": "Additional Question"
     }
   ]
 }

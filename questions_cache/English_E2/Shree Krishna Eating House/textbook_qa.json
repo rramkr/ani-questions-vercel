@@ -4,124 +4,159 @@
   "type": "textbook_qa",
   "questions": [
     {
-      "id": "skeh_tq_1",
-      "question": "In what ways was the Sri Krishna Eating House different from the restaurants in Thul?",
-      "answer": "The Sri Krishna Eating House was the meanest and shabbiest restaurant Hari had ever seen. In contrast, the cafes in Thul were pleasanter - they were usually wooden shacks built in the shade of a mango or frangipani tree, with marigolds and hibiscus in an old ink bottle for a vase, coloured bottles of aerated drinks attractively arranged on shelves, and possibly a bright picture of a god or goddess with a tinsel garland. The Sri Krishna Eating House didn't even have a coloured picture of Krishna on the wall - just layers of grime and soot, cobwebs on the ceiling, and black floors and tables from soot.",
-      "key_points": ["Thul cafes: pleasant wooden shacks", "Had flowers, colored bottles, pictures of gods", "Sri Krishna: meanest and shabbiest", "No decorations, covered in grime and soot"]
+      "id": "skeh_tb_1a",
+      "question": "1(a) In what ways was the Sri Krishna Eating House different from the restaurants in Thul?",
+      "answer": "The Sri Krishna Eating House was the meanest and shabbiest restaurant Hari had ever seen. In contrast, the cafes in Thul were pleasanter - they were usually wooden shacks built in the shade of a mango or frangipani tree, with a handful of marigolds and hibiscus crammed into an old ink bottle for a vase, coloured bottles of aerated drinks attractively arranged on the shelves, and possibly a bright picture of a god or goddess on the wall with a tinsel garland around the frame and heavily scented joss sticks burning before it. The Sri Krishna Eating House did not have even so much as a coloured picture of Krishna glued to the wall - just layers of grime and soot covering the walls, cobwebs on the ceiling that trapped soot making it look like a furry blanket, and black floors and tables from soot.",
+      "source": "Textbook Comprehension Q1(a)"
     },
     {
-      "id": "skeh_tq_2",
-      "question": "What kind of people came to eat at the Sri Krishna Eating House? Why did they come to this particular restaurant?",
-      "answer": "The customers were beggars and coolies who had stopped in between carrying their loads - sacks of coal and cylinders of gas - and cart-pullers who dragged goods through the city on long wooden hand-drawn carts. They came to this restaurant because it was certainly the cheapest restaurant anyone could possibly find in Bombay - even a beggar could afford to buy himself a meal here. These people had no fixed working hours and needed an affordable place to eat at any time.",
-      "key_points": ["Beggars and coolies", "Cart-pullers", "People with no fixed working hours", "Cheapest restaurant in Bombay", "Even beggars could afford it"]
+      "id": "skeh_tb_1b",
+      "question": "1(b) What kind of people came to eat at the Sri Krishna Eating House? Why did they come to this particular restaurant?",
+      "answer": "The customers were beggars and coolies who had stopped in between carrying their loads - sacks of coal and cylinders of gas - and cart-pullers who dragged goods through the city on long wooden hand-drawn carts. These people seemed to have no fixed working hours - before daylight there were some waiting for a meal who were given the leftovers of the night before, and the last came in after midnight when the whole city seemed to collapse into exhausted, disturbed sleep. They came to this particular restaurant because it was certainly the cheapest restaurant anyone could possibly find in Bombay - even a beggar could afford to buy himself a meal here.",
+      "source": "Textbook Comprehension Q1(b)"
     },
     {
-      "id": "skeh_tq_3",
-      "question": "Why was the restaurant in such a dilapidated condition?",
-      "answer": "The restaurant was in a dilapidated condition because the owner had no time to sweep or clean it and no money to decorate it with pictures and flowers. He worked hard himself all day and had two boys to help him knead the dough and bake chapatis over open fires which they kept lit day and night. The customers came at all hours - some before daylight for leftovers of the night before, and some after midnight - so there was never any time for maintenance.",
-      "key_points": ["Owner had no time to clean", "No money to decorate", "Worked all day", "Customers at all hours", "Fires kept lit day and night"]
+      "id": "skeh_tb_1c",
+      "question": "1(c) Why was the restaurant in such a dilapidated condition?",
+      "answer": "The restaurant was in a dilapidated condition because the owner had no time to sweep or clean it and no money to decorate it with pictures and flowers. He worked hard himself all day and had two boys to help him knead the dough in huge pans, roll out the chapatis and bake them over open fires which they kept lit day and night. The customers came at all hours - some before daylight for leftovers of the night before, and some after midnight - so there was never any time for maintenance or cleaning.",
+      "source": "Textbook Comprehension Q1(c)"
     },
     {
-      "id": "skeh_tq_4",
-      "question": "Why did the two boys in the kitchen not speak to Hari?",
-      "answer": "The two boys did not speak to Hari because they spoke only Tamil, a language Hari did not know. They did not seem to know any Hindi or Marathi, the two languages Hari knew. So there was silence between them. Also, they were neither friendly nor inquisitive about him - they were simply too tired and too sad to speak. They worked so hard in such heat that no one seemed to have the strength or the time to talk.",
-      "key_points": ["Boys spoke only Tamil", "Hari knew Hindi and Marathi", "Language barrier", "Too tired and sad to speak", "Hard work in heat left no strength for talking"]
+      "id": "skeh_tb_1d",
+      "question": "1(d) Why did the two boys in the kitchen not speak to Hari?",
+      "answer": "The two boys did not speak to Hari because they spoke only Tamil, a language Hari did not know. When the boys finally did say something to each other, Hari realized it was in Tamil, a language he did not know. Nor did they seem to know any Hindi or Marathi, the two languages Hari knew. So there was silence between them. They were in any case neither friendly nor inquisitive about him, or else they were simply too tired and too sad to speak.",
+      "source": "Textbook Comprehension Q1(d)"
     },
     {
-      "id": "skeh_tq_5",
-      "question": "Why did Hari like talking to the old man in the watch shop?",
-      "answer": "Hari liked talking to the old watchmaker because the man proved to be friendly. He looked so much like Sayyid Ali, the man who had spoken so well at the meeting by the Black Horse in Thul, that Hari instantly felt here was another fine and impressive man whom he could trust and who would understand him and try to help him. The watchmaker was kind, showed interest in Hari, and helped him by telling him where the post office was and lending him money for a postcard.",
-      "key_points": ["Watchmaker was friendly", "Reminded him of Sayyid Ali from village", "Felt he could trust him", "Watchmaker showed kindness and helped him"]
+      "id": "skeh_tb_1e",
+      "question": "1(e) Why did Hari like talking to the old man in the watch shop?",
+      "answer": "Hari liked talking to the old watchmaker because the man proved to be friendly. The old man looked so much like Sayyid Ali, the man who had spoken so well at the meeting by the Black Horse in Thul, that Hari instantly felt here was another fine and impressive man whom he could trust and who would understand him and try to help him. The watchmaker smiled at Hari, showed interest in him by asking questions, and helped him by telling him where the post office was and offering to lend him money for a postcard.",
+      "source": "Textbook Comprehension Q1(e)"
     },
     {
-      "id": "skeh_tq_6",
-      "question": "What does the phrase 'stared open-mouthed' suggest?",
-      "answer": "The phrase 'stared open-mouthed' suggests that Hari was amazed and astonished. He stood on the pavement staring open-mouthed at all the clocks that hung tick-tocking on the walls and the watches that glittered in the showcases. Coming from a small village like Thul, he had never seen so many timepieces in one place, and it filled him with wonder and fascination.",
-      "key_points": ["Suggests amazement and astonishment", "Wonder at seeing many clocks and watches", "Shows Hari's inexperience of city life"]
+      "id": "skeh_tb_1f",
+      "question": "1(f) What does the phrase 'stared open-mouthed' suggest?",
+      "answer": "The phrase 'stared open-mouthed' suggests that Hari was amazed and astonished. He stood on the pavement staring open-mouthed at all the clocks that hung tick-tocking on the walls and the watches that glittered in the showcases. Coming from a small village like Thul, he had never seen so many timepieces in one place, and it filled him with wonder and fascination. The phrase indicates complete surprise and awe.",
+      "source": "Textbook Comprehension Q1(f)"
     },
     {
-      "id": "skeh_tq_7",
-      "question": "Why was the owner of the watch shop 'more likely' to have a pen?",
-      "answer": "The watchmaker was more likely to have a pen than the owner of the eating house because he was an educated man who ran a technical repair business. He needed to write receipts, make notes about watch repairs, and keep records. In contrast, Jagu, the eating house owner, was too busy with manual work - cooking, kneading dough, and serving customers - and probably had little need or use for writing implements in his line of work.",
-      "key_points": ["Watchmaker was educated", "Needed pen for business records", "Eating house owner did manual work", "Different nature of their businesses"]
+      "id": "skeh_tb_1g",
+      "question": "1(g) Why was the owner of the watch shop 'more likely' to have a pen?",
+      "answer": "The watchmaker was more likely to have a pen than the owner of the eating house because he was an educated man who ran a technical repair business. He needed to write receipts, make notes about watch repairs, and keep records. The story says Hari 'returned to the watchmaker who seemed more likely to have one than the owner of the eating house.' In contrast, Jagu, the eating house owner, was too busy with manual work - cooking, kneading dough, and serving customers - and there was no one in the shop during the sweltering afternoon when even the two orphans had fallen asleep under the table from heat and exhaustion.",
+      "source": "Textbook Comprehension Q1(g)"
     },
     {
-      "id": "skeh_tq_8",
-      "question": "(HOTS) What made Hari both frightened and happy? What other feelings might he be experiencing? Why?",
-      "answer": "Hari felt both happy and frightened when he wrote the postcard to his mother. He was happy because he had done what he knew he should do - inform his family that he was safe and had found work. He was frightened because sending the postcard meant he would be staying on in Bombay, not going home. Other feelings he might be experiencing include: loneliness (being far from family), anxiety (about his sick mother and drunk father), pride (in finding work and being independent), guilt (for leaving his sisters), hope (that he could earn money to help his family), and determination (to succeed despite difficulties).",
-      "key_points": ["Happy: did the right thing, informed family", "Frightened: decision to stay in Bombay", "Other feelings: loneliness, anxiety, pride, guilt, hope, determination"]
+      "id": "skeh_tb_hots_h",
+      "question": "(HOTS) 1(h) What made Hari both frightened and happy? What other feelings might he be experiencing? Why?",
+      "answer": "Hari felt both happy and frightened when he wrote the postcard to his mother. He was happy because he had done what he knew he should do - inform his family that he was safe and had found work. He felt he had fulfilled his duty to let his mother know where he was.\n\nHe was frightened because sending the postcard meant he would be staying on in Bombay, not going home. It made his decision to leave permanent and real.\n\n**Other feelings he might be experiencing:**\n- **Loneliness** - being far from family in a strange city\n- **Anxiety** - about his sick mother and drunk father back home\n- **Pride** - in finding work and being independent\n- **Guilt** - for leaving his sisters to cope alone\n- **Hope** - that he could earn money to help his family\n- **Determination** - to succeed despite the difficult circumstances\n- **Homesickness** - missing his village Thul and his family",
+      "source": "Textbook HOTS Q1(h)"
     },
     {
-      "id": "skeh_tq_9",
-      "question": "(HOTS) In what ways was Jagu, the owner of the shop, kind? What do you think of the way he treated the boys who worked for him?",
-      "answer": "Jagu showed kindness in several ways: He gave Hari food (tea and chapati) without being asked. He offered Hari a job when Hari said he had no money. He took in the two Tamil orphan boys whose parents were killed in a railway accident, giving them food, shelter, and work. He was described as 'a silent man' but 'good to many.' However, his treatment of the boys can be viewed critically: They worked extremely hard in terrible conditions with heat and no rest. They were paid only one rupee a day. They seemed 'too tired and too sad to speak.' While Jagu was kind compared to leaving them homeless, the working conditions were harsh. The author shows a complex picture - Jagu does what he can within his own limited means, but the system exploits children.",
-      "key_points": ["Kind: gave food, offered job, took in orphans", "Called 'good to many'", "Critical view: hard conditions, low pay", "Boys exhausted and sad", "Complex picture of kindness within harsh circumstances"]
+      "id": "skeh_tb_hots_i",
+      "question": "(HOTS) 1(i) In what ways was Jagu, the owner of the shop, kind? What do you think of the way he treated the boys who worked for him?",
+      "answer": "**Jagu's kindness:**\n- He gave Hari food (a tumbler of tea and a rolled-up chapati) without being asked and without expecting payment\n- He offered Hari a job when Hari said he had no money to pay for the food\n- He took in the two Tamil orphan boys whose parents were killed in a railway accident, giving them food, shelter, and work\n- The watchmaker described him as 'a silent man' but 'good to many'\n- He found the orphaned boys as he was coming to work and 'brought them here straightaway and gave them food and shelter and work, too'\n\n**Critical view of his treatment:**\nWhile Jagu was kind in taking these boys in, the working conditions were harsh:\n- They worked extremely hard in terrible heat with no rest\n- They were paid only one rupee a day\n- They seemed 'too tired and too sad to speak'\n- There was so much work and such heat that 'no one ever seemed to have the strength or the time to talk'\n\nThe author presents a complex picture - Jagu does what he can within his own limited means (he himself works hard all day), but the system still exploits children. His kindness is genuine but exists within harsh circumstances.",
+      "source": "Textbook HOTS Q1(i)"
     },
     {
-      "id": "skeh_tq_10",
-      "question": "'But the Sri Krishna Eating House did not have even so much as a coloured picture of Krishna glued to the wall.' What does this mean?",
-      "answer": "This means that the Sri Krishna Eating House had absolutely no pictures on the wall - not even a simple, inexpensive coloured picture of Lord Krishna (after whom the restaurant was named). The sentence emphasizes just how bare and undecorated the place was. Even the most basic decoration that one would expect in an Indian restaurant - a picture of a god - was absent. If there had ever been one, it had disappeared under the layers of grime and soot that coated the walls.",
-      "key_points": ["Restaurant had no pictures at all", "Not even a basic picture of Krishna", "Emphasizes extreme bareness", "Any picture would have been covered by grime anyway"]
+      "id": "skeh_tb_mcq_2a",
+      "question": "2(a) Select the best answer: 'But the Sri Krishna Eating House did not have even so much as a coloured picture of Krishna glued to the wall.' This means:",
+      "options": [
+        "i. the Sri Krishna Eating House had many pictures on the walls.",
+        "ii. it had some pictures on the wall.",
+        "iii. it had very few pictures on the wall.",
+        "iv. it had no pictures on the wall."
+      ],
+      "answer": "iv. it had no pictures on the wall.\n\nThe phrase 'did not have even so much as' emphasizes that the restaurant had absolutely nothing - not even the most basic decoration like a simple picture of Krishna (after whom the restaurant was named). If there had ever been one, it had disappeared under the layers of grime and soot that coated the walls.",
+      "source": "Textbook MCQ Q2(a)"
     },
     {
-      "id": "skeh_tq_11",
-      "question": "'The floor and the wooden tables were all black, too, since they all got an even share of soot from the open stoves.' What does this mean?",
-      "answer": "This means that not only the floor but also the wooden tables were completely black with soot. The soot came from the open stoves where food was cooked all day and night. Since the stoves were open fires (not enclosed), the soot spread everywhere in the small space, coating all surfaces equally - hence 'an even share of soot.' This shows the unhygienic and grimy conditions of the eating house where everything was covered in black soot from constant cooking.",
-      "key_points": ["Floor and tables black with soot", "Soot from open cooking stoves", "Everything got equally covered", "Shows unhygienic conditions"]
+      "id": "skeh_tb_mcq_2b",
+      "question": "2(b) Select the best answer: 'The floor and the wooden tables were all black, too, since they all got an even share of soot from the open stoves.' This means:",
+      "options": [
+        "i. not only the floor, but also the tables were black with soot.",
+        "ii. everything in the place got the same amount of soot.",
+        "iii. the stove, too, was black with soot, apart from everything else."
+      ],
+      "answer": "i. not only the floor, but also the tables were black with soot.\n\nThe sentence emphasizes that both the floor AND the wooden tables were black with soot. The phrase 'an even share of soot' means everything got equally covered because the open stoves spread soot throughout the small space during the constant cooking day and night.",
+      "source": "Textbook MCQ Q2(b)"
     },
     {
-      "id": "skeh_tq_12",
-      "question": "'These people seemed to have no fixed working hours.' What does this mean?",
-      "answer": "This means that the customers (beggars, coolies, and cart-pullers) did not have regular 9-to-5 jobs with set schedules. They worked whenever they could find work - some before daylight, some late at night, some in between carrying loads. They had no employers giving them fixed schedules. They came to eat at the restaurant at all different hours because their irregular work meant they were hungry at irregular times. This is why the restaurant was always open and the owner had no time to clean.",
-      "key_points": ["Customers had irregular jobs", "No set work schedules", "Came to eat at all hours", "This kept the restaurant always busy"]
+      "id": "skeh_tb_mcq_2c",
+      "question": "2(c) Select the best answer: 'These people seemed to have no fixed working hours.' This means:",
+      "options": [
+        "i. the people had no fixed working hours.",
+        "ii. the people pretended to have no working hours.",
+        "iii. the people appeared to have no fixed working hours, but in fact they did.",
+        "iv. the people had fixed working hours."
+      ],
+      "answer": "i. the people had no fixed working hours.\n\nThe customers (beggars, coolies, and cart-pullers) did not have regular 9-to-5 jobs with set schedules. They worked whenever they could find work - some came before daylight, some late at night, some in between carrying loads. 'Seemed to' here confirms the observation that they genuinely had irregular schedules, not that it was just an appearance.",
+      "source": "Textbook MCQ Q2(c)"
     },
     {
-      "id": "skeh_tq_13",
-      "question": "'They did not speak to each other as they worked.' What does this mean?",
-      "answer": "This means that Hari and the two Tamil boys worked in complete silence. They didn't chat or have conversations while working. There are two reasons: first, there was a language barrier (they spoke Tamil, Hari spoke Hindi/Marathi). Second, they worked so hard in such heat that they simply grunted and sweated - no one had the strength or time to talk. The work was exhausting and the conditions were harsh. This silence emphasizes the difficult working conditions and the isolation Hari felt.",
-      "key_points": ["Worked in complete silence", "Language barrier", "Too exhausted to talk", "Harsh working conditions"]
+      "id": "skeh_tb_mcq_2d",
+      "question": "2(d) Select the best answer: 'They did not speak to each other as they worked.' This means:",
+      "options": [
+        "i. they worked so hard, they had no time to speak.",
+        "ii. while they worked, they did not speak.",
+        "iii. because they were working, they could not speak.",
+        "iv. they were not allowed to speak as they worked."
+      ],
+      "answer": "i. they worked so hard, they had no time to speak.\n\nThe story explains that 'There was so much work and such heat in that small place that no one ever seemed to have the strength or the time to talk.' The boys and Hari worked in complete silence because they were exhausted from the hard work and heat. Also, there was a language barrier (Tamil vs Hindi/Marathi), but the main reason given is the exhausting nature of the work.",
+      "source": "Textbook MCQ Q2(d)"
     },
     {
-      "id": "skeh_tq_14",
-      "question": "Reference to Context: 'The Sri Krishna Eating House was the meanest and shabbiest restaurant Hari had ever seen.' (i) In what way was the restaurant 'the meanest'? What does this mean? (ii) Why was Hari there?",
-      "answer": "(i) 'Meanest' here means the most shabby, the most dilapidated, the lowest quality. The restaurant had no decorations, walls covered in grime and soot, cobwebs on the ceiling making it look like a furry blanket, black floors and tables from soot, and food cooked over open stoves in poor conditions. It was the poorest, most run-down eating place Hari had seen - even the simple cafes in his village Thul were nicer.\n\n(ii) Hari was there because a kind watchman from a big building on a hill had brought him to Bombay to find work and earn money. Hari had left his village Thul because his mother was very ill, his father was drunk most of the time, and he felt it was his duty to care for his family by earning money. He knew no one in the big city, and the watchman took him to this restaurant where he could get food and work.",
-      "key_points": ["Meanest = most shabby/dilapidated", "Covered in grime, soot, cobwebs", "Hari came to earn money for family", "Mother ill, father drunk", "Watchman brought him there"]
+      "id": "skeh_tb_rtc_3a",
+      "question": "3(a) Reference to Context: 'The Sri Krishna Eating House was the meanest and shabbiest restaurant Hari had ever seen.'\ni. In what way was the restaurant 'the meanest'? What does this mean?\nii. Why was Hari there?",
+      "answer": "**i. In what way was the restaurant 'the meanest'? What does this mean?**\n'Meanest' here means the most shabby, the most dilapidated, the lowest quality - the poorest and most run-down. The restaurant had:\n- Walls covered in layers of grime and soot\n- Cobwebs on the ceiling that trapped soot making it look like a furry blanket\n- Black floors and tables from soot\n- No decorations at all - not even a picture of Krishna\n- Open stoves where lentils were cooked all day\n\nEven the simple cafes in his village Thul were pleasanter than this place.\n\n**ii. Why was Hari there?**\nHari was there because a kind watchman from a big building on a hill had brought him to Bombay to find work and earn money. Hari had left his village Thul because his mother was very ill, his father was drunk most of the time, and he felt it was his duty to care for his family by earning money. He knew no one in the big city, and the watchman took him to this restaurant where he could get food and work.",
+      "source": "Textbook RTC Q3(a)"
     },
     {
-      "id": "skeh_tq_15",
-      "question": "Reference to Context: 'Then he said, Yes, I can do with another boy in the kitchen.' (i) Who is speaking? (ii) What did he do just before giving this answer? (iii) What was the question asked of him, and by whom? (iv) What did the speaker go on to say about the job?",
-      "answer": "(i) Jagu, the owner of the Sri Krishna Eating House, is speaking.\n\n(ii) Just before giving this answer, he considered for only a moment, frowning as he thought about Hari's request.\n\n(iii) Hari had asked him: 'I have no money to pay for all this food you are giving me. Will you let me work in your kitchen instead?' Hari asked this after being handed a tumbler of tea and a rolled-up chapati without asking for anything.\n\n(iv) The speaker went on to say: 'Start by washing these pots. Then you can knead the dough and help roll out the chapatis. If you like, you can stay here and work for your meals and - uh - one rupee a day, like the other boys.'",
-      "key_points": ["Jagu is speaking", "Considered and frowned before answering", "Hari asked to work for food", "Job: wash pots, knead dough, roll chapatis", "Pay: meals and one rupee a day"]
+      "id": "skeh_tb_rtc_3b",
+      "question": "3(b) Reference to Context: 'Then he said, \"Yes, I can do with another boy in the kitchen.\"'\ni. Who is speaking?\nii. What did he do just before giving this answer?\niii. What was the question asked of him, and by whom?\niv. What did the speaker go on to say about the job?",
+      "answer": "**i. Who is speaking?**\nJagu, the owner of the Sri Krishna Eating House, is speaking.\n\n**ii. What did he do just before giving this answer?**\nJust before giving this answer, he considered for only a moment, frowning as he thought about Hari's request.\n\n**iii. What was the question asked of him, and by whom?**\nHari had asked him: 'I have no money to pay for all this food you are giving me. Will you let me work in your kitchen instead?' Hari asked this after being handed a tumbler of tea and a rolled-up chapati without asking for anything.\n\n**iv. What did the speaker go on to say about the job?**\nJagu said: 'Start by washing these pots. Then you can knead the dough and help roll out the chapatis. If you like, you can stay here and work for your meals and—uh—one rupee a day, like the other boys.'",
+      "source": "Textbook RTC Q3(b)"
     },
     {
-      "id": "skeh_tq_16",
-      "question": "Reference to Context: 'So, a new boy at the Sri Krishna Eating House,' called the old gentleman. (i) Who was the old gentleman? (ii) To whom was the comment made? (iii) What did the speaker do immediately after making this comment?",
-      "answer": "(i) The old gentleman was the watchmaker who owned the watch repair shop called 'Ding Dong Watchworks' next door to the eating house. He wore a small black cap and had an eye-piece fixed to his eye for examining watches.\n\n(ii) The comment was made to Hari, who had come out to empty a pail of garbage into the disposal units on the roadside.\n\n(iii) Immediately after making this comment, the old gentleman went back to his examination of a tiny watch, but continued to talk to Hari who stood on the pavement, staring open-mouthed at all the clocks on the walls and watches in the showcases.",
-      "key_points": ["Old gentleman = watchmaker at Ding Dong Watchworks", "Comment made to Hari", "Went back to examining watch", "Continued talking to Hari"]
+      "id": "skeh_tb_rtc_3c",
+      "question": "3(c) Reference to Context: '\"So, a new boy at the Sri Krishna Eating House,\" called the old gentleman.'\ni. Who was the old gentleman?\nii. To whom was the comment made?\niii. What did the speaker do immediately after making this comment?",
+      "answer": "**i. Who was the old gentleman?**\nThe old gentleman was the watchmaker who owned the watch repair shop called 'Ding Dong Watchworks' next door to the eating house. He wore a small black cap and had an eye-piece fixed to his eye for examining watches. He worked at a minute watch that he held in the cup of his hand.\n\n**ii. To whom was the comment made?**\nThe comment was made to Hari, who had come out to empty a pail of garbage into the big concrete disposal units built on the roadside.\n\n**iii. What did the speaker do immediately after making this comment?**\nImmediately after making this comment, the old gentleman went back to his examination of the tiny watch. But he continued to talk to Hari, who stood on the pavement staring open-mouthed at all the clocks that hung tick-tocking on the walls and the watches that glittered in the showcases.",
+      "source": "Textbook RTC Q3(c)"
     },
     {
-      "id": "skeh_tq_17",
-      "question": "Reference to Context: 'Suddenly remembered you had someone to write to, did you?' (i) Who is speaking and to whom are the words addressed? (ii) What made the speaker ask the question? (iii) What is the letter the speaker refers to? (iv) How did the speaker help?",
-      "answer": "(i) The old watchmaker is speaking, and the words are addressed to Hari.\n\n(ii) Hari had suddenly asked 'Sir, can you tell me where the post office is? I wish to buy a postcard.' This sudden question about writing a letter made the watchmaker ask this.\n\n(iii) The letter refers to a postcard Hari wanted to write to his mother. He wanted to tell her that he was in Bombay, had found a job, would send his earnings, and asked her to remember him to his sisters.\n\n(iv) The speaker helped by: telling Hari where the post office was (straight up the road, next to the electric substation), offering to lend him money for a postcard, and later lending him a ballpoint pen to write with (since the eating house owner was unlikely to have one).",
-      "key_points": ["Watchmaker speaking to Hari", "Hari asked about post office", "Postcard for his mother", "Helped with directions, money, and pen"]
+      "id": "skeh_tb_rtc_3d",
+      "question": "3(d) Reference to Context: '\"Suddenly remembered you had someone to write to, did you?\"'\ni. Who is speaking and to whom are the words addressed?\nii. What made the speaker ask the question?\niii. What is the letter the speaker refers to?\niv. How did the speaker help?",
+      "answer": "**i. Who is speaking and to whom are the words addressed?**\nThe old watchmaker is speaking, and the words are addressed to Hari.\n\n**ii. What made the speaker ask the question?**\nHari had suddenly asked 'Sir, can you tell me where the post office is? I wish to buy a postcard.' This sudden question about writing made the watchmaker ask this with a laugh, winking at him from behind the eye-piece.\n\n**iii. What is the letter the speaker refers to?**\nThe letter refers to a postcard Hari wanted to write to his mother. He wanted to tell her: 'Dear Mother, I am in Bombay. I have a job. I will bring you my earnings. I hope you are well. I am well. Remember me to my sisters. Hari.'\n\n**iv. How did the speaker help?**\nThe speaker helped in several ways:\n- He told Hari where the post office was ('Go straight up the road; next to the electric substation, there is a post office')\n- He offered to lend Hari money for a postcard ('Have you money for a postcard or can I lend you some?')\n- He later lent Hari his ballpoint pen to write with, since the eating house owner was unlikely to have one",
+      "source": "Textbook RTC Q3(d)"
     },
     {
-      "id": "skeh_tq_18",
+      "id": "skeh_extra_1",
       "question": "What was the content of Hari's postcard to his mother?",
       "answer": "Hari's postcard to his mother said: 'Dear Mother, I am in Bombay. I have a job. I will bring you my earnings. I hope you are well. I am well. Remember me to my sisters. Hari.' He wrote his name in large letters to fill up the space, but did not include his address because he would be staying on in Bombay and not going home. The message was short and simple, but conveyed that he was safe, employed, and thinking of his family.",
-      "key_points": ["In Bombay, has a job", "Will bring earnings", "Hope you are well, I am well", "Remember me to sisters", "No address included", "Signed 'Hari' in large letters"]
+      "source": "Additional Question"
     },
     {
-      "id": "skeh_tq_19",
+      "id": "skeh_extra_2",
       "question": "Who is Sayyid Ali and why is he mentioned in the story?",
       "answer": "Sayyid Ali was a man from the Black Horse meeting in Thul village who had spoken very well. He is mentioned because the old watchmaker looked so much like him that Hari instantly felt he could trust the watchmaker. Seeing the resemblance to Sayyid Ali made Hari feel that here was another fine and impressive man who would understand him and try to help him. This connection to someone from his village helped Hari feel less alone in the strange city and gave him the confidence to talk to the watchmaker.",
-      "key_points": ["Man from Black Horse meeting in Thul", "Spoke well at the meeting", "Watchmaker resembled him", "Made Hari trust the watchmaker", "Connection to home village"]
+      "source": "Additional Question"
     },
     {
-      "id": "skeh_tq_20",
+      "id": "skeh_extra_3",
       "question": "What happened to the parents of the two Tamil boys working at the eating house?",
-      "answer": "The parents of the two Tamil boys were killed in a railway accident. They had been living on a railway platform, like many poor people who come to the city to find work. One day, a train ran over the parents as they were crossing the line to fetch water from a pump. The watchmaker told Hari: 'There's the station where it happened.' After the accident, Jagu found the orphaned boys as he was coming to work in the morning and brought them straight away to the eating house, giving them food, shelter, and work.",
-      "key_points": ["Parents killed in railway accident", "Family lived on railway platform", "Train ran over parents fetching water", "Jagu found and took in the orphans"]
+      "answer": "The parents of the two Tamil boys were killed in a railway accident. They had been living on a railway platform, like many poor people who come to the city to find work. One day, a train ran over the parents as they were crossing the line to fetch water from a pump. The watchmaker told Hari about it, pointing out: 'There's the station where it happened.' After the accident, Jagu found the orphaned boys as he was coming to work in the morning and brought them straight away to the eating house, giving them food, shelter, and work.",
+      "source": "Additional Question"
+    },
+    {
+      "id": "skeh_extra_4",
+      "question": "Describe the physical condition of the Sri Krishna Eating House.",
+      "answer": "The Sri Krishna Eating House was in a very poor and dilapidated condition:\n- The walls were coated with layers of grime and soot\n- The ceiling was thick with cobwebs that trapped the soot and made a kind of furry blanket over one's head\n- The floor and the wooden tables were all black from soot since they got an even share of soot from the open stoves\n- There was no coloured picture of Krishna (or any decoration) on the wall - if there had been one, it had disappeared under the layers of grime and soot\n- In the back room, lentils were cooked all day in a huge aluminium pan and chapatis were rolled by hand and baked over open fires which were kept lit day and night\n- The owner had no time to sweep or clean it and no money to decorate it with pictures and flowers",
+      "source": "Additional Question"
+    },
+    {
+      "id": "skeh_extra_5",
+      "question": "What work did Hari do at the Sri Krishna Eating House?",
+      "answer": "At the Sri Krishna Eating House, Hari did several jobs:\n1. He started by washing pots - he saw there was nothing to scour them with except some blackened coconut husks and the ash from the fires, and he did the best he could with them\n2. He helped the two boys knead great hills of dough in their pans - this was hard work that made them grunt and sweat\n3. He rolled out chapatis\n4. He baked chapatis over the fire with a pair of long tongs\n5. He carried the chapatis out to the customers eating at the long tables in the front room\n6. He emptied pails of garbage into the big concrete disposal units built on the roadside",
+      "source": "Additional Question"
     }
   ]
 }

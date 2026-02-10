@@ -4,266 +4,196 @@
   "type": "textbook_qa",
   "questions": [
     {
-      "id": "tpf_tb_1",
-      "question": "Where does Mr. Barton live? What sort of a man is he?",
-      "answer": "Mr. Barton lives in a seaside town in England. He is an elderly man of 82 years who is thin and bald with thick spectacles. He is a pleasant, friendly person who loves antiques and enjoys spending his time searching for old treasures in second-hand shops and market stalls.",
-      "justification": "The story describes him as 82, thin, bald with thick spectacles, living in a seaside town in England."
+      "id": "tpf_tb_1a",
+      "question": "1(a) Where did Mr Barton take his daily walks?",
+      "answer": "Mr Barton took his daily walks along the seaside in the small seaside town in England where he lived with his wife. The view out over the sea was what pleased him most. The daily walks provided Mr Barton with good physical exercise and were good for his mind and soul.",
+      "source": "Textbook Comprehension Q1(a)"
     },
     {
-      "id": "tpf_tb_2",
-      "question": "What sort of things does Mr. Barton like? Why, do you think, does he like such things?",
-      "answer": "Mr. Barton likes old things, especially antiques such as old picture frames, Victorian biscuit tins, old furniture, silver candlesticks, and vintage clocks. He probably likes such things because they have character, history, and remind him of the past. As an elderly person, he may feel connected to objects from earlier times.",
-      "justification": "The text lists his interests in antiques, showing his passion for things with history."
+      "id": "tpf_tb_1b",
+      "question": "1(b) What did Mr Barton think about when the sea was rough?",
+      "answer": "When the sea was rough and wild, with huge waves crashing along the shore, Mr Barton feared for the safety of the sailors in their boats far out at sea. This in turn reminded him of the sad or fearful moments in his life. Sometimes he thought of his dear father who had died when he was only four years old. He felt unfortunate that he never really knew that fine old man.",
+      "source": "Textbook Comprehension Q1(b)"
     },
     {
-      "id": "tpf_tb_3",
-      "question": "What was Mr. Barton doing in town that morning? What did he find and how much did he pay for it?",
-      "answer": "That morning, Mr. Barton was wandering around town looking at the stalls and peering into shop windows in search of antiques. He found an ornate old picture frame with a dirty mirror in it. He paid twenty pounds for it after bargaining with the stallholder.",
-      "justification": "The story describes his morning routine of hunting for antiques and the negotiation for the frame."
+      "id": "tpf_tb_1c",
+      "question": "1(c) What was Mr Barton's most treasured possession? Did he have any others?",
+      "answer": "Mr Barton's most treasured possession was a large portrait of his father which he treasured more than life itself. Yes, he had other treasured possessions too - a few memories and two faded photographs which his mother had left him. These were kept in a large brown envelope inside a small chest in the corner of the room where he kept his most prized possessions.",
+      "source": "Textbook Comprehension Q1(c)"
     },
     {
-      "id": "tpf_tb_4",
-      "question": "What did Mr. Barton find in the frame that he bought?",
-      "answer": "After cleaning the frame at home, Mr. Barton discovered that behind the dirty old mirror was a beautiful oil painting. The painting showed a shepherd looking after his flock of sheep in a grassy field with hills and blue sky in the background.",
-      "justification": "The text describes how he removed the mirror backing and found the hidden painting."
+      "id": "tpf_tb_1d",
+      "question": "1(d) What item caught Mr Barton's eye as he looked at the stall?",
+      "answer": "As Mr Barton moved along the length of one table, his attention was drawn to a large mirror. The mirror itself was of little interest to Mr Barton; it was the frame that caught his eye. The frame was truly magnificent, and he thought how well his father's portrait would look in that frame.",
+      "source": "Textbook Comprehension Q1(d)"
     },
     {
-      "id": "tpf_tb_5",
-      "question": "What do you think of the stallholder's claim that he himself had paid ten pounds for the frame?",
-      "answer": "The stallholder's claim of paying ten pounds seems exaggerated and likely untrue. He was probably trying to justify his asking price of forty pounds and make Mr. Barton feel he was getting a fair deal. In reality, the stallholder had only paid two pounds for it, as revealed later in the story.",
-      "justification": "The story later reveals the stallholder paid only two pounds, exposing his false claim."
+      "id": "tpf_tb_1e",
+      "question": "1(e) Why did Mr Barton ask the stallholder what the vase cost?",
+      "answer": "Mr Barton asked the stallholder what the vase cost as a clever bargaining tactic. He felt the stallholder's gaze upon him and rather abruptly stopped caressing the frame. He turned his attention to a particularly hideous green and gold plastic flower-vase, picked it up and asked 'How much for this vase?' to distract the stallholder from noticing his real interest in the frame. This way, he could casually ask about the mirror without appearing too interested.",
+      "source": "Textbook Comprehension Q1(e)"
     },
     {
-      "id": "tpf_tb_6",
-      "question": "Do you think Mr. Barton is a shrewd bargainer? Quote an example from the story to illustrate your view.",
-      "answer": "Yes, Mr. Barton is definitely a shrewd bargainer. When the stallholder asked for forty pounds, Mr. Barton immediately spotted the flaws in the item, pointing out that the frame was scratched and the mirror was cracked. He then offered only twenty pounds, which was half the asking price, and succeeded in getting the item at that price.",
-      "justification": "His bargaining technique of pointing out defects and offering half the price shows his negotiating skills."
+      "id": "tpf_tb_1f",
+      "question": "1(f) Why did the stallholder think Mr Barton was a silly old fool?",
+      "answer": "The stallholder thought Mr Barton was a silly old fool because he had sold him the old mirror (which he had bought at a junk shop for only two pounds) for twenty pounds. The stallholder said to his wife: 'Some people will buy any old rubbish, especially when you tell them a sad story! Silly old fool, that man.' He believed he had tricked Mr Barton into paying far more than the item was worth by telling him he had fallen on hard times.",
+      "source": "Textbook Comprehension Q1(f)"
     },
     {
-      "id": "tpf_tb_7",
-      "question": "Do you think that the stallholder would have charged more if the frame had not been scratched?",
-      "answer": "Yes, the stallholder would definitely have charged more if the frame had not been scratched. The scratches and cracked mirror were obvious defects that reduced the value of the item. Without these flaws, the stallholder could have justified a higher price, and Mr. Barton would have had less room to negotiate.",
-      "justification": "The defects gave Mr. Barton leverage to bargain; without them, the asking price would have been harder to reduce."
+      "id": "tpf_tb_1g",
+      "question": "1(g) What was painted on the canvas?",
+      "answer": "The canvas showed a remarkable scene - an oil painting of a shepherd with his flock resting under the shade of a large oak tree. Far in the distance, there was what looked like a small village, but the details were not clear because the painting was old and covered in grime.",
+      "source": "Textbook Comprehension Q1(g)"
     },
     {
-      "id": "tpf_tb_8",
-      "question": "Do you think that the stallholder knew what was behind the mirror? Give reasons for your answer.",
-      "answer": "No, the stallholder definitely did not know about the painting hidden behind the mirror. If he had known about the valuable artwork, he would never have sold the frame for just twenty pounds. The fact that he sold it so cheaply and had bought it himself for only two pounds shows he had no idea of its true value.",
-      "justification": "His willingness to sell cheaply and his low purchase price prove he was unaware of the hidden treasure."
+      "id": "tpf_tb_1h",
+      "question": "1(h) Why did Mr and Mrs Barton go to the High Street?",
+      "answer": "Mr and Mrs Barton went to the High Street to visit an art gallery. They took the mirror and the frame with them, and also carried the portrait of Mr Barton's father and the oil painting. Mrs Barton suggested they could get the portrait of his father put into the frame and have it 'done properly.' They wanted experts to help them frame the portrait professionally.",
+      "source": "Textbook Comprehension Q1(h)"
     },
     {
-      "id": "tpf_tb_9",
-      "question": "Why do you think the painting was hidden behind a mirror in the old frame?",
-      "answer": "The painting was likely hidden behind the mirror to protect it or conceal it during difficult times. Perhaps the original owner wanted to safeguard the valuable artwork from thieves, or during wartime, people sometimes hid precious items. Another possibility is that someone didn't realize the painting's value and simply used the frame for a mirror.",
-      "justification": "This requires inference about historical practices of hiding valuables for protection."
+      "id": "tpf_tb_1i",
+      "question": "1(i) Why did they dance?",
+      "answer": "Mr and Mrs Barton danced because they were overjoyed when the manager of the art gallery told them that the oil painting was a very famous painting by a very famous artist, worth a very, very large sum of money. They stood and stared at the manager for a long time in disbelief. Then they held each other's hands and danced with joy when they realized the painting found behind the mirror was worth nearly half a million pounds.",
+      "source": "Textbook Comprehension Q1(i)"
     },
     {
-      "id": "tpf_tb_10",
-      "question": "(HOTS) If you were in Mr. Barton's place, what would you do with the painting if you discovered it was priceless?",
-      "answer": "If I were in Mr. Barton's place and discovered a priceless painting, I would first get it properly authenticated and valued by experts. Then I would consider my options carefully - I could sell it and use the money for good causes, or donate it to a museum so everyone could enjoy it. I might also keep it and will it to a museum, ensuring it's preserved for future generations while I enjoy it during my lifetime.",
-      "justification": "This is a HOTS question requiring personal reflection and critical thinking about ethical choices."
+      "id": "tpf_tb_hots_j",
+      "question": "(HOTS) 1(j) What kind of man was Mr Barton? Was he kind? Was he thoughtful? Make a list of his qualities and his weaknesses. Which words, phrases and sentences in the story make you think he possesses these qualities?",
+      "answer": "**Mr Barton's Qualities:**\n1. **Kind and compassionate** - When he saw the stallholder had 'fallen on hard times,' he thought 'Poor man. Some people are unluckier than others. I must buy something to help him.'\n2. **Thoughtful and reflective** - During his walks, he would think about happy events and sad moments in his life, his childhood, children, grandchildren, and friends.\n3. **Loving and sentimental** - He treasured his father's portrait 'more than life itself' and kept it carefully in a chest with his most prized possessions.\n4. **Patient and careful** - He worked carefully with a knife to remove the mirror backing 'so as not to damage the frame in any way.'\n5. **Shrewd bargainer** - He pretended to be interested in a hideous vase to distract the stallholder, then negotiated the price down from twenty-three to twenty pounds.\n6. **Appreciative** - He 'looked lovingly at the picture' of his father and 'beamed with pleasure' at simple joys.\n\n**Weaknesses:**\n1. **Sometimes impulsive** - He bought things that upset his wife ('If you can spend money on an old frame, you can go out and buy your own dinner!').\n2. **Fear of wife's disapproval** - He walked home 'quite afraid of what his wife might say.'\n3. **Obsessive about antiques** - His hobby sometimes caused family tension.",
+      "source": "Textbook HOTS Q1(j)"
     },
     {
-      "id": "tpf_ext1_q1",
-      "context": "Extract 1\n\"He rubbed his hand over the surface of the painting, caressing it gently, his eyes glowing with joy. He had unearthed a treasure!\"",
-      "question": "What is Mr. Barton doing at this time?",
-      "answer": "At this moment, Mr. Barton has just discovered the hidden painting behind the mirror in the frame he bought. He is gently touching and admiring the beautiful oil painting, overwhelmed by his incredible discovery.",
-      "justification": "This follows the discovery scene where he removes the mirror and finds the painting."
+      "id": "tpf_tb_rtc_2a",
+      "question": "2. Reference to Context: 'Mr Barton felt the stallholder's gaze, and rather abruptly, stopped caressing the frame.'\n(a) What does 'rather abruptly' mean?",
+      "answer": "'Rather abruptly' means suddenly and unexpectedly, without warning. Mr Barton suddenly stopped touching and admiring the frame the moment he sensed the stallholder was watching him closely.",
+      "source": "Textbook RTC Q2(a)"
     },
     {
-      "id": "tpf_ext1_q2",
-      "context": "Extract 1\n\"He rubbed his hand over the surface of the painting, caressing it gently, his eyes glowing with joy. He had unearthed a treasure!\"",
-      "question": "What had he unearthed? Why is it described as a 'treasure'?",
-      "answer": "Mr. Barton had unearthed a beautiful old oil painting that was hidden behind the dirty mirror. It is described as a 'treasure' because it turned out to be extremely valuable - worth half a million pounds. Also, for an antique lover like Mr. Barton, finding such a rare and beautiful painting is like discovering buried treasure.",
-      "justification": "The painting's monetary value and its significance to an antique collector justify the term 'treasure'."
+      "id": "tpf_tb_rtc_2b",
+      "question": "2. Reference to Context: 'Mr Barton felt the stallholder's gaze, and rather abruptly, stopped caressing the frame.'\n(b) Why did Mr Barton behave in this way?",
+      "answer": "Mr Barton behaved this way because he did not want the stallholder to know how much he was interested in the frame. If the stallholder saw his enthusiasm, he might raise the price or refuse to negotiate. Mr Barton was a shrewd bargainer - he turned his attention to a hideous plastic flower-vase to pretend he wasn't interested in the frame, so he could get a better price.",
+      "source": "Textbook RTC Q2(b)"
     },
     {
-      "id": "tpf_ext1_q3",
-      "context": "Extract 1\n\"He rubbed his hand over the surface of the painting, caressing it gently, his eyes glowing with joy. He had unearthed a treasure!\"",
-      "question": "What did he decide to do with his treasure?",
-      "answer": "Mr. Barton decided to take his treasure to an art gallery in London to find out more about it and its value. He wanted experts to examine the painting and determine its authenticity and worth.",
-      "justification": "The story shows him taking the painting to a London art gallery for expert evaluation."
+      "id": "tpf_tb_rtc_2c",
+      "question": "2. Reference to Context: 'Mr Barton felt the stallholder's gaze, and rather abruptly, stopped caressing the frame.'\n(c) What kind of a man was the stallholder?",
+      "answer": "The stallholder was a cunning, dishonest, and opportunistic man. He lied about how much he paid for items to justify higher prices - he claimed to have bought the mirror for more than it was worth when he had actually paid only two pounds for it at a junk shop. He was also unkind and arrogant - after selling the mirror, he called Mr Barton a 'silly old fool' and boasted to his wife about how 'some people will buy any old rubbish, especially when you tell them a sad story!' He pretended to have 'fallen on hard times' to manipulate customers' sympathy.",
+      "source": "Textbook RTC Q2(c)"
     },
     {
-      "id": "tpf_ext2_q1",
-      "context": "Extract 2\n\"Mr Barton felt the stallholder's gaze upon him and, rather abruptly, stopped caressing the frame.\"",
-      "question": "What does 'rather abruptly' mean?",
-      "answer": "'Rather abruptly' means suddenly and unexpectedly, without warning. Mr. Barton suddenly stopped touching the frame when he sensed the stallholder was watching him closely.",
-      "justification": "Understanding this phrase helps understand Mr. Barton's shrewd bargaining behaviour."
-    },
-    {
-      "id": "tpf_ext2_q2",
-      "context": "Extract 2\n\"Mr Barton felt the stallholder's gaze upon him and, rather abruptly, stopped caressing the frame.\"",
-      "question": "Why did Mr. Barton behave in this way?",
-      "answer": "Mr. Barton behaved this way because he did not want the stallholder to know how much he was interested in the frame. If the stallholder saw his enthusiasm, he might raise the price or refuse to negotiate. Mr. Barton pretended to be less interested to get a better deal.",
-      "justification": "This shows Mr. Barton's shrewd bargaining strategy."
-    },
-    {
-      "id": "tpf_ext2_q3",
-      "context": "Extract 2\n\"Mr Barton felt the stallholder's gaze upon him and, rather abruptly, stopped caressing the frame.\"",
-      "question": "What kind of a man was the stallholder?",
-      "answer": "The stallholder was a cunning and shrewd businessman. He was alert and observant, watching his customers closely. He was also dishonest - he lied about how much he paid for items to justify higher prices. He thought himself clever for selling 'rubbish' for profit and called Mr. Barton a 'silly old fool.'",
-      "justification": "The stallholder's character is revealed through his actions and the story's ending."
-    },
-    {
-      "id": "tpf_hots_q1",
-      "question": "(HOTS) What kind of man was Mr Barton? Was he kind? Was he thoughtful? Make a list of his qualities and his weaknesses.",
-      "answer": "Mr. Barton's Qualities:\n1. Passionate - deeply loved antiques and old objects\n2. Patient - spent mornings searching for treasures\n3. Shrewd - skilled at bargaining and noticing value\n4. Careful and thorough - cleaned purchases lovingly\n5. Curious - examined things closely, leading to discoveries\n6. Appreciative - valued his possessions and memories\n7. Kind - wanted to help the stallholder who had 'fallen on hard times'\n\nWeaknesses:\n1. Sometimes stubborn - wife got upset about his purchases\n2. Impulsive - bought things that caused family tension\n3. Obsessive about antiques - prioritized hobby over family peace\n\nOverall, Mr. Barton was a thoughtful, kind gentleman whose genuine passion and careful nature brought him unexpected fortune.",
-      "justification": "This HOTS question requires analysis of character traits from the story."
-    },
-    {
-      "id": "tpf_tf_q1",
-      "context": "True or False",
-      "question": "Mr. Barton loves visiting old temples.",
-      "answer": "False. The story states he loves visiting second-hand shops and market stalls, not temples.",
-      "justification": "The text clearly mentions his interest in shops and stalls, not temples."
-    },
-    {
-      "id": "tpf_tf_q2",
-      "context": "True or False",
-      "question": "Mr. Barton finds an old-fashioned mirror in a supermarket.",
-      "answer": "False. He finds it at a market stall, not a supermarket.",
-      "justification": "The story describes him finding the frame at a market stall."
-    },
-    {
-      "id": "tpf_tf_q3",
-      "context": "True or False",
-      "question": "Mr. Barton offers twenty pounds for the mirror and this is accepted.",
-      "answer": "True. The story confirms he offered twenty pounds and the stallholder accepted.",
-      "justification": "The bargaining scene ends with the stallholder accepting twenty pounds."
-    },
-    {
-      "id": "tpf_tf_q4",
-      "context": "True or False",
-      "question": "Mr. Barton finds an old clock hidden behind the mirror.",
-      "answer": "False. He finds an oil painting behind the mirror, not a clock.",
-      "justification": "The hidden item was a painting of a shepherd with sheep."
-    },
-    {
-      "id": "tpf_tf_q5",
-      "context": "True or False",
-      "question": "The painting was about a hundred years old.",
-      "answer": "True. The art gallery expert confirmed the painting was about a hundred years old.",
-      "justification": "The expert's assessment of the painting's age is given in the story."
-    },
-    {
-      "id": "tpf_tf_q6",
-      "context": "True or False",
-      "question": "The painting was worth a hundred pounds.",
-      "answer": "False. The painting was worth half a million pounds, not a hundred pounds.",
-      "justification": "The expert valued it at approximately half a million pounds."
-    },
-    {
-      "id": "tpf_tf_q7",
-      "context": "True or False",
-      "question": "The stallholder paid more for the mirror than he sold it for.",
-      "answer": "False. The stallholder paid only two pounds and sold it for twenty pounds, making a profit.",
-      "justification": "The story reveals the stallholder's actual purchase price was only two pounds."
-    },
-    {
-      "id": "tpf_tf_q8",
-      "context": "True or False",
-      "question": "Mr and Mrs Barton lived in the USA.",
+      "id": "tpf_tb_tf_3a",
+      "question": "3. True or False: Mr and Mrs Barton lived in the USA.",
       "answer": "False. Mr and Mrs Barton lived in a small seaside town in England, not in the USA.",
-      "justification": "The story clearly states they lived in a seaside town in England."
+      "source": "Textbook True/False Q3(a)"
     },
     {
-      "id": "tpf_tf_q9",
-      "context": "True or False",
-      "question": "Mrs Barton did not like to go for walks.",
-      "answer": "True. The story mentions that Mrs Barton seldom went out with her husband and preferred to stay indoors, well away from the cold.",
-      "justification": "The text states she preferred to stay indoors and rarely accompanied her husband."
+      "id": "tpf_tb_tf_3b",
+      "question": "3. True or False: Mrs Barton did not like to go for walks.",
+      "answer": "True. The story states that 'Mrs Barton seldom went out with her husband. She preferred to stay indoors, well away from the cold.'",
+      "source": "Textbook True/False Q3(b)"
     },
     {
-      "id": "tpf_tf_q10",
-      "context": "True or False",
-      "question": "There was a brass elephant on the stall.",
-      "answer": "False. The story mentions a brass monkey on the stall, not a brass elephant.",
-      "justification": "The items listed include a brass monkey, not an elephant."
+      "id": "tpf_tb_tf_3c",
+      "question": "3. True or False: There was a brass elephant on the stall.",
+      "answer": "False. There was a brass monkey on the stall, not a brass elephant. The story lists 'a brass monkey' among the items on display.",
+      "source": "Textbook True/False Q3(c)"
     },
     {
-      "id": "tpf_tf_q11",
-      "context": "True or False",
-      "question": "The stallholder had bought the mirror for two pounds.",
-      "answer": "True. At the end of the story, we learn that the stallholder had actually bought the mirror for only two pounds.",
-      "justification": "The story reveals his actual purchase price was two pounds."
+      "id": "tpf_tb_tf_3d",
+      "question": "3. True or False: The stallholder had bought the mirror for two pounds.",
+      "answer": "True. At the end of the story, the stallholder tells his wife: 'You know that old mirror we bought for two pounds at a junk shop last year? Well, I sold it for twenty pounds today!'",
+      "source": "Textbook True/False Q3(d)"
     },
     {
-      "id": "tpf_tf_q12",
-      "context": "True or False",
-      "question": "The painting was old and dirty.",
-      "answer": "True. When Mr. Barton first discovered the painting, it was described as old and covered in grime, with details that were not clear because of its dirty condition.",
-      "justification": "The painting was described as old and covered in grime."
+      "id": "tpf_tb_tf_3e",
+      "question": "3. True or False: The photograph was worth a lot of money.",
+      "answer": "False. It was the oil painting (not a photograph) that was worth a lot of money - nearly half a million pounds. The portrait of Mr Barton's father was a photograph/portrait that had sentimental value but was not mentioned as being worth money.",
+      "source": "Textbook True/False Q3(e)"
     },
     {
-      "id": "tpf_phrase_q1",
-      "context": "Phrase\n\"liked nothing better\"",
-      "question": "What does this phrase mean? Use it in a sentence.",
-      "answer": "Meaning: This phrase means 'enjoyed most of all' or 'found greatest pleasure in'. It indicates that something is a person's favourite activity.\n\nSentence: My grandmother liked nothing better than sitting in her garden and watching the birds in the evening.",
-      "justification": "The phrase expresses supreme enjoyment of an activity."
+      "id": "tpf_tb_tf_3f",
+      "question": "3. True or False: The painting was old and dirty.",
+      "answer": "True. The story states that the painting 'was old and covered in grime' and that 'the details were not clear' because of its dirty condition.",
+      "source": "Textbook True/False Q3(f)"
     },
     {
-      "id": "tpf_phrase_q2",
-      "context": "Phrase\n\"more than life itself\"",
-      "question": "What does this phrase mean? Use it in a sentence.",
-      "answer": "Meaning: This phrase expresses extreme love or devotion to something - loving it even more than one's own life.\n\nSentence: The mother loved her children more than life itself and would do anything to protect them from harm.",
-      "justification": "The phrase indicates the highest degree of love or attachment."
+      "id": "tpf_tb_tf_3g",
+      "question": "3. True or False: Mr and Mrs Barton drove to the art gallery in their car.",
+      "answer": "False. There is no mention of them driving or having a car. The story says 'Mrs Barton agreed to go with her husband to the high street' but does not mention driving. Given their modest financial situation ('there was little left to afford any luxuries'), they likely walked.",
+      "source": "Textbook True/False Q3(g)"
     },
     {
-      "id": "tpf_phrase_q3",
-      "context": "Phrase\n\"looking as good as new\"",
-      "question": "What does this phrase mean? Use it in a sentence.",
-      "answer": "Meaning: This phrase means restored to excellent condition, appearing almost brand new despite being old or damaged before.\n\nSentence: After the mechanic repaired my bicycle, it was looking as good as new and I could ride it smoothly again.",
-      "justification": "The phrase describes something restored to excellent condition."
+      "id": "tpf_tb_www_1a",
+      "question": "Working With Words Q1(a): Use the phrase 'liked nothing better' in a sentence of your own.",
+      "answer": "**Meaning:** This phrase means 'enjoyed most of all' or 'found greatest pleasure in'. It indicates that something is a person's favourite activity.\n\n**Sentence:** My grandmother liked nothing better than sitting in her garden and watching the birds in the evening.",
+      "source": "Textbook Working With Words Q1(a)"
     },
     {
-      "id": "tpf_phrase_q4",
-      "context": "Phrase\n\"his heart almost stopped beating\"",
-      "question": "What does this phrase mean? Use it in a sentence.",
-      "answer": "Meaning: This phrase describes extreme shock, surprise, or fear - a moment of intense emotion that feels overwhelming.\n\nSentence: When the doctor announced the test results were completely normal, his heart almost stopped beating with relief and joy.",
-      "justification": "The phrase is a hyperbole expressing extreme emotional reaction."
+      "id": "tpf_tb_www_1b",
+      "question": "Working With Words Q1(b): Use the phrase 'more than life itself' in a sentence of your own.",
+      "answer": "**Meaning:** This phrase expresses extreme love or devotion to something - loving it even more than one's own life. It shows the highest degree of attachment or importance.\n\n**Sentence:** The mother loved her children more than life itself and would do anything to protect them from harm.",
+      "source": "Textbook Working With Words Q1(b)"
     },
     {
-      "id": "tpf_phrase_q5",
-      "context": "Phrase\n\"it can't be true\"",
-      "question": "What does this phrase mean? Use it in a sentence.",
-      "answer": "Meaning: This phrase expresses disbelief at unexpected news - finding something hard to accept because it seems too good or too shocking.\n\nSentence: When she heard she had won first prize in the competition, she kept saying to herself, 'It can't be true!'",
-      "justification": "The phrase expresses disbelief at surprising news."
+      "id": "tpf_tb_www_1c",
+      "question": "Working With Words Q1(c): Use the phrase 'there was little left' in a sentence of your own.",
+      "answer": "**Meaning:** This phrase indicates that only a small amount remains after other things have been taken care of or used up.\n\n**Sentence:** After paying all the bills and monthly expenses, there was little left in our savings account for the vacation.",
+      "source": "Textbook Working With Words Q1(c)"
     },
     {
-      "id": "tpf_phrase_q6",
-      "context": "Phrase\n\"there was little left\"",
-      "question": "What does this phrase mean? Use it in a sentence.",
-      "answer": "Meaning: This phrase indicates that only a small amount remains after other things have been taken care of.\n\nSentence: After paying all the bills and monthly expenses, there was little left in our savings account for the vacation.",
-      "justification": "The story uses this to describe the Bartons' modest financial situation."
+      "id": "tpf_tb_www_1d",
+      "question": "Working With Words Q1(d): Use the phrase 'done properly' in a sentence of your own.",
+      "answer": "**Meaning:** This phrase means completing something correctly, thoroughly, and according to proper standards - doing it the right way by professionals or with care.\n\n**Sentence:** The carpenter insisted that the furniture restoration be done properly, even if it took extra time and effort.",
+      "source": "Textbook Working With Words Q1(d)"
     },
     {
-      "id": "tpf_phrase_q7",
-      "context": "Phrase\n\"done properly\"",
-      "question": "What does this phrase mean? Use it in a sentence.",
-      "answer": "Meaning: This phrase means completing something correctly, thoroughly, and according to proper standards.\n\nSentence: The carpenter insisted that the furniture restoration be done properly, even if it took extra time and effort.",
-      "justification": "Mrs. Barton uses this phrase when suggesting they get the portrait framed professionally."
+      "id": "tpf_tb_www_1e",
+      "question": "Working With Words Q1(e): Use the phrase 'quite afraid' in a sentence of your own.",
+      "answer": "**Meaning:** This phrase indicates a significant level of fear or worry, though not extreme terror. 'Quite' here means 'rather' or 'fairly'.\n\n**Sentence:** The young boy was quite afraid of the thunderstorm and hid under his blanket until it passed.",
+      "source": "Textbook Working With Words Q1(e)"
     },
     {
-      "id": "tpf_phrase_q8",
-      "context": "Phrase\n\"quite afraid\"",
-      "question": "What does this phrase mean? Use it in a sentence.",
-      "answer": "Meaning: This phrase indicates a significant level of fear, though not extreme terror.\n\nSentence: The young boy was quite afraid of the thunderstorm and hid under his blanket until it passed.",
-      "justification": "The story mentions Mr. Barton was quite afraid of his wife's reaction to his purchases."
+      "id": "tpf_tb_www_1f",
+      "question": "Working With Words Q1(f): Use the phrase 'if I am not mistaken' in a sentence of your own.",
+      "answer": "**Meaning:** This phrase is used to express polite uncertainty or to qualify a statement one believes to be true but isn't absolutely certain about. It softens a claim.\n\n**Sentence:** If I am not mistaken, the museum closes at 5 PM on weekdays and stays open later on weekends.",
+      "source": "Textbook Working With Words Q1(f)"
     },
     {
-      "id": "tpf_phrase_q9",
-      "context": "Phrase\n\"if I am not mistaken\"",
-      "question": "What does this phrase mean? Use it in a sentence.",
-      "answer": "Meaning: This phrase is used to express polite uncertainty or to qualify a statement one believes to be true but isn't absolutely certain about.\n\nSentence: If I am not mistaken, the museum closes at 5 PM on weekdays and stays open later on weekends.",
-      "justification": "The art gallery expert uses this phrase when identifying the valuable painting."
+      "id": "tpf_tb_www_2",
+      "question": "Working With Words Q2: Write down the adjective and adverb formed from each noun: cowardice, admiration, danger, skill, accident, simplicity, modesty, hurry.",
+      "answer": "a. **cowardice** (n) → cowardly (adj.) → cowardly (adv.)\nb. **admiration** (n) → admirable (adj.) → admirably (adv.)\nc. **danger** (n) → dangerous (adj.) → dangerously (adv.)\nd. **skill** (n) → skilful/skillful (adj.) → skilfully/skillfully (adv.)\ne. **accident** (n) → accidental (adj.) → accidentally (adv.)\nf. **simplicity** (n) → simple (adj.) → simply (adv.)\ng. **modesty** (n) → modest (adj.) → modestly (adv.)\nh. **hurry** (n) → hurried (adj.) → hurriedly (adv.)",
+      "source": "Textbook Working With Words Q2"
     },
     {
-      "id": "tpf_words_q1",
-      "context": "Working with Words\nForm adjectives and adverbs from these nouns: beauty, wonder, skill, care",
-      "question": "Form adjectives and adverbs from these nouns.",
-      "answer": "BEAUTY:\n- Adjective: beautiful (The painting was beautiful.)\n- Adverb: beautifully (She sang beautifully.)\n\nWONDER:\n- Adjective: wonderful (It was a wonderful discovery.)\n- Adverb: wonderfully (The plan worked wonderfully.)\n\nSKILL:\n- Adjective: skilful/skillful (He is a skilful craftsman.)\n- Adverb: skilfully/skillfully (She painted skilfully.)\n\nCARE:\n- Adjective: careful (Be careful with the antique.)\n- Adverb: carefully (He cleaned it carefully.)",
-      "justification": "Adjectives describe nouns; adverbs describe verbs, adjectives, or other adverbs."
+      "id": "tpf_extra_1",
+      "question": "Describe the character of Mr Barton based on the story.",
+      "answer": "Mr Barton was an eighty-two-year-old retired man who lived with his wife in a small seaside town in England. He was thin and bald with thick spectacles. He had worked hard all his life and saved some money for retirement - he was not poor but not rich either. He liked nothing better than to take a brisk walk regularly along the seaside, which kept him fit and strong. He was a sentimental man who treasured his father's portrait more than life itself, even though his father had died when he was only four years old. He was passionate about old things and antiques, and was a shrewd bargainer who knew how to negotiate prices. Despite sometimes upsetting his wife with his purchases, he was fundamentally a kind and thoughtful person.",
+      "source": "Additional Question"
+    },
+    {
+      "id": "tpf_extra_2",
+      "question": "What was on display at the stallholder's stall?",
+      "answer": "The stallholder's stall had a variety of items arranged neatly on and around two low tables. These included: some children's toys, a large ceramic dish, a green jacket, a selection of old records, a coffee pot and matching milk jug, a set of patterned dinner plates, an album of stamps, a brass monkey, an ivory chess set, three walking sticks, and umpteen (very many) other interesting objects. There was also a large mirror in an ornate frame that caught Mr Barton's attention.",
+      "source": "Additional Question"
+    },
+    {
+      "id": "tpf_extra_3",
+      "question": "How did Mr Barton discover the painting hidden behind the mirror?",
+      "answer": "Mr Barton discovered the painting when he decided to try fitting his father's portrait into the frame. He carefully examined the frame and turned the mirror over. Using a knife, he levered the wooden back off the frame, working carefully so as not to damage it. In a few minutes the back was loose. He lifted it off expecting to see the mirror, but to his surprise he found a sheet of canvas between the wooden back and the mirror. He turned the canvas over and laid it out flat next to the mirror in its frame - and discovered a remarkable oil painting of a shepherd with his flock resting under the shade of a large oak tree.",
+      "source": "Additional Question"
+    },
+    {
+      "id": "tpf_extra_4",
+      "question": "What happened when Mr Barton returned home with the mirror and told his wife?",
+      "answer": "When Mr Barton returned from his walk and told his wife what he had bought, she became very angry and took herself off to bed. She often did this when she was cross or upset about something. She shouted, 'If you can spend money on an old frame, you can go out and buy your own dinner!' before storming off. Mr Barton sat at the table wondering what to do. He considered taking the mirror back to the stallholder to get his money back, but doubted the man would return it.",
+      "source": "Additional Question"
+    },
+    {
+      "id": "tpf_extra_5",
+      "question": "What did the art gallery manager say about the painting and how much was it worth?",
+      "answer": "The manager of the art gallery studied the painting carefully and said excitedly, 'If I am not mistaken, this is a very famous painting, by a very famous artist and it is worth a very, very large sum of money!' He explained that about two hundred years ago, many famous painters had their paintings framed in frames just like this one. He said the frames are very valuable today, but of course, the paintings that were in them are much more valuable. The oil painting, in its original frame, was sold at auction for nearly half a million pounds.",
+      "source": "Additional Question"
     }
   ]
 }

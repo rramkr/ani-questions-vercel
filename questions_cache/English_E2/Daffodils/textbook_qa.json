@@ -4,211 +4,106 @@
   "type": "textbook_qa",
   "questions": [
     {
-      "id": "daffodils_ext1_q1",
-      "context": "Extract 1\n\"I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host of golden Daffodils;\nBeside the Lake, beneath the trees,\nFluttering and dancing in the breeze.\"",
-      "question": "What figure of speech is used in the first line? Explain its meaning.",
-      "answer": "The figure of speech is a simile. The poet compares himself to a cloud using 'as'. Just as a cloud floats alone and aimlessly in the sky, the poet was wandering by himself without any fixed destination.",
-      "justification": "A simile uses 'like' or 'as' to compare. 'Lonely as a cloud' establishes the poet's initial mood of solitude."
+      "id": "daff_tb_1a",
+      "question": "1(a) What is the simile in the first verse?",
+      "answer": "The simile in the first verse is 'I wandered lonely as a cloud'. The poet compares himself to a cloud using 'as'. Just as a cloud floats alone and aimlessly high in the sky over valleys and hills, the poet was wandering by himself without any fixed destination, feeling solitary and detached.",
+      "source": "Textbook Comprehension Q1(a)"
     },
     {
-      "id": "daffodils_ext1_q2",
-      "context": "Extract 1\n\"I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host of golden Daffodils;\nBeside the Lake, beneath the trees,\nFluttering and dancing in the breeze.\"",
-      "question": "What does 'vales' mean? Where was the poet wandering?",
-      "answer": "'Vales' means valleys. The poet was wandering over valleys and hills in the countryside of the Lake District, walking alone through the natural landscape.",
-      "justification": "'Vales' is an archaic term for valleys. The Lake District inspired many of Wordsworth's poems."
+      "id": "daff_tb_1b",
+      "question": "1(b) What do we learn about the poet from the first two verses?",
+      "answer": "From the first two verses, we learn that:\n1. The poet was wandering alone, feeling lonely ('I wandered lonely as a cloud')\n2. He was walking through the countryside - over valleys and hills\n3. He suddenly came upon a beautiful sight - thousands of golden daffodils by a lake\n4. He has a keen sense of observation - he notices the daffodils 'fluttering and dancing', their location 'beside the lake, beneath the trees'\n5. He uses vivid comparisons - comparing daffodils to stars in the Milky Way\n6. He appreciates nature's beauty and finds joy in it",
+      "source": "Textbook Comprehension Q1(b)"
     },
     {
-      "id": "daffodils_ext1_q3",
-      "context": "Extract 1\n\"I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host of golden Daffodils;\nBeside the Lake, beneath the trees,\nFluttering and dancing in the breeze.\"",
-      "question": "What did the poet suddenly see? Describe the location.",
-      "answer": "The poet suddenly saw a large number (a crowd or host) of golden daffodils. They were beside a lake and beneath the trees, growing along the water's edge.",
-      "justification": "'All at once' shows the sudden discovery. The location details paint a vivid picture of the scenic setting."
+      "id": "daff_tb_1c",
+      "question": "1(c) How are the daffodils described in the first two verses?",
+      "answer": "In the first two verses, the daffodils are described as:\n- 'A crowd' and 'A host' - suggesting a large number\n- 'Golden' - referring to their bright yellow colour\n- 'Fluttering and dancing in the breeze' - showing movement and life\n- 'Continuous as the stars that shine and twinkle on the milky way' - compared to countless stars\n- 'Stretched in never-ending line along the margin of a bay' - emphasizing their vast number along the water's edge\n- 'Ten thousand' - an exaggeration to show how many there were\n- 'Tossing their heads in sprightly dance' - personified as lively dancers",
+      "source": "Textbook Comprehension Q1(c)"
     },
     {
-      "id": "daffodils_ext1_q4",
-      "context": "Extract 1\n\"I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host of golden Daffodils;\nBeside the Lake, beneath the trees,\nFluttering and dancing in the breeze.\"",
-      "question": "What were the daffodils doing? What does this suggest?",
-      "answer": "The daffodils were fluttering and dancing in the breeze, appearing lively and joyful. The poet sees them as happy, active beings rather than mere plants.",
-      "justification": "'Fluttering' and 'dancing' personify the daffodils, central to the poem's theme of nature being alive and joyful."
+      "id": "daff_tb_1d",
+      "question": "1(d) What is the simile in the second verse?",
+      "answer": "The simile in the second verse is 'Continuous as the stars that shine / And twinkle on the milky way'. The poet compares the daffodils to the stars in the Milky Way using 'as'. Just as the countless stars form a glowing, continuous band across the night sky, the daffodils formed a long, unbroken line of golden colour stretching along the bay. This comparison emphasizes both the vast number of daffodils and their brightness/beauty.",
+      "source": "Textbook Comprehension Q1(d)"
     },
     {
-      "id": "daffodils_ext1_q5",
-      "context": "Extract 1\n\"I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host of golden Daffodils;\nBeside the Lake, beneath the trees,\nFluttering and dancing in the breeze.\"",
-      "question": "What is meant by 'a host of golden Daffodils'?",
-      "answer": "'A host' means a large number or multitude. 'Golden' refers to their bright yellow colour. The phrase emphasizes both quantity and beauty.",
-      "justification": "'Host' has celebratory connotations. 'Golden' suggests something precious."
+      "id": "daff_tb_1e",
+      "question": "1(e) In the third verse why is the poet so happy?",
+      "answer": "In the third verse, the poet is so happy because:\n1. The daffodils 'out-did the sparkling waves in glee' - their joyfulness exceeded even the dancing waves\n2. He found himself in 'jocund company' - the merry, cheerful company of the dancing daffodils\n3. 'A Poet could not but be gay' - it was impossible not to feel happy in such beautiful surroundings\n4. The entire scene - the dancing daffodils, the sparkling waves, the natural beauty - filled him with joy\n5. He gazed and gazed at this wonderful 'show' or spectacle of nature",
+      "source": "Textbook Comprehension Q1(e)"
     },
     {
-      "id": "daffodils_ext2_q1",
-      "context": "Extract 2\n\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
-      "question": "What simile is used in this extract? Explain its effectiveness.",
-      "answer": "The simile compares the daffodils to the stars in the Milky Way using 'as'. Just like the countless stars that form a glowing band across the night sky, the daffodils formed a long, unbroken line of golden colour along the bay. This emphasizes their vast number and brightness.",
-      "justification": "The comparison to stars elevates the daffodils to something celestial and magnificent."
+      "id": "daff_tb_1f",
+      "question": "1(f) How is the last verse different from the other verses? Is the poet describing a different mood from that expressed in the previous verses?",
+      "answer": "The last verse is different from the other verses in several ways:\n\n1. **Time**: The first three verses describe the actual experience of seeing the daffodils. The last verse describes a later time when the poet is at home, lying on his couch.\n\n2. **Setting**: The earlier verses are outdoors by the lake. The last verse is indoors.\n\n3. **Mood**: In the earlier verses, the poet is actively experiencing joy. In the last verse, he begins in a 'vacant or pensive mood' (empty or thoughtful) but then recalls the daffodils and feels happy again.\n\n4. **The 'inward eye'**: The last verse introduces the concept of memory - the daffodils 'flash upon that inward eye' (his memory/imagination).\n\n5. **Theme**: The last verse shows that the joy from nature is lasting - even when alone later, the memory brings happiness. 'And then my heart with pleasure fills, / And dances with the Daffodils.'",
+      "source": "Textbook Comprehension Q1(f)"
     },
     {
-      "id": "daffodils_ext2_q2",
-      "context": "Extract 2\n\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
-      "question": "What does 'margin of a bay' mean?",
-      "answer": "'Margin' means edge or border, and 'bay' is a curved part of the lake's shoreline. So 'margin of a bay' refers to the edge of the curved shoreline where the daffodils were growing.",
-      "justification": "Understanding location vocabulary helps visualize the scene."
+      "id": "daff_tb_1g",
+      "question": "1(g) The poet says in the last line that his heart 'dances with the Daffodils'. Is his heart really dancing? Find other examples in the poem where the poet uses words normally associated with actions performed by a person to describe actions performed by other things. What is this figure of speech called?",
+      "answer": "No, the poet's heart is not really dancing. This is **personification** - giving human qualities to non-human things.\n\nOther examples of personification in the poem:\n1. 'A crowd... of golden Daffodils' - daffodils described as a crowd (human gathering)\n2. 'Fluttering and dancing in the breeze' - daffodils dancing like people\n3. 'Tossing their heads in sprightly dance' - daffodils tossing heads like dancers\n4. 'The waves beside them danced' - waves dancing\n5. 'Out-did the sparkling waves in glee' - daffodils feeling glee (joy)\n6. 'jocund company' - daffodils as merry companions\n7. 'They flash upon that inward eye' - daffodils actively appearing in memory\n\nThe figure of speech is called **PERSONIFICATION** - when inanimate objects or abstract ideas are given human qualities or actions.",
+      "source": "Textbook Comprehension Q1(g)"
     },
     {
-      "id": "daffodils_ext2_q3",
-      "context": "Extract 2\n\"Continuous as the stars that shine\nAnd twinkle on the milky way,\nThey stretched in never-ending line\nAlong the margin of a bay:\nTen thousand saw I at a glance,\nTossing their heads in sprightly dance.\"",
-      "question": "What is the meaning of 'sprightly dance'? What figure of speech is this?",
-      "answer": "'Sprightly' means lively, energetic, and full of spirit. 'Sprightly dance' describes the lively movement of the daffodils in the wind. This is personification as the flowers are given the human quality of dancing.",
-      "justification": "Personification makes the daffodils seem alive and joyful."
-    },
-    {
-      "id": "daffodils_ext3_q1",
-      "context": "Extract 3\n\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed—and gazed—but little thought\nWhat wealth the show to me had brought:\"",
-      "question": "What comparison is made between the waves and the daffodils?",
-      "answer": "Both the waves and the daffodils are described as dancing, but the daffodils 'out-did' (surpassed) the waves in glee (happiness). The daffodils were more joyful and lively than even the sparkling waves.",
-      "justification": "This comparison shows the extraordinary happiness the daffodils displayed."
-    },
-    {
-      "id": "daffodils_ext3_q2",
-      "context": "Extract 3\n\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed—and gazed—but little thought\nWhat wealth the show to me had brought:\"",
-      "question": "What does 'jocund company' mean? Why does the poet use this phrase?",
-      "answer": "'Jocund' means cheerful or merry. 'Jocund company' refers to the daffodils as cheerful companions or friends. The poet uses this phrase to show that the flowers provided him pleasant company that lifted his spirits.",
-      "justification": "The word 'company' personifies the daffodils as companions."
-    },
-    {
-      "id": "daffodils_ext3_q3",
-      "context": "Extract 3\n\"The waves beside them danced; but they\nOut-did the sparkling waves in glee:\nA Poet could not but be gay,\nIn such a jocund company:\nI gazed—and gazed—but little thought\nWhat wealth the show to me had brought:\"",
-      "question": "What 'wealth' did the 'show' bring to the poet?",
-      "answer": "The 'show' refers to the beautiful sight of the dancing daffodils. The 'wealth' is the rich, lasting memory of this experience that would bring him happiness for years to come. This wealth is not monetary but emotional and spiritual.",
-      "justification": "Wordsworth values experiences in nature as a form of inner wealth."
-    },
-    {
-      "id": "daffodils_ext4_q1",
-      "context": "Extract 4\n\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
-      "question": "What is the 'inward eye'? Why is it called the 'bliss of solitude'?",
-      "answer": "The 'inward eye' refers to imagination or memory - the ability to see things in our mind even when they are not physically present. It is called the 'bliss of solitude' because when we are alone, we can recall beautiful memories and experience happiness through our imagination.",
-      "justification": "This metaphor is central to the poem's message about the lasting power of natural beauty."
-    },
-    {
-      "id": "daffodils_ext4_q2",
-      "context": "Extract 4\n\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
-      "question": "What do 'vacant' and 'pensive' mood mean?",
-      "answer": "'Vacant' means empty or idle - when the mind is not occupied with anything. 'Pensive' means thoughtful, often with slight sadness. These moods describe times when the poet is quiet and reflective.",
-      "justification": "Understanding these adjectives helps understand when the memory returns to the poet."
-    },
-    {
-      "id": "daffodils_ext4_q3",
-      "context": "Extract 4\n\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
-      "question": "How is the last verse different from the other verses?",
-      "answer": "The last verse is set at a different time and place. While the first three verses describe the actual moment of seeing the daffodils outdoors, the last verse describes the poet at home, lying on his couch, recalling the memory. It shows how the experience brings lasting joy through memory.",
-      "justification": "The shift from immediate experience to later reflection is key to the poem's meaning."
-    },
-    {
-      "id": "daffodils_ext4_q4",
-      "context": "Extract 4\n\"For oft, when on my couch I lie\nIn vacant or in pensive mood,\nThey flash upon that inward eye\nWhich is the bliss of solitude;\nAnd then my heart with pleasure fills,\nAnd dances with the Daffodils.\"",
-      "question": "Is the poet's heart really dancing? What figure of speech is this?",
-      "answer": "No, the poet's heart is not really dancing. This is personification - the heart is given the human action of dancing. It expresses that the poet feels so happy when he remembers the daffodils that his heart seems to dance with joy.",
-      "justification": "Personification is a key figure of speech throughout the poem."
-    },
-    {
-      "id": "daffodils_person_q1",
-      "context": "Personification\n\"Justice is blind.\"",
-      "question": "What is being personified? Explain its meaning.",
-      "answer": "'Justice' is being personified. It is given the human quality of being blind. This means justice treats everyone equally without seeing or favouring any particular person based on their appearance, wealth, status, or background.",
-      "justification": "Justice (abstract noun) is personified with the human quality of blindness, meaning it treats all people equally without discrimination."
-    },
-    {
-      "id": "daffodils_person_q2",
-      "context": "Personification\n\"The moon stepped out of her mantle of cloud to smile upon us.\"",
-      "question": "What is being personified? Explain its meaning.",
-      "answer": "The moon is personified. It is given human qualities: stepping (walking), wearing a mantle (clothing), and smiling. The moon is described as a graceful lady who steps out from behind her cloak of clouds and smiles down kindly at people.",
-      "justification": "The moon (inanimate object) is personified with human actions and given female gender ('her')."
-    },
-    {
-      "id": "daffodils_person_q3",
-      "context": "Personification\n\"The ship is called the Victory. She sails at dawn.\"",
-      "question": "What is being personified? Explain its meaning.",
-      "answer": "The ship is personified by being referred to as 'she' instead of 'it'. Ships are traditionally given female gender in English, treating them as beings with personalities. This shows affection and a close relationship between sailors and their vessels.",
-      "justification": "The ship is personified by being given female gender ('she'), treating it as a being with identity."
-    },
-    {
-      "id": "daffodils_person_q4",
-      "context": "Personification\n\"My motor car is twelve years old; she still runs smoothly.\"",
-      "question": "What is being personified? Explain its meaning.",
-      "answer": "The motor car is personified by being referred to as 'she'. Like ships, cars are sometimes given female gender showing the owner's affection. The car is described as 'running smoothly' despite old age, as if it has the determination of a person who remains active.",
-      "justification": "The car is personified with female gender and human-like qualities of running well despite age."
-    },
-    {
-      "id": "daffodils_person_q5",
-      "context": "Personification\n\"Necessity is the mother of invention.\"",
-      "question": "What is being personified? Explain its meaning.",
-      "answer": "'Necessity' is personified as a mother who gives birth to invention. Just as a mother gives birth to a child, need gives birth to creative solutions. This famous proverb means that when people desperately need something, they find ways to invent solutions.",
-      "justification": "Necessity (abstract noun) is personified as a mother who gives birth to invention."
-    },
-    {
-      "id": "daffodils_person_q6",
-      "context": "Personification\n\"Mother Earth has wonderful gifts for all her children.\"",
-      "question": "What is being personified? Explain its meaning.",
-      "answer": "The Earth is personified as 'Mother Earth' who has children and gives them gifts. The 'children' are all living beings, and the 'gifts' are natural resources, beauty, food, water, and air. This emphasizes our dependence on and connection to nature.",
-      "justification": "Earth is personified as a mother with children and gifts, emphasizing our connection to nature."
-    },
-    {
-      "id": "daffodils_homo_q1",
-      "context": "Homophones\nWord pair: wandered / wondered",
-      "question": "What is the difference between 'wandered' and 'wondered'? Use each in a sentence.",
-      "answer": "WANDERED: Walked or moved about without a fixed destination; roamed aimlessly.\nSentence: The poet wandered through the hills and valleys, enjoying the peaceful scenery.\n\nWONDERED: Felt curious about something; thought about something with curiosity.\nSentence: She wondered why her friend had not come to school that day.",
-      "justification": "'Wandered' relates to physical movement; 'wondered' relates to mental curiosity."
-    },
-    {
-      "id": "daffodils_homo_q2",
-      "context": "Homophones\nWord pair: vales / Wales",
-      "question": "What is the difference between 'vales' and 'Wales'? Use each in a sentence.",
-      "answer": "VALES: Valleys; low areas of land between hills (poetic/archaic word).\nSentence: The river flowed through the green vales between the mountain ranges.\n\nWALES: A country that is part of the United Kingdom, west of England.\nSentence: We visited Wales last summer and saw many beautiful castles.",
-      "justification": "'Vales' (lowercase) means valleys; 'Wales' (uppercase) is a country name."
-    },
-    {
-      "id": "daffodils_homo_q3",
-      "context": "Homophones\nWord pair: crowd / crowed",
-      "question": "What is the difference between 'crowd' and 'crowed'? Use each in a sentence.",
-      "answer": "CROWD: A large number of people or things gathered together.\nSentence: A huge crowd gathered in the stadium to watch the cricket match.\n\nCROWED: Made a loud cry like a rooster; or boasted proudly.\nSentence: The rooster crowed loudly every morning at sunrise.",
-      "justification": "'Crowd' is a noun meaning a gathering; 'crowed' is a verb meaning a rooster's cry or to boast."
-    },
-    {
-      "id": "daffodils_homo_q4",
-      "context": "Homophones\nWord pair: way / whey",
-      "question": "What is the difference between 'way' and 'whey'? Use each in a sentence.",
-      "answer": "WAY: A path, road, or direction; also a method of doing something.\nSentence: Can you show me the way to the railway station from here?\n\nWHEY: The watery part of milk that separates from curds when making cheese.\nSentence: Little Miss Muffet sat on a tuffet, eating her curds and whey.",
-      "justification": "'Way' relates to direction or method; 'whey' is a dairy product."
-    },
-    {
-      "id": "daffodils_homo_q5",
-      "context": "Homophones\nWord pair: heart / hart",
-      "question": "What is the difference between 'heart' and 'hart'? Use each in a sentence.",
-      "answer": "HEART: The organ that pumps blood; also the centre of emotions.\nSentence: Her heart was filled with joy when she received the good news.\n\nHART: A male deer, especially a red deer over five years old.\nSentence: The hunters spotted a magnificent hart with large antlers in the forest.",
-      "justification": "'Heart' is the organ or seat of emotions; 'hart' is an adult male deer."
-    },
-    {
-      "id": "daffodils_words_q1",
-      "context": "Working with Words\nFind the word used to describe: dance, company, eye, daffodils, mood",
-      "question": "Which words in the poem are used to describe these nouns?",
-      "answer": "DANCE: 'sprightly' - \"Tossing their heads in sprightly dance.\" Sprightly means lively and energetic.\n\nCOMPANY: 'jocund' - \"In such a jocund company.\" Jocund means cheerful and merry.\n\nEYE: 'inward' - \"They flash upon that inward eye.\" Inward means directed toward the mind/imagination.\n\nDAFFODILS: 'golden' - \"A host of golden Daffodils.\" Golden means bright yellow colour.\n\nMOOD: 'vacant' and 'pensive' - \"In vacant or in pensive mood.\" Vacant means empty; pensive means thoughtful.",
-      "justification": "Each adjective precisely describes its noun in the poem."
-    },
-    {
-      "id": "daffodils_hots_q1",
+      "id": "daff_tb_hots_h",
       "question": "(HOTS) What do you think the poet means by the 'inward eye', which is the 'bliss of solitude'? Do you ever use your 'inward eye'? When?",
-      "answer": "The 'inward eye' refers to our imagination or memory - the ability to see things in our mind even when they are not physically present. It is called the 'bliss of solitude' because when we are alone and quiet, we can recall beautiful memories and experience happiness again through our imagination.\n\nYes, we all use our inward eye regularly. For example:\n- When we remember a happy birthday party\n- When we recall a fun trip with family\n- When we think about a beautiful sunset we once saw\n- When we remember the face of a loved one who is far away\n\nThe inward eye helps us relive precious moments and feel happy even when we are by ourselves.",
-      "justification": "The 'inward eye' is a metaphor for imagination/memory. It's called 'bliss of solitude' because it makes being alone pleasant."
+      "answer": "The 'inward eye' refers to the **mind's eye or imagination/memory**. It is our ability to visualize things mentally even when we cannot see them physically. The poet can close his eyes and 'see' the daffodils in his mind.\n\nThe 'bliss of solitude' means the **happiness that comes from being alone**. When we are alone and quiet, we can use our imagination to recall beautiful memories. Solitude allows us to reflect and relive happy experiences.\n\nTogether, the phrase means: when the poet is alone, his memory (inward eye) brings back the image of the daffodils, and this makes him happy.\n\n**Personal examples of using the 'inward eye':**\n- Remembering a happy vacation or festival\n- Picturing a loved one's face when they're away\n- Recalling a beautiful sunset or scenic view\n- Imagining characters while reading a book\n- Daydreaming about future goals",
+      "source": "Textbook Comprehension HOTS (h)"
     },
     {
-      "id": "daffodils_hots_q2",
+      "id": "daff_tb_hots_i",
       "question": "(HOTS) Why is it that many poets love nature? How does nature bring people to write poetry?",
-      "answer": "Many poets love nature because:\n1. Nature offers endless beauty that inspires creative expression\n2. Nature provides peace and tranquility for deep reflection\n3. Natural sights evoke strong emotions\n4. Nature connects us to something larger than ourselves\n5. Nature is always changing, providing fresh inspiration\n\nNature brings people to write poetry because:\n- Beautiful scenes stir deep feelings that poets want to express\n- The peace of nature allows the mind to be creative\n- Natural objects can become symbols for human emotions\n- Nature makes us see the world in new and meaningful ways",
-      "justification": "Poets love nature because it provides beauty, peace, emotional inspiration, and deep meaning."
+      "answer": "**Why poets love nature:**\n1. Nature provides endless beauty - colours, forms, sounds, and movements that inspire creativity\n2. Nature offers peace and solitude for reflection and contemplation\n3. Natural scenes evoke strong emotions - joy, wonder, peace, awe\n4. Nature represents something pure and timeless, unlike the changing human world\n5. Nature's cycles (seasons, day/night) reflect human experiences of life, death, and renewal\n6. Being in nature helps poets feel connected to something larger than themselves\n\n**How nature brings people to write poetry:**\n1. Beautiful scenes create strong impressions that poets want to capture in words\n2. Nature's moods mirror human emotions - storms for anger, sunshine for happiness\n3. Observing nature closely reveals details that inspire metaphors and comparisons\n4. Time spent in nature allows quiet reflection, leading to deeper thoughts\n5. Nature's beauty often feels too wonderful to keep to oneself - poets want to share it\n6. Wordsworth himself said poetry comes from 'emotion recollected in tranquility' - nature provides both the emotion and the tranquility",
+      "source": "Textbook Comprehension HOTS (i)"
     },
     {
-      "id": "daffodils_hots_q3",
-      "question": "(HOTS) What is the poem about? What is the main idea?",
-      "answer": "The poem 'Daffodils' is about the poet's encounter with a beautiful field of golden daffodils and how that memory continues to bring him joy long after.\n\nOn the surface, the poem describes a walk during which Wordsworth sees thousands of daffodils dancing by a lake.\n\nOn a deeper level, the poem is about:\n1. The powerful relationship between nature and human happiness\n2. The lasting value of beautiful experiences\n3. The gift of memory and imagination (the 'inward eye')\n4. The 'bliss of solitude' - being alone is not sad when we have precious memories\n5. True wealth - real riches are beautiful experiences, not material things",
-      "justification": "The main idea is nature's power to bring lasting happiness through memory."
+      "id": "daff_tb_2",
+      "question": "2. (HOTS) What is the poem about?",
+      "answer": "The poem 'Daffodils' is about:\n\n1. **A beautiful experience in nature**: The poet describes seeing thousands of golden daffodils dancing beside a lake while he was walking alone in the countryside.\n\n2. **The joy that nature brings**: The sight of the daffodils filled the poet with happiness. He couldn't help but feel 'gay' (happy) in their 'jocund' (merry) company.\n\n3. **The lasting power of beautiful memories**: Even later, when the poet is alone at home in a thoughtful or empty mood, the memory of the daffodils comes back to him and fills his heart with pleasure.\n\n4. **The relationship between humans and nature**: The poem shows how deeply nature can affect us and how its beauty stays with us forever.\n\n5. **The 'bliss of solitude'**: Being alone allows us to recall beautiful memories and find happiness in them.\n\nIn essence, the poem celebrates the joy of nature and the enduring happiness that comes from appreciating natural beauty.",
+      "source": "Textbook Comprehension Q2"
+    },
+    {
+      "id": "daff_tb_3",
+      "question": "3. (HOTS) What is the main idea in the poem?",
+      "answer": "The main idea of the poem is that **nature has the power to bring lasting joy and comfort to our lives**.\n\nKey aspects of this main idea:\n\n1. **Nature's beauty creates deep impressions**: The sight of the dancing daffodils made such a strong impression on the poet that he could never forget them.\n\n2. **Happy memories sustain us**: Even when we are feeling empty ('vacant') or sad, memories of beautiful experiences can lift our spirits.\n\n3. **The 'wealth' of nature is spiritual, not material**: The poet says he didn't realize 'what wealth the show to me had brought.' This wealth is not money, but the treasure of a beautiful memory.\n\n4. **Solitude can be blissful**: When alone, we can use our 'inward eye' (imagination/memory) to relive happy moments.\n\n5. **Nature and humans are connected**: The poet's heart 'dances with the Daffodils' - showing the deep emotional bond between humans and nature.\n\nWordsworth's message: Take time to appreciate nature's beauty, for these experiences become treasures that bring happiness throughout life.",
+      "source": "Textbook Comprehension Q3"
+    },
+    {
+      "id": "daff_tb_4",
+      "question": "4. Personification Exercise: Say which abstract noun or inanimate object is being personified and state what quality it is being given.\na. Justice is blind.\nb. The moon stepped out of her mantle of cloud to smile upon us.\nc. The ship is called the 'Victory'. She sails at dawn.\nd. My motor car is twelve years old; she still runs smoothly.\ne. Necessity is the mother of invention.\nf. Mother Earth has wonderful gifts for all her children.",
+      "answer": "a. **Justice is blind.**\n- Personified: Justice (abstract noun)\n- Quality given: Blindness - the human quality of being unable to see\n- Meaning: Justice treats everyone equally without seeing their status, wealth, or appearance\n\nb. **The moon stepped out of her mantle of cloud to smile upon us.**\n- Personified: The moon (inanimate object)\n- Qualities given: Stepping (walking), wearing a mantle (cloak), smiling\n- The moon is treated as a graceful woman emerging from behind clouds\n\nc. **The ship is called the 'Victory'. She sails at dawn.**\n- Personified: The ship (inanimate object)\n- Quality given: Female gender ('She') - ships are traditionally referred to as female\n\nd. **My motor car is twelve years old; she still runs smoothly.**\n- Personified: The motor car (inanimate object)\n- Quality given: Female gender ('she'), running (like a person)\n\ne. **Necessity is the mother of invention.**\n- Personified: Necessity (abstract noun)\n- Quality given: Motherhood - being a mother who gives birth\n- Meaning: Need/necessity gives birth to new inventions\n\nf. **Mother Earth has wonderful gifts for all her children.**\n- Personified: Earth (inanimate object/planet)\n- Qualities given: Being a mother, having children, giving gifts\n- Meaning: Earth provides resources for all living beings like a nurturing mother",
+      "source": "Textbook Comprehension Q4"
+    },
+    {
+      "id": "daff_tb_words_4",
+      "question": "Working With Words Q4: Which words in the poem are used to describe the following?\n- dance\n- company\n- eye\n- daffodils\n- mood",
+      "answer": "- **dance** - 'sprightly' (sprightly dance) - meaning lively, energetic\n- **company** - 'jocund' (jocund company) - meaning merry, cheerful\n- **eye** - 'inward' (inward eye) - meaning the mind's eye, imagination\n- **daffodils** - 'golden' (golden Daffodils) - referring to their yellow colour\n- **mood** - 'vacant' and 'pensive' (vacant or in pensive mood) - meaning empty/idle and thoughtful",
+      "source": "Textbook Working With Words Q4"
+    },
+    {
+      "id": "daff_tb_words_1",
+      "question": "Working With Words Q1: What is the difference in meaning between the words in each pair?\na. wandered / wondered\nb. vales / Wales\nc. crowd / crowed\nd. way / whey\ne. heart / hart",
+      "answer": "a. **wandered / wondered**\n- wandered = walked aimlessly, roamed without purpose\n- wondered = felt curious, thought about something with curiosity\n\nb. **vales / Wales**\n- vales = valleys (plural of vale)\n- Wales = a country in the United Kingdom\n\nc. **crowd / crowed**\n- crowd = a large group of people gathered together\n- crowed = made the sound of a rooster; or boasted proudly\n\nd. **way / whey**\n- way = path, direction, or method of doing something\n- whey = the watery part of milk that separates from curds when making cheese\n\ne. **heart / hart**\n- heart = the organ that pumps blood; also feelings/emotions\n- hart = an adult male deer, especially a red deer over five years old",
+      "source": "Textbook Working With Words Q1"
+    },
+    {
+      "id": "daff_extra_1",
+      "question": "Describe the setting of the poem 'Daffodils'.",
+      "answer": "The poem is set in the beautiful Lake District of England, where Wordsworth lived. The specific setting includes:\n\n1. **Landscape**: The poet is walking over 'vales and hills' - valleys and hills of the countryside\n\n2. **The Lake**: A bay or lake with waves sparkling in the light\n\n3. **The Daffodils**: Thousands of golden daffodils growing 'beside the lake, beneath the trees' - along the water's edge, under the shade of trees\n\n4. **Weather**: There is a breeze blowing, making the daffodils flutter and dance\n\n5. **The 'Milky Way' comparison**: Suggests a clear view, perhaps a bright day where the flowers shine like stars\n\nThe scene is one of natural beauty - a peaceful lakeside with trees and countless yellow daffodils swaying in the wind. The second setting (in the last verse) is the poet's home, where he lies on his couch and remembers this scene.",
+      "source": "Additional Question"
+    },
+    {
+      "id": "daff_extra_2",
+      "question": "What is the central theme of the poem 'Daffodils'?",
+      "answer": "The central theme of 'Daffodils' is **the healing and lasting power of nature's beauty on the human soul**.\n\nKey aspects of this theme:\n\n1. **Nature as a source of joy**: The dancing daffodils bring the poet immense happiness, lifting him from his lonely mood.\n\n2. **The permanence of beautiful memories**: The experience of seeing the daffodils stays with the poet forever. Even years later, the memory returns to comfort him.\n\n3. **The 'wealth' of nature**: Material wealth fades, but the spiritual wealth gained from appreciating nature remains. The poet calls this a 'show' that brought him 'wealth.'\n\n4. **Solitude and reflection**: The poem celebrates how being alone allows us to recall and relive beautiful moments through our 'inward eye.'\n\n5. **The interconnection of humans and nature**: The poet's heart 'dances with the Daffodils,' showing how deeply nature can touch the human spirit.\n\nWordsworth's Romantic philosophy shines through: nature is not just beautiful scenery but a spiritual force that nurtures and heals the soul.",
+      "source": "Additional Question"
+    },
+    {
+      "id": "daff_extra_3",
+      "question": "What literary devices are used in the poem 'Daffodils'?",
+      "answer": "**1. Simile** (comparison using 'like' or 'as'):\n- 'I wandered lonely as a cloud' - poet compared to a cloud\n- 'Continuous as the stars that shine' - daffodils compared to stars\n\n**2. Personification** (giving human qualities to non-human things):\n- Daffodils 'dancing', 'tossing their heads'\n- Waves 'danced'\n- Daffodils as 'jocund company'\n- Heart 'dances with the Daffodils'\n\n**3. Hyperbole** (exaggeration):\n- 'Ten thousand saw I at a glance' - exaggerated number\n- 'never-ending line' - exaggeration of length\n\n**4. Imagery** (vivid descriptions appealing to senses):\n- Visual: 'golden Daffodils', 'sparkling waves', 'milky way'\n- Movement: 'fluttering', 'dancing', 'tossing'\n\n**5. Alliteration** (repetition of consonant sounds):\n- 'I wandered... What wealth'\n- 'beside... beneath'\n\n**6. Metaphor** (implied comparison):\n- 'inward eye' - memory/imagination compared to an eye\n- 'bliss of solitude' - happiness as a quality of being alone\n\n**7. Rhyme Scheme**: ABABCC in each stanza",
+      "source": "Additional Question"
     }
   ]
 }
