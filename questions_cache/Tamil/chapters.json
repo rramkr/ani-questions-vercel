@@ -3,8 +3,9 @@
   "chapters": [
     {
       "name": "Unseen Passage",
-      "slug": "Unseen Passage",
-      "order": 1
+      "slug": "Unseen_Passage",
+      "has_questions": true,
+      "icon": "📖"
     }
   ]
 }
