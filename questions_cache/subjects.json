@@ -7,12 +7,6 @@
       "chapter_count": 5
     },
     {
-      "name": "English E1",
-      "slug": "english_e1",
-      "icon": "📖",
-      "chapter_count": 2
-    },
-    {
       "name": "English E2",
       "slug": "english_e2",
       "icon": "📚",
@@ -49,6 +43,12 @@
       "slug": "General Knowledge",
       "icon": "🧠",
       "chapter_count": 1
+    },
+    {
+      "name": "English E1",
+      "slug": "english_e1",
+      "icon": "📖",
+      "chapter_count": 2
     }
   ]
 }
