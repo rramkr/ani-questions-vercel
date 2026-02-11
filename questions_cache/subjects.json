@@ -23,6 +23,12 @@
       "slug": "Computer_Science",
       "icon": "💻",
       "chapter_count": 2
+    },
+    {
+      "name": "Tamil",
+      "slug": "Tamil",
+      "icon": "🇮🇳",
+      "chapter_count": 1
     }
   ],
   "completed": [
