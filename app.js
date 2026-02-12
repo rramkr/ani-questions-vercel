@@ -1921,11 +1921,31 @@ function renderQuestionShowAll(question, index) {
         answerContent = renderTextAnswerShowAll(question);
     }
 
+    // Add diagram support
+    let diagramHtml = '';
+    if (question.has_diagram) {
+        if (question.diagram_image) {
+            diagramHtml = `
+                <div class="question-diagram">
+                    <img src="${question.diagram_image}" alt="Diagram for question" class="diagram-image" onclick="openDiagramModal(this.src)">
+                    <span class="diagram-hint">Click to enlarge</span>
+                </div>
+            `;
+        } else if (question.diagram_description) {
+            diagramHtml = `
+                <div class="diagram-description">
+                    <em>📊 Diagram: ${question.diagram_description}</em>
+                </div>
+            `;
+        }
+    }
+
     return `
         <div class="question-row" id="question-${question.id}">
             <div class="question-side">
                 <div class="question-number">Q${index + 1}</div>
                 <div class="question-content">
+                    ${diagramHtml}
                     ${questionContent}
                 </div>
             </div>
@@ -2299,6 +2319,25 @@ function renderOneByOneQuiz() {
     const questionContent = renderOneByOneQuestion(currentQuestion, state.currentQuestionIndex);
     const answerContent = state.currentAnswerRevealed ? renderOneByOneAnswer(currentQuestion) : '';
 
+    // Add diagram support for one-by-one mode
+    let diagramHtml = '';
+    if (currentQuestion.has_diagram) {
+        if (currentQuestion.diagram_image) {
+            diagramHtml = `
+                <div class="question-diagram">
+                    <img src="${currentQuestion.diagram_image}" alt="Diagram for question" class="diagram-image" onclick="openDiagramModal(this.src)">
+                    <span class="diagram-hint">Click to enlarge</span>
+                </div>
+            `;
+        } else if (currentQuestion.diagram_description) {
+            diagramHtml = `
+                <div class="diagram-description">
+                    <em>📊 Diagram: ${currentQuestion.diagram_description}</em>
+                </div>
+            `;
+        }
+    }
+
     // Navigation buttons
     const isFirst = state.currentQuestionIndex === 0;
     const isLast = state.currentQuestionIndex === totalQuestions - 1;
@@ -2318,6 +2357,7 @@ function renderOneByOneQuiz() {
 
             <div class="single-question-card compact">
                 <div class="question-body compact">
+                    ${diagramHtml}
                     ${questionContent}
                     ${!state.currentAnswerRevealed ? `
                         <div class="action-buttons-inline">
