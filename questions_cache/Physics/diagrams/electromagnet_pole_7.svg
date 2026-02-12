@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 250">
+  <!-- Background -->
+  <rect width="450" height="250" fill="#f8f9fa"/>
+
+  <!-- Title -->
+  <text x="225" y="20" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Diagram 7: Simple electromagnet - Find poles at R and S</text>
+
+  <!-- Iron nail -->
+  <rect x="80" y="100" width="200" height="15" fill="#4a4a4a" stroke="#333" stroke-width="2"/>
+  <!-- Nail head -->
+  <rect x="60" y="95" width="25" height="25" fill="#5a5a5a" stroke="#333" stroke-width="2"/>
+  <!-- Nail point -->
+  <polygon points="280,100 300,107.5 280,115" fill="#4a4a4a" stroke="#333" stroke-width="2"/>
+
+  <!-- Coil windings around nail -->
+  <g stroke="#b8860b" stroke-width="3" fill="none">
+    <ellipse cx="110" cy="107" rx="10" ry="22"/>
+    <ellipse cx="130" cy="107" rx="10" ry="22"/>
+    <ellipse cx="150" cy="107" rx="10" ry="22"/>
+    <ellipse cx="170" cy="107" rx="10" ry="22"/>
+    <ellipse cx="190" cy="107" rx="10" ry="22"/>
+    <ellipse cx="210" cy="107" rx="10" ry="22"/>
+    <ellipse cx="230" cy="107" rx="10" ry="22"/>
+    <ellipse cx="250" cy="107" rx="10" ry="22"/>
+  </g>
+
+  <!-- Current arrows (UP on front) -->
+  <g fill="#9b59b6" stroke="#9b59b6" stroke-width="2">
+    <line x1="120" y1="125" x2="120" y2="95"/>
+    <polygon points="120,90 115,100 125,100"/>
+    <line x1="160" y1="125" x2="160" y2="95"/>
+    <polygon points="160,90 155,100 165,100"/>
+    <line x1="200" y1="125" x2="200" y2="95"/>
+    <polygon points="200,90 195,100 205,100"/>
+    <line x1="240" y1="125" x2="240" y2="95"/>
+    <polygon points="240,90 235,100 245,100"/>
+  </g>
+
+  <!-- Labels R and S -->
+  <text x="35" y="115" font-family="Arial" font-size="20" font-weight="bold" fill="#c0392b">R</text>
+  <text x="320" y="115" font-family="Arial" font-size="20" font-weight="bold" fill="#c0392b">S</text>
+
+  <!-- Battery -->
+  <rect x="320" y="160" width="80" height="50" fill="#fff" stroke="#333" stroke-width="2" rx="5"/>
+  <text x="360" y="190" text-anchor="middle" font-family="Arial" font-size="10">BATTERY</text>
+  <text x="330" y="175" font-family="Arial" font-size="16" font-weight="bold">+</text>
+  <text x="385" y="175" font-family="Arial" font-size="16" font-weight="bold">-</text>
+
+  <!-- Switch -->
+  <circle cx="180" cy="185" r="8" fill="#fff" stroke="#333" stroke-width="2"/>
+  <line x1="180" y1="185" x2="200" y2="170" stroke="#333" stroke-width="3"/>
+  <circle cx="210" cy="185" r="8" fill="#fff" stroke="#333" stroke-width="2"/>
+  <text x="195" y="210" text-anchor="middle" font-family="Arial" font-size="10">SWITCH</text>
+
+  <!-- Wire connections -->
+  <path d="M95,130 L95,185 L172,185" stroke="#b8860b" stroke-width="2" fill="none"/>
+  <path d="M265,130 L265,185 L320,185" stroke="#b8860b" stroke-width="2" fill="none"/>
+  <line x1="218" y1="185" x2="320" y2="185" stroke="#b8860b" stroke-width="2"/>
+
+  <!-- Labels -->
+  <text x="70" y="145" font-family="Arial" font-size="9" fill="#666">Iron nail</text>
+  <text x="175" y="70" font-family="Arial" font-size="9" fill="#666">Insulated copper wire</text>
+</svg>

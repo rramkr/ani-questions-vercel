@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <!-- Background -->
+  <rect width="400" height="220" fill="#f8f9fa"/>
+
+  <!-- Title -->
+  <text x="200" y="20" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Diagram 5: End-on view - What pole is this end?</text>
+
+  <!-- Solenoid end (circular view) -->
+  <circle cx="200" cy="115" r="70" fill="#d0d0d0" stroke="#333" stroke-width="3"/>
+  <circle cx="200" cy="115" r="50" fill="#808080" stroke="#333" stroke-width="2"/>
+  <text x="200" y="120" text-anchor="middle" font-family="Arial" font-size="12" fill="#333">CORE</text>
+
+  <!-- Current direction - ANTICLOCKWISE -->
+  <g fill="none" stroke="#e74c3c" stroke-width="4">
+    <!-- Curved arrow going anticlockwise -->
+    <path d="M200,45 A70,70 0 1,0 130,115" />
+  </g>
+  <!-- Arrow head for anticlockwise -->
+  <polygon points="125,105 135,115 125,125" fill="#e74c3c"/>
+
+  <!-- Current labels -->
+  <text x="200" y="200" text-anchor="middle" font-family="Arial" font-size="14" fill="#e74c3c" font-weight="bold">Current flows ANTICLOCKWISE</text>
+
+  <!-- Question mark -->
+  <text x="200" y="165" text-anchor="middle" font-family="Arial" font-size="24" fill="#2c3e50" font-weight="bold">?</text>
+
+  <!-- Instruction -->
+  <text x="200" y="215" text-anchor="middle" font-family="Arial" font-size="11" fill="#666">(Looking at this end of the solenoid)</text>
+</svg>

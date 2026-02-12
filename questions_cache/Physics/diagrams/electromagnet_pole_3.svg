@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <!-- Background -->
+  <rect width="400" height="220" fill="#f8f9fa"/>
+
+  <!-- Title -->
+  <text x="200" y="20" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Diagram 3: Find the poles at A and B</text>
+
+  <!-- Core -->
+  <rect x="80" y="90" width="240" height="25" fill="#a0a0a0" stroke="#333" stroke-width="2"/>
+  <text x="200" y="107" text-anchor="middle" font-family="Arial" font-size="10" fill="#333">IRON CORE</text>
+
+  <!-- Coil windings -->
+  <g stroke="#cd853f" stroke-width="4" fill="none">
+    <ellipse cx="110" cy="102" rx="12" ry="30"/>
+    <ellipse cx="135" cy="102" rx="12" ry="30"/>
+    <ellipse cx="160" cy="102" rx="12" ry="30"/>
+    <ellipse cx="185" cy="102" rx="12" ry="30"/>
+    <ellipse cx="210" cy="102" rx="12" ry="30"/>
+    <ellipse cx="235" cy="102" rx="12" ry="30"/>
+    <ellipse cx="260" cy="102" rx="12" ry="30"/>
+    <ellipse cx="285" cy="102" rx="12" ry="30"/>
+  </g>
+
+  <!-- Current direction arrows (pointing DOWN on front) -->
+  <g fill="#3498db" stroke="#3498db" stroke-width="2">
+    <line x1="122" y1="75" x2="122" y2="115"/>
+    <polygon points="122,120 117,110 127,110"/>
+    <line x1="172" y1="75" x2="172" y2="115"/>
+    <polygon points="172,120 167,110 177,110"/>
+    <line x1="222" y1="75" x2="222" y2="115"/>
+    <polygon points="222,120 217,110 227,110"/>
+    <line x1="272" y1="75" x2="272" y2="115"/>
+    <polygon points="272,120 267,110 277,110"/>
+  </g>
+
+  <!-- Labels A and B -->
+  <circle cx="50" cy="102" r="18" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="50" y="108" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="white">A</text>
+  <circle cx="350" cy="102" r="18" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="350" y="108" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="white">B</text>
+
+  <!-- Battery with + on RIGHT (near B) -->
+  <rect x="150" y="165" width="100" height="35" fill="#fff" stroke="#333" stroke-width="2" rx="5"/>
+  <text x="200" y="187" text-anchor="middle" font-family="Arial" font-size="12" fill="#333">BATTERY</text>
+  <line x1="170" y1="172" x2="170" y2="190" stroke="#333" stroke-width="3"/>
+  <line x1="230" y1="169" x2="230" y2="193" stroke="#333" stroke-width="3"/>
+  <text x="165" y="210" font-family="Arial" font-size="14" font-weight="bold" fill="#333">-</text>
+  <text x="225" y="210" font-family="Arial" font-size="14" font-weight="bold" fill="#333">+</text>
+
+  <!-- Wire connections -->
+  <path d="M95,132 L95,182 L150,182" stroke="#cd853f" stroke-width="3" fill="none"/>
+  <path d="M300,132 L300,182 L250,182" stroke="#cd853f" stroke-width="3" fill="none"/>
+
+  <!-- Current flow label -->
+  <text x="122" y="65" font-family="Arial" font-size="9" fill="#3498db">I</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <!-- Background -->
+  <rect width="400" height="220" fill="#f8f9fa"/>
+
+  <!-- Title -->
+  <text x="200" y="20" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Diagram 8: Find the poles at C and D</text>
+
+  <!-- Core -->
+  <rect x="70" y="85" width="260" height="30" fill="#708090" stroke="#333" stroke-width="2"/>
+
+  <!-- Coil windings -->
+  <g stroke="#2ecc71" stroke-width="4" fill="none">
+    <ellipse cx="95" cy="100" rx="12" ry="28"/>
+    <ellipse cx="125" cy="100" rx="12" ry="28"/>
+    <ellipse cx="155" cy="100" rx="12" ry="28"/>
+    <ellipse cx="185" cy="100" rx="12" ry="28"/>
+    <ellipse cx="215" cy="100" rx="12" ry="28"/>
+    <ellipse cx="245" cy="100" rx="12" ry="28"/>
+    <ellipse cx="275" cy="100" rx="12" ry="28"/>
+    <ellipse cx="305" cy="100" rx="12" ry="28"/>
+  </g>
+
+  <!-- Current direction arrows (pointing DOWN on front face) -->
+  <g fill="#e67e22" stroke="#e67e22" stroke-width="2">
+    <line x1="110" y1="75" x2="110" y2="110"/>
+    <polygon points="110,115 105,105 115,105"/>
+    <line x1="170" y1="75" x2="170" y2="110"/>
+    <polygon points="170,115 165,105 175,105"/>
+    <line x1="230" y1="75" x2="230" y2="110"/>
+    <polygon points="230,115 225,105 235,105"/>
+    <line x1="290" y1="75" x2="290" y2="110"/>
+    <polygon points="290,115 285,105 295,105"/>
+  </g>
+
+  <!-- Labels C and D with circles -->
+  <circle cx="40" cy="100" r="20" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="40" y="107" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="white">C</text>
+  <circle cx="360" cy="100" r="20" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="360" y="107" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="white">D</text>
+
+  <!-- Battery with - on LEFT (near C), + on RIGHT (near D) -->
+  <g transform="translate(140, 160)">
+    <rect x="0" y="0" width="120" height="40" fill="#fff" stroke="#333" stroke-width="2" rx="5"/>
+    <text x="60" y="28" text-anchor="middle" font-family="Arial" font-size="11" fill="#333">CELL</text>
+    <!-- Negative terminal (shorter line) on left -->
+    <line x1="25" y1="8" x2="25" y2="32" stroke="#333" stroke-width="2"/>
+    <!-- Positive terminal (longer line) on right -->
+    <line x1="95" y1="5" x2="95" y2="35" stroke="#333" stroke-width="4"/>
+    <text x="22" y="55" font-family="Arial" font-size="14" font-weight="bold">-</text>
+    <text x="92" y="55" font-family="Arial" font-size="14" font-weight="bold">+</text>
+  </g>
+
+  <!-- Wire connections -->
+  <path d="M75,115 L75,180 L140,180" stroke="#2ecc71" stroke-width="3" fill="none"/>
+  <path d="M320,115 L320,180 L260,180" stroke="#2ecc71" stroke-width="3" fill="none"/>
+
+  <!-- Current indicator -->
+  <text x="60" y="65" font-family="Arial" font-size="9" fill="#e67e22">I (current)</text>
+</svg>
