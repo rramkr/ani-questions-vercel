@@ -11,7 +11,8 @@
     {
       "id": "fp_1",
       "question": "Study the diagram below and find the North and South poles at ends P and Q.",
-      "diagram": "/questions_cache/Physics/diagrams/electromagnet_pole_1.svg",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/Physics/diagrams/electromagnet_pole_1.svg",
       "diagram_description": "A solenoid connected to a battery. Negative (-) terminal on left, positive (+) on right. Current arrows point UPWARD on the front face of the coil.",
       "answer": "**Answer: P = SOUTH (S), Q = NORTH (N)**\n\n**Step-by-step solution using Right-Hand Thumb Rule:**\n\n1. **Current direction:** Current flows from + (right) to - (left) through the external circuit.\n\n2. **Inside the coil:** Arrows show current flowing UPWARD on the front face. This means current flows DOWNWARD on the back face.\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Curl your right-hand fingers in the direction of current (UP at front, DOWN at back)\n   - Fingers wrap from left to right when viewed from above\n   - Your THUMB points to the RIGHT (towards Q)\n\n4. **Conclusion:** Q = NORTH pole (N), P = SOUTH pole (S)\n\n**Verification using Clock Rule:**\n- Looking at P (left end): current flows clockwise → South pole ✓\n- Looking at Q (right end): current flows anticlockwise → North pole ✓",
       "key_points": ["P = South (S)", "Q = North (N)", "Current upward on front face → thumb points right"]
@@ -19,7 +20,8 @@
     {
       "id": "fp_2",
       "question": "Study the diagram below and find the polarity at ends X and Y.",
-      "diagram": "/questions_cache/Physics/diagrams/electromagnet_pole_2.svg",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/Physics/diagrams/electromagnet_pole_2.svg",
       "diagram_description": "A solenoid with ends X (left) and Y (right). Wire winds OVER the top. Battery has + near X (left) and - near Y (right).",
       "answer": "**Answer: X = NORTH (N), Y = SOUTH (S)**\n\n**Step-by-step solution using Right-Hand Thumb Rule:**\n\n1. **Current direction:** Current enters from + terminal (near X) and exits at - terminal (near Y).\n\n2. **Trace current through windings:**\n   - Wire winds OVER the top from left to right\n   - At FRONT face: current flows DOWNWARD (coming over from top)\n   - At BACK face: current flows UPWARD\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Curl fingers: DOWN at front, UP at back\n   - Fingers curl from right to left when viewed from above\n   - Your THUMB points to the LEFT (towards X)\n\n4. **Conclusion:** X = NORTH pole (N), Y = SOUTH pole (S)\n\n**Verification using Clock Rule:**\n- Looking at X: current flows anticlockwise → North pole ✓\n- Looking at Y: current flows clockwise → South pole ✓",
       "key_points": ["X = North (N)", "Y = South (S)", "Wire over top + positive near X → North at X"]
@@ -27,7 +29,8 @@
     {
       "id": "fp_3",
       "question": "Study the diagram below and identify the magnetic poles at ends A and B.",
-      "diagram": "/questions_cache/Physics/diagrams/electromagnet_pole_3.svg",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/Physics/diagrams/electromagnet_pole_3.svg",
       "diagram_description": "A horizontal electromagnet with iron core. Ends labeled A (left) and B (right). Battery has - on left and + on right. Current arrows point DOWNWARD on front face.",
       "answer": "**Answer: A = SOUTH (S), B = NORTH (N)**\n\n**Step-by-step solution using Right-Hand Thumb Rule:**\n\n1. **Current direction:** Current flows from + terminal (right/B side) through the coil to - terminal (left/A side).\n\n2. **Inside the coil:** Current arrows point DOWNWARD on the front face. This means current flows UPWARD on the back face.\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Curl fingers: DOWN at front, UP at back\n   - Fingers curl from LEFT to RIGHT when viewed from above\n   - Your THUMB points to the RIGHT (towards B)\n\n4. **Conclusion:** B = NORTH pole (N), A = SOUTH pole (S)\n\n**Key insight:** When positive terminal is on the right side and current flows down at front, the North pole forms on the right.",
       "key_points": ["A = South (S)", "B = North (N)", "Current down on front, + on right → North at B"]
@@ -35,7 +38,8 @@
     {
       "id": "fp_4",
       "question": "Study the diagram below and find the poles at ends M and N.",
-      "diagram": "/questions_cache/Physics/diagrams/electromagnet_pole_4.svg",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/Physics/diagrams/electromagnet_pole_4.svg",
       "diagram_description": "A solenoid with ends M (left) and N (right). Battery has + on left (near M) and - on right. Current arrows point UPWARD on front face.",
       "answer": "**Answer: M = NORTH (N), N = SOUTH (S)**\n\n**Step-by-step solution using Right-Hand Thumb Rule:**\n\n1. **Current direction:** Current enters from + terminal (left/M side) and exits at - terminal (right/N side).\n\n2. **Inside the coil:** Current arrows point UPWARD on the front face. This means current flows DOWNWARD on the back face.\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Curl fingers: UP at front, DOWN at back\n   - Fingers curl from RIGHT to LEFT when viewed from above\n   - Your THUMB points to the LEFT (towards M)\n\n4. **Conclusion:** M = NORTH pole (N), N = SOUTH pole (S)\n\n**Verification using Clock Rule:**\n- Looking at M: current flows anticlockwise → North pole ✓\n- Looking at N: current flows clockwise → South pole ✓",
       "key_points": ["M = North (N)", "N = South (S)", "Current up on front + positive on left → North at M"]
@@ -43,7 +47,8 @@
     {
       "id": "fp_5",
       "question": "Study the END-ON VIEW diagram below. Looking directly at this end of the solenoid, what pole is this?",
-      "diagram": "/questions_cache/Physics/diagrams/electromagnet_pole_5.svg",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/Physics/diagrams/electromagnet_pole_5.svg",
       "diagram_description": "End-on view of a solenoid showing current flowing ANTICLOCKWISE around the core.",
       "answer": "**Answer: This end is the NORTH POLE (N)**\n\n**Explanation using Clock Rule:**\n\n1. We are looking directly at one end of the solenoid\n2. Current flows ANTICLOCKWISE at this end\n3. According to Clock Rule: **Anticlockwise = North Pole**\n\n**Memory aid:** The word 'aNticlockwise' contains 'N' for North\n\n**Therefore:** This end is the NORTH POLE (N)\n\n**Consequence:** The opposite end must be the SOUTH POLE (S), since every magnet has two opposite poles.",
       "key_points": ["Anticlockwise = North pole", "Memory: aNti has N", "Opposite end = South"]
@@ -51,7 +56,8 @@
     {
       "id": "fp_6",
       "question": "Study the END-ON VIEW diagram below. Looking directly at this end of the solenoid, what pole is this?",
-      "diagram": "/questions_cache/Physics/diagrams/electromagnet_pole_6.svg",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/Physics/diagrams/electromagnet_pole_6.svg",
       "diagram_description": "End-on view of a solenoid showing current flowing CLOCKWISE around the core.",
       "answer": "**Answer: This end is the SOUTH POLE (S)**\n\n**Explanation using Clock Rule:**\n\n1. We are looking directly at one end of the solenoid\n2. Current flows CLOCKWISE at this end\n3. According to Clock Rule: **Clockwise = South Pole**\n\n**Memory aid:** The word 'clockwiSe' contains 'S' for South\n\n**Therefore:** This end is the SOUTH POLE (S)\n\n**Consequence:** The opposite end must be the NORTH POLE (N), since every magnet has two opposite poles.",
       "key_points": ["Clockwise = South pole", "Memory: clockwiSe has S", "Opposite end = North"]
@@ -59,7 +65,8 @@
     {
       "id": "fp_7",
       "question": "Study the diagram below showing a simple electromagnet made with an iron nail. Find the poles at ends R and S.",
-      "diagram": "/questions_cache/Physics/diagrams/electromagnet_pole_7.svg",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/Physics/diagrams/electromagnet_pole_7.svg",
       "diagram_description": "An iron nail with insulated wire wound around it. Battery has + on left side. Switch is included in circuit. Current arrows point UPWARD on front face. R is at nail head (left), S is at nail point (right).",
       "answer": "**Answer: R = NORTH (N), S = SOUTH (S)**\n\n**Step-by-step solution:**\n\n1. **Identify the circuit:** When switch is closed, current flows from + terminal (left side) through the coil around the iron nail.\n\n2. **Current direction:** Arrows show current flowing UPWARD on the front face of the coil.\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Curl fingers in direction of current (UP at front, DOWN at back)\n   - Fingers curl from right to left when viewed from above\n   - Your THUMB points to the LEFT (towards R)\n\n4. **Conclusion:** R (nail head) = NORTH pole (N), S (nail point) = SOUTH pole (S)\n\n**Note:** The iron nail acts as the core, which makes the electromagnet stronger. When the switch is open, the nail loses its magnetism.",
       "key_points": ["R = North (N)", "S = South (S)", "Iron nail = core for stronger magnetism"]
@@ -67,7 +74,8 @@
     {
       "id": "fp_8",
       "question": "Study the diagram below and find the poles at ends C and D.",
-      "diagram": "/questions_cache/Physics/diagrams/electromagnet_pole_8.svg",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/Physics/diagrams/electromagnet_pole_8.svg",
       "diagram_description": "A solenoid with ends C (left) and D (right). Battery has - on left (near C) and + on right (near D). Current arrows point DOWNWARD on front face.",
       "answer": "**Answer: C = SOUTH (S), D = NORTH (N)**\n\n**Step-by-step solution using Right-Hand Thumb Rule:**\n\n1. **Current direction:** Current flows from + terminal (right/D side) to - terminal (left/C side) through the external circuit.\n\n2. **Inside the coil:** Current arrows point DOWNWARD on the front face. This means current flows UPWARD on the back face.\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Curl fingers: DOWN at front, UP at back\n   - Fingers curl from left to right when viewed from above\n   - Your THUMB points to the RIGHT (towards D)\n\n4. **Conclusion:** D = NORTH pole (N), C = SOUTH pole (S)\n\n**Verification using Clock Rule:**\n- Looking at C: current flows clockwise → South pole ✓\n- Looking at D: current flows anticlockwise → North pole ✓",
       "key_points": ["C = South (S)", "D = North (N)", "Current down on front + positive on right → North at D"]
