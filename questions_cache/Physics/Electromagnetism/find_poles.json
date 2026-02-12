@@ -1,0 +1,72 @@
+{
+  "question_type": "find_poles",
+  "questions": [
+    {
+      "id": "fp_concept",
+      "question": "What are the two rules used to find the poles of an electromagnet?",
+      "answer": "Two rules to find poles of an electromagnet:\n\n**1. Right-Hand Thumb Rule (Solenoid Rule):**\n- Curl your RIGHT hand fingers in the direction the current flows through the coil windings\n- Your extended THUMB points towards the NORTH POLE\n\n**2. Clock Rule (End-On View):**\n- Look directly at one end of the electromagnet\n- If current flows ANTICLOCKWISE at that end → NORTH pole\n- If current flows CLOCKWISE at that end → SOUTH pole\n- Memory tip: 'aNti' has 'N' for North, 'clockwiSe' has 'S' for South",
+      "key_points": ["Right-Hand Thumb Rule - thumb points to North", "Clock Rule - anticlockwise = North, clockwise = South"]
+    },
+    {
+      "id": "fp_1",
+      "question": "DIAGRAM 1: A solenoid is connected to a battery. The negative (-) terminal is on the LEFT and positive (+) terminal is on the RIGHT. Current direction arrows inside the coil point UPWARD on the front face. Find the North and South poles.",
+      "answer": "**Answer: Left end = SOUTH (S), Right end = NORTH (N)**\n\n**Step-by-step solution using Right-Hand Thumb Rule:**\n\n1. **Current direction:** Current flows from + (right) to - (left) through the external circuit.\n\n2. **Inside the coil:** Arrows show current flowing UPWARD on the front face. This means current flows DOWNWARD on the back face.\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Curl your right-hand fingers in the direction of current (UP at front, DOWN at back)\n   - Fingers wrap from left to right when viewed from above\n   - Your THUMB points to the RIGHT\n\n4. **Conclusion:** RIGHT end = NORTH pole (N), LEFT end = SOUTH pole (S)\n\n**Verification using Clock Rule:**\n- Looking at LEFT end: current flows clockwise → South pole ✓\n- Looking at RIGHT end: current flows anticlockwise → North pole ✓",
+      "key_points": ["Left = South (S)", "Right = North (N)", "Current upward on front face → thumb points right"]
+    },
+    {
+      "id": "fp_2",
+      "question": "DIAGRAM 2: A solenoid has ends labeled X (left) and Y (right). The wire winds OVER the top of the core from left to right. Battery has positive (+) terminal near X and negative (-) terminal near Y. Find the polarity at X and Y.",
+      "answer": "**Answer: X = NORTH (N), Y = SOUTH (S)**\n\n**Step-by-step solution using Right-Hand Thumb Rule:**\n\n1. **Current direction:** Current enters from + terminal (near X) and exits at - terminal (near Y).\n\n2. **Trace current through windings:**\n   - Wire winds OVER the top from left to right\n   - At FRONT face: current flows DOWNWARD (coming over from top)\n   - At BACK face: current flows UPWARD\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Curl fingers: DOWN at front, UP at back\n   - Fingers curl from right to left when viewed from above\n   - Your THUMB points to the LEFT (towards X)\n\n4. **Conclusion:** X = NORTH pole (N), Y = SOUTH pole (S)\n\n**Verification using Clock Rule:**\n- Looking at X: current flows anticlockwise → North pole ✓\n- Looking at Y: current flows clockwise → South pole ✓",
+      "key_points": ["X = North (N)", "Y = South (S)", "Wire over top + positive near X → North at X"]
+    },
+    {
+      "id": "fp_3",
+      "question": "DIAGRAM 3: A cylindrical solenoid is shown at an angle. The coil has multiple turns. On the visible front surface, current moves in a pattern indicating it wraps around the core. The internal magnetic field points from left to right. Find the poles.",
+      "answer": "**Answer: Left end = SOUTH (S), Right end = NORTH (N)**\n\n**Step-by-step solution:**\n\n1. **Key information:** Internal magnetic field points from LEFT to RIGHT.\n\n2. **Important concept:** Inside a solenoid/electromagnet, magnetic field lines always go from SOUTH pole to NORTH pole.\n\n3. **Apply the concept:**\n   - Field lines go LEFT → RIGHT inside the solenoid\n   - Therefore, LEFT end must be SOUTH pole\n   - And RIGHT end must be NORTH pole\n\n4. **Verification using Right-Hand Thumb Rule:**\n   - The current flow pattern around the coil\n   - When fingers curl with the current, thumb points RIGHT\n   - Confirming RIGHT end = North pole\n\n**Remember:** Inside any magnet, field lines go S → N. Outside, they go N → S (forming closed loops).",
+      "key_points": ["Left = South (S)", "Right = North (N)", "Internal field goes from S to N"]
+    },
+    {
+      "id": "fp_4",
+      "question": "DIAGRAM 4: A horizontal electromagnet has ends labeled A (left) and B (right). Battery has positive (+) terminal on LEFT and negative (-) on RIGHT. The wire is wound around the core. Find the poles at A and B.",
+      "answer": "**Answer: A = NORTH (N), B = SOUTH (S)**\n\n**Step-by-step solution using Right-Hand Thumb Rule:**\n\n1. **Current direction:** Current flows from + terminal (left/A side) through the coil to - terminal (right/B side).\n\n2. **Trace current through coil:**\n   - Current ENTERS the coil from the LEFT (A) side\n   - Flows through the windings around the core\n   - EXITS towards the RIGHT (B) side\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Based on the standard winding pattern\n   - With + on left, current enters and winds around\n   - Your THUMB points LEFT (towards A)\n\n4. **Conclusion:** A = NORTH pole (N), B = SOUTH pole (S)\n\n**Key insight:** When positive terminal is on one side, the current enters from that side. The winding direction determines which end becomes North.",
+      "key_points": ["A = North (N)", "B = South (S)", "Positive terminal on left → current enters from left"]
+    },
+    {
+      "id": "fp_5",
+      "question": "DIAGRAM 5: A solenoid shows WINDINGS (coil), CORE (central rod), and WIRE connecting to battery. The positive (+) terminal is at the BOTTOM. Based on the winding pattern shown where wire goes over the top of the core, identify the poles.",
+      "answer": "**Answer: Left end = NORTH (N), Right end = SOUTH (S)**\n\n**Step-by-step solution:**\n\n1. **Identify the components:**\n   - CORE: Usually soft iron (increases magnetic strength)\n   - WINDINGS: Insulated wire coiled around the core\n   - WIRE: Connects coil to battery\n\n2. **Trace current flow:**\n   - Current leaves the + terminal (bottom)\n   - Flows through the windings around the core\n   - Returns to the - terminal\n\n3. **Apply Right-Hand Thumb Rule:**\n   - Based on the winding pattern (wire goes over top)\n   - Curl fingers in direction of current through coils\n   - Your THUMB points LEFT\n\n4. **Conclusion:** LEFT end = NORTH pole (N), RIGHT end = SOUTH pole (S)\n\n**Remember:** The polarity depends on:\n- Which terminal current enters from\n- Direction wire is wound (clockwise or anticlockwise when viewed from one end)",
+      "key_points": ["Left = North (N)", "Right = South (S)", "Winding direction determines polarity"]
+    },
+    {
+      "id": "fp_6",
+      "question": "DIAGRAM 6: A simple electromagnet is made by winding insulated wire around an IRON NAIL. The wire is connected to a BATTERY through a SWITCH. How would you determine its poles when the switch is closed?",
+      "answer": "**Method to determine poles of a simple electromagnet:**\n\n**Step 1: Close the switch**\n- Current now flows through the circuit\n- The iron nail becomes magnetized\n\n**Step 2: Identify current direction**\n- Note which terminal of battery (+ or -) the wire connects to at each end\n- Current flows from + to - through the wire\n\n**Step 3: Note the winding direction**\n- Observe: Is wire wound clockwise or anticlockwise when viewed from each end?\n\n**Step 4: Apply Right-Hand Thumb Rule**\n- Curl your right-hand fingers in direction of current through the coil\n- Your THUMB points to the NORTH pole\n\n**Alternative - Use Clock Rule:**\n- Look at one end of the nail directly\n- Anticlockwise current → North pole\n- Clockwise current → South pole\n\n**Practical test:** Bring a compass near each end\n- End that ATTRACTS compass North → SOUTH pole of electromagnet\n- End that REPELS compass North → NORTH pole of electromagnet",
+      "key_points": ["Use Right-Hand Thumb Rule or Clock Rule", "Iron nail = core", "Switch controls ON/OFF", "Can test with compass"]
+    },
+    {
+      "id": "fp_7",
+      "question": "What happens to the poles of an electromagnet if you reverse the battery connections (swap + and -)?",
+      "answer": "**Answer: The North and South poles get REVERSED/EXCHANGED.**\n\n**Explanation:**\n\n1. **When battery is reversed:**\n   - Current now flows in the OPPOSITE direction through the coil\n   - The direction of current through each winding is reversed\n\n2. **Effect on poles:**\n   - Using Right-Hand Thumb Rule with reversed current:\n   - Your fingers now curl in the opposite direction\n   - Therefore, your thumb points in the opposite direction\n   - The end that was NORTH becomes SOUTH\n   - The end that was SOUTH becomes NORTH\n\n3. **Example:**\n   - Original: Left = N, Right = S\n   - After reversing battery: Left = S, Right = N\n\n**This is a KEY ADVANTAGE of electromagnets:**\n- Polarity can be easily reversed (unlike permanent magnets)\n- Used in applications like electric motors, relays, and speakers",
+      "key_points": ["Poles get reversed when battery is reversed", "Current direction reverses", "Advantage over permanent magnets"]
+    },
+    {
+      "id": "fp_8",
+      "question": "Using the Clock Rule: If current flows ANTICLOCKWISE when looking directly at the LEFT end of an electromagnet, what is the polarity of the left end?",
+      "answer": "**Answer: The LEFT end is the NORTH POLE (N)**\n\n**Explanation using Clock Rule:**\n\n1. We are looking directly at the LEFT end\n2. Current flows ANTICLOCKWISE at this end\n3. According to Clock Rule: **Anticlockwise = North Pole**\n\n**Memory aid:** The word 'aNticlockwise' contains 'N' for North\n\n**Consequence:** Since every magnet must have two opposite poles, the RIGHT end must be the SOUTH POLE (S).\n\n**Verification:**\n- At right end, looking from right side, current would flow CLOCKWISE\n- Clockwise = South pole ✓",
+      "key_points": ["Anticlockwise = North pole", "Memory: aNti has N", "Right end = South"]
+    },
+    {
+      "id": "fp_9",
+      "question": "Using the Clock Rule: If current flows CLOCKWISE when looking directly at the RIGHT end of an electromagnet, what is the polarity of the right end?",
+      "answer": "**Answer: The RIGHT end is the SOUTH POLE (S)**\n\n**Explanation using Clock Rule:**\n\n1. We are looking directly at the RIGHT end\n2. Current flows CLOCKWISE at this end\n3. According to Clock Rule: **Clockwise = South Pole**\n\n**Memory aid:** The word 'clockwiSe' contains 'S' for South\n\n**Consequence:** Since every magnet must have two opposite poles, the LEFT end must be the NORTH POLE (N).\n\n**Verification:**\n- At left end, looking from left side, current would flow ANTICLOCKWISE\n- Anticlockwise = North pole ✓",
+      "key_points": ["Clockwise = South pole", "Memory: clockwiSe has S", "Left end = North"]
+    },
+    {
+      "id": "fp_10",
+      "question": "An electromagnet is made with 50 turns of wire. When current flows, the left end is North pole. If the number of turns is increased to 100 (without changing anything else), will the poles change?",
+      "answer": "**Answer: NO, the poles will NOT change.**\n\n**Explanation:**\n\n1. **What determines the poles:**\n   - Direction of current flow\n   - Direction of winding (clockwise or anticlockwise)\n\n2. **What number of turns affects:**\n   - STRENGTH of the electromagnet (more turns = stronger)\n   - NOT the polarity\n\n3. **Conclusion:**\n   - Left end remains NORTH pole\n   - Right end remains SOUTH pole\n   - But the electromagnet is now STRONGER\n\n**To change the poles, you must either:**\n- Reverse the battery connections (change current direction), OR\n- Rewind the coil in the opposite direction\n\n**Key point:** Increasing turns makes the magnet stronger, not reversed.",
+      "key_points": ["Poles do NOT change with more turns", "Only strength increases", "To reverse poles: reverse battery or rewind coil"]
+    }
+  ],
+  "total_count": 11
+}

@@ -21,7 +21,8 @@
     ],
     "miscellaneous": [
       {"value": "tricky_questions", "label": "Tricky Questions", "icon": "🎯"},
-      {"value": "numericals", "label": "Numericals", "icon": "🔢"}
+      {"value": "numericals", "label": "Numericals", "icon": "🔢"},
+      {"value": "find_poles", "label": "Find Poles", "icon": "🧲"}
     ]
   }
 }
