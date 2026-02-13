@@ -3,6 +3,7 @@
   "chapter": "The Listeners",
   "sections": {
     "textbook": [
+      {"value": "summary", "label": "Summary", "icon": "📋"},
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
     ],
     "previous_year": [

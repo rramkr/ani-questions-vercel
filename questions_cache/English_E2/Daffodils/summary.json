@@ -1,0 +1,43 @@
+{
+  "question_type": "summary",
+  "questions": [
+    {
+      "id": "sum_daff_1",
+      "question": "Summary of Daffodils (William Wordsworth)",
+      "answer": "The poem \"Daffodils\" describes how the poet comes across a large field of golden daffodils beside a lake while wandering alone in nature. The flowers are moving gently in the breeze and seem lively and joyful. Their beauty immediately lifts the poet's mood and fills him with happiness.\n\nLater, when the poet is indoors and feeling lonely or sad, the memory of the daffodils comes back to his mind. This memory brings him peace and joy, showing how nature has the power to comfort and refresh the human spirit.\n\nThe poem highlights the importance of nature in bringing emotional healing and happiness."
+    },
+    {
+      "id": "sum_daff_2",
+      "question": "Stanza 1",
+      "answer": "The poet is walking alone like a cloud when he suddenly sees a large number of golden daffodils near a lake. They are moving in the breeze and look cheerful."
+    },
+    {
+      "id": "sum_daff_3",
+      "question": "Stanza 2",
+      "answer": "The daffodils are spread out like stars in the sky. They seem endless and bright. Their beauty makes the poet feel happy."
+    },
+    {
+      "id": "sum_daff_4",
+      "question": "Stanza 3",
+      "answer": "The waves of the lake are also dancing, but the daffodils look more joyful. The poet feels delighted just by watching them."
+    },
+    {
+      "id": "sum_daff_5",
+      "question": "Stanza 4",
+      "answer": "Later, when the poet is alone and feeling sad, he remembers the daffodils. This memory fills his heart with happiness again."
+    },
+    {
+      "id": "sum_daff_6",
+      "question": "Poetic Devices",
+      "answer": "**Simile:** \"I wandered lonely as a cloud\" - Shows the poet's loneliness\n\n**Personification:** \"Daffodils dancing\" - Makes nature seem alive\n\n**Imagery:** \"Golden daffodils\" - Creates a clear visual picture\n\n**Alliteration:** \"Beside the lake, beneath the trees\" - Adds musical quality\n\n**Metaphor:** \"A host of daffodils\" - Shows large number\n\n**Hyperbole:** \"Ten thousand saw I at a glance\" - Exaggeration for effect"
+    },
+    {
+      "id": "sum_daff_7",
+      "question": "About the Poet",
+      "answer": "**William Wordsworth (1770-1850)**\n\nOne of the greatest English poets, born in the Lake District of England - an area of great beauty.\n\nWordsworth's treatment of nature is his chief glory as a poet. He spent a great amount of time on walks in the countryside and used his keen sense of observation to note all that he saw around him.\n\nHe got much joy out of nature and this is clearly evident in his poetry. He always felt there was something much deeper than what was visible only on the surface. He looks on nature with his 'inward eye' and the glory of it enters into his heart and soul."
+    }
+  ],
+  "total_count": 7,
+  "subject": "English E2",
+  "chapter": "Daffodils"
+}
