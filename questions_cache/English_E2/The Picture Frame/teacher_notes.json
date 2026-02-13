@@ -1,26 +1,78 @@
 {
   "question_type": "teacher_notes",
-  "content": {
-    "title": "Teacher Notes - The Picture Frame",
-    "sections": [
-      {
-        "heading": "Summary",
-        "content": "The story 'The Picture Frame' by Nicholas Horsburgh is about Mr Barton, an eighty-two-year-old retired man who lives with his wife in a small seaside town in England. He loves taking daily walks by the sea, which remind him of both happy and sad memories from his life.\n\nOne day, while walking, Mr Barton comes across a stall where a man is selling personal items to raise money. Among the items, Mr Barton notices an ornate mirror frame that catches his eye. He thinks it would be perfect for the portrait of his late father, whom he lost when he was only four years old.\n\nAfter some bargaining, Mr Barton buys the mirror for twenty pounds (the stallholder had bought it for just two pounds). When he shows it to his wife, she becomes angry about the expense and storms off to bed.\n\nLater, Mr Barton decides to examine the frame. Using a knife, he removes the wooden back and discovers a hidden oil painting of a shepherd with his flock under an oak tree. He sets it aside to place his father's portrait in the frame.\n\nThe next day, unable to find the stallholder to return the mirror, Mr Barton and his wife go to an art gallery on the high street. The manager examines the frame and the hidden painting, and excitedly reveals that it is a very famous, valuable painting by a renowned artist.\n\nIn the end, the portrait of Mr Barton's father hangs proudly in his study, and the discovered oil painting is sold at auction for nearly half a million pounds. Mr and Mrs Barton dance with joy at their unexpected fortune."
-      },
-      {
-        "heading": "Characters",
-        "content": "**Mr Barton**\n- 82 years old, retired\n- Kind and thoughtful\n- Treasures his father's memory\n- Enjoys daily walks\n\n**Mrs Barton**\n- Prefers staying indoors\n- Gets upset about expenses but forgives easily\n- Supportive wife\n\n**The Stallholder**\n- Selling items to raise money\n- Shrewd businessman\n- Thinks Mr Barton is a 'silly old fool'\n\n**The Art Gallery Manager**\n- Knowledgeable about art\n- Helpful and excited about the discovery"
-      },
-      {
-        "heading": "Themes",
-        "content": "**1. Hidden Value**\nThe main theme is that valuable things can be hidden in unexpected places. The worthless-looking mirror contained a priceless painting.\n\n**2. Family and Memory**\nMr Barton's love for his father, whom he barely knew, shows the importance of family bonds and treasuring memories.\n\n**3. Luck and Fortune**\nSometimes good fortune comes unexpectedly. Mr Barton's kind impulse to buy the mirror led to a windfall.\n\n**4. Appearances Can Be Deceiving**\nThe stallholder thought Mr Barton was foolish, but Mr Barton ended up with the treasure. The 'ugly' mirror frame held something beautiful."
-      },
-      {
-        "heading": "Important Details",
-        "content": "- Mr Barton's father died when he was only **four years old**\n- Mr Barton had only **two faded photographs** of his father\n- His father was a **soldier** with a white beard and fine moustache\n- The mirror cost **twenty pounds** (stallholder paid **two pounds**)\n- The hidden painting showed a **shepherd with his flock under an oak tree**\n- The painting was sold for nearly **half a million pounds**\n- Author: **Nicholas Horsburgh**"
-      }
-    ]
-  },
+  "questions": [
+    {
+      "id": "tn_pf_1",
+      "question": "Summary of The Picture Frame",
+      "answer": "The story 'The Picture Frame' by Nicholas Horsburgh is about Mr Barton, an eighty-two-year-old retired man who lives with his wife in a small seaside town in England. He loves taking daily walks by the sea, which remind him of both happy and sad memories from his life.\n\nOne day, while walking, Mr Barton comes across a stall where a man is selling personal items to raise money. Among the items, Mr Barton notices an ornate mirror frame that catches his eye. He thinks it would be perfect for the portrait of his late father, whom he lost when he was only four years old."
+    },
+    {
+      "id": "tn_pf_2",
+      "question": "What happens when Mr Barton buys the mirror?",
+      "answer": "After some bargaining, Mr Barton buys the mirror for twenty pounds (the stallholder had bought it for just two pounds at a junk shop).\n\nWhen he shows it to his wife, she becomes angry about the expense. She shouts: 'If you can spend money on an old frame, you can go out and buy your own dinner!' before storming off to bed.\n\nMr Barton sits alone, wondering if he should try to return the mirror."
+    },
+    {
+      "id": "tn_pf_3",
+      "question": "How does Mr Barton discover the hidden painting?",
+      "answer": "Later that evening, Mr Barton decides to examine the frame. He gets his father's portrait from a small chest in the corner of the room - a brown envelope containing the photograph of an old man with a white beard and fine moustache, wearing a soldier's uniform.\n\nUsing a knife, he carefully removes the wooden back of the mirror frame. To his surprise, he discovers a hidden sheet of canvas between the wooden back and the mirror - an oil painting of a shepherd with his flock under a large oak tree, with a small village in the distance.\n\nThe painting is old and covered in grime."
+    },
+    {
+      "id": "tn_pf_4",
+      "question": "What happens the next day?",
+      "answer": "The next day, Mr Barton walks up and down looking for the stallholder to return the mirror, but he cannot find the stall anywhere.\n\nHis wife is in a better mood and says: 'Never mind. At least you tried to get our money back.'\n\nThat afternoon, Mrs Barton agrees to go with her husband to the high street. They take the mirror, the frame, the portrait of Mr Barton's father, and the oil painting to an art gallery."
+    },
+    {
+      "id": "tn_pf_5",
+      "question": "What does the art gallery manager reveal?",
+      "answer": "The manager of the art gallery examines the frame and the painting carefully.\n\n'If I am not mistaken,' he says excitedly, 'this is a very famous painting, by a very famous artist and it is worth a very, very large sum of money!'\n\nHe explains: 'About two hundred years ago, many famous painters had their paintings framed in frames just like this one. The frames are very valuable today, but of course, the paintings that were in them are much more valuable!'\n\nMr and Mrs Barton stood and stared at the manager for a long time. Then they held each other's hands and danced. The manager smiled."
+    },
+    {
+      "id": "tn_pf_6",
+      "question": "How does the story end?",
+      "answer": "The portrait of Mr Barton's father hung proudly on the wall in Mr Barton's small study next to the dining room. It was in a new frame very much like the one Mr Barton had bought from the stallholder.\n\nThe oil painting, in its original frame, was sold at auction for nearly half a million pounds.\n\nMeanwhile, the stallholder had boasted to his wife: 'Some people will buy any old rubbish, especially when you tell them a sad story! Silly old fool, that man.'"
+    },
+    {
+      "id": "tn_pf_7",
+      "question": "Character: Mr Barton",
+      "answer": "**Age:** 82 years old, retired\n\n**Personality:**\n- Kind and thoughtful\n- Sentimental - treasures his father's memory\n- Enjoys daily walks by the sea\n- Patient with his wife's temper\n\n**Background:**\n- Lost his father when he was only 4 years old\n- Has only two faded photographs of his father\n- Treasures a large portrait of his father 'more than life itself'"
+    },
+    {
+      "id": "tn_pf_8",
+      "question": "Character: Mrs Barton",
+      "answer": "**Personality:**\n- Prefers staying indoors, away from the cold\n- Gets upset about expenses\n- Quick to anger but also quick to forgive\n- Ultimately supportive of her husband\n\n**Actions:**\n- Storms off when angry about the mirror purchase\n- Forgives Mr Barton by the next day\n- Accompanies him to the art gallery\n- Dances with joy at the good news"
+    },
+    {
+      "id": "tn_pf_9",
+      "question": "Character: The Stallholder",
+      "answer": "**Personality:**\n- Shrewd businessman\n- Manipulative - uses sad stories to sell items\n- Thinks Mr Barton is a 'silly old fool'\n- Unaware of the true value of what he sold\n\n**Irony:**\n- He bought the mirror for 2 pounds, sold it for 20 pounds, and thought he made a great profit\n- Little did he know the hidden painting was worth nearly half a million pounds"
+    },
+    {
+      "id": "tn_pf_10",
+      "question": "Theme: Hidden Value",
+      "answer": "The main theme is that valuable things can be hidden in unexpected places.\n\nThe worthless-looking mirror contained a priceless painting that no one knew about - not the stallholder who sold it, and not even Mr Barton when he bought it.\n\nThis theme applies to life too - sometimes the most valuable things are not obvious at first glance."
+    },
+    {
+      "id": "tn_pf_11",
+      "question": "Theme: Family and Memory",
+      "answer": "Mr Barton's love for his father, whom he barely knew (his father died when Mr Barton was only 4), shows the importance of family bonds and treasuring memories.\n\nHe keeps his father's portrait as his most prized possession - more valuable to him than life itself. He wanted the beautiful frame specifically to display his father's picture."
+    },
+    {
+      "id": "tn_pf_12",
+      "question": "Theme: Luck and Fortune",
+      "answer": "Sometimes good fortune comes unexpectedly.\n\nMr Barton's kind impulse to help a man who had 'fallen on hard times' led to an incredible windfall. He wasn't looking for treasure - he just wanted a nice frame for his father's portrait.\n\nThis shows that good deeds can sometimes be rewarded in unexpected ways."
+    },
+    {
+      "id": "tn_pf_13",
+      "question": "Theme: Appearances Can Be Deceiving",
+      "answer": "The stallholder thought Mr Barton was a foolish old man for buying a worthless mirror. But Mr Barton ended up with a treasure worth half a million pounds.\n\nThe 'ugly' or 'worthless' mirror frame actually contained something priceless.\n\nThis teaches us not to judge things - or people - by their outward appearance."
+    },
+    {
+      "id": "tn_pf_14",
+      "question": "Important Details to Remember",
+      "answer": "- Mr Barton was **eighty-two years old**\n- He lived in a **small seaside town in England**\n- His father died when he was **four years old**\n- He had only **two faded photographs** of his father\n- His father was a **soldier** with a white beard and fine moustache\n- The vase cost **three pounds**, the mirror cost **twenty pounds**\n- The stallholder had bought the mirror for **two pounds**\n- The hidden painting showed a **shepherd with his flock under an oak tree**\n- The painting sold for nearly **half a million pounds**\n- The author is **Nicholas Horsburgh**"
+    }
+  ],
+  "total_count": 14,
   "subject": "English E2",
   "chapter": "The Picture Frame"
 }

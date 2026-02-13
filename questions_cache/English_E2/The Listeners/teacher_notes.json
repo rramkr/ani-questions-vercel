@@ -1,22 +1,58 @@
 {
   "question_type": "teacher_notes",
-  "content": {
-    "title": "Teacher Notes - The Listeners",
-    "sections": [
-      {
-        "heading": "Summary of The Listeners by Walter De La Mare",
-        "content": "The poem describes a mysterious incident in which a traveller arrives at a deserted house in a forest at night. He knocks on the door and calls out, but no one answers. The atmosphere is eerie and silent. Although the house appears empty, it is actually inhabited by invisible, ghostly beings called \"Listeners.\"\n\nThese supernatural listeners silently hear the traveller's voice, footsteps, and the sound of his horse. They do not respond or reveal themselves. The traveller announces that he has kept a promise and has come as promised, but still receives no reply.\n\nAfter waiting, the traveller leaves the house and rides away into the darkness. The listeners continue to remain hidden, whispering among themselves about the lonely man who came and went without ever knowing they were there.\n\nThe poem creates a sense of mystery, loneliness, and the unknown, highlighting the contrast between the human world and the silent, unseen spirit world."
-      },
-      {
-        "heading": "Key Themes",
-        "content": "**1. Mystery and the Supernatural**\nThe poem is filled with an atmosphere of mystery. The phantom listeners represent the supernatural world that exists alongside our own but remains invisible and silent.\n\n**2. Loneliness and Isolation**\nThe traveller is alone in a dark forest, calling out to an empty house. His isolation is emphasized by the silence that greets him.\n\n**3. Keeping Promises**\nThe traveller has come to keep his word - \"Tell them I came, and no one answered, That I kept my word.\" This shows themes of duty and honour.\n\n**4. The Unknown**\nThe poem leaves many questions unanswered: Who are the listeners? Who is the traveller? What promise did he make? This ambiguity adds to the poem's mysterious quality."
-      },
-      {
-        "heading": "Literary Devices",
-        "content": "**1. Imagery**\n- Visual: \"moonlit door\", \"leaf-fringed sill\", \"dark stair\"\n- Auditory: \"the silence surged softly backward\"\n\n**2. Personification**\n- The silence is personified as something that can \"surge\"\n- The air is \"stirred and shaken\"\n\n**3. Epithets (Compound words)**\n- \"moonlit door\"\n- \"leaf-fringed sill\"\n- \"phantom listeners\"\n\n**4. Alliteration**\n- \"stood still\"\n- \"silence surged softly\"\n\n**5. Atmosphere**\nThe poet creates an eerie, mysterious atmosphere through his word choices and imagery."
-      }
-    ]
-  },
+  "questions": [
+    {
+      "id": "tn_listeners_1",
+      "question": "Summary of The Listeners",
+      "answer": "The poem describes a mysterious incident in which a traveller arrives at a deserted house in a forest at night. He knocks on the door and calls out, but no one answers. The atmosphere is eerie and silent. Although the house appears empty, it is actually inhabited by invisible, ghostly beings called \"Listeners.\"\n\nThese supernatural listeners silently hear the traveller's voice, footsteps, and the sound of his horse. They do not respond or reveal themselves. The traveller announces that he has kept a promise and has come as promised, but still receives no reply.\n\nAfter waiting, the traveller leaves the house and rides away into the darkness. The listeners continue to remain hidden, whispering among themselves about the lonely man who came and went without ever knowing they were there.\n\nThe poem creates a sense of mystery, loneliness, and the unknown, highlighting the contrast between the human world and the silent, unseen spirit world."
+    },
+    {
+      "id": "tn_listeners_2",
+      "question": "Theme: Mystery and the Supernatural",
+      "answer": "The poem is filled with an atmosphere of mystery. The phantom listeners represent the supernatural world that exists alongside our own but remains invisible and silent. We never learn who they are or why they are there."
+    },
+    {
+      "id": "tn_listeners_3",
+      "question": "Theme: Loneliness and Isolation",
+      "answer": "The traveller is alone in a dark forest, calling out to an empty house. His isolation is emphasized by the silence that greets him. He is the only living human in this eerie setting."
+    },
+    {
+      "id": "tn_listeners_4",
+      "question": "Theme: Keeping Promises",
+      "answer": "The traveller has come to keep his word - \"Tell them I came, and no one answered, That I kept my word.\" This shows themes of duty and honour. He fulfills his promise even though no one responds."
+    },
+    {
+      "id": "tn_listeners_5",
+      "question": "Theme: The Unknown",
+      "answer": "The poem leaves many questions unanswered:\n- Who are the listeners?\n- Who is the traveller?\n- What promise did he make?\n- Who are \"them\" he wants to tell?\n\nThis ambiguity adds to the poem's mysterious quality."
+    },
+    {
+      "id": "tn_listeners_6",
+      "question": "Literary Device: Imagery",
+      "answer": "**Visual Imagery:**\n- \"moonlit door\"\n- \"leaf-fringed sill\"\n- \"dark stair\"\n- \"faint moonbeams\"\n\n**Auditory Imagery:**\n- \"the silence surged softly backward\"\n- \"the sound of iron on stone\"\n- \"plunging hoofs\""
+    },
+    {
+      "id": "tn_listeners_7",
+      "question": "Literary Device: Personification",
+      "answer": "The silence is personified as something that can \"surge\" backward. The air is described as \"stirred and shaken\" by the traveller's call. These give human qualities to non-living things."
+    },
+    {
+      "id": "tn_listeners_8",
+      "question": "Literary Device: Epithets (Compound Words)",
+      "answer": "De la Mare uses compound epithets to create vivid descriptions:\n- \"moonlit door\" - door lit by moonlight\n- \"leaf-fringed sill\" - windowsill surrounded by leaves\n- \"phantom listeners\" - ghostly beings who listen"
+    },
+    {
+      "id": "tn_listeners_9",
+      "question": "Literary Device: Alliteration",
+      "answer": "Alliteration creates a musical quality:\n- \"stood still\" (s sound)\n- \"silence surged softly\" (s sound)\n- \"forest's ferny floor\" (f sound)"
+    },
+    {
+      "id": "tn_listeners_10",
+      "question": "About the Poet: Walter de la Mare",
+      "answer": "**Life:** 1873-1956\n\n**First Book:** Songs of Childhood (1902)\n\n**Main Themes:** Romance and nature\n\n**Writing Style:** Simple but mysterious. His poems often deal with magic, moonlight and quietness. This is one of his best-known poems."
+    }
+  ],
+  "total_count": 10,
   "subject": "English E2",
   "chapter": "The Listeners"
 }

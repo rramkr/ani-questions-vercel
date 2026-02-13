@@ -1,26 +1,63 @@
 {
   "question_type": "teacher_notes",
-  "content": {
-    "title": "Teacher Notes - Daffodils",
-    "sections": [
-      {
-        "heading": "Summary of Daffodils (William Wordsworth)",
-        "content": "The poem \"Daffodils\" describes how the poet comes across a large field of golden daffodils beside a lake while wandering alone in nature. The flowers are moving gently in the breeze and seem lively and joyful. Their beauty immediately lifts the poet's mood and fills him with happiness.\n\nLater, when the poet is indoors and feeling lonely or sad, the memory of the daffodils comes back to his mind. This memory brings him peace and joy, showing how nature has the power to comfort and refresh the human spirit.\n\nThe poem highlights the importance of nature in bringing emotional healing and happiness."
-      },
-      {
-        "heading": "Stanza-wise Summary",
-        "content": "**Stanza 1:** The poet is walking alone like a cloud when he suddenly sees a large number of golden daffodils near a lake. They are moving in the breeze and look cheerful.\n\n**Stanza 2:** The daffodils are spread out like stars in the sky. They seem endless and bright. Their beauty makes the poet feel happy.\n\n**Stanza 3:** The waves of the lake are also dancing, but the daffodils look more joyful. The poet feels delighted just by watching them.\n\n**Stanza 4:** Later, when the poet is alone and feeling sad, he remembers the daffodils. This memory fills his heart with happiness again."
-      },
-      {
-        "heading": "Poetic Devices",
-        "content": "| Device | Example | Effect |\n|--------|---------|--------|\n| Simile | \"I wandered lonely as a cloud\" | Shows the poet's loneliness |\n| Personification | \"Daffodils dancing\" | Makes nature seem alive |\n| Imagery | \"Golden daffodils\" | Creates a clear visual picture |\n| Alliteration | \"Beside the lake, beneath the trees\" | Adds musical quality |\n| Metaphor | \"A host of daffodils\" | Shows large number |"
-      },
-      {
-        "heading": "Poetic Devices - Definitions",
-        "content": "**1. Simile**\nA simile is a comparison using \"like\" or \"as.\"\nExample: \"I wandered lonely as a cloud\"\nThe poet compares himself to a cloud to show his loneliness and aimless wandering.\n\n**2. Personification**\nPersonification gives human qualities to non-human things.\nExample: \"The daffodils dancing in the breeze\"\nThe flowers are described as if they can dance, making nature seem alive and joyful.\n\n**3. Imagery**\nImagery uses descriptive words to create a mental picture.\nExample: \"Golden daffodils,\" \"Beside the lake, beneath the trees\"\nThese words help the reader visualize the beautiful natural scene.\n\n**4. Alliteration**\nAlliteration is the repetition of the same starting sound in nearby words.\nExample: \"Beside the lake, beneath the trees\"\nIt makes the poem sound musical and pleasing.\n\n**5. Metaphor**\nA metaphor is a direct comparison without using \"like\" or \"as.\"\nExample: \"A host of golden daffodils\"\n\"Host\" means a large group, showing there were many flowers.\n\n**6. Hyperbole**\nHyperbole is exaggeration for effect.\nExample: \"Ten thousand saw I at a glance\"\nThe poet exaggerates the number of flowers to show how vast the field was."
-      }
-    ]
-  },
+  "questions": [
+    {
+      "id": "tn_daff_1",
+      "question": "Summary of Daffodils (William Wordsworth)",
+      "answer": "The poem \"Daffodils\" describes how the poet comes across a large field of golden daffodils beside a lake while wandering alone in nature. The flowers are moving gently in the breeze and seem lively and joyful. Their beauty immediately lifts the poet's mood and fills him with happiness.\n\nLater, when the poet is indoors and feeling lonely or sad, the memory of the daffodils comes back to his mind. This memory brings him peace and joy, showing how nature has the power to comfort and refresh the human spirit.\n\nThe poem highlights the importance of nature in bringing emotional healing and happiness."
+    },
+    {
+      "id": "tn_daff_2",
+      "question": "Stanza 1 Summary",
+      "answer": "The poet is walking alone like a cloud when he suddenly sees a large number of golden daffodils near a lake. They are moving in the breeze and look cheerful."
+    },
+    {
+      "id": "tn_daff_3",
+      "question": "Stanza 2 Summary",
+      "answer": "The daffodils are spread out like stars in the sky. They seem endless and bright. Their beauty makes the poet feel happy."
+    },
+    {
+      "id": "tn_daff_4",
+      "question": "Stanza 3 Summary",
+      "answer": "The waves of the lake are also dancing, but the daffodils look more joyful. The poet feels delighted just by watching them."
+    },
+    {
+      "id": "tn_daff_5",
+      "question": "Stanza 4 Summary",
+      "answer": "Later, when the poet is alone and feeling sad, he remembers the daffodils. This memory fills his heart with happiness again."
+    },
+    {
+      "id": "tn_daff_6",
+      "question": "Poetic Device: Simile",
+      "answer": "A simile is a comparison using \"like\" or \"as.\"\n\n**Example:** \"I wandered lonely as a cloud\"\n\n**Effect:** The poet compares himself to a cloud to show his loneliness and aimless wandering."
+    },
+    {
+      "id": "tn_daff_7",
+      "question": "Poetic Device: Personification",
+      "answer": "Personification gives human qualities to non-human things.\n\n**Example:** \"The daffodils dancing in the breeze\"\n\n**Effect:** The flowers are described as if they can dance, making nature seem alive and joyful."
+    },
+    {
+      "id": "tn_daff_8",
+      "question": "Poetic Device: Imagery",
+      "answer": "Imagery uses descriptive words to create a mental picture.\n\n**Example:** \"Golden daffodils,\" \"Beside the lake, beneath the trees\"\n\n**Effect:** These words help the reader visualize the beautiful natural scene."
+    },
+    {
+      "id": "tn_daff_9",
+      "question": "Poetic Device: Alliteration",
+      "answer": "Alliteration is the repetition of the same starting sound in nearby words.\n\n**Example:** \"Beside the lake, beneath the trees\"\n\n**Effect:** It makes the poem sound musical and pleasing."
+    },
+    {
+      "id": "tn_daff_10",
+      "question": "Poetic Device: Metaphor",
+      "answer": "A metaphor is a direct comparison without using \"like\" or \"as.\"\n\n**Example:** \"A host of golden daffodils\"\n\n**Effect:** \"Host\" means a large group, showing there were many flowers."
+    },
+    {
+      "id": "tn_daff_11",
+      "question": "Poetic Device: Hyperbole",
+      "answer": "Hyperbole is exaggeration for effect.\n\n**Example:** \"Ten thousand saw I at a glance\"\n\n**Effect:** The poet exaggerates the number of flowers to show how vast the field was."
+    }
+  ],
+  "total_count": 11,
   "subject": "English E2",
   "chapter": "Daffodils"
 }
