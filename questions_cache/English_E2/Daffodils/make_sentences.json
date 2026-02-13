@@ -3,6 +3,7 @@
   "chapter": "Daffodils",
   "type": "make_sentences",
   "questions": [
+    {"id": "daf_ms_header1", "word": "--- HOMOPHONES ---", "meaning": "Words that sound the same but have different meanings", "sample_sentence": ""},
     {"id": "daf_ms_1", "word": "wandered", "meaning": "walked about without fixed destination", "sample_sentence": "The tourists wandered through the ancient streets of the old city, admiring the beautiful architecture."},
     {"id": "daf_ms_2", "word": "wondered", "meaning": "felt curious; thought with curiosity", "sample_sentence": "She wondered why her best friend had not replied to any of her messages since yesterday morning."},
     {"id": "daf_ms_3", "word": "vales", "meaning": "valleys; low areas between hills", "sample_sentence": "The shepherd guided his flock of sheep through the green vales and over the gentle rolling hills."},
@@ -13,6 +14,7 @@
     {"id": "daf_ms_8", "word": "whey", "meaning": "watery part of milk", "sample_sentence": "Little Miss Muffet sat on a tuffet, eating her curds and whey until the spider frightened her."},
     {"id": "daf_ms_9", "word": "heart", "meaning": "organ that pumps blood; emotions", "sample_sentence": "Her heart was filled with gratitude when her friends surprised her with a beautiful birthday party."},
     {"id": "daf_ms_10", "word": "hart", "meaning": "male deer over five years old", "sample_sentence": "The hunters spotted a magnificent hart with huge antlers drinking water from the forest stream."},
+    {"id": "daf_ms_header2", "word": "--- VOCABULARY WORDS ---", "meaning": "Important words from the poem", "sample_sentence": ""},
     {"id": "daf_ms_11", "word": "daffodils", "meaning": "bright yellow spring flowers", "sample_sentence": "Every spring, the garden becomes beautiful with hundreds of golden daffodils swaying gently in the breeze."},
     {"id": "daf_ms_12", "word": "margin", "meaning": "edge or border", "sample_sentence": "The teacher asked us to leave a wide margin on the left side of our notebooks for corrections."},
     {"id": "daf_ms_13", "word": "sprightly", "meaning": "lively, energetic, full of spirit", "sample_sentence": "Despite being eighty years old, my grandmother remains sprightly and enjoys her morning walk every day."},

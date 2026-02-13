@@ -9,9 +9,9 @@
     {"id": "tpf_ms_3", "word": "hideous", "meaning": "extremely ugly or unpleasant to look at", "sample_sentence": "A car that had fallen into a caved-in road near Tidel Park looked hideous."},
     {"id": "tpf_ms_4", "word": "ornate", "meaning": "elaborately decorated with intricate designs", "sample_sentence": "Patri Satish Kumar's mridangams are ornate with special designs carved on them."},
     {"id": "tpf_ms_5", "word": "pound", "meaning": "the basic unit of British currency", "sample_sentence": "My cousin Vishwak bought me a shirt that cost him 50 pounds."},
-    {"id": "tpf_ms_header2", "word": "--- ADDITIONAL VOCABULARY ---", "meaning": "Other important words from the story", "sample_sentence": ""},
     {"id": "tpf_ms_6", "word": "stallholder", "meaning": "a person who sells goods from a market stall", "sample_sentence": "The stallholder at Fruit Shop on Greams Road during the Sishya school Christmas carnival forgot to return the balance of ten rupees to me."},
     {"id": "tpf_ms_7", "word": "umpteen", "meaning": "very many; indefinitely numerous", "sample_sentence": "The teacher sang the musical phrase umpteen times as the student was not able to understand it."},
+    {"id": "tpf_ms_header2", "word": "--- ADDITIONAL VOCABULARY ---", "meaning": "Other important words from the story", "sample_sentence": ""},
     {"id": "tpf_ms_8", "word": "antiques", "meaning": "old objects valued for their age, beauty, or rarity", "sample_sentence": "My grandmother's house is filled with beautiful antiques collected over many years."},
     {"id": "tpf_ms_9", "word": "wandering", "meaning": "walking around without a specific destination", "sample_sentence": "We spent the afternoon wandering through the narrow streets of the old town."},
     {"id": "tpf_ms_10", "word": "peering", "meaning": "looking closely or with difficulty", "sample_sentence": "The curious child was peering through the window to see the parade outside."},
@@ -29,17 +29,6 @@
     {"id": "tpf_ms_22", "word": "genuine", "meaning": "truly what it is said to be; authentic", "sample_sentence": "The expert confirmed that the painting was a genuine work of the master."},
     {"id": "tpf_ms_23", "word": "passionate", "meaning": "having strong feelings or enthusiasm for something", "sample_sentence": "She is passionate about wildlife conservation and works with endangered species."},
     {"id": "tpf_ms_24", "word": "elegant", "meaning": "graceful and stylish in appearance", "sample_sentence": "The elegant ballroom was decorated with crystal chandeliers and silk curtains."},
-    {"id": "tpf_ms_25", "word": "shrewd", "meaning": "having sharp judgement; clever in practical matters", "sample_sentence": "The shrewd businessman always managed to get the best deals in negotiations."},
-    {"id": "tpf_ms_26", "word": "delighted", "meaning": "feeling great pleasure and happiness", "sample_sentence": "The children were delighted when they saw the surprise birthday party arranged for them."},
-    {"id": "tpf_ms_27", "word": "examine", "meaning": "to inspect or look at something carefully", "sample_sentence": "The doctor asked the patient to lie down so she could examine him."},
-    {"id": "tpf_ms_28", "word": "revealed", "meaning": "made known something that was hidden or secret", "sample_sentence": "The investigation revealed that the company had been hiding important information."},
-    {"id": "tpf_ms_29", "word": "masterpiece", "meaning": "an outstanding work of art or craft", "sample_sentence": "The Mona Lisa is considered a masterpiece of Renaissance art and painting."},
-    {"id": "tpf_ms_30", "word": "priceless", "meaning": "so valuable that its worth cannot be determined", "sample_sentence": "The museum houses priceless artifacts from ancient civilizations around the world."},
-    {"id": "tpf_ms_31", "word": "stunned", "meaning": "extremely surprised or shocked", "sample_sentence": "Everyone was stunned when the underdog team won the championship against all odds."},
-    {"id": "tpf_ms_32", "word": "ignorance", "meaning": "lack of knowledge or information about something", "sample_sentence": "His ignorance about basic traffic rules led to the unfortunate road accident."},
-    {"id": "tpf_ms_33", "word": "concealed", "meaning": "kept hidden or secret from view", "sample_sentence": "The spy concealed the secret documents inside a hollow book on the shelf."},
-    {"id": "tpf_ms_34", "word": "thorough", "meaning": "complete and careful in every detail", "sample_sentence": "The detective conducted a thorough investigation of the crime scene for evidence."},
-    {"id": "tpf_ms_35", "word": "enthusiasm", "meaning": "intense enjoyment and interest in something", "sample_sentence": "Her enthusiasm for learning new languages inspired all her classmates to try."},
-    {"id": "tpf_ms_36", "word": "profit", "meaning": "money gained in business after expenses are paid", "sample_sentence": "The company made a huge profit this year due to increased sales worldwide."}
+    {"id": "tpf_ms_25", "word": "shrewd", "meaning": "having sharp judgement; clever in practical matters", "sample_sentence": "The shrewd businessman always managed to get the best deals in negotiations."}
   ]
 }
