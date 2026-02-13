@@ -1,0 +1,183 @@
+{
+  "question_type": "finer_details",
+  "questions": [
+    {
+      "id": "fd_pf_1",
+      "question": "How old was Mr Barton?",
+      "options": ["seventy-two years old", "eighty years old", "eighty-two years old", "ninety years old"],
+      "answer": "eighty-two years old",
+      "explanation": "The story opens with: 'Mr Barton was eighty-two years old'"
+    },
+    {
+      "id": "fd_pf_2",
+      "question": "Where did Mr and Mrs Barton live?",
+      "options": ["a small seaside town in England", "a village in Scotland", "a city in Wales", "a town in Ireland"],
+      "answer": "a small seaside town in England",
+      "explanation": "The story states: 'He lived with his wife in a small seaside town in England'"
+    },
+    {
+      "id": "fd_pf_3",
+      "question": "How old was Mr Barton when his father died?",
+      "options": ["two years old", "four years old", "six years old", "eight years old"],
+      "answer": "four years old",
+      "explanation": "The story states: 'his dear father who had died when he was only four years old'"
+    },
+    {
+      "id": "fd_pf_4",
+      "question": "How many faded photographs did Mr Barton have of his father?",
+      "options": ["one", "two", "three", "four"],
+      "answer": "two",
+      "explanation": "The story states: 'a few memories and two faded photographs which his mother had left him'"
+    },
+    {
+      "id": "fd_pf_5",
+      "question": "What did Mr Barton's father have on his face?",
+      "options": ["a long grey beard", "a white beard and fine moustache", "a black beard", "no facial hair"],
+      "answer": "a white beard and fine moustache",
+      "explanation": "The story describes: 'an old man with a white beard and a fine moustache'"
+    },
+    {
+      "id": "fd_pf_6",
+      "question": "What uniform was Mr Barton's father wearing in the portrait?",
+      "options": ["a naval officer's uniform", "a uniform of a soldier", "a policeman's uniform", "a pilot's uniform"],
+      "answer": "a uniform of a soldier",
+      "explanation": "The story states: 'The old man was dressed in the uniform of a soldier'"
+    },
+    {
+      "id": "fd_pf_7",
+      "question": "What brass animal was on the stallholder's table?",
+      "options": ["a brass elephant", "a brass lion", "a brass monkey", "a brass horse"],
+      "answer": "a brass monkey",
+      "explanation": "The items included: 'an album of stamps, a brass monkey, an ivory chess set'"
+    },
+    {
+      "id": "fd_pf_8",
+      "question": "How much did the stallholder ask for the vase?",
+      "options": ["two pounds", "three pounds", "five pounds", "ten pounds"],
+      "answer": "three pounds",
+      "explanation": "'How much for this vase?' ... 'Three pounds,' said the stallholder"
+    },
+    {
+      "id": "fd_pf_9",
+      "question": "What colour was the plastic vase?",
+      "options": ["red and blue", "green and gold", "yellow and white", "purple and silver"],
+      "answer": "green and gold",
+      "explanation": "The story describes it as: 'a particularly hideous green and gold, plastic flower-vase'"
+    },
+    {
+      "id": "fd_pf_10",
+      "question": "How much did the stallholder originally ask for the mirror?",
+      "options": ["twenty pounds", "twenty-three pounds", "twenty-five pounds", "thirty pounds"],
+      "answer": "twenty-three pounds",
+      "explanation": "'Twenty-three pounds,' said the stallholder"
+    },
+    {
+      "id": "fd_pf_11",
+      "question": "How much did Mr Barton finally pay for the mirror?",
+      "options": ["fifteen pounds", "eighteen pounds", "twenty pounds", "twenty-three pounds"],
+      "answer": "twenty pounds",
+      "explanation": "'Well, I can let you have it for twenty pounds'"
+    },
+    {
+      "id": "fd_pf_12",
+      "question": "How much had the stallholder bought the mirror for?",
+      "options": ["one pound", "two pounds", "five pounds", "ten pounds"],
+      "answer": "two pounds",
+      "explanation": "The stallholder says: 'that old mirror we bought for two pounds at a junk shop last year'"
+    },
+    {
+      "id": "fd_pf_13",
+      "question": "What was the oil painting a picture of?",
+      "options": ["a castle on a hill", "a shepherd with his flock under an oak tree", "a ship at sea", "a village market"],
+      "answer": "a shepherd with his flock under an oak tree",
+      "explanation": "The story states: 'an oil painting of a shepherd with his flock resting under the shade of a large oak tree'"
+    },
+    {
+      "id": "fd_pf_14",
+      "question": "What was in the distance of the oil painting?",
+      "options": ["mountains", "a small village", "the sea", "a forest"],
+      "answer": "a small village",
+      "explanation": "The story states: 'Far in the distance, there was what looked like a small village'"
+    },
+    {
+      "id": "fd_pf_15",
+      "question": "The painting was old and covered in ___.",
+      "options": ["dust", "grime", "mould", "scratches"],
+      "answer": "grime",
+      "explanation": "The story states: 'The painting was old and covered in grime'"
+    },
+    {
+      "id": "fd_pf_16",
+      "question": "What tool did Mr Barton use to open the frame?",
+      "options": ["a screwdriver", "a knife", "a hammer", "his hands"],
+      "answer": "a knife",
+      "explanation": "The story states: 'using a knife, levered the wooden back off the frame'"
+    },
+    {
+      "id": "fd_pf_17",
+      "question": "Where did the portrait of Mr Barton's father eventually hang?",
+      "options": ["in the living room", "in the bedroom", "in the small study next to the dining room", "in the hallway"],
+      "answer": "in the small study next to the dining room",
+      "explanation": "The story states: 'the portrait of Mr Barton's father hung proudly on the wall in Mr Barton's small study next to the dining room'"
+    },
+    {
+      "id": "fd_pf_18",
+      "question": "How much was the oil painting sold at auction for?",
+      "options": ["fifty thousand pounds", "one hundred thousand pounds", "nearly half a million pounds", "one million pounds"],
+      "answer": "nearly half a million pounds",
+      "explanation": "The story ends: 'The oil painting, in its original frame, was sold at auction for nearly half a million pounds'"
+    },
+    {
+      "id": "fd_pf_19",
+      "question": "Who is the author of 'The Picture Frame'?",
+      "options": ["Anita Desai", "Nicholas Horsburgh", "Walter de la Mare", "William Wordsworth"],
+      "answer": "Nicholas Horsburgh",
+      "explanation": "The story is written by Nicholas Horsburgh"
+    },
+    {
+      "id": "fd_pf_20",
+      "question": "What colour was the envelope containing Mr Barton's treasures?",
+      "options": ["white", "yellow", "brown", "black"],
+      "answer": "brown",
+      "explanation": "The story states: 'Mr Barton removed a large brown envelope from the chest'"
+    },
+    {
+      "id": "fd_pf_21",
+      "question": "Where did Mr Barton keep his most prized possessions?",
+      "options": ["under his bed", "in a cupboard", "in a small chest in the corner of the room", "in a safe"],
+      "answer": "in a small chest in the corner of the room",
+      "explanation": "The story states: 'he rose and went over to a small chest in the corner of the room'"
+    },
+    {
+      "id": "fd_pf_22",
+      "question": "Why did Mrs Barton seldom go out with her husband?",
+      "options": ["she was too busy", "she preferred to stay indoors, away from the cold", "she was unwell", "she didn't like walking"],
+      "answer": "she preferred to stay indoors, away from the cold",
+      "explanation": "The story states: 'Mrs Barton seldom went out with her husband. She preferred to stay indoors, well away from the cold'"
+    },
+    {
+      "id": "fd_pf_23",
+      "question": "How many walking sticks were on the stall?",
+      "options": ["one", "two", "three", "four"],
+      "answer": "three",
+      "explanation": "The items included: 'three walking sticks'"
+    },
+    {
+      "id": "fd_pf_24",
+      "question": "What did Mrs Barton do when she was cross or upset?",
+      "options": ["she cried", "she shouted and stormed off", "she stayed silent", "she went for a walk"],
+      "answer": "she shouted and stormed off",
+      "explanation": "The story states: 'she had shouted, before storming off'"
+    },
+    {
+      "id": "fd_pf_25",
+      "question": "What does 'ornate' mean?",
+      "options": ["plain and simple", "very heavily decorated", "old and worn", "cheap and ugly"],
+      "answer": "very heavily decorated",
+      "explanation": "According to the textbook: 'ornate - very heavily decorated'"
+    }
+  ],
+  "total_count": 25,
+  "subject": "English E2",
+  "chapter": "The Picture Frame"
+}

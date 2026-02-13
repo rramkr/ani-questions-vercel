@@ -1,0 +1,183 @@
+{
+  "question_type": "finer_details",
+  "questions": [
+    {
+      "id": "fd_daff_1",
+      "question": "What colour are the daffodils described as in the poem?",
+      "options": ["yellow", "golden", "bright", "white"],
+      "answer": "golden",
+      "explanation": "The poem states: 'A host of golden Daffodils'"
+    },
+    {
+      "id": "fd_daff_2",
+      "question": "When was William Wordsworth born?",
+      "options": ["1760", "1770", "1780", "1790"],
+      "answer": "1770",
+      "explanation": "The textbook states: 'William Wordsworth (1770-1850)'"
+    },
+    {
+      "id": "fd_daff_3",
+      "question": "When did William Wordsworth die?",
+      "options": ["1840", "1850", "1860", "1870"],
+      "answer": "1850",
+      "explanation": "The textbook states: 'William Wordsworth (1770-1850)'"
+    },
+    {
+      "id": "fd_daff_4",
+      "question": "Where was William Wordsworth born?",
+      "options": ["London", "the Lake District of England", "Scotland", "Wales"],
+      "answer": "the Lake District of England",
+      "explanation": "The textbook states: 'was born in the Lake District of England'"
+    },
+    {
+      "id": "fd_daff_5",
+      "question": "How many daffodils did the poet see at a glance?",
+      "options": ["a hundred", "a thousand", "ten thousand", "a million"],
+      "answer": "ten thousand",
+      "explanation": "The poem states: 'Ten thousand saw I at a glance'"
+    },
+    {
+      "id": "fd_daff_6",
+      "question": "What does 'vales' mean?",
+      "options": ["mountains", "valleys", "rivers", "forests"],
+      "answer": "valleys",
+      "explanation": "According to the textbook: 'vales - valleys'"
+    },
+    {
+      "id": "fd_daff_7",
+      "question": "What does 'jocund' mean?",
+      "options": ["sad", "merry", "tired", "angry"],
+      "answer": "merry",
+      "explanation": "According to the textbook: 'jocund - merry'"
+    },
+    {
+      "id": "fd_daff_8",
+      "question": "What does 'oft' mean?",
+      "options": ["seldom", "never", "often", "always"],
+      "answer": "often",
+      "explanation": "According to the textbook: 'oft - often'"
+    },
+    {
+      "id": "fd_daff_9",
+      "question": "What does 'pensive' mean?",
+      "options": ["happy", "thoughtful", "excited", "bored"],
+      "answer": "thoughtful",
+      "explanation": "According to the textbook: 'pensive - thoughtful'"
+    },
+    {
+      "id": "fd_daff_10",
+      "question": "What does 'solitude' mean?",
+      "options": ["happiness", "sadness", "being alone", "being with others"],
+      "answer": "being alone",
+      "explanation": "According to the textbook: 'solitude - being alone'"
+    },
+    {
+      "id": "fd_daff_11",
+      "question": "What does 'sprightly' mean?",
+      "options": ["slow", "lively", "gentle", "quiet"],
+      "answer": "lively",
+      "explanation": "According to the textbook: 'sprightly - lively'"
+    },
+    {
+      "id": "fd_daff_12",
+      "question": "What does 'vacant' mean?",
+      "options": ["full", "empty; not filled or occupied", "busy", "active"],
+      "answer": "empty; not filled or occupied",
+      "explanation": "According to the textbook: 'vacant - empty; not filled or occupied'"
+    },
+    {
+      "id": "fd_daff_13",
+      "question": "What does 'glee' mean?",
+      "options": ["sadness", "fear", "mirth; joy", "anger"],
+      "answer": "mirth; joy",
+      "explanation": "According to the textbook: 'glee - mirth; joy'"
+    },
+    {
+      "id": "fd_daff_14",
+      "question": "What does 'host' mean in the context of the poem?",
+      "options": ["a person who welcomes guests", "a large number of", "a small group", "an army"],
+      "answer": "a large number of",
+      "explanation": "According to the textbook: 'host - a large number of'"
+    },
+    {
+      "id": "fd_daff_15",
+      "question": "The daffodils are compared to stars on the ___.",
+      "options": ["dark sky", "milky way", "morning sky", "evening horizon"],
+      "answer": "milky way",
+      "explanation": "The poem states: 'Continuous as the stars that shine And twinkle on the milky way'"
+    },
+    {
+      "id": "fd_daff_16",
+      "question": "What type of dance were the daffodils doing?",
+      "options": ["slow dance", "sprightly dance", "graceful dance", "wild dance"],
+      "answer": "sprightly dance",
+      "explanation": "The poem states: 'Tossing their heads in sprightly dance'"
+    },
+    {
+      "id": "fd_daff_17",
+      "question": "What did the daffodils out-do?",
+      "options": ["the clouds", "the sparkling waves", "the stars", "the breeze"],
+      "answer": "the sparkling waves",
+      "explanation": "The poem states: 'Out-did the sparkling waves in glee'"
+    },
+    {
+      "id": "fd_daff_18",
+      "question": "What is the 'inward eye' according to the poem?",
+      "options": ["physical sight", "the bliss of solitude", "a dream", "imagination"],
+      "answer": "the bliss of solitude",
+      "explanation": "The poem states: 'They flash upon that inward eye Which is the bliss of solitude'"
+    },
+    {
+      "id": "fd_daff_19",
+      "question": "Where does the poet lie when he remembers the daffodils?",
+      "options": ["on his bed", "on his couch", "under a tree", "by the lake"],
+      "answer": "on his couch",
+      "explanation": "The poem states: 'For oft when on my couch I lie'"
+    },
+    {
+      "id": "fd_daff_20",
+      "question": "What was Wordsworth's chief glory as a poet?",
+      "options": ["his rhyme schemes", "his treatment of nature", "his long poems", "his war poetry"],
+      "answer": "his treatment of nature",
+      "explanation": "The textbook states: 'Wordsworth's treatment of nature is his chief glory as a poet'"
+    },
+    {
+      "id": "fd_daff_21",
+      "question": "How many main ideas or parts are there in the poem?",
+      "options": ["two", "three", "four", "five"],
+      "answer": "three",
+      "explanation": "The textbook states: 'There are three main ideas, or parts, in the poem'"
+    },
+    {
+      "id": "fd_daff_22",
+      "question": "What is beside the daffodils in the poem?",
+      "options": ["a river", "a lake", "the sea", "a pond"],
+      "answer": "a lake",
+      "explanation": "The poem states: 'Beside the Lake, beneath the trees'"
+    },
+    {
+      "id": "fd_daff_23",
+      "question": "The poet wandered lonely as a ___.",
+      "options": ["bird", "cloud", "leaf", "star"],
+      "answer": "cloud",
+      "explanation": "The poem opens: 'I wandered lonely as a cloud'"
+    },
+    {
+      "id": "fd_daff_24",
+      "question": "How many stanzas are there in the poem?",
+      "options": ["three", "four", "five", "six"],
+      "answer": "four",
+      "explanation": "The poem has four stanzas"
+    },
+    {
+      "id": "fd_daff_25",
+      "question": "What word describes the company of daffodils?",
+      "options": ["happy", "jocund", "lovely", "peaceful"],
+      "answer": "jocund",
+      "explanation": "The poem states: 'In such a jocund company'"
+    }
+  ],
+  "total_count": 25,
+  "subject": "English E2",
+  "chapter": "Daffodils"
+}

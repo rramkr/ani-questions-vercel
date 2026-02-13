@@ -1,0 +1,183 @@
+{
+  "question_type": "finer_details",
+  "questions": [
+    {
+      "id": "fd_listeners_1",
+      "question": "The traveller has ___ eyes.",
+      "options": ["black", "blue", "green", "grey"],
+      "answer": "grey",
+      "explanation": "The poem states: 'Leaned over and looked into his grey eyes'"
+    },
+    {
+      "id": "fd_listeners_2",
+      "question": "What word describes the door in the poem?",
+      "options": ["wooden", "moonlit", "ancient", "iron"],
+      "answer": "moonlit",
+      "explanation": "The poem says: 'Knocking on the moonlit door'"
+    },
+    {
+      "id": "fd_listeners_3",
+      "question": "What word describes the forest floor?",
+      "options": ["mossy", "ferny", "grassy", "rocky"],
+      "answer": "ferny",
+      "explanation": "The poem states: 'Of the forest's ferny floor'"
+    },
+    {
+      "id": "fd_listeners_4",
+      "question": "The sill is described as ___.",
+      "options": ["stone-cold", "leaf-fringed", "dust-covered", "moon-lit"],
+      "answer": "leaf-fringed",
+      "explanation": "The poem says: 'No head from the leaf-fringed sill'"
+    },
+    {
+      "id": "fd_listeners_5",
+      "question": "What flew up out of the turret?",
+      "options": ["an owl", "a bat", "a bird", "a moth"],
+      "answer": "a bird",
+      "explanation": "The poem states: 'And a bird flew up out of the turret'"
+    },
+    {
+      "id": "fd_listeners_6",
+      "question": "What is a turret?",
+      "options": ["a window", "a cylindrical tower rising from a building", "a chimney", "a doorway"],
+      "answer": "a cylindrical tower rising from a building",
+      "explanation": "According to the textbook's Words to Know section"
+    },
+    {
+      "id": "fd_listeners_7",
+      "question": "The house is described as ___.",
+      "options": ["haunted", "abandoned", "lone", "ancient"],
+      "answer": "lone",
+      "explanation": "The poem states: 'That dwelt in the lone house then'"
+    },
+    {
+      "id": "fd_listeners_8",
+      "question": "What word describes the turf?",
+      "options": ["green", "dark", "soft", "wet"],
+      "answer": "dark",
+      "explanation": "The poem says: 'cropping the dark turf'"
+    },
+    {
+      "id": "fd_listeners_9",
+      "question": "What word describes the stair?",
+      "options": ["creaky", "wooden", "dark", "spiral"],
+      "answer": "dark",
+      "explanation": "The poem states: 'the faint moonbeams on the dark stair'"
+    },
+    {
+      "id": "fd_listeners_10",
+      "question": "What word describes the hall?",
+      "options": ["dusty", "cold", "empty", "large"],
+      "answer": "empty",
+      "explanation": "The poem says: 'That goes down to the empty hall'"
+    },
+    {
+      "id": "fd_listeners_11",
+      "question": "The listeners are described as ___.",
+      "options": ["ghostly", "phantom", "silent", "invisible"],
+      "answer": "phantom",
+      "explanation": "The poem states: 'But only a host of phantom listeners'"
+    },
+    {
+      "id": "fd_listeners_12",
+      "question": "What does 'champed' mean?",
+      "options": ["galloped", "chewed", "stamped", "rested"],
+      "answer": "chewed",
+      "explanation": "According to the textbook: 'champed - chewed'"
+    },
+    {
+      "id": "fd_listeners_13",
+      "question": "What does 'smote' mean?",
+      "options": ["knocked gently", "hit hard; pounded", "touched lightly", "pushed open"],
+      "answer": "hit hard; pounded",
+      "explanation": "According to the textbook: 'smote - hit hard; pounded'"
+    },
+    {
+      "id": "fd_listeners_14",
+      "question": "What does 'hearkening' mean?",
+      "options": ["looking carefully", "paying close attention; listening carefully", "waiting patiently", "standing still"],
+      "answer": "paying close attention; listening carefully",
+      "explanation": "According to the textbook: 'hearkening - paying close attention, listening carefully'"
+    },
+    {
+      "id": "fd_listeners_15",
+      "question": "What does 'spake' mean?",
+      "options": ["spoke (old-fashioned)", "walked", "knocked", "waited"],
+      "answer": "spoke (old-fashioned)",
+      "explanation": "According to the textbook: 'spake - a very old-fashioned way of writing 'spoke''"
+    },
+    {
+      "id": "fd_listeners_16",
+      "question": "What does 'perplexed' mean?",
+      "options": ["tired", "angry", "baffled; confused", "frightened"],
+      "answer": "baffled; confused",
+      "explanation": "According to the textbook: 'perplexed - baffled, confused'"
+    },
+    {
+      "id": "fd_listeners_17",
+      "question": "When was Walter de la Mare born?",
+      "options": ["1870", "1873", "1880", "1856"],
+      "answer": "1873",
+      "explanation": "The textbook states: 'Walter de la Mare (1873-1956)'"
+    },
+    {
+      "id": "fd_listeners_18",
+      "question": "When did Walter de la Mare die?",
+      "options": ["1950", "1956", "1960", "1946"],
+      "answer": "1956",
+      "explanation": "The textbook states: 'Walter de la Mare (1873-1956)'"
+    },
+    {
+      "id": "fd_listeners_19",
+      "question": "What was the name of Walter de la Mare's first book of poems?",
+      "options": ["The Listeners", "Songs of Childhood", "Poems for Children", "Nature's Voice"],
+      "answer": "Songs of Childhood",
+      "explanation": "The textbook states: 'His first book of poems was called Songs of Childhood (1902)'"
+    },
+    {
+      "id": "fd_listeners_20",
+      "question": "In what year was 'Songs of Childhood' published?",
+      "options": ["1900", "1902", "1905", "1910"],
+      "answer": "1902",
+      "explanation": "The textbook states: 'Songs of Childhood (1902)'"
+    },
+    {
+      "id": "fd_listeners_21",
+      "question": "What main themes did Walter de la Mare write about?",
+      "options": ["war and peace", "romance and nature", "history and science", "adventure and mystery"],
+      "answer": "romance and nature",
+      "explanation": "The textbook states: 'The main themes he wrote about were romance and nature'"
+    },
+    {
+      "id": "fd_listeners_22",
+      "question": "What is a 'sill'?",
+      "options": ["a door frame", "a shelf-like ledge below a window", "a roof tile", "a floor board"],
+      "answer": "a shelf-like ledge below a window",
+      "explanation": "According to the textbook: 'sill - a shelf-like ledge below a window'"
+    },
+    {
+      "id": "fd_listeners_23",
+      "question": "What is a 'stirrup'?",
+      "options": ["a horse's saddle", "a loop that supports the rider's foot", "a type of rein", "a horse shoe"],
+      "answer": "a loop that supports the rider's foot",
+      "explanation": "According to the textbook: 'stirrup - a loop with a flat base that supports the rider's foot on each side of the saddle'"
+    },
+    {
+      "id": "fd_listeners_24",
+      "question": "What word describes the hoofs at the end of the poem?",
+      "options": ["galloping", "plunging", "thundering", "clattering"],
+      "answer": "plunging",
+      "explanation": "The poem ends with: 'When the plunging hoofs were gone'"
+    },
+    {
+      "id": "fd_listeners_25",
+      "question": "What did the traveller say he kept?",
+      "options": ["a secret", "his promise", "his word", "the time"],
+      "answer": "his word",
+      "explanation": "The poem states: 'Tell them I came, and no one answered, That I kept my word'"
+    }
+  ],
+  "total_count": 25,
+  "subject": "English E2",
+  "chapter": "The Listeners"
+}

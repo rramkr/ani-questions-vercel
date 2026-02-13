@@ -1,0 +1,218 @@
+{
+  "question_type": "finer_details",
+  "questions": [
+    {
+      "id": "fd_skeh_1",
+      "question": "What is the name of the book from which this excerpt is taken?",
+      "options": ["The City by the Sea", "The Village by the Sea", "The House by the Sea", "The Boy by the Sea"],
+      "answer": "The Village by the Sea",
+      "explanation": "The textbook states: 'This excerpt is taken from a book called The Village by the Sea'"
+    },
+    {
+      "id": "fd_skeh_2",
+      "question": "How many children are there in Hari's family?",
+      "options": ["two", "three", "four", "five"],
+      "answer": "four",
+      "explanation": "The textbook mentions: 'The four children - Hari, Lila, Bela and Kamal'"
+    },
+    {
+      "id": "fd_skeh_3",
+      "question": "What is the name of Hari's village?",
+      "options": ["Bombay", "Mumbai", "Thul", "Delhi"],
+      "answer": "Thul",
+      "explanation": "The story mentions Hari comes from Thul"
+    },
+    {
+      "id": "fd_skeh_4",
+      "question": "Who brought Hari to the Sri Krishna Eating House?",
+      "options": ["his father", "a kind watchman", "Jagu", "Sayyid Ali"],
+      "answer": "a kind watchman",
+      "explanation": "The story states: 'a kind watchman takes him to a small and dirty restaurant'"
+    },
+    {
+      "id": "fd_skeh_5",
+      "question": "The Sri Krishna Eating House is described as the ___ restaurant Hari had ever seen.",
+      "options": ["dirtiest and smallest", "meanest and shabbiest", "poorest and oldest", "darkest and coldest"],
+      "answer": "meanest and shabbiest",
+      "explanation": "The story states: 'The Sri Krishna Eating House was the meanest and shabbiest restaurant Hari had ever seen'"
+    },
+    {
+      "id": "fd_skeh_6",
+      "question": "What flowers were mentioned in the cafes at Thul?",
+      "options": ["roses and lilies", "marigolds and hibiscus", "jasmine and tulips", "sunflowers and daisies"],
+      "answer": "marigolds and hibiscus",
+      "explanation": "The story mentions: 'a handful of marigolds and hibiscus'"
+    },
+    {
+      "id": "fd_skeh_7",
+      "question": "What type of tree provided shade for the cafes in Thul?",
+      "options": ["banyan or neem", "mango or frangipani", "coconut or palm", "oak or pine"],
+      "answer": "mango or frangipani",
+      "explanation": "The story states: 'wooden shacks built in the shade of a mango or frangipani tree'"
+    },
+    {
+      "id": "fd_skeh_8",
+      "question": "What was used as a vase in the Thul cafes?",
+      "options": ["a glass jar", "an old ink bottle", "a clay pot", "a tin can"],
+      "answer": "an old ink bottle",
+      "explanation": "The story states: 'an old ink bottle for a vase'"
+    },
+    {
+      "id": "fd_skeh_9",
+      "question": "The ceiling of the Sri Krishna Eating House was thick with ___.",
+      "options": ["dust", "cobwebs", "smoke", "flies"],
+      "answer": "cobwebs",
+      "explanation": "The story states: 'The ceiling was thick with cobwebs that trapped the soot'"
+    },
+    {
+      "id": "fd_skeh_10",
+      "question": "What colour were the floor and wooden tables?",
+      "options": ["brown", "grey", "black", "white"],
+      "answer": "black",
+      "explanation": "The story states: 'the floor and the wooden tables were all black, too'"
+    },
+    {
+      "id": "fd_skeh_11",
+      "question": "The lentils were cooked all day in a ___.",
+      "options": ["large iron pot", "huge aluminium pan", "clay vessel", "copper pot"],
+      "answer": "huge aluminium pan",
+      "explanation": "The story states: 'the lentils were cooked all day in a huge aluminium pan'"
+    },
+    {
+      "id": "fd_skeh_12",
+      "question": "Who were the usual customers at the Sri Krishna Eating House?",
+      "options": ["office workers and students", "beggars and coolies", "tourists and travelers", "families and children"],
+      "answer": "beggars and coolies",
+      "explanation": "The story states: 'the usual customers were beggars and coolies'"
+    },
+    {
+      "id": "fd_skeh_13",
+      "question": "What did the coolies carry?",
+      "options": ["boxes and crates", "sacks of coal and cylinders of gas", "bags of rice", "bundles of cloth"],
+      "answer": "sacks of coal and cylinders of gas",
+      "explanation": "The story states: 'coolies who had stopped in between carrying their loads - sacks of coal and cylinders of gas'"
+    },
+    {
+      "id": "fd_skeh_14",
+      "question": "How many boys did the owner have to help him?",
+      "options": ["one", "two", "three", "four"],
+      "answer": "two",
+      "explanation": "The story states: 'He worked hard himself all day and had two boys to help him'"
+    },
+    {
+      "id": "fd_skeh_15",
+      "question": "How much was Hari paid per day?",
+      "options": ["fifty paise", "one rupee", "two rupees", "five rupees"],
+      "answer": "one rupee",
+      "explanation": "The owner says: 'one rupee a day, like the other boys'"
+    },
+    {
+      "id": "fd_skeh_16",
+      "question": "What was used to scour the pots?",
+      "options": ["soap and water", "sand and mud", "blackened coconut husks and ash from the fires", "steel wool"],
+      "answer": "blackened coconut husks and ash from the fires",
+      "explanation": "The story states: 'there was nothing to scour the pots with except some blackened coconut husks and the ash from the fires'"
+    },
+    {
+      "id": "fd_skeh_17",
+      "question": "What language did the two boys speak?",
+      "options": ["Hindi", "Marathi", "Tamil", "English"],
+      "answer": "Tamil",
+      "explanation": "The story states: 'Hari realized it was in Tamil, a language he did not know'"
+    },
+    {
+      "id": "fd_skeh_18",
+      "question": "What was the name of the watch repair shop next door?",
+      "options": ["Tick Tock Watches", "Ding Dong Watchworks", "Time Masters", "Watch House"],
+      "answer": "Ding Dong Watchworks",
+      "explanation": "The story states: 'a watch repair shop with its name painted on a signboard over the door: Ding Dong Watchworks'"
+    },
+    {
+      "id": "fd_skeh_19",
+      "question": "What was the old watchmaker wearing on his head?",
+      "options": ["a turban", "a small black cap", "a hat", "nothing"],
+      "answer": "a small black cap",
+      "explanation": "The story describes: 'the man who stood at the counter, wearing a small black cap'"
+    },
+    {
+      "id": "fd_skeh_20",
+      "question": "Who did the old watchmaker remind Hari of?",
+      "options": ["his father", "Jagu", "Sayyid Ali of the Black Horse", "his grandfather"],
+      "answer": "Sayyid Ali of the Black Horse",
+      "explanation": "The story states: 'The old man looked so much like Sayyid Ali, the man who had spoken so well at the meeting by the Black Horse'"
+    },
+    {
+      "id": "fd_skeh_21",
+      "question": "What happened to the parents of the two boys who worked at the eating house?",
+      "options": ["they abandoned them", "they were killed in a railway accident", "they died of illness", "they moved away"],
+      "answer": "they were killed in a railway accident",
+      "explanation": "The watchmaker explains: 'their parents were killed in a railway accident'"
+    },
+    {
+      "id": "fd_skeh_22",
+      "question": "Where is the post office located according to the watchmaker?",
+      "options": ["at the end of the street", "next to the electric substation", "near the railway station", "behind the eating house"],
+      "answer": "next to the electric substation",
+      "explanation": "The watchmaker says: 'next to the electric substation, there is a post office'"
+    },
+    {
+      "id": "fd_skeh_23",
+      "question": "What type of pen did Hari write the postcard with?",
+      "options": ["a fountain pen", "a pencil", "a ballpoint pen", "a felt-tip pen"],
+      "answer": "a ballpoint pen",
+      "explanation": "The story states: 'carefully wrote with a ballpoint pen that the old watchmaker lent him'"
+    },
+    {
+      "id": "fd_skeh_24",
+      "question": "Where was Anita Desai born?",
+      "options": ["Delhi", "Mumbai", "Mussourie", "Kolkata"],
+      "answer": "Mussourie",
+      "explanation": "The textbook states: 'Anita Desai was born in 1937, in Mussourie'"
+    },
+    {
+      "id": "fd_skeh_25",
+      "question": "What prize did Anita Desai win for 'The Village by the Sea'?",
+      "options": ["Booker Prize", "Pulitzer Prize", "Guardian Children's Fiction Prize", "Sahitya Akademi Award"],
+      "answer": "Guardian Children's Fiction Prize",
+      "explanation": "The textbook states: 'She was awarded the Guardian Children's Fiction Prize for her novel, The Village by the Sea (1982)'"
+    },
+    {
+      "id": "fd_skeh_26",
+      "question": "What does 'inquisitive' mean?",
+      "options": ["lazy", "questioning; eager to find out", "angry", "tired"],
+      "answer": "questioning; eager to find out",
+      "explanation": "According to the textbook: 'inquisitive - questioning; eager to find out'"
+    },
+    {
+      "id": "fd_skeh_27",
+      "question": "What does 'meanest' mean in the context of the story?",
+      "options": ["rudest", "shabbiest; the most worn; dilapidated", "smallest", "dirtiest"],
+      "answer": "shabbiest; the most worn; dilapidated",
+      "explanation": "According to the textbook: 'meanest - shabbiest; the most worn; dilapidated'"
+    },
+    {
+      "id": "fd_skeh_28",
+      "question": "What does 'grime' mean?",
+      "options": ["water stains", "dirt which has got into some surface", "old paint", "rust"],
+      "answer": "dirt which has got into some surface",
+      "explanation": "According to the textbook: 'grime - dirt which has got into some surface'"
+    },
+    {
+      "id": "fd_skeh_29",
+      "question": "What does the old watchmaker's voice sound like?",
+      "options": ["deep and booming", "high-pitched, cracked and reedy", "soft and gentle", "loud and clear"],
+      "answer": "high-pitched, cracked and reedy",
+      "explanation": "The story describes his voice as: 'a high-pitched, rather cracked and reedy voice'"
+    },
+    {
+      "id": "fd_skeh_30",
+      "question": "Where were the two orphan boys living before Jagu found them?",
+      "options": ["on the street", "on a railway platform", "in an orphanage", "under a bridge"],
+      "answer": "on a railway platform",
+      "explanation": "The story states: 'they were all living on a railway platform'"
+    }
+  ],
+  "total_count": 30,
+  "subject": "English E2",
+  "chapter": "Shree Krishna Eating House"
+}

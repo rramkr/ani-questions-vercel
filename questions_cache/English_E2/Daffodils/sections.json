@@ -12,6 +12,9 @@
       {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},
       {"value": "make_sentences", "label": "Make Sentences", "icon": "✍️"}
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      {"value": "finer_details", "label": "Finer Details", "icon": "🔍"},
+      {"value": "teacher_notes", "label": "Teacher Notes", "icon": "👩‍🏫"}
+    ]
   }
 }
