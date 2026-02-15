@@ -17,15 +17,15 @@
       "slug": "Computer_Science",
       "icon": "💻",
       "chapter_count": 2
-    },
-    {
-      "name": "Tamil",
-      "slug": "Tamil",
-      "icon": "🇮🇳",
-      "chapter_count": 1
     }
   ],
   "completed": [
+    {
+      "name": "Tamil1",
+      "slug": "Tamil1",
+      "icon": "🇮🇳",
+      "chapter_count": 1
+    },
     {
       "name": "EVE",
       "slug": "EVE",
