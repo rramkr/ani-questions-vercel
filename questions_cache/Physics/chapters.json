@@ -2,6 +2,12 @@
   "subject": "physics",
   "chapters": [
     {
+      "name": "Sample Papers",
+      "slug": "Sample Papers",
+      "has_questions": true,
+      "icon": "📝"
+    },
+    {
       "name": "Electricity",
       "slug": "electricity",
       "has_questions": true,

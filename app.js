@@ -2251,12 +2251,25 @@ function renderSectionTypes(container, types, sectionId) {
     // Check if this is the textbook section - show all questions at once
     const isTextbookSection = sectionId === 'textbook-section';
 
-    container.innerHTML = types.map(type => `
-        <div class="type-item" onclick="loadQuestions(${JSON.stringify(type).replace(/"/g, '&quot;')}, 0, ${isTextbookSection})">
-            <span class="type-icon">${type.icon}</span>
-            <span class="type-label">${type.label}</span>
-        </div>
-    `).join('');
+    container.innerHTML = types.map(type => {
+        // Handle PDF links - open in new tab
+        if (type.type === 'pdf' && type.url) {
+            return `
+                <div class="type-item pdf-link" onclick="window.open('${type.url}', '_blank')">
+                    <span class="type-icon">${type.icon}</span>
+                    <span class="type-label">${type.label}</span>
+                    <span class="pdf-badge">PDF</span>
+                </div>
+            `;
+        }
+        // Normal question types
+        return `
+            <div class="type-item" onclick="loadQuestions(${JSON.stringify(type).replace(/"/g, '&quot;')}, 0, ${isTextbookSection})">
+                <span class="type-icon">${type.icon}</span>
+                <span class="type-label">${type.label}</span>
+            </div>
+        `;
+    }).join('');
 }
 
 function renderQuiz() {

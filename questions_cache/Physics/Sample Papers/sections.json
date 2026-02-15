@@ -1,0 +1,11 @@
+{
+  "subject": "physics",
+  "chapter": "Sample Papers",
+  "sections": {
+    "textbook": [],
+    "exam": [
+      {"value": "sample_papers_pdf", "label": "Sample Papers with Solutions", "icon": "📄", "type": "pdf", "url": "./questions_cache/Physics/Sample Papers/sample_papers_solutions.pdf"}
+    ],
+    "miscellaneous": []
+  }
+}

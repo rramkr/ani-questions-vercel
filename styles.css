@@ -1846,6 +1846,35 @@ body {
     color: white;
 }
 
+/* PDF Link Styles */
+.type-item.pdf-link {
+    background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
+    border: 2px solid #ef4444;
+    position: relative;
+}
+
+.type-item.pdf-link:hover {
+    background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+    color: white;
+}
+
+.pdf-badge {
+    background: #ef4444;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    margin-left: auto;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.type-item.pdf-link:hover .pdf-badge {
+    background: white;
+    color: #ef4444;
+}
+
 /* Admin Panel Styles */
 .admin-section {
     background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
