@@ -1,0 +1,365 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "trk_akbar_001",
+      "type": "mcq",
+      "question": "Hemu, who fought against Akbar in the Second Battle of Panipat, was the:",
+      "options": ["A. King of the Rajputs", "B. Nephew of Sher Shah", "C. Chief minister and general of Adil Shah", "D. Governor of Delhi under the Mughals"],
+      "correct_answer": "C. Chief minister and general of Adil Shah",
+      "explanation": "Hemu was the chief minister and general of Adil Shah (Sher Shah's nephew). He was not a king himself - he occupied Delhi and Agra and declared himself ruler, but his actual title was under Adil Shah.",
+      "trick": "Students often confuse Hemu with a Rajput king or an independent ruler. He was actually Adil Shah's general who seized power. Adil Shah was Sher Shah's nephew - not Hemu."
+    },
+    {
+      "id": "trk_akbar_002",
+      "type": "mcq",
+      "question": "Who was the head of the revenue department in Akbar's administration?",
+      "options": ["A. Vakil", "B. Mir Bakshi", "C. Wazir/Diwan", "D. Mir Saman"],
+      "correct_answer": "C. Wazir/Diwan",
+      "explanation": "The Wazir (also called Diwan) was the head of the revenue department. The Vakil was the prime minister (but with reduced powers), the Mir Bakshi headed the military department, and the Mir Saman supervised the royal household.",
+      "trick": "Students confuse Wazir with Vakil because both sound like senior positions. The Vakil was the prime minister but Akbar reduced his role to ceremonial/advisory. The Wazir/Diwan actually handled revenue - the most important department."
+    },
+    {
+      "id": "trk_akbar_003",
+      "type": "mcq",
+      "question": "The Battle of Haldighati (1576) was fought between Rana Pratap and the Mughal forces led by:",
+      "options": ["A. Akbar personally", "B. Raja Bhagwan Das", "C. Bairam Khan", "D. Raja Man Singh of Amber"],
+      "correct_answer": "D. Raja Man Singh of Amber",
+      "explanation": "The Mughal forces at Haldighati were led by Raja Man Singh of Amber, a Rajput who served Akbar. Akbar did not personally lead this battle.",
+      "trick": "Students often assume Akbar personally led the battle against Rana Pratap. In reality, it was Raja Man Singh - a Rajput fighting against another Rajput (Rana Pratap). Also, Bairam Khan had been dismissed long before 1576."
+    },
+    {
+      "id": "trk_akbar_004",
+      "type": "mcq",
+      "question": "Akbar's famous capital Fatehpur Sikri was built in which architectural style?",
+      "options": ["A. Persian style with blue tiles", "B. Rajput style in red sandstone", "C. Indo-Islamic style with white marble", "D. Turkish style with minarets"],
+      "correct_answer": "B. Rajput style in red sandstone",
+      "explanation": "Fatehpur Sikri, described as a 'dream in stone', was built in Rajput style using red sandstone. It was not in the Persian or Mughal style that students might expect.",
+      "trick": "Students assume Mughal architecture must be Persian-influenced or use white marble (like the Taj Mahal, which came later under Shah Jahan). Fatehpur Sikri was distinctly Rajput-style in red sandstone."
+    },
+    {
+      "id": "trk_akbar_005",
+      "type": "mcq",
+      "question": "Which of the following statements about the Vakil in Akbar's administration is TRUE?",
+      "options": ["A. The Vakil was the most powerful official with full executive authority", "B. The Vakil was the prime minister but Akbar reduced the role to ceremonial/advisory", "C. The Vakil was the head of the military department", "D. The position of Vakil did not exist under Akbar"],
+      "correct_answer": "B. The Vakil was the prime minister but Akbar reduced the role to ceremonial/advisory",
+      "explanation": "The Vakil held the title of prime minister, but Akbar deliberately reduced the power of this position to a ceremonial and advisory role to prevent any one official from becoming too powerful.",
+      "trick": "Students see 'prime minister' and assume the Vakil was the most powerful official. In reality, Akbar stripped real power from this position. The Wazir/Diwan (revenue head) held more practical power."
+    },
+    {
+      "id": "trk_akbar_006",
+      "type": "mcq",
+      "question": "The ONLY Hindu who accepted Akbar's Din-i-Ilahi was:",
+      "options": ["A. Raja Man Singh", "B. Todar Mal", "C. Birbal", "D. Raja Bhagwan Das"],
+      "correct_answer": "C. Birbal",
+      "explanation": "Birbal was the only Hindu who accepted Din-i-Ilahi. Notably, Raja Man Singh and Raja Bhagwan Das - despite being closely allied with Akbar through marriage - both refused to accept it.",
+      "trick": "Students often think Raja Man Singh accepted Din-i-Ilahi because he was Akbar's military commander and closely related through marriage. But both Man Singh and Bhagwan Das refused. Only Birbal accepted."
+    },
+    {
+      "id": "trk_akbar_007",
+      "type": "mcq",
+      "question": "In the Mansabdari system, the highest rank a mansabdar could hold was:",
+      "options": ["A. 5000 horsemen", "B. 7000 horsemen", "C. 10000 horsemen", "D. 12000 horsemen"],
+      "correct_answer": "B. 7000 horsemen",
+      "explanation": "The highest mansab (rank) was 7000 horsemen. Higher mansabs were reserved exclusively for members of the royal family. The lowest rank was 10 horsemen.",
+      "trick": "Students confuse the lowest rank (10) with the highest (7000). Some also guess 5000 or 10000. Remember: the highest mansab for non-royal officials was 7000, and anything higher was reserved for royals."
+    },
+    {
+      "id": "trk_akbar_008",
+      "type": "mcq",
+      "question": "Rana Pratap, who fought the Mughals at Haldighati, was the son of:",
+      "options": ["A. Rana Sanga", "B. Rana Udai Singh", "C. Rana Kumbha", "D. Jai Mal"],
+      "correct_answer": "B. Rana Udai Singh",
+      "explanation": "Rana Pratap was the son of Rana Udai Singh. It was Udai Singh who escaped when Akbar besieged Chittor, leaving its defence to Jai Mal. Rana Pratap later built Udaipur and continued resistance.",
+      "trick": "Students confuse Rana Pratap with his father Udai Singh, or confuse Jai Mal as a relative. Jai Mal was the commander left to defend Chittor - not Rana Pratap's father. Rana Sanga fought at the First Battle of Panipat era (against Babur at Khanwa)."
+    },
+    {
+      "id": "trk_akbar_009",
+      "type": "mcq",
+      "question": "Akbar's mother-in-law was from which Rajput kingdom? (The princess who became the mother of Jahangir)",
+      "options": ["A. Mewar (Udaipur)", "B. Amber (Jaipur)", "C. Marwar (Jodhpur)", "D. Chittor"],
+      "correct_answer": "B. Amber (Jaipur)",
+      "explanation": "Akbar married the daughter of the Raja of Jaipur (Amber). She became the mother of Jahangir. Mewar (Chittor/Udaipur) was the kingdom that resisted Akbar most fiercely under Rana Pratap.",
+      "trick": "Students confuse Amber (Jaipur) with Mewar (Chittor/Udaipur). The Jaipur Rajputs allied with Akbar through marriage, while Mewar Rajputs (Rana Pratap) were his fiercest opponents. The mother of Jahangir was from Amber, NOT Mewar."
+    },
+    {
+      "id": "trk_akbar_010",
+      "type": "mcq",
+      "question": "Akbar had a library of 24,000 books. What was remarkable about this?",
+      "options": ["A. He wrote most of the books himself", "B. He was illiterate and could not read any of them", "C. All books were in Persian, which he did not speak", "D. The books were all translations from Sanskrit"],
+      "correct_answer": "B. He was illiterate and could not read any of them",
+      "explanation": "Despite being illiterate, Akbar maintained a library of 24,000 books and was a great patron of learning. He had books read aloud to him and valued knowledge enormously despite not being able to read himself.",
+      "trick": "Students find it hard to believe that one of the greatest Mughal emperors was illiterate. They often assume he was highly educated because of his patronage of arts and learning."
+    },
+    {
+      "id": "trk_akbar_011",
+      "type": "mcq",
+      "question": "What happened to Rana Pratap after the Battle of Haldighati (1576)?",
+      "options": ["A. He was captured and imprisoned by Akbar", "B. He recovered his entire kingdom including Chittor", "C. He took shelter in a mountain fortress and recovered parts of his kingdom but NOT Chittor", "D. He surrendered and accepted Akbar's sovereignty"],
+      "correct_answer": "C. He took shelter in a mountain fortress and recovered parts of his kingdom but NOT Chittor",
+      "explanation": "After defeat at Haldighati, Rana Pratap took shelter in a mountain fortress and eventually recovered parts of his kingdom through guerrilla warfare. However, he was never able to recover Chittor.",
+      "trick": "Students either think Rana Pratap was completely defeated or that he heroically recovered everything. The truth is in between - he recovered parts but never got back Chittor, which remained under Mughal control."
+    },
+    {
+      "id": "trk_akbar_012",
+      "type": "mcq",
+      "question": "The Ibadat Khana (Hall of Prayer) was built by Akbar in 1575 at:",
+      "options": ["A. Agra Fort", "B. Delhi", "C. Fatehpur Sikri", "D. Lahore"],
+      "correct_answer": "C. Fatehpur Sikri",
+      "explanation": "The Ibadat Khana was built at Fatehpur Sikri in 1575, where Akbar invited scholars of different religions for discussions. This eventually led to the founding of Din-i-Ilahi in 1582.",
+      "trick": "Students confuse the location, often saying Agra Fort or Delhi. Remember the sequence: Ibadat Khana (1575) at Fatehpur Sikri, then Mahzar (1579), then Din-i-Ilahi (1582)."
+    },
+    {
+      "id": "trk_akbar_013",
+      "type": "mcq",
+      "question": "The Mahzar issued in 1579 gave Akbar the power to:",
+      "options": ["A. Collect taxes from non-Muslims", "B. Interpret Islamic law and settle religious disputes", "C. Appoint himself as a religious prophet", "D. Ban all religions except Din-i-Ilahi"],
+      "correct_answer": "B. Interpret Islamic law and settle religious disputes",
+      "explanation": "The Mahzar (1579) gave Akbar the authority to interpret Islamic law. This was issued three years before Din-i-Ilahi (1582) and was a step in Akbar consolidating religious authority.",
+      "trick": "Students often confuse the Mahzar with Din-i-Ilahi or think it abolished Islam. The Mahzar gave Akbar authority over Islamic law interpretation - it did not create a new religion (that came later with Din-i-Ilahi in 1582)."
+    },
+    {
+      "id": "trk_akbar_014",
+      "type": "mcq",
+      "question": "In Akbar's revenue system designed by Todar Mal, the king's share of the produce was:",
+      "options": ["A. One-half of the produce", "B. One-fourth of the produce", "C. One-third of the produce", "D. Two-fifths of the produce"],
+      "correct_answer": "C. One-third of the produce",
+      "explanation": "Under Todar Mal's Bandobast system, the king's share was fixed at one-third of the produce. The revenue was calculated as an average over 10 years, and land was measured using a bamboo jarib with iron rings.",
+      "trick": "Students commonly confuse one-third with one-half or one-fourth. One-half is too high and one-fourth too low. Remember: one-THIRD was the king's share under Todar Mal's system."
+    },
+    {
+      "id": "trk_akbar_015",
+      "type": "mcq",
+      "question": "Land under Todar Mal's revenue system was measured using:",
+      "options": ["A. A rope made of hemp", "B. A bamboo jarib with iron rings", "C. A metal chain with brass links", "D. A wooden rod marked in feet"],
+      "correct_answer": "B. A bamboo jarib with iron rings",
+      "explanation": "Todar Mal's Bandobast system used a bamboo jarib (measuring rod) fitted with iron rings for land measurement. This was more accurate than ropes which could shrink or stretch.",
+      "trick": "Students often say 'rope' because that seems like an obvious measuring tool. The specific detail is bamboo jarib with iron rings - this was chosen precisely because bamboo with iron rings would not shrink or expand like rope."
+    },
+    {
+      "id": "trk_akbar_016",
+      "type": "mcq",
+      "question": "Which of the following is TRUE about Din-i-Ilahi?",
+      "options": ["A. It had sacred books and a priestly class", "B. It had no sacred books, no priestly class, no places of worship, and no rituals", "C. It replaced Islam as the state religion", "D. It survived for centuries after Akbar's death"],
+      "correct_answer": "B. It had no sacred books, no priestly class, no places of worship, and no rituals",
+      "explanation": "Din-i-Ilahi was unique in having none of the features of a typical religion - no sacred books, no priests, no places of worship, and no rituals. It died with Akbar.",
+      "trick": "Students assume Din-i-Ilahi must have had religious structures like sacred texts or priests because it's called a 'faith'. In reality, it had none of these and was more of a philosophical movement that died with Akbar."
+    },
+    {
+      "id": "trk_akbar_017",
+      "type": "mcq",
+      "question": "Babur defeated Ibrahim Lodi at Panipat in 1526. The Second Battle of Panipat (1556) took place approximately how many years later?",
+      "options": ["A. 20 years later", "B. 30 years later", "C. 40 years later", "D. 50 years later"],
+      "correct_answer": "B. 30 years later",
+      "explanation": "The First Battle of Panipat was in 1526 (Babur vs Ibrahim Lodi) and the Second Battle of Panipat was in 1556 (Akbar vs Hemu) - exactly 30 years apart, at the same battlefield.",
+      "trick": "Students often miscalculate the gap between the two battles. 1556 minus 1526 = 30 years. Both battles were fought at the same location - Panipat."
+    },
+    {
+      "id": "trk_akbar_018",
+      "type": "mcq",
+      "question": "Abul Fazl and Faizi were both Navratnas (Nine Gems) of Akbar. What was their relationship?",
+      "options": ["A. Father and son", "B. Brothers", "C. Teacher and student", "D. Cousins"],
+      "correct_answer": "B. Brothers",
+      "explanation": "Faizi (the Persian poet) and Abul Fazl (the court historian who wrote Akbarnama) were brothers. Both were among Akbar's Nine Gems.",
+      "trick": "Students often forget that Faizi and Abul Fazl were brothers. They remember their individual roles (Faizi = poet, Abul Fazl = historian) but miss the family connection."
+    },
+    {
+      "id": "trk_akbar_019",
+      "type": "mcq",
+      "question": "Prince Salim (later Emperor Jahangir) married the daughter of:",
+      "options": ["A. Raja Man Singh", "B. Raja Bhagwan Das", "C. Rana Udai Singh", "D. Rana Pratap"],
+      "correct_answer": "B. Raja Bhagwan Das",
+      "explanation": "Prince Salim married the daughter of Raja Bhagwan Das. Akbar himself had married the daughter of the Raja of Amber (Jaipur). Raja Man Singh was made a military commander and viceroy.",
+      "trick": "Students confuse Raja Man Singh with Raja Bhagwan Das in marriage alliances. Man Singh was Akbar's military commander at Haldighati, while Bhagwan Das's daughter married Prince Salim (Jahangir)."
+    },
+    {
+      "id": "trk_akbar_020",
+      "type": "mcq",
+      "question": "Akbar's empire stretched from the Hindu Kush in the west to the Brahmaputra in the east. Its southern boundary was the river:",
+      "options": ["A. Narmada", "B. Krishna", "C. Godavari", "D. Kaveri"],
+      "correct_answer": "C. Godavari",
+      "explanation": "Akbar's empire extended from the Hindu Kush (west) to the Brahmaputra (east), from the Himalayas (north) to the Godavari river (south).",
+      "trick": "Students often guess Narmada or Krishna as the southern boundary. The correct answer is Godavari. Remember: Hindu Kush-Brahmaputra (west-east), Himalayas-Godavari (north-south)."
+    },
+    {
+      "id": "trk_akbar_021",
+      "type": "fill_in_blanks",
+      "question": "The ___ was the head of the military department and also served as the paymaster of the mansabdars.",
+      "answer": "Mir Bakshi",
+      "acceptable_answers": ["Mir Bakshi", "mir bakshi", "Mir bakshi"],
+      "explanation": "The Mir Bakshi headed the military department and was responsible for paying the mansabdars. This is different from the Wazir/Diwan (revenue) and the Vakil (prime minister with reduced powers).",
+      "trick": "Students confuse Mir Bakshi with Wazir or Vakil. Remember: Mir BAKSHI = military (think 'B' for Battle). Wazir/Diwan = revenue. Vakil = PM (ceremonial only)."
+    },
+    {
+      "id": "trk_akbar_022",
+      "type": "fill_in_blanks",
+      "question": "The mansabdari system ranks were NOT ___, meaning they could not be passed from father to son.",
+      "answer": "hereditary",
+      "acceptable_answers": ["hereditary", "Hereditary", "inherited", "Inherited"],
+      "explanation": "Mansabs (ranks) were not hereditary. Each mansabdar earned their rank on merit and service. When a mansabdar died, the rank did not pass to their children.",
+      "trick": "Students sometimes assume that because Mughal India was a monarchy, all positions were inherited. The mansabdari system was specifically designed to be non-hereditary to prevent concentration of power."
+    },
+    {
+      "id": "trk_akbar_023",
+      "type": "fill_in_blanks",
+      "question": "Akbar dismissed his regent Bairam Khan in ___ CE, when Akbar was 18 years old.",
+      "answer": "1560",
+      "acceptable_answers": ["1560", "1560 CE"],
+      "explanation": "Bairam Khan served as regent for 4 years (1556-1560). Akbar became emperor at 13 in 1556 and dismissed Bairam Khan at age 18 in 1560 CE.",
+      "trick": "Students confuse the date of Bairam Khan's dismissal. Akbar became emperor in 1556 at age 13. Add 4 years of regency (or 5 years to reach age 18) = 1560. Some students incorrectly say 1562 or 1564."
+    },
+    {
+      "id": "trk_akbar_024",
+      "type": "fill_in_blanks",
+      "question": "The Diwan-i-Khas was the ___ audience hall where Akbar met senior officers.",
+      "answer": "private",
+      "acceptable_answers": ["private", "Private"],
+      "explanation": "Diwan-i-Khas = private audience hall (for senior officers). Diwan-i-Aam = common/public audience hall (for public petitions). 'Khas' means special/private, 'Aam' means common/public.",
+      "trick": "Students frequently swap Diwan-i-Khas and Diwan-i-Aam. Remember: Khas = special/private (senior officers), Aam = common/public (general public petitions)."
+    },
+    {
+      "id": "trk_akbar_025",
+      "type": "fill_in_blanks",
+      "question": "Under Todar Mal's revenue system, the average produce was calculated over a period of ___ years.",
+      "answer": "10",
+      "acceptable_answers": ["10", "ten", "Ten"],
+      "explanation": "Todar Mal's Bandobast system calculated the average produce over 10 years to determine fair revenue. Land was classified into 4 categories and measured with a bamboo jarib with iron rings.",
+      "trick": "Students guess 5 years or 3 years. The specific period was 10 years - a full decade of averaging to ensure fairness in revenue collection."
+    },
+    {
+      "id": "trk_akbar_026",
+      "type": "fill_in_blanks",
+      "question": "Akbar's empire was divided into ___ provinces called subas.",
+      "answer": "15",
+      "acceptable_answers": ["15", "fifteen", "Fifteen"],
+      "explanation": "Akbar divided his empire into 15 provinces (subas). Each suba was further subdivided into sarkars, which were then divided into parganas.",
+      "trick": "Students often guess 12 or 16 or 20 provinces. The exact number is 15 subas. The hierarchy is: Subas > Sarkars > Parganas."
+    },
+    {
+      "id": "trk_akbar_027",
+      "type": "fill_in_blanks",
+      "question": "The ___ was the supervisor of the royal household in Akbar's administration.",
+      "answer": "Mir Saman",
+      "acceptable_answers": ["Mir Saman", "mir saman", "Mir saman"],
+      "explanation": "Mir Saman supervised the royal household. This is the least remembered of Akbar's four main officials: Wazir/Diwan (revenue), Mir Bakshi (military), Chief Sadr/Qazi (justice), and Mir Saman (royal household).",
+      "trick": "Students remember Wazir, Mir Bakshi, and Qazi but often forget Mir Saman. Some confuse Mir Saman with Mir Bakshi because both titles start with 'Mir'."
+    },
+    {
+      "id": "trk_akbar_028",
+      "type": "fill_in_blanks",
+      "question": "Akbar set the minimum marriage age at ___ years for girls and ___ years for boys.",
+      "answer": "14 for girls, 16 for boys",
+      "acceptable_answers": ["14, 16", "14 and 16", "14 for girls and 16 for boys", "14 girls 16 boys"],
+      "explanation": "Akbar fixed the minimum marriage age at 14 for girls and 16 for boys as part of his social reforms. He also tried to prohibit sati (except voluntary) and legalize widow remarriage.",
+      "trick": "Students swap the ages (saying 16 for girls and 14 for boys) or guess equal ages for both. Remember: girls = 14, boys = 16 (boys are 2 years higher)."
+    },
+    {
+      "id": "trk_akbar_029",
+      "type": "fill_in_blanks",
+      "question": "Birbal held the title of Hindi ___ (poet laureate) at Akbar's court.",
+      "answer": "Kavi Raj",
+      "acceptable_answers": ["Kavi Raj", "kavi raj", "Kavi raj", "Kaviraj"],
+      "explanation": "Birbal was the Hindi Kavi Raj (poet laureate). Faizi was the Persian poet, while Abul Fazl was the court historian. Birbal was also the only Hindu to accept Din-i-Ilahi.",
+      "trick": "Students remember Birbal for his wit and for accepting Din-i-Ilahi, but forget his official title of Hindi Kavi Raj. Some confuse him with Faizi (who was the Persian poet)."
+    },
+    {
+      "id": "trk_akbar_030",
+      "type": "fill_in_blanks",
+      "question": "The Mughal gold coin was called a ___.",
+      "answer": "mohur",
+      "acceptable_answers": ["mohur", "Mohur", "mohar", "Mohar"],
+      "explanation": "The gold coin in the Mughal empire was called a mohur. This is a specific term that students need to remember.",
+      "trick": "Students sometimes confuse mohur with other coin names like dinar or ashrafi. The specific Mughal gold coin was called a mohur."
+    },
+    {
+      "id": "trk_akbar_031",
+      "type": "one_word",
+      "question": "What was the name of the concept meaning 'universal peace' that formed the basis of Akbar's religious policy?",
+      "answer": "Sulh-i-Kul",
+      "acceptable_answers": ["Sulh-i-Kul", "sulh-i-kul", "Sulh i Kul", "Sulh-i-kul", "Sulh e Kul"],
+      "explanation": "Sulh-i-Kul means 'universal peace' and was the guiding principle behind Akbar's religious tolerance, including the abolition of jizya and the creation of Din-i-Ilahi.",
+      "trick": "Students confuse Sulh-i-Kul with Din-i-Ilahi. Sulh-i-Kul is the CONCEPT (universal peace), while Din-i-Ilahi is the RELIGION (Divine Faith) Akbar founded. They are related but different."
+    },
+    {
+      "id": "trk_akbar_032",
+      "type": "one_word",
+      "question": "Who wrote the Akbarnama, the official history of Akbar's reign?",
+      "answer": "Abul Fazl",
+      "acceptable_answers": ["Abul Fazl", "abul fazl", "Abu'l-Fazl", "Abul Fazel", "Abu l Fazl"],
+      "explanation": "Abul Fazl wrote the Akbarnama. He was the brother of Faizi (the Persian poet). Both were among Akbar's Navratnas (Nine Gems).",
+      "trick": "Students confuse Abul Fazl (historian, wrote Akbarnama) with his brother Faizi (Persian poet). Remember: Abul FAZL = FACTS (history), FAIZI = poetry."
+    },
+    {
+      "id": "trk_akbar_033",
+      "type": "one_word",
+      "question": "What was the tax on non-Muslims that Akbar abolished?",
+      "answer": "Jizya",
+      "acceptable_answers": ["Jizya", "jizya", "Jaziya", "jaziya", "Jizyah"],
+      "explanation": "Akbar abolished the jizya tax (levied on non-Muslims) as well as the pilgrim tax, as part of his policy of religious tolerance (Sulh-i-Kul).",
+      "trick": "Students sometimes confuse jizya with zakat (which is an Islamic charitable tax on Muslims). Jizya was specifically a tax on non-Muslims that Akbar abolished."
+    },
+    {
+      "id": "trk_akbar_034",
+      "type": "one_word",
+      "question": "Who was the commander left to defend Chittor when Rana Udai Singh escaped from Akbar's siege?",
+      "answer": "Jai Mal",
+      "acceptable_answers": ["Jai Mal", "jai mal", "Jaimal", "jaimal", "Jai mal"],
+      "explanation": "When Akbar besieged Chittor, Rana Udai Singh escaped, leaving the defence to Jai Mal. The siege lasted 4 months and ended with jauhar (mass self-immolation by Rajput women).",
+      "trick": "Students confuse Jai Mal with Rana Pratap. Rana Pratap was Udai Singh's SON who fought later at Haldighati (1576). Jai Mal was the commander who defended Chittor during the siege."
+    },
+    {
+      "id": "trk_akbar_035",
+      "type": "one_word",
+      "question": "What was the official court language during Akbar's reign?",
+      "answer": "Persian",
+      "acceptable_answers": ["Persian", "persian", "Farsi", "farsi"],
+      "explanation": "Persian was the official court language under Akbar. Akbar's translation department translated Sanskrit works (Vedas, Mahabharata, Bhagavad Gita) and even the Bible into Persian.",
+      "trick": "Students sometimes guess Hindi, Urdu, or Arabic. Persian was the court language. Interestingly, Akbar also had Sanskrit works translated INTO Persian, showing his interest in Indian culture."
+    },
+    {
+      "id": "trk_akbar_036",
+      "type": "one_word",
+      "question": "Name the famous monument/gateway at Fatehpur Sikri that is one of the tallest gateways in the world.",
+      "answer": "Buland Darwaza",
+      "acceptable_answers": ["Buland Darwaza", "buland darwaza", "Buland darwaza", "Buland Darwaja"],
+      "explanation": "The Buland Darwaza (Gate of Magnificence) at Fatehpur Sikri is one of the tallest and most magnificent gateways. Other notable buildings at Fatehpur Sikri include Diwan-i-Khas, Panch Mahal, and Jodha Bai's Palace.",
+      "trick": "Students might confuse the buildings at Fatehpur Sikri. Buland Darwaza is the famous gateway. Panch Mahal, Diwan-i-Khas, and Jodha Bai's Palace are other structures there."
+    },
+    {
+      "id": "trk_akbar_037",
+      "type": "one_word",
+      "question": "Who wrote the Ramacharitamanas during Akbar's reign?",
+      "answer": "Tulsidas",
+      "acceptable_answers": ["Tulsidas", "tulsidas", "Tulsi Das", "Goswami Tulsidas"],
+      "explanation": "Tulsidas wrote the Ramacharitamanas (retelling of the Ramayana in Awadhi Hindi) during Akbar's era. He was not one of Akbar's Navratnas but was a contemporary.",
+      "trick": "Students sometimes confuse Tulsidas with one of Akbar's Navratnas or think Abul Fazl or Faizi wrote it. Tulsidas was an independent scholar/poet, not part of Akbar's court."
+    },
+    {
+      "id": "trk_akbar_038",
+      "type": "one_word",
+      "question": "How many musicians did Akbar have at his court, including Tansen?",
+      "answer": "36",
+      "acceptable_answers": ["36", "thirty-six", "thirty six", "Thirty-six"],
+      "explanation": "Akbar had 36 musicians at his court, divided into 7 groups for the 7 days of the week. Tansen was the most famous among them.",
+      "trick": "Students remember Tansen but forget the total number. 36 musicians in 7 groups for 7 days. Some students guess 9 (confusing with Navratnas) or some other number."
+    },
+    {
+      "id": "trk_akbar_039",
+      "type": "one_word",
+      "question": "How many years did Akbar rule the Mughal Empire?",
+      "answer": "50",
+      "acceptable_answers": ["50", "fifty", "Fifty", "50 years"],
+      "explanation": "Akbar ruled for 50 years, from 1556 to 1605 CE (though some count to 1605). He became emperor at age 13 and ruled until his death.",
+      "trick": "Students sometimes miscalculate. 1605 minus 1556 = 49 years, but the textbook states 50 years of rule. Students may also confuse with Bairam Khan's 4-year regency period."
+    },
+    {
+      "id": "trk_akbar_040",
+      "type": "one_word",
+      "question": "What was the name of Akbar's regent who served for 4 years after Akbar became emperor at age 13?",
+      "answer": "Bairam Khan",
+      "acceptable_answers": ["Bairam Khan", "bairam khan", "Bairam khan"],
+      "explanation": "Bairam Khan served as Akbar's regent from 1556 to 1560 (4 years). During this period, he conquered Gwalior, Ajmer, and Jaipur. Akbar dismissed him when he turned 18.",
+      "trick": "Students sometimes confuse Bairam Khan with other officials like Mir Bakshi or Abul Fazl. Bairam Khan was specifically the regent during Akbar's early years, not a permanent court official."
+    }
+  ]
+}

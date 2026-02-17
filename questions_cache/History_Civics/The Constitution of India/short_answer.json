@@ -1,0 +1,89 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "sa001",
+      "question": "Define the term 'constitution'.",
+      "answer": "A constitution is a body of fundamental rules and regulations for organizing and governing a country. It defines the organization, powers, and functions of the government, as well as the rights and duties of the people.",
+      "keywords": ["fundamental rules", "organizing", "governing", "powers", "functions", "rights", "duties"],
+      "source_section": "Introduction"
+    },
+    {
+      "id": "sa002",
+      "question": "What is the Preamble?",
+      "answer": "The Preamble is the introduction to the Constitution. It tells about the source of the Constitution, the nature of the Indian state, and the main objectives of the Constitution.",
+      "keywords": ["introduction", "source", "nature of state", "objectives"],
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "sa003",
+      "question": "What does 'We, the people of India' imply?",
+      "answer": "It implies that the source of the Constitution is the people of India. The authority of the government is derived from the people. The Constitution was not imposed by any foreign power but was created by the people themselves.",
+      "keywords": ["source", "people", "authority", "derived from people", "not imposed", "foreign power"],
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "sa004",
+      "question": "What does the term 'Sovereign' mean in the context of the Indian Constitution?",
+      "answer": "Sovereign means that India is independent and free from foreign control. No outside power can control or interfere in India's internal or external affairs. India has supreme authority over its own territory.",
+      "keywords": ["independent", "free from foreign control", "no outside power", "internal affairs", "external affairs"],
+      "source_section": "Sovereign"
+    },
+    {
+      "id": "sa005",
+      "question": "What is meant by India being a 'secular' state?",
+      "answer": "India being a secular state means there is no official or state religion. The government does not discriminate on the grounds of religion and does not favour any religion. All citizens have the freedom to profess, practise, and propagate their own religion.",
+      "keywords": ["no official religion", "no state religion", "no discrimination", "does not favour", "freedom to profess", "practise", "propagate"],
+      "source_section": "Secular"
+    },
+    {
+      "id": "sa006",
+      "question": "What does 'Democratic' mean in the Indian Constitution?",
+      "answer": "Democratic means government of the people, by the people, and for the people. The people elect the government of their choice. They govern through their elected representatives.",
+      "keywords": ["of the people", "by the people", "for the people", "elect", "elected representatives"],
+      "source_section": "Democratic"
+    },
+    {
+      "id": "sa007",
+      "question": "What does 'Republic' mean in the context of the Indian Constitution?",
+      "answer": "Republic means that the head of the state is an elected person, the President, and not a monarch or dictator. The President serves a fixed term of 5 years. The post is not hereditary.",
+      "keywords": ["elected", "President", "not monarch", "not dictator", "5-year term", "not hereditary"],
+      "source_section": "Republic"
+    },
+    {
+      "id": "sa008",
+      "question": "What is the significance of 26 January 1950?",
+      "answer": "On 26 January 1950, the Constitution of India came into force. India became a sovereign, democratic republic on this day. It is celebrated every year as Republic Day.",
+      "keywords": ["Constitution came into force", "sovereign democratic republic", "Republic Day"],
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "sa009",
+      "question": "Who was the Chairman of the Constituent Assembly?",
+      "answer": "Dr Rajendra Prasad was the Chairman of the Constituent Assembly that framed the Indian Constitution.",
+      "keywords": ["Dr Rajendra Prasad", "Chairman", "Constituent Assembly"],
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "sa010",
+      "question": "Who is called the 'Father of the Indian Constitution' and why?",
+      "answer": "Dr B.R. Ambedkar is called the 'Father of the Indian Constitution'. He was the Chairman of the Drafting Committee that drafted the Constitution of India and played the most important role in its creation.",
+      "keywords": ["Dr B.R. Ambedkar", "Chairman", "Drafting Committee", "drafted"],
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "sa011",
+      "question": "When were the words 'Socialist' and 'Secular' added to the Preamble?",
+      "answer": "The words 'Socialist' and 'Secular' were added to the Preamble in 1976 through the 42nd Amendment Act. They were not part of the original Preamble.",
+      "keywords": ["1976", "42nd Amendment Act", "not original"],
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "sa012",
+      "question": "What are the four objectives stated in the Preamble of the Indian Constitution?",
+      "answer": "The four objectives stated in the Preamble are Justice, Liberty, Equality, and Fraternity. These objectives aim to ensure a fair, free, and united society for all citizens of India.",
+      "keywords": ["Justice", "Liberty", "Equality", "Fraternity"],
+      "source_section": "The Preamble"
+    }
+  ]
+}

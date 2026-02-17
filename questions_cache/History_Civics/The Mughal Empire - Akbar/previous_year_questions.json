@@ -1,0 +1,107 @@
+{
+  "subject": "History_Civics",
+  "chapter": "The Mughal Empire - Akbar",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "akbar_pyq_sa_1",
+      "type": "short_answer",
+      "year": "Graded CW",
+      "question": "What were some of the problems facing Akbar when he ascended the throne?",
+      "answer": "Akbar was only 13 years old. The Mughal throne was unstable and insecure, threatened by enemies on all sides: Adil Shah (nephew of Sher Shah) was determined to capture Delhi; the Rajputs had become powerful and were waiting to expel the Mughals; Kabul was occupied by Akbar's half-brother ruling independently.",
+      "key_points": ["Only 13 years old", "Adil Shah threatened Delhi", "Rajputs were powerful", "Kabul occupied by half-brother"]
+    },
+    {
+      "id": "akbar_pyq_sa_2",
+      "type": "short_answer",
+      "year": "Graded CW",
+      "question": "What is the significance of the Second Battle of Panipat?",
+      "answer": "In November 1556 CE, the Mughal army under Bairam Khan defeated Hemu (chief minister of Adil Shah) on the historic battlefield of Panipat. This crushed Afghan power and removed the threat to Akbar's throne, securing Mughal rule in India.",
+      "key_points": ["1556 CE", "Bairam Khan defeated Hemu", "Crushed Afghan power", "Secured Akbar's throne"]
+    },
+    {
+      "id": "akbar_pyq_sa_3",
+      "type": "short_answer",
+      "year": "Graded CW",
+      "question": "What significant event happened when Akbar was 18 years old?",
+      "answer": "In 1560 CE, at the age of 18, Akbar decided to take charge of the affairs of the state himself. He dismissed Bairam Khan, his regent, and assumed absolute power and authority.",
+      "key_points": ["Age 18", "1560 CE", "Dismissed Bairam Khan", "Assumed absolute power"]
+    },
+    {
+      "id": "akbar_pyq_sa_4",
+      "type": "short_answer",
+      "year": "Graded CW",
+      "question": "Describe the Battle of Haldighati in 3-4 lines.",
+      "answer": "The Battle of Haldighati was fought in 1576 CE between Rana Pratap Singh and the Mughal forces led by Raja Man Singh of Amber. The Rajputs were outnumbered and defeated. Rana Pratap escaped to a mountain fortress and continued his efforts to recover his territories, but he could not recover Chittor.",
+      "key_points": ["1576 CE", "Rana Pratap vs Raja Man Singh", "Rajputs defeated", "Rana Pratap escaped and continued resistance"]
+    },
+    {
+      "id": "akbar_pyq_sa_5",
+      "type": "short_answer",
+      "year": "Graded CW",
+      "question": "Who was a 'Vakil' and what role did he play in Akbar's government?",
+      "answer": "The Vakil was the prime minister in Akbar's government. However, Akbar reduced the vakil's position to that of an advisory, ceremonial head. The vakil did not exercise any effective authority.",
+      "key_points": ["Prime minister", "Ceremonial head", "No effective authority"]
+    },
+    {
+      "id": "akbar_pyq_sa_6",
+      "type": "short_answer",
+      "year": "Graded CW",
+      "question": "Give two examples to show that Akbar had a policy of religious tolerance.",
+      "answer": "1. Akbar abolished the jizya tax (imposed on non-Muslims) and the pilgrim tax (imposed on Hindus visiting places of pilgrimage). 2. He gave high posts to talented Hindus like Todar Mal, Birbal and Raja Bhagwan Das, and gave land grants to people of all religions.",
+      "key_points": ["Abolished jizya and pilgrim tax", "High posts to Hindus", "Land grants to all religions"]
+    },
+    {
+      "id": "akbar_pyq_sa_7",
+      "type": "short_answer",
+      "year": "Graded CW",
+      "question": "What is the Din-i-Ilahi?",
+      "answer": "Din-i-Ilahi (divine faith) was a new religious order announced by Akbar in 1582 CE. It was a combination of religious ideas of major religions, aimed at promoting universal brotherhood and national unity. Its main features were belief in one God and recognition of the emperor as God's representative on earth. It was more like a code of moral conduct with no sacred books, priestly classes, or rituals.",
+      "key_points": ["Divine faith", "1582 CE", "Combination of major religions", "Belief in one God", "Code of moral conduct"]
+    },
+    {
+      "id": "akbar_pyq_sa_8",
+      "type": "short_answer",
+      "year": "Graded CW",
+      "question": "Name any two famous monuments of Akbar.",
+      "answer": "Two famous monuments of Akbar are: 1. Fatehpur Sikri (his new capital city, referred to as a 'dream in stone', containing the Diwan-i-Khas, Panch Mahal, Jodha Bai's Palace and Buland Darwaza). 2. The Agra Fort, built in red sandstone.",
+      "key_points": ["Fatehpur Sikri", "Agra Fort", "Red sandstone"]
+    },
+    {
+      "id": "akbar_pyq_mcq_1",
+      "type": "mcq",
+      "year": "Graded CW",
+      "question": "Adil Shah was the ___",
+      "options": ["(i) Arab ruler of Delhi", "(ii) son of Sher Shah", "(iii) nephew of Sher Shah", "(iv) step-brother of Akbar"],
+      "correct_answer": "(iii) nephew of Sher Shah",
+      "explanation": "Adil Shah was the nephew of Sher Shah who was determined to capture the throne of Delhi and re-establish Afghan rule."
+    },
+    {
+      "id": "akbar_pyq_mcq_2",
+      "type": "mcq",
+      "year": "Graded CW",
+      "question": "Akbar married the daughter of ___",
+      "options": ["(i) Udai Singh", "(ii) Man Singh", "(iii) Rana Pratap's sister", "(iv) the Raja of Jaipur"],
+      "correct_answer": "(iv) the Raja of Jaipur",
+      "explanation": "Akbar married the daughter of the Raja of Jaipur (Amber) as part of his Rajput policy of matrimonial alliances."
+    },
+    {
+      "id": "akbar_pyq_mcq_3",
+      "type": "mcq",
+      "year": "Graded CW",
+      "question": "The principle of Sulh-i-Kul is ___",
+      "options": ["(i) religious tolerance", "(ii) universal peace", "(iii) religious intolerance", "(iv) divine being"],
+      "correct_answer": "(ii) universal peace",
+      "explanation": "Sulh-i-Kul means universal peace or peace with all. Akbar believed strongly in this principle."
+    },
+    {
+      "id": "akbar_pyq_mcq_4",
+      "type": "mcq",
+      "year": "Graded CW",
+      "question": "Many famous literary texts were translated into ___",
+      "options": ["(i) Persian", "(ii) English", "(iii) Sanskrit", "(iv) Chinese"],
+      "correct_answer": "(i) Persian",
+      "explanation": "Akbar set up a translation department to translate Sanskrit works (Vedas, Mahabharata, Bhagavad Gita) and works from Arabic and Greek into Persian, the court language."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "gr001",
+      "question": "Why did Sultan Mahmud want to build a large army?",
+      "answer": "To expand his kingdom and protect it from enemies in Central Asia. He needed money, and the fabulous riches of Indian temples attracted him.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "gr002",
+      "question": "Why did Buddhism decline in India after the Turkish invasion?",
+      "answer": "Muhammad bin Bakhtiar Khilji swept across Bihar, destroyed many Buddhist monasteries and libraries. This dealt a death blow to Buddhism in India. A few monks escaped to Tibet with their manuscripts.",
+      "source_section": "Muhammad Ghori - Bakhtiar Khilji"
+    },
+    {
+      "id": "gr003",
+      "question": "Why is the dynasty founded by Qutbuddin called the Mamluk dynasty?",
+      "answer": "Because Qutbuddin Aibak was a former slave (mamluk) of Muhammad Ghori who rose to the position of general by merit.",
+      "source_section": "Mamluk Dynasty"
+    },
+    {
+      "id": "gr004",
+      "question": "Why was Qutbuddin known as 'Lakhbaksh'?",
+      "answer": "Because he was a just and generous ruler who looked after the welfare of his subjects. Lakhbaksh means 'giver of lakhs.'",
+      "source_section": "Qutbuddin Aibak"
+    },
+    {
+      "id": "gr005",
+      "question": "Why did Iltutmish nominate Razia as his successor?",
+      "answer": "Because she possessed all the qualities of a great monarch - she was brave, intelligent and just. Iltutmish recognized her abilities over his sons.",
+      "source_section": "Razia Sultan"
+    },
+    {
+      "id": "gr006",
+      "question": "Why were the Rajputs unable to repulse Mahmud of Ghazni?",
+      "answer": "Because north India was divided and there was no unity. The ambitious Rajputs were deeply absorbed in mutual rivalries and failed to understand the gravity of the situation.",
+      "source_section": "Mahmud of Ghazni - Rajput disunity"
+    },
+    {
+      "id": "gr007",
+      "question": "Why did Balban never leave his capital?",
+      "answer": "He was sure the Mongols would take advantage of his absence and invade his kingdom. So he appointed his sons as governors of frontier provinces, built forts, and kept the army always ready.",
+      "source_section": "Balban"
+    },
+    {
+      "id": "gr008",
+      "question": "Why did Razia Sultan fail to retain the throne?",
+      "answer": "Although she was brave, intelligent and just, the provincial governors rose in revolt against her because they did not like being ruled by a woman. She was defeated, imprisoned, and eventually killed.",
+      "source_section": "Razia Sultan"
+    }
+  ]
+}

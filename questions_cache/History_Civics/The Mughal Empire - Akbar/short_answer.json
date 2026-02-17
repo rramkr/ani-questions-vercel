@@ -1,0 +1,110 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "sa001",
+      "question": "What role did Bairam Khan play during the early years of Akbar's reign?",
+      "answer": "Bairam Khan was Humayun's faithful general who became the regent for the young Akbar after Humayun's death in 1556 CE. He managed the affairs of the empire and guided Akbar until Akbar dismissed him in 1560 CE at the age of 18 to take charge of the administration himself.",
+      "keywords": ["regent", "Humayun's general", "dismissed", "1560", "age 18"],
+      "source_section": "Regency of Bairam Khan"
+    },
+    {
+      "id": "sa002",
+      "question": "Describe the significance of the Second Battle of Panipat (1556 CE).",
+      "answer": "The Second Battle of Panipat was fought in 1556 CE between Akbar's forces (led by Bairam Khan) and Hemu, who had captured Delhi. The Mughal forces defeated Hemu, crushing the Afghan threat and securing Akbar's hold over Delhi and Agra. This battle was crucial in re-establishing Mughal authority in India.",
+      "keywords": ["1556", "Bairam Khan", "Hemu", "Afghan threat", "Mughal authority"],
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "sa003",
+      "question": "List the major territories conquered by Akbar and the years of their annexation.",
+      "answer": "Akbar conquered Malwa in 1561, Gondwana in 1564, Gujarat in 1572, and Bengal between 1574-76. He also captured Chittor and other Rajput territories. These conquests greatly expanded the Mughal Empire across northern and central India.",
+      "keywords": ["Malwa 1561", "Gondwana 1564", "Gujarat 1572", "Bengal 1574-76"],
+      "source_section": "Military Conquests"
+    },
+    {
+      "id": "sa004",
+      "question": "What was Akbar's policy towards the Rajputs? How did he win their loyalty?",
+      "answer": "Akbar followed a policy of friendship and alliance with the Rajputs. He married the daughter of the Raja of Jaipur (Amber) and gave Rajput rulers high positions in his administration. For example, Raja Man Singh led Mughal forces at the Battle of Haldighati. However, rulers who resisted, like Udai Singh of Mewar, faced military action.",
+      "keywords": ["marriage alliance", "Raja of Jaipur", "high positions", "Raja Man Singh", "Udai Singh refused"],
+      "source_section": "Rajput Policy"
+    },
+    {
+      "id": "sa005",
+      "question": "What happened at the Battle of Haldighati in 1576 CE?",
+      "answer": "The Battle of Haldighati (1576 CE) was fought between Mughal forces led by Raja Man Singh (a Rajput general in Akbar's service) and Rana Pratap of Mewar. Despite Rana Pratap's brave resistance, he was defeated. He continued guerrilla warfare but was never able to recover Chittor before his death.",
+      "keywords": ["1576", "Raja Man Singh", "Rana Pratap", "Mewar", "could not recover Chittor"],
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "sa006",
+      "question": "Explain the mansabdari system introduced by Akbar.",
+      "answer": "The mansabdari system was a grading system for ranking officials. Each mansabdar was given a mansab (rank) that determined their salary and the number of soldiers they had to maintain. Importantly, the mansab was NOT hereditary -- it reverted to the king after the mansabdar's death and could be reassigned.",
+      "keywords": ["rank", "salary", "soldiers", "not hereditary", "reverted to king"],
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "sa007",
+      "question": "Describe the key features of Todar Mal's land revenue system.",
+      "answer": "Todar Mal introduced the Bandobast system of land revenue. Land was carefully measured using a bamboo jarib fitted with iron rings (to prevent stretching). The land was classified based on fertility, and one-third of the average produce was fixed as the king's share. This system ensured fair and accurate revenue collection.",
+      "keywords": ["Bandobast", "bamboo jarib", "iron rings", "one-third", "average produce"],
+      "source_section": "Revenue System"
+    },
+    {
+      "id": "sa008",
+      "question": "What were the main officials in Akbar's central administration and their roles?",
+      "answer": "The wazir or diwan was the head of the revenue department. The mir bakshi was the head of the military department. The vakil (prime minister) existed but Akbar reduced this post to a mere ceremonial role to prevent any one minister from gaining too much power.",
+      "keywords": ["wazir/diwan", "revenue", "mir bakshi", "military", "vakil", "ceremonial"],
+      "source_section": "Administration"
+    },
+    {
+      "id": "sa009",
+      "question": "What was the Ibadat Khana and what was its purpose?",
+      "answer": "The Ibadat Khana (House of Worship) was a hall built by Akbar in 1575 CE at Fatehpur Sikri. It was used for holding religious discussions among scholars and leaders of different faiths including Hinduism, Islam, Christianity, Jainism, and Zoroastrianism. These discussions influenced Akbar's religious views and eventually led to the creation of Din-i-Ilahi.",
+      "keywords": ["House of Worship", "1575", "Fatehpur Sikri", "religious discussions", "different faiths"],
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "sa010",
+      "question": "What was Din-i-Ilahi? Who accepted and who refused it?",
+      "answer": "Din-i-Ilahi was a new religious order created by Akbar in 1582 CE that combined elements of various religions. Birbal was the ONLY Hindu courtier who accepted it. Prominent Rajput nobles like Raja Man Singh and Raja Bhagwan Das refused to join. Din-i-Ilahi did not survive Akbar's death and came to an end with him.",
+      "keywords": ["1582", "combined religions", "Birbal only Hindu", "Man Singh refused", "Bhagwan Das refused", "ended with Akbar's death"],
+      "source_section": "Din-i-Ilahi"
+    },
+    {
+      "id": "sa011",
+      "question": "What social and religious reforms did Akbar introduce to promote tolerance?",
+      "answer": "Akbar abolished the jizya, which was a tax imposed on non-Muslims, and also abolished the pilgrim tax. He allowed Hindus to worship freely and gave them high positions in administration. He also held interfaith discussions at the Ibadat Khana and promoted a policy of sulh-i-kul (universal peace).",
+      "keywords": ["jizya abolished", "pilgrim tax abolished", "religious freedom", "high positions for Hindus", "sulh-i-kul"],
+      "source_section": "Religious and Social Reforms"
+    },
+    {
+      "id": "sa012",
+      "question": "Describe the cultural and literary achievements during Akbar's reign.",
+      "answer": "Despite being illiterate, Akbar was a great patron of learning and maintained a library of 24,000 books. Abul Fazl wrote the Akbarnama, a detailed chronicle of Akbar's reign. Faizi, Abul Fazl's brother, was a famous poet. Tansen was the most renowned musician at Akbar's court. Persian was the official court language.",
+      "keywords": ["illiterate", "24,000 books", "Abul Fazl", "Akbarnama", "Faizi", "Tansen", "Persian"],
+      "source_section": "Cultural Achievements"
+    },
+    {
+      "id": "sa013",
+      "question": "What is the architectural significance of Fatehpur Sikri?",
+      "answer": "Fatehpur Sikri was built by Akbar and is often called a 'dream in stone'. It was constructed primarily of red sandstone (not marble). The city served as Akbar's capital and contained magnificent buildings including the Ibadat Khana, Buland Darwaza, and Panch Mahal, showcasing a blend of Hindu and Islamic architectural styles.",
+      "keywords": ["dream in stone", "red sandstone", "capital", "Buland Darwaza", "Hindu and Islamic styles"],
+      "source_section": "Architecture"
+    },
+    {
+      "id": "sa014",
+      "question": "How did Humayun die, and what challenges did young Akbar face upon becoming emperor?",
+      "answer": "Humayun died in 1556 CE from an accidental fall from the stairs of his library. Akbar was only 13 years old at the time and faced serious challenges including the Afghan threat from Hemu who had captured Delhi. Bairam Khan served as his regent and helped him overcome these early challenges, including winning the crucial Second Battle of Panipat.",
+      "keywords": ["accidental fall", "library stairs", "1556", "13 years old", "Hemu", "Afghan threat"],
+      "source_section": "Akbar's Accession"
+    },
+    {
+      "id": "sa015",
+      "question": "What was the gold coin issued by Akbar called, and what does it tell us about his economic policies?",
+      "answer": "Akbar issued a gold coin called the mohur. The standardization of currency was part of Akbar's broader economic reforms that included the Bandobast revenue system introduced by Todar Mal. These measures helped create a stable economy and efficient revenue collection across the vast Mughal Empire.",
+      "keywords": ["mohur", "gold coin", "standardization", "economic reforms", "Todar Mal"],
+      "source_section": "Economy and Currency"
+    }
+  ]
+}

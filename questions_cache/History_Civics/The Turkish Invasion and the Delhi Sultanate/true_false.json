@@ -1,0 +1,145 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "tf001",
+      "statement": "The kingdoms of Ghazni and Ghor were established by the Turks.",
+      "answer": true,
+      "explanation": "The Turks established the kingdoms of Ghazni and Ghor. These were not established by the Abbasids.",
+      "source_section": "The Rise of the Turks"
+    },
+    {
+      "id": "tf002",
+      "statement": "Mahmud of Ghazni invaded India 17 times in 25 years.",
+      "answer": true,
+      "explanation": "Mahmud of Ghazni carried out 17 raids on India over a period of 25 years, plundering the wealth of Indian temples and kingdoms.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "tf003",
+      "statement": "North India was politically divided into many kingdoms during the time of Mahmud's invasions.",
+      "answer": true,
+      "explanation": "North India was divided into several small kingdoms that were constantly at war with each other, making it easy for Mahmud to invade repeatedly.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "tf004",
+      "statement": "Mahmud of Ghazni wanted to establish an empire in India.",
+      "answer": false,
+      "explanation": "Mahmud was not interested in establishing an empire in India. He was interested in expanding his kingdom in Central Asia and needed the wealth of India to fund his armies and ambitions there.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "tf005",
+      "statement": "Punjab was the only Indian province that Mahmud of Ghazni annexed.",
+      "answer": true,
+      "explanation": "Despite his 17 invasions, Mahmud only annexed Punjab as an Indian province. His primary goal was to loot wealth, not to conquer and rule Indian territories.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "tf006",
+      "statement": "Mahmud of Ghazni attacked the famous Somnath Temple in Kathiawar.",
+      "answer": true,
+      "explanation": "The attack on the Somnath Temple in Kathiawar was Mahmud's most ambitious and profitable expedition. Indians put up stubborn resistance and about 50,000 soldiers died defending the temple.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "tf007",
+      "statement": "Firdausi, patronized by Mahmud of Ghazni, wrote the Shahnama.",
+      "answer": true,
+      "explanation": "Firdausi was a great Persian poet who was patronized by Sultan Mahmud. He wrote the Shahnama, one of the most celebrated works of Persian literature.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "tf008",
+      "statement": "Al Beruni was a Persian musician who performed at Mahmud's court.",
+      "answer": false,
+      "explanation": "Al Beruni was not a musician. He was a great Persian historian and mathematician who was patronized by Sultan Mahmud of Ghazni.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "tf009",
+      "statement": "In the First Battle of Tarain (1191 CE), Muhammad Ghori defeated Prithviraj Chauhan.",
+      "answer": false,
+      "explanation": "In the First Battle of Tarain (1191 CE), it was Prithviraj Chauhan who inflicted a crushing defeat on Muhammad Ghori, not the other way around. Ghori returned the next year for the Second Battle.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "tf010",
+      "statement": "In the Second Battle of Tarain (1192 CE), Muhammad Ghori defeated Prithviraj Chauhan.",
+      "answer": true,
+      "explanation": "In the Second Battle of Tarain (1192 CE), Muhammad Ghori defeated Prithviraj Chauhan. This marked the end of Rajput rule in north India and Delhi passed to Muslim rulers.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "tf011",
+      "statement": "Raja Jaichandra of Kanauj helped Prithviraj Chauhan fight against Muhammad Ghori in the Second Battle of Tarain.",
+      "answer": false,
+      "explanation": "Raja Jaichandra of Kanauj refused to help Prithviraj Chauhan against Muhammad Ghori. Despite Prithviraj organizing a Rajput confederacy, Jaichandra's refusal weakened the Rajput resistance.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "tf012",
+      "statement": "Qutbuddin Aibak was the son of Muhammad Ghori.",
+      "answer": false,
+      "explanation": "Qutbuddin Aibak was not Muhammad Ghori's son. He was a former slave of Ghori who became his trusted viceroy in India and later founded the Delhi Sultanate (Mamluk/Slave dynasty) after Ghori's death.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "tf013",
+      "statement": "Qutbuddin Aibak was known as 'Lakhbaksh' because of his generosity.",
+      "answer": true,
+      "explanation": "Qutbuddin Aibak was called 'Lakhbaksh' which means 'giver of lakhs'. He earned this title because he was generous and looked after the welfare of his subjects.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "tf014",
+      "statement": "Iltutmish completed the construction of the Qutb Minar.",
+      "answer": true,
+      "explanation": "Iltutmish completed the Qutb Minar, which had been started by Qutbuddin Aibak. This is one of his notable contributions to architecture.",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "tf015",
+      "statement": "Iltutmish failed to crush the revolt of the Khilji governor of Bengal.",
+      "answer": false,
+      "explanation": "Iltutmish successfully crushed the revolt of the Khilji governor of Bengal. This was one of the achievements that demonstrated his capability as a ruler.",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "tf016",
+      "statement": "Razia Sultan was brave, intelligent and just.",
+      "answer": true,
+      "explanation": "Razia Sultan was known for being brave, intelligent and just. She sat in open durbar, dressed like a man, rode horses and personally led her armies in battle.",
+      "source_section": "Razia Sultan"
+    },
+    {
+      "id": "tf017",
+      "statement": "Razia Sultan ruled for over 10 years.",
+      "answer": false,
+      "explanation": "Razia Sultan ruled for only about 3 years, from 1236 to 1239. Her reign was cut short when provincial governors revolted against her. She was killed in 1240.",
+      "source_section": "Razia Sultan"
+    },
+    {
+      "id": "tf018",
+      "statement": "Balban made the monarchy weak and dependent on the nobles.",
+      "answer": false,
+      "explanation": "Balban did the opposite. He made the monarchy absolute and all-powerful. He mercilessly suppressed ambitious nobles and believed in the theory of divine kingship where the king is God's representative on earth.",
+      "source_section": "Balban"
+    },
+    {
+      "id": "tf019",
+      "statement": "Balban believed in the theory of divine kingship, considering the king to be God's representative on earth.",
+      "answer": true,
+      "explanation": "Balban firmly believed in the theory of divine kingship. He considered the king to be God's representative on earth. He never smiled in court, and nobles had to kneel and touch the ground before him.",
+      "source_section": "Balban"
+    },
+    {
+      "id": "tf020",
+      "statement": "Balban's successors were strong and capable rulers who continued his legacy.",
+      "answer": false,
+      "explanation": "Balban's successors were weak and incompetent. They were unable to continue Balban's legacy of strong and stable rule, which eventually led to the decline of the Slave dynasty.",
+      "source_section": "Balban"
+    }
+  ]
+}

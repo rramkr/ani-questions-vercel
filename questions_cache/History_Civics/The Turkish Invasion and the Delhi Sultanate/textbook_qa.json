@@ -1,0 +1,283 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "exercise": "A",
+      "question": "Mahmud of Ghazni invaded India ___ times in the course of ___ years.",
+      "answer": "17, 25",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa002",
+      "exercise": "A",
+      "question": "Mahmud's raids exposed the ___ of the northern states and paved the way for the ___ of India.",
+      "answer": "weakness, conquest",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa003",
+      "exercise": "A",
+      "question": "___ took control of Muhammad Ghori's Indian possessions and laid the foundation of the ___.",
+      "answer": "Qutbuddin Aibak, Delhi Sultanate",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa004",
+      "exercise": "A",
+      "question": "Iltutmish defeated the Rajput rulers of ___, ___, ___ and ___ and brought the whole of north India up to the river ___ under his control.",
+      "answer": "Ujjain, Ranthambore, Malwa, Gwalior, Narmada",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa005",
+      "exercise": "A",
+      "question": "The ___ of ___ recognized Iltutmish as the sovereign of India. He was succeeded by ___.",
+      "answer": "Caliph, Baghdad, Razia Sultan",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa006",
+      "exercise": "B",
+      "question": "Match the following:\n1. Mahmud of Ghazni\n2. First Battle of Tarain\n3. Second Battle of Tarain\n4. Qutbuddin Aibak\n5. Muhammad bin Bakhtiar Khilji\n\nOptions:\n(a) general of Ghori\n(b) patron of art and learning\n(c) Prithviraj defeated Muhammad Ghori\n(d) viceroy of Ghori\n(e) Prithviraj was defeated by Muhammad Ghori",
+      "answer": "1 - (b) patron of art and learning\n2 - (c) Prithviraj defeated Muhammad Ghori\n3 - (e) Prithviraj was defeated by Muhammad Ghori\n4 - (d) viceroy of Ghori\n5 - (a) general of Ghori",
+      "question_type": "match_the_following"
+    },
+    {
+      "id": "tqa007",
+      "exercise": "C",
+      "question": "Mahmud of Ghazni was a ___ ruler.",
+      "answer": "powerful",
+      "options": ["powerful", "weak", "peaceful"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa008",
+      "exercise": "C",
+      "question": "Mahmud was interested in territorial expansion in ___.",
+      "answer": "Central Asia",
+      "options": ["India", "Central Asia", "Europe"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa009",
+      "exercise": "C",
+      "question": "Firdausi was a great ___.",
+      "answer": "poet",
+      "options": ["poet", "mathematician", "architect"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa010",
+      "exercise": "C",
+      "question": "Nasiruddin was a weak and inexperienced ruler and the affairs of the state were managed by ___.",
+      "answer": "Balban",
+      "options": ["Iltutmish", "Balban", "Razia"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa011",
+      "exercise": "C",
+      "question": "___ never smiled or allowed others to laugh in his court.",
+      "answer": "Balban",
+      "options": ["Iltutmish", "Balban", "Qutbuddin"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa012",
+      "exercise": "D",
+      "question": "The kingdoms of Ghazni and Ghor were established by the Abbasids.",
+      "answer": "False. The kingdoms of Ghazni and Ghor were established by the Turks.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa013",
+      "exercise": "D",
+      "question": "During Mahmud's time, north India was divided and there was no unity among the rulers.",
+      "answer": "True.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa014",
+      "exercise": "D",
+      "question": "Iltutmish failed to crush the power of the governor of Bengal.",
+      "answer": "False. Iltutmish crushed the power of the governor of Bengal.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa015",
+      "exercise": "D",
+      "question": "Razia Sultan was brave, intelligent and just.",
+      "answer": "True.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa016",
+      "exercise": "D",
+      "question": "Balban made the monarchy weak and dependent on the nobles.",
+      "answer": "False. Balban made the monarchy absolute and all-powerful.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa017",
+      "exercise": "E",
+      "question": "Name the following:\n(a) Founder of the Slave dynasty\n(b) He believed in the theory of divine kingship\n(c) He made the monarchy all-powerful and absolute\n(d) He never left his capital to conquer new territories",
+      "answer": "(a) Qutbuddin Aibak\n(b) Ghiyasuddin Balban\n(c) Ghiyasuddin Balban\n(d) Ghiyasuddin Balban",
+      "question_type": "mixed_bag"
+    },
+    {
+      "id": "tqa018",
+      "exercise": "E",
+      "question": "Arrange in chronological order: Razia Sultan, Qutbuddin Aibak, Balban, Iltutmish",
+      "answer": "Qutbuddin Aibak, Iltutmish, Razia Sultan, Balban",
+      "question_type": "mixed_bag"
+    },
+    {
+      "id": "tqa019",
+      "exercise": "E",
+      "question": "Assertion-Reason:\nA: Muhammad Ghori routed the Rajput army led by Prithviraj Chauhan in the Second Battle of Tarain.\nB: Raja Jaichandra of Kanauj refused to help Prithviraj Chauhan.\n\n(a) A is true, B is false\n(b) A is false, B is true\n(c) Both A and B are true\n(d) Both A and B are false",
+      "answer": "(c) Both A and B are true.",
+      "question_type": "mixed_bag"
+    },
+    {
+      "id": "tqa020",
+      "exercise": "F",
+      "question": "What happened to the Abbasid Caliphate by the 9th century CE?",
+      "answer": "The political power of the Abbasid Caliphate declined and the mighty empire disintegrated into independent states ruled by the Turks who had served in the armies of the Caliphs.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa021",
+      "exercise": "F",
+      "question": "Name the author of the great epic Shahnama.",
+      "answer": "Firdausi, a Persian poet who was patronized by Mahmud of Ghazni.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa022",
+      "exercise": "F",
+      "question": "What is the significance of the defeat of Prithviraj in the Second Battle of Tarain?",
+      "answer": "The defeat of Prithviraj marked the end of Rajput rule in north India. The kingdom of Delhi passed to Muhammad Ghori. The throne was occupied by Muslim rulers till 1858.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa023",
+      "exercise": "F",
+      "question": "Who did Muhammad Ghori appoint as his viceroy?",
+      "answer": "Qutbuddin Aibak.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa024",
+      "exercise": "F",
+      "question": "For how many years did the sultans of Delhi rule the country?",
+      "answer": "The sultans of Delhi ruled the country for about 300 years (1206-1526 CE).",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa025",
+      "exercise": "F",
+      "question": "How did Iltutmish save India from the threat of a Mongol invasion?",
+      "answer": "The Mongol chief Chenghiz Khan reached the Indian borders while pursuing the Shah of Persia. The Shah fled to India seeking shelter. Iltutmish politely refused to give him refuge, thus saving India from a Mongol invasion.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa026",
+      "exercise": "F",
+      "question": "Mention two important contributions of Balban to the Delhi Sultanate.",
+      "answer": "1. Balban made the monarchy absolute and all-powerful.\n2. He reorganized the army, strengthened the infantry and cavalry, and erected forts at strategic places.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa027",
+      "exercise": "G",
+      "question": "Why did Sultan Mahmud want to build a large well-equipped army?",
+      "answer": "Sultan Mahmud wanted to build a large well-equipped army to expand his kingdom and protect it from enemies in Central Asia. He needed money for this purpose and was attracted by the riches of Indian temples.",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa028",
+      "exercise": "G",
+      "question": "Why did Buddhism decline in India after the Turkish invasion?",
+      "answer": "Muhammad bin Bakhtiar Khilji swept across Bihar and destroyed Buddhist monasteries and libraries. This dealt a death blow to Buddhism in India. The monks escaped to Tibet.",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa029",
+      "exercise": "G",
+      "question": "Why is the dynasty founded by Qutbuddin called the Mamluk dynasty?",
+      "answer": "The dynasty founded by Qutbuddin is called the Mamluk dynasty because Qutbuddin Aibak was a former slave of Muhammad Ghori who rose to the rank of general by merit. 'Mamluk' means 'slave'.",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa030",
+      "exercise": "G",
+      "question": "Why was Qutbuddin known as 'Lakhbaksh'?",
+      "answer": "Qutbuddin was known as 'Lakhbaksh' because he was a generous ruler who looked after the welfare of his subjects. 'Lakhbaksh' means 'giver of lakhs'.",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa031",
+      "exercise": "G",
+      "question": "Why did Iltutmish nominate his daughter Razia as his successor?",
+      "answer": "Iltutmish nominated his daughter Razia as his successor because she possessed all the qualities of a great monarch - she was brave, intelligent and just. Although his nobles did not want to be ruled by a woman, Iltutmish recognized her ability.",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa032",
+      "exercise": "H",
+      "question": "How did Sultan Mahmud transform Ghazni? How was he a patron of art and learning?",
+      "answer": "Sultan Mahmud drained India's vast treasures and transformed Ghazni into a magnificent capital. He adorned it with mosques, libraries and a museum. His court glittered with pearls, rubies and diamonds. He patronized Firdausi, the Persian poet who wrote the great epic Shahnama, and Al Beruni, a famous historian and mathematician.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa033",
+      "exercise": "H",
+      "question": "Discuss the causes and results of the First and Second Battles of Tarain.",
+      "answer": "First Battle of Tarain (1191): Muhammad Ghori attacked the territories of Prithviraj Chauhan. Prithviraj won a crushing victory over Ghori.\n\nSecond Battle of Tarain (1192): Ghori returned with a larger army. Prithviraj organized a confederacy of Rajput rulers but Raja Jaichandra of Kanauj refused to help. Ghori routed the Rajput army.\n\nResult: The defeat of Prithviraj marked the end of Rajput rule in north India. The kingdom of Delhi passed to Muhammad Ghori and the throne was occupied by Muslim rulers till 1858.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa034",
+      "exercise": "H",
+      "question": "Give five reasons to show that Iltutmish was a shrewd/clever/capable ruler.",
+      "answer": "1. He suppressed the powerful Turkish nobles who challenged his authority.\n2. He crushed the revolt of the governor of Bengal.\n3. He destroyed his rivals, including the rulers of Ghazni and Multan.\n4. He saved India from the Mongol invasion by politely refusing shelter to the Shah of Persia when Chenghiz Khan was pursuing him.\n5. He defeated the Rajput rulers of Ujjain, Ranthambore, Malwa and Gwalior and brought the whole of north India up to the river Narmada under his control.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa035",
+      "exercise": "H",
+      "question": "Discuss the important developments during Razia Sultan's reign.",
+      "answer": "Razia Sultan was nominated by Iltutmish as his successor, but the nobles opposed a woman ruler. Prince Rukhnuddin was made sultan but was deposed after seven months. Razia ruled from 1236 to 1239. She was brave, intelligent and sat in an open durbar. She dressed like a man, rode horses and led armies into battle. However, the provincial governors revolted against her. She was defeated and married the rebel leader Altunia. Her attempt to recover the throne failed, and both were killed in 1240.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa036",
+      "exercise": "H",
+      "question": "How did Balban maintain security regarding (a) ambitious nobles and (b) Mongols?",
+      "answer": "(a) Ambitious nobles: Balban mercilessly suppressed the Turkish nobles. When Governor Tughril Khan revolted in Bengal, Balban personally marched against him at the age of 70, killed Tughril Khan and all his supporters.\n\n(b) Mongols: Balban never left his capital fearing a Mongol attack. He appointed his sons as governors of the frontier provinces. He built new forts and repaired old ones. His army was always kept ready for battle.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa037",
+      "exercise": "Source-based",
+      "question": "Identify the person in the picture (Turkish invader). Why did he invade India?",
+      "answer": "The person is Muhammad Ghori. He invaded India to conquer it and enrich his kingdom with India's wealth.",
+      "question_type": "source_based"
+    },
+    {
+      "id": "tqa038",
+      "exercise": "Source-based",
+      "question": "The Battles of Tarain laid the foundation of Turkish rule. Do you agree?",
+      "answer": "Yes. The First Battle of Tarain (1191) saw Ghori defeated by Prithviraj. However, in the Second Battle of Tarain (1192), Ghori defeated Prithviraj, ending Rajput rule in north India. This led to Qutbuddin Aibak becoming viceroy and eventually founding the Delhi Sultanate.",
+      "question_type": "source_based"
+    },
+    {
+      "id": "tqa039",
+      "exercise": "Source-based",
+      "question": "Explain the causes of the success of Turkish invaders against the Rajputs.",
+      "answer": "The Rajputs were deeply absorbed in mutual rivalries and there was no unity among them. Raja Jaichandra of Kanauj refused to help Prithviraj Chauhan. India was divided into small kingdoms. The Turks had superior military strategy.",
+      "question_type": "source_based"
+    }
+  ]
+}

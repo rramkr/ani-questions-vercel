@@ -1,0 +1,290 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "exercise": "A",
+      "question": "The Constitution of India was framed by the ___.",
+      "answer": "Constituent Assembly",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa002",
+      "exercise": "A",
+      "question": "The Preamble tells us about the ___ of the Constitution, the ___ of the state and its main ___.",
+      "answer": "source, nature, objectives",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa003",
+      "exercise": "A",
+      "question": "Socialism involves ___ distribution of the country's wealth among ___ sections of the people.",
+      "answer": "fair, all",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa004",
+      "exercise": "A",
+      "question": "The people of India elect their own government because India is a ___ country.",
+      "answer": "democratic",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa005",
+      "exercise": "A",
+      "question": "The President of India has a fixed term of ___ years.",
+      "answer": "5",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa006",
+      "exercise": "B",
+      "question": "Match the following: 1946",
+      "answer": "The first meeting of the Constituent Assembly was held.",
+      "question_type": "match_the_following"
+    },
+    {
+      "id": "tqa007",
+      "exercise": "B",
+      "question": "Match the following: 1947",
+      "answer": "India became independent.",
+      "question_type": "match_the_following"
+    },
+    {
+      "id": "tqa008",
+      "exercise": "B",
+      "question": "Match the following: 1949",
+      "answer": "The Constitution of India was passed.",
+      "question_type": "match_the_following"
+    },
+    {
+      "id": "tqa009",
+      "exercise": "B",
+      "question": "Match the following: 1950",
+      "answer": "India became a sovereign, democratic republic.",
+      "question_type": "match_the_following"
+    },
+    {
+      "id": "tqa010",
+      "exercise": "B",
+      "question": "Match the following: 1976",
+      "answer": "The Constitution of India was amended (42nd Amendment, added Socialist and Secular).",
+      "question_type": "match_the_following"
+    },
+    {
+      "id": "tqa011",
+      "exercise": "C",
+      "question": "India won freedom from the ___ rule on 15 August 1947.",
+      "answer": "British",
+      "options": ["British", "French", "Portuguese"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa012",
+      "exercise": "C",
+      "question": "The chairman of the Constituent Assembly was ___.",
+      "answer": "Dr Rajendra Prasad",
+      "options": ["Dr Rajendra Prasad", "B. R. Ambedkar", "Maulana Azad"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa013",
+      "exercise": "C",
+      "question": "The source of the Indian Constitution is ___.",
+      "answer": "the people of India",
+      "options": ["the President", "the Prime Minister", "the people of India"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa014",
+      "exercise": "C",
+      "question": "A ___ state does not have an official religion.",
+      "answer": "secular",
+      "options": ["democratic", "socialist", "secular"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa015",
+      "exercise": "C",
+      "question": "A democracy can work only if there is a spirit of ___ among different sections of society.",
+      "answer": "brotherhood",
+      "options": ["jealousy", "brotherhood", "competition"],
+      "question_type": "mcq_textbook"
+    },
+    {
+      "id": "tqa016",
+      "exercise": "D",
+      "question": "The Constitution of India was framed by the British government.",
+      "answer": "False",
+      "explanation": "The Constitution of India was framed by the Constituent Assembly, not the British government.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa017",
+      "exercise": "D",
+      "question": "Sarojini Naidu was a member of the Constituent Assembly.",
+      "answer": "True",
+      "explanation": "Sarojini Naidu was indeed a member of the Constituent Assembly.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa018",
+      "exercise": "D",
+      "question": "The Preamble is the conclusion to the Constitution.",
+      "answer": "False",
+      "explanation": "The Preamble is the introduction to the Constitution, not the conclusion.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa019",
+      "exercise": "D",
+      "question": "When the President of India dies, their child becomes the next President.",
+      "answer": "False",
+      "explanation": "India is a Republic, which means the head of state is elected, not hereditary. The Vice-President acts as President until a new one is elected.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa020",
+      "exercise": "D",
+      "question": "All Indian citizens are equal in the eyes of the law.",
+      "answer": "True",
+      "explanation": "The Constitution guarantees equality before the law for all Indian citizens.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "tqa021",
+      "exercise": "E",
+      "question": "Choose the odd one out: (a) Socialist (b) Liberty (c) Secular (d) Democratic",
+      "answer": "Liberty",
+      "explanation": "Socialist, Secular and Democratic describe the nature of the Indian state. Liberty is an objective of the Constitution, not a nature of the state.",
+      "question_type": "mixed_bag"
+    },
+    {
+      "id": "tqa022",
+      "exercise": "E",
+      "question": "Assertion-Reason: A: The source of the Constitution is the people of India. B: The authority of the government is derived from the people.",
+      "answer": "(d) Both A and B are true, and B is the correct reason for A.",
+      "explanation": "The Preamble begins with 'We, the people of India' which implies the source of the Constitution is the people. The authority of the government is indeed derived from the people, which is why the people are the source of the Constitution.",
+      "question_type": "mixed_bag"
+    },
+    {
+      "id": "tqa023",
+      "exercise": "F",
+      "question": "Define the term 'constitution'.",
+      "answer": "A constitution is a body of fundamental rules and regulations according to which a country is organized and governed. These rules define the organization, powers and functions of the government and the rights and duties of the people.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa024",
+      "exercise": "F",
+      "question": "When did the Constitution of India come into force?",
+      "answer": "The Constitution came into force on 26 January 1950. This day is celebrated as Republic Day.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa025",
+      "exercise": "F",
+      "question": "What is the Preamble of the Indian Constitution?",
+      "answer": "The Preamble is an introduction to the Constitution. It tells us about the source of the Constitution, the nature of the state and its main objectives.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa026",
+      "exercise": "F",
+      "question": "How do we know that the Constitution of India was not imposed on us by the British?",
+      "answer": "The Preamble begins with 'We, the people of India' which implies that the source of the Constitution is the people of India. The authority of the government is derived from the people, not imposed by any foreign power.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa027",
+      "exercise": "F",
+      "question": "Who gives the government of India the authority to govern the country?",
+      "answer": "The people of India give the government the authority to govern, as stated in the Preamble: 'We, the people of India.'",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa028",
+      "exercise": "G",
+      "question": "Why is the Preamble of the Constitution important?",
+      "answer": "The Preamble is important because it is an introduction to the Constitution that tells us about the source (people of India), the nature of the state (sovereign, socialist, secular, democratic, republic) and its main objectives (justice, liberty, equality, fraternity).",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa029",
+      "exercise": "G",
+      "question": "How can social evils be overcome?",
+      "answer": "Social evils can be overcome when the feeling of being 'one people' is promoted and firmly established through fraternity (spirit of brotherhood). This removes social barriers, and harmony prevails so the country can progress toward justice, liberty and equality for all.",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa030",
+      "exercise": "H",
+      "question": "Explain the meaning of: (a) Sovereign (b) Democratic (c) Republic",
+      "answer": "(a) Sovereign - India is an independent country, free from foreign control. No outside power can control or interfere in internal or external affairs. (b) Democratic - A government of the people, by the people and for the people. People elect a government of their choice and govern through elected representatives. (c) Republic - Head of state is an elected official, not a monarch or dictator. India has an elected President with a fixed term of 5 years; the position is not hereditary.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa031",
+      "exercise": "H",
+      "question": "State the basic features of: (a) A socialist state (b) A secular state",
+      "answer": "(a) A socialist state - Fair distribution of the country's wealth among all sections. Equal opportunities to bridge the gap between rich and poor. (Added in 1976 by the 42nd Amendment). (b) A secular state - No official or state religion. Does not discriminate on grounds of religion. Does not favour any religion. Freedom to profess, practise and propagate one's own religion.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa032",
+      "exercise": "H",
+      "question": "State the objectives of the Constitution with reference to: (a) Justice (b) Liberty (c) Equality",
+      "answer": "(a) Justice - All citizens are equal in the eyes of the law. Justice is not denied based on birth, race, caste, creed, sex, status or religion. (b) Liberty - Fundamental rights like freedom of thought, expression, belief, faith and worship. (c) Equality - All are equal before the law and protected equally. No discrimination based on birth, sex, caste, creed, race, religion or wealth.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa033",
+      "exercise": "H",
+      "question": "Why did the framers of the Constitution promote fraternity?",
+      "answer": "Democracy can work only with brotherhood and oneness among different sections. Fraternity removes social barriers between communities. When the feeling of being 'one people' is established, social evils like untouchability and communalism can be removed. Harmony prevails and the country progresses toward justice, liberty and equality.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa034",
+      "exercise": "Source-based",
+      "question": "Identify the person in the picture (chairman of the Constituent Assembly).",
+      "answer": "Dr Rajendra Prasad",
+      "question_type": "source_based"
+    },
+    {
+      "id": "tqa035",
+      "exercise": "Source-based",
+      "question": "Name two other prominent members of the Constituent Assembly.",
+      "answer": "Dr B. R. Ambedkar and Maulana Azad (also Sarojini Naidu).",
+      "question_type": "source_based"
+    },
+    {
+      "id": "tqa036",
+      "exercise": "Source-based",
+      "question": "When was the first meeting of the Constituent Assembly held?",
+      "answer": "9 December 1946",
+      "question_type": "source_based"
+    },
+    {
+      "id": "tqa037",
+      "exercise": "Source-based",
+      "question": "When did the Constitution come into force?",
+      "answer": "26 January 1950",
+      "question_type": "source_based"
+    },
+    {
+      "id": "tqa038",
+      "exercise": "Source-based",
+      "question": "What is the introduction to the Constitution called? What does it tell about the source?",
+      "answer": "The introduction is called the Preamble. 'We, the people of India' tells us that the source of the Constitution is the people of India, not imposed by any foreign power.",
+      "question_type": "source_based"
+    },
+    {
+      "id": "tqa039",
+      "exercise": "Source-based",
+      "question": "Mention the objectives stated in the introduction to the Constitution.",
+      "answer": "Justice (social, economic, political), Liberty (thought, expression, belief, faith, worship), Equality (status and opportunity), Fraternity (dignity of individual, unity and integrity of nation).",
+      "question_type": "source_based"
+    }
+  ]
+}

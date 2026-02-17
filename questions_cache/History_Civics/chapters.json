@@ -1,0 +1,23 @@
+{
+  "subject": "History_Civics",
+  "chapters": [
+    {
+      "name": "The Mughal Empire - Akbar",
+      "slug": "The Mughal Empire - Akbar",
+      "has_questions": true,
+      "icon": "👑"
+    },
+    {
+      "name": "The Constitution of India",
+      "slug": "The Constitution of India",
+      "has_questions": true,
+      "icon": "📜"
+    },
+    {
+      "name": "The Turkish Invasion and the Delhi Sultanate",
+      "slug": "The Turkish Invasion and the Delhi Sultanate",
+      "has_questions": true,
+      "icon": "⚔️"
+    }
+  ]
+}

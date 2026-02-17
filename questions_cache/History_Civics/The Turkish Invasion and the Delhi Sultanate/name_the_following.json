@@ -1,0 +1,95 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "ntf001",
+      "question": "The two important states established by the Turks.",
+      "answer": "Ghazni and Ghor",
+      "source_section": "Turkish Invasions"
+    },
+    {
+      "id": "ntf002",
+      "question": "The powerful ruler who invaded India 17 times.",
+      "answer": "Mahmud of Ghazni",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "ntf003",
+      "question": "The Hindu ruler of Punjab first defeated by Mahmud.",
+      "answer": "Jaipal",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "ntf004",
+      "question": "The richest and most sacred temple attacked by Mahmud.",
+      "answer": "Somnath Temple",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "ntf005",
+      "question": "The author of the great epic Shahnama.",
+      "answer": "Firdausi",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "ntf006",
+      "question": "The Rajput ruler who defeated Ghori in the First Battle of Tarain.",
+      "answer": "Prithviraj Chauhan",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "ntf007",
+      "question": "The Rajput ruler who refused to help Prithviraj against Ghori.",
+      "answer": "Raja Jaichandra of Kanauj",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "ntf008",
+      "question": "The viceroy appointed by Muhammad Ghori in India.",
+      "answer": "Qutbuddin Aibak",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "ntf009",
+      "question": "The general of Ghori who destroyed Buddhist monasteries in Bihar.",
+      "answer": "Muhammad bin Bakhtiar Khilji",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "ntf010",
+      "question": "The founder of the Mamluk/Slave dynasty.",
+      "answer": "Qutbuddin Aibak",
+      "source_section": "Mamluk Dynasty"
+    },
+    {
+      "id": "ntf011",
+      "question": "The ruler who completed the Qutb Minar.",
+      "answer": "Iltutmish",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "ntf012",
+      "question": "The Mongol chief who reached Indian borders pursuing the Shah of Persia.",
+      "answer": "Chenghiz Khan",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "ntf013",
+      "question": "The daughter of Iltutmish who became sultan.",
+      "answer": "Razia Sultan",
+      "source_section": "Razia Sultan"
+    },
+    {
+      "id": "ntf014",
+      "question": "The ruler who believed in the theory of divine kingship.",
+      "answer": "Ghiyasuddin Balban",
+      "source_section": "Balban"
+    },
+    {
+      "id": "ntf015",
+      "question": "The dynasty that followed the Mamluk dynasty.",
+      "answer": "Khilji dynasty",
+      "source_section": "End of Mamluk Dynasty"
+    }
+  ]
+}

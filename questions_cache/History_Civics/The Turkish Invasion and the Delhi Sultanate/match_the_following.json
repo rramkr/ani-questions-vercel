@@ -1,0 +1,130 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "column_a": [
+        "Mahmud of Ghazni",
+        "First Battle of Tarain",
+        "Second Battle of Tarain",
+        "Qutbuddin Aibak",
+        "Muhammad bin Bakhtiar Khilji"
+      ],
+      "column_b": [
+        "Patron of art and learning",
+        "Prithviraj defeated Muhammad Ghori",
+        "Prithviraj was defeated by Muhammad Ghori",
+        "Viceroy of Ghori",
+        "General of Ghori"
+      ],
+      "correct_matches": {
+        "Mahmud of Ghazni": "Patron of art and learning",
+        "First Battle of Tarain": "Prithviraj defeated Muhammad Ghori",
+        "Second Battle of Tarain": "Prithviraj was defeated by Muhammad Ghori",
+        "Qutbuddin Aibak": "Viceroy of Ghori",
+        "Muhammad bin Bakhtiar Khilji": "General of Ghori"
+      },
+      "source_section": "Textbook - Mahmud of Ghazni and Muhammad Ghori"
+    },
+    {
+      "id": "mtf002",
+      "column_a": [
+        "Qutbuddin Aibak",
+        "Iltutmish",
+        "Firoz Shah Tughlaq",
+        "Firdausi",
+        "Al Beruni"
+      ],
+      "column_b": [
+        "Started Qutb Minar",
+        "Completed Qutb Minar",
+        "Added fifth storey to Qutb Minar",
+        "Wrote Shahnama",
+        "Historian and mathematician"
+      ],
+      "correct_matches": {
+        "Qutbuddin Aibak": "Started Qutb Minar",
+        "Iltutmish": "Completed Qutb Minar",
+        "Firoz Shah Tughlaq": "Added fifth storey to Qutb Minar",
+        "Firdausi": "Wrote Shahnama",
+        "Al Beruni": "Historian and mathematician"
+      },
+      "source_section": "Textbook - Rulers and their contributions"
+    },
+    {
+      "id": "mtf003",
+      "column_a": [
+        "Lakhbaksh",
+        "Sultan",
+        "Iqta",
+        "Iqtadar",
+        "Mamluk"
+      ],
+      "column_b": [
+        "Giver of lakhs",
+        "Ruler of Delhi Sultanate",
+        "Province under Iltutmish",
+        "Officer who collected land revenue",
+        "Slave"
+      ],
+      "correct_matches": {
+        "Lakhbaksh": "Giver of lakhs",
+        "Sultan": "Ruler of Delhi Sultanate",
+        "Iqta": "Province under Iltutmish",
+        "Iqtadar": "Officer who collected land revenue",
+        "Mamluk": "Slave"
+      },
+      "source_section": "Textbook - Titles and meanings"
+    },
+    {
+      "id": "mtf004",
+      "column_a": [
+        "Qutbuddin Aibak",
+        "Iltutmish",
+        "Razia Sultan",
+        "Balban",
+        "Nasiruddin Mahmud"
+      ],
+      "column_b": [
+        "Just and generous",
+        "True founder of Delhi Sultanate",
+        "Brave, intelligent and just",
+        "Believed in divine kingship",
+        "Weak and inexperienced"
+      ],
+      "correct_matches": {
+        "Qutbuddin Aibak": "Just and generous",
+        "Iltutmish": "True founder of Delhi Sultanate",
+        "Razia Sultan": "Brave, intelligent and just",
+        "Balban": "Believed in divine kingship",
+        "Nasiruddin Mahmud": "Weak and inexperienced"
+      },
+      "source_section": "Textbook - Rulers and their qualities"
+    },
+    {
+      "id": "mtf005",
+      "column_a": [
+        "Mahmud's raids",
+        "Second Battle of Tarain",
+        "Bakhtiar Khilji's invasion",
+        "Chenghiz Khan's pursuit",
+        "Balban's reign"
+      ],
+      "column_b": [
+        "Exposed weakness of northern states",
+        "End of Rajput rule in north India",
+        "Death blow to Buddhism",
+        "Iltutmish saved India",
+        "Security and stability replaced lawlessness"
+      ],
+      "correct_matches": {
+        "Mahmud's raids": "Exposed weakness of northern states",
+        "Second Battle of Tarain": "End of Rajput rule in north India",
+        "Bakhtiar Khilji's invasion": "Death blow to Buddhism",
+        "Chenghiz Khan's pursuit": "Iltutmish saved India",
+        "Balban's reign": "Security and stability replaced lawlessness"
+      },
+      "source_section": "Textbook - Invasions and their results"
+    }
+  ]
+}

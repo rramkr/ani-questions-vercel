@@ -1,0 +1,65 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "hots001",
+      "question": "Why do you think it was important for the Constitution to begin with 'We, the people of India'?",
+      "context": "The Preamble of the Constitution opens with the words 'We, the people of India'. Consider the historical context of India gaining independence from British colonial rule.",
+      "answer": "It was important because it establishes that sovereignty lies with the people of India, not with any ruler, king or foreign power. After centuries of colonial rule, this phrase made it clear that the Constitution was not imposed by anyone but was created by the people themselves. It establishes the foundation of democracy where the government derives its authority from the consent of the people. This distinguishes independent India from the colonial period when laws were imposed by the British.",
+      "key_points": [
+        "Sovereignty lies with the people, not any ruler or foreign power",
+        "Establishes democracy where government authority comes from people's consent",
+        "Constitution was created by the people, not imposed by anyone",
+        "Distinguishes independent India from colonial rule"
+      ],
+      "keywords": ["sovereignty", "people", "democracy", "colonial rule", "consent"],
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "hots002",
+      "question": "If India were not a secular state, how might life be different for its citizens?",
+      "context": "India is described as a secular state in the Preamble. India is home to people of many different religions including Hinduism, Islam, Christianity, Sikhism, Buddhism, Jainism and others.",
+      "answer": "If India were not a secular state, life could be very different and potentially unfair for many citizens. The state could favour one religion over others, leading to discrimination against people of other faiths. Citizens might not have the freedom to practise their own religion freely. This could lead to conflict and division among communities. Religious minorities might be marginalised in education, employment and public life. The unity and diversity that India is known for could be destroyed.",
+      "key_points": [
+        "Some religions might face discrimination from the state",
+        "State could favour one religion in laws and policies",
+        "People might not have freedom to practise their religion",
+        "Could lead to conflict and division among communities",
+        "Minorities might be marginalised in education, employment and public life"
+      ],
+      "keywords": ["secular", "discrimination", "religious freedom", "minorities", "diversity"],
+      "source_section": "Nature of the Indian State"
+    },
+    {
+      "id": "hots003",
+      "question": "Why was it important to include 'fraternity' as an objective alongside justice, liberty and equality?",
+      "context": "The Preamble lists four objectives: justice, liberty, equality and fraternity. Indian society has historically been divided along lines of caste, religion, language and region.",
+      "answer": "Justice, liberty and equality are rights given to citizens, but fraternity is the spirit that makes these rights truly meaningful and possible. Without a feeling of brotherhood, social divisions based on caste, religion, language and region would persist despite having legal rights. Fraternity addresses deep-rooted problems like untouchability and communalism that prevent true equality from being achieved. When people feel a sense of brotherhood, they respect each other's rights willingly, not just because the law says so. Fraternity creates the 'one people' feeling that is essential for a diverse country like India to function as a united democracy.",
+      "key_points": [
+        "Justice, liberty and equality are rights but fraternity is the spirit that makes them possible",
+        "Without brotherhood, social divisions would persist despite legal rights",
+        "Fraternity addresses discrimination like untouchability and communalism",
+        "Creates the 'one people' feeling essential for a diverse democracy",
+        "People respect each other's rights willingly, not just by law"
+      ],
+      "keywords": ["fraternity", "brotherhood", "social divisions", "untouchability", "communalism", "unity"],
+      "source_section": "Objectives of the Constitution"
+    },
+    {
+      "id": "hots004",
+      "question": "The Constituent Assembly took almost 3 years to frame the Constitution. Why do you think it took so long?",
+      "context": "The Constituent Assembly first met in 1946 and the Constitution was passed on 26 November 1949. India is a country with immense diversity in terms of religion, language, culture, caste and geography.",
+      "answer": "The Constituent Assembly took almost 3 years because framing a constitution for a country as diverse as India was an enormous and delicate task. India has many different communities, religions, languages, castes and cultures, and all these groups needed fair representation and protection. Complex decisions had to be made about the federal structure, fundamental rights, duties of citizens and the balance of power between the central and state governments. The Assembly had to carefully consider and balance the different interests and concerns of various groups to ensure no community felt left out. A rushed constitution might have missed important protections for minorities or created unfair provisions. The thorough process of discussion, debate and revision was necessary to create a document that would serve as a fair and lasting foundation for the nation.",
+      "key_points": [
+        "India is diverse with many communities, religions, languages and cultures",
+        "All groups needed fair representation and protection",
+        "Complex decisions about federal structure, rights and balance of power",
+        "Had to balance different interests to ensure no community felt left out",
+        "A rushed constitution might have missed important protections",
+        "Thorough discussion and debate were necessary for a fair and lasting document"
+      ],
+      "keywords": ["Constituent Assembly", "diversity", "representation", "federal structure", "fundamental rights", "debate"],
+      "source_section": "The Constituent Assembly"
+    }
+  ]
+}

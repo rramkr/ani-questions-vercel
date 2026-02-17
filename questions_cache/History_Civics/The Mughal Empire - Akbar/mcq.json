@@ -1,0 +1,205 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "mcq001",
+      "question": "At what age was Akbar proclaimed emperor?",
+      "options": ["A. 11 years", "B. 13 years", "C. 15 years", "D. 18 years"],
+      "correct_answer": "B. 13 years",
+      "explanation": "Akbar was only 13 years old when he was proclaimed emperor of the Mughal Empire.",
+      "source_section": "Akbar's accession"
+    },
+    {
+      "id": "mcq002",
+      "question": "For how many years did Akbar rule the Mughal Empire?",
+      "options": ["A. 40 years", "B. 45 years", "C. 50 years", "D. 55 years"],
+      "correct_answer": "C. 50 years",
+      "explanation": "Akbar ruled for 50 years, from 1556 to 1605 CE.",
+      "source_section": "Akbar's accession"
+    },
+    {
+      "id": "mcq003",
+      "question": "Who served as Akbar's regent during his early years?",
+      "options": ["A. Todar Mal", "B. Abul Fazl", "C. Bairam Khan", "D. Faizi"],
+      "correct_answer": "C. Bairam Khan",
+      "explanation": "Bairam Khan served as Akbar's regent and guided the administration until Akbar dismissed him at the age of 18.",
+      "source_section": "Akbar's regency"
+    },
+    {
+      "id": "mcq004",
+      "question": "At what age did Akbar dismiss Bairam Khan?",
+      "options": ["A. 15 years", "B. 16 years", "C. 17 years", "D. 18 years"],
+      "correct_answer": "D. 18 years",
+      "explanation": "Akbar dismissed his regent Bairam Khan when he turned 18 and began ruling independently.",
+      "source_section": "Akbar's regency"
+    },
+    {
+      "id": "mcq005",
+      "question": "In the Second Battle of Panipat (1556), Akbar defeated which rival?",
+      "options": ["A. Rana Pratap", "B. Hemu", "C. Sher Shah Suri", "D. Ibrahim Lodi"],
+      "correct_answer": "B. Hemu",
+      "explanation": "The Second Battle of Panipat in 1556 was fought between Akbar's forces and Hemu, who was defeated.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "mcq006",
+      "question": "Which province was annexed by Akbar in 1561?",
+      "options": ["A. Gujarat", "B. Bengal", "C. Malwa", "D. Gondwana"],
+      "correct_answer": "C. Malwa",
+      "explanation": "Akbar annexed Malwa in 1561 as part of his military conquests to expand the empire.",
+      "source_section": "Military conquests"
+    },
+    {
+      "id": "mcq007",
+      "question": "When was Gujarat annexed by Akbar?",
+      "options": ["A. 1561", "B. 1564", "C. 1572", "D. 1576"],
+      "correct_answer": "C. 1572",
+      "explanation": "Akbar annexed Gujarat in 1572 during his campaign to consolidate and expand the Mughal Empire.",
+      "source_section": "Military conquests"
+    },
+    {
+      "id": "mcq008",
+      "question": "Akbar married the daughter of the Raja of which kingdom?",
+      "options": ["A. Mewar", "B. Marwar", "C. Jaipur (Amber)", "D. Bikaner"],
+      "correct_answer": "C. Jaipur (Amber)",
+      "explanation": "Akbar married the daughter of the Raja of Jaipur (Amber) as part of his policy of building alliances with Rajput rulers.",
+      "source_section": "Rajput policy"
+    },
+    {
+      "id": "mcq009",
+      "question": "Who was the Rajput commander at the siege of Chittor?",
+      "options": ["A. Rana Pratap", "B. Raja Man Singh", "C. Jai Mal", "D. Bairam Khan"],
+      "correct_answer": "C. Jai Mal",
+      "explanation": "Jai Mal was the Rajput commander who defended Chittor when Akbar besieged and captured it.",
+      "source_section": "Capture of Chittor"
+    },
+    {
+      "id": "mcq010",
+      "question": "What did the Rajput women perform during the fall of Chittor?",
+      "options": ["A. Saka", "B. Jauhar", "C. Purdah", "D. Swayamvar"],
+      "correct_answer": "B. Jauhar",
+      "explanation": "When Chittor fell to Akbar, the Rajput women performed jauhar (self-immolation) to preserve their honour.",
+      "source_section": "Capture of Chittor"
+    },
+    {
+      "id": "mcq011",
+      "question": "The Battle of Haldighati (1576) was fought between Rana Pratap and which Mughal general?",
+      "options": ["A. Bairam Khan", "B. Todar Mal", "C. Abul Fazl", "D. Raja Man Singh"],
+      "correct_answer": "D. Raja Man Singh",
+      "explanation": "The Battle of Haldighati in 1576 was fought between Rana Pratap of Mewar and the Mughal army led by Raja Man Singh.",
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "mcq012",
+      "question": "Akbar's empire was divided into how many subas (provinces)?",
+      "options": ["A. 10", "B. 12", "C. 15", "D. 20"],
+      "correct_answer": "C. 15",
+      "explanation": "Akbar divided his empire into 15 subas (provinces) for efficient administration.",
+      "source_section": "Provincial administration"
+    },
+    {
+      "id": "mcq013",
+      "question": "What was the correct order of administrative subdivisions under Akbar, from largest to smallest?",
+      "options": ["A. Sarkars, Subas, Parganas", "B. Subas, Parganas, Sarkars", "C. Subas, Sarkars, Parganas", "D. Parganas, Sarkars, Subas"],
+      "correct_answer": "C. Subas, Sarkars, Parganas",
+      "explanation": "The empire was divided into subas (provinces), which were further subdivided into sarkars, and then into parganas.",
+      "source_section": "Provincial administration"
+    },
+    {
+      "id": "mcq014",
+      "question": "In the Mansabdari system, what was the highest rank (in terms of horsemen)?",
+      "options": ["A. 5000", "B. 7000", "C. 10000", "D. 12000"],
+      "correct_answer": "B. 7000",
+      "explanation": "In Akbar's Mansabdari system, the ranks ranged from 10 to 7000 horsemen.",
+      "source_section": "Mansabdari system"
+    },
+    {
+      "id": "mcq015",
+      "question": "Which feature was characteristic of the Mansabdari system?",
+      "options": ["A. Ranks were hereditary", "B. Ranks were not hereditary", "C. Only Muslims could hold ranks", "D. Ranks were based on birth"],
+      "correct_answer": "B. Ranks were not hereditary",
+      "explanation": "A key feature of the Mansabdari system was that the ranks were not hereditary and were assigned based on merit.",
+      "source_section": "Mansabdari system"
+    },
+    {
+      "id": "mcq016",
+      "question": "Who was the wazir/diwan in Akbar's council, responsible for revenue?",
+      "options": ["A. Mir Bakshi", "B. Mir Saman", "C. Chief Sadr", "D. Wazir/Diwan"],
+      "correct_answer": "D. Wazir/Diwan",
+      "explanation": "The wazir or diwan was the minister in charge of revenue in Akbar's council of ministers.",
+      "source_section": "Central administration"
+    },
+    {
+      "id": "mcq017",
+      "question": "Which minister in Akbar's council was responsible for military affairs?",
+      "options": ["A. Wazir", "B. Mir Bakshi", "C. Vakil", "D. Chief Sadr"],
+      "correct_answer": "B. Mir Bakshi",
+      "explanation": "The Mir Bakshi was responsible for military administration in Akbar's council.",
+      "source_section": "Central administration"
+    },
+    {
+      "id": "mcq018",
+      "question": "Todar Mal's land revenue system used a measuring instrument called the bamboo jarib. What was special about it?",
+      "options": ["A. It was made of gold", "B. It had iron rings to prevent shrinkage", "C. It was exactly one mile long", "D. It was imported from Persia"],
+      "correct_answer": "B. It had iron rings to prevent shrinkage",
+      "explanation": "Todar Mal introduced the bamboo jarib with iron rings for land measurement, which prevented the bamboo from shrinking or expanding.",
+      "source_section": "Todar Mal's Bandobast"
+    },
+    {
+      "id": "mcq019",
+      "question": "Under Todar Mal's Bandobast, land was classified into how many categories?",
+      "options": ["A. 2", "B. 3", "C. 4", "D. 5"],
+      "correct_answer": "C. 4",
+      "explanation": "Todar Mal classified land into 4 categories as part of his systematic land revenue reforms.",
+      "source_section": "Todar Mal's Bandobast"
+    },
+    {
+      "id": "mcq020",
+      "question": "What fraction of the average produce was fixed as land revenue under Todar Mal's system?",
+      "options": ["A. One-fourth", "B. One-third", "C. One-half", "D. Two-thirds"],
+      "correct_answer": "B. One-third",
+      "explanation": "Under Todar Mal's Bandobast, the land revenue was fixed at one-third of the average produce.",
+      "source_section": "Todar Mal's Bandobast"
+    },
+    {
+      "id": "mcq021",
+      "question": "In which year was the Ibadat Khana built at Fatehpur Sikri?",
+      "options": ["A. 1572", "B. 1575", "C. 1579", "D. 1582"],
+      "correct_answer": "B. 1575",
+      "explanation": "The Ibadat Khana (House of Worship) was built by Akbar in 1575 at Fatehpur Sikri for religious discussions.",
+      "source_section": "Religious policy"
+    },
+    {
+      "id": "mcq022",
+      "question": "What was the Mahzar of 1579?",
+      "options": ["A. A new religion founded by Akbar", "B. A declaration making Akbar the supreme religious authority", "C. A tax reform document", "D. A military treaty"],
+      "correct_answer": "B. A declaration making Akbar the supreme religious authority",
+      "explanation": "The Mahzar of 1579 was a document that gave Akbar the authority to be the supreme arbiter in religious matters.",
+      "source_section": "Religious policy"
+    },
+    {
+      "id": "mcq023",
+      "question": "Who was the only Hindu to accept Akbar's Din-i-Ilahi?",
+      "options": ["A. Todar Mal", "B. Tansen", "C. Birbal", "D. Raja Man Singh"],
+      "correct_answer": "C. Birbal",
+      "explanation": "Birbal was the only Hindu who accepted Akbar's new faith, Din-i-Ilahi (Divine Faith), founded in 1582.",
+      "source_section": "Din-i-Ilahi"
+    },
+    {
+      "id": "mcq024",
+      "question": "What was the gold coin during Akbar's reign called?",
+      "options": ["A. Dinar", "B. Tanka", "C. Mohur", "D. Ashrafi"],
+      "correct_answer": "C. Mohur",
+      "explanation": "The gold coin during Akbar's reign was called a mohur.",
+      "source_section": "Currency"
+    },
+    {
+      "id": "mcq025",
+      "question": "Who wrote the Akbarnama?",
+      "options": ["A. Faizi", "B. Birbal", "C. Tulsidas", "D. Abul Fazl"],
+      "correct_answer": "D. Abul Fazl",
+      "explanation": "Abul Fazl was the court historian who wrote the Akbarnama, a detailed account of Akbar's reign.",
+      "source_section": "Literature and learning"
+    }
+  ]
+}

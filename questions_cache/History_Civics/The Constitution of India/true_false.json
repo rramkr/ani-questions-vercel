@@ -1,0 +1,110 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "tf001",
+      "statement": "The Constitution of India was framed by the Constituent Assembly.",
+      "answer": true,
+      "explanation": "The Constitution was framed by the Constituent Assembly, which was an elected body representing different opinions, communities, and classes of Indian society. It was not imposed by the British or any foreign power.",
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "tf002",
+      "statement": "Dr Rajendra Prasad was the Chairman of the Constituent Assembly.",
+      "answer": true,
+      "explanation": "Dr Rajendra Prasad served as the Chairman of the Constituent Assembly that framed the Indian Constitution.",
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "tf003",
+      "statement": "Dr B.R. Ambedkar was the Chairman of the Constituent Assembly.",
+      "answer": false,
+      "explanation": "Dr B.R. Ambedkar was the Chairman of the Drafting Committee, not the Constituent Assembly. The Chairman of the Constituent Assembly was Dr Rajendra Prasad. Ambedkar is known as the 'Father of the Indian Constitution' for his role in drafting it.",
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "tf004",
+      "statement": "The first meeting of the Constituent Assembly was held on 9 December 1946.",
+      "answer": true,
+      "explanation": "The Constituent Assembly held its first meeting on 9 December 1946 to begin the process of framing the Constitution of India.",
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "tf005",
+      "statement": "The Constituent Assembly took 2 years, 11 months and 18 days to frame the Constitution.",
+      "answer": true,
+      "explanation": "The Constituent Assembly worked for 2 years, 11 months and 18 days to complete the framing of the Indian Constitution.",
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "tf006",
+      "statement": "The Constitution was passed on 26 November 1949 and came into force on 26 January 1950.",
+      "answer": true,
+      "explanation": "The Constitution was adopted and passed by the Constituent Assembly on 26 November 1949. It came into force on 26 January 1950, which is celebrated as Republic Day.",
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "tf007",
+      "statement": "The Preamble is the conclusion of the Constitution.",
+      "answer": false,
+      "explanation": "The Preamble is the introduction to the Constitution, not the conclusion. It tells about the source, nature of the state, and the main objectives of the Constitution.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "tf008",
+      "statement": "The words 'Socialist' and 'Secular' were added to the Preamble in 1976 through the 42nd Amendment Act.",
+      "answer": true,
+      "explanation": "The words 'Socialist' and 'Secular' were not part of the original Preamble. They were added in 1976 through the 42nd Amendment Act to the Constitution.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "tf009",
+      "statement": "The President of India has a term of 4 years.",
+      "answer": false,
+      "explanation": "The President of India has a term of 5 years, not 4 years. The President is elected for a fixed term of 5 years and the post is not hereditary.",
+      "source_section": "Republic"
+    },
+    {
+      "id": "tf010",
+      "statement": "The post of the President of India is hereditary.",
+      "answer": false,
+      "explanation": "The post of the President of India is not hereditary. India is a Republic, which means the head of state (the President) is elected, not a monarch or dictator. The President serves a fixed 5-year term.",
+      "source_section": "Republic"
+    },
+    {
+      "id": "tf011",
+      "statement": "Sarojini Naidu was a member of the Constituent Assembly.",
+      "answer": true,
+      "explanation": "Sarojini Naidu was one of the notable members of the Constituent Assembly, along with Dr B.R. Ambedkar, Maulana Azad, and others.",
+      "source_section": "Framing of the Constitution"
+    },
+    {
+      "id": "tf012",
+      "statement": "India has an official state religion.",
+      "answer": false,
+      "explanation": "India does not have an official state religion. India is a secular state, which means the government does not favour any religion. There is no discrimination on the grounds of religion, and all citizens have the freedom to profess, practise, and propagate their own religion.",
+      "source_section": "Secular"
+    },
+    {
+      "id": "tf013",
+      "statement": "All citizens are equal in the eyes of the law under the Indian Constitution.",
+      "answer": true,
+      "explanation": "The Indian Constitution guarantees equality before the law. All citizens are equal in the eyes of the law and are protected equally, without discrimination based on birth, sex, caste, creed, race, religion, or wealth.",
+      "source_section": "Equality"
+    },
+    {
+      "id": "tf014",
+      "statement": "Democracy means government of rich people.",
+      "answer": false,
+      "explanation": "Democracy does not mean government of rich people. Democracy means government of the people, by the people, and for the people. In a democracy, the people elect the government of their choice and govern through their elected representatives.",
+      "source_section": "Democratic"
+    },
+    {
+      "id": "tf015",
+      "statement": "The original Constitution of India is kept in a helium-filled case.",
+      "answer": true,
+      "explanation": "The original handwritten copies of the Indian Constitution are preserved in special helium-filled cases in the Parliament House Library to protect them from deterioration.",
+      "source_section": "Framing of the Constitution"
+    }
+  ]
+}

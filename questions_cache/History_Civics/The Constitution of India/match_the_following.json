@@ -1,0 +1,55 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "column_a": ["1946", "1947", "1949", "1950", "1976"],
+      "column_b": ["First meeting of Constituent Assembly", "India became independent", "Constitution passed", "India became sovereign democratic republic", "42nd Amendment (Socialist/Secular added)"],
+      "correct_matches": {
+        "1946": "First meeting of Constituent Assembly",
+        "1947": "India became independent",
+        "1949": "Constitution passed",
+        "1950": "India became sovereign democratic republic",
+        "1976": "42nd Amendment (Socialist/Secular added)"
+      },
+      "source_section": "Important Dates"
+    },
+    {
+      "id": "mtf002",
+      "column_a": ["Sovereign", "Socialist", "Secular", "Democratic", "Republic"],
+      "column_b": ["Independent and free from foreign control", "Fair distribution of wealth", "No official religion", "Government of, by and for the people", "Elected head of state"],
+      "correct_matches": {
+        "Sovereign": "Independent and free from foreign control",
+        "Socialist": "Fair distribution of wealth",
+        "Secular": "No official religion",
+        "Democratic": "Government of, by and for the people",
+        "Republic": "Elected head of state"
+      },
+      "source_section": "Nature of the Indian State"
+    },
+    {
+      "id": "mtf003",
+      "column_a": ["Justice", "Liberty", "Equality", "Fraternity"],
+      "column_b": ["All equal in eyes of law", "Freedom of thought, expression and belief", "No discrimination", "Spirit of brotherhood"],
+      "correct_matches": {
+        "Justice": "All equal in eyes of law",
+        "Liberty": "Freedom of thought, expression and belief",
+        "Equality": "No discrimination",
+        "Fraternity": "Spirit of brotherhood"
+      },
+      "source_section": "Objectives of the Constitution"
+    },
+    {
+      "id": "mtf004",
+      "column_a": ["Dr Rajendra Prasad", "Dr B.R. Ambedkar", "Sarojini Naidu", "Maulana Azad"],
+      "column_b": ["Chairman of Constituent Assembly", "Father of Indian Constitution", "Member of Constituent Assembly", "Member of Constituent Assembly"],
+      "correct_matches": {
+        "Dr Rajendra Prasad": "Chairman of Constituent Assembly",
+        "Dr B.R. Ambedkar": "Father of Indian Constitution",
+        "Sarojini Naidu": "Member of Constituent Assembly",
+        "Maulana Azad": "Member of Constituent Assembly"
+      },
+      "source_section": "The Constituent Assembly"
+    }
+  ]
+}

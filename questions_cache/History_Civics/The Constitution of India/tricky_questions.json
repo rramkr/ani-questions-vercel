@@ -1,0 +1,365 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "trk_const_001",
+      "type": "mcq",
+      "question": "Dr B.R. Ambedkar is called the 'Father of the Indian Constitution' because he was the Chairman of the:",
+      "options": ["A. Constituent Assembly", "B. Drafting Committee", "C. Planning Commission", "D. Indian National Congress"],
+      "correct_answer": "B. Drafting Committee",
+      "explanation": "Dr B.R. Ambedkar was the Chairman of the Drafting Committee, NOT the Constituent Assembly. The Constituent Assembly was chaired by Dr Rajendra Prasad.",
+      "trick": "Students often confuse the Constituent Assembly with the Drafting Committee. Ambedkar chaired the Drafting Committee, while Rajendra Prasad chaired the Constituent Assembly."
+    },
+    {
+      "id": "trk_const_002",
+      "type": "mcq",
+      "question": "The Constituent Assembly held its first meeting on 9 December 1946. What is remarkable about this date?",
+      "options": ["A. It was the same day the Constitution was passed", "B. It was before India gained independence", "C. It was the day India became a Republic", "D. It was after the Constitution came into force"],
+      "correct_answer": "B. It was before India gained independence",
+      "explanation": "India gained independence on 15 August 1947, but the Constituent Assembly first met on 9 December 1946 - almost 8 months BEFORE independence.",
+      "trick": "Students assume the Constitution-making process started only after independence. In fact, the Constituent Assembly began working even before India was free from British rule."
+    },
+    {
+      "id": "trk_const_003",
+      "type": "mcq",
+      "question": "Which of the following words was present in the Preamble when the Constitution was originally adopted in 1949?",
+      "options": ["A. Socialist", "B. Secular", "C. Sovereign", "D. Both A and B"],
+      "correct_answer": "C. Sovereign",
+      "explanation": "'Socialist' and 'Secular' were NOT in the original Preamble. They were added later by the 42nd Amendment in 1976. 'Sovereign' was always part of the original Preamble.",
+      "trick": "Students often assume all five words (Sovereign, Socialist, Secular, Democratic, Republic) were always in the Preamble. But 'Socialist' and 'Secular' were added only in 1976."
+    },
+    {
+      "id": "trk_const_004",
+      "type": "mcq",
+      "question": "India is called a 'Republic' because:",
+      "options": ["A. It has a democratic government", "B. The head of state is an elected official, not a hereditary monarch", "C. People have fundamental rights", "D. It has a written Constitution"],
+      "correct_answer": "B. The head of state is an elected official, not a hereditary monarch",
+      "explanation": "A Republic means the head of state (the President) is elected and serves a fixed term (5 years). The position is NOT inherited or hereditary like in a monarchy.",
+      "trick": "Students confuse 'Republic' with 'Democratic'. Democratic means government by elected representatives. Republic specifically means the head of state is elected (not a king or queen)."
+    },
+    {
+      "id": "trk_const_005",
+      "type": "mcq",
+      "question": "The Constitution of India was passed on 26 November 1949. When did it come into force?",
+      "options": ["A. 26 November 1949 itself", "B. 15 August 1950", "C. 26 January 1950", "D. 9 December 1949"],
+      "correct_answer": "C. 26 January 1950",
+      "explanation": "The Constitution was PASSED (adopted) on 26 November 1949, but it CAME INTO FORCE on 26 January 1950, which is celebrated as Republic Day.",
+      "trick": "Students mix up the date of passing and the date of enforcement. Passing (26 Nov 1949) and coming into force (26 Jan 1950) are two different dates."
+    },
+    {
+      "id": "trk_const_006",
+      "type": "mcq",
+      "question": "The word 'Secular' in the Preamble means:",
+      "options": ["A. India has no religion at all", "B. Religion is banned in public life", "C. There is no official state religion and all religions are treated equally", "D. Only Hinduism is the state religion"],
+      "correct_answer": "C. There is no official state religion and all religions are treated equally",
+      "explanation": "Secular does NOT mean India has no religion or that religion is banned. It means there is no STATE religion, no discrimination based on religion, and people are free to profess, practise and propagate any religion.",
+      "trick": "Students often think 'Secular' means 'against religion' or 'no religion'. It actually means the STATE does not favour any religion - people are completely free to follow any religion."
+    },
+    {
+      "id": "trk_const_007",
+      "type": "mcq",
+      "question": "'Liberty' and 'Fraternity' as mentioned in the Preamble are:",
+      "options": ["A. Nature of the Indian state", "B. Objectives of the Constitution", "C. Fundamental duties of citizens", "D. Powers of the government"],
+      "correct_answer": "B. Objectives of the Constitution",
+      "explanation": "Liberty and Fraternity are OBJECTIVES of the Constitution, along with Justice and Equality. The nature of the state is described by Sovereign, Socialist, Secular, Democratic, Republic.",
+      "trick": "Students mix up 'nature of state' with 'objectives'. Sovereign/Socialist/Secular/Democratic/Republic = nature of state. Justice/Liberty/Equality/Fraternity = objectives."
+    },
+    {
+      "id": "trk_const_008",
+      "type": "mcq",
+      "question": "The phrase 'We, the people of India' in the Preamble indicates that:",
+      "options": ["A. The Constitution was made by the Parliament", "B. The Constitution was given by the British", "C. The source of authority of the Constitution is the people of India", "D. Only elected leaders wrote the Constitution"],
+      "correct_answer": "C. The source of authority of the Constitution is the people of India",
+      "explanation": "The opening words 'We, the people of India' clearly establish that the source and authority of the Constitution comes from the people - not from Parliament, not from any foreign power, and not from any single leader.",
+      "trick": "Students sometimes say 'Parliament' or 'Constituent Assembly' as the source. But the Preamble explicitly says 'We, the people' - the ultimate source is the people of India."
+    },
+    {
+      "id": "trk_const_009",
+      "type": "mcq",
+      "question": "The Chairman of the Constituent Assembly was:",
+      "options": ["A. Dr B.R. Ambedkar", "B. Maulana Azad", "C. Dr Rajendra Prasad", "D. Jawaharlal Nehru"],
+      "correct_answer": "C. Dr Rajendra Prasad",
+      "explanation": "Dr Rajendra Prasad was the Chairman of the Constituent Assembly. Dr B.R. Ambedkar was the Chairman of the Drafting Committee.",
+      "trick": "This is the most commonly confused fact in this chapter. Students swap Rajendra Prasad and Ambedkar's roles. Remember: Prasad = Assembly, Ambedkar = Drafting Committee."
+    },
+    {
+      "id": "trk_const_010",
+      "type": "mcq",
+      "question": "26 January was chosen as Republic Day because:",
+      "options": ["A. The Constitution was passed on this date", "B. India gained independence on this date", "C. The Purna Swaraj declaration was made on 26 January 1930", "D. The Constituent Assembly first met on this date"],
+      "correct_answer": "C. The Purna Swaraj declaration was made on 26 January 1930",
+      "explanation": "26 January was chosen because on 26 January 1930, the Indian National Congress declared Purna Swaraj (complete independence). The Constitution was deliberately brought into force on this historic date in 1950.",
+      "trick": "Students often think 26 January was chosen randomly or confuse it with the date the Constitution was passed (that was 26 November 1949, not January)."
+    },
+    {
+      "id": "trk_const_011",
+      "type": "mcq",
+      "question": "Which of the following is NOT an objective mentioned in the Preamble?",
+      "options": ["A. Justice", "B. Liberty", "C. Sovereignty", "D. Fraternity"],
+      "correct_answer": "C. Sovereignty",
+      "explanation": "Sovereignty (Sovereign) describes the NATURE of the Indian state, not an objective. The four objectives in the Preamble are Justice, Liberty, Equality, and Fraternity.",
+      "trick": "Students confuse the nature of the state (Sovereign, Socialist, Secular, Democratic, Republic) with the objectives (Justice, Liberty, Equality, Fraternity). Sovereignty is a characteristic, not a goal."
+    },
+    {
+      "id": "trk_const_012",
+      "type": "mcq",
+      "question": "'Sovereign' means India is:",
+      "options": ["A. Free from all laws and rules", "B. Free from foreign control and interference", "C. The most powerful country in the world", "D. A country with unlimited government power"],
+      "correct_answer": "B. Free from foreign control and interference",
+      "explanation": "Sovereign means India is independent and free from FOREIGN control. It does NOT mean India is free from all rules or that it has unlimited power.",
+      "trick": "Students often expand the meaning of 'sovereign' too broadly. It specifically means free from EXTERNAL/FOREIGN interference - India governs itself. It does NOT mean the government can do anything it wants."
+    },
+    {
+      "id": "trk_const_013",
+      "type": "mcq",
+      "question": "The Constitution defines:",
+      "options": ["A. Only the powers and functions of the government", "B. Only the rights and duties of the people", "C. Both the organization/powers of the government AND the rights/duties of the people", "D. Only the structure of Parliament"],
+      "correct_answer": "C. Both the organization/powers of the government AND the rights/duties of the people",
+      "explanation": "The Constitution is a body of fundamental rules that defines BOTH the organization, powers and functions of the government AND the rights and duties of the people.",
+      "trick": "Students often give incomplete answers saying the Constitution only deals with government OR only with citizens. It covers BOTH sides - government powers and citizen rights/duties."
+    },
+    {
+      "id": "trk_const_014",
+      "type": "mcq",
+      "question": "Sarojini Naidu was:",
+      "options": ["A. Chairman of the Constituent Assembly", "B. Chairman of the Drafting Committee", "C. A member of the Constituent Assembly", "D. The first President of India"],
+      "correct_answer": "C. A member of the Constituent Assembly",
+      "explanation": "Sarojini Naidu was a member of the Constituent Assembly, along with others like Maulana Azad. She was NOT the chairman of any committee related to the Constitution.",
+      "trick": "Students sometimes incorrectly attribute a chairman role to Sarojini Naidu because she is a famous historical figure. She was an important member but did not chair the Assembly or the Drafting Committee."
+    },
+    {
+      "id": "trk_const_015",
+      "type": "mcq",
+      "question": "The original copy of the Indian Constitution is kept in:",
+      "options": ["A. The Rashtrapati Bhavan", "B. A helium-filled case in the Library of Parliament", "C. The Supreme Court of India", "D. The National Museum"],
+      "correct_answer": "B. A helium-filled case in the Library of Parliament",
+      "explanation": "The original handwritten copy of the Constitution is preserved in a special helium-filled case in the Library of Parliament to protect it from deterioration.",
+      "trick": "Students often guess Rashtrapati Bhavan or the National Museum. The specific detail is that it is in a HELIUM-FILLED case in the LIBRARY OF PARLIAMENT."
+    },
+    {
+      "id": "trk_const_016",
+      "type": "mcq",
+      "question": "Which of the following is true about the Indian President?",
+      "options": ["A. The President is a hereditary position", "B. The President serves a lifetime term", "C. The President is elected for a 5-year term", "D. The President is appointed by the Prime Minister"],
+      "correct_answer": "C. The President is elected for a 5-year term",
+      "explanation": "India is a Republic, meaning the head of state (President) is ELECTED for a fixed term of 5 years. The position is not hereditary, not lifelong, and not appointed by the PM.",
+      "trick": "Students may not connect 'Republic' with the election of the President. The key point is: Republic = elected head of state with a fixed term, unlike a monarchy."
+    },
+    {
+      "id": "trk_const_017",
+      "type": "mcq",
+      "question": "The 42nd Amendment to the Constitution was passed in:",
+      "options": ["A. 1950", "B. 1947", "C. 1976", "D. 1949"],
+      "correct_answer": "C. 1976",
+      "explanation": "The 42nd Amendment was passed in 1976. It added the words 'Socialist' and 'Secular' to the Preamble of the Constitution.",
+      "trick": "Students confuse 1976 with other important dates like 1947 (independence), 1949 (Constitution passed), or 1950 (Constitution came into force). The 42nd Amendment specifically happened in 1976."
+    },
+    {
+      "id": "trk_const_018",
+      "type": "mcq",
+      "question": "'Fraternity' as an objective of the Constitution aims to:",
+      "options": ["A. Give equal voting rights to all citizens", "B. Provide free education to everyone", "C. Promote a spirit of brotherhood and remove social barriers like untouchability and communalism", "D. Ensure fair distribution of wealth"],
+      "correct_answer": "C. Promote a spirit of brotherhood and remove social barriers like untouchability and communalism",
+      "explanation": "Fraternity means spirit of brotherhood among all citizens. It specifically aims to remove social barriers, fight untouchability and communalism.",
+      "trick": "Students confuse Fraternity with Equality or Justice. Fraternity is specifically about brotherhood and removing social barriers like untouchability and communalism - not about voting rights or wealth distribution."
+    },
+    {
+      "id": "trk_const_019",
+      "type": "mcq",
+      "question": "India is a 'Democratic' country. This means:",
+      "options": ["A. Every citizen directly votes on every law", "B. The government is run by elected representatives of the people", "C. The President has absolute power", "D. Only educated people can vote"],
+      "correct_answer": "B. The government is run by elected representatives of the people",
+      "explanation": "Democratic means government of the people, by the people, for the people - through ELECTED REPRESENTATIVES. India follows representative democracy, not direct democracy.",
+      "trick": "Students sometimes think democracy means every citizen votes on every issue (direct democracy). India follows REPRESENTATIVE democracy - people elect representatives who then make decisions."
+    },
+    {
+      "id": "trk_const_020",
+      "type": "mcq",
+      "question": "The Preamble of the Constitution tells us about:",
+      "options": ["A. Only the rights of citizens", "B. The source, nature of the state, and main objectives", "C. Only the powers of the government", "D. The history of the freedom struggle"],
+      "correct_answer": "B. The source, nature of the state, and main objectives",
+      "explanation": "The Preamble serves as an introduction to the Constitution and covers three things: (1) the source of the Constitution (the people), (2) the nature of the Indian state (Sovereign, Socialist, Secular, Democratic, Republic), and (3) the main objectives (Justice, Liberty, Equality, Fraternity).",
+      "trick": "Students give incomplete answers. The Preamble is not just about rights or government powers - it covers ALL THREE: source, nature of state, and objectives."
+    },
+    {
+      "id": "trk_const_021",
+      "type": "fill_in_blanks",
+      "question": "The words 'Socialist' and 'Secular' were added to the Preamble by the ___ Amendment in ___.",
+      "answer": "42nd Amendment in 1976",
+      "acceptable_answers": ["42nd, 1976", "42nd Amendment in 1976", "42nd amendment, 1976"],
+      "explanation": "The 42nd Constitutional Amendment of 1976 added the words 'Socialist' and 'Secular' to the Preamble. These were NOT part of the original Constitution.",
+      "trick": "Students often know 1976 but forget it was the 42nd Amendment, or they think these words were always in the Preamble from 1950."
+    },
+    {
+      "id": "trk_const_022",
+      "type": "fill_in_blanks",
+      "question": "The Chairman of the Drafting Committee was ___, while the Chairman of the Constituent Assembly was ___.",
+      "answer": "Dr B.R. Ambedkar, Dr Rajendra Prasad",
+      "acceptable_answers": ["Dr B.R. Ambedkar, Dr Rajendra Prasad", "Ambedkar, Rajendra Prasad", "B.R. Ambedkar, Rajendra Prasad"],
+      "explanation": "Dr B.R. Ambedkar chaired the Drafting Committee and Dr Rajendra Prasad chaired the Constituent Assembly. These two roles are frequently confused.",
+      "trick": "This is the most common mistake in this chapter. Students swap the two names. Memory aid: Ambedkar = DRAFTING (both have 'r' in them), Prasad = ASSEMBLY."
+    },
+    {
+      "id": "trk_const_023",
+      "type": "fill_in_blanks",
+      "question": "The Constitution was passed on ___ but came into force on ___.",
+      "answer": "26 November 1949, 26 January 1950",
+      "acceptable_answers": ["26 November 1949, 26 January 1950", "26 Nov 1949, 26 Jan 1950"],
+      "explanation": "The Constitution was adopted/passed on 26 November 1949 and came into force (became effective) on 26 January 1950.",
+      "trick": "Students mix up these two dates. Remember: passed FIRST (November 1949), then came into force LATER (January 1950). Both dates fall on the 26th, which adds to the confusion."
+    },
+    {
+      "id": "trk_const_024",
+      "type": "fill_in_blanks",
+      "question": "The Constituent Assembly took ___ years, ___ months and ___ days to frame the Constitution.",
+      "answer": "2 years, 11 months and 18 days",
+      "acceptable_answers": ["2, 11, 18", "2 years, 11 months and 18 days", "2 years 11 months 18 days"],
+      "explanation": "The Constitution was framed over a period of 2 years, 11 months and 18 days. This is a specific fact that is frequently tested.",
+      "trick": "Students often remember '2 years' but forget the exact months (11) and days (18). Some students confuse it with 3 years because 2 years 11 months is close to 3 years."
+    },
+    {
+      "id": "trk_const_025",
+      "type": "fill_in_blanks",
+      "question": "In the Preamble, the nature of the Indian state is described by five words: Sovereign, ___, ___, Democratic, and Republic.",
+      "answer": "Socialist, Secular",
+      "acceptable_answers": ["Socialist, Secular", "Socialist and Secular"],
+      "explanation": "The five words describing the nature of the Indian state are: Sovereign, Socialist, Secular, Democratic, Republic. Socialist and Secular were added in 1976.",
+      "trick": "Students sometimes include 'Justice' or 'Liberty' in this list. Those are OBJECTIVES, not descriptions of the nature of state. The order matters too: Sovereign comes first, Republic comes last."
+    },
+    {
+      "id": "trk_const_026",
+      "type": "fill_in_blanks",
+      "question": "26 January was chosen as Republic Day because on 26 January ___, the Indian National Congress declared ___.",
+      "answer": "1930, Purna Swaraj (complete independence)",
+      "acceptable_answers": ["1930, Purna Swaraj", "1930, complete independence", "1930, Purna Swaraj declaration"],
+      "explanation": "On 26 January 1930, the Indian National Congress passed the Purna Swaraj (complete independence) declaration. This is why 26 January was chosen to bring the Constitution into force in 1950.",
+      "trick": "Students often do not know WHY 26 January was chosen. It was not random - it was deliberately linked to the historic Purna Swaraj declaration of 1930."
+    },
+    {
+      "id": "trk_const_027",
+      "type": "fill_in_blanks",
+      "question": "India being a 'Republic' means the head of state is an ___ official who serves a term of ___ years.",
+      "answer": "elected, 5",
+      "acceptable_answers": ["elected, 5", "elected, five"],
+      "explanation": "In a Republic, the head of state (President) is elected and serves a fixed 5-year term. This is the opposite of a monarchy where the position is hereditary.",
+      "trick": "Students know India is a Republic but cannot explain what it specifically means. The key facts are: ELECTED (not hereditary) and 5-YEAR TERM (not lifetime)."
+    },
+    {
+      "id": "trk_const_028",
+      "type": "fill_in_blanks",
+      "question": "The four objectives of the Constitution mentioned in the Preamble are Justice, ___, ___, and Fraternity.",
+      "answer": "Liberty, Equality",
+      "acceptable_answers": ["Liberty, Equality", "Liberty and Equality"],
+      "explanation": "The four objectives are Justice, Liberty, Equality, and Fraternity (JLEF). These should not be confused with the nature of the state (Sovereign, Socialist, Secular, Democratic, Republic).",
+      "trick": "Students mix up objectives with nature of state. Remember: JLEF = objectives (Justice, Liberty, Equality, Fraternity). SSSDR = nature (Sovereign, Socialist, Secular, Democratic, Republic)."
+    },
+    {
+      "id": "trk_const_029",
+      "type": "fill_in_blanks",
+      "question": "The original copy of the Indian Constitution is preserved in a ___-filled case in the ___.",
+      "answer": "helium, Library of Parliament",
+      "acceptable_answers": ["helium, Library of Parliament", "helium-filled, Library of Parliament"],
+      "explanation": "The original handwritten copy of the Constitution is kept in a special helium-filled case in the Library of Parliament to protect it from damage and deterioration.",
+      "trick": "Students often forget the specific gas (helium) or the exact location (Library of Parliament). Some confuse it with nitrogen or say it is in a museum."
+    },
+    {
+      "id": "trk_const_030",
+      "type": "fill_in_blanks",
+      "question": "The objective of 'Equality' in the Preamble means all citizens are equal before ___ and are protected equally, with no ___ by the state.",
+      "answer": "law, discrimination",
+      "acceptable_answers": ["law, discrimination", "the law, discrimination"],
+      "explanation": "Equality means every citizen is equal in the eyes of the law and protected equally. The state cannot discriminate against anyone based on caste, religion, sex, etc.",
+      "trick": "Students sometimes confuse Equality with Justice or Liberty. Equality is specifically about being equal before the LAW and no discrimination by the STATE."
+    },
+    {
+      "id": "trk_const_031",
+      "type": "one_word",
+      "question": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+      "answer": "Dr B.R. Ambedkar",
+      "acceptable_answers": ["Dr B.R. Ambedkar", "B.R. Ambedkar", "Ambedkar", "Dr Ambedkar", "Bhimrao Ambedkar"],
+      "explanation": "Dr B.R. Ambedkar was the Chairman of the Drafting Committee. He is also called the 'Father of the Indian Constitution'.",
+      "trick": "Students often incorrectly answer 'Dr Rajendra Prasad' because he was the Chairman of the Constituent Assembly. Remember: the question asks about the DRAFTING COMMITTEE, not the Assembly."
+    },
+    {
+      "id": "trk_const_032",
+      "type": "one_word",
+      "question": "What is the term for a country that has no official state religion?",
+      "answer": "Secular",
+      "acceptable_answers": ["Secular", "secular"],
+      "explanation": "A secular state has no official or state religion. India became officially secular when the word was added to the Preamble in 1976.",
+      "trick": "Students may confuse this with 'Democratic' or 'Sovereign'. Secular specifically refers to the separation of state and religion - no OFFICIAL religion, but freedom to follow any religion."
+    },
+    {
+      "id": "trk_const_033",
+      "type": "one_word",
+      "question": "On what date is Republic Day celebrated in India?",
+      "answer": "26 January",
+      "acceptable_answers": ["26 January", "26th January", "26 Jan", "January 26"],
+      "explanation": "Republic Day is celebrated on 26 January because the Constitution came into force on 26 January 1950.",
+      "trick": "Students sometimes confuse Republic Day (26 January) with Independence Day (15 August) or Constitution Day (26 November). The Constitution was PASSED on 26 Nov 1949 but CAME INTO FORCE on 26 Jan 1950."
+    },
+    {
+      "id": "trk_const_034",
+      "type": "one_word",
+      "question": "What kind of democracy does India follow - direct democracy or representative democracy?",
+      "answer": "Representative democracy",
+      "acceptable_answers": ["Representative democracy", "Representative", "representative democracy", "representative"],
+      "explanation": "India follows representative democracy where people elect representatives who make decisions on their behalf. In direct democracy, citizens vote on every issue directly.",
+      "trick": "Students know India is democratic but often do not specify the TYPE. India is a REPRESENTATIVE democracy (people elect leaders), not a direct democracy (people vote on every law)."
+    },
+    {
+      "id": "trk_const_035",
+      "type": "one_word",
+      "question": "Which objective of the Preamble specifically aims to fight untouchability and communalism?",
+      "answer": "Fraternity",
+      "acceptable_answers": ["Fraternity", "fraternity"],
+      "explanation": "Fraternity (spirit of brotherhood) aims to remove social barriers, fight untouchability and communalism. It is different from Equality which focuses on being equal before the law.",
+      "trick": "Students often answer 'Equality' or 'Justice'. But it is specifically FRATERNITY (brotherhood) that targets social evils like untouchability and communalism."
+    },
+    {
+      "id": "trk_const_036",
+      "type": "one_word",
+      "question": "The Preamble is described as the ___ to the Constitution.",
+      "answer": "Introduction",
+      "acceptable_answers": ["Introduction", "introduction", "preface"],
+      "explanation": "The Preamble serves as the introduction to the Constitution. It summarizes the source, nature of state, and objectives.",
+      "trick": "Students sometimes say 'summary' or 'beginning'. The correct term from the textbook is 'introduction'."
+    },
+    {
+      "id": "trk_const_037",
+      "type": "one_word",
+      "question": "What word describes a state where the head is an elected official and not a hereditary monarch?",
+      "answer": "Republic",
+      "acceptable_answers": ["Republic", "republic"],
+      "explanation": "A Republic is a state where the head of state is elected for a fixed term, unlike a monarchy where the position is inherited.",
+      "trick": "Students often answer 'Democratic'. But 'Democratic' means government by the people through elected representatives. 'Republic' specifically means the HEAD OF STATE is elected, not hereditary."
+    },
+    {
+      "id": "trk_const_038",
+      "type": "one_word",
+      "question": "Which amendment to the Constitution added 'Socialist' and 'Secular' to the Preamble?",
+      "answer": "42nd Amendment",
+      "acceptable_answers": ["42nd Amendment", "42nd", "42nd amendment", "Forty-second Amendment"],
+      "explanation": "The 42nd Amendment of 1976 added 'Socialist' and 'Secular' to the Preamble of the Constitution.",
+      "trick": "Students may remember 1976 as the year but forget the amendment number (42nd). Both the number and year are important to remember."
+    },
+    {
+      "id": "trk_const_039",
+      "type": "one_word",
+      "question": "According to the Preamble, who is the source of authority of the Indian Constitution?",
+      "answer": "The people of India",
+      "acceptable_answers": ["The people of India", "People of India", "people", "the people", "We the people of India"],
+      "explanation": "The Preamble begins with 'We, the people of India', establishing that the ultimate source of the Constitution's authority is the people - not Parliament, not the government, and not any foreign power.",
+      "trick": "Students sometimes answer 'Parliament' or 'Constituent Assembly' or 'the government'. The correct answer is THE PEOPLE as stated in the opening words of the Preamble."
+    },
+    {
+      "id": "trk_const_040",
+      "type": "one_word",
+      "question": "What term means India is free from foreign control and can govern itself independently?",
+      "answer": "Sovereign",
+      "acceptable_answers": ["Sovereign", "sovereign", "Sovereignty"],
+      "explanation": "Sovereign means India is independent and free from any foreign control or interference. India makes its own decisions without being controlled by another country.",
+      "trick": "Students confuse 'Sovereign' with 'Democratic' or 'Republic'. Sovereign specifically means freedom from EXTERNAL/FOREIGN control. It does not mean the same as independence day - it is an ongoing characteristic of the state."
+    }
+  ]
+}

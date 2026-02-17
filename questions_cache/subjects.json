@@ -21,6 +21,12 @@
   ],
   "completed": [
     {
+      "name": "History Civics",
+      "slug": "History_Civics",
+      "icon": "🏛️",
+      "chapter_count": 3
+    },
+    {
       "name": "Tamil1",
       "slug": "Tamil1",
       "icon": "🇮🇳",

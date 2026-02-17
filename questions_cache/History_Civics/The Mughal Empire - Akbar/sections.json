@@ -1,0 +1,30 @@
+{
+  "subject": "History_Civics",
+  "chapter": "The Mughal Empire - Akbar",
+  "sections": {
+    "textbook": [
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+    ],
+    "exam": [
+      {"value": "previous_year_questions", "label": "Previous Year Questions", "icon": "📋"},
+      {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},
+      {"value": "fill_in_blanks", "label": "Fill in the Blanks", "icon": "✏️"},
+      {"value": "true_false", "label": "True or False", "icon": "✓✗"},
+      {"value": "match_the_following", "label": "Match the Following", "icon": "🔗"},
+      {"value": "short_answer", "label": "Short Answer", "icon": "📝"},
+      {"value": "long_answer", "label": "Long Answer", "icon": "📄"}
+    ],
+    "miscellaneous": [
+      {"value": "name_the_following", "label": "Name the Following", "icon": "🏷️"},
+      {"value": "assertion_reason", "label": "Assertion & Reason", "icon": "⚖️"},
+      {"value": "give_reason", "label": "Give Reason", "icon": "💡"},
+      {"value": "hots", "label": "Higher Order Thinking", "icon": "🧠"},
+      {"value": "tricky_questions", "label": "Tricky Questions", "icon": "🎯"}
+    ]
+  },
+  "section_labels": {
+    "textbook": "Textbook Questions",
+    "exam": "Practice Questions for Exam",
+    "miscellaneous": "Miscellaneous"
+  }
+}

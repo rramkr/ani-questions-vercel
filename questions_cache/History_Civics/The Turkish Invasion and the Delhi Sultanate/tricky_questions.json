@@ -1,0 +1,365 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "trk_turk_001",
+      "type": "mcq",
+      "question": "Qutbuddin Aibak died due to:",
+      "options": ["A. Falling from the stairs of his library", "B. Falling from a horse while playing polo", "C. Being assassinated by Turkish nobles", "D. Dying of illness during a military campaign"],
+      "correct_answer": "B. Falling from a horse while playing polo",
+      "explanation": "Qutbuddin Aibak died from an accidental fall from his horse while playing polo (chaugan). It was Humayun (a Mughal emperor, not from this period) who died falling from the stairs of his library.",
+      "trick": "Students often confuse Qutbuddin Aibak's death (fell from horse) with Humayun's death (fell from library stairs). Both died from accidental falls, making it easy to mix up."
+    },
+    {
+      "id": "trk_turk_002",
+      "type": "mcq",
+      "question": "Who is regarded as the 'true founder' of the Delhi Sultanate?",
+      "options": ["A. Qutbuddin Aibak", "B. Muhammad Ghori", "C. Iltutmish", "D. Ghiyasuddin Balban"],
+      "correct_answer": "C. Iltutmish",
+      "explanation": "Although Qutbuddin Aibak established the Sultanate in 1206, Iltutmish is regarded as the 'true founder' because he consolidated the empire, organized its administration with the iqta system, got recognition from the Caliph of Baghdad, and minted the first gold and silver coins.",
+      "trick": "Students instinctively pick Qutbuddin Aibak because he technically started the Sultanate. But the textbook specifically calls Iltutmish the 'true founder' because Aibak only ruled 4 years and did not fully consolidate the empire."
+    },
+    {
+      "id": "trk_turk_003",
+      "type": "mcq",
+      "question": "Iltutmish was Qutbuddin Aibak's:",
+      "options": ["A. Son", "B. Brother", "C. Son-in-law", "D. Nephew"],
+      "correct_answer": "C. Son-in-law",
+      "explanation": "Iltutmish was the son-in-law of Qutbuddin Aibak, not his son. He married Aibak's daughter.",
+      "trick": "Many students assume Iltutmish was Qutbuddin's son since he succeeded him. But he was actually his son-in-law. This is a very common exam trap."
+    },
+    {
+      "id": "trk_turk_004",
+      "type": "mcq",
+      "question": "Who won the First Battle of Tarain (1191)?",
+      "options": ["A. Muhammad Ghori", "B. Prithviraj Chauhan", "C. Jaichandra of Kanauj", "D. Qutbuddin Aibak"],
+      "correct_answer": "B. Prithviraj Chauhan",
+      "explanation": "In the First Battle of Tarain (1191), Prithviraj Chauhan won a crushing victory over Muhammad Ghori. It was in the Second Battle of Tarain (1192) that Ghori defeated Prithviraj.",
+      "trick": "Students commonly mix up the two battles. Remember: First Battle = Prithviraj won; Second Battle = Ghori won. Ghori came back for revenge the next year."
+    },
+    {
+      "id": "trk_turk_005",
+      "type": "mcq",
+      "question": "Mahmud of Ghazni's most ambitious and profitable expedition was the attack on:",
+      "options": ["A. The Jaipal kingdom of Punjab", "B. The Somnath Temple in Kathiawar", "C. The kingdom of Kanauj", "D. The city of Delhi"],
+      "correct_answer": "B. The Somnath Temple in Kathiawar",
+      "explanation": "The attack on the Somnath Temple in Kathiawar (Gujarat) was Mahmud's most ambitious and profitable expedition. Around 50,000 soldiers were killed defending the temple.",
+      "trick": "Students sometimes confuse Mahmud's various raids. While the raid on Jaipal was his first major victory in India, the Somnath raid was specifically described as the most ambitious and profitable."
+    },
+    {
+      "id": "trk_turk_006",
+      "type": "mcq",
+      "question": "After his many invasions, what territory did Mahmud of Ghazni actually annex in India?",
+      "options": ["A. All of North India", "B. Only Punjab", "C. Punjab and Gujarat", "D. He did not annex any territory"],
+      "correct_answer": "B. Only Punjab",
+      "explanation": "Despite 17 invasions, Mahmud of Ghazni only annexed Punjab. He did not want to establish an Indian empire; his invasions were primarily to loot wealth to build up Ghazni.",
+      "trick": "Students assume that 17 invasions must have resulted in a large empire. In reality, Mahmud only kept Punjab and took the wealth back to Ghazni. He was a raider, not a settler."
+    },
+    {
+      "id": "trk_turk_007",
+      "type": "mcq",
+      "question": "Who refused to help Prithviraj Chauhan in the Second Battle of Tarain?",
+      "options": ["A. Anandapal of Punjab", "B. Jaichandra of Kanauj", "C. The Solankis of Gujarat", "D. The Chandellas of Bundelkhand"],
+      "correct_answer": "B. Jaichandra of Kanauj",
+      "explanation": "Raja Jaichandra of Kanauj refused to help Prithviraj Chauhan against Ghori in the Second Battle of Tarain (1192). Ironically, just two years later, Ghori attacked Kanauj and killed Jaichandra himself.",
+      "trick": "The irony is the key here. Jaichandra thought he was safe by not helping Prithviraj, but Ghori came for him too. Students should remember that Jaichandra's refusal led to BOTH their downfalls."
+    },
+    {
+      "id": "trk_turk_008",
+      "type": "mcq",
+      "question": "Firdausi, the poet patronized by Mahmud of Ghazni, wrote:",
+      "options": ["A. Kitab-ul-Hind", "B. Shahnama", "C. Ain-i-Akbari", "D. Tarikh-i-Firoz Shahi"],
+      "correct_answer": "B. Shahnama",
+      "explanation": "Firdausi wrote the Shahnama, an epic poem. Al Beruni was the historian and mathematician, not Firdausi. Al Beruni wrote about Indian history and science.",
+      "trick": "Students confuse Firdausi (poet - Shahnama) with Al Beruni (historian/mathematician). Both were patronized by Mahmud but had very different contributions."
+    },
+    {
+      "id": "trk_turk_009",
+      "type": "mcq",
+      "question": "The Qutb Minar was started by Qutbuddin Aibak and completed by:",
+      "options": ["A. Ghiyasuddin Balban", "B. Razia Sultan", "C. Iltutmish", "D. Firoz Shah Tughlaq"],
+      "correct_answer": "C. Iltutmish",
+      "explanation": "Qutbuddin Aibak started the construction of Qutb Minar, and Iltutmish completed it. Later, Firoz Shah Tughlaq added the 5th storey, but the main completion was done by Iltutmish.",
+      "trick": "There are THREE rulers associated with Qutb Minar: Aibak (started), Iltutmish (completed), and Firoz Shah Tughlaq (added 5th storey). Students either pick Firoz Shah Tughlaq (who only added one storey) or forget Iltutmish's role entirely."
+    },
+    {
+      "id": "trk_turk_010",
+      "type": "mcq",
+      "question": "Nasiruddin Mahmud was Iltutmish's:",
+      "options": ["A. Eldest son", "B. Youngest son", "C. Grandson", "D. Son-in-law"],
+      "correct_answer": "B. Youngest son",
+      "explanation": "Nasiruddin Mahmud was the youngest son of Iltutmish. Despite being the youngest, he eventually became sultan (1246-1266) after a period of internal strife.",
+      "trick": "Students often assume the sultan must have been the eldest son. Nasiruddin was actually the youngest, and there were years of chaos between Iltutmish's death and Nasiruddin's rule."
+    },
+    {
+      "id": "trk_turk_011",
+      "type": "mcq",
+      "question": "Ghiyasuddin Balban believed in the theory of:",
+      "options": ["A. Democracy and equality", "B. Elected monarchy", "C. Divine kingship", "D. Shared governance with nobles"],
+      "correct_answer": "C. Divine kingship",
+      "explanation": "Balban believed in the theory of divine kingship - that the king is God's representative on earth. He used this to establish absolute authority, requiring nobles to kneel and touch the ground with their foreheads.",
+      "trick": "Students might think 'divine right of kings' is only a European concept. Balban applied this theory in India to crush powerful Turkish nobles and make the monarchy absolute."
+    },
+    {
+      "id": "trk_turk_012",
+      "type": "mcq",
+      "question": "Who was the first woman ruler of the Delhi Sultanate?",
+      "options": ["A. Nur Jahan", "B. Razia Sultan", "C. Mumtaz Mahal", "D. Chand Bibi"],
+      "correct_answer": "B. Razia Sultan",
+      "explanation": "Razia Sultan (1236-1239) was the first and only woman ruler of the Delhi Sultanate. Nur Jahan and Mumtaz Mahal were from the Mughal period, and Chand Bibi was from the Deccan sultanates.",
+      "trick": "Students sometimes confuse Razia with famous women from the Mughal period like Nur Jahan. Razia ruled much earlier, during the Slave Dynasty."
+    },
+    {
+      "id": "trk_turk_013",
+      "type": "mcq",
+      "question": "Before Razia became sultan, who ruled for a brief period of 7 months?",
+      "options": ["A. Nasiruddin Mahmud", "B. Ghiyasuddin Balban", "C. Rukhnuddin Firoz Shah", "D. Altunia"],
+      "correct_answer": "C. Rukhnuddin Firoz Shah",
+      "explanation": "Although Iltutmish nominated his daughter Razia as his successor, the nobles first placed Prince Rukhnuddin Firoz Shah on the throne. He ruled for only 7 months before Razia took over.",
+      "trick": "Students often think Razia immediately followed Iltutmish. In reality, there was a brief period when Rukhnuddin Firoz Shah was placed on the throne by nobles who did not want a woman ruler."
+    },
+    {
+      "id": "trk_turk_014",
+      "type": "mcq",
+      "question": "How long did the Delhi Sultanate last?",
+      "options": ["A. 200 years (1206-1406)", "B. 320 years (1206-1526)", "C. 250 years (1206-1456)", "D. 350 years (1206-1556)"],
+      "correct_answer": "B. 320 years (1206-1526)",
+      "explanation": "The Delhi Sultanate lasted 320 years, from 1206 CE (when Qutbuddin Aibak established it after Ghori's death) to 1526 CE (when it ended with the Battle of Panipat and the beginning of the Mughal Empire).",
+      "trick": "The end date 1526 is commonly confused with 1556 (the year of the Second Battle of Panipat fought by Akbar). Remember: 1526 = Delhi Sultanate ends / Mughal Empire begins."
+    },
+    {
+      "id": "trk_turk_015",
+      "type": "mcq",
+      "question": "Mahmud of Ghazni was known by two titles. Which pair is correct?",
+      "options": ["A. 'Idol breaker' and 'Patron of arts'", "B. 'Idol breaker' and 'Bandit'", "C. 'Bandit' and 'Lakhbaksh'", "D. 'Idol breaker' and 'Shadow of God'"],
+      "correct_answer": "B. 'Idol breaker' and 'Bandit'",
+      "explanation": "Mahmud of Ghazni was called 'idol breaker' because he destroyed temple idols and 'bandit' because he plundered India's wealth. 'Lakhbaksh' was the title of Qutbuddin Aibak, not Mahmud.",
+      "trick": "Students confuse titles. 'Lakhbaksh' (giver of lakhs) was Qutbuddin Aibak's title. While Mahmud was indeed a patron of arts, his two well-known titles/epithets were 'idol breaker' and 'bandit'."
+    },
+    {
+      "id": "trk_turk_016",
+      "type": "mcq",
+      "question": "Who was Anandapal?",
+      "options": ["A. Father of Jaipal who fought Mahmud", "B. Son of Jaipal who formed an alliance against Mahmud", "C. The ruler of Somnath who defended the temple", "D. A Turkish noble who rebelled against Mahmud"],
+      "correct_answer": "B. Son of Jaipal who formed an alliance against Mahmud",
+      "explanation": "Anandapal was Jaipal's son. After Jaipal was defeated and burnt himself to death, Anandapal formed an alliance of rulers against Mahmud. Women even sold their jewels to fund the war. But the alliance was still defeated.",
+      "trick": "Students often confuse the father-son relationship. Jaipal was defeated FIRST, then his son Anandapal tried to avenge him. Remember: Jaipal = father (burnt himself), Anandapal = son (formed alliance)."
+    },
+    {
+      "id": "trk_turk_017",
+      "type": "mcq",
+      "question": "The destruction of Buddhist monasteries and libraries in Bihar was carried out by:",
+      "options": ["A. Mahmud of Ghazni", "B. Muhammad Ghori", "C. Muhammad bin Bakhtiar Khilji", "D. Qutbuddin Aibak"],
+      "correct_answer": "C. Muhammad bin Bakhtiar Khilji",
+      "explanation": "Muhammad bin Bakhtiar Khilji swept across Bihar, overthrew the Sena dynasty of Bengal, and destroyed Buddhist monasteries and libraries. This is described as the 'death blow to Buddhism' in India.",
+      "trick": "Students often attribute the destruction of Buddhism to Mahmud of Ghazni (who was the famous temple destroyer) or Muhammad Ghori. It was actually Bakhtiar Khilji, a general, who devastated the Buddhist institutions."
+    },
+    {
+      "id": "trk_turk_018",
+      "type": "mcq",
+      "question": "Iltutmish saved India from the Mongol invasion of Chenghiz Khan by:",
+      "options": ["A. Defeating the Mongol army in battle", "B. Forming an alliance with Chenghiz Khan", "C. Refusing shelter to the Shah of Persia", "D. Paying a large tribute to the Mongols"],
+      "correct_answer": "C. Refusing shelter to the Shah of Persia",
+      "explanation": "When the Shah of Persia fled from Chenghiz Khan and sought shelter in India, Iltutmish wisely refused. This diplomatic move prevented the Mongols from having a reason to invade India.",
+      "trick": "Students often assume the defense was military. In reality, Iltutmish used clever diplomacy - by not sheltering Chenghiz Khan's enemy, he gave the Mongols no excuse to invade."
+    },
+    {
+      "id": "trk_turk_019",
+      "type": "mcq",
+      "question": "Ghiyasuddin Balban never left the capital to conquer new territories because:",
+      "options": ["A. He was too old and sick", "B. He feared a Mongol attack in his absence", "C. He had no interest in expansion", "D. His nobles would not allow it"],
+      "correct_answer": "B. He feared a Mongol attack in his absence",
+      "explanation": "Despite ruling for 20 years and maintaining a powerful army, Balban never left the capital to conquer new territories because he feared the Mongols would attack Delhi in his absence.",
+      "trick": "Students find it contradictory that a powerful sultan who crushed all opposition never expanded his territory. The answer lies in external threat - the Mongols were a constant danger on the frontier."
+    },
+    {
+      "id": "trk_turk_020",
+      "type": "mcq",
+      "question": "How long did Qutbuddin Aibak rule?",
+      "options": ["A. 4 years (1206-1210)", "B. 10 years (1206-1216)", "C. 20 years (1206-1226)", "D. 26 years (1210-1236)"],
+      "correct_answer": "A. 4 years (1206-1210)",
+      "explanation": "Qutbuddin Aibak ruled for only 4 years, from 1206 to 1210 CE. Despite his short reign, he built two mosques (in Delhi and Ajmer) and started the Qutb Minar. Option D (1210-1236) is actually Iltutmish's reign period.",
+      "trick": "Students often overestimate Aibak's reign because of his many achievements. They also confuse his reign dates with Iltutmish's. Remember: Aibak = short reign (4 years), Iltutmish = longer reign (26 years)."
+    },
+    {
+      "id": "trk_turk_021",
+      "type": "fill_in_blanks",
+      "question": "Mahmud of Ghazni invaded India _______ times in 25 years.",
+      "answer": "17",
+      "acceptable_answers": ["17", "seventeen"],
+      "explanation": "Mahmud invaded India exactly 17 times between 1001 and 1025 CE. This is one of the most commonly tested numbers in this chapter.",
+      "trick": "Students frequently write 15 or 20 instead of 17. The number 17 must be memorized precisely as it appears in almost every exam."
+    },
+    {
+      "id": "trk_turk_022",
+      "type": "fill_in_blanks",
+      "question": "Muhammad Ghori was the ruler of _______, while Mahmud was the ruler of Ghazni.",
+      "answer": "Ghor",
+      "acceptable_answers": ["Ghor"],
+      "explanation": "Muhammad Ghori came from Ghor and Mahmud came from Ghazni. Both were in present-day Afghanistan but they were different kingdoms.",
+      "trick": "Students confuse Ghazni and Ghor because the names sound similar. A helpful mnemonic: Muhammad of Ghor (both start with different letters but Ghor matches Ghori)."
+    },
+    {
+      "id": "trk_turk_023",
+      "type": "fill_in_blanks",
+      "question": "Qutbuddin Aibak was known as _______, which means 'giver of lakhs'.",
+      "answer": "Lakhbaksh",
+      "acceptable_answers": ["Lakhbaksh", "Lakh Baksh", "Lakh-baksh"],
+      "explanation": "Qutbuddin Aibak earned the title 'Lakhbaksh' (giver of lakhs) for his exceptional generosity.",
+      "trick": "Students sometimes attribute this title to Mahmud of Ghazni (who looted lakhs) or to Iltutmish. Remember: Aibak GAVE lakhs (Lakhbaksh), Mahmud TOOK lakhs."
+    },
+    {
+      "id": "trk_turk_024",
+      "type": "fill_in_blanks",
+      "question": "Iltutmish divided the empire into provinces called _______, administered by iqtadars.",
+      "answer": "iqtas",
+      "acceptable_answers": ["iqtas", "Iqtas", "iqta"],
+      "explanation": "Iltutmish introduced the iqta system, dividing the empire into provinces called iqtas, each administered by an iqtadar.",
+      "trick": "Students sometimes confuse 'iqtas' with 'subas' (which was the Mughal term for provinces introduced by Akbar). For the Delhi Sultanate period, the correct term is 'iqtas'."
+    },
+    {
+      "id": "trk_turk_025",
+      "type": "fill_in_blanks",
+      "question": "The defeat of Prithviraj Chauhan in the Second Battle of Tarain marked the end of _______ rule in North India.",
+      "answer": "Rajput",
+      "acceptable_answers": ["Rajput", "rajput", "Hindu Rajput"],
+      "explanation": "The defeat of Prithviraj Chauhan in 1192 CE marked the end of Rajput rule in North India and opened the way for Turkish/Muslim rule.",
+      "trick": "Students sometimes write 'Hindu' or 'Indian' instead of specifically 'Rajput'. The textbook specifically mentions the end of Rajput rule, as the Rajputs were the dominant power in North India at the time."
+    },
+    {
+      "id": "trk_turk_026",
+      "type": "fill_in_blanks",
+      "question": "After Jaipal was defeated by Mahmud of Ghazni and forced to pay tribute, Jaipal _______ himself to death.",
+      "answer": "burnt",
+      "acceptable_answers": ["burnt", "burned", "immolated"],
+      "explanation": "Jaipal could not bear the humiliation of defeat and burnt himself to death (self-immolation). His son Anandapal then continued the resistance against Mahmud.",
+      "trick": "Students sometimes confuse what happened to Jaipal (burnt himself) with what happened to Prithviraj (defeated and captured). Jaipal chose to die rather than live with the dishonor."
+    },
+    {
+      "id": "trk_turk_027",
+      "type": "fill_in_blanks",
+      "question": "The 5th storey of the Qutb Minar was added by _______.",
+      "answer": "Firoz Shah Tughlaq",
+      "acceptable_answers": ["Firoz Shah Tughlaq", "Firoz Shah", "Firuz Shah Tughlaq"],
+      "explanation": "Three rulers are associated with Qutb Minar: Qutbuddin Aibak started it, Iltutmish completed it, and Firoz Shah Tughlaq added the 5th storey.",
+      "trick": "This is a three-part fact that students often jumble. Firoz Shah Tughlaq is from the Tughlaq dynasty (much later), but he specifically added only the 5th storey - he did not complete the Minar."
+    },
+    {
+      "id": "trk_turk_028",
+      "type": "fill_in_blanks",
+      "question": "Iltutmish was the first sultan to mint _______ and silver coins.",
+      "answer": "gold",
+      "acceptable_answers": ["gold"],
+      "explanation": "Iltutmish was the first ruler of the Delhi Sultanate to mint gold and silver coins, which was an important step in establishing economic authority.",
+      "trick": "Students sometimes write 'copper' instead of 'gold'. The key pair is gold AND silver. Minting coins was a symbol of sovereignty and Iltutmish was the first Delhi Sultan to do this."
+    },
+    {
+      "id": "trk_turk_029",
+      "type": "fill_in_blanks",
+      "question": "Razia Sultan married _______, who was one of the leaders of the revolt against her.",
+      "answer": "Altunia",
+      "acceptable_answers": ["Altunia"],
+      "explanation": "In a surprising move, Razia married Altunia, who was one of the provincial governors who revolted against her. Despite this alliance, both were killed in 1240 CE.",
+      "trick": "This is a surprising fact that students sometimes miss. Razia married her enemy to try to save her position, but the strategy failed and both were killed."
+    },
+    {
+      "id": "trk_turk_030",
+      "type": "fill_in_blanks",
+      "question": "The _______ of Baghdad recognized Iltutmish as the sovereign ruler of India.",
+      "answer": "Caliph",
+      "acceptable_answers": ["Caliph", "caliph", "Khalifa"],
+      "explanation": "The Caliph of Baghdad recognized Iltutmish as the sovereign ruler of India, giving his rule religious and political legitimacy. This is one reason Iltutmish is called the 'true founder' of the Delhi Sultanate.",
+      "trick": "Students sometimes write 'Sultan' or 'Emperor' instead of 'Caliph'. The Caliph was the supreme religious authority of the Islamic world based in Baghdad."
+    },
+    {
+      "id": "trk_turk_031",
+      "type": "one_word",
+      "question": "Name the epic poem written by Firdausi under the patronage of Mahmud of Ghazni.",
+      "answer": "Shahnama",
+      "acceptable_answers": ["Shahnama", "Shah Nama", "Shahnameh", "Shah-nama"],
+      "explanation": "Firdausi wrote the Shahnama (Book of Kings), an epic poem in Persian, under the patronage of Mahmud of Ghazni.",
+      "trick": "Students sometimes attribute Shahnama to Al Beruni (who was the historian/mathematician). Remember: Firdausi = poet = Shahnama; Al Beruni = historian and mathematician."
+    },
+    {
+      "id": "trk_turk_032",
+      "type": "one_word",
+      "question": "Name the Rajput king of Kanauj who refused to help Prithviraj Chauhan against Muhammad Ghori.",
+      "answer": "Jaichandra",
+      "acceptable_answers": ["Jaichandra", "Jaichand", "Raja Jaichandra", "Jayachandra"],
+      "explanation": "Raja Jaichandra of Kanauj refused to help Prithviraj, leading to Prithviraj's defeat. Ironically, Ghori attacked and killed Jaichandra just two years later.",
+      "trick": "Students confuse Jaichandra (Kanauj) with Jaipal (Punjab). Jaipal fought Mahmud of Ghazni; Jaichandra was the one who betrayed Prithviraj against Ghori."
+    },
+    {
+      "id": "trk_turk_033",
+      "type": "one_word",
+      "question": "Name the general whom Muhammad Ghori appointed as his viceroy in India.",
+      "answer": "Qutbuddin Aibak",
+      "acceptable_answers": ["Qutbuddin Aibak", "Qutbuddin", "Aibak", "Qutb-ud-din Aibak"],
+      "explanation": "Muhammad Ghori appointed Qutbuddin Aibak as his viceroy in India. After Ghori's death in 1206, Aibak became the first sultan of the Delhi Sultanate.",
+      "trick": "Students sometimes write Bakhtiar Khilji (who conquered Bihar and Bengal) instead of Qutbuddin Aibak. Aibak was the viceroy of ALL of Ghori's Indian possessions."
+    },
+    {
+      "id": "trk_turk_034",
+      "type": "one_word",
+      "question": "Name the famous temple in Kathiawar that Mahmud of Ghazni attacked in his most profitable expedition.",
+      "answer": "Somnath",
+      "acceptable_answers": ["Somnath", "Somnath Temple", "Somanath"],
+      "explanation": "The Somnath Temple in Kathiawar (Gujarat) was the target of Mahmud's most ambitious and profitable expedition. About 50,000 soldiers were killed defending it.",
+      "trick": "Students sometimes confuse Somnath with other famous temples. Remember: Somnath = Kathiawar (Gujarat) = Mahmud's biggest raid."
+    },
+    {
+      "id": "trk_turk_035",
+      "type": "one_word",
+      "question": "Name the governor of Bengal who revolted against Balban and was personally hunted down by the 70-year-old sultan.",
+      "answer": "Tughril Khan",
+      "acceptable_answers": ["Tughril Khan", "Tughril", "Tugril Khan"],
+      "explanation": "Tughril Khan, the governor of Bengal, revolted against Balban. Despite being 70 years old, Balban personally marched to Bengal and had Tughril Khan killed.",
+      "trick": "Students sometimes confuse Tughril Khan with the Tughlaq dynasty (which came later). Tughril Khan was a rebellious governor, not a dynasty founder."
+    },
+    {
+      "id": "trk_turk_036",
+      "type": "one_word",
+      "question": "What term describes Qutbuddin Aibak's rise from being a slave to a general, achieved entirely on the basis of his abilities?",
+      "answer": "Merit",
+      "acceptable_answers": ["merit", "Merit", "his merit"],
+      "explanation": "Qutbuddin Aibak was a former slave who rose to the position of general purely by merit - his abilities and talent, not his birth or family connections.",
+      "trick": "Students might write 'loyalty' or 'bravery' but the textbook specifically uses the word 'merit' to describe how Aibak rose from slave to general."
+    },
+    {
+      "id": "trk_turk_037",
+      "type": "one_word",
+      "question": "In which year did Muhammad Ghori die, leading to the establishment of the Delhi Sultanate?",
+      "answer": "1206",
+      "acceptable_answers": ["1206", "1206 CE"],
+      "explanation": "Muhammad Ghori died in 1206 CE without any heirs. This led to Qutbuddin Aibak taking control and establishing the Delhi Sultanate.",
+      "trick": "Students confuse 1206 (Ghori's death / Sultanate begins) with 1192 (Second Battle of Tarain). The Sultanate did not begin immediately after Tarain; there was a 14-year gap."
+    },
+    {
+      "id": "trk_turk_038",
+      "type": "one_word",
+      "question": "Name the dynasty that was overthrown by Muhammad bin Bakhtiar Khilji when he conquered Bengal.",
+      "answer": "Sena",
+      "acceptable_answers": ["Sena", "Sena dynasty", "the Sena dynasty"],
+      "explanation": "Muhammad bin Bakhtiar Khilji overthrew the Sena dynasty of Bengal. He also destroyed Buddhist monasteries and libraries, dealing a death blow to Buddhism in India.",
+      "trick": "Students often forget the name 'Sena dynasty' and instead focus only on the destruction of Buddhism. The Sena dynasty was the ruling Hindu dynasty of Bengal at the time."
+    },
+    {
+      "id": "trk_turk_039",
+      "type": "one_word",
+      "question": "Who nominated Razia as his successor to the throne of Delhi?",
+      "answer": "Iltutmish",
+      "acceptable_answers": ["Iltutmish", "Sultan Iltutmish"],
+      "explanation": "Iltutmish nominated his daughter Razia as his successor, bypassing his sons. However, the nobles first placed Rukhnuddin Firoz Shah on the throne before Razia eventually took over.",
+      "trick": "Students sometimes think Razia seized power on her own. In fact, she was specifically nominated by her father Iltutmish, showing his confidence in her abilities over his sons."
+    },
+    {
+      "id": "trk_turk_040",
+      "type": "one_word",
+      "question": "For how many years was India free from foreign attacks after the death of Mahmud of Ghazni?",
+      "answer": "150",
+      "acceptable_answers": ["150", "150 years", "one hundred and fifty"],
+      "explanation": "After Mahmud of Ghazni's death, his empire disintegrated and India was free from foreign attacks for about 150 years, until Muhammad Ghori decided to invade.",
+      "trick": "Students often don't remember this specific number. The 150-year gap between Mahmud's death and Ghori's invasions is an important timeline fact that appears in exams."
+    }
+  ]
+}

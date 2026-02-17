@@ -1,0 +1,180 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "fib001",
+      "question": "The Abbasid Caliphate declined by the end of the _____ century.",
+      "answer": "9th",
+      "explanation": "The Abbasid Caliphate declined by the end of the 9th century and disintegrated into several states ruled by the Turks.",
+      "source_section": "The Turkish Invasion"
+    },
+    {
+      "id": "fib002",
+      "question": "The two important Turkish states that emerged after the decline of the Abbasid Caliphate were _____ and Ghor.",
+      "answer": "Ghazni",
+      "explanation": "After the decline of the Abbasid Caliphate, two important states that emerged were Ghazni and Ghor.",
+      "source_section": "The Turkish Invasion"
+    },
+    {
+      "id": "fib003",
+      "question": "Mahmud of Ghazni invaded India _____ times in 25 years.",
+      "answer": "17",
+      "explanation": "Mahmud of Ghazni invaded India 17 times between 1001 and 1025 CE.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "fib004",
+      "question": "Mahmud of Ghazni's invasions of India took place from 1001 to _____ CE.",
+      "answer": "1025",
+      "explanation": "Mahmud of Ghazni invaded India 17 times over a period of 25 years from 1001 to 1025 CE.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "fib005",
+      "question": "_____ was the ruler of Punjab who was defeated by Mahmud of Ghazni and burnt himself to death.",
+      "answer": "Jaipal",
+      "explanation": "Jaipal, the ruler of Punjab, was defeated by Mahmud of Ghazni and burnt himself to death in shame.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "fib006",
+      "question": "Anandapal, who formed an alliance against Mahmud of Ghazni, was the son of _____.",
+      "answer": "Jaipal",
+      "explanation": "Anandapal was Jaipal's son. He formed an alliance with other rulers to fight Mahmud but was defeated.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "fib007",
+      "question": "Mahmud of Ghazni's most famous raid was on the _____ Temple in Kathiawar.",
+      "answer": "Somnath",
+      "explanation": "The most famous of Mahmud's attacks on temple towns was the raid on the Somnath Temple in Kathiawar, where about 50,000 soldiers died defending it.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "fib008",
+      "question": "About _____ soldiers died defending the Somnath Temple against Mahmud of Ghazni.",
+      "answer": "50,000",
+      "explanation": "About 50,000 soldiers died defending the Somnath Temple when Mahmud of Ghazni attacked it.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "fib009",
+      "question": "_____ was the only Indian province that Mahmud of Ghazni annexed.",
+      "answer": "Punjab",
+      "explanation": "Despite 17 invasions, Punjab was the only Indian province that Mahmud of Ghazni actually annexed to his kingdom.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "fib010",
+      "question": "Mahmud of Ghazni was known as the '_____' and was also a patron of art and learning.",
+      "answer": "idol breaker",
+      "explanation": "Mahmud of Ghazni was known as the 'idol breaker' because of his destruction of Hindu temples, but he was also a patron of art and learning.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "fib011",
+      "question": "Firdausi, who wrote the _____, was patronized by Mahmud of Ghazni.",
+      "answer": "Shahnama",
+      "explanation": "Mahmud of Ghazni patronized Firdausi, who wrote the famous Shahnama, a great Persian epic.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "fib012",
+      "question": "Muhammad Ghori conquered India towards the end of the _____ century.",
+      "answer": "12th",
+      "explanation": "Muhammad Ghori, the ruler of Ghor, conquered India towards the end of the 12th century.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "fib013",
+      "question": "The First Battle of Tarain was fought in the year _____.",
+      "answer": "1191",
+      "explanation": "The First Battle of Tarain took place in 1191, in which Prithviraj Chauhan defeated Muhammad Ghori.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "fib014",
+      "question": "In the Second Battle of Tarain (1192), Muhammad Ghori defeated _____.",
+      "answer": "Prithviraj Chauhan",
+      "explanation": "Muhammad Ghori defeated Prithviraj Chauhan in the Second Battle of Tarain in 1192, ending Rajput rule.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "fib015",
+      "question": "Raja _____ of Kanauj refused to help Prithviraj Chauhan against Muhammad Ghori.",
+      "answer": "Jaichandra",
+      "explanation": "Raja Jaichandra of Kanauj refused to help Prithviraj Chauhan, which contributed to his defeat in the Second Battle of Tarain.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "fib016",
+      "question": "Muhammad Ghori appointed _____ as his viceroy in India.",
+      "answer": "Qutbuddin Aibak",
+      "explanation": "Muhammad Ghori appointed Qutbuddin Aibak as his viceroy to administer his Indian territories.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "fib017",
+      "question": "Muhammad bin Bakhtiar Khilji destroyed Buddhist monasteries and libraries in _____ and overthrew the Sena dynasty of Bengal.",
+      "answer": "Bihar",
+      "explanation": "Muhammad bin Bakhtiar Khilji destroyed Buddhist monasteries and libraries in Bihar and also overthrew the Sena dynasty of Bengal.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "fib018",
+      "question": "The Delhi Sultanate lasted from 1206 to _____ CE.",
+      "answer": "1526",
+      "explanation": "The Delhi Sultanate lasted from 1206 to 1526 CE, and its rulers were called sultans.",
+      "source_section": "The Delhi Sultanate"
+    },
+    {
+      "id": "fib019",
+      "question": "Qutbuddin Aibak, who ruled from 1206 to 1210, was a former _____ and was called 'Lakhbaksh'.",
+      "answer": "slave",
+      "explanation": "Qutbuddin Aibak was a former slave who became the first sultan of the Delhi Sultanate. He was called 'Lakhbaksh' for his generosity.",
+      "source_section": "Qutbuddin Aibak"
+    },
+    {
+      "id": "fib020",
+      "question": "_____ is considered the true founder of the Delhi Sultanate and was the son-in-law of Qutbuddin Aibak.",
+      "answer": "Iltutmish",
+      "explanation": "Iltutmish (1210-1236) was the son-in-law of Qutbuddin Aibak and is considered the true founder of the Delhi Sultanate.",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "fib021",
+      "question": "Iltutmish saved India from the Mongol invasion by refusing shelter to the Shah of _____ .",
+      "answer": "Persia",
+      "explanation": "Iltutmish wisely refused to give shelter to the Shah of Persia, thereby saving India from a possible invasion by the Mongols under Chenghiz Khan.",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "fib022",
+      "question": "Iltutmish was recognized as the rightful ruler of Delhi by the Caliph of _____.",
+      "answer": "Baghdad",
+      "explanation": "Iltutmish received recognition from the Caliph of Baghdad, which gave his rule religious legitimacy.",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "fib023",
+      "question": "The Qutb Minar was started by Qutbuddin Aibak and completed by _____.",
+      "answer": "Iltutmish",
+      "explanation": "Qutbuddin Aibak started the construction of the Qutb Minar, and it was completed by his successor Iltutmish.",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "fib024",
+      "question": "Razia Sultan ruled the Delhi Sultanate from 1236 to _____ and was killed in 1240.",
+      "answer": "1239",
+      "explanation": "Razia Sultan, daughter of Iltutmish, ruled from 1236 to 1239. She married Altunia but was killed in 1240.",
+      "source_section": "Razia Sultan"
+    },
+    {
+      "id": "fib025",
+      "question": "Ghiyasuddin Balban, who ruled from 1266 to 1286, believed in the theory of _____ kingship.",
+      "answer": "divine",
+      "explanation": "Ghiyasuddin Balban believed in the theory of divine kingship. He never smiled and made the monarchy absolute in authority.",
+      "source_section": "Ghiyasuddin Balban"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "mcq001",
+      "question": "When did India gain independence from British rule?",
+      "options": ["A. 26 January 1950", "B. 15 August 1947", "C. 9 December 1946", "D. 26 November 1949"],
+      "correct_answer": "B. 15 August 1947",
+      "explanation": "India became independent on 15 August 1947 from British rule.",
+      "source_section": "Introduction"
+    },
+    {
+      "id": "mcq002",
+      "question": "Who was the Chairman of the Constituent Assembly?",
+      "options": ["A. Dr B.R. Ambedkar", "B. Maulana Azad", "C. Dr Rajendra Prasad", "D. Sarojini Naidu"],
+      "correct_answer": "C. Dr Rajendra Prasad",
+      "explanation": "Dr Rajendra Prasad was elected as the Chairman of the Constituent Assembly.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "mcq003",
+      "question": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": ["A. Dr Rajendra Prasad", "B. Mahatma Gandhi", "C. Jawaharlal Nehru", "D. Dr B.R. Ambedkar"],
+      "correct_answer": "D. Dr B.R. Ambedkar",
+      "explanation": "Dr B.R. Ambedkar was the Chairman of the Drafting Committee and is known as the 'Father of the Indian Constitution'.",
+      "source_section": "The Drafting Committee"
+    },
+    {
+      "id": "mcq004",
+      "question": "When did the Constituent Assembly hold its first meeting?",
+      "options": ["A. 15 August 1947", "B. 26 January 1950", "C. 9 December 1946", "D. 26 November 1949"],
+      "correct_answer": "C. 9 December 1946",
+      "explanation": "The Constituent Assembly held its first meeting on 9 December 1946.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "mcq005",
+      "question": "How long did it take to frame the Indian Constitution?",
+      "options": ["A. 2 years, 11 months and 18 days", "B. 3 years, 2 months and 10 days", "C. 1 year, 6 months and 5 days", "D. 4 years and 3 months"],
+      "correct_answer": "A. 2 years, 11 months and 18 days",
+      "explanation": "The Constituent Assembly took 2 years, 11 months and 18 days to frame the Constitution.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "mcq006",
+      "question": "When was the Constitution of India passed by the Constituent Assembly?",
+      "options": ["A. 15 August 1947", "B. 9 December 1946", "C. 26 November 1949", "D. 26 January 1950"],
+      "correct_answer": "C. 26 November 1949",
+      "explanation": "The Constitution was passed by the Constituent Assembly on 26 November 1949.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "mcq007",
+      "question": "When did the Constitution of India come into force?",
+      "options": ["A. 26 November 1949", "B. 15 August 1947", "C. 26 January 1950", "D. 9 December 1946"],
+      "correct_answer": "C. 26 January 1950",
+      "explanation": "The Constitution came into force on 26 January 1950, which is celebrated as Republic Day.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "mcq008",
+      "question": "What does 'Sovereign' mean in the Preamble of the Indian Constitution?",
+      "options": ["A. Fair distribution of wealth", "B. No official religion", "C. Independent and free from foreign control", "D. Government by elected representatives"],
+      "correct_answer": "C. Independent and free from foreign control",
+      "explanation": "Sovereign means India is independent and free from foreign control. No external power can dictate India's policies.",
+      "source_section": "The Preamble - Sovereign"
+    },
+    {
+      "id": "mcq009",
+      "question": "The words 'Socialist' and 'Secular' were added to the Preamble by which amendment?",
+      "options": ["A. 44th Amendment", "B. 1st Amendment", "C. 42nd Amendment", "D. 52nd Amendment"],
+      "correct_answer": "C. 42nd Amendment",
+      "explanation": "The words 'Socialist' and 'Secular' were added to the Preamble by the 42nd Amendment in 1976.",
+      "source_section": "The Preamble - Socialist and Secular"
+    },
+    {
+      "id": "mcq010",
+      "question": "In which year were the words 'Socialist' and 'Secular' added to the Preamble?",
+      "options": ["A. 1950", "B. 1976", "C. 1947", "D. 1949"],
+      "correct_answer": "B. 1976",
+      "explanation": "The words 'Socialist' and 'Secular' were added to the Preamble in 1976 through the 42nd Amendment.",
+      "source_section": "The Preamble - Socialist and Secular"
+    },
+    {
+      "id": "mcq011",
+      "question": "What does 'Socialist' mean in the context of the Indian Constitution?",
+      "options": ["A. Government by elected representatives", "B. No official religion", "C. Fair distribution of wealth", "D. Elected head of state"],
+      "correct_answer": "C. Fair distribution of wealth",
+      "explanation": "Socialist means the state works towards fair distribution of wealth among all citizens, reducing inequality.",
+      "source_section": "The Preamble - Socialist"
+    },
+    {
+      "id": "mcq012",
+      "question": "What does 'Secular' mean in the context of the Indian Constitution?",
+      "options": ["A. India has Hinduism as its official religion", "B. India has no official religion and does not discriminate on the basis of religion", "C. India is free from foreign control", "D. India has a hereditary head of state"],
+      "correct_answer": "B. India has no official religion and does not discriminate on the basis of religion",
+      "explanation": "Secular means India has no official state religion and the government does not discriminate against any citizen on the basis of religion.",
+      "source_section": "The Preamble - Secular"
+    },
+    {
+      "id": "mcq013",
+      "question": "What does 'Democratic' mean in the Preamble?",
+      "options": ["A. Elected head of state", "B. No official religion", "C. Government of the people, by the people and for the people through elected representatives", "D. Independent and free from foreign control"],
+      "correct_answer": "C. Government of the people, by the people and for the people through elected representatives",
+      "explanation": "Democratic means the government is of the people, by the people and for the people. Citizens elect their representatives to govern.",
+      "source_section": "The Preamble - Democratic"
+    },
+    {
+      "id": "mcq014",
+      "question": "What does 'Republic' mean in the context of the Indian Constitution?",
+      "options": ["A. India has a king as head of state", "B. The head of state is elected, not hereditary", "C. Fair distribution of wealth", "D. India has no official religion"],
+      "correct_answer": "B. The head of state is elected, not hereditary",
+      "explanation": "Republic means the head of the state (President) is elected and the position is not hereditary like a monarchy.",
+      "source_section": "The Preamble - Republic"
+    },
+    {
+      "id": "mcq015",
+      "question": "For how many years is the President of India elected?",
+      "options": ["A. 4 years", "B. 6 years", "C. 5 years", "D. 7 years"],
+      "correct_answer": "C. 5 years",
+      "explanation": "The President of India is elected for a term of 5 years. The position is not hereditary.",
+      "source_section": "The Preamble - Republic"
+    },
+    {
+      "id": "mcq016",
+      "question": "According to the Preamble, what is the source of authority of the Constitution?",
+      "options": ["A. The President of India", "B. The British Parliament", "C. We, the people of India", "D. The Constituent Assembly"],
+      "correct_answer": "C. We, the people of India",
+      "explanation": "The Preamble begins with 'We, the people of India', indicating that the ultimate source of authority is the people of India.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "mcq017",
+      "question": "Which of the following is NOT an objective mentioned in the Preamble?",
+      "options": ["A. Justice", "B. Liberty", "C. Prosperity", "D. Fraternity"],
+      "correct_answer": "C. Prosperity",
+      "explanation": "The four objectives mentioned in the Preamble are Justice, Liberty, Equality and Fraternity. Prosperity is not one of them.",
+      "source_section": "Objectives of the Preamble"
+    },
+    {
+      "id": "mcq018",
+      "question": "What does 'Justice' mean in the Preamble?",
+      "options": ["A. Freedom of speech", "B. All citizens are equal in the eyes of law", "C. Brotherhood among citizens", "D. No discrimination based on religion"],
+      "correct_answer": "B. All citizens are equal in the eyes of law",
+      "explanation": "Justice means all citizens are equal in the eyes of law regardless of their status, caste, or religion.",
+      "source_section": "Objectives - Justice"
+    },
+    {
+      "id": "mcq019",
+      "question": "What does 'Liberty' in the Preamble guarantee?",
+      "options": ["A. Fair distribution of wealth", "B. Brotherhood and unity", "C. Fundamental rights and freedom of thought, expression, belief and worship", "D. Elected head of state"],
+      "correct_answer": "C. Fundamental rights and freedom of thought, expression, belief and worship",
+      "explanation": "Liberty ensures that citizens have fundamental rights and freedoms including freedom of thought, expression, belief, faith and worship.",
+      "source_section": "Objectives - Liberty"
+    },
+    {
+      "id": "mcq020",
+      "question": "What does 'Fraternity' mean in the Preamble?",
+      "options": ["A. Freedom of worship", "B. Equal distribution of wealth", "C. Brotherhood among citizens, removing social barriers", "D. The right to elect representatives"],
+      "correct_answer": "C. Brotherhood among citizens, removing social barriers",
+      "explanation": "Fraternity means a spirit of brotherhood among all citizens of India, aimed at removing social barriers and promoting unity.",
+      "source_section": "Objectives - Fraternity"
+    },
+    {
+      "id": "mcq021",
+      "question": "India is described in the Preamble as a:",
+      "options": ["A. Sovereign Democratic Republic", "B. Sovereign Socialist Secular Democratic Republic", "C. Socialist Secular Democratic Republic", "D. Sovereign Socialist Democratic Republic"],
+      "correct_answer": "B. Sovereign Socialist Secular Democratic Republic",
+      "explanation": "The Preamble describes India as a Sovereign Socialist Secular Democratic Republic.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "mcq022",
+      "question": "What is a Constitution?",
+      "options": ["A. A list of fundamental duties", "B. A body of fundamental rules and regulations", "C. A collection of laws passed by Parliament", "D. A document listing the rights of the President"],
+      "correct_answer": "B. A body of fundamental rules and regulations",
+      "explanation": "A Constitution is a body of fundamental rules and regulations according to which a country is governed.",
+      "source_section": "Introduction"
+    },
+    {
+      "id": "mcq023",
+      "question": "What is the Preamble?",
+      "options": ["A. The last section of the Constitution", "B. The introduction to the Constitution", "C. A list of fundamental rights", "D. A collection of amendments"],
+      "correct_answer": "B. The introduction to the Constitution",
+      "explanation": "The Preamble is the introduction to the Constitution. It outlines the ideals, objectives and philosophy of the Constitution.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "mcq024",
+      "question": "Where is the original copy of the Indian Constitution kept?",
+      "options": ["A. In the Rashtrapati Bhavan", "B. In a helium-filled case in the Library of Parliament", "C. In the National Museum", "D. In the Supreme Court"],
+      "correct_answer": "B. In a helium-filled case in the Library of Parliament",
+      "explanation": "The original handwritten copy of the Constitution is preserved in a helium-filled case in the Library of Parliament to protect it from damage.",
+      "source_section": "The Constitution"
+    },
+    {
+      "id": "mcq025",
+      "question": "Who among the following was a member of the Constituent Assembly?",
+      "options": ["A. Sarojini Naidu", "B. Subhas Chandra Bose", "C. Bhagat Singh", "D. Bal Gangadhar Tilak"],
+      "correct_answer": "A. Sarojini Naidu",
+      "explanation": "Sarojini Naidu was one of the prominent members of the Constituent Assembly, along with Dr B.R. Ambedkar, Maulana Azad, and others.",
+      "source_section": "The Constituent Assembly"
+    }
+  ]
+}

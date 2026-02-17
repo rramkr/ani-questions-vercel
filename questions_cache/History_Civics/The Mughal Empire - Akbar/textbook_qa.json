@@ -1,0 +1,323 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "exercise": "A",
+      "question": "In the Second Battle of Panipat, which took place in ________, the Mughal army under the leadership of ________ defeated ________.",
+      "answer": "In the Second Battle of Panipat, which took place in 1556 CE, the Mughal army under the leadership of Bairam Khan defeated Hemu.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa002",
+      "exercise": "A",
+      "question": "Akbar held regular meetings with his senior officers in the ________ and he met his subjects in the ________.",
+      "answer": "Akbar held regular meetings with his senior officers in the Diwan-i-Khas and he met his subjects in the Diwan-i-Aam.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa003",
+      "exercise": "A",
+      "question": "The Mughal empire was divided into ________ provinces or subas which were further subdivided into ________.",
+      "answer": "The Mughal empire was divided into 15 provinces or subas which were further subdivided into sarkars/districts.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa004",
+      "exercise": "A",
+      "question": "The land revenue system introduced by Akbar was known as ________.",
+      "answer": "The land revenue system introduced by Akbar was known as Todar Mal's Bandobast.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa005",
+      "exercise": "A",
+      "question": "The minimum age of marriage during Akbar's reign was raised to ________ years for girls and ________ years for boys.",
+      "answer": "The minimum age of marriage during Akbar's reign was raised to 14 years for girls and 16 years for boys.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa006",
+      "exercise": "A",
+      "question": "Two great poets patronized by Akbar were ________ and ________.",
+      "answer": "Two great poets patronized by Akbar were Faizi and Tulsidas.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "tqa007",
+      "exercise": "B",
+      "question": "Match the following:\n1. Birbal\n2. Raja Man Singh\n3. Faizi\n4. Abul Fazl\n5. Tansen\n\nOptions:\n(a) Akbarnama\n(b) Persian poet laureate\n(c) military commander\n(d) Hindustani music\n(e) Akbar's constant companion",
+      "answer": "1. Birbal - (e) Akbar's constant companion\n2. Raja Man Singh - (c) military commander\n3. Faizi - (b) Persian poet laureate\n4. Abul Fazl - (a) Akbarnama\n5. Tansen - (d) Hindustani music",
+      "question_type": "match_the_following"
+    },
+    {
+      "id": "tqa008",
+      "exercise": "C",
+      "question": "Akbar was ________ years old when he was proclaimed emperor.\n(a) 13\n(b) 15\n(c) 17",
+      "answer": "13",
+      "question_type": "mcq_textbook",
+      "options": ["13", "15", "17"]
+    },
+    {
+      "id": "tqa009",
+      "exercise": "C",
+      "question": "________ was defeated by the Mughal forces in the Battle of Haldighati.\n(a) Rana Udai Singh\n(b) Jai Mal\n(c) Rana Pratap Singh",
+      "answer": "Rana Pratap Singh",
+      "question_type": "mcq_textbook",
+      "options": ["Rana Udai Singh", "Jai Mal", "Rana Pratap Singh"]
+    },
+    {
+      "id": "tqa010",
+      "exercise": "C",
+      "question": "In 1575 CE, Akbar built the Ibadat Khana in his new capital for discussions on ________.\n(a) politics\n(b) religion\n(c) warfare",
+      "answer": "religion",
+      "question_type": "mcq_textbook",
+      "options": ["politics", "religion", "warfare"]
+    },
+    {
+      "id": "tqa011",
+      "exercise": "C",
+      "question": "Akbar founded a new religious order which he called ________.\n(a) Din-i-Ilahi\n(b) Mahzar\n(c) Sulh-i-Kul",
+      "answer": "Din-i-Ilahi",
+      "question_type": "mcq_textbook",
+      "options": ["Din-i-Ilahi", "Mahzar", "Sulh-i-Kul"]
+    },
+    {
+      "id": "tqa012",
+      "exercise": "C",
+      "question": "The court language used in Akbar's court was ________.\n(a) Turkish\n(b) Persian\n(c) Sanskrit",
+      "answer": "Persian",
+      "question_type": "mcq_textbook",
+      "options": ["Turkish", "Persian", "Sanskrit"]
+    },
+    {
+      "id": "tqa013",
+      "exercise": "D",
+      "question": "Akbar assumed absolute power and authority at the age of 21. (True/False)",
+      "answer": "False. Akbar assumed absolute power and authority at the age of 18, when he dismissed Bairam Khan in 1560 CE.",
+      "question_type": "true_false",
+      "correct_answer": false
+    },
+    {
+      "id": "tqa014",
+      "exercise": "D",
+      "question": "Akbar held regular meetings with the senior officers in the Diwan-i-Khas. (True/False)",
+      "answer": "True.",
+      "question_type": "true_false",
+      "correct_answer": true
+    },
+    {
+      "id": "tqa015",
+      "exercise": "D",
+      "question": "In each suba, the diwan kept records of the land revenue. (True/False)",
+      "answer": "True.",
+      "question_type": "true_false",
+      "correct_answer": true
+    },
+    {
+      "id": "tqa016",
+      "exercise": "D",
+      "question": "Din-i-Ilahi was adopted by all the people in Akbar's empire. (True/False)",
+      "answer": "False. Din-i-Ilahi was not popular outside the court. Even among his courtiers, his Rajput friends Raja Man Singh and Raja Bhagwan Das refused to join the order. Birbal was the only Hindu courtier to accept it. It came to an end with Akbar's death.",
+      "question_type": "true_false",
+      "correct_answer": false
+    },
+    {
+      "id": "tqa017",
+      "exercise": "D",
+      "question": "Akbar was illiterate, but he had a passion for books. (True/False)",
+      "answer": "True. Akbar was illiterate but he had an insatiable hunger for knowledge and a passion for books. His library consisted of about 24,000 books, many of which were specially written and illustrated for the emperor by calligraphists.",
+      "question_type": "true_false",
+      "correct_answer": true
+    },
+    {
+      "id": "tqa018",
+      "exercise": "E",
+      "question": "Identify the odd one out:\n(a) Gujarat\n(b) Kashmir\n(c) Golkonda\n(d) Bengal",
+      "answer": "Golkonda. Gujarat, Kashmir and Bengal were all conquered and annexed by Akbar. Golkonda was not conquered by Akbar.",
+      "question_type": "mixed_bag"
+    },
+    {
+      "id": "tqa019",
+      "exercise": "E",
+      "question": "Read the statements below and select the correct option.\n(A) Assertion: Akbar followed a policy of friendship with the Rajputs.\n(B) Reason: Akbar wanted to build and maintain a large and stable empire.\n\n(a) (A) is true but (B) is false.\n(b) (A) and (B) are both true, but (B) is not the correct explanation for (A).\n(c) (A) and (B) contradict each other.\n(d) (A) and (B) are both true, and (B) is the correct explanation for (A).",
+      "answer": "(d) Both (A) and (B) are true, and (B) is the correct explanation for (A). Akbar realized that the support of the Rajputs was necessary to build and maintain a large and stable empire, which is why he followed a policy of friendship with them.",
+      "question_type": "mixed_bag"
+    },
+    {
+      "id": "tqa020",
+      "exercise": "E",
+      "question": "Arrange the following in chronological order:\n(a) Bengal was annexed after a two-year campaign.\n(b) Gujarat was annexed.\n(c) The Battle of Haldighati.\n(d) Akbar created the Din-i-Ilahi.",
+      "answer": "(b) Gujarat was annexed (1572 CE) --> (a) Bengal was annexed (1574-76 CE) --> (c) The Battle of Haldighati (1576 CE) --> (d) Akbar created Din-i-Ilahi (1582 CE).",
+      "question_type": "mixed_bag"
+    },
+    {
+      "id": "tqa021",
+      "exercise": "F",
+      "question": "What role did Bairam Khan play when Akbar ascended the throne?",
+      "answer": "Akbar was only 13 years old when he ascended the throne. Bairam Khan was Humayun's faithful, experienced and capable general. He became Akbar's regent and looked after the affairs of the government on his behalf. Hemu was defeated and killed by Bairam Khan in the Second Battle of Panipat. This crushed and removed the Afghan threat to Akbar's throne. Bairam Khan also conquered Gwalior, Ajmer and Jaipur.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa022",
+      "exercise": "F",
+      "question": "What is the significance of the Second Battle of Panipat (1556 CE)?",
+      "answer": "Hemu was the Chief Minister and general of Adil Shah. He occupied Delhi and Agra and declared himself as ruler. Afghan military forces were superior to Mughal forces. Panipat is a historic battlefield where 30 years earlier, Babur had defeated Ibrahim Lodi and laid the foundation of the Mughal empire. Hemu was defeated and killed by Bairam Khan in the Second Battle of Panipat. This crushed and removed the Afghan threat to Akbar's throne.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa023",
+      "exercise": "F",
+      "question": "What do you understand by the term 'mansab'?",
+      "answer": "Mansab means office or rank. A mansabdar was a holder of rank in the administration. The civil and military administration of the country was based on the mansabdari system introduced by Akbar.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa024",
+      "exercise": "F",
+      "question": "Who had the power to appoint and dismiss the mansabdars?",
+      "answer": "The emperor had the sole right to appoint, promote and dismiss all mansabdars.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa025",
+      "exercise": "F",
+      "question": "Mention any one tax abolished by Akbar as a part of his policy of religious tolerance.",
+      "answer": "Akbar abolished the jizya tax (imposed by Muslim rulers on non-Muslims) and the pilgrim tax (imposed on Hindus visiting places of pilgrimage). Abolishing these taxes was part of his policy of religious tolerance which won him the respect, affection and support of his Hindu subjects.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa026",
+      "exercise": "F",
+      "question": "What power did Akbar gain through the Mahzar?",
+      "answer": "The Mahzar gave Akbar the power to choose between the different interpretations of Islamic laws. It helped him consolidate his powers with respect to the ulemas. Akbar became the supreme and final religious authority in all matters related to Islamic laws.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "tqa027",
+      "exercise": "G",
+      "question": "Why did Akbar embark on a policy of conquest and annexation?",
+      "answer": "Akbar followed a policy of conquest and annexation because his aim was to bring the entire country under his control and establish a strong and united empire. He annexed Malwa (1561 CE), conquered Gondwana (1564 CE), conquered Gujarat (1572 CE) and annexed Bengal after a two-year campaign (1574-76 CE).",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa028",
+      "exercise": "G",
+      "question": "Why did Akbar follow a policy of friendship with the Rajputs?",
+      "answer": "Akbar realized that the Rajputs were patriotic, brave, loyal and capable warriors. He realized that the support of the Rajputs was necessary to build and maintain a large and stable empire. He treated Rajputs with honour and equality and won their respect and loyalty. He appointed Rajputs to important posts of trust and responsibility (Raja Man Singh was made military commander and viceroy). He strengthened his relationship with Rajputs through matrimonial alliances. He abolished the jizya tax and pilgrim tax. He did not annex the kingdoms of Rajput rulers after defeating them, allowing them to retain their kingdoms if they recognised Akbar as their overlord and paid regular tribute.",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa029",
+      "exercise": "G",
+      "question": "Why is the memory of Rana Pratap Singh still honoured in Rajasthan?",
+      "answer": "Rana Pratap Singh is remembered and honoured in Rajasthan for his bravery, courage and heroic lifelong struggle to remain free from Mughal control. Though he was defeated in the Battle of Haldighati (1576 CE), he escaped and continued his resistance against the Mughals throughout his life, recovering parts of his territories before his death.",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa030",
+      "exercise": "G",
+      "question": "Why did Akbar encourage the study of secular subjects?",
+      "answer": "Akbar believed in promoting religious harmony and reformed the educational system. In the past, education was mainly based on the study of religious scriptures. Akbar encouraged secular subjects such as mathematics, agriculture, logic, history and astronomy. He set up a translation department to translate Sanskrit works such as the Vedas, Mahabharata and Bhagavad Gita, as well as Arabic and Greek works into Persian. This gave the middle and upper middle classes access to common literature and an insight into various cultures.",
+      "question_type": "give_reason"
+    },
+    {
+      "id": "tqa031",
+      "exercise": "H",
+      "question": "What were some of the problems faced by Akbar when he ascended the throne of Delhi?",
+      "answer": "Akbar was only thirteen years old when he ascended the throne. The Mughal Empire was unstable and insecure, surrounded by enemies on all sides:\n\n1. Adil Shah, the nephew of Sher Shah, was determined to capture Delhi and re-establish Afghan rule. Hemu, the Chief Minister and general of Adil Shah, occupied Delhi and Agra. Hemu was defeated and killed by Bairam Khan in the Second Battle of Panipat, crushing and removing the Afghan threat to Akbar's throne.\n\n2. The Rajputs had become powerful and were waiting for an opportunity to expel the Mughals.\n\n3. Kabul was occupied by Akbar's half-brother, who was ruling as an independent king.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa032",
+      "exercise": "H",
+      "question": "Rana Udai Singh of Mewar rejected Akbar's offer of friendship and refused to submit to him. In this context, discuss: (a) Subjugation of Rana Udai Singh (b) Conflict with Rana Pratap Singh",
+      "answer": "(a) Subjugation of Rana Udai Singh:\nRana Udai Singh of Mewar, head of the Rajput clans, refused to submit to Akbar and rejected the matrimonial alliance proposal. Akbar marched against Chittor, the capital of Mewar. Rana Udai Singh fled to the hills, leaving the defence to Jai Mal, the commander of the Rajput forces. For 4 months Akbar could not capture Chittor. Resistance collapsed when Jai Mal was killed. Rajput women performed Jauhar and the Rajput warriors perished fighting. After Chittor, Akbar captured Ranthambore. By 1570 CE, practically all Rajput princes accepted Akbar as their overlord.\n\n(b) Conflict with Rana Pratap Singh:\nRana Udai Singh escaped to the hills and built a new capital, Udaipur. After the death of Rana Udai Singh, Rana Pratap Singh became the ruler of Mewar. Rana Pratap Singh continued the struggle against the Mughals. The Battle of Haldighati was fought in 1576 CE between the Mughal forces led by Raja Man Singh and Rana Pratap. Though Rana Pratap was defeated, he escaped and continued his resistance against the Mughals throughout his life. He was able to recover parts of his territories before his death, but not Chittor.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa033",
+      "exercise": "H",
+      "question": "Discuss the power and position of the emperor in the central administration.",
+      "answer": "The emperor had supreme and absolute authority in the Mughal Empire:\n\n1. In military matters, he was the commander-in-chief of the armed forces.\n2. In political and administrative matters, his word was law.\n3. He was the supreme judge on all matters of justice.\n4. His decisions on military, political, administrative and judicial matters were final.\n5. He was assisted by a council of ministers - Wazir or Diwan, Mir Bakshi, Chief Sadr, Mir Saman and Vakil.\n6. The appointment, promotion and dismissal of all officials, including commanders of the army, was the sole right of the emperor.\n7. The success of this system depended largely on the personality of the emperor and his wisdom to choose the right person for the right job.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa034",
+      "exercise": "H",
+      "question": "Who assisted the emperor in the administration of the empire? What were their responsibilities and functions?",
+      "answer": "The emperor was assisted by a council of ministers:\n\n1. The Wazir or Diwan was the head of the revenue department.\n2. The Mir Bakshi was the head of the military department and the paymaster of all mansabdars.\n3. The Chief Sadr or Qazi was the Chief Judge.\n4. The Mir Saman was the supervisor of the royal household.\n5. The Vakil or Prime Minister did not exercise effective authority. Akbar had reduced the vakil's position to that of an advisory, ceremonial head.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa035",
+      "exercise": "H",
+      "question": "Explain any five main features of the mansabdari system introduced by Akbar.",
+      "answer": "The mansabdari system was the basis of Akbar's civil and military administration. Its main features were:\n\n1. Every official in the imperial service was given a rank or mansab. The rank depended on the nature and importance of the job. The lowest rank was that of an officer in charge of ten horsemen, while the highest mansab was that of an officer maintaining 7,000 horsemen. Higher mansabs were reserved for members of the royal family.\n\n2. The mansabdars were appointed, promoted or dismissed by the emperor. The emperor had the sole right over these decisions.\n\n3. Mansabdars were given a salary in accordance with their rank. Later, they began to be paid in the form of jagirs. They were entitled to a fixed amount of revenue from the jagir as salary for themselves and their troops.\n\n4. A mansab or rank was not hereditary. After the death of the mansabdar, the jagir reverted to the king, who granted it to someone else.\n\n5. The mansabdars did not have any authority or responsibility of administering the jagir. The system of branding horses and maintaining a descriptive roll of soldiers was also adopted by Akbar.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa036",
+      "exercise": "H",
+      "question": "What measures did Akbar adopt to reorganize and strengthen the army?",
+      "answer": "Akbar adopted several measures to reorganize and strengthen the army:\n\n1. Akbar maintained a standing army. The cavalry was the most important branch of the Mughal army.\n2. The troops were mainly supplied by the mansabdars, who were required to maintain a certain number of horsemen depending on their rank.\n3. The emperor also directly recruited and maintained a battalion of loyal and trusted soldiers.\n4. He maintained a corps of royal bodyguards and armed palace guards.\n5. He maintained a large number of war elephants and a well-organized artillery.\n6. The system of branding horses and maintaining a descriptive roll of the soldiers was adopted to prevent fraud.\n7. The Mir Bakshi was the head of the military department and the paymaster of all mansabdars, ensuring proper organization of the army.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa037",
+      "exercise": "H",
+      "question": "Explain the important features of the land revenue system introduced by Todar Mal.",
+      "answer": "Todar Mal, the brilliant revenue minister, introduced a land revenue system known as Todar Mal's Bandobast. Its important features were:\n\n1. Land was surveyed and measured with a bamboo jarib joined together with iron rings instead of the hemp rope used earlier.\n2. The land was grouped into four categories depending on whether it was regularly or occasionally cultivated. It was classified further into good, middling and bad categories.\n3. The average produce and the average price over the past 10 years were calculated. The revenue was calculated on the basis of these averages. One third of the average produce was the king's share.\n4. Revenue could be paid in cash or kind, though cash was preferred.\n5. The revenue officers were instructed to treat the peasants well.\n6. Loans, which could be paid back in easy instalments, were advanced to the peasants to buy seeds, cattle and implements.\n7. If the crops failed due to drought or flood, the state granted remission of revenue.\n\nAkbar's revenue system worked successfully and the state was assured of a fixed and steady source of income.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa038",
+      "exercise": "H",
+      "question": "What policies did Akbar follow to transform the Islamic state into a secular one and unite the diverse races in the country into a single nation based on equality?",
+      "answer": "Akbar followed a policy of religious tolerance and won the respect, affection and support of his Hindu subjects. His policies included:\n\n1. Akbar abolished the jizya tax and pilgrim tax. The jizya had been imposed by Muslim rulers on non-Muslims. The pilgrim tax had been imposed on Hindus visiting places of pilgrimage.\n\n2. Hindus were allowed to build temples, celebrate festivals and worship freely. Akbar married Rajput princesses and gave them freedom to worship and celebrate festivals like Holi, Diwali etc.\n\n3. He gave high posts to talented and competent Hindus. For example: Raja Bhagwan Das, Birbal and Todar Mal.\n\n4. Akbar gave land grants to people of all religions.\n\n5. In 1575 CE, Akbar built the Ibadat Khana at Fatehpur Sikri for discussions on religious matters, inviting scholars, priests and religious leaders of all faiths.\n\n6. Through the Mahzar (1579 CE), he gained the power to choose between different interpretations of Islamic law, consolidating his authority over the ulemas.\n\n7. In 1582 CE, he founded Din-i-Ilahi, a new religious order combining ideas of major religions, promoting universal brotherhood and national unity.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa039",
+      "exercise": "H",
+      "question": "Briefly explain the features and objectives of the Din-i-Ilahi. Why did Akbar adopt this policy?",
+      "answer": "Din-i-Ilahi was a new religious order introduced by Akbar in 1582 CE. The word Din-i-Ilahi means 'divine faith'.\n\nObjectives:\n1. It was established to create a religious order acceptable to all Hindus, Muslims and other communities.\n2. It aimed to promote universal brotherhood and national unity.\n\nFeatures:\n1. It was a combination of the religious ideas of major religions.\n2. It was like a moral code of conduct.\n3. The main features were belief in one God and recognition of the emperor as God's representative on earth.\n4. There were no sacred books, no priestly classes, no places of worship and no rituals.\n5. Akbar never forced anyone to convert to his new faith.\n\nHowever, Din-i-Ilahi was not popular outside the court. Even among his courtiers, his Rajput friends Raja Man Singh and Raja Bhagwan Das refused to join. Birbal was the only Hindu courtier to accept it. The Din-i-Ilahi came to an end with Akbar's death.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa040",
+      "exercise": "H",
+      "question": "Mention the important features of Akbar's Rajput policy. Why did he adopt this policy and what were its results?",
+      "answer": "Akbar realized that the Rajputs were patriotic, brave, loyal and capable warriors. He realized that the support of the Rajputs was necessary to build and maintain a large and stable empire.\n\nImportant features of Akbar's Rajput policy:\n1. Akbar treated Rajputs with honour and equality and won their respect and loyalty.\n2. Akbar appointed Rajputs to important posts of trust and responsibility. Raja Man Singh was made military commander and viceroy of a large province.\n3. Akbar strengthened his relationship with Rajputs through matrimonial alliances. He married the daughter of the Raja of Amber (mother of Jahangir). He married several Rajput princesses. He married Prince Salim to the daughter of Raja Bhagwan Das.\n4. Akbar abolished the jizya tax and pilgrim tax.\n5. Akbar did not annex the kingdoms of Rajput rulers after defeating them. He allowed them to retain their kingdoms if they recognised Akbar as their overlord and paid regular tribute.\n\nResults:\nAll these measures helped Akbar win the loyalty and support of the Rajputs. The Rajputs formed the backbone of the strong and stable empire.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa041",
+      "exercise": "H",
+      "question": "Mention any two important social reforms introduced by Akbar.",
+      "answer": "Akbar introduced a number of social reforms to rid Indian society of some cruel practices:\n\n1. Akbar prohibited the practice of sati (self-immolation of widows). He excluded cases where sati was performed voluntarily or with the consent of the widow. He also legalized widow remarriage.\n\n2. He discouraged child marriage. The minimum age of marriage was raised to 14 years for girls and 16 years for boys. The consent of the bride and bridegroom had to be taken before a marriage was performed.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa042",
+      "exercise": "H",
+      "question": "Give an account of Akbar's cultural achievements with reference to: (a) Literature (b) Architecture",
+      "answer": "(a) Literature:\n1. Persian was the court language and the language of the upper classes.\n2. Faizi, the brother of Abul Fazl, was one of the greatest Persian poets in Akbar's court.\n3. Abul Fazl was a great historian and wrote the Akbarnama, an excellent historical work in Persian.\n4. Birbal was the Hindi Kavi Raj (poet laureate) in Akbar's court.\n5. Tulsidas, the greatest Hindi author, wrote the Ramcharitmanas during this period.\n6. Akbar was illiterate but had a passion for books. His library had about 24,000 books, specially written and illustrated for the emperor by calligraphists.\n\n(b) Architecture:\n1. Many buildings were constructed during Akbar's long and peaceful reign.\n2. Initially, the Persian architectural style was followed, as seen in Humayun's Tomb.\n3. Later, the Indian architectural style was adopted, inspired by the palaces of Hindu Rajas.\n4. Fatehpur Sikri, Akbar's new capital city, had Rajput-style buildings made of sandstone, referred to as a 'dream in stone'.\n5. Notable buildings include the Diwan-i-Khas, Panch Mahal, Jodha Bai's Palace and the Buland Darwaza.\n6. The famous Agra Fort was built in red sandstone.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "tqa043",
+      "exercise": "I",
+      "question": "Picture Study: A Mughal emperor holding discussions on religious matters in the Ibadat Khana.\n\n(a) Identify the emperor.\n(b) Which religious communities participated in these discussions?\n(c) Why did the emperor organize these assemblies?",
+      "answer": "(a) The emperor shown in the picture is Akbar.\n\n(b) The religious communities that participated in the discussions at the Ibadat Khana were:\n- Muslim clerics\n- Hindu and Sikh scholars\n- Buddhist and Jain monks\n- Parsee priests\n- Christian missionaries\nThey assembled in the Ibadat Khana and explained the religious principles and teachings of their respective religions.\n\n(c) Akbar organized these assemblies because:\n- Akbar wanted to transform the Mughal state into a secular state based on the principles of religious tolerance, universal brotherhood and political unity.\n- He organized these assemblies to discuss the religious (Ibadat) principles and teachings of their respective religions.\n- Akbar found virtue and divine truth in every religion and basic unity in different faiths.\n- He strongly believed in the principle of Sulh-i-Kul or universal peace.\n- These discussions ultimately led to the creation of Din-i-Ilahi, a new religious order which means divine faith, and was like a moral code of conduct.",
+      "question_type": "source_based"
+    },
+    {
+      "id": "tqa044",
+      "exercise": "I",
+      "question": "Read the excerpt from the Akbarnama about Bairam Khan and answer the questions.\n\n(a) What was Bairam Khan to Akbar?\n(b) What does the passage tell you about the importance of Bairam Khan in Akbar's life?",
+      "answer": "(a) Bairam Khan was Humayun's faithful, experienced and capable general. He became Akbar's regent and looked after the affairs of the government on his behalf. Hemu was defeated and killed by Bairam Khan in the Second Battle of Panipat. This crushed and removed the Afghan threat to Akbar's throne. Bairam Khan also conquered Gwalior, Ajmer and Jaipur.\n\n(b) The passage shows that Bairam Khan played an important role in guiding Akbar and strengthening the Mughal Empire during his early years. He served as regent when Akbar was only 13 years old, managing the affairs of state, defeating the Afghan threat at Panipat, and expanding Mughal territories. Without Bairam Khan's capable leadership during Akbar's formative years, the Mughal Empire might not have survived the threats it faced.",
+      "question_type": "source_based"
+    }
+  ]
+}

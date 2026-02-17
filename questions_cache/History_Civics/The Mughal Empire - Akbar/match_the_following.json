@@ -1,0 +1,70 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "column_a": ["Birbal", "Raja Man Singh", "Faizi", "Abul Fazl", "Tansen"],
+      "column_b": ["Akbar's constant companion", "Military commander", "Persian poet", "Akbarnama", "Hindustani music"],
+      "correct_matches": {
+        "Birbal": "Akbar's constant companion",
+        "Raja Man Singh": "Military commander",
+        "Faizi": "Persian poet",
+        "Abul Fazl": "Akbarnama",
+        "Tansen": "Hindustani music"
+      },
+      "source_section": "Akbar's Navratnas (Nine Gems)"
+    },
+    {
+      "id": "mtf002",
+      "column_a": ["Wazir/Diwan", "Mir Bakshi", "Chief Sadr/Qazi", "Mir Saman", "Vakil"],
+      "column_b": ["Head of revenue", "Head of military", "Chief judge", "Royal household", "Prime minister (ceremonial)"],
+      "correct_matches": {
+        "Wazir/Diwan": "Head of revenue",
+        "Mir Bakshi": "Head of military",
+        "Chief Sadr/Qazi": "Chief judge",
+        "Mir Saman": "Royal household",
+        "Vakil": "Prime minister (ceremonial)"
+      },
+      "source_section": "Central Administration"
+    },
+    {
+      "id": "mtf003",
+      "column_a": ["Malwa", "Gondwana", "Gujarat", "Bengal", "Kashmir"],
+      "column_b": ["1561 CE", "1564 CE", "1572 CE", "1574-76 CE", "1585-95 CE"],
+      "correct_matches": {
+        "Malwa": "1561 CE",
+        "Gondwana": "1564 CE",
+        "Gujarat": "1572 CE",
+        "Bengal": "1574-76 CE",
+        "Kashmir": "1585-95 CE"
+      },
+      "source_section": "Military Conquests"
+    },
+    {
+      "id": "mtf004",
+      "column_a": ["Ibadat Khana", "Mahzar", "Din-i-Ilahi", "Sulh-i-Kul", "Jizya"],
+      "column_b": ["Hall of prayer", "Supreme religious authority", "Divine faith", "Universal peace", "Poll tax on non-Muslims"],
+      "correct_matches": {
+        "Ibadat Khana": "Hall of prayer",
+        "Mahzar": "Supreme religious authority",
+        "Din-i-Ilahi": "Divine faith",
+        "Sulh-i-Kul": "Universal peace",
+        "Jizya": "Poll tax on non-Muslims"
+      },
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "mtf005",
+      "column_a": ["Fatehpur Sikri", "Agra Fort", "Akbarnama", "Ramacharitamanas", "Shahnama"],
+      "column_b": ["Dream in stone", "Red sandstone", "Abul Fazl", "Tulsidas", "Firdausi"],
+      "correct_matches": {
+        "Fatehpur Sikri": "Dream in stone",
+        "Agra Fort": "Red sandstone",
+        "Akbarnama": "Abul Fazl",
+        "Ramacharitamanas": "Tulsidas",
+        "Shahnama": "Firdausi"
+      },
+      "source_section": "Art, Architecture and Literature"
+    }
+  ]
+}

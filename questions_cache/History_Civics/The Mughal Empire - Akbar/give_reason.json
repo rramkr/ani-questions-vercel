@@ -1,0 +1,53 @@
+{
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "gr001",
+      "question": "Why did Akbar embark on a policy of conquest and annexation?",
+      "answer": "Akbar embarked on a policy of conquest and annexation to bring the entire country under his control and establish a strong united empire. He wanted to consolidate Mughal authority across India and prevent rival powers from challenging his rule.",
+      "source_section": "Akbar's Conquests"
+    },
+    {
+      "id": "gr002",
+      "question": "Why did Akbar follow a policy of friendship with the Rajputs?",
+      "answer": "Akbar followed a policy of friendship with the Rajputs because he realized that their support was necessary for building a large and stable empire. The Rajputs were patriotic, brave and loyal warriors, and winning their allegiance would strengthen his rule rather than having them as enemies.",
+      "source_section": "Rajput Policy"
+    },
+    {
+      "id": "gr003",
+      "question": "Why is the memory of Rana Pratap Singh still honoured in Rajasthan?",
+      "answer": "The memory of Rana Pratap Singh is still honoured in Rajasthan for his bravery, courage and heroic lifelong struggle to remain free from Mughal control. Despite being defeated at the Battle of Haldighati in 1576, he never surrendered and continued his resistance from the hills, recovering parts of his lost territory.",
+      "source_section": "Rana Pratap Singh"
+    },
+    {
+      "id": "gr004",
+      "question": "Why did Akbar encourage the study of secular subjects?",
+      "answer": "Akbar encouraged the study of secular subjects to promote religious harmony and a more well-rounded education. Previously, education was based almost entirely on religious scriptures. Akbar introduced the study of subjects like mathematics, agriculture, logic, history and astronomy so that students could gain practical knowledge alongside spiritual learning.",
+      "source_section": "Education Policy"
+    },
+    {
+      "id": "gr005",
+      "question": "Why did Akbar abolish the jizya and pilgrim taxes?",
+      "answer": "Akbar abolished the jizya and pilgrim taxes as part of his policy of religious tolerance. The jizya was a tax imposed only on non-Muslims and was deeply resented by the Hindus. The pilgrim tax was imposed on Hindu pilgrims visiting holy places. By abolishing both these unfair taxes, Akbar won the support and goodwill of his Hindu subjects and moved towards creating a secular state.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "gr006",
+      "question": "Why did Akbar dismiss Bairam Khan in 1560 CE?",
+      "answer": "Akbar dismissed Bairam Khan in 1560 CE because at the age of 18, he decided to take charge of the administration himself. He wanted to assume absolute power and authority over state affairs rather than continue to rule under the guidance and influence of his regent Bairam Khan.",
+      "source_section": "Bairam Khan"
+    },
+    {
+      "id": "gr007",
+      "question": "Why was Akbar's revenue system successful?",
+      "answer": "Akbar's revenue system was successful because land was carefully surveyed and measured using accurate instruments. A fair classification system divided land into categories based on cultivation and soil quality. The average produce over 10 years was used to calculate revenue, which ensured stability and fairness. Peasants were treated well, given loans for seeds and cattle, and granted remissions during droughts and floods.",
+      "source_section": "Land Revenue System"
+    },
+    {
+      "id": "gr008",
+      "question": "Why did the Din-i-Ilahi fail to become popular?",
+      "answer": "The Din-i-Ilahi failed to become popular because it was not forced on anyone, and most courtiers refused to accept it. Prominent Rajput nobles like Raja Man Singh and Raja Bhagwan Das refused to join the new faith. Birbal was the only Hindu to accept it. Without widespread support or compulsion, the Din-i-Ilahi remained confined to a small circle at court and came to an end with Akbar's death.",
+      "source_section": "Din-i-Ilahi"
+    }
+  ]
+}

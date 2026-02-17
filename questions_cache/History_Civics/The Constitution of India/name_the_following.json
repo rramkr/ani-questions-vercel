@@ -1,0 +1,77 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "ntf001",
+      "question": "The body that framed the Constitution of India.",
+      "answer": "Constituent Assembly",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "ntf002",
+      "question": "The Chairman of the Constituent Assembly.",
+      "answer": "Dr Rajendra Prasad",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "ntf003",
+      "question": "The person known as the 'Father of the Indian Constitution'.",
+      "answer": "Dr B.R. Ambedkar",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "ntf004",
+      "question": "The introduction to the Constitution.",
+      "answer": "The Preamble",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "ntf005",
+      "question": "The date on which the Constitution came into force.",
+      "answer": "26 January 1950",
+      "source_section": "Important Dates"
+    },
+    {
+      "id": "ntf006",
+      "question": "The day celebrated on 26 January every year.",
+      "answer": "Republic Day",
+      "source_section": "Important Dates"
+    },
+    {
+      "id": "ntf007",
+      "question": "The date on which the Constitution was passed by the Constituent Assembly.",
+      "answer": "26 November 1949",
+      "source_section": "Important Dates"
+    },
+    {
+      "id": "ntf008",
+      "question": "The term meaning India is independent and free from foreign control.",
+      "answer": "Sovereign",
+      "source_section": "Nature of the Indian State"
+    },
+    {
+      "id": "ntf009",
+      "question": "The term meaning no official or state religion.",
+      "answer": "Secular",
+      "source_section": "Nature of the Indian State"
+    },
+    {
+      "id": "ntf010",
+      "question": "The term added to the Preamble in 1976 meaning fair distribution of wealth.",
+      "answer": "Socialist",
+      "source_section": "Nature of the Indian State"
+    },
+    {
+      "id": "ntf011",
+      "question": "The elected head of the Indian state.",
+      "answer": "The President",
+      "source_section": "Nature of the Indian State"
+    },
+    {
+      "id": "ntf012",
+      "question": "The objective of the Constitution that promotes spirit of brotherhood.",
+      "answer": "Fraternity",
+      "source_section": "Objectives of the Constitution"
+    }
+  ]
+}

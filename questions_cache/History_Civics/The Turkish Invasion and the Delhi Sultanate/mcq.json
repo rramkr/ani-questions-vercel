@@ -1,0 +1,205 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "mcq001",
+      "question": "By the end of which century had the Abbasid Caliphate declined?",
+      "options": ["A. 8th century", "B. 9th century", "C. 10th century", "D. 11th century"],
+      "correct_answer": "B. 9th century",
+      "explanation": "The Abbasid Caliphate declined by the end of the 9th century and disintegrated into several states ruled by the Turks.",
+      "source_section": "The Turkish Invasion"
+    },
+    {
+      "id": "mcq002",
+      "question": "Which two important Turkish states emerged after the decline of the Abbasid Caliphate?",
+      "options": ["A. Baghdad and Damascus", "B. Ghazni and Ghor", "C. Lahore and Multan", "D. Kabul and Kandahar"],
+      "correct_answer": "B. Ghazni and Ghor",
+      "explanation": "After the disintegration of the Abbasid Caliphate, two important states that emerged were Ghazni and Ghor.",
+      "source_section": "The Turkish Invasion"
+    },
+    {
+      "id": "mcq003",
+      "question": "How many times did Mahmud of Ghazni invade India?",
+      "options": ["A. 12 times", "B. 15 times", "C. 17 times", "D. 20 times"],
+      "correct_answer": "C. 17 times",
+      "explanation": "Mahmud of Ghazni invaded India 17 times in a span of 25 years, from 1001 to 1025 CE.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq004",
+      "question": "Over what period did Mahmud of Ghazni carry out his invasions of India?",
+      "options": ["A. 990-1015 CE", "B. 1001-1025 CE", "C. 1010-1035 CE", "D. 1050-1075 CE"],
+      "correct_answer": "B. 1001-1025 CE",
+      "explanation": "Mahmud of Ghazni invaded India 17 times over a period of 25 years from 1001 to 1025 CE.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq005",
+      "question": "Who was the ruler of Punjab defeated by Mahmud of Ghazni?",
+      "options": ["A. Anandapal", "B. Prithviraj", "C. Jaipal", "D. Jaichandra"],
+      "correct_answer": "C. Jaipal",
+      "explanation": "Mahmud of Ghazni defeated Jaipal, the ruler of Punjab. After his defeat, Jaipal burnt himself to death.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq006",
+      "question": "What did Jaipal do after being defeated by Mahmud of Ghazni?",
+      "options": ["A. Fled to Kashmir", "B. Surrendered and paid tribute", "C. Burnt himself to death", "D. Formed an alliance with other rulers"],
+      "correct_answer": "C. Burnt himself to death",
+      "explanation": "After his defeat at the hands of Mahmud of Ghazni, Jaipal burnt himself to death rather than live in disgrace.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq007",
+      "question": "Who was Anandapal?",
+      "options": ["A. Ruler of Kanauj", "B. Son of Jaipal", "C. Commander of Mahmud's army", "D. Ruler of Gujarat"],
+      "correct_answer": "B. Son of Jaipal",
+      "explanation": "Anandapal was Jaipal's son. He formed an alliance with other rulers to fight Mahmud of Ghazni but was defeated.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq008",
+      "question": "Which famous temple did Mahmud of Ghazni attack in Kathiawar?",
+      "options": ["A. Jagannath Temple", "B. Kashi Vishwanath Temple", "C. Somnath Temple", "D. Konark Temple"],
+      "correct_answer": "C. Somnath Temple",
+      "explanation": "The most famous of Mahmud's attacks on temple towns was the raid on the Somnath Temple in Kathiawar, where about 50,000 soldiers died defending it.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq009",
+      "question": "How many soldiers died defending the Somnath Temple against Mahmud of Ghazni?",
+      "options": ["A. 10,000", "B. 25,000", "C. 50,000", "D. 100,000"],
+      "correct_answer": "C. 50,000",
+      "explanation": "About 50,000 soldiers died defending the Somnath Temple when Mahmud of Ghazni attacked it. He carried away immense treasures.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq010",
+      "question": "Which was the only Indian province that Mahmud of Ghazni annexed?",
+      "options": ["A. Gujarat", "B. Bengal", "C. Punjab", "D. Rajasthan"],
+      "correct_answer": "C. Punjab",
+      "explanation": "Despite invading India 17 times, Punjab was the only Indian province that Mahmud of Ghazni actually annexed to his kingdom.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq011",
+      "question": "Mahmud of Ghazni patronized Firdausi, who wrote which famous work?",
+      "options": ["A. Kitab-ul-Hind", "B. Shahnama", "C. Tarikh-i-Firoz Shahi", "D. Ain-i-Akbari"],
+      "correct_answer": "B. Shahnama",
+      "explanation": "Mahmud of Ghazni was a patron of art and learning. He patronized Firdausi, who wrote the famous Shahnama.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq012",
+      "question": "Al Beruni, patronized by Mahmud of Ghazni, was a famous:",
+      "options": ["A. Poet and musician", "B. Historian and mathematician", "C. Architect and sculptor", "D. General and strategist"],
+      "correct_answer": "B. Historian and mathematician",
+      "explanation": "Al Beruni was a renowned historian and mathematician who was patronized by Mahmud of Ghazni.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "mcq013",
+      "question": "When did the First Battle of Tarain take place?",
+      "options": ["A. 1189", "B. 1191", "C. 1192", "D. 1194"],
+      "correct_answer": "B. 1191",
+      "explanation": "The First Battle of Tarain took place in 1191, in which Prithviraj Chauhan defeated Muhammad Ghori.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "mcq014",
+      "question": "Who won the First Battle of Tarain (1191)?",
+      "options": ["A. Muhammad Ghori", "B. Prithviraj Chauhan", "C. Raja Jaichandra", "D. Qutbuddin Aibak"],
+      "correct_answer": "B. Prithviraj Chauhan",
+      "explanation": "Prithviraj Chauhan defeated Muhammad Ghori in the First Battle of Tarain in 1191.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "mcq015",
+      "question": "Who refused to help Prithviraj Chauhan against Muhammad Ghori in the Second Battle of Tarain?",
+      "options": ["A. Raja Bhoja of Malwa", "B. Jayachandra of Gujarat", "C. Raja Jaichandra of Kanauj", "D. The Chandellas of Bundelkhand"],
+      "correct_answer": "C. Raja Jaichandra of Kanauj",
+      "explanation": "Raja Jaichandra of Kanauj refused to help Prithviraj Chauhan, which contributed to his defeat in the Second Battle of Tarain in 1192.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "mcq016",
+      "question": "The defeat of Prithviraj Chauhan in 1192 marked the:",
+      "options": ["A. Beginning of Mughal rule", "B. End of Rajput rule and beginning of Muslim rule", "C. Start of the Maratha Empire", "D. End of the Delhi Sultanate"],
+      "correct_answer": "B. End of Rajput rule and beginning of Muslim rule",
+      "explanation": "The defeat of Prithviraj Chauhan in the Second Battle of Tarain (1192) marked the end of Rajput rule. Muslim rulers then ruled until 1858.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "mcq017",
+      "question": "Who did Muhammad Ghori appoint as his viceroy in India?",
+      "options": ["A. Iltutmish", "B. Balban", "C. Qutbuddin Aibak", "D. Bakhtiar Khilji"],
+      "correct_answer": "C. Qutbuddin Aibak",
+      "explanation": "Muhammad Ghori appointed Qutbuddin Aibak as his viceroy to look after his Indian territories.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "mcq018",
+      "question": "Muhammad bin Bakhtiar Khilji is known for destroying Buddhist monasteries and libraries in which region?",
+      "options": ["A. Punjab", "B. Gujarat", "C. Bihar", "D. Rajasthan"],
+      "correct_answer": "C. Bihar",
+      "explanation": "Muhammad bin Bakhtiar Khilji destroyed Buddhist monasteries and libraries in Bihar and also overthrew the Sena dynasty of Bengal.",
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "mcq019",
+      "question": "The Delhi Sultanate lasted from:",
+      "options": ["A. 1192-1498 CE", "B. 1206-1526 CE", "C. 1210-1556 CE", "D. 1200-1500 CE"],
+      "correct_answer": "B. 1206-1526 CE",
+      "explanation": "The Delhi Sultanate lasted from 1206 to 1526 CE. The rulers were called sultans.",
+      "source_section": "The Delhi Sultanate"
+    },
+    {
+      "id": "mcq020",
+      "question": "Qutbuddin Aibak was given the title 'Lakhbaksh' because he:",
+      "options": ["A. Conquered a lakh villages", "B. Was generous and gave away lakhs in charity", "C. Commanded a lakh soldiers", "D. Built a lakh monuments"],
+      "correct_answer": "B. Was generous and gave away lakhs in charity",
+      "explanation": "Qutbuddin Aibak was called 'Lakhbaksh' (giver of lakhs) because of his generosity in distributing wealth.",
+      "source_section": "Qutbuddin Aibak"
+    },
+    {
+      "id": "mcq021",
+      "question": "Who is considered the true founder of the Delhi Sultanate?",
+      "options": ["A. Qutbuddin Aibak", "B. Iltutmish", "C. Balban", "D. Muhammad Ghori"],
+      "correct_answer": "B. Iltutmish",
+      "explanation": "Although Qutbuddin Aibak established the dynasty, Iltutmish is considered the true founder of the Delhi Sultanate because he consolidated and organized it.",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "mcq022",
+      "question": "Which ruler of the Delhi Sultanate was the first to mint gold and silver coins?",
+      "options": ["A. Qutbuddin Aibak", "B. Razia Sultan", "C. Iltutmish", "D. Balban"],
+      "correct_answer": "C. Iltutmish",
+      "explanation": "Iltutmish was the first sultan of Delhi to mint gold and silver coins. He also completed the Qutb Minar.",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "mcq023",
+      "question": "What was unique about Razia Sultan's rule?",
+      "options": ["A. She was the first female ruler in the world", "B. She was Iltutmish's daughter who sat in open durbar and dressed like a man", "C. She defeated the Mongols", "D. She built the Qutb Minar"],
+      "correct_answer": "B. She was Iltutmish's daughter who sat in open durbar and dressed like a man",
+      "explanation": "Razia Sultan, daughter of Iltutmish, was brave, intelligent, and just. She sat in open durbar and dressed like a man. She ruled from 1236 to 1239.",
+      "source_section": "Razia Sultan"
+    },
+    {
+      "id": "mcq024",
+      "question": "Ghiyasuddin Balban believed in which concept of kingship?",
+      "options": ["A. Democratic kingship", "B. Divine kingship", "C. Constitutional monarchy", "D. Elected kingship"],
+      "correct_answer": "B. Divine kingship",
+      "explanation": "Ghiyasuddin Balban believed in the theory of divine kingship. He never smiled and made the monarchy absolute in authority.",
+      "source_section": "Ghiyasuddin Balban"
+    },
+    {
+      "id": "mcq025",
+      "question": "Which Rajput clan ruled Delhi and Ajmer?",
+      "options": ["A. Rathors", "B. Solankis", "C. Chauhans", "D. Paramaras"],
+      "correct_answer": "C. Chauhans",
+      "explanation": "The five Rajput kingdoms included the Chauhans of Delhi and Ajmer, the Rathors of Kanauj, the Solankis of Gujarat, the Paramaras of Malwa, and the Chandellas of Bundelkhand.",
+      "source_section": "Muhammad Ghori"
+    }
+  ]
+}

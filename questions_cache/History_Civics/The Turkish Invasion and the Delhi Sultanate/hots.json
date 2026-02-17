@@ -1,0 +1,80 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "hots001",
+      "question": "Do you think the history of India would have been different if Raja Jaichandra had helped Prithviraj Chauhan? Why?",
+      "context": "Evaluating historical what-ifs regarding the Second Battle of Tarain.",
+      "answer": "Yes, united Rajput forces could have been formidable. The combined armies of Kanauj and Delhi/Ajmer along with other Rajput kingdoms might have defeated Muhammad Ghori. Turkish rule in India might have been delayed or even prevented entirely. This shows the importance of unity against external threats. However, other factors such as Ghori's superior military tactics and his determination to return after defeats suggest the Turks might have eventually succeeded.",
+      "key_points": [
+        "United Rajput forces would have been much stronger",
+        "Combined armies of Kanauj and Delhi/Ajmer could have overwhelmed Ghori",
+        "Turkish rule might have been delayed or prevented",
+        "Highlights the critical importance of unity against external threats",
+        "However, Ghori's military strategy and persistence were also key factors"
+      ],
+      "keywords": ["Jaichandra", "Prithviraj", "unity", "Second Battle of Tarain", "Rajput disunity"],
+      "source_section": "Muhammad Ghori - Second Battle of Tarain"
+    },
+    {
+      "id": "hots002",
+      "question": "Was Iltutmish right in refusing shelter to the Shah of Persia? Give reasons for your answer.",
+      "context": "Evaluating diplomatic decisions in the face of Mongol threat.",
+      "answer": "Yes, it was a wise diplomatic move. By refusing shelter to the Shah of Persia, Iltutmish prevented Chenghiz Khan from entering India, saving the country from the devastating Mongol invasion. The Mongols were known for their widespread destruction wherever they went. Sometimes avoiding a fight is the wisest strategy. Iltutmish prioritized the safety of his kingdom and people over giving shelter to a fleeing ruler.",
+      "key_points": [
+        "It was a wise and practical diplomatic decision",
+        "Prevented Chenghiz Khan from invading India",
+        "Mongols were known for massive destruction",
+        "Avoiding unnecessary conflict can be the wisest strategy",
+        "Iltutmish prioritized the safety of his kingdom over hospitality"
+      ],
+      "keywords": ["Iltutmish", "Chenghiz Khan", "Shah of Persia", "Mongol threat", "diplomacy"],
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "hots003",
+      "question": "Razia Sultan was a capable ruler but was overthrown. What does this tell us about society at that time?",
+      "context": "Analysing gender and power dynamics in medieval India.",
+      "answer": "Razia Sultan's overthrow despite being a capable ruler shows the deep gender prejudice in medieval Indian society. Despite having all the qualities of a great monarch - being brave, intelligent and just - the nobles and provincial governors could not accept a woman as their ruler. This reflects the strongly patriarchal attitudes of that era. Similar to how even today women leaders sometimes face extra scrutiny, Razia's story highlights the importance of gender equality and judging leaders by their ability rather than their gender.",
+      "key_points": [
+        "Shows deep gender prejudice in medieval society",
+        "Nobles could not accept a woman ruler despite her capabilities",
+        "Reflects strongly patriarchal attitudes of the era",
+        "Highlights the importance of judging leaders by ability, not gender",
+        "Razia possessed all qualities of a great monarch but was still rejected"
+      ],
+      "keywords": ["Razia Sultan", "gender prejudice", "patriarchy", "medieval society", "women rulers"],
+      "source_section": "Razia Sultan"
+    },
+    {
+      "id": "hots004",
+      "question": "Compare the motives of Mahmud of Ghazni and Muhammad Ghori for invading India.",
+      "context": "Comparative analysis of two major Turkish invaders.",
+      "answer": "Mahmud of Ghazni wanted wealth to fund his large army and expand his Central Asian kingdom. He was not interested in building an Indian empire - he plundered and left each time, only annexing Punjab as a base for future raids. Muhammad Ghori, on the other hand, wanted to conquer India and establish permanent Turkish rule. He appointed Qutbuddin Aibak as his viceroy and laid the foundation for the Delhi Sultanate. In essence, Mahmud was a raider who came for riches, while Ghori was a conqueror who came to rule.",
+      "key_points": [
+        "Mahmud wanted wealth to fund army and expand his Central Asian kingdom",
+        "Mahmud plundered and left - only annexed Punjab",
+        "Ghori wanted to conquer India and establish permanent rule",
+        "Ghori appointed a viceroy and laid foundation for the Delhi Sultanate",
+        "Mahmud was a raider; Ghori was a conqueror"
+      ],
+      "keywords": ["Mahmud of Ghazni", "Muhammad Ghori", "motives", "plunder vs conquest", "Delhi Sultanate"],
+      "source_section": "Mahmud of Ghazni and Muhammad Ghori"
+    },
+    {
+      "id": "hots005",
+      "question": "Why do you think the Rajput kingdoms failed to unite against foreign invaders despite the threat?",
+      "context": "Analysing political weaknesses that led to foreign domination.",
+      "answer": "The Rajput kingdoms failed to unite because they were absorbed in mutual rivalries and personal ambitions. Each kingdom was independent with its own interests and territorial disputes. There was no concept of national unity or a common identity that could bring them together. Rajput pride and honour prevented any one ruler from accepting another Rajput as their leader. This disunity was their greatest weakness and allowed successive foreign invasions - first by Mahmud of Ghazni and then by Muhammad Ghori - to succeed.",
+      "key_points": [
+        "Rajputs were absorbed in mutual rivalries and personal ambitions",
+        "Each kingdom was independent with its own interests",
+        "No concept of national unity or common identity",
+        "Pride and honour prevented accepting another Rajput as leader",
+        "Disunity was their greatest weakness and enabled foreign invasions"
+      ],
+      "keywords": ["Rajput disunity", "mutual rivalries", "national unity", "foreign invasions", "political weakness"],
+      "source_section": "Rajput kingdoms and Turkish invasions"
+    }
+  ]
+}

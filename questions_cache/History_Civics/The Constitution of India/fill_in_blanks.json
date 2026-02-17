@@ -1,0 +1,145 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "fib001",
+      "question": "India became independent on _____ from British rule.",
+      "answer": "15 August 1947",
+      "explanation": "India gained independence from British rule on 15 August 1947.",
+      "source_section": "Introduction"
+    },
+    {
+      "id": "fib002",
+      "question": "The Constitution of India was framed by the _____.",
+      "answer": "Constituent Assembly",
+      "explanation": "The Constituent Assembly was the elected body that framed the Indian Constitution.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "fib003",
+      "question": "_____ was the Chairman of the Constituent Assembly.",
+      "answer": "Dr Rajendra Prasad",
+      "explanation": "Dr Rajendra Prasad was elected as the Chairman of the Constituent Assembly.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "fib004",
+      "question": "Dr B.R. Ambedkar was the Chairman of the _____ of the Constitution.",
+      "answer": "Drafting Committee",
+      "explanation": "Dr B.R. Ambedkar chaired the Drafting Committee, which was responsible for drafting the Constitution.",
+      "source_section": "The Drafting Committee"
+    },
+    {
+      "id": "fib005",
+      "question": "The Constituent Assembly held its first meeting on _____.",
+      "answer": "9 December 1946",
+      "explanation": "The first meeting of the Constituent Assembly took place on 9 December 1946.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "fib006",
+      "question": "The Constituent Assembly took _____ to frame the Constitution.",
+      "answer": "2 years, 11 months and 18 days",
+      "explanation": "It took the Constituent Assembly 2 years, 11 months and 18 days to complete the framing of the Constitution.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "fib007",
+      "question": "The Constitution of India was passed on _____.",
+      "answer": "26 November 1949",
+      "explanation": "The Constituent Assembly passed the Constitution on 26 November 1949.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "fib008",
+      "question": "The Constitution of India came into force on _____.",
+      "answer": "26 January 1950",
+      "explanation": "The Constitution came into force on 26 January 1950, which is celebrated every year as Republic Day.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "fib009",
+      "question": "26 January is celebrated every year as _____.",
+      "answer": "Republic Day",
+      "explanation": "Republic Day is celebrated on 26 January because the Constitution came into force on this day in 1950.",
+      "source_section": "The Constituent Assembly"
+    },
+    {
+      "id": "fib010",
+      "question": "The Preamble describes India as a Sovereign _____ Secular Democratic Republic.",
+      "answer": "Socialist",
+      "explanation": "The full description is Sovereign Socialist Secular Democratic Republic. Socialist means fair distribution of wealth.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "fib011",
+      "question": "The words 'Socialist' and 'Secular' were added to the Preamble by the _____ Amendment in 1976.",
+      "answer": "42nd",
+      "explanation": "The 42nd Amendment of 1976 added the words 'Socialist' and 'Secular' to the Preamble.",
+      "source_section": "The Preamble - Socialist and Secular"
+    },
+    {
+      "id": "fib012",
+      "question": "_____ means that India is independent and free from foreign control.",
+      "answer": "Sovereign",
+      "explanation": "Sovereign means India is an independent country, free from any foreign control or interference.",
+      "source_section": "The Preamble - Sovereign"
+    },
+    {
+      "id": "fib013",
+      "question": "_____ means the state has no official religion and does not discriminate on the basis of religion.",
+      "answer": "Secular",
+      "explanation": "Secular means there is no official state religion and the government treats all religions equally without discrimination.",
+      "source_section": "The Preamble - Secular"
+    },
+    {
+      "id": "fib014",
+      "question": "In a Republic, the head of the state is _____, not hereditary.",
+      "answer": "elected",
+      "explanation": "Republic means the head of state (President) is elected by the people's representatives, unlike a monarchy where the position is hereditary.",
+      "source_section": "The Preamble - Republic"
+    },
+    {
+      "id": "fib015",
+      "question": "The President of India is elected for a term of _____ years.",
+      "answer": "5",
+      "explanation": "The President of India serves a term of 5 years and the position is not hereditary.",
+      "source_section": "The Preamble - Republic"
+    },
+    {
+      "id": "fib016",
+      "question": "The Preamble begins with the words '_____' indicating that the source of authority is the people.",
+      "answer": "We, the people of India",
+      "explanation": "The opening words 'We, the people of India' establish that the ultimate authority and power rests with the citizens of India.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "fib017",
+      "question": "The four objectives of the Preamble are Justice, Liberty, Equality and _____.",
+      "answer": "Fraternity",
+      "explanation": "The Preamble outlines four key objectives: Justice, Liberty, Equality and Fraternity (brotherhood).",
+      "source_section": "Objectives of the Preamble"
+    },
+    {
+      "id": "fib018",
+      "question": "_____ means brotherhood among citizens and aims at removing social barriers.",
+      "answer": "Fraternity",
+      "explanation": "Fraternity refers to a spirit of brotherhood among all citizens, promoting unity and removing social barriers.",
+      "source_section": "Objectives - Fraternity"
+    },
+    {
+      "id": "fib019",
+      "question": "Dr B.R. Ambedkar is known as the '_____'.",
+      "answer": "Father of the Indian Constitution",
+      "explanation": "Dr B.R. Ambedkar is called the Father of the Indian Constitution because he chaired the Drafting Committee that prepared the Constitution.",
+      "source_section": "The Drafting Committee"
+    },
+    {
+      "id": "fib020",
+      "question": "The original copy of the Indian Constitution is kept in a _____ case in the Library of Parliament.",
+      "answer": "helium-filled",
+      "explanation": "The original handwritten copy of the Constitution is preserved in a special helium-filled case in the Library of Parliament to prevent deterioration.",
+      "source_section": "The Constitution"
+    }
+  ]
+}

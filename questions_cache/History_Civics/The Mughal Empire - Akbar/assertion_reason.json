@@ -1,0 +1,117 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ar001",
+      "assertion": "Akbar followed a policy of friendship with the Rajputs.",
+      "reason": "Akbar wanted to build and maintain a large and stable empire.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Akbar befriended the Rajputs through matrimonial alliances, giving them high posts, and treating them with respect. He did this because he recognised that to build a large, stable empire in India, he needed the cooperation and loyalty of the powerful Rajput chieftains. Therefore, both the assertion and reason are true, and the reason correctly explains the assertion.",
+      "source_section": "Relations with Rajputs"
+    },
+    {
+      "id": "ar002",
+      "assertion": "Bairam Khan was dismissed by Akbar in 1560 CE.",
+      "reason": "Akbar wanted to assume absolute power and authority at age 18.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Bairam Khan served as Akbar's regent from 1556 to 1560 CE. When Akbar turned 18, he wanted to take full control of the government himself. The desire to assume absolute power directly explains why he dismissed Bairam Khan. Both statements are true and the reason explains the assertion.",
+      "source_section": "Akbar's Early Years"
+    },
+    {
+      "id": "ar003",
+      "assertion": "The mansab was not hereditary.",
+      "reason": "After the death of the mansabdar, the jagir reverted to the king.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "In the mansabdari system, ranks and jagirs were granted by the emperor and could not be passed on to the mansabdar's children. When a mansabdar died, his jagir reverted to the king, which is precisely what made the system non-hereditary. Both are true and the reason correctly explains the assertion.",
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "ar004",
+      "assertion": "Akbar abolished the jizya tax.",
+      "reason": "The jizya had been imposed only on non-Muslim subjects and was resented by Hindus.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The jizya was a poll tax imposed only on non-Muslims, which caused resentment among the Hindu population. Akbar abolished it as part of his policy of religious tolerance and to win the goodwill of his Hindu subjects. The discriminatory nature and resentment caused by the tax directly explains why Akbar abolished it.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ar005",
+      "assertion": "Din-i-Ilahi did not become popular outside the court.",
+      "reason": "Akbar forced everyone in his empire to convert to the new faith.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "It is true that Din-i-Ilahi did not gain popularity beyond the court -- very few people accepted it, and Birbal was the only Hindu who joined. However, the reason is false because Akbar never forced anyone to convert. Membership in Din-i-Ilahi was entirely voluntary. The actual reasons for its unpopularity were that people were deeply attached to their own religions and the new faith lacked sacred texts and rituals.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ar006",
+      "assertion": "Akbar was illiterate.",
+      "reason": "Akbar had no interest in knowledge or books.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "While it is true that Akbar could not read or write, the reason is completely false. Akbar had a deep passion for knowledge and learning. He had a library of over 24,000 books and had scholars read to him regularly. He patronised poets, historians, and scholars at his court. His illiteracy did not diminish his intellectual curiosity.",
+      "source_section": "Literature and Learning"
+    },
+    {
+      "id": "ar007",
+      "assertion": "Rana Pratap is still honoured in Rajasthan.",
+      "reason": "He showed bravery, courage and heroic lifelong struggle to remain free from Mughal control.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Rana Pratap of Mewar was the only major Rajput chief who refused to submit to Akbar. Despite losing the Battle of Haldighati in 1576 CE, he continued fighting and never gave up his independence. His bravery, courage, and lifelong resistance against Mughal domination are the reasons he is remembered and honoured in Rajasthan to this day.",
+      "source_section": "Relations with Rajputs"
+    },
+    {
+      "id": "ar008",
+      "assertion": "Fatehpur Sikri is referred to as a dream in stone.",
+      "reason": "It contains many Rajput-style buildings made of sandstone.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Fatehpur Sikri, the city built by Akbar near Agra, is indeed called a 'dream in stone' due to its magnificent architecture. It features a blend of Hindu (Rajput) and Islamic architectural styles, with buildings constructed from red sandstone. The beautiful Rajput-style sandstone architecture is what earned it this poetic description.",
+      "source_section": "Art and Architecture"
+    }
+  ]
+}

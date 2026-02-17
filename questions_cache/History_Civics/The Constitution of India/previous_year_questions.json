@@ -1,0 +1,344 @@
+{
+  "subject": "History_Civics",
+  "chapter": "The Constitution of India",
+  "type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "const_pyq_sa_1",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What was the function of the Constituent Assembly?",
+      "answer": "The Constituent Assembly was an elected body that framed the Constitution of India. It represented different shades of opinion and all communities and classes of India. Dr Rajendra Prasad was its Chairman.",
+      "key_points": ["Elected body", "Framed the Constitution", "Represented all communities"]
+    },
+    {
+      "id": "const_pyq_sa_2",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "Name two members of the Constituent Assembly.",
+      "answer": "Dr B.R. Ambedkar and Maulana Azad (other notable members include Sarojini Naidu).",
+      "key_points": ["B.R. Ambedkar", "Maulana Azad", "Sarojini Naidu"]
+    },
+    {
+      "id": "const_pyq_sa_3",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "How long did it take to write India's constitution?",
+      "answer": "The Constituent Assembly took 2 years, 11 months and 18 days to complete its task.",
+      "key_points": ["2 years, 11 months, 18 days"]
+    },
+    {
+      "id": "const_pyq_sa_4",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "Who was the chairman of the Constituent Assembly?",
+      "answer": "Dr Rajendra Prasad was the Chairman of the Constituent Assembly.",
+      "key_points": ["Dr Rajendra Prasad"]
+    },
+    {
+      "id": "const_pyq_sa_5",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "In which year was the term 'socialist' added to our constitution?",
+      "answer": "The term 'Socialist' was added to the Preamble in 1976 through the 42nd Amendment Act.",
+      "key_points": ["1976", "42nd Amendment"]
+    },
+    {
+      "id": "const_pyq_sa_6",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What is an amendment?",
+      "answer": "An amendment is any change made to the Constitution of India.",
+      "key_points": ["Change in the Constitution"]
+    },
+    {
+      "id": "const_pyq_sa_7",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "Which term in the preamble tells us that the people of India have the power to elect their own government?",
+      "answer": "The term 'Democratic' tells us that the people of India have the power to elect their own government. A democratic government is described as a government of the people, by the people and for the people.",
+      "key_points": ["Democratic"]
+    },
+    {
+      "id": "const_pyq_sa_8",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What is the importance of the date 26th November 1949?",
+      "answer": "The Constitution of India was passed by the Constituent Assembly on 26 November 1949.",
+      "key_points": ["Constitution passed", "26 November 1949"]
+    },
+    {
+      "id": "const_pyq_sa_9",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "Which term in the constitution says that the wealth of the country will be distributed fairly?",
+      "answer": "The term 'Socialist' means fair distribution of the country's wealth among all sections of the people and providing equal opportunities to bridge the gap between rich and poor.",
+      "key_points": ["Socialist"]
+    },
+    {
+      "id": "const_pyq_sa_10",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What does the term sovereign mean?",
+      "answer": "Sovereign means India is an independent country, completely free from foreign control. No outside power can control or interfere in the internal as well as external affairs of the country.",
+      "key_points": ["Independent", "Free from foreign control"]
+    },
+    {
+      "id": "const_pyq_sa_11",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "Which term in our constitution says that all citizens are equal in the eyes of the law and everyone will get justice?",
+      "answer": "The objective of 'Justice' states that all citizens are equal in the eyes of law. Justice shall not be denied to anybody on the basis of birth, race, caste, creed, sex, status or religion.",
+      "key_points": ["Justice"]
+    },
+    {
+      "id": "const_pyq_sa_12",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What is meant by the preamble?",
+      "answer": "The Preamble is an introduction to the Constitution. It tells us about the source of the Constitution, the nature of the state and its main objectives.",
+      "key_points": ["Introduction", "Source", "Nature of state", "Objectives"]
+    },
+    {
+      "id": "const_pyq_sa_13",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "Explain the term 'secular' in our constitution.",
+      "answer": "A secular state does not have an official or state religion, does not discriminate against anybody on the grounds of religion, does not favour or promote any particular religion, and guarantees the freedom of every individual to profess, practise and propagate their own religion.",
+      "key_points": ["No official religion", "No discrimination", "Freedom of religion"]
+    },
+    {
+      "id": "const_pyq_sa_14",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What is meant by the word 'liberty' in the constitution?",
+      "answer": "Liberty means every Indian citizen shall enjoy certain fundamental rights such as the freedom to think and express oneself and the freedom to follow the religion of one's choice.",
+      "key_points": ["Fundamental rights", "Freedom of thought", "Freedom of expression", "Freedom of religion"]
+    },
+    {
+      "id": "const_pyq_sa_15",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "Was the Constitution of India imposed on us by the British? Explain.",
+      "answer": "No. The Preamble begins with 'We, the people of India' which implies the source of the Constitution is the people of India. The authority of the government is derived from the people. It was framed by the Constituent Assembly, an elected body, not imposed by any foreign power.",
+      "key_points": ["Not imposed", "People are the source", "Constituent Assembly framed it"]
+    },
+    {
+      "id": "const_pyq_sa_16",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What is the significance of the date 9th December 1946?",
+      "answer": "The first meeting of the Constituent Assembly was held on 9 December 1946.",
+      "key_points": ["First meeting", "Constituent Assembly"]
+    },
+    {
+      "id": "const_pyq_sa_17",
+      "type": "short_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "Who is the elected head of the state of India? What is his tenure?",
+      "answer": "The President is the elected head of state. The President has a fixed term of 5 years and the post is not hereditary.",
+      "key_points": ["President", "5 years", "Not hereditary"]
+    },
+    {
+      "id": "const_pyq_la_1",
+      "type": "long_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What is the significance of the date 26th January?",
+      "answer": "26 January is celebrated as Republic Day because the Constitution of India came into force on 26 January 1950. On this day, India embarked on a new journey as a sovereign, democratic republic. The Constitution, framed by the Constituent Assembly, defined the organization, powers and functions of the government and the rights and duties of the people.",
+      "key_points": ["Republic Day", "Constitution came into force", "1950", "Sovereign democratic republic"]
+    },
+    {
+      "id": "const_pyq_la_2",
+      "type": "long_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What is meant by the term 'constitution'?",
+      "answer": "A constitution is a body of fundamental rules and regulations according to which a country is organized and governed. These rules and regulations define and clearly mention the organization, powers and functions of the government and the rights and duties of the people.",
+      "key_points": ["Fundamental rules", "Organization of government", "Rights and duties"]
+    },
+    {
+      "id": "const_pyq_la_3",
+      "type": "long_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "Why did the framers of the constitution use the word fraternity in the constitution?",
+      "answer": "A democracy can work only if there is a spirit of brotherhood and oneness among the different sections of society. Fraternity aims at removing social barriers between Indians belonging to different communities. When the feeling of being 'one people' is promoted and established, social evils such as untouchability and communalism can be removed, and the country can progress united towards justice, liberty and equality for all.",
+      "key_points": ["Brotherhood", "Remove social barriers", "Remove untouchability and communalism", "Unity"]
+    },
+    {
+      "id": "const_pyq_la_4",
+      "type": "long_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What is the source of our constitution?",
+      "answer": "The source of the Constitution is the people of India, as stated in the Preamble: 'We, the people of India.' This implies that the authority of the government is derived from the people. The Constitution reflects the wishes of the people and is not imposed by any foreign power.",
+      "key_points": ["People of India", "Authority derived from people", "Not imposed by foreign power"]
+    },
+    {
+      "id": "const_pyq_la_5",
+      "type": "long_answer",
+      "year": "Sample Paper 1 (Jul 2019)",
+      "question": "What does the term 'Equality' mean for the citizens of India?",
+      "answer": "Equality means that all citizens are equal before law and will be protected equally by the laws of the land. The state shall not discriminate between people on the basis of place of birth, sex, caste, creed, race, religion or wealth.",
+      "key_points": ["Equal before law", "Equal protection", "No discrimination"]
+    },
+    {
+      "id": "const_pyq_mcq_1",
+      "type": "mcq",
+      "year": "Sample Paper 7 (Jul 2025)",
+      "question": "What is the main purpose of the Indian Constitution?",
+      "options": ["(i) To collect taxes", "(ii) To declare war", "(iii) To celebrate festivals", "(iv) To define the structure and powers of the government and protect citizens' rights"],
+      "correct_answer": "(iv) To define the structure and powers of the government and protect citizens' rights",
+      "explanation": "The Constitution defines the organization, powers and functions of the government and the rights and duties of the people."
+    },
+    {
+      "id": "const_pyq_mcq_2",
+      "type": "mcq",
+      "year": "Sample Paper 7 (Jul 2025)",
+      "question": "What does the word 'sovereign' in the preamble mean?",
+      "options": ["(i) Rich and powerful", "(ii) Independent and free from external control", "(iii) Religious", "(iv) Ancient"],
+      "correct_answer": "(ii) Independent and free from external control",
+      "explanation": "Sovereign means India is an independent country, completely free from foreign control."
+    },
+    {
+      "id": "const_pyq_mcq_3",
+      "type": "mcq",
+      "year": "Sample Paper 7 (Jul 2025)",
+      "question": "What does the preamble to the constitution do?",
+      "options": ["(i) Lists all the laws", "(ii) Provides a summary of the main objectives and values of the constitution", "(iii) Names all citizens", "(iv) Describes the geography"],
+      "correct_answer": "(ii) Provides a summary of the main objectives and values of the constitution",
+      "explanation": "The Preamble is an introduction to the Constitution that tells us about the source, nature of state and objectives."
+    },
+    {
+      "id": "const_pyq_mcq_4",
+      "type": "mcq",
+      "year": "Sample Paper 7 (Jul 2025)",
+      "question": "When did the Constitution of India come into force?",
+      "options": ["(i) 15 August 1947", "(ii) 26 January 1950", "(iii) 26 November 1949", "(iv) 9 December 1946"],
+      "correct_answer": "(ii) 26 January 1950",
+      "explanation": "The Constitution came into force on 26 January 1950, celebrated as Republic Day."
+    },
+    {
+      "id": "const_pyq_mcq_5",
+      "type": "mcq",
+      "year": "Sample Paper 7 (Jul 2025)",
+      "question": "What does the term 'Secular' in the Preamble refer to?",
+      "options": ["(i) Having many religions", "(ii) Having no official religion", "(iii) Promoting one religion", "(iv) Banning all religions"],
+      "correct_answer": "(ii) Having no official religion",
+      "explanation": "A secular state does not have an official or state religion and does not discriminate on grounds of religion."
+    },
+    {
+      "id": "const_pyq_mcq_6",
+      "type": "mcq",
+      "year": "Sample Paper 7 (Jul 2025)",
+      "question": "Socialism involves a _____ distribution of the country's wealth and resources among all sections of the people.",
+      "options": ["(i) unequal", "(ii) random", "(iii) unfair", "(iv) fair"],
+      "correct_answer": "(iv) fair",
+      "explanation": "Socialism involves fair distribution of the country's wealth among all sections, providing equal opportunities to bridge the gap between rich and poor."
+    },
+    {
+      "id": "const_pyq_mcq_7",
+      "type": "mcq",
+      "year": "Sample Paper 12 (Jul 2024)",
+      "question": "The members of the Constituent Assembly were elected by the ___",
+      "options": ["(i) President", "(ii) Provincial Legislative Assemblies", "(iii) People of the country"],
+      "correct_answer": "(ii) Provincial Legislative Assemblies",
+      "explanation": "The Constituent Assembly was an elected body. Its members were elected by the Provincial Legislative Assemblies."
+    },
+    {
+      "id": "const_pyq_mcq_8",
+      "type": "mcq",
+      "year": "Sample Paper 12 (Jul 2024)",
+      "question": "The preamble is ___",
+      "options": ["(i) the origin of the constitution", "(ii) an introduction to the constitution", "(iii) a history of the constitution"],
+      "correct_answer": "(ii) an introduction to the constitution",
+      "explanation": "The Preamble is an introduction to the Constitution that tells about the source, nature and objectives."
+    },
+    {
+      "id": "const_pyq_mcq_9",
+      "type": "mcq",
+      "year": "Sample Paper 12 (Jul 2024)",
+      "question": "The chairman of the Constituent Assembly was ___",
+      "options": ["(i) Mahatma Gandhi", "(ii) B.R. Ambedkar", "(iii) Rajendra Prasad"],
+      "correct_answer": "(iii) Rajendra Prasad",
+      "explanation": "Dr Rajendra Prasad was the Chairman of the Constituent Assembly. Dr B.R. Ambedkar was Chairman of the Drafting Committee."
+    },
+    {
+      "id": "const_pyq_sa_18",
+      "type": "short_answer",
+      "year": "Sample Paper 9 (Jul 2023)",
+      "question": "What was the Constituent Assembly? Who was its chairman?",
+      "answer": "The Constituent Assembly was an elected body that framed the Constitution of India. It represented different opinions and all communities and classes. Dr Rajendra Prasad was its Chairman.",
+      "key_points": ["Elected body", "Framed Constitution", "Dr Rajendra Prasad"]
+    },
+    {
+      "id": "const_pyq_sa_19",
+      "type": "short_answer",
+      "year": "Sample Paper 9 (Jul 2023)",
+      "question": "When did the Constitution of India come into force and how do we celebrate this day?",
+      "answer": "The Constitution came into force on 26 January 1950. This day is celebrated as Republic Day every year.",
+      "key_points": ["26 January 1950", "Republic Day"]
+    },
+    {
+      "id": "const_pyq_sa_20",
+      "type": "short_answer",
+      "year": "Sample Paper 9 (Jul 2023)",
+      "question": "What is the Preamble? What does it help us understand?",
+      "answer": "The Preamble is an introduction to the Constitution. It tells us about the source of the Constitution (the people of India), the nature of the state (sovereign, socialist, secular, democratic, republic) and its main objectives (justice, liberty, equality, fraternity).",
+      "key_points": ["Introduction", "Source", "Nature of state", "Objectives"]
+    },
+    {
+      "id": "const_pyq_la_6",
+      "type": "long_answer",
+      "year": "Sample Paper 9 (Jul 2023)",
+      "question": "What does the line 'We the people of India' imply?",
+      "answer": "The phrase 'We, the people of India' implies that the source of the Constitution is the people of India. The authority of the government is derived from the people. The Constitution reflects the wishes of the people and is not imposed by any foreign power. This establishes that sovereignty lies with the people.",
+      "key_points": ["Source is the people", "Authority from people", "Not imposed", "People's sovereignty"]
+    },
+    {
+      "id": "const_pyq_la_7",
+      "type": "long_answer",
+      "year": "Sample Paper 9 (Jul 2023)",
+      "question": "Explain the following terms: (i) democratic (ii) secular.",
+      "answer": "Democratic: A democratic government is described as a government of the people, by the people and for the people. The people of India have the power to elect a government of their choice and govern the country through their elected representatives.\n\nSecular: A secular state does not have an official or state religion. It does not discriminate against anybody on the grounds of religion, does not favour or promote any particular religion, and guarantees freedom to profess, practise and propagate one's own religion. The term was added in 1976 through the 42nd Amendment.",
+      "key_points": ["Democratic - government of/by/for people", "Elected representatives", "Secular - no state religion", "No discrimination", "Freedom of religion"]
+    },
+    {
+      "id": "const_pyq_la_8",
+      "type": "long_answer",
+      "year": "Sample Paper 9 (Jul 2023)",
+      "question": "When was the term Socialist added to the constitution? What does 'practising socialism in India' mean?",
+      "answer": "The term 'Socialist' was added to the Preamble in 1976 through the 42nd Amendment Act. Practising socialism in India means fair distribution of the country's wealth among all sections of the people. It means providing equal opportunities to all in order to bridge the gap between the rich and the poor.",
+      "key_points": ["1976", "42nd Amendment", "Fair distribution of wealth", "Equal opportunities", "Bridge gap between rich and poor"]
+    },
+    {
+      "id": "const_pyq_la_9",
+      "type": "long_answer",
+      "year": "Sample Paper 9 (Jul 2023)",
+      "question": "Explain the following objectives of the constitution: (i) justice (ii) fraternity.",
+      "answer": "Justice: All citizens are equal in the eyes of law. Justice shall not be denied to anybody on the basis of place of birth, race, caste, creed, sex, status or religion. Every individual will get what is their due.\n\nFraternity: A democracy can work only if there is a spirit of brotherhood and oneness among the different sections of society. This aims at removing social barriers between Indians belonging to different communities. When the feeling of being 'one people' is promoted, social evils like untouchability and communalism can be removed.",
+      "key_points": ["Justice - equal in eyes of law", "No denial based on birth/caste/sex/religion", "Fraternity - brotherhood", "Remove social barriers", "Remove untouchability"]
+    },
+    {
+      "id": "const_pyq_sa_21",
+      "type": "short_answer",
+      "year": "Sample Paper 7 (Jul 2025)",
+      "question": "Write four features of a secular state.",
+      "answer": "1. A secular state does not have an official or state religion. 2. It does not discriminate against anybody on the grounds of religion. 3. It does not favour or promote any particular religion. 4. It guarantees the freedom of every individual to profess, practise and propagate their own religion.",
+      "key_points": ["No official religion", "No discrimination", "No favouritism", "Freedom of religion"]
+    },
+    {
+      "id": "const_pyq_sa_22",
+      "type": "short_answer",
+      "year": "Sample Paper 12 (Jul 2024)",
+      "question": "What are the four ideals which the Indian Republic stands for?",
+      "answer": "The four ideals (objectives) stated in the Preamble are: Justice (all equal in eyes of law), Liberty (freedom of thought, expression, belief), Equality (no discrimination), and Fraternity (spirit of brotherhood).",
+      "key_points": ["Justice", "Liberty", "Equality", "Fraternity"]
+    },
+    {
+      "id": "const_pyq_sa_23",
+      "type": "short_answer",
+      "year": "Sample Paper 12 (Jul 2024)",
+      "question": "What does the term 'Republic' denote?",
+      "answer": "A republic is a state where the head is an elected official, not a monarch or a dictator. India has an elected head of state, the President, who has a fixed term of 5 years. The post is not hereditary.",
+      "key_points": ["Elected head", "President", "5-year term", "Not hereditary"]
+    }
+  ]
+}

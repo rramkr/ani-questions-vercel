@@ -1,0 +1,145 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "tf001",
+      "statement": "Akbar was 13 years old when he was proclaimed emperor after Humayun's death.",
+      "answer": true,
+      "explanation": "Akbar was indeed only 13 years old when he was proclaimed emperor in 1556 CE, following the sudden death of his father Humayun.",
+      "source_section": "Akbar's Accession"
+    },
+    {
+      "id": "tf002",
+      "statement": "Humayun died in battle against the Afghans in 1556 CE.",
+      "answer": false,
+      "explanation": "Humayun did not die in battle. He died from an accidental fall from the stairs of his library in 1556 CE.",
+      "source_section": "Akbar's Accession"
+    },
+    {
+      "id": "tf003",
+      "statement": "Bairam Khan was Humayun's faithful general who served as regent for young Akbar.",
+      "answer": true,
+      "explanation": "Bairam Khan had been a loyal and faithful general of Humayun. After Humayun's death, he became the regent for the 13-year-old Akbar and managed the affairs of the empire.",
+      "source_section": "Regency of Bairam Khan"
+    },
+    {
+      "id": "tf004",
+      "statement": "Akbar dismissed Bairam Khan from his position at the age of 21.",
+      "answer": false,
+      "explanation": "Akbar dismissed Bairam Khan at the age of 18 (in 1560 CE), not 21. Akbar wanted to take charge of the administration himself.",
+      "source_section": "Regency of Bairam Khan"
+    },
+    {
+      "id": "tf005",
+      "statement": "The Second Battle of Panipat was fought in 1556 CE and the Mughal forces defeated Hemu.",
+      "answer": true,
+      "explanation": "The Second Battle of Panipat (1556 CE) was a decisive battle in which Akbar's forces, under the guidance of Bairam Khan, defeated Hemu and crushed the Afghan threat.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "tf006",
+      "statement": "Akbar personally led the Mughal forces at the Battle of Haldighati in 1576 CE.",
+      "answer": false,
+      "explanation": "Akbar did not personally lead the forces at the Battle of Haldighati. The Mughal forces were led by Raja Man Singh, a Rajput commander in Akbar's service.",
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "tf007",
+      "statement": "Akbar married the daughter of the Rajput ruler Udai Singh of Mewar.",
+      "answer": false,
+      "explanation": "Akbar married the daughter of the Raja of Jaipur (Amber), not Udai Singh's daughter. Udai Singh of Mewar actually refused to accept Mughal authority.",
+      "source_section": "Rajput Policy"
+    },
+    {
+      "id": "tf008",
+      "statement": "Chittor was defended by Jai Mal when Akbar laid siege to it.",
+      "answer": true,
+      "explanation": "When Akbar besieged Chittor, it was defended by Jai Mal (not Rana Pratap, who fought at Haldighati). During the siege, the Rajput women performed jauhar.",
+      "source_section": "Conquest of Chittor"
+    },
+    {
+      "id": "tf009",
+      "statement": "Rana Pratap successfully recovered Chittor before his death.",
+      "answer": false,
+      "explanation": "Rana Pratap was not able to recover Chittor before his death. Despite his lifelong resistance against the Mughals, Chittor remained under Mughal control.",
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "tf010",
+      "statement": "Akbar's empire was divided into 15 provinces called subas.",
+      "answer": true,
+      "explanation": "Akbar organized his empire into 15 subas (provinces) for efficient administration. Each suba was headed by a governor called a subedar.",
+      "source_section": "Administration"
+    },
+    {
+      "id": "tf011",
+      "statement": "The mansab (rank) granted by Akbar was hereditary and passed from father to son.",
+      "answer": false,
+      "explanation": "The mansab was NOT hereditary. When a mansabdar died, his mansab and all associated privileges reverted to the king. The king could then reassign the mansab as he saw fit.",
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "tf012",
+      "statement": "The wazir (or diwan) was the head of the revenue department, not the military.",
+      "answer": true,
+      "explanation": "The wazir or diwan was indeed the head of the revenue department. The head of the military department was the mir bakshi.",
+      "source_section": "Administration"
+    },
+    {
+      "id": "tf013",
+      "statement": "Todar Mal introduced the land revenue system known as Bandobast, using bamboo jarib with iron rings for measurement.",
+      "answer": true,
+      "explanation": "Todar Mal, one of Akbar's key ministers, introduced the Bandobast system of land revenue. He used bamboo jarib fitted with iron rings for accurate land measurement, replacing the older rope-based system that could stretch.",
+      "source_section": "Revenue System"
+    },
+    {
+      "id": "tf014",
+      "statement": "Under Akbar's revenue system, half of the average produce was taken as the king's share.",
+      "answer": false,
+      "explanation": "The king's share was one-third of the average produce, not half. This was considered a fair amount and helped reduce the burden on peasants.",
+      "source_section": "Revenue System"
+    },
+    {
+      "id": "tf015",
+      "statement": "Akbar abolished the jizya, a tax that had been imposed on non-Muslims.",
+      "answer": true,
+      "explanation": "Akbar abolished the jizya (a tax on non-Muslims) as part of his policy of religious tolerance. He also abolished the pilgrim tax to promote harmony among all religions.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "tf016",
+      "statement": "The Ibadat Khana was built by Akbar in 1575 CE at Delhi.",
+      "answer": false,
+      "explanation": "The Ibadat Khana (House of Worship) was built by Akbar in 1575 CE at Fatehpur Sikri, not Delhi. It was a hall where scholars of different religions gathered for discussions.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "tf017",
+      "statement": "Raja Man Singh was one of the Hindu courtiers who accepted Akbar's Din-i-Ilahi.",
+      "answer": false,
+      "explanation": "Raja Man Singh REFUSED to join Din-i-Ilahi, as did Raja Bhagwan Das. Birbal was the ONLY Hindu courtier who accepted Din-i-Ilahi.",
+      "source_section": "Din-i-Ilahi"
+    },
+    {
+      "id": "tf018",
+      "statement": "Akbar was illiterate but maintained a library of 24,000 books.",
+      "answer": true,
+      "explanation": "Despite being illiterate himself, Akbar was a great patron of learning and had a library containing 24,000 books. He had scholars read books aloud to him.",
+      "source_section": "Cultural Achievements"
+    },
+    {
+      "id": "tf019",
+      "statement": "Faizi was the author of the Akbarnama, a detailed account of Akbar's reign.",
+      "answer": false,
+      "explanation": "The Akbarnama was written by Abul Fazl, not Faizi. Faizi was Abul Fazl's brother and was a renowned poet at Akbar's court.",
+      "source_section": "Cultural Achievements"
+    },
+    {
+      "id": "tf020",
+      "statement": "Persian was the official court language during Akbar's reign.",
+      "answer": true,
+      "explanation": "Persian was indeed the official court language under Akbar's rule. It was the language used for all administrative and official purposes in the Mughal Empire.",
+      "source_section": "Cultural Achievements"
+    }
+  ]
+}

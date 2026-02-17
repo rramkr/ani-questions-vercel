@@ -1,0 +1,117 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ar001",
+      "assertion": "Muhammad Ghori routed the Rajput army in the Second Battle of Tarain.",
+      "reason": "Raja Jaichandra of Kanauj refused to help Prithviraj.",
+      "correct_option": "B",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true. Jaichandra did refuse to help Prithviraj, but Ghori's victory was primarily due to his superior military strategy and the larger army he assembled. Jaichandra's refusal was a contributing factor but not the direct explanation.",
+      "source_section": "Muhammad Ghori - Second Battle of Tarain"
+    },
+    {
+      "id": "ar002",
+      "assertion": "Qutbuddin Aibak became the first sultan of Delhi.",
+      "reason": "He was Muhammad Ghori's son and rightful heir.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Qutbuddin Aibak did become the first sultan of Delhi, but he was not Ghori's son. He was a former slave (mamluk) who rose to become Ghori's trusted general and viceroy, and became sultan after Ghori's death.",
+      "source_section": "Mamluk Dynasty - Qutbuddin Aibak"
+    },
+    {
+      "id": "ar003",
+      "assertion": "Mahmud of Ghazni repeatedly invaded India.",
+      "reason": "He wanted the fabulous riches of Indian temples to fund his army and expand his kingdom.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true and the reason correctly explains the assertion. Mahmud needed wealth to maintain his large army and expand his Central Asian kingdom, which is why he targeted the rich Indian temples repeatedly.",
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "ar004",
+      "assertion": "Iltutmish is regarded as the true founder of the Delhi Sultanate.",
+      "reason": "He transformed loosely-knit Ghori territories into a strong, well-defined, compact state.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true and the reason correctly explains the assertion. Iltutmish organized the administration, divided the empire into iqtas, and consolidated the sultanate into a proper, well-functioning state.",
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "ar005",
+      "assertion": "Buddhism declined in India after the Turkish invasions.",
+      "reason": "Muhammad bin Bakhtiar Khilji destroyed Buddhist monasteries and libraries in Bihar.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true and the reason correctly explains the assertion. Bakhtiar Khilji's destruction of major Buddhist centres like Nalanda and Vikramshila dealt a death blow to Buddhism in India.",
+      "source_section": "Muhammad Ghori - Bakhtiar Khilji"
+    },
+    {
+      "id": "ar006",
+      "assertion": "Balban never left his capital to conquer new territories.",
+      "reason": "He feared the Mongols would take advantage of his absence and invade.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true and the reason correctly explains the assertion. Balban was constantly wary of Mongol invasions, so he stayed in his capital and instead appointed his sons as governors of frontier provinces to defend the borders.",
+      "source_section": "Balban"
+    },
+    {
+      "id": "ar007",
+      "assertion": "Razia Sultan was overthrown despite being a capable ruler.",
+      "reason": "The nobles did not like the idea of being ruled by a woman.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true and the reason correctly explains the assertion. Despite possessing all the qualities of a great monarch - being brave, intelligent and just - the provincial governors revolted against Razia because they could not accept a woman as their ruler.",
+      "source_section": "Razia Sultan"
+    },
+    {
+      "id": "ar008",
+      "assertion": "The Rajputs were unable to repulse Mahmud of Ghazni.",
+      "reason": "North India was divided and there was no unity among the Rajput rulers.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true and the reason correctly explains the assertion. The Rajput kingdoms were deeply absorbed in mutual rivalries and failed to unite against the common threat, which made them vulnerable to Mahmud's repeated invasions.",
+      "source_section": "Mahmud of Ghazni - Rajput disunity"
+    }
+  ]
+}

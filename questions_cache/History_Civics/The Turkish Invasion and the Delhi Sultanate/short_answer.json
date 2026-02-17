@@ -1,0 +1,110 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "sa001",
+      "question": "What happened to the Abbasid Caliphate by the end of the 9th century?",
+      "answer": "By the end of the 9th century, the Abbasid Caliphate declined and disintegrated into several independent states. Many of these states came to be ruled by the Turks, who established powerful kingdoms such as Ghazni and Ghor.",
+      "keywords": ["declined", "disintegrated", "independent states", "Turks", "Ghazni", "Ghor"],
+      "source_section": "The Rise of the Turks"
+    },
+    {
+      "id": "sa002",
+      "question": "Why did Mahmud of Ghazni invade India?",
+      "answer": "Mahmud of Ghazni invaded India to build a strong army and expand his kingdom, primarily to protect himself from enemies in Central Asia. He needed vast amounts of money for this purpose and was attracted by the immense riches stored in Indian temples and kingdoms.",
+      "keywords": ["build army", "expand kingdom", "Central Asia", "enemies", "money", "riches", "Indian temples"],
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "sa003",
+      "question": "What was the significance of Mahmud of Ghazni's attack on the Somnath Temple?",
+      "answer": "The attack on the Somnath Temple in Kathiawar was Mahmud's most ambitious and profitable expedition. Indians put up stubborn resistance and about 50,000 soldiers died defending the temple. Despite this brave defence, Mahmud captured the temple and returned to Ghazni with immense treasures.",
+      "keywords": ["most ambitious", "most profitable", "Kathiawar", "stubborn resistance", "50,000 soldiers", "immense treasures"],
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "sa004",
+      "question": "Name the author of the Shahnama. Who patronized him?",
+      "answer": "The Shahnama was written by Firdausi, a great Persian poet. He was patronized by Sultan Mahmud of Ghazni, who was known not only as an idol breaker but also as a patron of art and learning.",
+      "keywords": ["Firdausi", "Persian poet", "Mahmud of Ghazni", "patron"],
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "sa005",
+      "question": "Who was Al Beruni?",
+      "answer": "Al Beruni was a great Persian historian and mathematician who was patronized by Sultan Mahmud of Ghazni. He was one of the prominent scholars at Mahmud's court, which was known as a centre of art and learning.",
+      "keywords": ["Persian", "historian", "mathematician", "patronized", "Mahmud of Ghazni"],
+      "source_section": "Mahmud of Ghazni"
+    },
+    {
+      "id": "sa006",
+      "question": "What was the result of the First Battle of Tarain (1191 CE)?",
+      "answer": "In the First Battle of Tarain (1191 CE), Prithviraj Chauhan of Delhi and Ajmer inflicted a crushing defeat on Muhammad Ghori. However, Ghori was determined and returned the following year to fight again.",
+      "keywords": ["Prithviraj Chauhan", "crushing defeat", "Muhammad Ghori", "1191 CE"],
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "sa007",
+      "question": "Why is the Second Battle of Tarain (1192 CE) considered significant in Indian history?",
+      "answer": "The Second Battle of Tarain (1192 CE) is significant because Muhammad Ghori defeated Prithviraj Chauhan, marking the end of Rajput rule in north India. After this battle, Delhi passed to Muslim rulers and remained under their control until 1858. Ghori appointed Qutbuddin Aibak as his viceroy in India.",
+      "keywords": ["Ghori defeated Prithviraj", "1192 CE", "end of Rajput rule", "Delhi", "Muslim rulers", "1858", "Qutbuddin Aibak"],
+      "source_section": "Muhammad Ghori"
+    },
+    {
+      "id": "sa008",
+      "question": "Who was Qutbuddin Aibak? How did he become the ruler of Delhi?",
+      "answer": "Qutbuddin Aibak was a former slave of Muhammad Ghori who rose to become his trusted viceroy in India. After Muhammad Ghori's death, Qutbuddin Aibak founded the Delhi Sultanate and established the Mamluk (Slave) dynasty, becoming its first ruler.",
+      "keywords": ["former slave", "Muhammad Ghori", "viceroy", "founded Delhi Sultanate", "Mamluk dynasty", "Slave dynasty"],
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "sa009",
+      "question": "Why was Qutbuddin Aibak called 'Lakhbaksh'?",
+      "answer": "Qutbuddin Aibak was called 'Lakhbaksh' because he was extremely generous and looked after the welfare of his subjects. The title 'Lakhbaksh' means 'giver of lakhs', referring to his habit of distributing wealth generously.",
+      "keywords": ["generous", "welfare of subjects", "giver of lakhs", "distributing wealth"],
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "sa010",
+      "question": "How did Iltutmish save India from the Mongol invasion?",
+      "answer": "When the Shah of Persia fled from the Mongol conqueror Chenghiz Khan and sought refuge in India, Iltutmish wisely refused to shelter him. By doing this, Iltutmish prevented Chenghiz Khan from entering India in pursuit of the Shah, thus saving India from a devastating Mongol invasion.",
+      "keywords": ["Shah of Persia", "Chenghiz Khan", "refused shelter", "prevented Mongol invasion"],
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "sa011",
+      "question": "Why is Iltutmish called the true founder of the Delhi Sultanate?",
+      "answer": "Iltutmish is called the true founder of the Delhi Sultanate because he transformed the loosely-knit territories conquered by Muhammad Ghori into a strong, well-defined, compact state. He consolidated the sultanate through military victories, administrative reforms, and diplomatic skill.",
+      "keywords": ["loosely-knit territories", "strong state", "well-defined", "compact", "consolidated"],
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "sa012",
+      "question": "Name two important contributions of Iltutmish.",
+      "answer": "Iltutmish was the first sultan to mint gold and silver coins, establishing a proper currency system. He also completed the construction of the Qutb Minar, which had been started by Qutbuddin Aibak. Additionally, he reorganized the finance and revenue system by introducing the iqta system.",
+      "keywords": ["gold and silver coins", "currency", "Qutb Minar", "completed", "iqta system", "finance"],
+      "source_section": "Iltutmish"
+    },
+    {
+      "id": "sa013",
+      "question": "What happened to Razia Sultan?",
+      "answer": "Razia Sultan faced revolts from provincial governors who opposed being ruled by a woman. She was defeated and imprisoned. She then married one of the rebel leaders, Altunia, and together they attempted to recover the throne. However, their attempt failed, and both Razia and Altunia were killed in 1240.",
+      "keywords": ["governors revolted", "defeated", "imprisoned", "married Altunia", "recover throne", "failed", "killed 1240"],
+      "source_section": "Razia Sultan"
+    },
+    {
+      "id": "sa014",
+      "question": "What was Balban's theory of kingship?",
+      "answer": "Balban believed in the theory of divine kingship, which held that the king is God's representative on earth. He made the monarchy absolute and all-powerful. In his court, he never smiled, and nobles were required to kneel and touch the ground before him as a mark of absolute submission.",
+      "keywords": ["divine kingship", "God's representative", "absolute", "all-powerful", "never smiled", "kneel", "touch the ground"],
+      "source_section": "Balban"
+    },
+    {
+      "id": "sa015",
+      "question": "How did Balban deal with the revolt of Tughril Khan?",
+      "answer": "When Tughril Khan, the governor of Bengal, revolted against Balban, the sultan personally marched to Bengal at the age of 70 to suppress the rebellion. Balban killed Tughril Khan along with his entire family and all his supporters, demonstrating his ruthless approach to maintaining authority.",
+      "keywords": ["personally marched", "Bengal", "age 70", "killed Tughril Khan", "entire family", "all supporters", "ruthless"],
+      "source_section": "Balban"
+    }
+  ]
+}

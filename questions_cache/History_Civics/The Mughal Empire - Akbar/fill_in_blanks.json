@@ -1,0 +1,180 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "fib001",
+      "question": "Akbar was only _____ years old when he was proclaimed emperor.",
+      "answer": "13",
+      "explanation": "Akbar ascended to the throne at the young age of 13.",
+      "source_section": "Akbar's accession"
+    },
+    {
+      "id": "fib002",
+      "question": "Akbar ruled the Mughal Empire for _____ years, from 1556 to 1605 CE.",
+      "answer": "50",
+      "explanation": "Akbar's reign lasted 50 years, making it one of the longest and most significant in Mughal history.",
+      "source_section": "Akbar's accession"
+    },
+    {
+      "id": "fib003",
+      "question": "_____ served as Akbar's regent during his early years as emperor.",
+      "answer": "Bairam Khan",
+      "explanation": "Bairam Khan was appointed as the regent to guide the young emperor until he was old enough to rule independently.",
+      "source_section": "Akbar's regency"
+    },
+    {
+      "id": "fib004",
+      "question": "Akbar dismissed Bairam Khan at the age of _____.",
+      "answer": "18",
+      "explanation": "At 18, Akbar took personal control of the administration by dismissing his regent Bairam Khan.",
+      "source_section": "Akbar's regency"
+    },
+    {
+      "id": "fib005",
+      "question": "In the Second Battle of Panipat (1556), Akbar's forces defeated _____.",
+      "answer": "Hemu",
+      "explanation": "Hemu was the Hindu general who challenged Mughal authority and was defeated at the Second Battle of Panipat.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "fib006",
+      "question": "Akbar annexed Gondwana in the year _____.",
+      "answer": "1564",
+      "explanation": "Gondwana was annexed in 1564, after Malwa (1561) and before Gujarat (1572).",
+      "source_section": "Military conquests"
+    },
+    {
+      "id": "fib007",
+      "question": "Bengal was conquered by Akbar during the period _____.",
+      "answer": "1574-76",
+      "explanation": "The conquest of Bengal took place between 1574 and 1576.",
+      "source_section": "Military conquests"
+    },
+    {
+      "id": "fib008",
+      "question": "Akbar married the daughter of the Raja of _____ as part of his Rajput policy.",
+      "answer": "Jaipur (Amber)",
+      "explanation": "Akbar's marriage alliance with the Rajput princess of Jaipur (Amber) was a key part of his policy of reconciliation with Rajput rulers.",
+      "source_section": "Rajput policy"
+    },
+    {
+      "id": "fib009",
+      "question": "The Rajput commander at the siege of Chittor was _____.",
+      "answer": "Jai Mal",
+      "explanation": "Jai Mal led the defence of Chittor against Akbar's forces.",
+      "source_section": "Capture of Chittor"
+    },
+    {
+      "id": "fib010",
+      "question": "During the fall of Chittor, the Rajput women performed _____ to preserve their honour.",
+      "answer": "jauhar",
+      "explanation": "Jauhar was the practice of self-immolation by Rajput women to avoid capture by the enemy.",
+      "source_section": "Capture of Chittor"
+    },
+    {
+      "id": "fib011",
+      "question": "The Battle of Haldighati was fought in the year _____.",
+      "answer": "1576",
+      "explanation": "The famous Battle of Haldighati took place in 1576 between Rana Pratap and Akbar's forces led by Raja Man Singh.",
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "fib012",
+      "question": "Akbar's empire was divided into _____ subas (provinces).",
+      "answer": "15",
+      "explanation": "For administrative efficiency, Akbar divided his empire into 15 subas or provinces.",
+      "source_section": "Provincial administration"
+    },
+    {
+      "id": "fib013",
+      "question": "The subas were subdivided into sarkars, which were further divided into _____.",
+      "answer": "parganas",
+      "explanation": "The three-tier administrative structure was: subas (provinces), sarkars (districts), and parganas (sub-districts).",
+      "source_section": "Provincial administration"
+    },
+    {
+      "id": "fib014",
+      "question": "In the Mansabdari system, ranks ranged from 10 to _____ horsemen.",
+      "answer": "7000",
+      "explanation": "The Mansabdari system had ranks ranging from 10 to 7000 horsemen, and these ranks were not hereditary.",
+      "source_section": "Mansabdari system"
+    },
+    {
+      "id": "fib015",
+      "question": "The _____ was responsible for military affairs in Akbar's council of ministers.",
+      "answer": "Mir Bakshi",
+      "explanation": "The Mir Bakshi handled all military administration and maintained records of the army.",
+      "source_section": "Central administration"
+    },
+    {
+      "id": "fib016",
+      "question": "The minister in charge of the royal household was called the _____.",
+      "answer": "Mir Saman",
+      "explanation": "The Mir Saman looked after the royal household and its requirements.",
+      "source_section": "Central administration"
+    },
+    {
+      "id": "fib017",
+      "question": "Todar Mal introduced the bamboo jarib with _____ for accurate land measurement.",
+      "answer": "iron rings",
+      "explanation": "Iron rings were attached to the bamboo jarib to prevent it from shrinking or expanding, ensuring accurate land measurement.",
+      "source_section": "Todar Mal's Bandobast"
+    },
+    {
+      "id": "fib018",
+      "question": "Under Todar Mal's Bandobast, the land revenue was fixed at _____ of the average produce.",
+      "answer": "one-third",
+      "explanation": "Todar Mal fixed the land revenue at one-third of the average produce, which was considered a fair rate.",
+      "source_section": "Todar Mal's Bandobast"
+    },
+    {
+      "id": "fib019",
+      "question": "Akbar abolished the _____ tax and the pilgrim tax on Hindus.",
+      "answer": "jizya",
+      "explanation": "To promote religious harmony, Akbar abolished the jizya (a tax on non-Muslims) and the pilgrim tax.",
+      "source_section": "Revenue reforms"
+    },
+    {
+      "id": "fib020",
+      "question": "The Ibadat Khana was built by Akbar at _____ in 1575.",
+      "answer": "Fatehpur Sikri",
+      "explanation": "The Ibadat Khana (House of Worship) was constructed at Fatehpur Sikri for religious discussions among scholars of different faiths.",
+      "source_section": "Religious policy"
+    },
+    {
+      "id": "fib021",
+      "question": "Akbar founded a new faith called _____ in 1582.",
+      "answer": "Din-i-Ilahi",
+      "explanation": "Din-i-Ilahi (Divine Faith) was Akbar's attempt to create a syncretic religion combining elements of various faiths.",
+      "source_section": "Din-i-Ilahi"
+    },
+    {
+      "id": "fib022",
+      "question": "Akbar's principle of universal peace was known as _____.",
+      "answer": "Sulh-i-Kul",
+      "explanation": "Sulh-i-Kul (universal peace) was Akbar's guiding principle of tolerance towards all religions.",
+      "source_section": "Religious policy"
+    },
+    {
+      "id": "fib023",
+      "question": "_____ was the famous Persian poet in Akbar's court, while _____ wrote the Akbarnama.",
+      "answer": "Faizi, Abul Fazl",
+      "explanation": "Faizi was Akbar's court poet who composed in Persian, and his brother Abul Fazl was the historian who authored the Akbarnama.",
+      "source_section": "Literature and learning"
+    },
+    {
+      "id": "fib024",
+      "question": "Akbar's library contained _____ books, even though he himself was illiterate.",
+      "answer": "24,000",
+      "explanation": "Despite being illiterate, Akbar was a great patron of learning and maintained a library of 24,000 books.",
+      "source_section": "Literature and learning"
+    },
+    {
+      "id": "fib025",
+      "question": "The _____ at Fatehpur Sikri is a famous gateway built by Akbar, and the city was primarily constructed in _____.",
+      "answer": "Buland Darwaza, red sandstone",
+      "explanation": "The Buland Darwaza (Gate of Magnificence) is one of the highest gateways in the world. Fatehpur Sikri was built primarily of red sandstone.",
+      "source_section": "Architecture"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "ntf001",
+      "question": "The regent who looked after affairs of government on behalf of young Akbar.",
+      "answer": "Bairam Khan",
+      "source_section": "Akbar's Early Years"
+    },
+    {
+      "id": "ntf002",
+      "question": "The battle fought in 1556 CE that crushed Afghan power.",
+      "answer": "Second Battle of Panipat",
+      "source_section": "Military Conquests"
+    },
+    {
+      "id": "ntf003",
+      "question": "The chief minister and general of Adil Shah who was defeated and killed.",
+      "answer": "Hemu",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "ntf004",
+      "question": "The Rajput chief who led the Mughal forces in the Battle of Haldighati.",
+      "answer": "Raja Man Singh",
+      "source_section": "Relations with Rajputs"
+    },
+    {
+      "id": "ntf005",
+      "question": "The battle fought in 1576 CE between the Mughals and Rana Pratap.",
+      "answer": "Battle of Haldighati",
+      "source_section": "Relations with Rajputs"
+    },
+    {
+      "id": "ntf006",
+      "question": "The new capital city built by Akbar, referred to as a 'dream in stone'.",
+      "answer": "Fatehpur Sikri",
+      "source_section": "Art and Architecture"
+    },
+    {
+      "id": "ntf007",
+      "question": "The hall of prayer built by Akbar in 1575 CE for religious discussions.",
+      "answer": "Ibadat Khana",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ntf008",
+      "question": "The new religious order created by Akbar in 1582 CE.",
+      "answer": "Din-i-Ilahi",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ntf009",
+      "question": "The only Hindu courtier who accepted Din-i-Ilahi.",
+      "answer": "Birbal",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ntf010",
+      "question": "The revenue minister who introduced the land revenue system (Bandobast).",
+      "answer": "Todar Mal",
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ntf011",
+      "question": "The tax imposed by earlier Muslim rulers on non-Muslim subjects.",
+      "answer": "Jizya",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ntf012",
+      "question": "The court historian who wrote the Akbarnama.",
+      "answer": "Abul Fazl",
+      "source_section": "Literature and Learning"
+    },
+    {
+      "id": "ntf013",
+      "question": "The most famous musician at Akbar's court.",
+      "answer": "Tansen",
+      "source_section": "Art and Culture"
+    },
+    {
+      "id": "ntf014",
+      "question": "The principle meaning 'universal peace' that Akbar believed in.",
+      "answer": "Sulh-i-Kul",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ntf015",
+      "question": "The gold coin issued by Akbar.",
+      "answer": "Mohur",
+      "source_section": "Economy and Coinage"
+    }
+  ]
+}

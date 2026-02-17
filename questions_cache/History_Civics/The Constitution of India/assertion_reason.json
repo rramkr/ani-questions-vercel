@@ -1,0 +1,89 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ar001",
+      "assertion": "The source of the Constitution is the people of India.",
+      "reason": "The authority of the government is derived from the people.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The Preamble begins with 'We, the people of India', which means the source of the Constitution is the people. The government derives its authority from the people, which directly explains why the people are the source of the Constitution.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "ar002",
+      "assertion": "India is a secular state.",
+      "reason": "India does not have an official or state religion and guarantees freedom to practise any religion.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "India is indeed a secular state as stated in the Preamble. The reason correctly explains what makes India secular - the absence of an official religion and the guarantee of religious freedom for all citizens.",
+      "source_section": "Nature of the Indian State"
+    },
+    {
+      "id": "ar003",
+      "assertion": "26 January is celebrated as Republic Day.",
+      "reason": "The Constitution of India came into force on 26 January 1950.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "26 January is celebrated as Republic Day because the Constitution came into force on that date in 1950, making India a sovereign democratic republic. The reason directly explains why the day is celebrated.",
+      "source_section": "Important Dates"
+    },
+    {
+      "id": "ar004",
+      "assertion": "India is a republic.",
+      "reason": "The head of state is an elected official, not a hereditary monarch.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "India is a republic as stated in the Preamble. A republic means the head of state (the President) is elected by the people, not a hereditary position like a monarchy. The reason correctly explains why India is called a republic.",
+      "source_section": "Nature of the Indian State"
+    },
+    {
+      "id": "ar005",
+      "assertion": "The terms 'Socialist' and 'Secular' were added to the Preamble in 1976.",
+      "reason": "The 42nd Amendment Act added these terms to promote socialism and secularism.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both the assertion and reason are true. The terms 'Socialist' and 'Secular' were not part of the original Preamble. They were added through the 42nd Amendment Act in 1976, which was done to emphasise India's commitment to socialism and secularism.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "ar006",
+      "assertion": "Democracy can work only with a spirit of brotherhood.",
+      "reason": "Fraternity removes social barriers between different communities.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "For democracy to function effectively, citizens must feel a sense of brotherhood and unity. Fraternity helps remove social barriers such as untouchability and communalism, which is essential for a functioning democracy. The reason explains how fraternity supports democracy.",
+      "source_section": "Objectives of the Constitution"
+    }
+  ]
+}

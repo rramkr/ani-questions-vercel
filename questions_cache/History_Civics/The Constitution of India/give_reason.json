@@ -1,0 +1,35 @@
+{
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "gr001",
+      "question": "Why is the Preamble important?",
+      "answer": "The Preamble is important because it is the introduction to the Constitution. It tells us the source of the Constitution (the people of India), the nature of the Indian state (sovereign, socialist, secular, democratic, republic) and the objectives of the Constitution (justice, liberty, equality, fraternity). It reflects the vision and wishes of the people who framed the Constitution.",
+      "source_section": "The Preamble"
+    },
+    {
+      "id": "gr002",
+      "question": "Why did the framers of the Constitution promote fraternity?",
+      "answer": "The framers promoted fraternity because democracy works only with a spirit of brotherhood among different sections of society. Fraternity removes social barriers and when a 'one people' feeling is established, evils like untouchability and communalism can be removed. Harmony and progress follow when citizens feel a sense of brotherhood.",
+      "source_section": "Objectives of the Constitution"
+    },
+    {
+      "id": "gr003",
+      "question": "Why is India called a secular state?",
+      "answer": "India is called a secular state because it does not have an official or state religion. It does not discriminate against citizens on grounds of religion, does not favour any particular religion, and guarantees freedom to profess, practise and propagate one's own religion.",
+      "source_section": "Nature of the Indian State"
+    },
+    {
+      "id": "gr004",
+      "question": "Why is 26 January significant for India?",
+      "answer": "26 January is significant because the Constitution of India came into force on 26 January 1950, making India a sovereign, democratic republic. This day is celebrated every year as Republic Day to mark this historic occasion.",
+      "source_section": "Important Dates"
+    },
+    {
+      "id": "gr005",
+      "question": "Why is the Constitution not considered to be imposed by the British?",
+      "answer": "The Constitution is not considered to be imposed by the British because the Preamble begins with 'We, the people of India', meaning the source of the Constitution is the people themselves. The authority of the government is derived from the people. It was framed by the Constituent Assembly, an elected body representing all communities of India, not by any foreign power.",
+      "source_section": "The Preamble"
+    }
+  ]
+}
