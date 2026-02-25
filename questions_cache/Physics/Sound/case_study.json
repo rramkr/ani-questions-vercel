@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "cs001",
-      "passage": "Dr. Sharma is an ENT specialist treating patients with hearing problems. One day, three patients visit her clinic:\n\nPatient A: A 7-year-old child who cannot hear sounds below certain frequencies.\nPatient B: A factory worker (age 45) who has difficulty hearing normal conversations.\nPatient C: A teenager who listens to loud music through earphones for several hours daily.\n\nDr. Sharma uses various tests and explains to each patient about the audible range of human hearing (20 Hz to 20,000 Hz) and the importance of protecting ears from loud sounds above 85 decibels.",
+      "case_text": "Dr. Sharma is an ENT specialist treating patients with hearing problems. One day, three patients visit her clinic:\n\nPatient A: A 7-year-old child who cannot hear sounds below certain frequencies.\nPatient B: A factory worker (age 45) who has difficulty hearing normal conversations.\nPatient C: A teenager who listens to loud music through earphones for several hours daily.\n\nDr. Sharma uses various tests and explains to each patient about the audible range of human hearing (20 Hz to 20,000 Hz) and the importance of protecting ears from loud sounds above 85 decibels.",
       "questions": [
         {
           "question": "What is the normal audible range for humans?",
@@ -30,7 +30,7 @@
     },
     {
       "id": "cs002",
-      "passage": "A naval ship is equipped with SONAR technology to detect submarines. The SONAR system sends ultrasonic pulses into the water and receives echoes from underwater objects.\n\nDuring a training exercise, the SONAR operator records the following data:\n- Pulse 1: Echo received after 4 seconds\n- Pulse 2: Echo received after 3 seconds (5 minutes later)\n- Speed of sound in seawater: 1500 m/s\n\nThe commanding officer wants to know if the detected object is stationary or moving.",
+      "case_text": "A naval ship is equipped with SONAR technology to detect submarines. The SONAR system sends ultrasonic pulses into the water and receives echoes from underwater objects.\n\nDuring a training exercise, the SONAR operator records the following data:\n- Pulse 1: Echo received after 4 seconds\n- Pulse 2: Echo received after 3 seconds (5 minutes later)\n- Speed of sound in seawater: 1500 m/s\n\nThe commanding officer wants to know if the detected object is stationary or moving.",
       "questions": [
         {
           "question": "What does SONAR stand for?",
@@ -57,7 +57,7 @@
     },
     {
       "id": "cs003",
-      "passage": "Ravi and his friends are visiting a science museum. They see an exhibit about sound with different musical instruments and a demonstration of how sound travels.\n\nThe exhibit shows:\n1. A guitar with strings of different thicknesses\n2. A drum with a tight membrane\n3. A flute\n4. A vacuum chamber with a ringing bell inside\n\nA guide explains that sound is produced differently in each instrument and that some conditions are necessary for sound to travel.",
+      "case_text": "Ravi and his friends are visiting a science museum. They see an exhibit about sound with different musical instruments and a demonstration of how sound travels.\n\nThe exhibit shows:\n1. A guitar with strings of different thicknesses\n2. A drum with a tight membrane\n3. A flute\n4. A vacuum chamber with a ringing bell inside\n\nA guide explains that sound is produced differently in each instrument and that some conditions are necessary for sound to travel.",
       "questions": [
         {
           "question": "How is sound produced in the guitar?",
@@ -84,7 +84,7 @@
     },
     {
       "id": "cs004",
-      "passage": "Mrs. Gupta is pregnant and visits the hospital for her regular checkup. The doctor recommends an ultrasound scan to check the baby's development.\n\nThe ultrasound technician explains to Mrs. Gupta how the technology works:\n- A device called a transducer sends high-frequency sound waves into her body\n- These waves bounce off the baby and internal organs\n- The echoes are converted into images on a screen\n- The procedure is completely safe and uses no radiation\n\nThe scan reveals that the baby is healthy and growing normally.",
+      "case_text": "Mrs. Gupta is pregnant and visits the hospital for her regular checkup. The doctor recommends an ultrasound scan to check the baby's development.\n\nThe ultrasound technician explains to Mrs. Gupta how the technology works:\n- A device called a transducer sends high-frequency sound waves into her body\n- These waves bounce off the baby and internal organs\n- The echoes are converted into images on a screen\n- The procedure is completely safe and uses no radiation\n\nThe scan reveals that the baby is healthy and growing normally.",
       "questions": [
         {
           "question": "What frequency range is used in medical ultrasound?",
@@ -111,7 +111,7 @@
     },
     {
       "id": "cs005",
-      "passage": "A class 7 science class is conducting experiments on sound. The teacher gives them the following data:\n\nExperiment 1: A tuning fork vibrating 256 times per second\nExperiment 2: Speed of sound measured as 340 m/s\nExperiment 3: An echo heard 0.5 seconds after a loud clap\n\nThe students are asked to calculate various parameters and understand the concepts of frequency, wavelength, and echo.",
+      "case_text": "A class 7 science class is conducting experiments on sound. The teacher gives them the following data:\n\nExperiment 1: A tuning fork vibrating 256 times per second\nExperiment 2: Speed of sound measured as 340 m/s\nExperiment 3: An echo heard 0.5 seconds after a loud clap\n\nThe students are asked to calculate various parameters and understand the concepts of frequency, wavelength, and echo.",
       "questions": [
         {
           "question": "What is the frequency of the tuning fork?",

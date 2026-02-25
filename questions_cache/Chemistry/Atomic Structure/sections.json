@@ -1,0 +1,11 @@
+{
+  "subject": "Chemistry",
+  "chapter": "Atomic Structure",
+  "sections": {
+    "textbook": [],
+    "exam": [
+      {"value": "workbook", "label": "Workbook", "icon": "📓"}
+    ],
+    "miscellaneous": []
+  }
+}

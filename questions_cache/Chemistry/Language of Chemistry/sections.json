@@ -1,0 +1,11 @@
+{
+  "subject": "Chemistry",
+  "chapter": "Language of Chemistry",
+  "sections": {
+    "textbook": [],
+    "exam": [
+      {"value": "workbook", "label": "Workbook", "icon": "📓"}
+    ],
+    "miscellaneous": []
+  }
+}

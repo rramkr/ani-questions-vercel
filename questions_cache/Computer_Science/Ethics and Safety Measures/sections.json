@@ -6,6 +6,7 @@
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
     ],
     "exam": [
+      {"value": "graded_test", "label": "Graded Test", "icon": "📝"},
       {"value": "mcq", "label": "Multiple Choice (I)", "icon": "🔘"},
       {"value": "match_the_following", "label": "Match the Following (II)", "icon": "🔗"},
       {"value": "name_icons", "label": "Name the Icons (III)", "icon": "🖼️"},

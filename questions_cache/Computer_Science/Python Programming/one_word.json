@@ -150,6 +150,81 @@
       "id": 30,
       "question": "What operator means 'lesser than or equal to'?",
       "answer": "<="
+    },
+    {
+      "id": 31,
+      "question": "What escape sequence creates a new line in output?",
+      "answer": "\\n"
+    },
+    {
+      "id": 32,
+      "question": "What escape sequence gives a horizontal tab (4 spaces)?",
+      "answer": "\\t"
+    },
+    {
+      "id": 33,
+      "question": "Who created Python?",
+      "answer": "Guido Van Rossum"
+    },
+    {
+      "id": 34,
+      "question": "Python was named after which famous British comedy show?",
+      "answer": "Monty Python"
+    },
+    {
+      "id": 35,
+      "question": "What type of programming language is Python?",
+      "answer": "High-level language"
+    },
+    {
+      "id": 36,
+      "question": "In which mode can you write and run only one line at a time?",
+      "answer": "Interactive mode"
+    },
+    {
+      "id": 37,
+      "question": "In which mode can you write, save and run multiple lines of code?",
+      "answer": "Script mode"
+    },
+    {
+      "id": 38,
+      "question": "What data type represents numbers with decimal points?",
+      "answer": "Float"
+    },
+    {
+      "id": 39,
+      "question": "What data type represents whole numbers in Python?",
+      "answer": "Integer"
+    },
+    {
+      "id": 40,
+      "question": "What is the language made up of only 1s and 0s called?",
+      "answer": "Binary/Machine language"
+    },
+    {
+      "id": 41,
+      "question": "What function converts a string to a float?",
+      "answer": "float()"
+    },
+    {
+      "id": 42,
+      "question": "What does the * operator do in Python?",
+      "answer": "Multiplication (gives the product)"
+    },
+    {
+      "id": 43,
+      "question": "The operator != means ________.",
+      "answer": "Not equal to"
+    },
+    {
+      "id": 44,
+      "question": "if, elif, and else are examples of ________ statements.",
+      "answer": "Conditional"
+    },
+    {
+      "id": 45,
+      "question": "The symbol == is used for ________.",
+      "answer": "Comparison (checking equality)"
     }
   ]
 }

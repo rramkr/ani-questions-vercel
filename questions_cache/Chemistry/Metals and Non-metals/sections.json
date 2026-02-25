@@ -1,0 +1,11 @@
+{
+  "subject": "Chemistry",
+  "chapter": "Metals and Non-metals",
+  "sections": {
+    "textbook": [],
+    "exam": [
+      {"value": "workbook", "label": "Workbook", "icon": "📓"}
+    ],
+    "miscellaneous": []
+  }
+}

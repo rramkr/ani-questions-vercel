@@ -300,6 +300,106 @@
       "id": 60,
       "question": "What is the output of the following code?\n\nx = 100\nif (x > 50):\n    print(\"Big\")\nif (x > 90):\n    print(\"Very Big\")",
       "answer": "Big\nVery Big"
+    },
+    {
+      "id": 61,
+      "question": "What is the output of the following code?\n\nprint(\"Hello\\nWorld\")",
+      "answer": "Hello\nWorld"
+    },
+    {
+      "id": 62,
+      "question": "What is the output of the following code?\n\nprint(\"Name\\tAge\")\nprint(\"Ani\\t13\")",
+      "answer": "Name\tAge\nAni\t13"
+    },
+    {
+      "id": 63,
+      "question": "What is the output of the following code?\n\nprint(\"Line1\\nLine2\\nLine3\")",
+      "answer": "Line1\nLine2\nLine3"
+    },
+    {
+      "id": 64,
+      "question": "What is the output of the following code?\n\nprint(\"A\\tB\\tC\")",
+      "answer": "A\tB\tC"
+    },
+    {
+      "id": 65,
+      "question": "What is the output of the following code?\n\nprint(\"Hello\\tWorld\\nGood\\tMorning\")",
+      "answer": "Hello\tWorld\nGood\tMorning"
+    },
+    {
+      "id": 66,
+      "question": "What is the output of the following code?\n\na = 10\nb = 3\nprint(a / b)",
+      "answer": "3.3333333333333335"
+    },
+    {
+      "id": 67,
+      "question": "What is the output of the following code?\n\nA = 6\nB = 5\nprint(A * B * 2)",
+      "answer": "60"
+    },
+    {
+      "id": 68,
+      "question": "What is the output of the following code?\n\nh = 60\nf = 7\nprint(h % f)",
+      "answer": "4"
+    },
+    {
+      "id": 69,
+      "question": "What is the output of the following code?\n\nprint(10 + 20)",
+      "answer": "30"
+    },
+    {
+      "id": 70,
+      "question": "What is the output of the following code?\n\nprint(200 - 60)",
+      "answer": "140"
+    },
+    {
+      "id": 71,
+      "question": "What is the output of the following code?\n\nname = \"John\"\nname = \"Sara\"\nprint(name)",
+      "answer": "Sara"
+    },
+    {
+      "id": 72,
+      "question": "What is the output of the following code?\n\nprint(len(\"H T\"))",
+      "answer": "3"
+    },
+    {
+      "id": 73,
+      "question": "What is the output of the following code?\n\na = 10\nif a > 5:\n    print(\"Small\")\nelse:\n    print(\"Big\")",
+      "answer": "Small"
+    },
+    {
+      "id": 74,
+      "question": "What is the output of the following code?\n\na = 7\nif a == 7:\n    print(\"this is wrong\")\nelse:\n    print(\"this is correct\")",
+      "answer": "this is wrong"
+    },
+    {
+      "id": 75,
+      "question": "What is the output of the following code?\n\nx = 6\nif x != 5:\n    print(\"Not five\")",
+      "answer": "Not five"
+    },
+    {
+      "id": 76,
+      "question": "What is the output of the following code?\n\nteams = [\"RCB\", \"CSK\", \"MI\", \"PKBS\"]\nTotal_teams = len(teams)\nif Total_teams == 4:\n    print(\"the og teams\")\nelse:\n    print(\"not the og teams\")",
+      "answer": "the og teams"
+    },
+    {
+      "id": 77,
+      "question": "What is the output of the following code?\n\nteams = [\"RCB\", \"CSK\", \"MI\", \"PKBS\"]\nif teams[1] == \"RCB\":\n    print(\"2025 title winners\")\nelse:\n    print(\"PKBS is the runner up of 2025\")",
+      "answer": "PKBS is the runner up of 2025"
+    },
+    {
+      "id": 78,
+      "question": "What is the output of the following code?\n\nlist1 = [\"John\", \"Joa\", \"Jack\", \"Bob\"]\nfor i in range(0, 4):\n    print(list1[i])",
+      "answer": "John\nJoa\nJack\nBob"
+    },
+    {
+      "id": 79,
+      "question": "What is the output of the following code?\n\nlist1 = [\"John\", \"Joa\", \"Jack\", \"Bob\"]\nprint(list1[-4])",
+      "answer": "John"
+    },
+    {
+      "id": 80,
+      "question": "What is the output of the following code?\n\nx = 10\nif x % 2 == 0:\n    print(\"Welcome\")\nelse:\n    print(\"Thank You\")",
+      "answer": "Welcome"
     }
   ]
 }

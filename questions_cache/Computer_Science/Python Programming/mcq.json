@@ -480,6 +480,114 @@
       "question": "What does the else block in if-else execute?",
       "options": ["When condition is True", "When condition is False", "Always", "Never"],
       "answer": "When condition is False"
+    },
+    {
+      "id": 81,
+      "question": "What does the escape sequence \\n do in Python?",
+      "options": ["Adds a tab space", "Moves cursor to the next line", "Adds a backspace", "Does nothing"],
+      "answer": "Moves cursor to the next line"
+    },
+    {
+      "id": 82,
+      "question": "What does the escape sequence \\t do in Python?",
+      "options": ["Adds a new line", "Adds a horizontal tab (4 spaces)", "Adds a backspace", "Ends the string"],
+      "answer": "Adds a horizontal tab (4 spaces)"
+    },
+    {
+      "id": 83,
+      "question": "What is the output of print(\"Hello\\nWorld\")?",
+      "options": ["Hello\\nWorld", "HelloWorld", "Hello on one line, World on the next line", "Hello World"],
+      "answer": "Hello on one line, World on the next line"
+    },
+    {
+      "id": 84,
+      "question": "Who created Python?",
+      "options": ["Dennis Ritchie", "Guido Van Rossum", "James Gosling", "Bjarne Stroustrup"],
+      "answer": "Guido Van Rossum"
+    },
+    {
+      "id": 85,
+      "question": "Python was named after which show?",
+      "options": ["Python Snake Show", "Monty Python (a British comedy show)", "Python World", "The Python Show"],
+      "answer": "Monty Python (a British comedy show)"
+    },
+    {
+      "id": 86,
+      "question": "Python is which type of programming language?",
+      "options": ["Machine language", "Assembly language", "High-level language", "Binary language"],
+      "answer": "High-level language"
+    },
+    {
+      "id": 87,
+      "question": "In which mode can you write, save and run programs with multiple lines of code?",
+      "options": ["Interactive mode", "Script mode", "Debug mode", "Binary mode"],
+      "answer": "Script mode"
+    },
+    {
+      "id": 88,
+      "question": "In which mode can you only write and run one line of code at a time?",
+      "options": ["Script mode", "Interactive mode", "Batch mode", "Compile mode"],
+      "answer": "Interactive mode"
+    },
+    {
+      "id": 89,
+      "question": "Which data type represents whole numbers in Python?",
+      "options": ["String", "Float", "Integer", "Boolean"],
+      "answer": "Integer"
+    },
+    {
+      "id": 90,
+      "question": "Which data type has decimal points in Python?",
+      "options": ["Integer", "Float", "String", "Boolean"],
+      "answer": "Float"
+    },
+    {
+      "id": 91,
+      "question": "In Python, anything within quotes is a:",
+      "options": ["Integer", "Float", "String", "Boolean"],
+      "answer": "String"
+    },
+    {
+      "id": 92,
+      "question": "What is a variable in Python?",
+      "options": ["A special symbol for operations", "A container for storing data values", "A type of loop", "A Python module"],
+      "answer": "A container for storing data values"
+    },
+    {
+      "id": 93,
+      "question": "What is the hardware/processor language made up of 1s and 0s called?",
+      "options": ["Assembly language", "High-level language", "Binary/Machine language", "Python language"],
+      "answer": "Binary/Machine language"
+    },
+    {
+      "id": 94,
+      "question": "What software converts high-level language code into binary?",
+      "options": ["Assembler", "Compiler/Interpreter", "Debugger", "Editor"],
+      "answer": "Compiler/Interpreter"
+    },
+    {
+      "id": 95,
+      "question": "What is the length of the string \"H T\" in Python?",
+      "options": ["2", "3", "4", "1"],
+      "answer": "3"
+    },
+    {
+      "id": 96,
+      "question": "What is an operand?",
+      "options": ["A special symbol for operations", "The value an operator acts upon", "A type of function", "A Python keyword"],
+      "answer": "The value an operator acts upon"
+    },
+    {
+      "id": 97,
+      "question": "What does the * operator do in Python?",
+      "options": ["Gives quotient", "Gives remainder", "Gives the product", "Gives the sum"],
+      "answer": "Gives the product"
+    },
+    {
+      "id": 98,
+      "question": "What does the / operator give in Python?",
+      "options": ["Remainder", "Product", "Quotient", "Sum"],
+      "answer": "Quotient"
     }
   ]
 }

@@ -1,0 +1,1023 @@
+{
+  "subject": "Computer Science",
+  "chapter": "Python Programming",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "sp1_po_01",
+      "question": "Predict the output:\n\nprint(\"Python\\nCode\")",
+      "answer": "Python\nCode",
+      "explanation": "The \\n escape sequence creates a new line. So \"Python\" prints on the first line and \"Code\" on the second line.",
+      "source_section": "Paper 1 — Predict the Output"
+    },
+    {
+      "id": "sp1_po_02",
+      "question": "Predict the output:\n\nA = 6\nB = 7\nprint(A * B * 2)",
+      "answer": "84",
+      "explanation": "A * B = 6 * 7 = 42, then 42 * 2 = 84. Multiplication is evaluated left to right.",
+      "source_section": "Paper 1 — Predict the Output"
+    },
+    {
+      "id": "sp1_po_03",
+      "question": "Predict the output:\n\nprint(50 / 6)",
+      "answer": "8.333333333333334",
+      "explanation": "The / operator performs true division and always returns a float. 50 ÷ 6 = 8.333...",
+      "source_section": "Paper 1 — Predict the Output"
+    },
+    {
+      "id": "sp1_po_04",
+      "question": "Predict the output:\n\nH = 30\nK = 7\nprint(H % 7)",
+      "answer": "2",
+      "explanation": "The % operator gives the remainder. 30 ÷ 7 = 4 remainder 2. So H % 7 = 2.",
+      "source_section": "Paper 1 — Predict the Output"
+    },
+    {
+      "id": "sp1_po_05",
+      "question": "Predict the output:\n\nX = 512\nY = 250\nZ = Y - X\nprint(\"The difference\", Z)",
+      "answer": "The difference -262",
+      "explanation": "Z = 250 - 512 = -262. The print statement outputs the string followed by a space and the value of Z.",
+      "source_section": "Paper 1 — Predict the Output"
+    },
+    {
+      "id": "sp1_dt_01",
+      "question": "Write the Python data type for the following data:\n\"Finland\"",
+      "answer": "str (string)",
+      "explanation": "Anything within quotes in Python is a string.",
+      "source_section": "Paper 1 — Data Types"
+    },
+    {
+      "id": "sp1_dt_02",
+      "question": "Write the Python data type for: 4326",
+      "answer": "int (integer)",
+      "explanation": "4326 is a whole number without any decimal point, so it is an integer.",
+      "source_section": "Paper 1 — Data Types"
+    },
+    {
+      "id": "sp1_dt_03",
+      "question": "Write the Python data type for: 567.7",
+      "answer": "float",
+      "explanation": "567.7 has a decimal point, so it is a float.",
+      "source_section": "Paper 1 — Data Types"
+    },
+    {
+      "id": "sp1_dt_04",
+      "question": "Write the Python data type for: True",
+      "answer": "bool (boolean)",
+      "explanation": "True and False are boolean values in Python.",
+      "source_section": "Paper 1 — Data Types"
+    },
+    {
+      "id": "sp1_dt_05",
+      "question": "Write the Python data type for: \"S\"",
+      "answer": "str (string)",
+      "explanation": "Even a single character within quotes is a string in Python.",
+      "source_section": "Paper 1 — Data Types"
+    },
+    {
+      "id": "sp1_sa_01",
+      "question": "Write the two modes in which Python programs are executed.",
+      "answer": "Python programs can be executed in two modes:\n1. Interactive mode — We can write and run one line of code at a time in the interactive shell. It shows the version and copyright details at the top.\n2. Script mode — We can write, save and run programs with multiple lines of code. The file is \"untitled\" until you give it a name.",
+      "source_section": "Paper 1 — Short Answer"
+    },
+    {
+      "id": "sp1_sa_02",
+      "question": "Define a variable in Python.",
+      "answer": "In Python, a variable is used to store data values. It acts as a container (or label) for information that can be referenced and manipulated in a program. Variables are created when you assign a value to them using the = operator. The data value stored can be changed, but the label stays the same.",
+      "source_section": "Paper 1 — Short Answer"
+    },
+    {
+      "id": "sp1_wc_01",
+      "question": "Write a Python code to accept 2 integers from the user and print their product.",
+      "answer": "a = int(input(\"Enter first number: \"))\nb = int(input(\"Enter second number: \"))\nprint(a * b)",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp1_wc_02",
+      "question": "Write a Python code to accept a number and print the square of the number.",
+      "answer": "num = int(input(\"Enter a number: \"))\nprint(num * num)",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp1_wc_03",
+      "question": "The cost of one 5-Star chocolate is 10. Write a Python code to print the cost of 60 chocolates.",
+      "answer": "cost = 10\nprint(cost * 60)",
+      "explanation": "Output: 600",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp1_wc_04",
+      "question": "Write Python code to calculate and print the quotient when 10000 is divided by 17.",
+      "answer": "print(10000 // 17)",
+      "explanation": "The // operator gives the integer quotient. 10000 // 17 = 588.",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp1_wc_05",
+      "question": "Write a Python code to accept your age and print the year in which you were born.",
+      "answer": "age = int(input(\"Enter your age: \"))\nprint(2026 - age)",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp1_wc_06",
+      "question": "Write a Python code to print your favourite 5 festivals in India in 5 different lines.",
+      "answer": "print(\"Diwali\")\nprint(\"Holi\")\nprint(\"Pongal\")\nprint(\"Eid\")\nprint(\"Christmas\")",
+      "explanation": "Each print() statement automatically adds a newline, so each festival appears on a separate line.",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp1_wc_07",
+      "question": "Write a Python code to accept the time taken to watch a movie in hours. Calculate and print the time taken in minutes.",
+      "answer": "hours = int(input(\"Enter time in hours: \"))\nprint(hours * 60)",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp1_wc_08",
+      "question": "Write a Python code to accept the number of bytes and print the bits in it.",
+      "answer": "bytes_val = int(input(\"Enter number of bytes: \"))\nprint(bytes_val * 8)",
+      "explanation": "1 byte = 8 bits.",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp1_wc_09",
+      "question": "Write a Python code to accept 3 subject marks and print the total of the 3 subjects.",
+      "answer": "m1 = int(input(\"Enter mark 1: \"))\nm2 = int(input(\"Enter mark 2: \"))\nm3 = int(input(\"Enter mark 3: \"))\nprint(m1 + m2 + m3)",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp1_wc_10",
+      "question": "Write a Python code to accept the cost of a dozen (12) oranges. Calculate and print the cost of 1 orange.",
+      "answer": "cost = float(input(\"Enter cost of 12 oranges: \"))\nprint(cost / 12)",
+      "source_section": "Paper 1 — Write Python Code"
+    },
+    {
+      "id": "sp2_mcq_01",
+      "question": "In the given Python list countries, the item \"India\" has an index number of ____.\n\ncountries = [\"India\", \"Sri Lanka\", \"USA\", \"UK\", \"Australia\"]\n\na) 0  b) 1  c) 2  d) 3",
+      "answer": "a) 0",
+      "explanation": "In Python, list indexing starts at 0. \"India\" is the first item, so its index is 0.",
+      "source_section": "Paper 2 — MCQ"
+    },
+    {
+      "id": "sp2_tf_01",
+      "question": "True or False: Each item in a Python list can be retrieved/accessed using only a positive index number.",
+      "answer": "False. Items in a Python list can be accessed using both positive and negative index numbers. Negative indexing starts from -1 for the last item.",
+      "source_section": "Paper 2 — True/False"
+    },
+    {
+      "id": "sp2_tf_02",
+      "question": "True or False: The step value in the range() Python function is optional.",
+      "answer": "True. The range() function can have 1, 2, or 3 parameters. The step value is optional and defaults to 1.",
+      "source_section": "Paper 2 — True/False"
+    },
+    {
+      "id": "sp2_ws_01",
+      "question": "Given: games = [\"Football\", \"Cricket\", \"Hockey\", \"Throwball\", \"Basketball\"]\n\nWrite a Python statement to print the first item using positive index.",
+      "answer": "print(games[0])\nOutput: Football",
+      "source_section": "Paper 2 — Write Python Statements"
+    },
+    {
+      "id": "sp2_ws_02",
+      "question": "Given: games = [\"Football\", \"Cricket\", \"Hockey\", \"Throwball\", \"Basketball\"]\n\nWrite a Python statement to print the middle item using the negative index.",
+      "answer": "print(games[-3])\nOutput: Hockey",
+      "explanation": "Hockey is at positive index 2 and negative index -3.",
+      "source_section": "Paper 2 — Write Python Statements"
+    },
+    {
+      "id": "sp2_ws_03",
+      "question": "Given: games = [\"Football\", \"Cricket\", \"Hockey\", \"Throwball\", \"Basketball\"]\n\nWrite a Python statement to print the last item using the positive index.",
+      "answer": "print(games[4])\nOutput: Basketball",
+      "source_section": "Paper 2 — Write Python Statements"
+    },
+    {
+      "id": "sp2_ws_04",
+      "question": "Given: games = [\"Football\", \"Cricket\", \"Hockey\", \"Throwball\", \"Basketball\"]\n\nWrite a Python statement to print the second item using the negative index.",
+      "answer": "print(games[-4])\nOutput: Cricket",
+      "explanation": "Cricket is at positive index 1, which corresponds to negative index -4.",
+      "source_section": "Paper 2 — Write Python Statements"
+    },
+    {
+      "id": "sp2_rg_01",
+      "question": "Fill in the range() to print the series: 5, 10, 15, 20, 25, ..., 50",
+      "answer": "for i in range(5, 51, 5):\n    print(i)",
+      "explanation": "Start at 5, stop before 51, step by 5.",
+      "source_section": "Paper 2 — Fill in Range"
+    },
+    {
+      "id": "sp2_rg_02",
+      "question": "Fill in the range() to print the series: 100, 90, 80, 70, 60, ..., 10",
+      "answer": "for i in range(100, 9, -10):\n    print(i)",
+      "explanation": "Start at 100, stop before 9, step by -10.",
+      "source_section": "Paper 2 — Fill in Range"
+    },
+    {
+      "id": "sp2_rg_03",
+      "question": "Fill in the range() to print the series: 0, 2, 4, 6, 8, 10",
+      "answer": "for i in range(0, 11, 2):\n    print(i)",
+      "explanation": "Start at 0, stop before 11, step by 2.",
+      "source_section": "Paper 2 — Fill in Range"
+    },
+    {
+      "id": "sp2_rg_04",
+      "question": "Fill in the range() to print the series: 201, 202, ..., 300",
+      "answer": "for i in range(201, 301):\n    print(i)",
+      "explanation": "Start at 201, stop before 301. Default step is 1.",
+      "source_section": "Paper 2 — Fill in Range"
+    },
+    {
+      "id": "sp2_rg_05",
+      "question": "Fill in the range() to print the series: 1, 4, 7, 10, ..., 22",
+      "answer": "for i in range(1, 23, 3):\n    print(i)",
+      "explanation": "Start at 1, stop before 23, step by 3.",
+      "source_section": "Paper 2 — Fill in Range"
+    },
+    {
+      "id": "sp2_sa_01",
+      "question": "What is the use of the range() function in Python?",
+      "answer": "The range() function is used to generate a sequence of numbers. It is commonly used with the for loop to repeat code a fixed number of times. It can take up to 3 parameters: start, stop, and step. The start value is inclusive, the stop value is exclusive (stops one before), and step is the amount by which the numbers increase or decrease.",
+      "source_section": "Paper 2 — Short Answer"
+    },
+    {
+      "id": "sp2_sa_02",
+      "question": "What is an index number in a Python list?",
+      "answer": "An index number is the position number of an item in a Python list. Each item in a list has both a positive index (starting from 0 for the first item) and a negative index (starting from -1 for the last item). Index numbers are used to access individual items from the list.",
+      "source_section": "Paper 2 — Short Answer"
+    },
+    {
+      "id": "sp2_wc_01",
+      "question": "Write a Python code to create a list that contains the names of all 12 months in a year. Display all the names one by one using a for loop.",
+      "answer": "months = [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\", \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"]\nfor m in months:\n    print(m)",
+      "source_section": "Paper 2 — Write Python Code"
+    },
+    {
+      "id": "sp2_wc_02",
+      "question": "Your friend is celebrating a birthday. Write a Python code to display a countdown of numbers from 10 to 1 and greet \"Happy birthday\" at the end.",
+      "answer": "for i in range(10, 0, -1):\n    print(i)\nprint(\"Happy birthday\")",
+      "source_section": "Paper 2 — Write Python Code"
+    },
+    {
+      "id": "sp2_wc_03",
+      "question": "Write a Python code to create a list with 5 country names and display the items in the list using positive index.",
+      "answer": "countries = [\"India\", \"Japan\", \"Brazil\", \"France\", \"Australia\"]\nprint(countries[0])\nprint(countries[1])\nprint(countries[2])\nprint(countries[3])\nprint(countries[4])",
+      "source_section": "Paper 2 — Write Python Code"
+    },
+    {
+      "id": "sp2_wc_04",
+      "question": "Write a Python code to create a list with 5 cartoon character names and display the items in the list using negative index.",
+      "answer": "cartoons = [\"Tom\", \"Jerry\", \"Pikachu\", \"Doraemon\", \"Shinchan\"]\nprint(cartoons[-5])\nprint(cartoons[-4])\nprint(cartoons[-3])\nprint(cartoons[-2])\nprint(cartoons[-1])",
+      "source_section": "Paper 2 — Write Python Code"
+    },
+    {
+      "id": "sp2_wc_05",
+      "question": "Write a Python code to accept the name of your favourite hero and print the letters of his name one by one.",
+      "answer": "name = input(\"Enter name of your favourite hero: \")\nfor letter in name:\n    print(letter)",
+      "source_section": "Paper 2 — Write Python Code"
+    },
+    {
+      "id": "sp2_wc_06",
+      "question": "Write a Python code to accept your school's name and print it 25 times.",
+      "answer": "school = input(\"Enter your school name: \")\nfor i in range(25):\n    print(school)",
+      "source_section": "Paper 2 — Write Python Code"
+    },
+    {
+      "id": "sp2_wc_07",
+      "question": "Write a Python code to create the following list of sportsmen: \"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\". Display their names in alphabetical order using positive index.",
+      "answer": "sportsmen = [\"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\"]\nsportsmen.sort()\nfor i in range(len(sportsmen)):\n    print(sportsmen[i])",
+      "explanation": "After sorting: Abhinav Bhindra, Dhyaan Chand, Neeraj Chopra, Sunil Chhetri, Virat Kohli",
+      "source_section": "Paper 2 — Write Python Code"
+    },
+    {
+      "id": "sp2_wc_08",
+      "question": "Write a Python code to print \"India\" 5 times with a time delay of 1 second.",
+      "answer": "import time\nfor i in range(5):\n    print(\"India\")\n    time.sleep(1)",
+      "source_section": "Paper 2 — Write Python Code"
+    },
+    {
+      "id": "sp4_ow_01",
+      "question": "Name the Python operator that gives the remainder.",
+      "answer": "% (modulus operator)",
+      "explanation": "The % operator returns the remainder after division. For example, 10 % 3 = 1.",
+      "source_section": "Paper 4 — One Word Answer"
+    },
+    {
+      "id": "sp4_ow_02",
+      "question": "What is the data value that the operator works on called?",
+      "answer": "Operand",
+      "explanation": "An operand is the value an operator acts upon. In the expression 10 + 20, 10 and 20 are operands.",
+      "source_section": "Paper 4 — One Word Answer"
+    },
+    {
+      "id": "sp4_po_01",
+      "question": "Predict the output:\n\nprint(\"I\\nlove\\nIndia\")",
+      "answer": "I\nlove\nIndia",
+      "explanation": "The \\n escape sequence creates a new line after each word.",
+      "source_section": "Paper 4 — Predict the Output"
+    },
+    {
+      "id": "sp4_po_02",
+      "question": "Predict the output:\n\nA = 12\nB = 7\nprint(A * B * 2)",
+      "answer": "168",
+      "explanation": "12 * 7 = 84, then 84 * 2 = 168.",
+      "source_section": "Paper 4 — Predict the Output"
+    },
+    {
+      "id": "sp4_po_03",
+      "question": "Predict the output:\n\nprint(1000 / 16)",
+      "answer": "62.5",
+      "explanation": "The / operator always returns a float. 1000 ÷ 16 = 62.5.",
+      "source_section": "Paper 4 — Predict the Output"
+    },
+    {
+      "id": "sp4_po_04",
+      "question": "Predict the output:\n\nH = 20\nprint(H % 7)",
+      "answer": "6",
+      "explanation": "20 ÷ 7 = 2 remainder 6. So H % 7 = 6.",
+      "source_section": "Paper 4 — Predict the Output"
+    },
+    {
+      "id": "sp4_po_05",
+      "question": "Predict the output:\n\nX = 250\nY = 130\nZ = Y - X\nprint(\"The difference\", Z)",
+      "answer": "The difference -120",
+      "explanation": "Z = 130 - 250 = -120.",
+      "source_section": "Paper 4 — Predict the Output"
+    },
+    {
+      "id": "sp4_dt_01",
+      "question": "Write the Python data type for: \"John\"",
+      "answer": "str (string)",
+      "source_section": "Paper 4 — Data Types"
+    },
+    {
+      "id": "sp4_dt_02",
+      "question": "Write the Python data type for: 264556",
+      "answer": "int (integer)",
+      "source_section": "Paper 4 — Data Types"
+    },
+    {
+      "id": "sp4_dt_03",
+      "question": "Write the Python data type for: 36.4",
+      "answer": "float",
+      "source_section": "Paper 4 — Data Types"
+    },
+    {
+      "id": "sp4_dt_04",
+      "question": "Write the Python data type for: \"F\"",
+      "answer": "str (string)",
+      "source_section": "Paper 4 — Data Types"
+    },
+    {
+      "id": "sp4_sa_01",
+      "question": "What is a binary language?",
+      "answer": "Binary language (also called machine language or machine code) is the language that the computer hardware/processor can directly understand. It is made up of only 1s and 0s. All instructions and data are ultimately converted to binary for the computer to process.",
+      "source_section": "Paper 4 — Short Answer"
+    },
+    {
+      "id": "sp4_sa_02",
+      "question": "Define an operator in Python. Give examples.",
+      "answer": "An operator in Python is a special symbol that carries out an operation on variables or values. The values it acts upon are called operands. Examples: + (addition), - (subtraction), * (multiplication), / (division), % (modulus/remainder), // (integer division).",
+      "source_section": "Paper 4 — Short Answer"
+    },
+    {
+      "id": "sp4_sa_03",
+      "question": "Differentiate between Interactive mode and Script mode in Python.",
+      "answer": "Interactive mode: We can only write and run one line of code at a time in the interactive shell. It shows version and copyright details at the top. It is useful for testing small pieces of code.\n\nScript mode: We can write, save, and run programs with multiple lines of code. The file is \"untitled\" until you give it a name. It is used for writing complete programs that can be saved and reused.",
+      "source_section": "Paper 4 — Short Answer"
+    },
+    {
+      "id": "sp4_sa_04",
+      "question": "Write any 4 characteristics of Python.",
+      "answer": "1. Python is a high-level language that uses English words and is easy to understand.\n2. Python was created by Guido Van Rossum and named after the British comedy show \"Monty Python\".\n3. Python syntax is easy to use — syntax is a set of rules for grammar and spelling.\n4. Python is a powerful yet easy-to-use language that can be executed in two modes: Interactive mode and Script mode.",
+      "source_section": "Paper 4 — Short Answer"
+    },
+    {
+      "id": "sp4_wc_01",
+      "question": "Write a Python code to accept 2 decimal numbers from the user and print their sum and product.",
+      "answer": "a = float(input(\"Enter first number: \"))\nb = float(input(\"Enter second number: \"))\nprint(a + b)\nprint(a * b)",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp4_wc_02",
+      "question": "Write a Python code to accept the time taken to watch a movie in hours. Calculate and print the time taken in minutes.",
+      "answer": "hours = int(input(\"Enter time in hours: \"))\nprint(hours * 60)",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp4_wc_03",
+      "question": "Write a Python code to accept the cost of 1 pen and print the cost of 10 such pens.",
+      "answer": "cost = float(input(\"Enter cost of 1 pen: \"))\nprint(cost * 10)",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp4_wc_04",
+      "question": "Write a Python code to accept your age and print your year of birth.",
+      "answer": "age = int(input(\"Enter your age: \"))\nprint(2026 - age)",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp4_wc_05",
+      "question": "The cost of a box of chocolates is 162.00 and it contains 50 chocolates. Write a Python code to print the cost of 1 chocolate.",
+      "answer": "print(162.00 / 50)",
+      "explanation": "Output: 3.24",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp4_wc_06",
+      "question": "Write a Python code to print the names of 5 states in India in 5 different lines.",
+      "answer": "print(\"Tamil Nadu\")\nprint(\"Kerala\")\nprint(\"Karnataka\")\nprint(\"Maharashtra\")\nprint(\"Rajasthan\")",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp4_wc_07",
+      "question": "Write a Python code to accept the number of bytes and print the bits in it.",
+      "answer": "bytes_val = int(input(\"Enter number of bytes: \"))\nprint(bytes_val * 8)",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp4_wc_08",
+      "question": "Write a Python code to accept the total runs scored by a player in 10 matches and print his batting average.",
+      "answer": "runs = int(input(\"Enter total runs: \"))\nprint(runs / 10)",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp4_wc_09",
+      "question": "Write a Python code to accept the distance covered by a runner in km and display the distance covered in metres.",
+      "answer": "km = float(input(\"Enter distance in km: \"))\nprint(km * 1000)",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp4_wc_10",
+      "question": "Write a Python code to accept the time taken in seconds to cover 200 m and calculate the speed of the runner in m/s.",
+      "answer": "time = float(input(\"Enter time in seconds: \"))\nspeed = 200 / time\nprint(speed)",
+      "explanation": "Speed = Distance / Time = 200 / time",
+      "source_section": "Paper 4 — Write Python Code"
+    },
+    {
+      "id": "sp5_mcq_01",
+      "question": "In the given Python list countries, the item \"Australia\" has a positive index number of ____.\n\ncountries = [\"India\", \"Sri Lanka\", \"USA\", \"UK\", \"Australia\"]\n\na) 5  b) 4  c) 2  d) 3",
+      "answer": "b) 4",
+      "explanation": "Positive indexing starts at 0. India=0, Sri Lanka=1, USA=2, UK=3, Australia=4.",
+      "source_section": "Paper 5 — MCQ"
+    },
+    {
+      "id": "sp5_tf_01",
+      "question": "True or False: The first item in a Python list can only be retrieved using the index number 1.",
+      "answer": "False. The first item in a Python list has index number 0, not 1. It can also be accessed using the negative index -(length of list).",
+      "source_section": "Paper 5 — True/False"
+    },
+    {
+      "id": "sp5_tf_02",
+      "question": "True or False: The step value in range() Python function is optional.",
+      "answer": "True. The step value in range() is optional and defaults to 1 if not specified.",
+      "source_section": "Paper 5 — True/False"
+    },
+    {
+      "id": "sp5_ws_01",
+      "question": "Given: T20teams = [\"India\", \"Australia\", \"England\", \"Pakistan\", \"New Zealand\"]\n\nWrite a Python statement to print the first item using negative index.",
+      "answer": "print(T20teams[-5])\nOutput: India",
+      "source_section": "Paper 5 — Write Python Statements"
+    },
+    {
+      "id": "sp5_ws_02",
+      "question": "Given: T20teams = [\"India\", \"Australia\", \"England\", \"Pakistan\", \"New Zealand\"]\n\nWrite a Python statement to print the middle item using the positive index.",
+      "answer": "print(T20teams[2])\nOutput: England",
+      "source_section": "Paper 5 — Write Python Statements"
+    },
+    {
+      "id": "sp5_ws_03",
+      "question": "Given: T20teams = [\"India\", \"Australia\", \"England\", \"Pakistan\", \"New Zealand\"]\n\nWrite a Python statement to print the country \"Australia\" using positive index.",
+      "answer": "print(T20teams[1])\nOutput: Australia",
+      "source_section": "Paper 5 — Write Python Statements"
+    },
+    {
+      "id": "sp5_ws_04",
+      "question": "Given: T20teams = [\"India\", \"Australia\", \"England\", \"Pakistan\", \"New Zealand\"]\n\nWrite a Python statement to print the last item using the negative index.",
+      "answer": "print(T20teams[-1])\nOutput: New Zealand",
+      "source_section": "Paper 5 — Write Python Statements"
+    },
+    {
+      "id": "sp5_ws_05",
+      "question": "Given: T20teams = [\"India\", \"Australia\", \"England\", \"Pakistan\", \"New Zealand\"]\n\nWrite a Python statement to print the total number of items in the list.",
+      "answer": "print(len(T20teams))\nOutput: 5",
+      "source_section": "Paper 5 — Write Python Statements"
+    },
+    {
+      "id": "sp5_rg_01",
+      "question": "Fill in the range() to print the series: 4, 8, 12, 16, 20, ..., 40",
+      "answer": "for i in range(4, 41, 4):\n    print(i)",
+      "explanation": "Start at 4, stop before 41, step by 4.",
+      "source_section": "Paper 5 — Fill in Range"
+    },
+    {
+      "id": "sp5_rg_02",
+      "question": "Fill in the range() to print the series: 100, 95, 90, 85, 80, 75, ..., 5",
+      "answer": "for i in range(100, 4, -5):\n    print(i)",
+      "explanation": "Start at 100, stop before 4, step by -5.",
+      "source_section": "Paper 5 — Fill in Range"
+    },
+    {
+      "id": "sp5_rg_03",
+      "question": "Fill in the range() to print the series: 0, 2, 4, 6, 8, 10",
+      "answer": "for i in range(0, 11, 2):\n    print(i)",
+      "source_section": "Paper 5 — Fill in Range"
+    },
+    {
+      "id": "sp5_rg_04",
+      "question": "Fill in the range() to print the series: 100, 200, 300, 400, ..., 1000",
+      "answer": "for i in range(100, 1001, 100):\n    print(i)",
+      "source_section": "Paper 5 — Fill in Range"
+    },
+    {
+      "id": "sp5_rg_05",
+      "question": "Fill in the range() to print the series: 9, 6, 3, 0",
+      "answer": "for i in range(9, -1, -3):\n    print(i)",
+      "explanation": "Start at 9, stop before -1, step by -3.",
+      "source_section": "Paper 5 — Fill in Range"
+    },
+    {
+      "id": "sp5_po_01",
+      "question": "Predict the output:\n\nA = 20\nB = 3\nprint(A % B)",
+      "answer": "2",
+      "explanation": "20 ÷ 3 = 6 remainder 2. So 20 % 3 = 2.",
+      "source_section": "Paper 5 — Predict the Output"
+    },
+    {
+      "id": "sp5_po_02",
+      "question": "Predict the output:\n\nX = 56\nY = 100\nprint(X / Y)",
+      "answer": "0.56",
+      "explanation": "56 / 100 = 0.56. The / operator returns a float.",
+      "source_section": "Paper 5 — Predict the Output"
+    },
+    {
+      "id": "sp5_po_03",
+      "question": "Predict the output:\n\nlist1 = [\"John\", \"Joe\", \"Jack\", \"Bob\"]\nfor x in list1:\n    print(x)",
+      "answer": "John\nJoe\nJack\nBob",
+      "explanation": "The for loop iterates through each item in the list and prints it on a new line.",
+      "source_section": "Paper 5 — Predict the Output"
+    },
+    {
+      "id": "sp5_po_04",
+      "question": "Predict the output:\n\nlist1 = [\"John\", \"Joe\", \"Jack\", \"Bob\"]\nprint(list1[4])",
+      "answer": "IndexError: list index out of range",
+      "explanation": "The list has 4 items with indices 0-3. Index 4 does not exist, so Python raises an IndexError.",
+      "source_section": "Paper 5 — Predict the Output"
+    },
+    {
+      "id": "sp5_po_05",
+      "question": "Predict the output:\n\nfor i in range(0, -6, -1):\n    print(i)",
+      "answer": "0\n-1\n-2\n-3\n-4\n-5",
+      "explanation": "Start at 0, stop before -6, step by -1. Prints: 0, -1, -2, -3, -4, -5.",
+      "source_section": "Paper 5 — Predict the Output"
+    },
+    {
+      "id": "sp5_sa_01",
+      "question": "What is the use of the len() function in Python?",
+      "answer": "The len() function is used to find the number of items or elements in a list, string, or other collection. For example, if we have a list fruits = [\"apple\", \"banana\", \"cherry\"], then len(fruits) will return 3.",
+      "source_section": "Paper 5 — Short Answer"
+    },
+    {
+      "id": "sp5_sa_02",
+      "question": "What is an index number in a Python list?",
+      "answer": "An index number is the position number of each item in a Python list. Index numbers can be positive (starting from 0 for the first item) or negative (starting from -1 for the last item). They are used to access individual items from the list.",
+      "source_section": "Paper 5 — Short Answer"
+    },
+    {
+      "id": "sp5_wc_01",
+      "question": "Write a Python code to create a list that contains the names of all 7 days of the week. Display all the names one by one using a for loop.",
+      "answer": "days = [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\", \"Sunday\"]\nfor d in days:\n    print(d)",
+      "source_section": "Paper 5 — Write Python Code"
+    },
+    {
+      "id": "sp5_wc_02",
+      "question": "Your friend is celebrating birthday exactly 100 days from today. Write a Python code for a countdown of days from 100 to 1 and greet \"Happy birthday! Have a great day\" at the end.",
+      "answer": "for i in range(100, 0, -1):\n    print(i)\nprint(\"Happy birthday! Have a great day\")",
+      "source_section": "Paper 5 — Write Python Code"
+    },
+    {
+      "id": "sp5_wc_03",
+      "question": "Write a Python code to create a list with 5 country names and display the items in the list using negative index.",
+      "answer": "countries = [\"India\", \"Japan\", \"Brazil\", \"France\", \"Australia\"]\nprint(countries[-5])\nprint(countries[-4])\nprint(countries[-3])\nprint(countries[-2])\nprint(countries[-1])",
+      "source_section": "Paper 5 — Write Python Code"
+    },
+    {
+      "id": "sp5_wc_04",
+      "question": "Write a Python code to create a list with 5 movie names and display the items in the list in reverse order using positive index.",
+      "answer": "movies = [\"Avengers\", \"Batman\", \"Spider-Man\", \"Iron Man\", \"Thor\"]\nprint(movies[4])\nprint(movies[3])\nprint(movies[2])\nprint(movies[1])\nprint(movies[0])",
+      "source_section": "Paper 5 — Write Python Code"
+    },
+    {
+      "id": "sp5_wc_05",
+      "question": "Write a Python code to accept the name of your city and print it 50 times.",
+      "answer": "city = input(\"Enter your city name: \")\nfor i in range(50):\n    print(city)",
+      "source_section": "Paper 5 — Write Python Code"
+    },
+    {
+      "id": "sp5_wc_06",
+      "question": "Write a Python code to print \"Happy new year!!\" 10 times with a time delay of 1 second.",
+      "answer": "import time\nfor i in range(10):\n    print(\"Happy new year!!\")\n    time.sleep(1)",
+      "source_section": "Paper 5 — Write Python Code"
+    },
+    {
+      "id": "sp5_wc_07",
+      "question": "Write a Python code to create the following list of sportsmen: \"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\". Display their names in alphabetical order using positive index.",
+      "answer": "sportsmen = [\"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\"]\nsportsmen.sort()\nfor i in range(len(sportsmen)):\n    print(sportsmen[i])",
+      "explanation": "After sorting: Abhinav Bhindra, Dhyaan Chand, Neeraj Chopra, Sunil Chhetri, Virat Kohli",
+      "source_section": "Paper 5 — Write Python Code"
+    },
+    {
+      "id": "sp5_wc_08",
+      "question": "Write a Python code to accept the length and breadth of a rectangle and print its area and perimeter.",
+      "answer": "length = float(input(\"Enter length: \"))\nbreadth = float(input(\"Enter breadth: \"))\narea = length * breadth\nperimeter = 2 * (length + breadth)\nprint(\"Area:\", area)\nprint(\"Perimeter:\", perimeter)",
+      "source_section": "Paper 5 — Write Python Code"
+    },
+    {
+      "id": "sp6_mcq_01",
+      "question": "In Python, which of these is a string?\n\na) \"1048\"  b) 1048  c) 104.8  d) True",
+      "answer": "a) \"1048\"",
+      "explanation": "In Python, anything within quotes is a string. \"1048\" is in quotes so it is a string, not a number.",
+      "source_section": "Paper 6 — MCQ"
+    },
+    {
+      "id": "sp6_mcq_02",
+      "question": "Which escape character is used for a new line in Python?\n\na) \\n  b) \\t  c) \\r  d) \\b",
+      "answer": "a) \\n",
+      "explanation": "\\n is the newline escape sequence. \\t is for tab, \\r is carriage return, \\b is backspace.",
+      "source_section": "Paper 6 — MCQ"
+    },
+    {
+      "id": "sp6_mcq_03",
+      "question": "What is the correct Python statement to accept an integer input?\n\na) input(\"Enter a no\")  b) int(\"Enter a no\")  c) input(int(\"Enter a no\"))  d) int(input(\"Enter a no\"))",
+      "answer": "d) int(input(\"Enter a no\"))",
+      "explanation": "The input() function returns a string by default. To convert it to an integer, we wrap it with int().",
+      "source_section": "Paper 6 — MCQ"
+    },
+    {
+      "id": "sp6_mcq_04",
+      "question": "Which data type is returned by the input() function by default?\n\na) int  b) float  c) str  d) list",
+      "answer": "c) str",
+      "explanation": "The input() function by default converts all user inputs into strings.",
+      "source_section": "Paper 6 — MCQ"
+    },
+    {
+      "id": "sp6_mcq_05",
+      "question": "Which of the following expressions will result in a float value?\n\na) 4 // 2  b) 4 / 2  c) 4 * 2  d) 4 % 2",
+      "answer": "b) 4 / 2",
+      "explanation": "The / operator always returns a float (4 / 2 = 2.0). The // operator returns an integer (4 // 2 = 2). * and % return integers when both operands are integers.",
+      "source_section": "Paper 6 — MCQ"
+    },
+    {
+      "id": "sp6_ow_01",
+      "question": "Name the Python operator to give the quotient after division.",
+      "answer": "// (floor division or integer division operator)",
+      "source_section": "Paper 6 — One Word Answer"
+    },
+    {
+      "id": "sp6_ow_02",
+      "question": "What is the data value that the operator works on called?",
+      "answer": "Operand",
+      "source_section": "Paper 6 — One Word Answer"
+    },
+    {
+      "id": "sp6_po_01",
+      "question": "Predict the output:\n\nx = 10\ny = 5\nprint(x / y)",
+      "answer": "2.0",
+      "explanation": "The / operator always returns a float. 10 / 5 = 2.0.",
+      "source_section": "Paper 6 — Predict the Output"
+    },
+    {
+      "id": "sp6_po_02",
+      "question": "Predict the output:\n\na = 112\nb = 13\nprint(a % b)",
+      "answer": "8",
+      "explanation": "112 ÷ 13 = 8 remainder 8 (13 × 8 = 104, 112 - 104 = 8).",
+      "source_section": "Paper 6 — Predict the Output"
+    },
+    {
+      "id": "sp6_po_03",
+      "question": "Predict the output:\n\nprint(20 / 4 + 6 * 2)",
+      "answer": "17.0",
+      "explanation": "Following BODMAS/operator precedence: 20/4 = 5.0, 6*2 = 12, 5.0 + 12 = 17.0. The result is a float because / returns float.",
+      "source_section": "Paper 6 — Predict the Output"
+    },
+    {
+      "id": "sp6_po_04",
+      "question": "Predict the output:\n\nprint(\"Apple\\n Banana\")",
+      "answer": "Apple\n Banana",
+      "explanation": "\\n creates a new line. Note the space before Banana is preserved.",
+      "source_section": "Paper 6 — Predict the Output"
+    },
+    {
+      "id": "sp6_po_05",
+      "question": "Predict the output:\n\nprint(\"Hello\\tWorld\")",
+      "answer": "Hello\tWorld",
+      "explanation": "\\t inserts a horizontal tab (4 spaces) between Hello and World.",
+      "source_section": "Paper 6 — Predict the Output"
+    },
+    {
+      "id": "sp6_wc_01",
+      "question": "Write a Python code to accept a number. Calculate its square and print it.",
+      "answer": "num = int(input(\"Enter a number: \"))\nprint(num * num)",
+      "source_section": "Paper 6 — Write Python Code"
+    },
+    {
+      "id": "sp6_wc_02",
+      "question": "Write a Python code to accept the number of minutes and print the number of seconds in it.",
+      "answer": "minutes = int(input(\"Enter number of minutes: \"))\nprint(minutes * 60)",
+      "source_section": "Paper 6 — Write Python Code"
+    },
+    {
+      "id": "sp6_wc_03",
+      "question": "Write a Python code to accept your age and print your year of birth.",
+      "answer": "age = int(input(\"Enter your age: \"))\nprint(2026 - age)",
+      "source_section": "Paper 6 — Write Python Code"
+    },
+    {
+      "id": "sp6_wc_04",
+      "question": "Write a Python code to accept the cost of 2 dozen apples. Calculate and print the cost of 1 apple.",
+      "answer": "cost = float(input(\"Enter cost of 2 dozen apples: \"))\nprint(cost / 24)",
+      "explanation": "2 dozen = 24 apples.",
+      "source_section": "Paper 6 — Write Python Code"
+    },
+    {
+      "id": "sp7_mcq_01",
+      "question": "In which mode of Python can we execute one line of code at a time?\n\na) Script mode  b) Interactive mode  c) Shell mode  d) All of these",
+      "answer": "b) Interactive mode",
+      "explanation": "In interactive mode, we can write and run one line of code at a time in the interactive shell.",
+      "source_section": "Paper 7 — MCQ"
+    },
+    {
+      "id": "sp7_mcq_02",
+      "question": "What does time.sleep(1) do in Python?\n\na) Pauses for 10 seconds  b) Pauses for 1 millisecond  c) Pauses for 1 second  d) Starts a timer",
+      "answer": "c) Pauses for 1 second",
+      "explanation": "time.sleep(1) pauses the program execution for 1 second.",
+      "source_section": "Paper 7 — MCQ"
+    },
+    {
+      "id": "sp7_mcq_03",
+      "question": "Which loop prints all even numbers from 50 to 100 (inclusive)?\n\na) range(50, 101)  b) range(50, 100, 2)  c) range(50, 101, 2)  d) range(50, 100, 1)",
+      "answer": "c) range(50, 101, 2)",
+      "explanation": "Start at 50, stop before 101 (to include 100), step by 2 for even numbers.",
+      "source_section": "Paper 7 — MCQ"
+    },
+    {
+      "id": "sp7_mcq_04",
+      "question": "What is the default step value in the range() function in Python?\n\na) 0  b) 1  c) -1  d) None of the above",
+      "answer": "b) 1",
+      "explanation": "If the step parameter is not specified, it defaults to 1.",
+      "source_section": "Paper 7 — MCQ"
+    },
+    {
+      "id": "sp7_mcq_05",
+      "question": "What is a variable in Python?\n\na) A fixed number  b) A box that stores input only  c) A label for data that can change  d) A string of numbers",
+      "answer": "c) A label for data that can change",
+      "explanation": "A variable in Python is used to store data values. It acts as a label/container for information that can be changed.",
+      "source_section": "Paper 7 — MCQ"
+    },
+    {
+      "id": "sp7_mcq_06",
+      "question": "What is the data type of the result of the expression 10 / 3 in Python?\n\na) int  b) float  c) double  d) string",
+      "answer": "b) float",
+      "explanation": "The / operator always returns a float in Python. 10 / 3 = 3.3333...",
+      "source_section": "Paper 7 — MCQ"
+    },
+    {
+      "id": "sp7_ow_01",
+      "question": "Name the operator that is used to give integer quotient after division.",
+      "answer": "// (floor division operator)",
+      "source_section": "Paper 7 — One Word Answer"
+    },
+    {
+      "id": "sp7_po_01",
+      "question": "Predict the output:\n\nx = 5\ny = 3\nprint(x % y + x // y)",
+      "answer": "3",
+      "explanation": "x % y = 5 % 3 = 2 (remainder). x // y = 5 // 3 = 1 (integer quotient). 2 + 1 = 3.",
+      "source_section": "Paper 7 — Predict the Output"
+    },
+    {
+      "id": "sp7_po_02",
+      "question": "Predict the output:\n\nfor p in range(0, 11, 2):\n    print(p)",
+      "answer": "0\n2\n4\n6\n8\n10",
+      "explanation": "Start at 0, stop before 11, step by 2. Prints even numbers from 0 to 10.",
+      "source_section": "Paper 7 — Predict the Output"
+    },
+    {
+      "id": "sp7_po_03",
+      "question": "Predict the output:\n\nfor x in \"PYTHON\":\n    print(x)",
+      "answer": "P\nY\nT\nH\nO\nN",
+      "explanation": "The for loop iterates through each character of the string \"PYTHON\" and prints it on a new line.",
+      "source_section": "Paper 7 — Predict the Output"
+    },
+    {
+      "id": "sp7_po_04",
+      "question": "Predict the output:\n\nfor i in range(2, 7):\n    print(i)",
+      "answer": "2\n3\n4\n5\n6",
+      "explanation": "Start at 2, stop before 7, default step 1.",
+      "source_section": "Paper 7 — Predict the Output"
+    },
+    {
+      "id": "sp7_po_05",
+      "question": "Predict the output:\n\na = 100\nb = 5\nprint(a / b)",
+      "answer": "20.0",
+      "explanation": "The / operator always returns a float. 100 / 5 = 20.0.",
+      "source_section": "Paper 7 — Predict the Output"
+    },
+    {
+      "id": "sp7_wc_01",
+      "question": "Write Python code to do a countdown from 10 to 1 and wish your friend \"Happy Birthday\" using for loop.",
+      "answer": "for i in range(10, 0, -1):\n    print(i)\nprint(\"Happy Birthday\")",
+      "source_section": "Paper 7 — Write Python Code"
+    },
+    {
+      "id": "sp7_wc_02",
+      "question": "Write Python code to accept your school name and print all the letters in it one by one in a separate line using for loop.",
+      "answer": "school = input(\"Enter your school name: \")\nfor letter in school:\n    print(letter)",
+      "source_section": "Paper 7 — Write Python Code"
+    },
+    {
+      "id": "sp7_wc_03",
+      "question": "Write Python code to print \"Coding is fun\" 15 times with a time delay of 1 second using for loop.",
+      "answer": "import time\nfor i in range(15):\n    print(\"Coding is fun\")\n    time.sleep(1)",
+      "source_section": "Paper 7 — Write Python Code"
+    },
+    {
+      "id": "sp7_wc_04",
+      "question": "Write Python code to print numbers 100 to 200 using for loop.",
+      "answer": "for i in range(100, 201):\n    print(i)",
+      "source_section": "Paper 7 — Write Python Code"
+    },
+    {
+      "id": "sp8_mcq_01",
+      "question": "In the given Python list countries, the item \"Sri Lanka\" has a negative index number of ____.\n\ncountries = [\"India\", \"Sri Lanka\", \"USA\", \"UK\", \"Australia\"]\n\na) -3  b) -1  c) -4  d) -2",
+      "answer": "c) -4",
+      "explanation": "India=-5, Sri Lanka=-4, USA=-3, UK=-2, Australia=-1.",
+      "source_section": "Paper 8 — MCQ"
+    },
+    {
+      "id": "sp8_tf_01",
+      "question": "True or False: The first item in a Python list can only be retrieved using the index number 0.",
+      "answer": "True. The first item has positive index 0. (It can also be accessed using a negative index, but 0 is the standard positive index for the first item.)",
+      "source_section": "Paper 8 — True/False"
+    },
+    {
+      "id": "sp8_tf_02",
+      "question": "True or False: The default step value in the range() Python function is -1.",
+      "answer": "False. The default step value is 1, not -1.",
+      "source_section": "Paper 8 — True/False"
+    },
+    {
+      "id": "sp8_ws_01",
+      "question": "Given: fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\"]\n\nWrite a Python statement to print the second item using a negative index.",
+      "answer": "print(fruits[-4])\nOutput: banana",
+      "source_section": "Paper 8 — Write Python Statements"
+    },
+    {
+      "id": "sp8_ws_02",
+      "question": "Given: fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\"]\n\nWrite a Python statement to print the last item using a positive index.",
+      "answer": "print(fruits[4])\nOutput: elderberry",
+      "source_section": "Paper 8 — Write Python Statements"
+    },
+    {
+      "id": "sp8_ws_03",
+      "question": "Given: marks = [87, 92, 76, 81, 95, 67]\n\nWrite a Python statement to print the highest mark using positive index.",
+      "answer": "print(marks[4])\nOutput: 95",
+      "source_section": "Paper 8 — Write Python Statements"
+    },
+    {
+      "id": "sp8_ws_04",
+      "question": "Given: marks = [87, 92, 76, 81, 95, 67]\n\nWrite a Python statement to print the lowest mark using negative index.",
+      "answer": "print(marks[-1])\nOutput: 67",
+      "source_section": "Paper 8 — Write Python Statements"
+    },
+    {
+      "id": "sp8_ws_05",
+      "question": "Given: team = [\"Red\", \"Green\", \"White\", \"Black\"]\n\nWrite Python code to print the number of items in the list.",
+      "answer": "print(len(team))\nOutput: 4",
+      "source_section": "Paper 8 — Write Python Statements"
+    },
+    {
+      "id": "sp8_rg_01",
+      "question": "Fill in the range() to print the series: 1, 2, 3, 4, 5",
+      "answer": "for i in range(1, 6):\n    print(i)",
+      "source_section": "Paper 8 — Fill in Range"
+    },
+    {
+      "id": "sp8_rg_02",
+      "question": "Fill in the range() to print the series: 4, 8, 12, 16, 20, ..., 40",
+      "answer": "for i in range(4, 41, 4):\n    print(i)",
+      "source_section": "Paper 8 — Fill in Range"
+    },
+    {
+      "id": "sp8_rg_03",
+      "question": "Fill in the range() to print the series: 20, 18, 16, ..., 0",
+      "answer": "for i in range(20, -1, -2):\n    print(i)",
+      "explanation": "Start at 20, stop before -1, step by -2.",
+      "source_section": "Paper 8 — Fill in Range"
+    },
+    {
+      "id": "sp8_rg_04",
+      "question": "Fill in the range() to print the series: 1, 4, 7, 10, 13, ..., 100",
+      "answer": "for i in range(1, 101, 3):\n    print(i)",
+      "source_section": "Paper 8 — Fill in Range"
+    },
+    {
+      "id": "sp8_rg_05",
+      "question": "Fill in the range() to print the series: 1, 3, 5, 7, ..., 19",
+      "answer": "for i in range(1, 20, 2):\n    print(i)",
+      "source_section": "Paper 8 — Fill in Range"
+    },
+    {
+      "id": "sp8_po_01",
+      "question": "Predict the output:\n\nfor i in range(10):\n    print(i)",
+      "answer": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9",
+      "explanation": "range(10) generates numbers from 0 to 9.",
+      "source_section": "Paper 8 — Predict the Output"
+    },
+    {
+      "id": "sp8_po_02",
+      "question": "Predict the output:\n\nletter = \"B\"\nfor i in range(1, 4):\n    print(letter)",
+      "answer": "B\nB\nB",
+      "explanation": "range(1, 4) runs 3 times (i = 1, 2, 3). Each time it prints \"B\".",
+      "source_section": "Paper 8 — Predict the Output"
+    },
+    {
+      "id": "sp8_po_03",
+      "question": "Predict the output:\n\nlist1 = [\"John\", \"Joe\", \"Jack\", \"Bob\"]\nfor i in range(0, 4):\n    print(list1[i])",
+      "answer": "John\nJoe\nJack\nBob",
+      "explanation": "The loop prints list1[0], list1[1], list1[2], list1[3] — all items in order.",
+      "source_section": "Paper 8 — Predict the Output"
+    },
+    {
+      "id": "sp8_po_04",
+      "question": "Predict the output:\n\nlist1 = [\"John\", \"Joe\", \"Jack\", \"Bob\"]\nprint(list1[-4])",
+      "answer": "John",
+      "explanation": "Negative index -4 refers to the first item in a list of 4 elements.",
+      "source_section": "Paper 8 — Predict the Output"
+    },
+    {
+      "id": "sp8_po_05",
+      "question": "Predict the output:\n\nx = 10\nif x % 2 == 0:\n    print(\"Welcome\")\nelse:\n    print(\"Thank You\")",
+      "answer": "Welcome",
+      "explanation": "10 % 2 = 0, so the condition is True and \"Welcome\" is printed.",
+      "source_section": "Paper 8 — Predict the Output"
+    },
+    {
+      "id": "sp8_sa_01",
+      "question": "What is indentation in Python? Why is it used?",
+      "answer": "In Python, indentation is used to define blocks of code. All statements with the same level of indentation are considered part of the same block. The indent (whitespace or tab at the beginning of a line) tells the Python interpreter that the indented code is part of a block and the order in which to execute the code. It is used in loops (for/while) and conditional statements (if/else).",
+      "source_section": "Paper 8 — Short Answer"
+    },
+    {
+      "id": "sp8_sa_02",
+      "question": "What is a list in Python?",
+      "answer": "A list in Python is a collection of data that can be ordered, changeable, and allows duplicate members. A list is defined using square brackets [] and the items are separated using commas. For example: fruits = [\"apple\", \"banana\", \"cherry\"]. Each item has a position number called the index number.",
+      "source_section": "Paper 8 — Short Answer"
+    },
+    {
+      "id": "sp8_wc_01",
+      "question": "Write a Python program to create a list of 10 numbers. Display only the even numbers from the list using a for loop and if condition.",
+      "answer": "numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nfor num in numbers:\n    if num % 2 == 0:\n        print(num)",
+      "explanation": "Output: 2, 4, 6, 8, 10 (each on a new line)",
+      "source_section": "Paper 8 — Write Python Code"
+    },
+    {
+      "id": "sp8_wc_02",
+      "question": "Write a Python code to create a list containing 8 fruit names. Use negative indexes to display only the last three fruits in the list.",
+      "answer": "fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\", \"fig\", \"grape\", \"honeydew\"]\nprint(fruits[-3])\nprint(fruits[-2])\nprint(fruits[-1])",
+      "explanation": "Output: fig, grape, honeydew",
+      "source_section": "Paper 8 — Write Python Code"
+    },
+    {
+      "id": "sp8_wc_03",
+      "question": "Your parents are launching a new product in 20 days. Countdown from 20 to 1. When the countdown reaches 5, print \"Get ready! Only 5 days left!\" before continuing. Finally print \"The product is now launched! Get it today!\".",
+      "answer": "for i in range(20, 0, -1):\n    if i == 5:\n        print(\"Get ready! Only 5 days left!\")\n    print(i)\nprint(\"The product is now launched! Get it today!\")",
+      "source_section": "Paper 8 — Write Python Code"
+    },
+    {
+      "id": "sp8_wc_04",
+      "question": "Write a Python program to accept a mark of a student and display \"Pass\" for marks greater than or equal to 40 and \"Fail\" for marks less than 40.",
+      "answer": "mark = int(input(\"Enter your mark: \"))\nif mark >= 40:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")",
+      "source_section": "Paper 8 — Write Python Code"
+    },
+    {
+      "id": "sp8_wc_05",
+      "question": "Write a Python program to accept a word from the user and print its letters one by one in a separate line.",
+      "answer": "word = input(\"Enter a word: \")\nfor letter in word:\n    print(letter)",
+      "source_section": "Paper 8 — Write Python Code"
+    },
+    {
+      "id": "sp8_wc_06",
+      "question": "Write a Python program to create a list of programming languages: \"Python\", \"Java\", \"C++\", \"JavaScript\", \"Ruby\", \"Go\". Display only the languages starting with 'J' or 'P'.",
+      "answer": "languages = [\"Python\", \"Java\", \"C++\", \"JavaScript\", \"Ruby\", \"Go\"]\nfor lang in languages:\n    if lang[0] == \"J\" or lang[0] == \"P\":\n        print(lang)",
+      "explanation": "Output: Python, Java, JavaScript",
+      "source_section": "Paper 8 — Write Python Code"
+    },
+    {
+      "id": "sp8_wc_07",
+      "question": "Write a Python program to create a list with 5 continent names and display the items in the list using for loop.",
+      "answer": "continents = [\"Asia\", \"Africa\", \"Europe\", \"North America\", \"South America\"]\nfor c in continents:\n    print(c)",
+      "source_section": "Paper 8 — Write Python Code"
+    },
+    {
+      "id": "sp8_wc_08",
+      "question": "Write a Python program to accept two numbers and print whether the numbers are the same.",
+      "answer": "a = int(input(\"Enter first number: \"))\nb = int(input(\"Enter second number: \"))\nif a == b:\n    print(\"The numbers are the same\")\nelse:\n    print(\"The numbers are different\")",
+      "source_section": "Paper 8 — Write Python Code"
+    }
+  ]
+}

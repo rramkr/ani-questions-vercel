@@ -6,6 +6,8 @@
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
     ],
     "exam": [
+      {"value": "exam_questions", "label": "Exam Questions (All Papers)", "icon": "📝"},
+      {"value": "previous_year_questions", "label": "Previous Year Questions", "icon": "📋"},
       {"value": "mcq", "label": "Multiple Choice (I)", "icon": "🔘"},
       {"value": "match_the_following", "label": "Match the Following (II)", "icon": "🔗"},
       {"value": "true_false", "label": "True or False (IV)", "icon": "✓✗"},

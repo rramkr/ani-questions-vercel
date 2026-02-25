@@ -1,0 +1,69 @@
+{
+  "question_type": "case_study",
+  "questions": [
+    {
+      "id": "cs001",
+      "case_text": "During a science practical class, the teacher asked Anirudh to find the volume of an irregular stone that does not dissolve in water. Anirudh took a measuring cylinder and poured water into it. The initial water level was 45 mL. He then tied the stone to a thread and carefully immersed it completely into the water. The new water level rose to 63 mL. The teacher then gave him a lump of copper sulphate and asked him to find its volume as well.",
+      "questions": [
+        {"question": "What method did Anirudh use to find the volume of the stone?", "answer": "Anirudh used the displacement of liquid method. When a solid is completely immersed in a liquid, it displaces a volume of liquid equal to its own volume."},
+        {"question": "Calculate the volume of the stone.", "answer": "Volume of stone = Final water level - Initial water level = 63 mL - 45 mL = 18 mL = 18 cm³ (since 1 mL = 1 cm³)"},
+        {"question": "Why can't Anirudh use water to find the volume of the copper sulphate lump?", "answer": "Copper sulphate dissolves in water, so the water level reading would not be accurate. The solid would partially or fully dissolve instead of displacing the water properly."},
+        {"question": "What liquid should Anirudh use instead of water for the copper sulphate lump?", "answer": "Anirudh should use kerosene instead of water, because copper sulphate does not dissolve in kerosene. He can then follow the same displacement method."},
+        {"question": "If the stone is too large to fit inside the measuring cylinder, what apparatus should Anirudh use?", "answer": "He should use an overflow jar. When the stone is completely immersed in the overflow jar filled with water, the displaced water overflows into a measuring cylinder, and its volume equals the volume of the stone."}
+      ],
+      "source_section": "Volume of Irregular Solids"
+    },
+    {
+      "id": "cs002",
+      "case_text": "Meera's science teacher showed the class a beam balance experiment. She took two identical glasses and filled one with water and the other with kerosene, both to the same level. She then placed them on the two pans of a beam balance. The class observed that the pan with water went down. The teacher then showed a table of densities:\n\nWater: 1000 kg/m³\nKerosene: 800 kg/m³\nIce: 920 kg/m³\nCopper: 8900 kg/m³\nAluminium: 2700 kg/m³\nGold: 19300 kg/m³",
+      "questions": [
+        {"question": "Why did the pan with the glass of water go down on the beam balance?", "answer": "Equal volumes of water and kerosene have different masses. Water has a higher density (1000 kg/m³) than kerosene (800 kg/m³), so the same volume of water has more mass than kerosene. Therefore, the water glass is heavier and the pan goes down."},
+        {"question": "What is the formula for density?", "answer": "Density = Mass / Volume, or D = M/V. The SI unit of density is kg/m³ and the CGS unit is g/cm³."},
+        {"question": "A piece of aluminium has a mass of 540 g and a volume of 200 cm³. Calculate its density in g/cm³ and verify it with the table.", "answer": "Density = Mass / Volume = 540 / 200 = 2.7 g/cm³. Converting to kg/m³: 2.7 × 1000 = 2700 kg/m³, which matches the density of aluminium in the table."},
+        {"question": "Will ice float or sink in water? Give reason using the density table.", "answer": "Ice will float in water because the density of ice (920 kg/m³) is less than the density of water (1000 kg/m³). Objects with density less than that of water float, and objects with density greater than water sink."},
+        {"question": "Will ice float or sink in kerosene? Give reason.", "answer": "Ice will sink in kerosene because the density of ice (920 kg/m³) is greater than the density of kerosene (800 kg/m³). Since the ice is denser than kerosene, it will sink."}
+      ],
+      "source_section": "Measurement of Density"
+    },
+    {
+      "id": "cs003",
+      "case_text": "Ravi and his father are planning a road trip from Mumbai to Pune, a distance of 150 km. They start at 8:00 AM. The car travels the first 90 km in 1 hour on the expressway and the remaining 60 km in 2 hours due to city traffic. Meanwhile, a train also travels from Mumbai to Pune (distance 180 km by rail) and takes 3 hours to complete the journey.",
+      "questions": [
+        {"question": "What is the formula to calculate speed?", "answer": "Speed = Distance travelled / Time taken. The SI unit of speed is metre per second (m/s). Other commonly used units are kilometre per hour (km/h) and centimetre per second (cm/s)."},
+        {"question": "Calculate the speed of the car on the expressway.", "answer": "Speed = Distance / Time = 90 km / 1 hour = 90 km/h"},
+        {"question": "Calculate the speed of the car in city traffic.", "answer": "Speed = Distance / Time = 60 km / 2 hours = 30 km/h"},
+        {"question": "What is the average speed of the car for the entire trip?", "answer": "Average speed = Total distance / Total time = 150 km / (1 + 2) hours = 150 / 3 = 50 km/h"},
+        {"question": "Which is faster — the car (overall) or the train? By how much?", "answer": "Speed of train = 180 km / 3 hours = 60 km/h. Average speed of car = 50 km/h. The train is faster by 60 - 50 = 10 km/h."}
+      ],
+      "source_section": "Measurement of Speed"
+    },
+    {
+      "id": "cs004",
+      "case_text": "In a science activity, the teacher asked students to find the area of a mango leaf. Priya placed the leaf on a graph paper and traced its outline with a pencil. She then counted the squares:\n\n- Number of complete squares inside the outline = 12\n- Number of almost complete squares (more than half filled) = 8\n- Number of less-than-half filled squares = 5\n\nEach small square on the graph paper has sides of 1 cm. The teacher also asked students to calculate the area of the school basketball court, which is a rectangle of length 28 m and breadth 15 m.",
+      "questions": [
+        {"question": "Why did Priya use a graph paper to find the area of the leaf?", "answer": "The mango leaf is an irregular shape, and the area of irregular shapes cannot be found using formulae. A graph paper is used to estimate the approximate area by counting squares."},
+        {"question": "Calculate the approximate area of the mango leaf.", "answer": "We count only complete squares and almost complete (more than half) squares. Less-than-half filled squares are ignored. Area = Complete squares + Almost complete squares = 12 + 8 = 20 cm² (approximately)"},
+        {"question": "What is the SI unit of area?", "answer": "The SI unit of area is square metre (m²). 1 m² is the area of a square in which the length of each side is 1 metre."},
+        {"question": "Calculate the area of the basketball court.", "answer": "The basketball court is a rectangle. Area of rectangle = length × breadth = 28 m × 15 m = 420 m²"},
+        {"question": "Can this graph paper method give the exact area of the leaf?", "answer": "No, this method gives only the approximate surface area of the leaf, not the exact surface area. This is because the outline of the leaf does not perfectly align with the grid lines of the graph paper."}
+      ],
+      "source_section": "Measurement of Area"
+    },
+    {
+      "id": "cs005",
+      "case_text": "A chemist received three metal blocks labelled X, Y, and Z. She needed to identify the metals by finding their densities. She measured the following:\n\nBlock X: Mass = 156 g, Volume = 20 cm³\nBlock Y: Mass = 178 g, Volume = 20 cm³\nBlock Z: Mass = 54 g, Volume = 20 cm³\n\nShe also had a reference table:\nIron: 7.8 g/cm³, Copper: 8.9 g/cm³, Aluminium: 2.7 g/cm³\n\nThe chemist knows that engineers and architects need to know the densities of building materials to design bridges and buildings. She also remembered that when a substance is heated, its temperature increases, molecules spread apart, volume increases, and density decreases.",
+      "questions": [
+        {"question": "Calculate the density of Block X and identify the metal.", "answer": "Density of X = Mass / Volume = 156 / 20 = 7.8 g/cm³. Comparing with the reference table, Block X is Iron (7.8 g/cm³)."},
+        {"question": "Calculate the density of Block Y and identify the metal.", "answer": "Density of Y = Mass / Volume = 178 / 20 = 8.9 g/cm³. Comparing with the reference table, Block Y is Copper (8.9 g/cm³)."},
+        {"question": "Calculate the density of Block Z and identify the metal.", "answer": "Density of Z = Mass / Volume = 54 / 20 = 2.7 g/cm³. Comparing with the reference table, Block Z is Aluminium (2.7 g/cm³)."},
+        {"question": "All three blocks have the same volume (20 cm³) but different masses. Why?", "answer": "This is because the three metals have different densities. Substances with different densities have different amounts of matter (mass) packed in the same volume. Copper molecules are more closely packed than iron, and iron molecules are more closely packed than aluminium."},
+        {"question": "What will happen to the density of Block X if it is heated strongly?", "answer": "When Block X is heated, its temperature increases. The iron molecules speed up and spread apart, causing the volume to increase. Since the mass remains the same but volume increases, the density decreases (Density = Mass/Volume)."}
+      ],
+      "source_section": "Density and its Applications"
+    }
+  ],
+  "total_count": 5,
+  "generated_at": "2026-02-19T12:00:00",
+  "subject": "Physics",
+  "chapter": "Physical Quantities"
+}

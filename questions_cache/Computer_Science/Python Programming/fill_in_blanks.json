@@ -400,6 +400,106 @@
       "id": 80,
       "question": "range(5, 5) produces ________ elements.",
       "answer": "0"
+    },
+    {
+      "id": 81,
+      "question": "The newline escape sequence in Python is ________.",
+      "answer": "\\n"
+    },
+    {
+      "id": 82,
+      "question": "The tab escape sequence in Python is ________.",
+      "answer": "\\t"
+    },
+    {
+      "id": 83,
+      "question": "The \\n escape sequence forces the cursor to the beginning of the next ________.",
+      "answer": "line"
+    },
+    {
+      "id": 84,
+      "question": "The \\t escape sequence gives a horizontal ________ (4 spaces).",
+      "answer": "tab"
+    },
+    {
+      "id": 85,
+      "question": "Python was created by ________.",
+      "answer": "Guido Van Rossum"
+    },
+    {
+      "id": 86,
+      "question": "Python was named after a popular British comedy show called ________.",
+      "answer": "Monty Python"
+    },
+    {
+      "id": 87,
+      "question": "Python is a ________ level language.",
+      "answer": "high"
+    },
+    {
+      "id": 88,
+      "question": "The two modes of Python execution are interactive mode and ________ mode.",
+      "answer": "script"
+    },
+    {
+      "id": 89,
+      "question": "In interactive mode, we can only write and run ________ line of code at a time.",
+      "answer": "one"
+    },
+    {
+      "id": 90,
+      "question": "In Python, whole numbers are called ________.",
+      "answer": "integers"
+    },
+    {
+      "id": 91,
+      "question": "Numbers with decimal points in Python are called ________.",
+      "answer": "floats"
+    },
+    {
+      "id": 92,
+      "question": "In Python, anything within quotes is a ________.",
+      "answer": "string"
+    },
+    {
+      "id": 93,
+      "question": "A ________ is used to store data values in Python and acts as a container for information.",
+      "answer": "variable"
+    },
+    {
+      "id": 94,
+      "question": "The hardware/processor of the computer can only understand ________ language.",
+      "answer": "binary (machine)"
+    },
+    {
+      "id": 95,
+      "question": "A software program called ________ converts high-level language source code into binary.",
+      "answer": "compiler/interpreter"
+    },
+    {
+      "id": 96,
+      "question": "An ________ is the value an operator acts upon. For example, in 10+20, 10 and 20 are these.",
+      "answer": "operand"
+    },
+    {
+      "id": 97,
+      "question": "A sequence of operands and operators like A+B*C is called an ________.",
+      "answer": "expression"
+    },
+    {
+      "id": 98,
+      "question": "The ________ operator in Python gives you the product of two numbers.",
+      "answer": "* (multiplication)"
+    },
+    {
+      "id": 99,
+      "question": "The ________ operator in Python gives you the quotient.",
+      "answer": "/ (division)"
+    },
+    {
+      "id": 100,
+      "question": "Variables are created when you assign a value using the ________ operator.",
+      "answer": "="
     }
   ]
 }

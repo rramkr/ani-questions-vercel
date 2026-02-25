@@ -1,0 +1,65 @@
+{
+  "question_type": "case_study",
+  "questions": [
+    {
+      "id": "cs001",
+      "case_text": "Anirudh and his friends went to an amusement park. They noticed a roller coaster being pulled by a motor from point A (ground level) to point B (the highest point, 30 metres above the ground). After reaching point B, there was no motor pulling the roller coaster, yet it continued moving through loops and dips all the way to the end of the ride. At one mid-point C, the roller coaster was at a height of 15 metres. Assume there is no friction.",
+      "questions": [
+        {"question": "What form of energy does the roller coaster have at point B (the highest point)?", "answer": "At point B, the roller coaster has maximum potential energy and zero kinetic energy. This is because it is at the highest point and momentarily at rest before it begins its descent."},
+        {"question": "Why does the roller coaster continue to move after point B even though there is no motor pulling it?", "answer": "As the roller coaster descends from point B, its potential energy is converted into kinetic energy. This kinetic energy keeps the roller coaster moving through the loops and dips. This is an example of the inter-conversion of potential energy and kinetic energy."},
+        {"question": "If the total mechanical energy at point B is 100 units, what are the kinetic energy and potential energy at mid-point C (half the height)?", "answer": "At point C (15 m, which is half the height of 30 m), the potential energy is 50 units. Since total energy is conserved, kinetic energy = 100 - 50 = 50 units. So at point C, KE = 50 units and PE = 50 units."},
+        {"question": "Which law of physics explains why the total energy remains the same at every point of the ride?", "answer": "The law of conservation of energy explains this. According to this law, energy can neither be created nor destroyed. It can only be transformed from one form to another. The total amount of energy in a system always remains constant."}
+      ],
+      "source_section": "Law of Conservation of Energy"
+    },
+    {
+      "id": "cs002",
+      "case_text": "During a science class activity, the teacher asked students to list all the energy conversions that take place in their homes from morning to night. Priya made the following list:\n\n1. Mother uses a mixer grinder to make chutney.\n2. Father charges his phone overnight.\n3. The electric iron is used to press school uniforms.\n4. The doorbell rings when a visitor presses the button.\n5. A solar panel on the terrace heats water for bathing.",
+      "questions": [
+        {"question": "What energy conversion takes place in the mixer grinder?", "answer": "In a mixer grinder, electrical energy is converted into mechanical energy. The electric motor rotates the blades, which have kinetic energy and can crush the ingredients."},
+        {"question": "What energy conversion takes place when the phone is charged?", "answer": "When a phone is charged, electrical energy is converted into chemical energy. The electrical energy from the mains is stored as chemical energy in the rechargeable battery of the phone."},
+        {"question": "What energy conversion takes place in the electric iron?", "answer": "In an electric iron, electrical energy is converted into heat energy. The heating element inside the iron gets hot when current flows through it, and this heat is used to press clothes."},
+        {"question": "What two energy conversions take place when the doorbell rings?", "answer": "When the doorbell rings, electrical energy is first converted into magnetic energy (in the electromagnet inside the bell), and then into sound energy when the bell vibrates and produces sound."},
+        {"question": "What energy conversion takes place in the solar panel water heater?", "answer": "In a solar water heater, solar energy (light energy from the sun) is converted into heat energy, which heats the water for bathing."}
+      ],
+      "source_section": "Inter-conversion of Energy"
+    },
+    {
+      "id": "cs003",
+      "case_text": "Ravi performed an experiment in the physics lab. He placed a dry cell at the top of an inclined wooden board. At the bottom of the incline, he placed an empty matchbox. When he released the dry cell, it rolled down the inclined board and pushed the matchbox forward. The teacher then asked Ravi to repeat the experiment by increasing the height of the inclined board.",
+      "questions": [
+        {"question": "What form of energy does the dry cell have when it is at rest on top of the inclined board?", "answer": "When the dry cell is at rest on top of the inclined board, it has potential energy. This is because it is at a height above the ground, and potential energy is the energy stored in an object by virtue of its position above the ground."},
+        {"question": "What form of energy does the dry cell have as it rolls down the board?", "answer": "As the dry cell rolls down the board, its potential energy is converted into kinetic energy. Kinetic energy is the energy possessed by an object by virtue of its motion. The cell has both kinetic and potential energy while rolling, but kinetic energy keeps increasing while potential energy keeps decreasing."},
+        {"question": "Why did the matchbox move forward when the dry cell hit it?", "answer": "The rolling dry cell had kinetic energy due to its motion. When it hit the matchbox, it did work on the matchbox by transferring some of its kinetic energy to it. When work is done on a body, its energy increases, so the matchbox gained kinetic energy and moved forward."},
+        {"question": "What will happen to the matchbox if the height of the inclined board is increased? Why?", "answer": "The matchbox will be pushed further forward. This is because at a greater height, the dry cell has more potential energy. When it rolls down, this greater potential energy is converted into greater kinetic energy. So the cell hits the matchbox with more force and pushes it further. The higher an object is from the ground, the greater the potential energy it has."}
+      ],
+      "source_section": "Conversion of Potential Energy into Kinetic Energy"
+    },
+    {
+      "id": "cs004",
+      "case_text": "Meena observed a simple pendulum in her physics lab. The teacher pulled the bob to position A (extreme left) and released it. The bob swung to the lowest point B (centre) and then to position C (extreme right), and kept swinging back and forth. The teacher told the class that this motion demonstrates an important law of physics.",
+      "questions": [
+        {"question": "What type of energy does the bob have at position A (extreme left) just before it is released?", "answer": "At position A (extreme left), the bob has maximum potential energy and zero kinetic energy. This is because it is at its highest point and is momentarily at rest before being released."},
+        {"question": "What type of energy does the bob have at position B (the lowest point)?", "answer": "At position B (the lowest point), the bob has maximum kinetic energy and zero potential energy. All the potential energy it had at position A has been converted into kinetic energy as it swung down to the lowest point."},
+        {"question": "What happens to the energy of the bob as it moves from B to C?", "answer": "As the bob moves from position B (lowest point) to position C (extreme right), its kinetic energy gradually decreases and is converted into potential energy. At position C, the bob momentarily stops, so it has maximum potential energy and zero kinetic energy, just like at position A."},
+        {"question": "Which law does this pendulum motion demonstrate? State the law.", "answer": "This demonstrates the law of conservation of energy. According to this law, energy can neither be created nor destroyed. The total amount of energy in a system always remains constant. It can only be transformed from one form to the other. In the pendulum, potential energy and kinetic energy keep converting into each other, but the total mechanical energy remains the same throughout the motion."}
+      ],
+      "source_section": "Law of Conservation of Energy"
+    },
+    {
+      "id": "cs005",
+      "case_text": "A class 7 student was asked to solve the following problem:\n\nA boy pushes a box with a force of 50 N across a room. The box moves 4 metres in the direction of the force. The boy then lifts a 2 kg bag from the ground and places it on a shelf 3 metres high.\n\n(Take g = 10 m/s²)",
+      "questions": [
+        {"question": "How much work does the boy do in pushing the box?", "answer": "Work = Force × Displacement = 50 N × 4 m = 200 joules (J). The SI unit of work is joule, named after the scientist James Prescott Joule."},
+        {"question": "What is the definition of 1 joule of work?", "answer": "One joule of work is done when a force of 1 newton displaces a body through a distance of 1 metre in the direction of the force. 1 J = 1 N × 1 m."},
+        {"question": "What is the relationship between work and energy?", "answer": "Work and energy are directly related. When work is done on a body, its energy increases. When a body does work, its energy decreases. Energy is defined as the capacity to do work. Both work and energy are measured in the same SI unit, the joule (J)."},
+        {"question": "What is the potential energy of the bag after it is placed on the shelf 3 metres high?", "answer": "When the bag is placed on the shelf, it gains potential energy by virtue of its height above the ground. The work done to lift it equals the potential energy gained. Work = Force × Displacement = (mass × g) × height = 2 × 10 × 3 = 60 joules. So the potential energy of the bag is 60 J."}
+      ],
+      "source_section": "Work and Energy"
+    }
+  ],
+  "total_count": 5,
+  "generated_at": "2026-02-19T12:00:00",
+  "subject": "Physics",
+  "chapter": "Energy"
+}

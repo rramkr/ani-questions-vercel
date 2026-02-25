@@ -150,6 +150,56 @@
       "id": 30,
       "question": "Given: letters = [\"A\", \"B\", \"C\", \"D\", \"E\"]\nWrite code to print them in reverse order using negative indices.",
       "answer": "letters = [\"A\", \"B\", \"C\", \"D\", \"E\"]\nprint(letters[-1])  # E\nprint(letters[-2])  # D\nprint(letters[-3])  # C\nprint(letters[-4])  # B\nprint(letters[-5])  # A\n\nOr using loop:\nfor i in range(-1, -6, -1):\n    print(letters[i])"
+    },
+    {
+      "id": 31,
+      "question": "Write a print statement using \\n to display:\nHello\nWorld\nPython",
+      "answer": "print(\"Hello\\nWorld\\nPython\")"
+    },
+    {
+      "id": 32,
+      "question": "Write a print statement using \\t to display a table:\nName    Age\nAni     13",
+      "answer": "print(\"Name\\tAge\")\nprint(\"Ani\\t13\")"
+    },
+    {
+      "id": 33,
+      "question": "Given: fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\"]\nWrite a Python statement to print the second item using a positive index.",
+      "answer": "print(fruits[1])\nOutput: banana"
+    },
+    {
+      "id": 34,
+      "question": "Given: fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\"]\nWrite a Python statement to print the last item using a negative index.",
+      "answer": "print(fruits[-1])\nOutput: elderberry"
+    },
+    {
+      "id": 35,
+      "question": "Given: marks = (87, 92, 76, 81, 95, 67)\nWrite a Python statement to print the highest mark using positive index.",
+      "answer": "print(marks[4])\nOutput: 95"
+    },
+    {
+      "id": 36,
+      "question": "Given: marks = (87, 92, 76, 81, 95, 67)\nWrite a Python statement to print the lowest mark using negative index.",
+      "answer": "print(marks[-1])\nOutput: 67"
+    },
+    {
+      "id": 37,
+      "question": "Given: team = [\"Red\", \"Green\", \"White\", \"Black\"]\nWrite code to print the number of items in the list.",
+      "answer": "print(len(team))\nOutput: 4"
+    },
+    {
+      "id": 38,
+      "question": "Fill in the range() to print the series: 4, 8, 12, 16, ..., 40",
+      "answer": "for i in range(4, 41, 4):\n    print(i)"
+    },
+    {
+      "id": 39,
+      "question": "Fill in the range() to print the series: 20, 18, 16, ..., 0",
+      "answer": "for i in range(20, -1, -2):\n    print(i)"
+    },
+    {
+      "id": 40,
+      "question": "Fill in the range() to print the series: 1, 4, 7, 10, 13, ..., 100",
+      "answer": "for i in range(1, 101, 3):\n    print(i)"
     }
   ]
 }

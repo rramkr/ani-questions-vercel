@@ -1,0 +1,733 @@
+{
+  "subject": "Chemistry",
+  "chapter": "Language of Chemistry",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "loc_a01",
+      "question": "In a chemical reaction diagram, A and B react to form C and D. What are A and B called?",
+      "answer": "Reactants",
+      "source_section": "A. Introduction - Chemical Reactions"
+    },
+    {
+      "id": "loc_a02",
+      "question": "State how C and D differ from A and B.",
+      "answer": "C and D are products (new substances formed); A and B are reactants (starting substances).",
+      "source_section": "A. Introduction - Chemical Reactions"
+    },
+    {
+      "id": "loc_a03",
+      "question": "State why A and B on reacting result in formation of C and D.",
+      "answer": "During a chemical reaction, atoms of the reactants rearrange to form new substances (products) with different properties.",
+      "source_section": "A. Introduction - Chemical Reactions"
+    },
+    {
+      "id": "loc_a04",
+      "question": "Write the word equation for the reaction of magnesium with dilute sulphuric acid.",
+      "answer": "Magnesium + Dilute sulphuric acid → Magnesium sulphate + Hydrogen",
+      "source_section": "A. Introduction - Chemical Reactions"
+    },
+    {
+      "id": "loc_a05",
+      "question": "Write the molecular equation for the reaction of magnesium with dilute sulphuric acid.",
+      "answer": "Mg + H₂SO₄(dil.) → MgSO₄ + H₂↑",
+      "source_section": "A. Introduction - Chemical Reactions"
+    },
+    {
+      "id": "loc_b01",
+      "question": "Write the word equation for: CuCO₃ → CuO + CO₂",
+      "answer": "Copper carbonate → Copper oxide + Carbon dioxide",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b02",
+      "question": "Write the word equation for: ZnCO₃ → ZnO + CO₂",
+      "answer": "Zinc carbonate → Zinc oxide + Carbon dioxide",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b03",
+      "question": "Write the word equation for: 2HgO → 2Hg + O₂",
+      "answer": "Mercury oxide → Mercury + Oxygen",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b04",
+      "question": "Write the word equation for: 2PbO₂ → 2PbO + O₂",
+      "answer": "Lead dioxide → Lead oxide + Oxygen",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b05",
+      "question": "Write the word equation for: CuSO₄ + Fe → FeSO₄ + Cu",
+      "answer": "Copper(II) sulphate + Iron → Iron(II) sulphate + Copper",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b06",
+      "question": "Give a word equation for a chemical reaction resulting in the evolution of hydrogen gas.",
+      "answer": "Zinc + Dilute sulphuric acid → Zinc sulphate + Hydrogen↑",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b07",
+      "question": "Give a word equation for a chemical reaction resulting in the evolution of oxygen gas.",
+      "answer": "Potassium chlorate (heat, catalyst MnO₂) → Potassium chloride + Oxygen↑",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b08",
+      "question": "Give a word equation for a chemical reaction resulting in the evolution of carbon dioxide gas.",
+      "answer": "Calcium carbonate + Dilute hydrochloric acid → Calcium chloride + Water + Carbon dioxide↑",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b09",
+      "question": "Give a word equation for a chemical reaction resulting in the evolution of hydrogen chloride gas.",
+      "answer": "Sodium chloride + Concentrated sulphuric acid → Sodium bisulphate + Hydrogen chloride↑",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b10",
+      "question": "Give a word equation for a chemical reaction resulting in the evolution of sulphur dioxide gas.",
+      "answer": "Sodium sulphite + Dilute sulphuric acid → Sodium sulphate + Water + Sulphur dioxide↑",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b11",
+      "question": "Give an equation for evolution of gas by thermal decomposition of a metallic carbonate.",
+      "answer": "Zinc carbonate →(heat) Zinc oxide + Carbon dioxide↑",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b12",
+      "question": "Give an equation for evolution of gas by thermal decomposition of a metallic oxide.",
+      "answer": "Mercury oxide →(heat) Mercury + Oxygen↑",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b13",
+      "question": "Write the word equation for: AgNO₃ + HCl → HNO₃ + AgCl↓",
+      "answer": "Silver nitrate + Hydrochloric acid → Nitric acid + Silver chloride↓",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b14",
+      "question": "Name the precipitate formed in the reaction of silver nitrate with hydrochloric acid.",
+      "answer": "Silver chloride (AgCl)",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b15",
+      "question": "State the colour of the precipitate silver chloride.",
+      "answer": "White",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b16",
+      "question": "Write the word equation for: FeSO₄ + 2NaOH → Na₂SO₄ + Fe(OH)₂↓",
+      "answer": "Iron(II) sulphate + Sodium hydroxide → Sodium sulphate + Iron(II) hydroxide↓",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b17",
+      "question": "Name the precipitate formed in reaction of iron(II) sulphate with sodium hydroxide.",
+      "answer": "Iron(II) hydroxide [Fe(OH)₂]",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b18",
+      "question": "State the colour of iron(II) hydroxide precipitate.",
+      "answer": "Dirty green",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b19",
+      "question": "Write the word equation for: CuSO₄ + 2NaOH → Na₂SO₄ + Cu(OH)₂↓",
+      "answer": "Copper(II) sulphate + Sodium hydroxide → Sodium sulphate + Copper(II) hydroxide↓",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b20",
+      "question": "Name the precipitate formed in reaction of copper(II) sulphate with sodium hydroxide.",
+      "answer": "Copper(II) hydroxide [Cu(OH)₂]",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b21",
+      "question": "State the colour of copper(II) hydroxide precipitate.",
+      "answer": "Pale blue",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b22",
+      "question": "Write the word equation for: Pb(NO₃)₂ + 2NH₄OH → 2NH₄NO₃ + Pb(OH)₂↓",
+      "answer": "Lead nitrate + Ammonium hydroxide → Ammonium nitrate + Lead hydroxide↓",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b23",
+      "question": "Name the precipitate formed in reaction of lead nitrate with ammonium hydroxide.",
+      "answer": "Lead hydroxide [Pb(OH)₂]",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b24",
+      "question": "State the colour of lead hydroxide precipitate.",
+      "answer": "White",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b25",
+      "question": "Give a word equation for an exothermic reaction between a solid and a neutral liquid (CaO + H₂O).",
+      "answer": "Calcium oxide + Water → Calcium hydroxide + Heat",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b26",
+      "question": "Give a word equation for an exothermic reaction between an acidic gas and a neutral gas (2SO₂ + O₂).",
+      "answer": "Sulphur dioxide + Oxygen → Sulphur trioxide + Heat",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b27",
+      "question": "Give a word equation for an exothermic reaction between neutral gases including nitrogen (N₂ + 3H₂).",
+      "answer": "Nitrogen + Hydrogen → Ammonia + Heat",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b28",
+      "question": "Give a word equation for an exothermic reaction between neutral gases including oxygen (2H₂ + O₂).",
+      "answer": "Hydrogen + Oxygen → Water + Heat",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b29",
+      "question": "Why is rusting an exothermic reaction but the heat evolved is unnoticeable?",
+      "answer": "Rusting is a very slow process, so the heat is released very gradually over a long time and is not noticeable.",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b30",
+      "question": "Why are concrete slabs set slowly during building structures?",
+      "answer": "To avoid cracking due to heat released during the setting (exothermic) process. Slow setting allows gradual heat dissipation.",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_b31",
+      "question": "Why are certain exothermic reactions in the human body beneficial?",
+      "answer": "They provide the required energy for body functions and help maintain body temperature.",
+      "source_section": "B. Characteristics of Chemical Reactions"
+    },
+    {
+      "id": "loc_c01",
+      "question": "Why are solid reactants powdered and mixed before reacting?",
+      "answer": "To increase the surface area of contact between the reactants, which makes the reaction faster.",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c02",
+      "question": "Name a non-metal that reacts explosively with iodine on close contact.",
+      "answer": "Phosphorus",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c03",
+      "question": "Name a metal that reacts explosively with cold water.",
+      "answer": "Sodium",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c04",
+      "question": "Name a reaction that takes place in solution state only.",
+      "answer": "FeCl₃ + 3NaOH → 3NaCl + Fe(OH)₃",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c05",
+      "question": "Name a reaction that takes place on heating the reactant(s).",
+      "answer": "Zinc + Oxygen →(heat) Zinc oxide (2Zn + O₂ → 2ZnO)",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c06",
+      "question": "Name a reaction that takes place on supplying light energy.",
+      "answer": "Carbon dioxide + Water →(light) Glucose + Oxygen (Photosynthesis)",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c07",
+      "question": "Name a reaction in which electricity dissociates the reactant.",
+      "answer": "Water →(electricity) Hydrogen + Oxygen (Electrolysis: 2H₂O → 2H₂ + O₂)",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c08",
+      "question": "Name a reaction that takes place on subjecting reactants to pressure.",
+      "answer": "Nitrogen + Hydrogen →(pressure) Ammonia (N₂ + 3H₂ → 2NH₃)",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c09",
+      "question": "Name a reaction that takes place in the presence of a catalyst.",
+      "answer": "Decomposition of potassium chlorate in the presence of MnO₂ catalyst to give potassium chloride and oxygen.",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c10",
+      "question": "Why is silver bromide stored in a brown thick glass bottle?",
+      "answer": "Silver bromide decomposes when exposed to light, so it is stored in dark (brown) bottles to prevent this decomposition.",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c11",
+      "question": "Why are solid reactants not generally subjected to pressure changes?",
+      "answer": "Solids are almost incompressible, so changes in pressure have very little effect on reactions involving solid reactants.",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c12",
+      "question": "Why is dilute sulphuric acid added to water before electrolysis?",
+      "answer": "To increase the conductivity of water, as pure water is a poor conductor of electricity.",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c13",
+      "question": "Why do most chemical reactions require heating?",
+      "answer": "To provide activation energy — the minimum energy required for the reactants to start reacting and form products.",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c14",
+      "question": "How does a positive catalyst differ from a negative catalyst?",
+      "answer": "A positive catalyst increases the rate of a chemical reaction, while a negative catalyst (inhibitor) decreases the rate of a chemical reaction.",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_c15",
+      "question": "Why is a promoter used along with the catalyst in the manufacture of ammonia?",
+      "answer": "A promoter increases the efficiency of the catalyst, making the reaction proceed faster and more completely.",
+      "source_section": "C. Conditions Necessary for Chemical Reaction"
+    },
+    {
+      "id": "loc_d01",
+      "question": "Complete the revision table of symbols and valencies for common elements and radicals.",
+      "answer": "Monovalent (+): K⁺, Na⁺, Cu⁺, Hg⁺, Ag⁺, NH₄⁺, H⁺ | Divalent (+): Ca²⁺, Mg²⁺, Zn²⁺, Cu²⁺, Hg²⁺, Fe²⁺, Pb²⁺ | Trivalent (+): Al³⁺, Fe³⁺ | Tetravalent (+): Pb⁴⁺ | Monovalent (-): Cl⁻, Br⁻, I⁻, OH⁻, HCO₃⁻, HSO₃⁻, HSO₄⁻, NO₃⁻ | Divalent (-): CO₃²⁻, SO₃²⁻, SO₄²⁻, S²⁻, O²⁻ | Trivalent (-): PO₄³⁻",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_01",
+      "question": "Write the chemical formula of Sodium chloride.",
+      "answer": "NaCl",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_02",
+      "question": "Write the chemical formula of Iron(III) chloride.",
+      "answer": "FeCl₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_03",
+      "question": "Write the chemical formula of Ammonium phosphate.",
+      "answer": "(NH₄)₃PO₄",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_04",
+      "question": "Write the chemical formula of Copper(II) chloride.",
+      "answer": "CuCl₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_05",
+      "question": "Write the chemical formula of Lead(II) chloride.",
+      "answer": "PbCl₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_06",
+      "question": "Write the chemical formula of Mercury(II) chloride.",
+      "answer": "HgCl₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_07",
+      "question": "Write the chemical formula of Magnesium nitrate.",
+      "answer": "Mg(NO₃)₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_08",
+      "question": "Write the chemical formula of Iron(III) hydroxide.",
+      "answer": "Fe(OH)₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_09",
+      "question": "Write the chemical formula of Calcium hydroxide.",
+      "answer": "Ca(OH)₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_10",
+      "question": "Write the chemical formula of Copper(II) sulphate.",
+      "answer": "CuSO₄",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_11",
+      "question": "Write the chemical formula of Zinc sulphite.",
+      "answer": "ZnSO₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_12",
+      "question": "Write the chemical formula of Lead(II) oxide.",
+      "answer": "PbO",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_13",
+      "question": "Write the chemical formula of Zinc carbonate.",
+      "answer": "ZnCO₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_14",
+      "question": "Write the chemical formula of Copper(I) oxide.",
+      "answer": "Cu₂O",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_15",
+      "question": "Write the chemical formula of Magnesium oxide.",
+      "answer": "MgO",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_16",
+      "question": "Write the chemical formula of Iron(II) oxide.",
+      "answer": "FeO",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_17",
+      "question": "Write the chemical formula of Aluminium chloride.",
+      "answer": "AlCl₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_18",
+      "question": "Write the chemical formula of Iron(III) oxide.",
+      "answer": "Fe₂O₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_19",
+      "question": "Write the chemical formula of Calcium bicarbonate.",
+      "answer": "Ca(HCO₃)₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_20",
+      "question": "Write the chemical formula of Copper(II) oxide.",
+      "answer": "CuO",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_21",
+      "question": "Write the chemical formula of Sodium sulphate.",
+      "answer": "Na₂SO₄",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_22",
+      "question": "Write the chemical formula of Iron(II) chloride.",
+      "answer": "FeCl₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_23",
+      "question": "Write the chemical formula of Potassium sulphide.",
+      "answer": "K₂S",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_24",
+      "question": "Write the chemical formula of Silver(I) oxide.",
+      "answer": "Ag₂O",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_25",
+      "question": "Write the chemical formula of Zinc phosphate.",
+      "answer": "Zn₃(PO₄)₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d02_26",
+      "question": "Write the chemical formula of Lead(IV) oxide.",
+      "answer": "PbO₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_01",
+      "question": "Write the formula of Hydrogen gas.",
+      "answer": "H₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_02",
+      "question": "Write the formula of Nitrogen gas.",
+      "answer": "N₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_03",
+      "question": "Write the formula of Oxygen gas.",
+      "answer": "O₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_04",
+      "question": "Write the formula of Chlorine gas.",
+      "answer": "Cl₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_05",
+      "question": "Write the formula of Hydrogen chloride.",
+      "answer": "HCl",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_06",
+      "question": "Write the formula of Ammonia.",
+      "answer": "NH₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_07",
+      "question": "Write the formula of Carbon monoxide.",
+      "answer": "CO",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_08",
+      "question": "Write the formula of Carbon dioxide.",
+      "answer": "CO₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_09",
+      "question": "Write the formula of Nitric oxide.",
+      "answer": "NO",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_10",
+      "question": "Write the formula of Nitrous oxide.",
+      "answer": "N₂O",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_11",
+      "question": "Write the formula of Nitrogen dioxide.",
+      "answer": "NO₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_12",
+      "question": "Write the formula of Sulphur dioxide.",
+      "answer": "SO₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_13",
+      "question": "Write the formula of Hydrochloric acid.",
+      "answer": "HCl",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_14",
+      "question": "Write the formula of Nitric acid.",
+      "answer": "HNO₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_15",
+      "question": "Write the formula of Sulphuric acid.",
+      "answer": "H₂SO₄",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_16",
+      "question": "Write the formula of Carbonic acid.",
+      "answer": "H₂CO₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_17",
+      "question": "Write the formula of Phosphoric acid.",
+      "answer": "H₃PO₄",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_18",
+      "question": "Write the formula of Potassium hydroxide.",
+      "answer": "KOH",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_19",
+      "question": "Write the formula of Sodium hydroxide.",
+      "answer": "NaOH",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_20",
+      "question": "Write the formula of Ammonium hydroxide.",
+      "answer": "NH₄OH",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_21",
+      "question": "Write the formula of Calcium hydroxide.",
+      "answer": "Ca(OH)₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_22",
+      "question": "Write the formula of Zinc hydroxide.",
+      "answer": "Zn(OH)₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_23",
+      "question": "Write the formula of Copper(II) hydroxide.",
+      "answer": "Cu(OH)₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_24",
+      "question": "Write the formula of Sodium chloride (salt).",
+      "answer": "NaCl",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_25",
+      "question": "Write the formula of Potassium nitrate.",
+      "answer": "KNO₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_26",
+      "question": "Write the formula of Zinc sulphate.",
+      "answer": "ZnSO₄",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_27",
+      "question": "Write the formula of Copper(II) sulphate (salt).",
+      "answer": "CuSO₄",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_28",
+      "question": "Write the formula of Iron(II) sulphate.",
+      "answer": "FeSO₄",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d03_29",
+      "question": "Write the formula of Lead(II) nitrate.",
+      "answer": "Pb(NO₃)₂",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d04_01",
+      "question": "Balance the equation: N₂ + H₂ → NH₃",
+      "answer": "N₂ + 3H₂ → 2NH₃",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d04_02",
+      "question": "Balance the equation: H₂ + Cl₂ → HCl",
+      "answer": "H₂ + Cl₂ → 2HCl",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_01",
+      "question": "Write the word equation for: NH₃ + HCl → NH₄Cl",
+      "answer": "Ammonia + Hydrogen chloride → Ammonium chloride",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_02",
+      "question": "Write the word equation for: Fe + 2HCl → FeCl₂ + H₂",
+      "answer": "Iron + Hydrochloric acid → Iron(II) chloride + Hydrogen",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_03",
+      "question": "Write the word equation for: AgNO₃ + HCl → AgCl + HNO₃",
+      "answer": "Silver nitrate + Hydrochloric acid → Silver chloride + Nitric acid",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_04",
+      "question": "Write the word equation for: NaOH + HNO₃ → NaNO₃ + H₂O",
+      "answer": "Sodium hydroxide + Nitric acid → Sodium nitrate + Water",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_05",
+      "question": "Write the word equation for: CaCO₃ + 2HNO₃ → Ca(NO₃)₂ + H₂O + CO₂",
+      "answer": "Calcium carbonate + Nitric acid → Calcium nitrate + Water + Carbon dioxide",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_06",
+      "question": "Write the word equation for: FeS + H₂SO₄ → FeSO₄ + H₂S",
+      "answer": "Iron sulphide + Sulphuric acid → Iron sulphate + Hydrogen sulphide",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_07",
+      "question": "Write the word equation for: 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O",
+      "answer": "Sodium hydroxide + Sulphuric acid → Sodium sulphate + Water",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_08",
+      "question": "Write the word equation for: FeCl₃ + 3NaOH → 3NaCl + Fe(OH)₃",
+      "answer": "Iron(III) chloride + Sodium hydroxide → Sodium chloride + Iron(III) hydroxide",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_09",
+      "question": "Write the word equation for: CuO + H₂SO₄ → CuSO₄ + H₂O",
+      "answer": "Copper(II) oxide + Sulphuric acid → Copper(II) sulphate + Water",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_10",
+      "question": "Write the word equation for: CaCl₂ + Na₂SO₃ → 2NaCl + CaSO₃",
+      "answer": "Calcium chloride + Sodium sulphite → Sodium chloride + Calcium sulphite",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_11",
+      "question": "Write the word equation for: NH₄OH + HCl → NH₄Cl + H₂O",
+      "answer": "Ammonium hydroxide + Hydrochloric acid → Ammonium chloride + Water",
+      "source_section": "D. Chemical Equations"
+    },
+    {
+      "id": "loc_d05_12",
+      "question": "Write the word equation for: PbO + 2HNO₃ → Pb(NO₃)₂ + H₂O",
+      "answer": "Lead(II) oxide + Nitric acid → Lead(II) nitrate + Water",
+      "source_section": "D. Chemical Equations"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "Chemistry",
+  "chapter": "Elements Compounds and Mixtures",
+  "sections": {
+    "textbook": [],
+    "exam": [
+      {"value": "workbook", "label": "Workbook", "icon": "📓"}
+    ],
+    "miscellaneous": []
+  }
+}

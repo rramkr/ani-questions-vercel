@@ -200,6 +200,106 @@
       "id": 40,
       "question": "Write Python code to print all items of a list along with their index.",
       "answer": "colors = [\"red\", \"blue\", \"green\"]\nfor i in range(len(colors)):\n    print(\"Index\", i, \":\", colors[i])"
+    },
+    {
+      "id": 41,
+      "question": "Write a program to print/display three sentences about yourself using three print statements.",
+      "answer": "print(\"My name is Anirudh.\")\nprint(\"I study in Class 7 at Sishya School.\")\nprint(\"I live in Chennai.\")"
+    },
+    {
+      "id": 42,
+      "question": "Write a program that uses the newline escape sequence \\n in a print statement to print three lines.",
+      "answer": "print(\"Line 1\\nLine 2\\nLine 3\")"
+    },
+    {
+      "id": 43,
+      "question": "Declare and initialize variables a=20, b=5, and find the sum, difference, product and quotient of the two.",
+      "answer": "a = 20\nb = 5\nprint(\"Sum:\", a + b)\nprint(\"Difference:\", a - b)\nprint(\"Product:\", a * b)\nprint(\"Quotient:\", a / b)"
+    },
+    {
+      "id": 44,
+      "question": "Write a program to give you the quotient and remainder when 11 is divided by 2.",
+      "answer": "print(\"Quotient:\", 11 // 2)\nprint(\"Remainder:\", 11 % 2)"
+    },
+    {
+      "id": 45,
+      "question": "Write a program to accept a user's year of birth, and output the user's age.",
+      "answer": "year = int(input(\"Enter your year of birth: \"))\nage = 2026 - year\nprint(\"Your age is:\", age)"
+    },
+    {
+      "id": 46,
+      "question": "Write a program to accept the price of one apple, and calculate the cost of a dozen apples.",
+      "answer": "price = float(input(\"Enter price of one apple: \"))\ncost = price * 12\nprint(\"Cost of a dozen apples:\", cost)"
+    },
+    {
+      "id": 47,
+      "question": "Write code to accept the number of bytes a chip can hold, and output the number of bits (1 byte = 8 bits).",
+      "answer": "bytes = int(input(\"Enter number of bytes: \"))\nbits = bytes * 8\nprint(\"Number of bits:\", bits)"
+    },
+    {
+      "id": 48,
+      "question": "Write a program to accept distance in km (accept floats) and give the output in meters.",
+      "answer": "km = float(input(\"Enter distance in km: \"))\nmeters = km * 1000\nprint(\"Distance in meters:\", meters)"
+    },
+    {
+      "id": 49,
+      "question": "Write a program to accept the weight in kilos of three students and print the average weight.",
+      "answer": "w1 = float(input(\"Enter weight of student 1: \"))\nw2 = float(input(\"Enter weight of student 2: \"))\nw3 = float(input(\"Enter weight of student 3: \"))\naverage = (w1 + w2 + w3) / 3\nprint(\"Average weight:\", average)"
+    },
+    {
+      "id": 50,
+      "question": "Write a program to accept your name and print the letters in your name one by one using a for loop.",
+      "answer": "name = input(\"Enter your name: \")\nfor letter in name:\n    print(letter)"
+    },
+    {
+      "id": 51,
+      "question": "Write Python code to print the letters of the string \"INDIA\" one by one.",
+      "answer": "for letter in \"INDIA\":\n    print(letter)"
+    },
+    {
+      "id": 52,
+      "question": "Write Python code to accept the name of your favourite sportsman and print his name 15 times.",
+      "answer": "name = input(\"Enter sportsman name: \")\nfor i in range(15):\n    print(name)"
+    },
+    {
+      "id": 53,
+      "question": "Write python code to do a 10 to 1 countdown with 1 second time delay and print \"Happy birthday\" message.",
+      "answer": "import time\nfor i in range(10, 0, -1):\n    print(i)\n    time.sleep(1)\nprint(\"Happy birthday!\")"
+    },
+    {
+      "id": 54,
+      "question": "Write Python code to check if a number is positive or negative.",
+      "answer": "num = int(input(\"Enter a number: \"))\nif num >= 0:\n    print(\"Positive\")\nelse:\n    print(\"Negative\")"
+    },
+    {
+      "id": 55,
+      "question": "Write a program that checks if a number is divisible by 5.",
+      "answer": "num = int(input(\"Enter a number: \"))\nif num % 5 == 0:\n    print(\"Divisible by 5\")\nelse:\n    print(\"Not divisible by 5\")"
+    },
+    {
+      "id": 56,
+      "question": "Write a program to check if a person is eligible for driving (age >= 18).",
+      "answer": "age = int(input(\"Enter your age: \"))\nif age >= 18:\n    print(\"You are eligible for driving\")\nelse:\n    print(\"You are not eligible for driving\")"
+    },
+    {
+      "id": 57,
+      "question": "Write the code to declare and initialize a list of 5 Indian cities and print the number of items in the list.",
+      "answer": "cities = [\"Chennai\", \"Mumbai\", \"Delhi\", \"Kolkata\", \"Bangalore\"]\nprint(len(cities))"
+    },
+    {
+      "id": 58,
+      "question": "Write the code to create a list of 5 colors and print them one by one in a new line using for loop.",
+      "answer": "colors = [\"red\", \"blue\", \"green\", \"yellow\", \"orange\"]\nfor color in colors:\n    print(color)"
+    },
+    {
+      "id": 59,
+      "question": "Write code to create a list of 5 countries and print them in reverse one by one using negative index.",
+      "answer": "countries = [\"India\", \"USA\", \"UK\", \"Japan\", \"Australia\"]\nprint(countries[-1])\nprint(countries[-2])\nprint(countries[-3])\nprint(countries[-4])\nprint(countries[-5])"
+    },
+    {
+      "id": 60,
+      "question": "Write a program using \\t escape sequence to display a table with Name and Age columns.",
+      "answer": "print(\"Name\\tAge\")\nprint(\"Anirudh\\t13\")\nprint(\"Yohann\\t13\")\nprint(\"Suvasana\\t13\")"
     }
   ]
 }

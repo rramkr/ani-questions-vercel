@@ -1,0 +1,721 @@
+{
+  "subject": "Chemistry",
+  "chapter": "Elements Compounds and Mixtures",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "ecm_a01",
+      "question": "Complete the table for pure & impure substances — place Elements, Compounds, Mixtures in correct places.",
+      "answer": "Pure substances: Elements, Compounds. Impure substances: Mixtures.",
+      "source_section": "A. Introduction"
+    },
+    {
+      "id": "ecm_a02",
+      "question": "An _____/compound/mixture is a pure substance made up of one kind of atoms which cannot be broken down into simpler substances.",
+      "answer": "Element",
+      "source_section": "A. Introduction"
+    },
+    {
+      "id": "ecm_a03",
+      "question": "An element/_____/mixture is a pure substance made up of two or more kinds of atoms chemically combined in a fixed proportion.",
+      "answer": "Compound",
+      "source_section": "A. Introduction"
+    },
+    {
+      "id": "ecm_a04",
+      "question": "An element/compound/_____ is an impure substance made up of two or more kinds of atoms or compounds, mechanically mixed in any proportion.",
+      "answer": "Mixture",
+      "source_section": "A. Introduction"
+    },
+    {
+      "id": "ecm_a05",
+      "question": "Classify Zinc — element, compound or mixture?",
+      "answer": "Element",
+      "source_section": "A. Introduction"
+    },
+    {
+      "id": "ecm_a06",
+      "question": "Classify Air — element, compound or mixture?",
+      "answer": "Mixture",
+      "source_section": "A. Introduction"
+    },
+    {
+      "id": "ecm_a07",
+      "question": "Classify Zinc sulphide — element, compound or mixture?",
+      "answer": "Compound",
+      "source_section": "A. Introduction"
+    },
+    {
+      "id": "ecm_a08",
+      "question": "Classify Tap water — element, compound or mixture?",
+      "answer": "Mixture",
+      "source_section": "A. Introduction"
+    },
+    {
+      "id": "ecm_a09",
+      "question": "Classify Lead nitrate — element, compound or mixture?",
+      "answer": "Compound",
+      "source_section": "A. Introduction"
+    },
+    {
+      "id": "ecm_b01",
+      "question": "Name the two most abundant elements in the universe.",
+      "answer": "Hydrogen and Helium",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b02",
+      "question": "Name the most abundant element in the earth's crust.",
+      "answer": "Oxygen",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b03",
+      "question": "Name the most abundant element in the atmosphere.",
+      "answer": "Nitrogen",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b04",
+      "question": "Name the most abundant element in the human body.",
+      "answer": "Oxygen",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b05",
+      "question": "Name an element present in the universe, earth's crust and human body.",
+      "answer": "Oxygen",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b06",
+      "question": "Name a mono-atomic, inert, unreactive element present in traces in the earth's atmosphere.",
+      "answer": "Argon",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b07",
+      "question": "State the number of positively charged particles in the shown atom of element 'X'.",
+      "answer": "10 (protons in the nucleus)",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b08",
+      "question": "State the number of particles carrying no charge in the shown atom.",
+      "answer": "10 (neutrons in the nucleus)",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b09",
+      "question": "State the number of negatively charged particles in the outer orbit only of the atom.",
+      "answer": "2 (electrons in the outermost shell)",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b10",
+      "question": "Element 'A' has a high melting point and is a good conductor of heat. Classify it.",
+      "answer": "Metal",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b11",
+      "question": "Element 'B' is non-ductile. Classify it.",
+      "answer": "Non-metal",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b12",
+      "question": "Element 'C' has a high density and has lustre. Classify it.",
+      "answer": "Metal",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b13",
+      "question": "Element 'D' shows properties of both metals and non-metals. Classify it.",
+      "answer": "Metalloid",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b14",
+      "question": "Element 'E' is a solid at room temperature and can be hammered into thin foils or sheets. Classify it.",
+      "answer": "Metal",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b15",
+      "question": "Element 'F' does not react with other elements and is gaseous in nature and present in the atmosphere. Classify it.",
+      "answer": "Noble gas",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b16",
+      "question": "Element 'G' is lustrous and can be drawn into wires. Classify it.",
+      "answer": "Metal",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b17",
+      "question": "Element 'H' is a soft solid at room temperature with a low melting point. Classify it.",
+      "answer": "Non-metal",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b18",
+      "question": "Element 'I' is a good conductor of both heat and electricity. Classify it.",
+      "answer": "Metal",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b19",
+      "question": "Element 'J' has a high melting and boiling point and is malleable. Classify it.",
+      "answer": "Metal",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b20",
+      "question": "Element 'K' is a semi-conductor of electricity, shows average transmission of heat, looks like a metal but shows characteristic properties of weak non-metals. Classify it.",
+      "answer": "Metalloid",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b21",
+      "question": "Name the element whose symbol is 'H'.",
+      "answer": "Hydrogen",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b22",
+      "question": "Name two non-metallic elements whose symbols are represented by the first letter of the name of the element.",
+      "answer": "Hydrogen (H) and Carbon (C)",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b23",
+      "question": "Name two metallic elements whose symbols are represented by the first two letters of the name of the element.",
+      "answer": "Calcium (Ca) and Aluminium (Al)",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b24",
+      "question": "What is the Latin name of the element copper?",
+      "answer": "Cuprum",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b25",
+      "question": "Name the element which shows properties of both metals and non-metals and whose symbol is 'Si'.",
+      "answer": "Silicon",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b26",
+      "question": "Name the inert gas whose symbol is 'He'.",
+      "answer": "Helium",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b27",
+      "question": "Name the gaseous element whose symbol is 'N'.",
+      "answer": "Nitrogen",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b28",
+      "question": "Name the lustrous metallic element whose symbol is 'Au'.",
+      "answer": "Gold",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b29",
+      "question": "Name the element present in traces in the atmosphere whose symbol is 'Kr'.",
+      "answer": "Krypton",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b30",
+      "question": "Name the element which is a liquid at room temperature and whose symbol is 'Br'.",
+      "answer": "Bromine",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b31",
+      "question": "Name the gaseous element also referred to as a halogen whose symbol is 'Cl'.",
+      "answer": "Chlorine",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b32",
+      "question": "Name the gaseous element present in the atmosphere, in the earth and in the combined state in water whose symbol is 'O'.",
+      "answer": "Oxygen",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b33",
+      "question": "Name the radical SO\u2083\u00b2\u207b.",
+      "answer": "Sulphite",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b34",
+      "question": "Name the radical SO\u2084\u00b2\u207b.",
+      "answer": "Sulphate",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b35",
+      "question": "Name the radical OH\u207b.",
+      "answer": "Hydroxide",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b36",
+      "question": "Name the radical NO\u2083\u207b.",
+      "answer": "Nitrate",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_b37",
+      "question": "Name the radical CO\u2083\u00b2\u207b.",
+      "answer": "Carbonate",
+      "source_section": "B. Elements"
+    },
+    {
+      "id": "ecm_c01",
+      "question": "Complete the statement: A compound is a _____ substance made of _____ kinds of atoms chemically combined in _____ proportion.",
+      "answer": "A compound is a pure substance made of two or more kinds of atoms chemically combined in fixed proportion.",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c02",
+      "question": "In carbon dioxide the elements C and O are combined in — A: Any proportion by mass OR B: Fixed proportion by mass?",
+      "answer": "B — Fixed proportion by mass",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c03",
+      "question": "A compound is always a — A: Homogeneous mixture OR B: Heterogeneous mixture?",
+      "answer": "A — Homogeneous",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c04",
+      "question": "Components in a compound can be separated by — A: Physical means only OR B: Chemical means only?",
+      "answer": "B — Chemical means only",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c05",
+      "question": "Component elements in a compound — A: Have a definite set of properties OR B: Do not have a definite set of original properties?",
+      "answer": "B — Do not have a definite set of original properties (they lose their individual properties and the compound has its own set of properties)",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c06",
+      "question": "A compound is made up of — A: One kind of atoms OR B: Two or more kinds of atoms?",
+      "answer": "B — Two or more kinds of atoms",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c07",
+      "question": "What is meant by the term 'chemical formula'?",
+      "answer": "A chemical formula is a symbolic representation of a substance showing the kinds and number of atoms present in one molecule of the substance.",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c08",
+      "question": "What does the chemical formula 'KCl' denote?",
+      "answer": "KCl denotes potassium chloride — a compound containing one atom of potassium (K) and one atom of chlorine (Cl).",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c09",
+      "question": "State the number of atoms of each element in the compound red lead whose chemical formula is Pb\u2083O\u2084.",
+      "answer": "Lead (Pb) = 3 atoms, Oxygen (O) = 4 atoms",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c10",
+      "question": "State two factors which must be known when writing a chemical formula of a compound.",
+      "answer": "The symbols and the valencies of the elements or radicals present in the compound.",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c11",
+      "question": "What is meant by the term 'valency'?",
+      "answer": "Valency is the combining capacity of an element or radical. It tells us the number of atoms of hydrogen (or equivalent) that can combine with or be displaced by one atom of the element.",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c12",
+      "question": "What is the valency of chlorine in the compound hydrogen chloride (HCl)?",
+      "answer": "1",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c13",
+      "question": "What is the valency of oxygen in the compound water (H\u2082O)?",
+      "answer": "2",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c14",
+      "question": "What is the valency of nitrogen in the compound ammonia (NH\u2083)?",
+      "answer": "3",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c15",
+      "question": "What is the valency of carbon in the compound methane (CH\u2084)?",
+      "answer": "4",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c16",
+      "question": "What is the valency of the nitrate radical [NO\u2083] in the compound nitric acid (HNO\u2083)?",
+      "answer": "1",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c17",
+      "question": "What is the valency of the sulphate radical [SO\u2084] in the compound sulphuric acid (H\u2082SO\u2084)?",
+      "answer": "2",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c18",
+      "question": "Match elements/radicals with their symbols: Potassium, Sodium, Hydrogen, Ammonium, Calcium, Magnesium, Zinc, Aluminium, Chloride, Bromide, Iodide, Oxide, Sulphide.",
+      "answer": "Potassium \u2192 K, Sodium \u2192 Na, Hydrogen \u2192 H, Ammonium \u2192 NH\u2084, Calcium \u2192 Ca, Magnesium \u2192 Mg, Zinc \u2192 Zn, Aluminium \u2192 Al, Chloride \u2192 Cl, Bromide \u2192 Br, Iodide \u2192 I, Oxide \u2192 O, Sulphide \u2192 S",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c19",
+      "question": "Match radicals with their symbols: Nitrate, Hydroxide, Sulphite, Sulphate, Carbonate, Phosphate, Bicarbonate, Bisulphite, Bisulphate.",
+      "answer": "Nitrate \u2192 NO\u2083, Hydroxide \u2192 OH, Sulphite \u2192 SO\u2083, Sulphate \u2192 SO\u2084, Carbonate \u2192 CO\u2083, Phosphate \u2192 PO\u2084, Bicarbonate \u2192 HCO\u2083, Bisulphite \u2192 HSO\u2083, Bisulphate \u2192 HSO\u2084",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c20",
+      "question": "Match elements with their valencies: K, Na, H, NH\u2084, Ca, Mg, Zn, Al, Cl, Br, I, O, S.",
+      "answer": "K\u207a (1+), Na\u207a (1+), H\u207a (1+), NH\u2084\u207a (1+), Ca\u00b2\u207a (2+), Mg\u00b2\u207a (2+), Zn\u00b2\u207a (2+), Al\u00b3\u207a (3+), Cl\u207b (1-), Br\u207b (1-), I\u207b (1-), O\u00b2\u207b (2-), S\u00b2\u207b (2-)",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c21",
+      "question": "Match radicals with their valencies: Nitrate, Hydroxide, Sulphite, Sulphate, Carbonate, Phosphate, Bicarbonate, Bisulphite, Bisulphate.",
+      "answer": "NO\u2083\u207b (1-), OH\u207b (1-), SO\u2083\u00b2\u207b (2-), SO\u2084\u00b2\u207b (2-), CO\u2083\u00b2\u207b (2-), PO\u2084\u00b3\u207b (3-), HCO\u2083\u207b (1-), HSO\u2083\u207b (1-), HSO\u2084\u207b (1-)",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c22",
+      "question": "Write the formula of calcium chloride using the step method.",
+      "answer": "CaCl\u2082 (Calcium is Ca\u00b2\u207a, Chloride is Cl\u207b. Interchange valencies: Ca takes 1, Cl takes 2 \u2192 CaCl\u2082)",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c23",
+      "question": "Potassium + Nitrate \u2192 formula and name?",
+      "answer": "KNO\u2083 \u2014 Potassium nitrate",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c24",
+      "question": "Calcium + Hydroxide \u2192 formula and name?",
+      "answer": "Ca(OH)\u2082 \u2014 Calcium hydroxide",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c25",
+      "question": "Sodium + Sulphate \u2192 formula and name?",
+      "answer": "Na\u2082SO\u2084 \u2014 Sodium sulphate",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c26",
+      "question": "Magnesium + Nitrate \u2192 formula and name?",
+      "answer": "Mg(NO\u2083)\u2082 \u2014 Magnesium nitrate",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c27",
+      "question": "Aluminium + Oxide \u2192 formula and name?",
+      "answer": "Al\u2082O\u2083 \u2014 Aluminium oxide",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c28",
+      "question": "Zinc + Carbonate \u2192 formula and name?",
+      "answer": "ZnCO\u2083 \u2014 Zinc carbonate",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c29",
+      "question": "Calcium + Carbonate \u2192 formula and name?",
+      "answer": "CaCO\u2083 \u2014 Calcium carbonate",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c30",
+      "question": "Zinc + Chloride \u2192 formula and name?",
+      "answer": "ZnCl\u2082 \u2014 Zinc chloride",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c31",
+      "question": "Sodium + Sulphite \u2192 formula and name?",
+      "answer": "Na\u2082SO\u2083 \u2014 Sodium sulphite",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c32",
+      "question": "Zinc + Bromide \u2192 formula and name?",
+      "answer": "ZnBr\u2082 \u2014 Zinc bromide",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c33",
+      "question": "Sodium + Iodide \u2192 formula and name?",
+      "answer": "NaI \u2014 Sodium iodide",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c34",
+      "question": "Calcium + Bisulphite \u2192 formula and name?",
+      "answer": "Ca(HSO\u2083)\u2082 \u2014 Calcium bisulphite",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c35",
+      "question": "Match gases with their formulas: Hydrogen, Nitrogen, Oxygen, Chlorine, Hydrogen chloride, Ammonia, Carbon monoxide, Nitric oxide, Nitrous oxide, Carbon dioxide, Nitrogen dioxide, Sulphur dioxide.",
+      "answer": "Hydrogen \u2192 H\u2082, Nitrogen \u2192 N\u2082, Oxygen \u2192 O\u2082, Chlorine \u2192 Cl\u2082, Hydrogen chloride \u2192 HCl, Ammonia \u2192 NH\u2083, Carbon monoxide \u2192 CO, Nitric oxide \u2192 NO, Nitrous oxide \u2192 N\u2082O, Carbon dioxide \u2192 CO\u2082, Nitrogen dioxide \u2192 NO\u2082, Sulphur dioxide \u2192 SO\u2082",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_c36",
+      "question": "Match acids, bases and salts with formulas: Hydrochloric acid, Nitric acid, Sulphuric acid, Carbonic acid, Phosphoric acid, Potassium hydroxide, Sodium hydroxide, Calcium hydroxide, Copper sulphate, Sodium chloride, Potassium nitrate.",
+      "answer": "Hydrochloric acid \u2192 HCl, Nitric acid \u2192 HNO\u2083, Sulphuric acid \u2192 H\u2082SO\u2084, Carbonic acid \u2192 H\u2082CO\u2083, Phosphoric acid \u2192 H\u2083PO\u2084, Potassium hydroxide \u2192 KOH, Sodium hydroxide \u2192 NaOH, Calcium hydroxide \u2192 Ca(OH)\u2082, Copper sulphate \u2192 CuSO\u2084, Sodium chloride \u2192 NaCl, Potassium nitrate \u2192 KNO\u2083",
+      "source_section": "C. Compounds"
+    },
+    {
+      "id": "ecm_d01",
+      "question": "Mixtures _____ the properties of different elements or compounds which are present in it. [do not retain / retain]",
+      "answer": "retain",
+      "source_section": "D. Mixtures"
+    },
+    {
+      "id": "ecm_d02",
+      "question": "Mixtures are of two types namely homogeneous and _____. [impure / heterogeneous]",
+      "answer": "heterogeneous",
+      "source_section": "D. Mixtures"
+    },
+    {
+      "id": "ecm_d03",
+      "question": "_____ mixtures contain components which are not uniformly distributed throughout the mixture. [homogeneous / heterogeneous]",
+      "answer": "Heterogeneous",
+      "source_section": "D. Mixtures"
+    },
+    {
+      "id": "ecm_d04",
+      "question": "_____ mixtures have composition and properties same throughout the mixture. [heterogeneous / homogeneous]",
+      "answer": "Homogeneous",
+      "source_section": "D. Mixtures"
+    },
+    {
+      "id": "ecm_d05",
+      "question": "Oil and water is an example of a _____ mixture. [homogeneous / heterogeneous]",
+      "answer": "heterogeneous",
+      "source_section": "D. Mixtures"
+    },
+    {
+      "id": "ecm_d06",
+      "question": "Sugar and water is an example of a _____ mixture. [heterogeneous / homogeneous]",
+      "answer": "homogeneous",
+      "source_section": "D. Mixtures"
+    },
+    {
+      "id": "ecm_d07",
+      "question": "Alcohol and water are _____ liquids. [miscible / immiscible]",
+      "answer": "miscible",
+      "source_section": "D. Mixtures"
+    },
+    {
+      "id": "ecm_d08",
+      "question": "Dust in air is an example of a _____ mixture. [heterogeneous / homogeneous]",
+      "answer": "heterogeneous",
+      "source_section": "D. Mixtures"
+    },
+    {
+      "id": "ecm_d09",
+      "question": "Salt in water is an example of a _____ mixture, while salt in sand is an example of a _____ mixture.",
+      "answer": "homogeneous; heterogeneous",
+      "source_section": "D. Mixtures"
+    },
+    {
+      "id": "ecm_e01",
+      "question": "Compounds are pure substances made up of one kind of atom only. True or False?",
+      "answer": "False. Compounds are pure substances made up of two or more kinds of atoms chemically combined.",
+      "source_section": "E. Elements, Compounds & Mixtures \u2014 Comparative Study"
+    },
+    {
+      "id": "ecm_e02",
+      "question": "Dust in air is an example of a mixture. True or False?",
+      "answer": "True",
+      "source_section": "E. Elements, Compounds & Mixtures \u2014 Comparative Study"
+    },
+    {
+      "id": "ecm_e03",
+      "question": "Components in a compound are present in a definite proportion. True or False?",
+      "answer": "True",
+      "source_section": "E. Elements, Compounds & Mixtures \u2014 Comparative Study"
+    },
+    {
+      "id": "ecm_e04",
+      "question": "Components of a mixture do not retain their original properties. True or False?",
+      "answer": "False. Components of a mixture retain their original properties.",
+      "source_section": "E. Elements, Compounds & Mixtures \u2014 Comparative Study"
+    },
+    {
+      "id": "ecm_e05",
+      "question": "Elements in a compound are chemically combined and can be separated by chemical and physical methods. True or False?",
+      "answer": "False. Elements in a compound can be separated by chemical methods only, not by physical methods.",
+      "source_section": "E. Elements, Compounds & Mixtures \u2014 Comparative Study"
+    },
+    {
+      "id": "ecm_e06",
+      "question": "Solid pollutants in air are present in a definite proportion. True or False?",
+      "answer": "False. Solid pollutants in air (a mixture) are not present in a definite proportion.",
+      "source_section": "E. Elements, Compounds & Mixtures \u2014 Comparative Study"
+    },
+    {
+      "id": "ecm_e07",
+      "question": "Components of oil and water together retain their original properties. True or False?",
+      "answer": "True",
+      "source_section": "E. Elements, Compounds & Mixtures \u2014 Comparative Study"
+    },
+    {
+      "id": "ecm_e08",
+      "question": "Components of tincture of iodine (iodine and alcohol) can be separated by physical methods only. True or False?",
+      "answer": "True",
+      "source_section": "E. Elements, Compounds & Mixtures \u2014 Comparative Study"
+    },
+    {
+      "id": "ecm_fg01",
+      "question": "Name the dish in which the mixture X and Y are kept in the sublimation setup.",
+      "answer": "China dish (evaporating dish)",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg02",
+      "question": "Give a reason why a funnel is used in the sublimation process.",
+      "answer": "The inverted funnel provides a cool surface where the sublimable solid vapour condenses and collects on the inner side of the funnel.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg03",
+      "question": "State the function of the cotton wool plugged at the top of the funnel.",
+      "answer": "The cotton wool prevents the escape of the sublimable vapour through the top of the funnel, so that it condenses on the inner walls of the funnel instead.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg04",
+      "question": "Give a reason why the sublimable solid collects on the inner side of the funnel.",
+      "answer": "The sublimable solid vapourises on heating, rises, and condenses on the cooler inner surface of the funnel, depositing there as a pure solid.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg05",
+      "question": "State why the substance X formed on the inner side of the funnel is in pure form.",
+      "answer": "Because only the sublimable component vapourises and condenses on the funnel. The non-sublimable impurity remains behind in the china dish, so the collected substance is pure.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg06",
+      "question": "If a mixture of iodine and camphor are heated in a similar manner, would the separation of the two substances be possible in the same way? Give reasons.",
+      "answer": "No, because both iodine and camphor are sublimable substances. Both would vapourise and condense together on the funnel, so they cannot be separated by sublimation.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg07",
+      "question": "In the evaporation setup, is X soluble in Y or insoluble?",
+      "answer": "X is soluble in Y (the solid is dissolved in the liquid).",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg08",
+      "question": "Can the separation of chalk in water be carried out by the evaporation procedure? Give reasons.",
+      "answer": "No. Chalk is insoluble in water, so evaporation is not suitable. Filtration would be the correct method for separating chalk from water.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg09",
+      "question": "Are both components X and Y retrieved after separation by evaporation? Explain.",
+      "answer": "No. Only X (the solute/solid) is retrieved. Y (the solvent/liquid) evaporates into the atmosphere and is lost.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg10",
+      "question": "Give a reason why a porcelain crucible containing X and Y may be kept in a sand bath and heated.",
+      "answer": "The sand bath provides uniform and slow heating, which prevents the crucible from cracking due to sudden temperature changes and also prevents bumping.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg11",
+      "question": "Could the evaporation method be used to separate a mixture of mercury and water? Give reasons.",
+      "answer": "No. Mercury is insoluble in water. They form an immiscible mixture, so a separating funnel would be a more suitable method.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg12",
+      "question": "Distillation is used for separating a mixture of a soluble/insoluble solid from its liquid constituent?",
+      "answer": "Soluble solid (dissolved in the liquid).",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg13",
+      "question": "In distillation, which component remains in the distillation flask and which collects in the receiver?",
+      "answer": "The solid component remains in the distillation flask, and the liquid component (distillate) collects in the receiver after condensation through the condenser.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg14",
+      "question": "Why are the immiscible liquids allowed to stand in the separating funnel for a period of time?",
+      "answer": "To allow the liquids to separate into two distinct layers based on their different densities.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg15",
+      "question": "Why does one liquid settle above the other in the separating funnel?",
+      "answer": "The lighter (less dense) liquid floats on top, while the heavier (denser) liquid settles at the bottom.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg16",
+      "question": "If the two liquids are chloroform and water, why is chloroform collected from below?",
+      "answer": "Chloroform is denser than water, so it settles at the bottom layer and is drained out first through the stopcock.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg17",
+      "question": "Fractional distillation separates liquids which are — A: Miscible OR B: Immiscible?",
+      "answer": "A \u2014 Miscible",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg18",
+      "question": "Fractional distillation is for liquids having — A: A small difference OR B: A large difference in boiling points?",
+      "answer": "A \u2014 A small difference in boiling points",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg19",
+      "question": "If a mixture of X (b.p. 80\u00b0C) and Y (b.p. 110\u00b0C) are to be separated by fractional distillation, which liquid would collect first in the receiver?",
+      "answer": "X would collect first, as it has the lower boiling point (80\u00b0C) and would vapourise and condense first.",
+      "source_section": "F&G. Separation of Mixtures"
+    },
+    {
+      "id": "ecm_fg20",
+      "question": "State the principle behind separation of a mixture of various components (e.g. dyes in ink) by chromatography.",
+      "answer": "The different components of the mixture move at different rates through the stationary phase (filter paper) due to differences in their solubility and rate of adsorption, causing them to separate into distinct bands.",
+      "source_section": "F&G. Separation of Mixtures"
+    }
+  ]
+}

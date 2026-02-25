@@ -175,6 +175,31 @@
       "id": 35,
       "question": "Find the error in the following code:\n\nmarks = [85, 90, 78]\naverage = sum(marks) / length(marks)\nprint(average)",
       "answer": "Error: The function is len(), not length().\nCorrect: average = sum(marks) / len(marks)"
+    },
+    {
+      "id": 36,
+      "question": "Find the error in the following code:\n\nprint(\"Hello/nWorld\")",
+      "answer": "Error: The newline escape sequence should use backslash (\\), not forward slash (/).\nCorrect: print(\"Hello\\nWorld\")"
+    },
+    {
+      "id": 37,
+      "question": "Find the error in the following code:\n\nprint(\"Name/tAge\")",
+      "answer": "Error: The tab escape sequence should use backslash (\\), not forward slash (/).\nCorrect: print(\"Name\\tAge\")"
+    },
+    {
+      "id": 38,
+      "question": "Find the error in the following code:\n\nage = input(\"Enter age: \")\nif age >= 18:\n    print(\"You can vote\")",
+      "answer": "Error: input() returns a string. You cannot compare a string with an integer directly.\nCorrect: age = int(input(\"Enter age: \"))"
+    },
+    {
+      "id": 39,
+      "question": "Find the error in the following code:\n\na = 20\nb = 5\nprint(\"Sum is\" a + b)",
+      "answer": "Error: Missing comma between \"Sum is\" and a + b in the print function.\nCorrect: print(\"Sum is\", a + b)"
+    },
+    {
+      "id": 40,
+      "question": "Find the error in the following code:\n\nname = \"Anirudh\"\nprint(Name)",
+      "answer": "Error: Python is case-sensitive. 'Name' is not the same as 'name'.\nCorrect: print(name)"
     }
   ]
 }

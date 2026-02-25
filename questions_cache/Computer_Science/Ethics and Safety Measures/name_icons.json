@@ -3,153 +3,213 @@
   "questions": [
     {
       "id": 1,
-      "question": "Name the web browser with a blue 'e' icon and yellow ring around it.",
-      "answer": "Internet Explorer"
+      "question": "Identify the icon shown below:",
+      "answer": "Internet Explorer",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128"
     },
     {
       "id": 2,
-      "question": "Name the web browser with a colorful (red, yellow, green, blue) circular icon.",
-      "answer": "Google Chrome"
+      "question": "Identify the icon shown below:",
+      "answer": "Google Chrome",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=chrome.google.com&sz=128"
     },
     {
       "id": 3,
-      "question": "Name the web browser with an orange fox wrapped around a blue globe.",
-      "answer": "Mozilla Firefox"
+      "question": "Identify the icon shown below:",
+      "answer": "Mozilla Firefox",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=mozilla.org&sz=128"
     },
     {
       "id": 4,
-      "question": "Name the social media platform with a blue 'f' icon.",
-      "answer": "Facebook"
+      "question": "Identify the icon shown below:",
+      "answer": "Facebook",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=facebook.com&sz=128"
     },
     {
       "id": 5,
-      "question": "Name the social media platform with a white bird on blue background.",
-      "answer": "Twitter (now X)"
+      "question": "Identify the icon shown below:",
+      "answer": "Twitter (now X)",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=x.com&sz=128"
     },
     {
       "id": 6,
-      "question": "Name the social media/messaging app with a green phone icon in a speech bubble.",
-      "answer": "WhatsApp"
+      "question": "Identify the icon shown below:",
+      "answer": "WhatsApp",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=whatsapp.com&sz=128"
     },
     {
       "id": 7,
-      "question": "Name the social media platform with a camera icon in gradient purple, pink, and orange colors.",
-      "answer": "Instagram"
+      "question": "Identify the icon shown below:",
+      "answer": "Instagram",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=instagram.com&sz=128"
     },
     {
       "id": 8,
-      "question": "Name the video platform with a red play button icon.",
-      "answer": "YouTube"
+      "question": "Identify the icon shown below:",
+      "answer": "YouTube",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128"
     },
     {
       "id": 9,
-      "question": "Name the professional networking site with 'in' letters in a blue square.",
-      "answer": "LinkedIn"
+      "question": "Identify the icon shown below:",
+      "answer": "LinkedIn",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=128"
     },
     {
       "id": 10,
-      "question": "Name the image sharing platform with a red 'P' icon.",
-      "answer": "Pinterest"
+      "question": "Identify the icon shown below:",
+      "answer": "Pinterest",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=pinterest.com&sz=128"
     },
     {
       "id": 11,
-      "question": "Name the search engine with colorful letters (blue, red, yellow, green).",
-      "answer": "Google"
+      "question": "Identify the icon shown below:",
+      "answer": "Google",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
     },
     {
       "id": 12,
-      "question": "Name the video conferencing app with a blue video camera icon and 'S' letter.",
-      "answer": "Skype"
+      "question": "Identify the icon shown below:",
+      "answer": "Skype",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=skype.com&sz=128"
     },
     {
       "id": 13,
-      "question": "Name the video conferencing app with a blue camera icon used by Google.",
-      "answer": "Google Meet / Google Duo"
+      "question": "Identify the icon shown below:",
+      "answer": "Google Meet",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=meet.google.com&sz=128"
     },
     {
       "id": 14,
-      "question": "Name the online encyclopedia with a puzzle globe icon.",
-      "answer": "Wikipedia"
+      "question": "Identify the icon shown below:",
+      "answer": "Wikipedia",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=wikipedia.org&sz=128"
     },
     {
       "id": 15,
-      "question": "Name the social media platform with an orange alien icon.",
-      "answer": "Reddit"
+      "question": "Identify the icon shown below:",
+      "answer": "Reddit",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=reddit.com&sz=128"
     },
     {
       "id": 16,
-      "question": "Name the web browser with a blue compass icon (Apple devices).",
-      "answer": "Safari"
+      "question": "Identify the icon shown below:",
+      "answer": "Safari",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=apple.com&sz=128"
     },
     {
       "id": 17,
-      "question": "Name the video conferencing app with a blue icon showing a video camera.",
-      "answer": "Zoom"
+      "question": "Identify the icon shown below:",
+      "answer": "Zoom",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=zoom.us&sz=128"
     },
     {
       "id": 18,
-      "question": "Name the messaging app with a blue speech bubble and white lightning bolt.",
-      "answer": "Messenger (Facebook Messenger)"
+      "question": "Identify the icon shown below:",
+      "answer": "Messenger (Facebook Messenger)",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=messenger.com&sz=128"
     },
     {
       "id": 19,
-      "question": "Name the email service with a red and white envelope icon by Google.",
-      "answer": "Gmail"
+      "question": "Identify the icon shown below:",
+      "answer": "Gmail",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=gmail.com&sz=128"
     },
     {
       "id": 20,
-      "question": "Name the short video platform with a black musical note icon.",
-      "answer": "TikTok"
+      "question": "Identify the icon shown below:",
+      "answer": "TikTok",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=tiktok.com&sz=128"
     },
     {
       "id": 21,
-      "question": "Name the music streaming app with a green circle and black sound waves.",
-      "answer": "Spotify"
+      "question": "Identify the icon shown below:",
+      "answer": "Spotify",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=spotify.com&sz=128"
     },
     {
       "id": 22,
-      "question": "Name the web browser with a blue wave/swirl icon by Microsoft.",
-      "answer": "Microsoft Edge"
+      "question": "Identify the icon shown below:",
+      "answer": "Microsoft Edge",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=microsoftedge.microsoft.com&sz=128"
     },
     {
       "id": 23,
-      "question": "Name the cloud storage service with a blue cloud icon by Microsoft.",
-      "answer": "OneDrive"
+      "question": "Identify the icon shown below:",
+      "answer": "OneDrive",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=onedrive.live.com&sz=128"
     },
     {
       "id": 24,
-      "question": "Name the cloud storage service with a colorful triangle icon by Google.",
-      "answer": "Google Drive"
+      "question": "Identify the icon shown below:",
+      "answer": "Google Drive",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=drive.google.com&sz=128"
     },
     {
       "id": 25,
-      "question": "Name the cloud storage service with a blue open box icon.",
-      "answer": "Dropbox"
+      "question": "Identify the icon shown below:",
+      "answer": "Dropbox",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=dropbox.com&sz=128"
     },
     {
       "id": 26,
-      "question": "Name the antivirus software with a yellow and black icon.",
-      "answer": "Norton"
+      "question": "Identify the icon shown below:",
+      "answer": "Norton",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=norton.com&sz=128"
     },
     {
       "id": 27,
-      "question": "Name the antivirus software with a red shield icon.",
-      "answer": "McAfee"
+      "question": "Identify the icon shown below:",
+      "answer": "McAfee",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=mcafee.com&sz=128"
     },
     {
       "id": 28,
-      "question": "Name the antivirus software with a green 'K' icon.",
-      "answer": "Kaspersky"
+      "question": "Identify the icon shown below:",
+      "answer": "Kaspersky",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=kaspersky.com&sz=128"
     },
     {
       "id": 29,
-      "question": "Name the Indian antivirus software with a red 'Q' icon.",
-      "answer": "Quick Heal"
+      "question": "Identify the icon shown below:",
+      "answer": "Quick Heal",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=quickheal.com&sz=128"
     },
     {
       "id": 30,
-      "question": "Name the e-commerce platform with an orange arrow from A to Z.",
-      "answer": "Amazon"
+      "question": "Identify the icon shown below:",
+      "answer": "Amazon",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
     }
   ]
 }

@@ -205,23 +205,29 @@
     },
     {
       "id": "tq029",
-      "question": "Which of the following is not a source of electricity?\na. cell  b. solar cells  c. generators  d. paper",
-      "answer": "d. paper\n\nPaper is not a source of electricity. Paper is an insulator that does not conduct or generate electricity. Sources of electricity include cells (chemical energy to electrical), solar cells (solar energy to electrical), and generators (mechanical energy to electrical).",
+      "question": "Which of the following is not a source of electricity?",
+      "answer": "d. paper",
+      "explanation": "Paper is not a source of electricity. Paper is an insulator that does not conduct or generate electricity. Sources of electricity include cells (chemical energy to electrical), solar cells (solar energy to electrical), and generators (mechanical energy to electrical).",
       "question_type": "mcq_textbook",
+      "options": ["a. cell", "b. solar cells", "c. generators", "d. paper"],
       "source_section": "Physics Extra - Worksheet 2"
     },
     {
       "id": "tq030",
-      "question": "The end of the electromagnet where the current flows clockwise acts as:\na. south pole  b. north pole  c. both of these  d. none of these",
-      "answer": "a. south pole\n\nThe end of an electromagnet where the current flows in a clockwise direction acts as the south pole. Conversely, the end where the current flows in an anticlockwise direction acts as the north pole. This is a rule for determining the polarity of an electromagnet.",
+      "question": "The end of the electromagnet where the current flows clockwise acts as:",
+      "answer": "a. south pole",
+      "explanation": "The end of an electromagnet where the current flows in a clockwise direction acts as the south pole. Conversely, the end where the current flows in an anticlockwise direction acts as the north pole. This is a rule for determining the polarity of an electromagnet.",
       "question_type": "mcq_textbook",
+      "options": ["a. south pole", "b. north pole", "c. both of these", "d. none of these"],
       "source_section": "Physics Extra - Worksheet 2"
     },
     {
       "id": "tq031",
-      "question": "Potential difference cannot be seen in an/a:\na. battery  b. electromagnet  c. electric circuit  d. electric cell",
-      "answer": "b. electromagnet\n\nPotential difference cannot be seen in an electromagnet. Potential difference (voltage) exists between two points with different electric potentials. In batteries, cells, and circuits, there is a potential difference that causes current to flow. An electromagnet is a device that produces a magnetic field, not a source of potential difference.",
+      "question": "Potential difference cannot be seen in an/a:",
+      "answer": "b. electromagnet",
+      "explanation": "Potential difference cannot be seen in an electromagnet. Potential difference (voltage) exists between two points with different electric potentials. In batteries, cells, and circuits, there is a potential difference that causes current to flow. An electromagnet is a device that produces a magnetic field, not a source of potential difference.",
       "question_type": "mcq_textbook",
+      "options": ["a. battery", "b. electromagnet", "c. electric circuit", "d. electric cell"],
       "source_section": "Physics Extra - Worksheet 2"
     },
     {

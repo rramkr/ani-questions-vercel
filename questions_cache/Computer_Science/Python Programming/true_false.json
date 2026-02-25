@@ -376,6 +376,91 @@
       "id": 70,
       "question": "Indentation errors are syntax errors in Python.",
       "answer": "True"
+    },
+    {
+      "id": 71,
+      "question": "The escape sequence \\n adds a horizontal tab in the output.",
+      "answer": "False",
+      "explanation": "\\n adds a new line. \\t adds a horizontal tab."
+    },
+    {
+      "id": 72,
+      "question": "The escape sequence \\t gives a horizontal tab of 4 spaces.",
+      "answer": "True"
+    },
+    {
+      "id": 73,
+      "question": "print(\"Hello\\nWorld\") will print Hello and World on the same line.",
+      "answer": "False",
+      "explanation": "\\n creates a new line, so Hello and World will be on separate lines."
+    },
+    {
+      "id": 74,
+      "question": "Python was created by Guido Van Rossum.",
+      "answer": "True"
+    },
+    {
+      "id": 75,
+      "question": "Python was named after the python snake.",
+      "answer": "False",
+      "explanation": "Python was named after the British comedy show 'Monty Python'."
+    },
+    {
+      "id": 76,
+      "question": "Python is a low-level programming language.",
+      "answer": "False",
+      "explanation": "Python is a high-level language."
+    },
+    {
+      "id": 77,
+      "question": "In interactive mode, we can write, save and run programs with multiple lines of code.",
+      "answer": "False",
+      "explanation": "Interactive mode only allows one line at a time. Script mode allows multiple lines."
+    },
+    {
+      "id": 78,
+      "question": "In Python, \"123\" is a string, not an integer.",
+      "answer": "True",
+      "explanation": "Anything within quotes is a string in Python."
+    },
+    {
+      "id": 79,
+      "question": "A variable in Python acts as a container for storing data values.",
+      "answer": "True"
+    },
+    {
+      "id": 80,
+      "question": "The length of the string \"H T\" is 2.",
+      "answer": "False",
+      "explanation": "The length is 3 because spaces are counted when determining the length of a string."
+    },
+    {
+      "id": 81,
+      "question": "Binary language is made up of 1s and 0s.",
+      "answer": "True"
+    },
+    {
+      "id": 82,
+      "question": "The default step value in range() function is -1.",
+      "answer": "False",
+      "explanation": "The default step value is 1, not -1."
+    },
+    {
+      "id": 83,
+      "question": "10.9 is an example of a float data type in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 84,
+      "question": "You cannot do math with strings in Python.",
+      "answer": "True",
+      "explanation": "Strings are text data. You cannot perform arithmetic operations on them (though + concatenates strings)."
+    },
+    {
+      "id": 85,
+      "question": "The + operator in Python can only add numbers.",
+      "answer": "False",
+      "explanation": "The + operator can also concatenate (join) strings."
     }
   ]
 }

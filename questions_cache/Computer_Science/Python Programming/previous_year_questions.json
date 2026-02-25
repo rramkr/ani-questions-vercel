@@ -1,0 +1,152 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "pyq_ix_01",
+      "question": "Given: fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\"]\nWrite a Python statement to print the second item using a negative index.",
+      "answer": "print(fruits[-4])\nOutput: banana",
+      "source_section": "Section IX: Write Python Statements",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_ix_02",
+      "question": "Given: fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\"]\nWrite a Python statement to print the last item using a positive index.",
+      "answer": "print(fruits[4])\nOutput: elderberry",
+      "source_section": "Section IX: Write Python Statements",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_ix_03",
+      "question": "Given: marks = (87, 92, 76, 81, 95, 67)\nWrite a Python statement to print the highest mark using positive index.",
+      "answer": "print(marks[4])\nOutput: 95",
+      "source_section": "Section IX: Write Python Statements",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_ix_04",
+      "question": "Given: marks = (87, 92, 76, 81, 95, 67)\nWrite a Python statement to print the lowest mark using negative index.",
+      "answer": "print(marks[-1])\nOutput: 67",
+      "source_section": "Section IX: Write Python Statements",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_ix_05",
+      "question": "Given: team = [\"Red\", \"Green\", \"White\", \"Black\"]\nWrite Python code to print the number of items in the list.",
+      "answer": "print(len(team))\nOutput: 4",
+      "source_section": "Section IX: Write Python Statements",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_x_01",
+      "question": "Fill in the range() to print the series: 1, 2, 3, 4, 5",
+      "answer": "for i in range(1, 6):\n    print(i)",
+      "source_section": "Section X: Fill in the Range",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_x_02",
+      "question": "Fill in the range() to print the series: 4, 8, 12, ..., 40",
+      "answer": "for i in range(4, 41, 4):\n    print(i)",
+      "source_section": "Section X: Fill in the Range",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_x_03",
+      "question": "Fill in the range() to print the series: 20, 18, 16, ..., 0",
+      "answer": "for i in range(20, -1, -2):\n    print(i)",
+      "source_section": "Section X: Fill in the Range",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_x_04",
+      "question": "Fill in the range() to print the series: 1, 4, 7, 10, 13, ..., 100",
+      "answer": "for i in range(1, 101, 3):\n    print(i)",
+      "source_section": "Section X: Fill in the Range",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_x_05",
+      "question": "Fill in the range() to print the series: 1, 3, 5, 7, ..., 19",
+      "answer": "for i in range(1, 20, 2):\n    print(i)",
+      "source_section": "Section X: Fill in the Range",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_xi_01",
+      "question": "Predict the output:\n\nfor i in range(10):\n    print(i)",
+      "answer": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9",
+      "source_section": "Section XI: Predict the Output",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_xi_02",
+      "question": "Predict the output:\n\nletter = \"B\"\nfor i in range(1, 4):\n    print(letter)",
+      "answer": "B\nB\nB",
+      "source_section": "Section XI: Predict the Output",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_xi_03",
+      "question": "Predict the output:\n\nlist1 = [\"John\", \"Joa\", \"Jack\", \"Bob\"]\nfor i in range(0, 4):\n    print(list1[i])",
+      "answer": "John\nJoa\nJack\nBob",
+      "source_section": "Section XI: Predict the Output",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_xi_04",
+      "question": "Predict the output:\n\nlist1 = [\"John\", \"Joa\", \"Jack\", \"Bob\"]\nprint(list1[-4])",
+      "answer": "John",
+      "source_section": "Section XI: Predict the Output",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_xi_05",
+      "question": "Predict the output:\n\nx = 10\nif x % 2 == 0:\n    print(\"Welcome\")\nelse:\n    print(\"Thank You\")",
+      "answer": "Welcome",
+      "source_section": "Section XI: Predict the Output",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_mcq_01",
+      "question": "In the given python list countries, the item \"Sri Lanka\" has a negative index number of ____.\n\ncountries = [\"India\", \"Sri Lanka\", \"USA\", \"UK\", \"Australia\"]\n\na) -3  b) -1  c) -4  d) -2",
+      "answer": "-4",
+      "source_section": "Section I: Choose the best answer",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_tf_01",
+      "question": "True or False: The first item in a Python list can be retrieved using the index number 0.",
+      "answer": "True",
+      "source_section": "Section IV: True/False",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_tf_02",
+      "question": "True or False: The default step value in the range() function is -1.",
+      "answer": "False. The default step value is 1, not -1.",
+      "source_section": "Section IV: True/False",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_xii_01",
+      "question": "What makes Blu-Ray discs different from CDs and DVDs?",
+      "answer": "Blu-Ray discs use a blue-violet laser (shorter wavelength) instead of the red laser used by CDs and DVDs. This allows data to be packed more tightly, giving Blu-Ray much higher storage capacity (25-50 GB) compared to CDs (700 MB) and DVDs (4.7 GB).",
+      "source_section": "Section XII: Short Answers",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_xii_02",
+      "question": "State any 2 differences between RAM and ROM.",
+      "answer": "1. RAM is volatile (loses data when power is off) while ROM is non-volatile (retains data without power). 2. RAM is used for temporary storage of running programs while ROM stores permanent instructions like BIOS.",
+      "source_section": "Section XII: Short Answers",
+      "year": "Term II Nov/Dec 2025"
+    },
+    {
+      "id": "pyq_xii_03",
+      "question": "What does SMPS stand for? What does it do?",
+      "answer": "SMPS stands for Switched Mode Power Supply. It is a device inside the CPU cabinet that converts high-voltage AC (Alternating Current) from the wall socket to low-voltage DC (Direct Current) needed by computer components. It has a built-in fan to keep it cool.",
+      "source_section": "Section XII: Short Answers",
+      "year": "Term II Nov/Dec 2025"
+    }
+  ]
+}

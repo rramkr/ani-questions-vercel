@@ -5,213 +5,123 @@
   "questions": [
     {
       "id": "tpf_sa_1",
-      "question": "Describe Mr. Barton's appearance and daily routine.",
-      "answer": "Mr. Barton is an 82-year-old man who is thin and bald with thick spectacles. He lives in a seaside town in England. His daily routine consists of wandering around the town during mornings, looking at market stalls and peering through shop windows in search of antiques. He has a great passion for old things and loves hunting for hidden treasures among second-hand goods.",
-      "justification": "These details are provided in the opening paragraphs of the story."
+      "question": "Describe Mr. Barton and his daily routine.",
+      "answer": "Mr. Barton was eighty-two years old and lived with his wife in a small seaside town in England. He was fit and strong because of his daily walks. He liked nothing better than to take a brisk walk regularly, and the view out over the sea pleased him most. Sometimes the calm sea reminded him of happy events in his life, while the rough sea reminded him of sad or fearful moments. He had worked very hard all his life and saved some money for his retirement, so he was not poor but not rich either.",
+      "key_points": ["Eighty-two years old", "Fit and strong", "Brisk walks by the sea", "Not poor but not rich"]
     },
     {
       "id": "tpf_sa_2",
       "question": "What attracted Mr. Barton to the picture frame at the stall?",
-      "answer": "Mr. Barton was attracted to the picture frame because it was ornate, meaning it had elaborate decorations. As a lover of antiques, such detailed old craftsmanship appealed to him greatly. Even though the frame had scratches and the mirror was dirty and cracked, the ornate design caught his eye and made him want to examine it more closely.",
-      "justification": "His passion for antiques drew him to the decorative qualities of the frame."
+      "answer": "As Mr Barton moved along the stall, his attention was drawn to a large mirror. The mirror itself was of little interest to him, but it was the frame that caught his eye. The frame was truly magnificent and ornate, meaning it was very heavily decorated. Mr Barton immediately thought how well his father's portrait would look in that frame. He ran his fingers lightly over the ornate surface, thinking about where it had come from, as it certainly looked very old.",
+      "key_points": ["Frame caught his eye, not mirror", "Frame was ornate and magnificent", "Wanted it for father's portrait", "Looked very old"]
     },
     {
       "id": "tpf_sa_3",
       "question": "Describe the bargaining scene between Mr. Barton and the stallholder.",
-      "answer": "The stallholder initially asked for forty pounds, claiming he had paid ten pounds for it himself. Mr. Barton, being a shrewd bargainer, pointed out the defects - the scratched frame and cracked mirror. He then offered twenty pounds, which was exactly half the asking price. After some hesitation, the stallholder agreed, and Mr. Barton happily took home his purchase.",
-      "justification": "The negotiation scene demonstrates both characters' bargaining tactics."
+      "answer": "Mr Barton cleverly hid his interest in the frame by first asking about a hideous green and gold plastic flower-vase that cost three pounds. Then he casually asked about the mirror's price. The stallholder, who was no fool and had noticed Mr Barton's interest in the frame, asked for twenty-three pounds. Mr Barton pretended to be surprised, stepping back in horror and exclaiming 'My goodness! That is a lot!' The stallholder, fearing Mr Barton might leave without buying anything, quickly reduced the price to twenty pounds, which Mr Barton accepted.",
+      "key_points": ["First asked about hideous vase (three pounds)", "Stallholder asked twenty-three pounds", "Mr Barton pretended shock", "Bought for twenty pounds"]
     },
     {
       "id": "tpf_sa_4",
       "question": "How did Mr. Barton discover the painting hidden behind the mirror?",
-      "answer": "After returning home, Mr. Barton lovingly cleaned and polished the old frame until it looked almost as good as new. While working on it, he noticed that the back of the mirror seemed loose. When he carefully removed it, he discovered a beautiful oil painting hidden behind it. The painting showed a shepherd looking after his flock of sheep.",
-      "justification": "The story describes his cleaning process leading to the discovery."
+      "answer": "Mr Barton carefully examined the frame, which was perfect. He turned the mirror over and, using a knife, levered the wooden back off the frame, working carefully so as not to damage it. In a few minutes the back was loose, and he lifted it off expecting to see the mirror. To his surprise, he found a sheet of canvas between the wooden back and the mirror. He turned the canvas over and laid it out flat next to the mirror, discovering it was a remarkable oil painting.",
+      "key_points": ["Used a knife to lever back off", "Worked carefully", "Found canvas between back and mirror", "Remarkable oil painting"]
     },
     {
       "id": "tpf_sa_5",
       "question": "Describe the painting that Mr. Barton discovered.",
-      "answer": "The painting that Mr. Barton discovered was a beautiful old oil painting depicting a pastoral scene. It showed a shepherd looking after his flock of sheep in a grassy field. In the background, there were rolling hills and a clear blue sky. The painting was about a hundred years old and showed remarkable artistic skill.",
-      "justification": "The description of the painting is given when Mr. Barton discovers it."
+      "answer": "The painting was a remarkable oil painting of a shepherd with his flock resting under the shade of a large oak tree. Far in the distance, there was what looked like a small village, but the details were not clear. The painting was old and covered in grime. The art gallery manager later explained that about two hundred years ago, many famous painters had their paintings framed in frames just like this one. He said it was a very famous painting by a very famous artist, and it was eventually sold at auction for nearly half a million pounds.",
+      "key_points": ["Shepherd with flock under oak tree", "Small village in distance", "Old and covered in grime", "About two hundred years old"]
     },
     {
       "id": "tpf_sa_6",
-      "question": "What did the art gallery expert tell Mr. Barton about the painting?",
-      "answer": "The art gallery expert told Mr. Barton that he had made an amazing discovery. He informed him that the painting was about a hundred years old and was extremely valuable. He estimated its worth at approximately half a million pounds, which left Mr. Barton shocked and in disbelief.",
-      "justification": "The expert's evaluation is given near the end of the story."
+      "question": "What did the art gallery manager tell Mr. Barton about the frame and the painting?",
+      "answer": "The manager of the art gallery admired the wonderful frame and told Mr and Mrs Barton that it was very old and worth a great amount of money. He explained that about two hundred years ago, many famous painters had their paintings framed in frames just like this one. He added that the frames are very valuable today, but the paintings that were in them are much more valuable. After studying the oil painting carefully, he said excitedly that if he was not mistaken, it was a very famous painting by a very famous artist, worth a very, very large sum of money.",
+      "key_points": ["Frame was very old and valuable", "Two hundred years old", "Famous painting by famous artist", "Worth a very large sum"]
     },
     {
       "id": "tpf_sa_7",
-      "question": "Why do you think the stallholder sold the frame so cheaply?",
-      "answer": "The stallholder sold the frame cheaply because he had no idea that a valuable painting was hidden behind the mirror. He only saw a scratched frame with a dirty, cracked mirror and thought twenty pounds was a good profit since he had paid only two pounds for it. His ignorance of the hidden treasure cost him a fortune.",
-      "justification": "The stallholder's lack of knowledge about the painting's existence explains his pricing."
+      "question": "Why did the stallholder sell the frame so cheaply?",
+      "answer": "The stallholder sold the frame cheaply because he had no idea that a valuable painting was hidden behind the mirror. He had bought the mirror for just two pounds at a junk shop the previous year and was happy to sell it for twenty pounds, thinking he had made a handsome profit. He was so pleased with the sale that he told his wife 'Some people will buy any old rubbish' and called Mr Barton a 'silly old fool.' He never bothered to examine the frame or look behind the mirror, so the hidden treasure was completely unknown to him.",
+      "key_points": ["Bought for two pounds at junk shop", "Happy with twenty pounds profit", "Called Mr Barton silly old fool", "Never examined behind mirror"]
     },
     {
       "id": "tpf_sa_8",
-      "question": "What qualities of Mr. Barton helped him make this discovery?",
-      "answer": "Several qualities helped Mr. Barton make this discovery. His passion for antiques made him notice the ornate frame. His patience in searching for treasures led him to that stall. His skill in bargaining helped him buy it at a reasonable price. Finally, his careful and loving treatment of his purchases led him to clean it thoroughly and discover the hidden painting.",
-      "justification": "Multiple character traits combined to enable his fortunate discovery."
+      "question": "What was Mr. Barton's most treasured possession and why?",
+      "answer": "Mr Barton's most treasured possession was a large portrait of his father. His father had died when Mr Barton was only four years old, and he had very few memories of him. All that he had left were a few memories and two faded photographs which his mother had left him. The portrait showed an old man with a white beard and a fine moustache, dressed in the uniform of a soldier. Mr Barton treasured this portrait more than life itself and kept it in a large brown envelope inside a small chest containing his most prized possessions.",
+      "key_points": ["Father's portrait", "Father died when Barton was four", "White beard, moustache, soldier's uniform", "Treasured more than life itself"]
     },
     {
       "id": "tpf_sa_9",
-      "question": "What is the significance of the title 'The Picture Frame'?",
-      "answer": "The title 'The Picture Frame' is significant because the story centres around an old picture frame that Mr. Barton buys. The frame appears ordinary but contains an extraordinary secret - a valuable painting hidden behind a mirror. The title draws attention to how something seemingly insignificant can hold great value, and how true treasures may be concealed in unexpected places.",
-      "justification": "The title emphasizes the central object around which the plot revolves."
+      "question": "Why did Mrs. Barton get angry when Mr. Barton brought the frame home?",
+      "answer": "Mrs Barton became very angry when she learned what Mr Barton had bought. She was cross and upset that he had spent twenty pounds on an old frame, especially since the family could not really afford luxuries. She shouted, 'If you can spend money on an old frame, you can go out and buy your own dinner!' before storming off to bed. She often took herself off to bed when she was cross or upset about something. Her angry reaction made Mr Barton feel guilty and think about taking the mirror back to the stallholder the next day.",
+      "key_points": ["Angry about spending twenty pounds", "Could not afford luxuries", "Told him to buy own dinner", "Stormed off to bed"]
     },
     {
       "id": "tpf_sa_10",
-      "question": "How does the story demonstrate the saying 'appearances can be deceiving'?",
-      "answer": "The story perfectly demonstrates this saying through the picture frame itself. Outwardly, it appeared to be just a scratched old frame with a dirty, cracked mirror - something of little value. However, hidden beneath this unappealing exterior was a masterpiece worth half a million pounds. Similarly, the stallholder appeared knowledgeable about his merchandise but was actually ignorant of its true value.",
-      "justification": "The contrast between appearance and reality is a central theme of the story."
+      "question": "How did Mr. Barton trick the stallholder during the purchase?",
+      "answer": "Mr Barton was very clever in hiding his interest in the frame. When he felt the stallholder's gaze upon him as he was caressing the frame, he rather abruptly stopped and turned his attention to a particularly hideous green and gold plastic flower-vase. He asked 'How much for this vase?' pretending that was what he wanted to buy. Only after asking about the vase did he casually ask about the mirror's price. This trick was meant to make the stallholder think Mr Barton was not very interested in the mirror, so he would not charge too high a price.",
+      "key_points": ["Stopped caressing frame abruptly", "Pretended interest in hideous vase", "Casually asked about mirror", "Clever distraction tactic"]
     },
     {
       "id": "tpf_sa_11",
-      "question": "Where did Mr. Barton live and what was his hobby?",
-      "answer": "Mr. Barton lived in a seaside town in England. His hobby was collecting antiques. He was passionate about old things and spent his mornings wandering around the town, looking at market stalls and peering through shop windows in search of hidden treasures among second-hand goods.",
-      "justification": "The setting and Mr. Barton's hobby are established in the opening of the story."
+      "question": "What happened when Mr. Barton tried to return the mirror the next day?",
+      "answer": "The following day, Mr Barton walked up and down looking for the stall, but he could find no sign of the stall or the stallholder anywhere. He walked home slowly, quite afraid of what his wife might say when she found out he could not get their money back. But Mrs Barton was in a better mood that day and did not shout at him. She simply said, 'Never mind. At least you tried to get our money back.' This unexpected kindness led to Mrs Barton suggesting they go to the high street together.",
+      "key_points": ["Could not find stall or stallholder", "Afraid of wife's reaction", "Wife was in better mood", "Wife said at least he tried"]
     },
     {
       "id": "tpf_sa_12",
-      "question": "What defects did the picture frame have when Mr. Barton first saw it?",
-      "answer": "When Mr. Barton first saw the picture frame, it had several defects. The frame itself was scratched in many places. The mirror attached to it was dirty and had cracks. Despite these flaws, the ornate design of the frame attracted Mr. Barton, and he used these defects to bargain for a lower price.",
-      "justification": "The defects are mentioned during the bargaining scene."
+      "question": "Why did Mr and Mrs Barton go to the high street?",
+      "answer": "That afternoon, for the first time in ages, Mrs Barton agreed to go with her husband to the high street. They took the mirror and the frame with them, along with the portrait of Mr Barton's father and the oil painting. Mrs Barton suggested they get the portrait of his father put into the frame properly. They went into an art gallery on the high street, where the helpful manager not only admired the frame but also discovered that the oil painting was extremely valuable.",
+      "key_points": ["Mrs Barton agreed to go out", "To get portrait framed properly", "Took mirror, frame, portrait and painting", "Went to art gallery on high street"]
     },
     {
       "id": "tpf_sa_13",
-      "question": "How much did the stallholder claim he paid for the frame, and how much did he actually pay?",
-      "answer": "The stallholder claimed he had paid ten pounds for the frame to justify his asking price of forty pounds. However, he had actually paid only two pounds for it. This lie was meant to make Mr. Barton feel he was getting a fair deal, but the stallholder's dishonesty ultimately didn't help him since he missed out on the hidden treasure.",
-      "justification": "The difference between claimed and actual cost shows the stallholder's dishonesty."
+      "question": "What was the stallholder really like? How was he dishonest?",
+      "answer": "The stallholder pretended to be a local man who had fallen on hard times and was selling a few personal 'treasures' to raise some money. Mr Barton felt sorry for him, thinking 'Poor man, I must buy something to help him.' However, the stallholder was actually dishonest - he had bought the items cheaply, including the mirror for just two pounds at a junk shop. Later, he told his wife that 'some people will buy any old rubbish, especially when you tell them a sad story' and called Mr Barton a 'silly old fool.'",
+      "key_points": ["Pretended to have fallen on hard times", "Sold personal treasures story was a lie", "Bought mirror for two pounds at junk shop", "Called Mr Barton silly old fool"]
     },
     {
       "id": "tpf_sa_14",
-      "question": "What did Mr. Barton do with the frame after bringing it home?",
-      "answer": "After bringing the frame home, Mr. Barton lovingly cleaned and polished it until it looked almost as good as new. He treated his purchases with great care and attention. It was during this careful restoration process that he noticed the back of the mirror was loose, which led to his discovery of the hidden painting.",
-      "justification": "Mr. Barton's treatment of his purchase is described after he returns home."
+      "question": "What do we learn about Mr Barton's financial situation?",
+      "answer": "The story tells us that during his life, Mr Barton had worked very hard and saved some money for his retirement. He was not poor, but he was not rich either. He and his wife could buy the things they needed, but there was little left to afford any luxuries. This is why Mr Barton worried about buying the frame, thinking 'I cannot afford to pay too much for it' and 'I will probably get into trouble for buying it when I get home.' His wife's angry reaction confirmed that spending twenty pounds on an old frame was a luxury they could not easily afford.",
+      "key_points": ["Worked hard, saved for retirement", "Not poor but not rich", "Little left for luxuries", "Twenty pounds was a lot for them"]
     },
     {
       "id": "tpf_sa_15",
-      "question": "Why did Mr. Barton go to an art gallery in London?",
-      "answer": "Mr. Barton went to an art gallery in London to get the painting evaluated by an expert. After discovering the beautiful oil painting hidden behind the mirror, he wanted to know its true value and authenticity. The expert confirmed that the painting was about a hundred years old and worth approximately half a million pounds.",
-      "justification": "The purpose of the London visit is to authenticate and value the painting."
+      "question": "How did Mr and Mrs Barton react when the manager told them about the painting's value?",
+      "answer": "When the art gallery manager said that the oil painting was a very famous painting by a very famous artist worth a very large sum of money, Mr and Mrs Barton were stunned. They stood and stared at the manager for a long time, unable to believe what they were hearing. Then they held each other's hands and danced with joy, while the manager smiled at them. Later, the painting was sold at auction for nearly half a million pounds, and the portrait of Mr Barton's father was placed proudly on the wall in his small study next to the dining room in a new frame.",
+      "key_points": ["Stared at manager in disbelief", "Held hands and danced", "Manager smiled", "Painting sold for nearly half a million"]
     },
     {
       "id": "tpf_sa_16",
-      "question": "What was Mr. Barton's reaction when he heard the painting's value?",
-      "answer": "Mr. Barton was stunned and in disbelief when he heard the painting's value. He could hardly believe that a frame he had bought for twenty pounds contained a painting worth half a million pounds. The news left him shocked, as he had never imagined such an incredible treasure was hidden behind a cracked mirror.",
-      "justification": "Mr. Barton's emotional reaction is described at the story's climax."
+      "question": "What is the significance of the title 'The Picture Frame'?",
+      "answer": "The title 'The Picture Frame' is significant because the ornate picture frame is at the centre of the entire story. It is the frame, not the mirror, that catches Mr Barton's eye at the stall, and it is the frame that conceals the valuable oil painting. Mr Barton bought it because he wanted his father's portrait to look grand in it. The frame also connects to the art gallery manager's explanation that two hundred years ago, famous painters used frames like this one. In the end, the painting in its original frame was sold at auction for nearly half a million pounds.",
+      "key_points": ["Frame is central to story", "Conceals valuable painting", "Bought for father's portrait", "Frame itself was very old and valuable"]
     },
     {
       "id": "tpf_sa_17",
       "question": "What does the word 'ornate' mean and why was the frame described as ornate?",
-      "answer": "The word 'ornate' means elaborately decorated with intricate designs. The frame was described as ornate because it had detailed and elaborate carvings or decorations on it. This decorative quality is what first attracted Mr. Barton's attention, as he was a connoisseur of antiques who appreciated fine craftsmanship.",
-      "justification": "The vocabulary word 'ornate' is central to describing the frame's appeal."
+      "answer": "The word 'ornate' means very heavily decorated, as given in the textbook's 'Words to Know' section. The frame was described as ornate because it had elaborate decorations that made it look truly magnificent. This ornate quality is what first attracted Mr Barton's attention, as the mirror itself was of little interest to him. He ran his fingers lightly over the ornate surface, thinking about where it had come from. The art gallery manager later confirmed that the ornate frame was very old and worth a great amount of money.",
+      "key_points": ["Ornate means very heavily decorated", "Frame was truly magnificent", "Attracted Mr Barton's attention", "Frame was old and valuable"]
     },
     {
       "id": "tpf_sa_18",
-      "question": "Explain the meaning of 'beamed' as used in the story.",
-      "answer": "In the story, 'beamed' means to smile radiantly and happily. When Mr. Barton successfully bargained the price down to twenty pounds, he beamed with satisfaction and pleasure. The word suggests a wide, joyful smile that shows one's happiness, like beams of light spreading across the face.",
-      "justification": "The word 'beamed' describes Mr. Barton's happy expression."
+      "question": "Explain the meaning of 'beamed' and 'caressing' as used in the story.",
+      "answer": "According to the textbook's 'Words to Know' section, 'beamed' means smiled brightly and 'caressing' means gently touching. In the story, the stallholder 'beamed with pride' when he told his wife how he sold the mirror for twenty pounds after buying it for just two pounds, feeling very pleased with himself. 'Caressing' is used to describe how Mr Barton gently ran his fingers over the ornate surface of the frame, showing his appreciation for its beauty. When Mr Barton felt the stallholder watching, he abruptly stopped caressing the frame to hide his interest.",
+      "key_points": ["Beamed means smiled brightly", "Stallholder beamed with pride", "Caressing means gently touching", "Mr Barton was caressing the frame"]
     },
     {
       "id": "tpf_sa_19",
-      "question": "What is the meaning of 'umpteen' and use it in a sentence.",
-      "answer": "The word 'umpteen' means very many or indefinitely numerous. In the story, it suggests a large, unspecified number. Example sentence: The teacher had reminded the students umpteen times to bring their textbooks, but some still forgot.",
-      "justification": "This vocabulary word from the story means a very large number."
+      "question": "How did Mr Barton feel about his father and why was the portrait so important?",
+      "answer": "Mr Barton's father had died when he was only four years old. He never really knew his father, and how unfortunate that was always stayed with him. All that he had left of his father were a few memories and two faded photographs which his mother had left him, along with one large portrait which he treasured more than life itself. The portrait showed an old man with a white beard and a fine moustache, dressed in the uniform of a soldier. It was kept safely in a large brown envelope inside a small chest that held his most prized possessions.",
+      "key_points": ["Father died when Barton was four", "Never really knew him", "Few memories and faded photographs", "Portrait treasured more than life itself"]
     },
     {
       "id": "tpf_sa_20",
-      "question": "How did Mr. Barton's bargaining skills help him?",
-      "answer": "Mr. Barton's bargaining skills helped him get the frame at half the asking price. When the stallholder asked for forty pounds, Mr. Barton cleverly pointed out the defects - the scratches on the frame and the cracked, dirty mirror. Using these flaws as leverage, he convinced the stallholder to accept twenty pounds instead.",
-      "justification": "The bargaining scene demonstrates Mr. Barton's negotiation abilities."
-    },
-    {
-      "id": "tpf_sa_21",
-      "question": "Why is it important to examine things carefully before judging their value?",
-      "answer": "The story teaches us that careful examination is important because true value may be hidden from view. The stallholder judged the frame only by its surface appearance and missed the valuable painting behind the mirror. Mr. Barton, by carefully cleaning and examining his purchase, discovered the hidden treasure. This shows that patience and thoroughness can reveal unexpected value.",
-      "justification": "This moral lesson emerges from the contrast between the two characters' approaches."
-    },
-    {
-      "id": "tpf_sa_22",
-      "question": "What was the subject of the hidden painting?",
-      "answer": "The hidden painting depicted a pastoral scene showing a shepherd looking after his flock of sheep. The background showed rolling hills and a clear blue sky. This peaceful countryside scene was painted with great skill about a hundred years ago, making it extremely valuable both artistically and historically.",
-      "justification": "The painting's subject matter is described when Mr. Barton discovers it."
-    },
-    {
-      "id": "tpf_sa_23",
-      "question": "What made Mr. Barton different from other collectors of antiques?",
-      "answer": "Mr. Barton was different from other collectors because he collected antiques out of genuine love and passion, not for profit. He treated his purchases with care and affection, lovingly cleaning and polishing them. His thorough approach and attention to detail, combined with his true appreciation for old things, set him apart from those who only see monetary value.",
-      "justification": "Mr. Barton's character traits distinguish him from profit-motivated collectors."
-    },
-    {
-      "id": "tpf_sa_24",
-      "question": "How did Mr. Barton's age affect his approach to antique hunting?",
-      "answer": "Despite being 82 years old, Mr. Barton remained active and dedicated to his passion for antiques. His age had given him experience and patience that helped him recognize value in old items. He had developed sharp eyes for spotting potential treasures and shrewd bargaining skills. His years of experience contributed to his ability to make such a remarkable discovery.",
-      "justification": "Mr. Barton's advanced age is mentioned at the start and influences his expertise."
-    },
-    {
-      "id": "tpf_sa_25",
-      "question": "What might have happened to the painting if someone else had bought the frame?",
-      "answer": "If someone else had bought the frame, the painting might have remained hidden forever or been destroyed. A less careful person might have thrown away the old frame or not bothered to clean it properly. Someone focused only on the mirror might have never discovered the painting behind it. Mr. Barton's careful treatment of his antiques saved this masterpiece from being lost.",
-      "justification": "This speculative question explores alternative outcomes."
-    },
-    {
-      "id": "tpf_sa_26",
-      "question": "Why do you think someone hid the painting behind the mirror?",
-      "answer": "Someone might have hidden the painting behind the mirror for several reasons. Perhaps they wanted to protect it during wartime or political unrest. They might have been trying to smuggle it across borders or hide it from thieves. It's also possible that the original owner died before revealing the secret, and subsequent owners never knew about the hidden treasure.",
-      "justification": "This question encourages inference about the painting's mysterious concealment."
-    },
-    {
-      "id": "tpf_sa_27",
-      "question": "How would the stallholder have felt when he learned about the painting's true value?",
-      "answer": "The stallholder would have felt devastated, shocked, and deeply regretful when he learned about the painting's true value. He had sold a painting worth half a million pounds for just twenty pounds, making a profit of only eighteen pounds when he could have been rich. His failure to examine his merchandise properly cost him a fortune, and his dishonesty about the purchase price would seem even more foolish.",
-      "justification": "This question explores the stallholder's likely emotional response."
-    },
-    {
-      "id": "tpf_sa_28",
-      "question": "What does 'caressing' mean and how was it used in the story?",
-      "answer": "The word 'caressing' means touching gently and lovingly. In the story, Mr. Barton was described as caressing the old frame while cleaning it, showing the tender care and affection he had for his antique purchases. This gentle treatment reflects his genuine love for old objects and explains why he noticed details others might miss.",
-      "justification": "The vocabulary word 'caressing' shows Mr. Barton's tender treatment of antiques."
-    },
-    {
-      "id": "tpf_sa_29",
-      "question": "What is the meaning of 'hideous' and give an example from everyday life?",
-      "answer": "The word 'hideous' means extremely ugly or unpleasant to look at. In the story, one might describe how the dirty, cracked mirror looked hideous before Mr. Barton cleaned it. Example from everyday life: The abandoned building with broken windows and graffiti looked hideous and frightened the children walking past it.",
-      "justification": "This vocabulary word describes something extremely unattractive."
-    },
-    {
-      "id": "tpf_sa_30",
-      "question": "How does this story show that honesty is important?",
-      "answer": "The story shows the importance of honesty through the stallholder's fate. He lied about paying ten pounds for the frame when he had actually paid only two pounds. Despite his dishonesty, he didn't benefit - in fact, he lost enormously by selling a painting worth half a million pounds. Meanwhile, honest Mr. Barton, who genuinely loved antiques, was rewarded with a fortune.",
-      "justification": "The moral lesson about honesty emerges from the stallholder's experience."
-    },
-    {
-      "id": "tpf_sa_31",
-      "question": "Why is patience considered a virtue according to this story?",
-      "answer": "Patience is considered a virtue in this story because Mr. Barton's patience led to his incredible discovery. He patiently searched through market stalls day after day looking for treasures. He patiently bargained for a fair price. Most importantly, he patiently cleaned and examined the frame, which led to finding the hidden painting. His patient nature was rewarded with a fortune.",
-      "justification": "Mr. Barton's patience is key to his success throughout the story."
-    },
-    {
-      "id": "tpf_sa_32",
-      "question": "What role does luck play in the story?",
-      "answer": "While luck played a role in Mr. Barton finding the frame with the hidden painting, the story suggests that luck alone wasn't responsible for his fortune. His passion brought him to that stall, his knowledge helped him recognize the ornate frame's potential, his bargaining skills secured a good price, and his careful treatment led to the discovery. Luck favoured him because he was prepared to receive it.",
-      "justification": "This explores the balance between luck and preparation in the story."
-    },
-    {
-      "id": "tpf_sa_33",
-      "question": "How does the story illustrate the saying 'one man's trash is another man's treasure'?",
-      "answer": "The story perfectly illustrates this saying through the picture frame. To the stallholder, it was just a scratched old frame with a cracked mirror - essentially trash worth only a small profit. To Mr. Barton, it was a potential treasure worth investigating. In the end, what the stallholder considered nearly worthless turned out to be worth half a million pounds - a literal treasure hidden in seeming trash.",
-      "justification": "This proverb directly relates to the story's central plot."
-    },
-    {
-      "id": "tpf_sa_34",
-      "question": "What can we learn about the value of expertise from this story?",
-      "answer": "The story teaches that expertise and knowledge are valuable. Mr. Barton's expertise in antiques helped him spot the ornate frame's potential. The art gallery expert's expertise revealed the painting's true value of half a million pounds. In contrast, the stallholder's lack of expertise in examining his goods cost him dearly. Knowledge and skill in one's field can lead to recognizing opportunities others miss.",
-      "justification": "The role of expertise is evident in both Mr. Barton's and the expert's actions."
-    },
-    {
-      "id": "tpf_sa_35",
-      "question": "Describe the setting of the story.",
-      "answer": "The story is set in a seaside town in England. Mr. Barton wanders through the town's market stalls and shop windows during his morning walks. The key locations include the market stall where he buys the frame, his home where he cleans it and discovers the painting, and the art gallery in London where he gets the painting evaluated. The coastal English setting adds charm to the narrative.",
-      "justification": "The setting establishes the story's English seaside atmosphere."
+      "question": "What items were on display at the stallholder's stall?",
+      "answer": "The stallholder had arranged many interesting objects around two low tables. These included some children's toys, a large ceramic dish, a green jacket, a selection of old records, a coffee pot and matching milk jug, a set of patterned dinner plates, an album of stamps, a brass monkey, an ivory chess set, three walking sticks, and umpteen other interesting objects. The mirror with the ornate frame was also among these items, which is what caught Mr Barton's eye.",
+      "key_points": ["Two low tables of items", "Children's toys, ceramic dish, old records", "Brass monkey, ivory chess set", "Umpteen interesting objects"]
     }
   ]
 }

@@ -7,19 +7,25 @@
       "chapter_count": 5
     },
     {
+      "name": "Computer Science",
+      "slug": "Computer_Science",
+      "icon": "💻",
+      "chapter_count": 2
+    },
+    {
+      "name": "Chemistry",
+      "slug": "Chemistry",
+      "icon": "🧪",
+      "chapter_count": 4
+    }
+  ],
+  "completed": [
+    {
       "name": "English E2",
       "slug": "english_e2",
       "icon": "📚",
       "chapter_count": 4
     },
-    {
-      "name": "Computer Science",
-      "slug": "Computer_Science",
-      "icon": "💻",
-      "chapter_count": 2
-    }
-  ],
-  "completed": [
     {
       "name": "History Civics",
       "slug": "History_Civics",

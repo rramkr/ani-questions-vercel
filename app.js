@@ -719,10 +719,7 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
             const data = await response.json();
             allQuestions = data.questions || [];
 
-            // For textbook Q&A: keep original order. For others: shuffle
-            if (!isTextbook) {
-                allQuestions = shuffleArray([...allQuestions]);
-            }
+            // Keep original order for all question types (no shuffling)
         }
 
         // Since we're in one-by-one mode, load ALL questions at once
@@ -1563,12 +1560,14 @@ function processQuestion(q, questionType) {
         processed.correct_answer = q.answer === true || q.answer === 'True' ? 'True' : 'False';
     } else if (questionType === 'match_the_following') {
         const pairs = q.pairs || [];
-        processed.question = q.instruction || 'Match the following:';
-        // Use provided left_items/right_items if available (for jumbled display), otherwise use pairs
-        processed.left_items = q.left_items || pairs.map(p => p.left);
-        processed.right_items = q.right_items || pairs.map(p => p.right);
+        processed.question = q.instruction || q.question || 'Match the following:';
+        // Support column_a/column_b format as well as left_items/right_items and pairs
+        processed.left_items = q.left_items || q.column_a || pairs.map(p => p.left);
+        processed.right_items = q.right_items || q.column_b || pairs.map(p => p.right);
         processed.pairs = pairs;
         processed.answers = q.answers || '';
+        // Pass through correct_matches for answer display (from correct_matches or answer object)
+        processed.correct_matches = q.correct_matches || (typeof q.answer === 'object' && q.answer !== null ? q.answer : {});
     } else if (questionType === 'give_reason') {
         // Handle both naming conventions: statement/question
         const statement = q.statement || q.question || '';
@@ -2555,20 +2554,85 @@ function renderOneByOneAnswer(question) {
         `;
     }
 
+    // For case study
+    if (qType === 'case_study') {
+        const subQuestions = question.sub_questions || question.questions || [];
+        const justification = question.source_section ? `Source: "${question.source_section}"` : '';
+        return `
+            <div class="correct-answer">
+                <strong>Answers:</strong>
+                ${subQuestions.map((sq, i) => `
+                    <div class="sub-answer" style="margin: 8px 0; padding: 6px 0; border-bottom: 1px solid #eee;">
+                        <span><strong>(${String.fromCharCode(97 + i)})</strong></span> ${sq.answer}
+                    </div>
+                `).join('')}
+            </div>
+            ${justification ? `<div class="explanation"><strong>${justification}</strong></div>` : ''}
+        `;
+    }
+
+    // For differentiate between
+    if (qType === 'differentiate_between') {
+        const differences = question.differences || [];
+        return `
+            <div class="correct-answer">
+                <div class="diff-comparison">
+                    <div class="diff-header">
+                        <div class="diff-concept-header left">${question.concept_a || 'Concept A'}</div>
+                        <div class="diff-vs">VS</div>
+                        <div class="diff-concept-header right">${question.concept_b || 'Concept B'}</div>
+                    </div>
+                    ${differences.map(d => `
+                        <div class="diff-row">
+                            <div class="diff-aspect">${d.aspect}</div>
+                            <div class="diff-points">
+                                <div class="diff-point left">${d.concept_a_point}</div>
+                                <div class="diff-point right">${d.concept_b_point}</div>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    // For numericals
+    if (qType === 'numericals') {
+        const steps = question.solution_steps || [];
+        return `
+            <div class="correct-answer">
+                ${question.formula ? `<div style="margin-bottom: 8px;"><strong>Formula:</strong> ${question.formula}</div>` : ''}
+                ${steps.length > 0 ? `
+                    <strong>Solution:</strong>
+                    <ol style="margin: 8px 0; padding-left: 20px;">
+                        ${steps.map(s => `<li>${s}</li>`).join('')}
+                    </ol>
+                ` : ''}
+                <div><strong>Answer:</strong> ${question.correct_answer || ''}</div>
+            </div>
+        `;
+    }
+
     // For match the following
     if (qType === 'match_the_following') {
         const pairs = question.pairs || [];
+        const correctMatches = question.correct_matches || {};
         const answersString = question.answers || '';
-        const answerLetters = answersString || pairs.map((p, i) => `${i + 1}-${String.fromCharCode(65 + i)}`).join(', ');
 
         let matchesHtml = '';
         if (pairs.length > 0) {
-            matchesHtml = pairs.map((p, i) => `<div>${i + 1}. ${p.left} → ${p.right}</div>`).join('');
+            const answerLetters = answersString || pairs.map((p, i) => `${i + 1}-${String.fromCharCode(65 + i)}`).join(', ');
+            matchesHtml = `<div style="font-weight: bold; margin-bottom: 10px;">Answer: ${answerLetters}</div>`;
+            matchesHtml += pairs.map((p, i) => `<div>${i + 1}. ${p.left} → ${p.right}</div>`).join('');
+        } else if (Object.keys(correctMatches).length > 0) {
+            matchesHtml = Object.entries(correctMatches).map(([left, right], i) =>
+                `<div>${i + 1}. ${left} → ${right}</div>`
+            ).join('');
         }
 
         return `
             <div class="correct-answer">
-                <strong>Answer: ${answerLetters}</strong>
+                <strong>Correct Matches:</strong>
                 <div class="match-answers" style="margin-top: 10px;">
                     ${matchesHtml}
                 </div>
@@ -2814,13 +2878,11 @@ function renderQuestion(question, index) {
         answerContent = renderTextAnswer(question);
     }
 
-    // Only show answer if question was answered
-    const shouldShowAnswer = state.answersRevealed && isAnswered;
+    // Always show answer when Check Answers is clicked
+    const shouldShowAnswer = state.answersRevealed;
     const answerSideContent = shouldShowAnswer
         ? answerContent
-        : (state.answersRevealed
-            ? '<div class="answer-placeholder unanswered-message">🙈 Answer this question first!</div>'
-            : '<div class="answer-placeholder">Answer will appear here</div>');
+        : '<div class="answer-placeholder">Answer will appear here</div>';
 
     // Add diagram support
     let diagramHtml = '';

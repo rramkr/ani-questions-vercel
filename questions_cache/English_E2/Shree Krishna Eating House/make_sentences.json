@@ -3,14 +3,12 @@
   "chapter": "Shree Krishna Eating House",
   "type": "make_sentences",
   "questions": [
-    {"id": "skeh_ms_header1", "word": "--- TEXTBOOK VOCABULARY ---", "meaning": "Words given at the back of the chapter", "sample_sentence": ""},
-    {"id": "skeh_ms_1", "word": "anxious", "meaning": "troubled; uneasy; worried about something", "sample_sentence": "I was anxious about my Dhrupad recital because my teacher said the judges would be very strict."},
+    {"id": "skeh_ms_1", "word": "anxious", "meaning": "troubled; uneasy; worried about something", "sample_sentence": "I was anxious before the physics exam as there were many chapters to study."},
     {"id": "skeh_ms_2", "word": "disposal units", "meaning": "concrete containers for rubbish or waste", "sample_sentence": "The Chennai Corporation placed new disposal units along Greams Road so people would stop littering near our school."},
     {"id": "skeh_ms_3", "word": "grime", "meaning": "dirt that has accumulated on a surface", "sample_sentence": "After playing cricket all afternoon at school, my white uniform was covered in grime and Amma made me wash it immediately."},
-    {"id": "skeh_ms_4", "word": "inquisitive", "meaning": "curious; eager to find out things", "sample_sentence": "My cousin Vishwak is so inquisitive that he asked Patri Satish Kumar at least ten questions about the mridangam after the concert."},
+    {"id": "skeh_ms_4", "word": "inquisitive", "meaning": "curious; eager to find out things", "sample_sentence": "I was inquisitive to check the utility of the new mridangam stand my dad had bought."},
     {"id": "skeh_ms_5", "word": "meanest", "meaning": "shabbiest; most worn; dilapidated", "sample_sentence": "Even the meanest little tea stall near Mylapore temple serves the most amazing filter coffee you will ever taste."},
     {"id": "skeh_ms_6", "word": "reedy voice", "meaning": "thin, high-pitched voice like a reed instrument", "sample_sentence": "The old flower seller outside Kapaleeshwarar Temple called out to us in a reedy voice, offering fresh jasmine garlands."},
-    {"id": "skeh_ms_header2", "word": "--- ADDITIONAL VOCABULARY ---", "meaning": "Other important words from the story", "sample_sentence": ""},
     {"id": "skeh_ms_7", "word": "shabby", "meaning": "worn out; in poor condition", "sample_sentence": "My cricket bat looked so shabby after two years of constant use that Appa finally agreed to buy me a new one."},
     {"id": "skeh_ms_8", "word": "dilapidated", "meaning": "falling apart; in ruins", "sample_sentence": "On the way to Marina Beach, we passed a dilapidated old warehouse that looked like it could collapse at any moment."},
     {"id": "skeh_ms_9", "word": "exhausted", "meaning": "extremely tired", "sample_sentence": "After bowling twenty overs during the Sishya inter-house cricket match, I was completely exhausted and could barely walk."},
@@ -39,6 +37,7 @@
     {"id": "skeh_ms_32", "word": "shelter", "meaning": "place of protection", "sample_sentence": "When it suddenly started raining at Marina Beach, we took shelter under a fisherman's overturned boat."},
     {"id": "skeh_ms_33", "word": "invalid", "meaning": "person weakened by illness", "sample_sentence": "After my bad fever last monsoon, I felt like an invalid for a whole week and could not even attend Dhrupad practice."},
     {"id": "skeh_ms_34", "word": "drunkard", "meaning": "person who drinks too much", "sample_sentence": "In the story we read at Sishya, the drunkard wasted all his money and had nothing left to feed his family."},
-    {"id": "skeh_ms_35", "word": "sweltering", "meaning": "uncomfortably hot", "sample_sentence": "The sweltering Chennai heat in May makes it impossible to practice cricket outdoors, so we stay indoors and watch IPL instead."}
+    {"id": "skeh_ms_35", "word": "sweltering", "meaning": "uncomfortably hot", "sample_sentence": "The sweltering Chennai heat in May makes it impossible to practice cricket outdoors, so we stay indoors and watch IPL instead."},
+    {"id": "skeh_ms_36", "word": "lentils", "meaning": "type of pulse (dal) cooked as food", "sample_sentence": "My grandmother made a dish using lentils as a side-dish for chapati last Sunday."}
   ]
 }

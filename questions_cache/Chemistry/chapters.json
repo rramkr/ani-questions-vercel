@@ -1,0 +1,29 @@
+{
+  "subject": "Chemistry",
+  "chapters": [
+    {
+      "name": "Elements Compounds and Mixtures",
+      "slug": "Elements Compounds and Mixtures",
+      "has_questions": true,
+      "icon": "🔬"
+    },
+    {
+      "name": "Language of Chemistry",
+      "slug": "Language of Chemistry",
+      "has_questions": true,
+      "icon": "🧫"
+    },
+    {
+      "name": "Atomic Structure",
+      "slug": "Atomic Structure",
+      "has_questions": true,
+      "icon": "⚛️"
+    },
+    {
+      "name": "Metals and Non-metals",
+      "slug": "Metals and Non-metals",
+      "has_questions": true,
+      "icon": "🔩"
+    }
+  ]
+}

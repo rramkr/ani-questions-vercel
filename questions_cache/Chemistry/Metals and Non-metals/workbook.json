@@ -1,0 +1,511 @@
+{
+  "subject": "Chemistry",
+  "chapter": "Metals and Non-metals",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "mn_a01",
+      "question": "Gold shines brightly. What property does this demonstrate?",
+      "answer": "Lustre",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a02",
+      "question": "Copper can be drawn into wires. What property does this demonstrate?",
+      "answer": "Ductility",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a03",
+      "question": "Aluminium is used in utensils as it is a good conductor of heat. What property does this demonstrate?",
+      "answer": "Conductivity",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a04",
+      "question": "An iron nail produces a ringing sound when it falls. What property does this demonstrate?",
+      "answer": "Sonority",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a05",
+      "question": "Lead can be cast into thin sheets. What property does this demonstrate?",
+      "answer": "Malleability",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a06",
+      "question": "Chromium resists indentation by an external force. What property does this demonstrate?",
+      "answer": "Hardness",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a07",
+      "question": "A steel wire can withstand a high longitudinal pull without breaking. What property does this demonstrate?",
+      "answer": "Tensile strength",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a08",
+      "question": "Name a metal that is liquid at room temperature, non-ductile and has low tensile strength.",
+      "answer": "Mercury",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a09",
+      "question": "Name a metal that is not easily beaten into sheets at relevant temperatures.",
+      "answer": "Zinc",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a10",
+      "question": "Name a metal that floats on water and has a low melting point.",
+      "answer": "Sodium",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a11",
+      "question": "Name a metal used in making packaging foils due to high malleability.",
+      "answer": "Aluminium",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a12",
+      "question": "Name a metal that burns brightly and is used in fireworks.",
+      "answer": "Magnesium",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a13",
+      "question": "Name a metal that is highly ductile and a good conductor of electricity.",
+      "answer": "Copper",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a14",
+      "question": "Name a metal with bright lustre and easy malleability.",
+      "answer": "Gold",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a15",
+      "question": "Name a non-metal that sublimes and is lustrous.",
+      "answer": "Iodine",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a16",
+      "question": "Name a non-metal that shows ability to be drawn into wires/fibres (exception to general rule).",
+      "answer": "Carbon fibre",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a17",
+      "question": "Name a non-metal that allows electric current to flow through it.",
+      "answer": "Graphite (a form of carbon)",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a18",
+      "question": "Name a non-metal with a comparatively high melting point.",
+      "answer": "Carbon",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a19",
+      "question": "Name a comparatively heavy non-metal.",
+      "answer": "Iodine",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a20",
+      "question": "Name a non-metal with high tensile strength (exception to general rule).",
+      "answer": "Carbon fibre",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a21",
+      "question": "What is observed when a metal sample (A) is hammered?",
+      "answer": "It flattens into a thin sheet (metals are malleable).",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a22",
+      "question": "What is observed when a sulphur sample (B) is hammered?",
+      "answer": "It breaks into powder or pieces (non-metals are brittle).",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a23",
+      "question": "Compare the conclusions from experiments on sample A (metal) and sample B (sulphur).",
+      "answer": "Metals are malleable (can be hammered into sheets), while non-metals are brittle (break into pieces when hammered).",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a24",
+      "question": "How can you differentiate between a metal and a non-metal using a bulb-conductivity setup?",
+      "answer": "Place the sample in the circuit. If the bulb glows, the sample is a metal (good conductor of electricity). If the bulb does not glow, the sample is a non-metal.",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a25",
+      "question": "If graphite is placed at position X in the bulb circuit, what is the observation? Give a reason.",
+      "answer": "The bulb glows because graphite is a form of carbon that conducts electricity (it is an exception among non-metals).",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a26",
+      "question": "What is the outer shell of an atom called?",
+      "answer": "Valence shell",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a27",
+      "question": "Metals generally have how many electrons in their outer shell?",
+      "answer": "1, 2 or 3 electrons",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a28",
+      "question": "Non-metals generally have how many electrons in their outer shell?",
+      "answer": "4, 5, 6 or 7 electrons",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a29",
+      "question": "Metals lose electrons and form what type of ions?",
+      "answer": "Cations (positive ions)",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a30",
+      "question": "Non-metals gain electrons and form what type of ions?",
+      "answer": "Anions (negative ions)",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a31",
+      "question": "Metals react with dilute acids to produce which gas?",
+      "answer": "Hydrogen gas",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a32",
+      "question": "Name two metals that do not react with water/steam and dilute acids.",
+      "answer": "Copper and Silver",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a33",
+      "question": "Name two metals that do not form oxides easily with air/oxygen.",
+      "answer": "Gold and Platinum",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a34",
+      "question": "Which is the most reactive metal in the activity series?",
+      "answer": "Potassium",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_a35",
+      "question": "Name the two least reactive metals in the activity series.",
+      "answer": "Gold and Platinum",
+      "source_section": "A. Metals and Non-metals"
+    },
+    {
+      "id": "mn_b01",
+      "question": "Reactive metals are placed at the extreme left or right of the modern periodic table?",
+      "answer": "Extreme left",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b02",
+      "question": "Weak metals are placed at the right, left, or middle of the periodic table?",
+      "answer": "Middle",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b03",
+      "question": "Non-metals are placed in the lower right or upper right corner of the periodic table?",
+      "answer": "Upper right corner",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b04",
+      "question": "Noble gases are in Group 18. How many noble gases are there? Are they metals or non-metals?",
+      "answer": "There are six noble gases. They are classified as non-metals.",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b05",
+      "question": "Halogens are in which group of the periodic table? Give examples.",
+      "answer": "Group 17. Examples: Fluorine (F), Chlorine (Cl), Bromine (Br), Iodine (I)",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b06",
+      "question": "Name a base metal which gets easily oxidized.",
+      "answer": "Iron",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b07",
+      "question": "Name a noble metal other than gold.",
+      "answer": "Platinum",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b08",
+      "question": "Name a heavy metal other than lead.",
+      "answer": "Mercury",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b09",
+      "question": "Name a monoatomic inert non-metal used in light bulbs.",
+      "answer": "Argon",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b10",
+      "question": "Name a diatomic non-metal added to swimming pools to kill germs.",
+      "answer": "Chlorine",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b11",
+      "question": "Name a halogen that is solid at room temperature.",
+      "answer": "Iodine",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b12",
+      "question": "Name a polyatomic non-metal other than phosphorus.",
+      "answer": "Sulphur (S\u2088)",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b13",
+      "question": "Name the gaseous non-metal that is the major component of the atmosphere.",
+      "answer": "Nitrogen",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b14",
+      "question": "Name a solid non-metal used in lead pencils.",
+      "answer": "Graphite (a form of carbon)",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b15",
+      "question": "Name the most reactive diatomic halogen.",
+      "answer": "Fluorine",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b16",
+      "question": "Name the potassium salt of bromine.",
+      "answer": "Potassium bromide (KBr)",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b17",
+      "question": "Name the gaseous diatomic halogen related to prevention of tooth decay.",
+      "answer": "Fluorine (used as fluoride compounds in water treatment and toothpaste)",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b18",
+      "question": "Elements showing properties of both metals and non-metals are called what?",
+      "answer": "Metalloids",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b19",
+      "question": "Metalloids generally show characteristics of what?",
+      "answer": "Weak non-metals",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b20",
+      "question": "Name a metalloid which is lustrous but not malleable or ductile.",
+      "answer": "Silicon",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b21",
+      "question": "Are metalloids generally hard or brittle?",
+      "answer": "Brittle",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b22",
+      "question": "Which metalloid (compound) is applied on burn patients?",
+      "answer": "Boron (as boric acid / boric compounds)",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b23",
+      "question": "Name a metalloid used as a fire retardant.",
+      "answer": "Antimony",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_b24",
+      "question": "Which class of elements is used as semiconductors in cell phones and computers?",
+      "answer": "Metalloids (e.g. Silicon, Germanium)",
+      "source_section": "B. Classification of Elements"
+    },
+    {
+      "id": "mn_c01",
+      "question": "Why does rusting take place only in the presence of moisture and oxygen?",
+      "answer": "Rusting is the oxidation of iron, which requires both water (moisture) and oxygen. In the absence of either, rusting does not occur.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c02",
+      "question": "Why is rusting of iron more detrimental than the tarnishing of copper?",
+      "answer": "Rust (iron oxide) is porous and flaky \u2014 it does not form a protective layer. It keeps exposing fresh iron to moisture and oxygen, so corrosion continues. Copper tarnish (patina) forms a thin protective layer that prevents further corrosion.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c03",
+      "question": "In the rusting experiment, why is anhydrous calcium chloride kept in test tube A?",
+      "answer": "To absorb moisture (water vapour) from the air, creating a dry environment to show that iron does not rust without moisture.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c04",
+      "question": "In the rusting experiment, why is boiled water covered with oil used in test tube B?",
+      "answer": "Boiling removes dissolved oxygen from the water, and the oil layer prevents air (and oxygen) from entering. This shows that iron does not rust without oxygen.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c05",
+      "question": "In the rusting experiment, why does the iron nail in test tube C (ordinary tap water) rust?",
+      "answer": "Because ordinary tap water provides both moisture and dissolved oxygen \u2014 the two conditions required for rusting.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c06",
+      "question": "Why is a thin oil layer applied on moving machinery parts?",
+      "answer": "Oil prevents contact between the iron/steel surface and air/moisture, thus preventing rusting. It also acts as a lubricant.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c07",
+      "question": "Why do street lights and telegraph poles have an aluminium paint coat?",
+      "answer": "Aluminium paint forms a protective anti-corrosion coating that prevents the iron from coming in contact with moisture and oxygen.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c08",
+      "question": "Why is coal tar or pitch used on the lower part of ships?",
+      "answer": "The lower part of ships is constantly in contact with water. Coal tar/pitch provides a strong waterproof protective coating to prevent corrosion.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c09",
+      "question": "Why do cooking vessels have enamel coating and not paint coating?",
+      "answer": "Enamel is heat-resistant and non-reactive with food. Paint would burn, peel off and could contaminate food when heated.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c10",
+      "question": "Why is galvanization used on articles exposed to moisture, such as buckets?",
+      "answer": "Galvanization coats iron with a layer of zinc, which prevents rusting even when scratched (zinc corrodes preferentially, protecting the iron).",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c11",
+      "question": "Why are food containers not made of galvanized steel?",
+      "answer": "Zinc may react with food acids, producing toxic zinc compounds that could contaminate the food.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c12",
+      "question": "Why is chrome plating used mostly for decorative articles?",
+      "answer": "Chrome plating gives a bright, shiny, corrosion-resistant finish that looks attractive, but it is costlier than other methods like galvanization.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c13",
+      "question": "Why does a rust suspension turn moist red litmus blue?",
+      "answer": "Because rust (hydrated iron oxide) is basic in nature.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c14",
+      "question": "Why does a green deposit form on copper only in moist atmosphere?",
+      "answer": "In moist atmosphere, copper reacts with carbon dioxide (CO\u2082), moisture (H\u2082O) and oxygen (O\u2082) to form basic copper carbonate \u2014 which is the green deposit (patina).",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_c15",
+      "question": "Why has the iron pillar at Qutub Minar not rusted easily over centuries?",
+      "answer": "The iron pillar has a unique corrosion-resistant composition \u2014 it contains a high percentage of phosphorus which forms a thin protective passive film on the surface, preventing further rusting.",
+      "source_section": "C. Corrosion of Iron \u2014 Rusting"
+    },
+    {
+      "id": "mn_d01",
+      "question": "Which metal is used for making bullets? Why?",
+      "answer": "Lead \u2014 because it is dense and soft, making it easy to shape into bullets.",
+      "source_section": "D. Uses of Certain Metals"
+    },
+    {
+      "id": "mn_d02",
+      "question": "Which metal is used for dry cells? Why?",
+      "answer": "Zinc \u2014 it acts as the container (anode) and reacts suitably in the electrochemical reaction of the dry cell.",
+      "source_section": "D. Uses of Certain Metals"
+    },
+    {
+      "id": "mn_d03",
+      "question": "Which metal/alloy is used for automobiles and ships? Why?",
+      "answer": "Steel (alloy of iron) \u2014 because it has high tensile strength and durability.",
+      "source_section": "D. Uses of Certain Metals"
+    },
+    {
+      "id": "mn_d04",
+      "question": "Which metal is used for packaging and paints? Why?",
+      "answer": "Aluminium \u2014 because it is highly malleable (can be made into thin foils) and forms a protective oxide layer.",
+      "source_section": "D. Uses of Certain Metals"
+    },
+    {
+      "id": "mn_d05",
+      "question": "Which metal is used for cables and calorimeters? Why?",
+      "answer": "Copper \u2014 because it has very high electrical conductivity (for cables) and thermal conductivity (for calorimeters).",
+      "source_section": "D. Uses of Certain Metals"
+    },
+    {
+      "id": "mn_d06",
+      "question": "Which metal is used in photography (flash)? Why?",
+      "answer": "Magnesium \u2014 because it burns with an intense bright white light.",
+      "source_section": "D. Uses of Certain Metals"
+    },
+    {
+      "id": "mn_d07",
+      "question": "Which metal is used for galvanizing? Why?",
+      "answer": "Zinc \u2014 because its coating protects iron from rusting (galvanization).",
+      "source_section": "D. Uses of Certain Metals"
+    },
+    {
+      "id": "mn_d08",
+      "question": "Which metal is used for flexible pipes? Why?",
+      "answer": "Lead \u2014 because it is soft and malleable, allowing it to be bent into flexible shapes.",
+      "source_section": "D. Uses of Certain Metals"
+    },
+    {
+      "id": "mn_d09",
+      "question": "Which metal is used for gutter covers and weights? Why?",
+      "answer": "Pig iron (cast iron) \u2014 because it is heavy and hard, suitable for covers and weights.",
+      "source_section": "D. Uses of Certain Metals"
+    },
+    {
+      "id": "mn_d10",
+      "question": "Which metal is used in fireworks? Why?",
+      "answer": "Magnesium \u2014 because it burns with an intense bright white flame.",
+      "source_section": "D. Uses of Certain Metals"
+    }
+  ]
+}

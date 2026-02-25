@@ -200,6 +200,56 @@
       "id": 40,
       "question": "How can you find both the index and value while iterating a list?",
       "answer": "Use range(len(list)) and access both:\nfor i in range(len(colors)):\n    print('Index', i, 'Value', colors[i])\nOr use enumerate():\nfor i, color in enumerate(colors):\n    print('Index', i, 'Value', color)"
+    },
+    {
+      "id": 41,
+      "question": "What is the newline escape sequence (\\n) and what does it do?",
+      "answer": "The newline character (\\n) is called an escape sequence. It forces the cursor to change its position to the beginning of the next line on the screen, resulting in a new line in the output."
+    },
+    {
+      "id": 42,
+      "question": "What is the tab escape sequence (\\t) and what does it do?",
+      "answer": "The \\t escape sequence is used to give a horizontal tab (4 spaces) in the output. It is useful for formatting output in a table-like structure with aligned columns."
+    },
+    {
+      "id": 43,
+      "question": "Who created Python and how did it get its name?",
+      "answer": "Python was created by Guido Van Rossum. He named Python after a popular British comedy show called 'Monty Python', not after the snake."
+    },
+    {
+      "id": 44,
+      "question": "What are the two modes of Python execution?",
+      "answer": "1. Interactive mode: We can only write and run one line of code at a time in the interactive shell. 2. Script mode: We can write, save and run programs with multiple lines of code. Script mode will be 'untitled' till you give the file a name."
+    },
+    {
+      "id": 45,
+      "question": "What are the three levels of programming languages?",
+      "answer": "1. Binary/Machine language: Made up of 1s and 0s, understood by hardware directly. 2. Assembly language: Uses mnemonic codes like ADD, SUB; needs an assembler to convert to binary. 3. High-level language: Uses English words (like Python); needs a compiler/interpreter to convert to binary."
+    },
+    {
+      "id": 46,
+      "question": "What are the main data types in Python?",
+      "answer": "The main data types are: 1. String - anything within quotes (e.g., \"Rob\", \"1048\"). 2. Integer - whole numbers (e.g., 100, 90). 3. Float - numbers with decimal points (e.g., 10.9, 100.6). 4. Boolean - True or False values."
+    },
+    {
+      "id": 47,
+      "question": "What is a variable in Python?",
+      "answer": "A variable is used to store data values. It acts as a container for information that can be referenced and manipulated. Variables are created when you assign a value using the = operator. You can keep changing the data value stored, but the label stays the same."
+    },
+    {
+      "id": 48,
+      "question": "What are arithmetic operators in Python? List them with examples.",
+      "answer": "Arithmetic operators are: + (addition: 10+20=30), - (subtraction: 200-60=140), / (quotient: 10/3=3.333), * (product: 6*5=30), % (remainder: 60%7=4), // (floor division: 15//4=3)."
+    },
+    {
+      "id": 49,
+      "question": "What is the difference between an operator, operand, and expression?",
+      "answer": "An operator is a special symbol that carries out an operation (like +, -, *). An operand is the value an operator acts upon (in 10+20, both 10 and 20 are operands). An expression is a sequence of operands and operators (like A+B*C)."
+    },
+    {
+      "id": 50,
+      "question": "How does the input() function work and why do we need int() with it?",
+      "answer": "The input() function accepts user input from the keyboard. By default, it converts all user inputs into strings. If you want to accept integers or floats, you must use int() or float() to convert the string, e.g., age = int(input(\"Enter age: \"))."
     }
   ]
 }

@@ -1,0 +1,583 @@
+{
+  "subject": "Chemistry",
+  "chapter": "Atomic Structure",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "as_a01",
+      "question": "True or False — An atom is the basic unit of matter.",
+      "answer": "True",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a02",
+      "question": "True or False — An atom is the smallest particle of an element capable of independent existence.",
+      "answer": "False. An atom is generally not capable of independent existence. It is the smallest particle of an element that takes part in a chemical reaction.",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a03",
+      "question": "True or False — An element is made up of one or more kinds of atoms.",
+      "answer": "False. An element is made up of only one kind of atoms.",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a04",
+      "question": "True or False — Properties of an element depend upon atoms constituting it.",
+      "answer": "True",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a05",
+      "question": "True or False — Sulphur is made of only one type of atoms.",
+      "answer": "True",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a06",
+      "question": "True or False — A molecule is not capable of independent existence.",
+      "answer": "False. A molecule is the smallest particle of a substance (element or compound) that is capable of independent existence.",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a07",
+      "question": "True or False — A radical is always a single atom with a charge.",
+      "answer": "False. A radical may be a single atom or a group of atoms that behaves as a single unit and carries a charge.",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a08",
+      "question": "In the atom diagram, choose the correct statement about X (the central part of the atom).",
+      "answer": "X is the nucleus. It contains protons (positively charged) and neutrons (neutral/no charge).",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a09",
+      "question": "In the atom diagram, choose the correct statement about Y (the paths around the nucleus).",
+      "answer": "Y is a shell (or orbit) where electrons revolve around the nucleus.",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a10",
+      "question": "Choose the correct statement about the particle count in the shown atom.",
+      "answer": "It contains nine protons and ten neutrons in its nucleus.",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a11",
+      "question": "Choose the correct statement about subatomic particles.",
+      "answer": "Protons, electrons and neutrons are the three subatomic particles of an atom.",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a12",
+      "question": "Atom Z has 11 protons and 12 neutrons. What is its atomic number?",
+      "answer": "11 (Atomic number = number of protons)",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a13",
+      "question": "Atom R has 19 protons and 20 neutrons. How many electrons does a neutral atom R have?",
+      "answer": "19 (In a neutral atom, number of electrons = number of protons)",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a14",
+      "question": "In the modern periodic table, elements are arranged in increasing order of atomic _____.",
+      "answer": "Atomic number",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a15",
+      "question": "The atomic number of an element equals the number of which subatomic particles?",
+      "answer": "Protons (which also equals the number of electrons in a neutral atom)",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a16",
+      "question": "Nitrogen has an atomic number of 7. State the number of protons and electrons.",
+      "answer": "7 protons and 7 electrons",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a17",
+      "question": "Complete the electron distribution for nitrogen (atomic number 7).",
+      "answer": "Nucleus: 7 protons and 7 neutrons. Electron arrangement: 2 electrons in first shell, 5 electrons in second shell (2, 5).",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a18",
+      "question": "Element X has 3 protons. It is placed at what position in the periodic table?",
+      "answer": "3rd position (atomic number 3 = lithium)",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a19",
+      "question": "According to Dalton, an atom is divisible or indivisible?",
+      "answer": "Indivisible (as per Dalton's atomic theory; later proven wrong by discovery of subatomic particles)",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_a20",
+      "question": "Name the discoverers of the electron, proton and neutron.",
+      "answer": "Electron — J.J. Thomson, Proton — Goldstein (discovered canal rays) / Rutherford (named it), Neutron — James Chadwick",
+      "source_section": "A. Atoms Molecules and Radicals"
+    },
+    {
+      "id": "as_c01",
+      "question": "State the molecular formula and atomicity of fluorine.",
+      "answer": "F\u2082, atomicity 2 (diatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c02",
+      "question": "State the molecular formula and atomicity of chlorine.",
+      "answer": "Cl\u2082, atomicity 2 (diatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c03",
+      "question": "State the molecular formula and atomicity of bromine.",
+      "answer": "Br\u2082, atomicity 2 (diatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c04",
+      "question": "State the molecular formula and atomicity of iodine.",
+      "answer": "I\u2082, atomicity 2 (diatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c05",
+      "question": "State the molecular formula and atomicity of hydrogen.",
+      "answer": "H\u2082, atomicity 2 (diatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c06",
+      "question": "State the molecular formula and atomicity of oxygen.",
+      "answer": "O\u2082, atomicity 2 (diatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c07",
+      "question": "State the molecular formula and atomicity of nitrogen.",
+      "answer": "N\u2082, atomicity 2 (diatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c08",
+      "question": "State the molecular formula and atomicity of helium.",
+      "answer": "He, atomicity 1 (monoatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c09",
+      "question": "State the molecular formula and atomicity of neon.",
+      "answer": "Ne, atomicity 1 (monoatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c10",
+      "question": "State the molecular formula and atomicity of argon.",
+      "answer": "Ar, atomicity 1 (monoatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c11",
+      "question": "State the molecular formula and atomicity of ozone.",
+      "answer": "O\u2083, atomicity 3 (triatomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c12",
+      "question": "State the molecular formula and atomicity of phosphorus.",
+      "answer": "P\u2084, atomicity 4 (tetratomic)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c13",
+      "question": "Carbon and oxygen combine to form which compound molecule?",
+      "answer": "CO\u2082 (Carbon dioxide)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c14",
+      "question": "Sulphur and oxygen combine to form which compound molecule?",
+      "answer": "SO\u2082 (Sulphur dioxide)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c15",
+      "question": "Nitrogen and oxygen combine to form which compound molecule?",
+      "answer": "NO\u2082 (Nitrogen dioxide)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c16",
+      "question": "Nitrogen and hydrogen combine to form which compound molecule?",
+      "answer": "NH\u2083 (Ammonia)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_c17",
+      "question": "Hydrogen and chlorine combine to form which compound molecule?",
+      "answer": "HCl (Hydrogen chloride)",
+      "source_section": "C. Molecule — Atomicity"
+    },
+    {
+      "id": "as_d01",
+      "question": "Complete the definition: A radical is a _____ atom or _____ of atoms behaving as a _____ unit and carrying a _____.",
+      "answer": "A radical is a single atom or group of atoms behaving as a single unit and carrying a charge.",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d02",
+      "question": "State the group of atoms in the ammonium radical (NH\u2084).",
+      "answer": "1 nitrogen atom and 4 hydrogen atoms",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d03",
+      "question": "State the group of atoms in the bicarbonate radical (HCO\u2083).",
+      "answer": "1 hydrogen atom, 1 carbon atom and 3 oxygen atoms",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d04",
+      "question": "State the group of atoms in the bisulphite radical (HSO\u2083).",
+      "answer": "1 hydrogen atom, 1 sulphur atom and 3 oxygen atoms",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d05",
+      "question": "State the group of atoms in the bisulphate radical (HSO\u2084).",
+      "answer": "1 hydrogen atom, 1 sulphur atom and 4 oxygen atoms",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d06",
+      "question": "State the group of atoms in the nitrate radical (NO\u2083).",
+      "answer": "1 nitrogen atom and 3 oxygen atoms",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d07",
+      "question": "State the group of atoms in the hydroxide radical (OH).",
+      "answer": "1 oxygen atom and 1 hydrogen atom",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d08",
+      "question": "State the group of atoms in the carbonate radical (CO\u2083).",
+      "answer": "1 carbon atom and 3 oxygen atoms",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d09",
+      "question": "State the group of atoms in the sulphite radical (SO\u2083).",
+      "answer": "1 sulphur atom and 3 oxygen atoms",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d10",
+      "question": "State the group of atoms in the sulphate radical (SO\u2084).",
+      "answer": "1 sulphur atom and 4 oxygen atoms",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d11",
+      "question": "State the group of atoms in the phosphate radical (PO\u2084).",
+      "answer": "1 phosphorus atom and 4 oxygen atoms",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d12",
+      "question": "Differentiate between a basic radical and an acid radical.",
+      "answer": "A basic radical is positively charged (cation), e.g. Na\u207a, NH\u2084\u207a. An acid radical is negatively charged (anion), e.g. SO\u2084\u00b2\u207b, NO\u2083\u207b.",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_d13",
+      "question": "Differentiate between a cation and an anion.",
+      "answer": "A cation has a positive charge (formed by losing electrons), e.g. Na\u207a, Ca\u00b2\u207a. An anion has a negative charge (formed by gaining electrons), e.g. Cl\u207b, O\u00b2\u207b.",
+      "source_section": "D. Radicals"
+    },
+    {
+      "id": "as_e01",
+      "question": "Complete: Valency is the number of _____ atoms that combine with or displace one atom of an element/radical.",
+      "answer": "Hydrogen",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_e02",
+      "question": "From HCl, H\u2082SO\u2084, NH\u2083, CH\u2084 — state the valency of Cl, SO\u2084, N, and C.",
+      "answer": "Chlorine (Cl) = 1, Sulphate (SO\u2084) = 2, Nitrogen (N) = 3, Carbon (C) = 4",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_e03",
+      "question": "In ZnO, what is the valency of zinc?",
+      "answer": "2 (Oxygen has valency 2, so zinc must also have valency 2 to balance)",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_e04",
+      "question": "Are valencies of metals positive or negative? And non-metals?",
+      "answer": "Metals have positive valency; non-metals have negative valency.",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_e05",
+      "question": "What is the valency of monovalent metals?",
+      "answer": "1",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_e06",
+      "question": "What is the valency of divalent metals?",
+      "answer": "2",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_e07",
+      "question": "Give an example of a monovalent metal.",
+      "answer": "Sodium (Na) or Potassium (K)",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_e08",
+      "question": "Give an example of a divalent metal.",
+      "answer": "Magnesium (Mg) or Calcium (Ca)",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_e09",
+      "question": "Give an example of a trivalent metal.",
+      "answer": "Aluminium (Al)",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_e10",
+      "question": "Name elements with variable valencies: valency 1 and 2; valency 2 and 3; valency 2 and 4.",
+      "answer": "Copper (Cu) — valency 1 and 2; Iron (Fe) — valency 2 and 3; Lead (Pb) — valency 2 and 4",
+      "source_section": "E. Valency"
+    },
+    {
+      "id": "as_f01",
+      "question": "Write the chemical formula of sodium chloride.",
+      "answer": "NaCl (Na\u207a and Cl\u207b — valencies balance as 1:1)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f02",
+      "question": "Write the chemical formula of potassium bromide.",
+      "answer": "KBr (K\u207a and Br\u207b — valencies balance as 1:1)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f03",
+      "question": "Write the chemical formula of sodium iodide.",
+      "answer": "NaI (Na\u207a and I\u207b — valencies balance as 1:1)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f04",
+      "question": "Write the chemical formula of zinc chloride.",
+      "answer": "ZnCl\u2082 (Zn\u00b2\u207a and Cl\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f05",
+      "question": "Write the chemical formula of ammonium sulphate.",
+      "answer": "(NH\u2084)\u2082SO\u2084 (NH\u2084\u207a and SO\u2084\u00b2\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f06",
+      "question": "Write the chemical formula of calcium bisulphate.",
+      "answer": "Ca(HSO\u2084)\u2082 (Ca\u00b2\u207a and HSO\u2084\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f07",
+      "question": "Write the chemical formula of iron(III) chloride.",
+      "answer": "FeCl\u2083 (Fe\u00b3\u207a and Cl\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f08",
+      "question": "Write the chemical formula of copper(I) oxide.",
+      "answer": "Cu\u2082O (Cu\u207a and O\u00b2\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f09",
+      "question": "Write the chemical formula of lead(II) nitrate.",
+      "answer": "Pb(NO\u2083)\u2082 (Pb\u00b2\u207a and NO\u2083\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f10",
+      "question": "Write the chemical formula of aluminium hydroxide.",
+      "answer": "Al(OH)\u2083 (Al\u00b3\u207a and OH\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f11",
+      "question": "Write the chemical formula of sodium bicarbonate.",
+      "answer": "NaHCO\u2083 (Na\u207a and HCO\u2083\u207b — valencies balance as 1:1)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f12",
+      "question": "Write the chemical formula of calcium phosphate.",
+      "answer": "Ca\u2083(PO\u2084)\u2082 (Ca\u00b2\u207a and PO\u2084\u00b3\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f13",
+      "question": "Write the chemical formula of sulphuric acid.",
+      "answer": "H\u2082SO\u2084 (H\u207a and SO\u2084\u00b2\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_f14",
+      "question": "Write the chemical formula of iron(III) sulphate.",
+      "answer": "Fe\u2082(SO\u2084)\u2083 (Fe\u00b3\u207a and SO\u2084\u00b2\u207b — interchange valencies)",
+      "source_section": "F. Chemical Formula"
+    },
+    {
+      "id": "as_g01",
+      "question": "In the reaction: Zinc + Dilute sulphuric acid \u2192 Zinc sulphate + Hydrogen — name the reactants.",
+      "answer": "Zinc and dilute sulphuric acid",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g02",
+      "question": "In the reaction: Zinc + Dilute sulphuric acid \u2192 Zinc sulphate + Hydrogen — name the products.",
+      "answer": "Zinc sulphate and hydrogen",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g03",
+      "question": "Define reactants and products.",
+      "answer": "Reactants are the starting substances that undergo a chemical change. Products are the new substances formed as a result of the chemical reaction.",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g04",
+      "question": "What does the arrow (\u2192) indicate in a chemical equation?",
+      "answer": "It means \"gives\" or \"yields\" or \"forms\" — indicating the direction of the reaction from reactants to products.",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g05",
+      "question": "Is the equation written using names (Zinc + Dilute sulphuric acid \u2192 ...) a word equation or molecular equation?",
+      "answer": "Word equation",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g06",
+      "question": "Write the molecular equation for: Zinc + Dilute sulphuric acid \u2192 Zinc sulphate + Hydrogen",
+      "answer": "Zn + H\u2082SO\u2084(dil.) \u2192 ZnSO\u2084 + H\u2082\u2191",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g07",
+      "question": "What do the symbols (s), (dil.), and (g) mean in chemical equations?",
+      "answer": "(s) = solid, (dil.) = dilute, (g) = gas",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g08",
+      "question": "For N\u2082 + 3H\u2082 \u21cc 2NH\u2083 — name reactants, products, states, and what does \u21cc mean?",
+      "answer": "Reactants: Nitrogen (N\u2082) and Hydrogen (H\u2082). Product: Ammonia (NH\u2083). All are gases. The double arrow (\u21cc) indicates a reversible reaction.",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g09",
+      "question": "In Fe + H\u2082SO\u2084 \u2192 FeSO\u2084 + H\u2082, are the atoms of each element equal on both sides?",
+      "answer": "Yes, the equation is balanced.",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g10",
+      "question": "Is the equation Fe + H\u2082SO\u2084 \u2192 FeSO\u2084 + H\u2082 balanced or unbalanced?",
+      "answer": "Balanced",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g11",
+      "question": "In Cu + HCl \u2192 CuCl\u2082 + H\u2082, are the atoms of each element equal on both sides?",
+      "answer": "No. Cu has 1 on each side, but Cl has 1 on left and 2 on right, H has 1 on left and 2 on right.",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g12",
+      "question": "Is Cu + HCl \u2192 CuCl\u2082 + H\u2082 balanced? If not, write the balanced equation.",
+      "answer": "Unbalanced. Balanced equation: Cu + 2HCl \u2192 CuCl\u2082 + H\u2082",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_g13",
+      "question": "Why should a chemical equation be balanced? State the relevant law.",
+      "answer": "A chemical equation must be balanced to obey the Law of Conservation of Mass, which states that matter can neither be created nor destroyed — the total mass of reactants must equal the total mass of products.",
+      "source_section": "G. Chemical Equations"
+    },
+    {
+      "id": "as_h01",
+      "question": "List the first 20 elements with their symbols, atomic numbers and type (metal/non-metal/noble gas/metalloid).",
+      "answer": "H(1)-non-metal, He(2)-noble gas, Li(3)-metal, Be(4)-metal, B(5)-metalloid, C(6)-non-metal, N(7)-non-metal, O(8)-non-metal, F(9)-non-metal, Ne(10)-noble gas, Na(11)-metal, Mg(12)-metal, Al(13)-metal, Si(14)-metalloid, P(15)-non-metal, S(16)-non-metal, Cl(17)-non-metal, Ar(18)-noble gas, K(19)-metal, Ca(20)-metal",
+      "source_section": "H. Periodic Table"
+    },
+    {
+      "id": "as_h02",
+      "question": "The modern periodic table arranges elements in ascending order of atomic _____.",
+      "answer": "Number (atomic number)",
+      "source_section": "H. Periodic Table"
+    },
+    {
+      "id": "as_h03",
+      "question": "How many horizontal rows (periods) are there in the modern periodic table?",
+      "answer": "7",
+      "source_section": "H. Periodic Table"
+    },
+    {
+      "id": "as_h04",
+      "question": "The group number signifies the number of _____ in the outermost shell.",
+      "answer": "Electrons",
+      "source_section": "H. Periodic Table"
+    },
+    {
+      "id": "as_h05",
+      "question": "Elements in the same group have the same/different valency and similar _____ properties.",
+      "answer": "Same valency and similar chemical properties",
+      "source_section": "H. Periodic Table"
+    },
+    {
+      "id": "as_h06",
+      "question": "Name three Group 1 reactive metals with atomic numbers between 1 and 20.",
+      "answer": "Lithium (Li), Sodium (Na), Potassium (K)",
+      "source_section": "H. Periodic Table"
+    },
+    {
+      "id": "as_h07",
+      "question": "What is the valency of Group 2 elements? Name three Group 2 elements (atomic number 1-20).",
+      "answer": "Valency 2. Examples: Beryllium (Be), Magnesium (Mg), Calcium (Ca)",
+      "source_section": "H. Periodic Table"
+    },
+    {
+      "id": "as_h08",
+      "question": "Fluorine (F), Chlorine (Cl) and Bromine (Br) belong to which group? What type of elements are they?",
+      "answer": "Group 17. They are reactive non-metals (halogens).",
+      "source_section": "H. Periodic Table"
+    },
+    {
+      "id": "as_h09",
+      "question": "Group 18 contains what type of gases? Name three examples with atomic number 1-20.",
+      "answer": "Unreactive noble gases. Examples: Helium (He), Neon (Ne), Argon (Ar)",
+      "source_section": "H. Periodic Table"
+    }
+  ]
+}

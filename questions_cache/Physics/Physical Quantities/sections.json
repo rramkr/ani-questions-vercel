@@ -16,7 +16,8 @@
       {"value": "hots", "label": "Higher Order Thinking", "icon": "🧠"},
       {"value": "give_reason", "label": "Give Reason", "icon": "💡"},
       {"value": "name_the_following", "label": "Name the Following", "icon": "🏷️"},
-      {"value": "differentiate_between", "label": "Differentiate Between", "icon": "↔️"}
+      {"value": "differentiate_between", "label": "Differentiate Between", "icon": "↔️"},
+      {"value": "case_study", "label": "Case Study", "icon": "📋"}
     ],
     "miscellaneous": [
       {"value": "tricky_questions", "label": "Tricky Questions", "icon": "🎯"},

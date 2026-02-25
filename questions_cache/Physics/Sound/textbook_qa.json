@@ -44,7 +44,7 @@
     {
       "id": "tq006",
       "question": "In which of the following cases will echo be heard the most?\ni. an empty room\nii. a room filled with many objects\niii. a room with walls made of porous material\niv. a room with walls made of non-porous material",
-      "answer": "ii and iv",
+      "answer": "i and iv",
       "question_type": "mcq_textbook",
       "options": ["i and iii", "i and iv", "ii and iii", "ii and iv"],
       "source_section": "Evaluation - A. Choose the correct option (HOTS)"
