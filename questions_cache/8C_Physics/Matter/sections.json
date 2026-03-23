@@ -1,0 +1,30 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "sections": {
+    "textbook": [
+      {"value": "notes", "label": "Chapter Notes", "icon": "📒"},
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+    ],
+    "exam": [
+      {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},
+      {"value": "fill_in_blanks", "label": "Fill in the Blanks", "icon": "✏️"},
+      {"value": "true_false", "label": "True or False", "icon": "✓✗"},
+      {"value": "assertion_reason", "label": "Assertion & Reason", "icon": "⚖️"},
+      {"value": "match_the_following", "label": "Match the Following", "icon": "🔗"},
+      {"value": "short_answer", "label": "Short Answer", "icon": "📝"},
+      {"value": "long_answer", "label": "Long Answer", "icon": "📄"},
+      {"value": "differentiate_between", "label": "Differentiate Between", "icon": "↔️"},
+      {"value": "give_reason", "label": "Give Reason", "icon": "💡"},
+      {"value": "case_study", "label": "Case Study", "icon": "📋"}
+    ],
+    "miscellaneous": [
+      {"value": "hots", "label": "Think and Answer (HOTS)", "icon": "🧠"}
+    ]
+  },
+  "section_labels": {
+    "textbook": "Textbook & Notes",
+    "exam": "Practice Questions for Exam",
+    "miscellaneous": "Higher Order Thinking"
+  }
+}

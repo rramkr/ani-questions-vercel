@@ -1,0 +1,145 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "ds_tf001",
+      "question": "Qutb-ud-din Aibak was crowned as Sultan in Delhi.",
+      "answer": false,
+      "explanation": "Qutb-ud-din Aibak was crowned in Lahore, not Delhi. It was Iltutmish who later shifted the capital from Lahore to Delhi.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_tf002",
+      "question": "Iltutmish completed the construction of the Qutub Minar.",
+      "answer": true,
+      "explanation": "Qutb-ud-din Aibak laid the foundation of the Qutub Minar, but it was Iltutmish who completed its construction.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_tf003",
+      "question": "Raziya Sultan was the first and last Muslim woman to rule over Delhi.",
+      "answer": true,
+      "explanation": "Raziya Sultan (1236-1240) was indeed the first and last Muslim woman to rule over Delhi. She was the daughter of Iltutmish.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_tf004",
+      "question": "Balban allowed the ulemas to participate freely in political affairs.",
+      "answer": false,
+      "explanation": "Balban did not allow the ulemas in political affairs. He maintained the supremacy of the Sultan and kept religious scholars away from politics.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_tf005",
+      "question": "Ala-ud-din Khalji introduced the practice of Dagh and Huliya.",
+      "answer": true,
+      "explanation": "Ala-ud-din Khalji introduced Dagh (branding of horses) and Huliya/Chehra (maintaining descriptive rolls of soldiers) as part of his military reforms.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_tf006",
+      "question": "Ala-ud-din Khalji was a great patron of education, literature and arts.",
+      "answer": true,
+      "explanation": "Ala-ud-din Khalji was indeed a patron of arts. Amir Khusrau was his court poet. He built the Alai Darwaza, Siri Fort, and started many maktabs and madrasas.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_tf007",
+      "question": "Muhammad-bin-Tughlaq lacked political judgement.",
+      "answer": true,
+      "explanation": "Despite being the most learned scholar of his time, Muhammad-bin-Tughlaq lacked political judgement. His schemes like the transfer of capital, token currency, and excessive taxation were well-conceived but poorly executed.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_tf008",
+      "question": "Firoz Shah Tughlaq was placed on the throne by ulemas and nobles.",
+      "answer": true,
+      "explanation": "After Muhammad-bin-Tughlaq died in 1351, the ulemas and nobles placed Firoz Shah Tughlaq on the throne. He was Muhammad's cousin.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_tf009",
+      "question": "Sanskrit books were translated into Persian during Ala-ud-din Khalji's reign.",
+      "answer": false,
+      "explanation": "Sanskrit books were translated into Persian during Firoz Shah Tughlaq's reign, not Ala-ud-din Khalji's. This was part of Firoz Shah's education reforms.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_tf010",
+      "question": "Muhammad-bin-Tughlaq has been called a mixture of opposites.",
+      "answer": true,
+      "explanation": "Muhammad-bin-Tughlaq was called a mixture of opposites because despite being highly learned in Arabic, Persian, philosophy, astronomy, logic, and mathematics, his ambitious projects consistently failed due to poor execution.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_tf011",
+      "question": "Bahlul Lodi relocated to a new capital at Daulatabad in the south.",
+      "answer": false,
+      "explanation": "It was Muhammad-bin-Tughlaq who transferred the capital to Daulatabad, not Bahlul Lodi. Sikandar Lodi later moved the capital from Delhi to Agra.",
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_tf012",
+      "question": "The Alai Darwaza was the best creation of the Khalji Dynasty.",
+      "answer": true,
+      "explanation": "The Alai Darwaza, built near the Qutub Minar, was considered the best creation of Ala-ud-din Khalji of the Khalji Dynasty.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_tf013",
+      "question": "The rulers of the Lodi dynasty were Afghans.",
+      "answer": true,
+      "explanation": "The Lodi dynasty rulers were Afghans. They were the last ruling family of the Delhi Sultanate period, ruling from 1451 to 1526.",
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_tf014",
+      "question": "Mubarak Shah abolished all those taxes which were a great burden on poor people.",
+      "answer": false,
+      "explanation": "It was Firoz Shah Tughlaq who abolished harsh taxes burdening the poor, not Mubarak Shah. Firoz Shah established a fair tax system with four main taxes.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_tf015",
+      "question": "Khizr Khan was Timur's viceroy who founded the Sayyid Dynasty.",
+      "answer": true,
+      "explanation": "Khizr Khan was indeed Timur's viceroy. He founded the Sayyid Dynasty in 1414 and took the title Rayati-Ala.",
+      "source_section": "The Sayyid Dynasty"
+    },
+    {
+      "id": "ds_tf016",
+      "question": "Iltutmish was Aibak's slave and son-in-law.",
+      "answer": true,
+      "explanation": "Iltutmish was both Aibak's slave and his son-in-law. He had been the Governor of Badaun before overthrowing Aibak's son Aram Shah.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_tf017",
+      "question": "Ala-ud-din Khalji was the first Muslim ruler to extend the empire to the extreme south of India.",
+      "answer": true,
+      "explanation": "Ala-ud-din Khalji was indeed the first Muslim ruler to extend the empire to the extreme south. His general Malik Kafur defeated the Yadavas, Kakatiyas, Hoysalas, and Pandyas.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_tf018",
+      "question": "Sikandar Lodi abolished jizya on non-Muslims.",
+      "answer": false,
+      "explanation": "Sikandar Lodi re-imposed jizya on non-Muslims, showing his lack of tolerance towards non-Muslims. He did not abolish it.",
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_tf019",
+      "question": "The defeat of Prithviraj Chauhan by Muhammad Ghori in the Second Battle of Tarain (1192) was the turning point that led to the foundation of the Delhi Sultanate.",
+      "answer": true,
+      "explanation": "The defeat of Prithviraj Chauhan by Muhammad Ghori in the Second Battle of Tarain in 1192 was indeed the turning point that led to the establishment of Muslim rule in India and the eventual foundation of the Delhi Sultanate in 1206.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_tf020",
+      "question": "Firoz Shah Tughlaq made the iqtas hereditary, which strengthened central authority.",
+      "answer": false,
+      "explanation": "Firoz Shah Tughlaq did make iqtas hereditary, but this actually weakened central authority rather than strengthening it. By allowing nobles to pass their iqtas to their children, the nobles became too powerful and independent, leading to the breakup of the empire after his death.",
+      "source_section": "The Tughlaq Dynasty"
+    }
+  ]
+}

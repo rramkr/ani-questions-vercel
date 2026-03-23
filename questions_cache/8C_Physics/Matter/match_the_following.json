@@ -1,0 +1,43 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "mtf001",
+      "instruction": "Match the change of state with its description:",
+      "pairs": [
+        {"left": "Melting", "right": "Solid to liquid"},
+        {"left": "Freezing", "right": "Liquid to solid"},
+        {"left": "Boiling", "right": "Liquid to gas"},
+        {"left": "Condensation", "right": "Gas to liquid"},
+        {"left": "Sublimation", "right": "Solid to gas directly"}
+      ],
+      "source_section": "Change of State"
+    },
+    {
+      "id": "mtf002",
+      "instruction": "Match the substance with its melting/boiling point:",
+      "pairs": [
+        {"left": "Melting point of ice", "right": "0\u00b0C"},
+        {"left": "Boiling point of water", "right": "100\u00b0C"},
+        {"left": "Melting point of wax", "right": "55\u00b0C"},
+        {"left": "Melting point of naphthalene", "right": "80\u00b0C"},
+        {"left": "Boiling point of alcohol", "right": "78.3\u00b0C"}
+      ],
+      "source_section": "Change of State"
+    },
+    {
+      "id": "mtf003",
+      "instruction": "Match the property with the correct state of matter:",
+      "pairs": [
+        {"left": "Definite shape and definite volume", "right": "Solid"},
+        {"left": "Definite volume but no definite shape", "right": "Liquid"},
+        {"left": "Neither definite shape nor definite volume", "right": "Gas"},
+        {"left": "Strong inter-molecular forces", "right": "Solid"},
+        {"left": "Very weak inter-molecular forces", "right": "Gas"}
+      ],
+      "source_section": "States of Matter"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "sa001",
+      "question": "What is matter? How did ancient Indian philosophers classify it?",
+      "answer": "Matter is anything that occupies space and has mass. It is composed of tiny particles called molecules. Ancient Indian philosophers classified matter into five basic elements called 'panch tatva' — akash (sky), vayu (air), tejas or agni (fire), jal (water), and prithvi (earth). The Indian sage Maharishi Kanada called the smallest particles of matter 'anu'.",
+      "source_section": "Introduction to Matter"
+    },
+    {
+      "id": "sa002",
+      "question": "What are molecules? State their approximate size.",
+      "answer": "Molecules are the smallest particles of matter that retain the chemical properties of the substance. They are extremely small, with a size of approximately 10^-10 m (one ten-billionth of a metre). Despite their tiny size, molecules are always in a state of motion and attract each other through inter-molecular forces.",
+      "source_section": "Molecules"
+    },
+    {
+      "id": "sa003",
+      "question": "What are inter-molecular spaces? How do they differ in the three states of matter?",
+      "answer": "Inter-molecular spaces are the gaps or distances between molecules of a substance. In solids, inter-molecular spaces are the least because molecules are closely packed together. In liquids, the spaces are moderate as molecules are less closely packed. In gases, the inter-molecular spaces are the greatest because molecules are wide apart from each other.",
+      "source_section": "Inter-molecular Spaces"
+    },
+    {
+      "id": "sa004",
+      "question": "What is inter-molecular force of attraction? Up to what distance is it effective?",
+      "answer": "Inter-molecular force of attraction is the electrostatic force that acts between the molecules of a substance, pulling them towards each other. This force is effective only up to a very short range of about 10^-9 m (one billionth of a metre). Beyond this distance, the force becomes negligible. The strength of this force determines the state of a substance.",
+      "source_section": "Inter-molecular Forces"
+    },
+    {
+      "id": "sa005",
+      "question": "Distinguish between cohesion and adhesion.",
+      "answer": "Cohesion is the force of attraction between molecules of the same substance. For example, water molecules attract other water molecules through cohesion. Adhesion is the force of attraction between molecules of different substances. For example, the attraction between water molecules and glass molecules is adhesion. These forces are responsible for phenomena like surface tension and viscosity.",
+      "source_section": "Cohesion and Adhesion"
+    },
+    {
+      "id": "sa006",
+      "question": "State the three properties of molecules that decide the state of a substance.",
+      "answer": "The three properties that decide the state of a substance are: (1) Inter-molecular space — the distance between molecules, which is least in solids and most in gases. (2) Force of attraction between molecules — which is strongest in solids and weakest in gases. (3) Kinetic energy of molecules — which determines how vigorously the molecules move, being least in solids and most in gases.",
+      "source_section": "Properties Deciding State"
+    },
+    {
+      "id": "sa007",
+      "question": "What are the main properties of solids?",
+      "answer": "Solids have a definite shape and a definite volume. They are rigid and cannot flow. In solids, molecules are closely packed together and vibrate at fixed positions. The inter-molecular forces of attraction in solids are very strong, which is why solids maintain their shape and cannot be compressed easily.",
+      "source_section": "States of Matter — Solids"
+    },
+    {
+      "id": "sa008",
+      "question": "What is melting? At what temperature does ice melt?",
+      "answer": "Melting, also called fusion, is the process by which a solid changes into a liquid on absorbing heat. During melting, the temperature remains constant even though heat is being supplied. This is because the heat energy is used to overcome the inter-molecular forces rather than increasing the temperature. Ice melts at 0 degrees Celsius.",
+      "source_section": "Melting / Fusion"
+    },
+    {
+      "id": "sa009",
+      "question": "What is boiling? How does it differ from evaporation in terms of temperature?",
+      "answer": "Boiling, also called vaporization, is the process by which a liquid changes into a gas on absorbing heat. Boiling occurs at a fixed temperature called the boiling point, and it is a rapid process that takes place throughout the liquid. In contrast, evaporation occurs at all temperatures from the surface of the liquid and is a slow process. Water boils at 100 degrees Celsius.",
+      "source_section": "Boiling / Vaporization"
+    },
+    {
+      "id": "sa010",
+      "question": "What is evaporation? Why does it cause cooling?",
+      "answer": "Evaporation is the process by which a liquid changes into a gas from its surface at all temperatures. It is a slow process. Evaporation causes cooling because the molecules at the surface of the liquid absorb heat energy from the surroundings to gain enough kinetic energy to escape as vapour. This absorption of heat from the surroundings causes the temperature of the surroundings to decrease, producing a cooling effect.",
+      "source_section": "Evaporation"
+    },
+    {
+      "id": "sa011",
+      "question": "What is sublimation? Give two examples of substances that undergo sublimation.",
+      "answer": "Sublimation is the process by which a solid directly changes into a gas without passing through the liquid state. This happens because the inter-molecular forces in such solids are very weak, so their molecules acquire enough kinetic energy on heating to directly escape into the gaseous state. Examples of substances that sublime include camphor, ammonium chloride, iodine, naphthalene (moth balls), and dry ice (solid carbon dioxide).",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "sa012",
+      "question": "What is latent heat? Why is it called 'hidden heat'?",
+      "answer": "Latent heat is the amount of heat energy absorbed or released by a substance during a change of state at constant temperature. It is called 'hidden heat' because even though heat is being supplied to or removed from the substance, there is no change in temperature. The heat energy is used to change the average potential energy of the molecules (increasing or decreasing the inter-molecular separation) rather than changing their average kinetic energy.",
+      "source_section": "Latent Heat"
+    },
+    {
+      "id": "sa013",
+      "question": "What is specific latent heat? State the specific latent heat of fusion of ice.",
+      "answer": "Specific latent heat is the amount of heat energy required to change the state of a unit mass (1 kg) of a substance at constant temperature. Its unit is joules per kilogram (J/kg). The specific latent heat of fusion of ice is 336 x 10^3 J/kg, which means 336,000 joules of heat is needed to melt 1 kg of ice at 0 degrees Celsius into water at 0 degrees Celsius.",
+      "source_section": "Specific Latent Heat"
+    },
+    {
+      "id": "sa014",
+      "question": "What is a freezing mixture? How is it used in making kulfis?",
+      "answer": "A freezing mixture is a mixture that produces a temperature lower than the normal freezing point of a liquid. When salt is added to ice, it lowers the melting point of ice, causing the ice to melt at a temperature below 0 degrees Celsius. This creates a very cold mixture. In making kulfis, the kulfi moulds are placed in a container filled with a mixture of ice and salt. This freezing mixture absorbs heat from the kulfi mixture, causing it to freeze.",
+      "source_section": "Freezing Mixture"
+    },
+    {
+      "id": "sa015",
+      "question": "What are volatile liquids? Give examples.",
+      "answer": "Volatile liquids are liquids that evaporate very quickly at room temperature. They have low boiling points and their molecules easily escape from the surface into the air. Examples of volatile liquids include alcohol (boiling point 78.3 degrees Celsius) and ether (boiling point 35 degrees Celsius). Volatile liquids should be stored in tightly closed bottles to prevent them from evaporating away.",
+      "source_section": "Evaporation — Nature of Liquid"
+    }
+  ]
+}

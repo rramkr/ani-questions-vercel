@@ -1,0 +1,357 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "ds_trk001",
+      "type": "mcq",
+      "question": "Who is considered the REAL founder of the Delhi Sultanate?",
+      "options": ["A. Qutb-ud-din Aibak", "B. Muhammad Ghori", "C. Shams-ud-din Iltutmish", "D. Ghiyas-ud-din Balban"],
+      "correct_answer": "C. Shams-ud-din Iltutmish",
+      "explanation": "While Aibak LAID THE FOUNDATION of the Delhi Sultanate in 1206, Iltutmish is considered the REAL FOUNDER because he shifted the capital to Delhi, introduced the iqta system, silver tanka, and copper jital, and consolidated the empire.",
+      "trick": "Students confuse 'laid the foundation' (Aibak) with 'real founder' (Iltutmish). The textbook makes a clear distinction between the two. Aibak started it, but Iltutmish made it a proper functioning Sultanate."
+    },
+    {
+      "id": "ds_trk002",
+      "type": "mcq",
+      "question": "Where was Qutb-ud-din Aibak crowned as Sultan?",
+      "options": ["A. Delhi", "B. Lahore", "C. Ajmer", "D. Agra"],
+      "correct_answer": "B. Lahore",
+      "explanation": "Aibak was crowned in Lahore, not Delhi. It was Iltutmish who later shifted the capital from Lahore to Delhi.",
+      "trick": "Since the dynasty is called the 'Delhi' Sultanate, students assume Aibak was crowned in Delhi. But he was crowned in Lahore. Delhi became the capital only under Iltutmish."
+    },
+    {
+      "id": "ds_trk003",
+      "type": "mcq",
+      "question": "Who completed the construction of the Qutub Minar?",
+      "options": ["A. Qutb-ud-din Aibak", "B. Shams-ud-din Iltutmish", "C. Ghiyas-ud-din Balban", "D. Ala-ud-din Khalji"],
+      "correct_answer": "B. Shams-ud-din Iltutmish",
+      "explanation": "Qutb-ud-din Aibak only LAID THE FOUNDATION of the Qutub Minar. Iltutmish COMPLETED it. Later, Firoz Shah Tughlaq REPAIRED it.",
+      "trick": "Students assume Aibak built the Qutub Minar because it sounds like his name (Qutb). But Aibak only started it. Iltutmish completed it. And Firoz Shah repaired it later. Three different rulers involved with the same monument!"
+    },
+    {
+      "id": "ds_trk004",
+      "type": "mcq",
+      "question": "The Qutub Minar was named after:",
+      "options": ["A. Qutb-ud-din Aibak, the Sultan", "B. Khwaja Qutb-ud-din Bakhtiyar Kaki, a Sufi saint", "C. Qutb-ud-din Mubarak Shah, a Khalji ruler", "D. The city of Qutubpur"],
+      "correct_answer": "B. Khwaja Qutb-ud-din Bakhtiyar Kaki, a Sufi saint",
+      "explanation": "Despite the similarity in names, the Qutub Minar was named after the Sufi saint Khwaja Qutb-ud-din Bakhtiyar Kaki, NOT after Sultan Qutb-ud-din Aibak.",
+      "trick": "The biggest confusion! Students automatically assume the Qutub Minar was named after Qutb-ud-din Aibak because the names match. But it was named after the Sufi saint Khwaja Qutb-ud-din Bakhtiyar Kaki."
+    },
+    {
+      "id": "ds_trk005",
+      "type": "mcq",
+      "question": "Iltutmish's relationship with Qutb-ud-din Aibak was that of:",
+      "options": ["A. Son", "B. Nephew", "C. Slave and son-in-law", "D. Brother"],
+      "correct_answer": "C. Slave and son-in-law",
+      "explanation": "Iltutmish was BOTH Aibak's slave AND his son-in-law. This dual relationship is often tested.",
+      "trick": "Students remember either that Iltutmish was Aibak's slave OR his son-in-law, but forget he was BOTH. The correct answer requires knowing this dual relationship."
+    },
+    {
+      "id": "ds_trk006",
+      "type": "mcq",
+      "question": "Who introduced the silver tanka and copper jital coins?",
+      "options": ["A. Qutb-ud-din Aibak", "B. Shams-ud-din Iltutmish", "C. Muhammad-bin-Tughlaq", "D. Ala-ud-din Khalji"],
+      "correct_answer": "B. Shams-ud-din Iltutmish",
+      "explanation": "Iltutmish was the first Muslim king to introduce the silver tanka and copper jital coins. Muhammad-bin-Tughlaq introduced copper jittal as TOKEN currency to replace the silver tanka - a different reform entirely.",
+      "trick": "Students confuse Iltutmish's introduction of silver tanka/copper jital (establishing the currency system) with Muhammad-bin-Tughlaq's copper jittal token currency (replacing silver with copper). Two completely different currency reforms!"
+    },
+    {
+      "id": "ds_trk007",
+      "type": "mcq",
+      "question": "What theory did Balban propagate?",
+      "options": ["A. Theory of Kingship", "B. Divine Rights theory", "C. Theory of Equality", "D. Theory of Justice"],
+      "correct_answer": "B. Divine Rights theory",
+      "explanation": "Balban propagated the Divine Rights theory, which held that the Sultan's authority came directly from God. This was reinforced by the practice of Zaminbosi/Sijda.",
+      "trick": "Students may confuse 'Divine Rights theory' with similar-sounding concepts. Balban specifically used the DIVINE RIGHTS theory along with Zaminbosi/Sijda to establish absolute royal authority."
+    },
+    {
+      "id": "ds_trk008",
+      "type": "fill_in_blanks",
+      "question": "Nasir-ud-din Mahmud ascended the throne at age _____ and reigned for _____ years.",
+      "answer": "17, 20",
+      "explanation": "Nasir-ud-din Mahmud was the youngest son of Iltutmish. He became Sultan at age 17 and ruled for 20 years, but the real power lay with his Prime Minister Ghiyas-ud-din Balban.",
+      "trick": "Students may confuse the age (17) with the years of reign (20), or mix them up. Also, they may not realize Nasir-ud-din was just a figurehead while Balban held real power."
+    },
+    {
+      "id": "ds_trk009",
+      "type": "mcq",
+      "question": "How old was Jalal-ud-din Firuz Khalji when he founded the Khalji Dynasty?",
+      "options": ["A. 30 years old", "B. 50 years old", "C. 70 years old", "D. 40 years old"],
+      "correct_answer": "C. 70 years old",
+      "explanation": "Jalal-ud-din Firuz Khalji was about 70 years old when he founded the Khalji dynasty in 1290. He was a weak and lenient ruler.",
+      "trick": "Students assume a dynasty founder must be young and energetic. Jalal-ud-din was 70 years old and was actually described as weak. His nephew Ala-ud-din was the one with ambition."
+    },
+    {
+      "id": "ds_trk010",
+      "type": "mcq",
+      "question": "How was Jalal-ud-din Firuz Khalji killed?",
+      "options": ["A. Died of old age", "B. Killed in battle", "C. Murdered by his nephew Ala-ud-din Khalji (Ali Gurshasp)", "D. Poisoned by his wife"],
+      "correct_answer": "C. Murdered by his nephew Ala-ud-din Khalji (Ali Gurshasp)",
+      "explanation": "Jalal-ud-din went to Kara to meet Ala-ud-din and was murdered by Ali Gurshasp (Ala-ud-din Khalji). Ala-ud-din had earlier invaded Devagiri as Governor of Kara.",
+      "trick": "Students may not know that Ali Gurshasp IS Ala-ud-din Khalji. The same person had different names. Also, the murder happened at Kara, not at Delhi."
+    },
+    {
+      "id": "ds_trk011",
+      "type": "mcq",
+      "question": "Ala-ud-din Khalji was the first Muslim ruler to extend the empire to the extreme south. Which of these kingdoms did Malik Kafur NOT defeat?",
+      "options": ["A. Yadavas of Devagiri", "B. Kakatiyas of Warangal", "C. Cholas of Tanjore", "D. Pandyas of Madurai"],
+      "correct_answer": "C. Cholas of Tanjore",
+      "explanation": "Malik Kafur defeated the Yadavas, Kakatiyas, Hoysalas, and Pandyas. The Cholas are NOT mentioned in the textbook as being defeated by Malik Kafur.",
+      "trick": "Students may confuse the four southern kingdoms defeated by Malik Kafur (Yadavas, Kakatiyas, Hoysalas, Pandyas) and add the Cholas, who are a famous southern dynasty but were NOT among those defeated."
+    },
+    {
+      "id": "ds_trk012",
+      "type": "mcq",
+      "question": "What was the revenue rate fixed by Ala-ud-din Khalji for areas OTHER than the Ganga-Yamuna Doab?",
+      "options": ["A. One-half", "B. One-third", "C. One-fourth", "D. One-tenth"],
+      "correct_answer": "B. One-third",
+      "explanation": "Ala-ud-din fixed revenue at one-HALF for the fertile Ganga-Yamuna Doab and one-THIRD for other areas.",
+      "trick": "Students remember the one-half rate for the Doab but forget the one-third rate for other regions. Or they mix up which rate applies where. Doab = 1/2 (higher, fertile), Others = 1/3."
+    },
+    {
+      "id": "ds_trk013",
+      "type": "fill_in_blanks",
+      "question": "The secret spies employed by Ala-ud-din Khalji in the markets were called _____.",
+      "answer": "munhiyans",
+      "explanation": "Ala-ud-din employed barids (intelligence officers) and munhiyans (secret spies) to monitor market prices. The Shahna-i-Mandi was the superintendent.",
+      "trick": "Students confuse the three market roles: Shahna-i-Mandi (superintendent), barids (intelligence officers), and munhiyans (secret spies). Each had a different function in the market regulation system."
+    },
+    {
+      "id": "ds_trk014",
+      "type": "mcq",
+      "question": "Who built Siri Fort?",
+      "options": ["A. Qutb-ud-din Aibak", "B. Iltutmish", "C. Ala-ud-din Khalji", "D. Firoz Shah Tughlaq"],
+      "correct_answer": "C. Ala-ud-din Khalji",
+      "explanation": "Ala-ud-din Khalji built Siri Fort in 1302. He also built the Alai Darwaza and the Palace of One Thousand Pillars.",
+      "trick": "Students confuse which ruler built which monument. Siri Fort = Ala-ud-din Khalji (1302). Tughlaqabad = Ghiyas-ud-din Tughlaq. Firozabad = Firoz Shah Tughlaq."
+    },
+    {
+      "id": "ds_trk015",
+      "type": "mcq",
+      "question": "Which ruler's original name was Jauna Khan?",
+      "options": ["A. Ghiyas-ud-din Tughlaq", "B. Muhammad-bin-Tughlaq", "C. Firoz Shah Tughlaq", "D. Ala-ud-din Khalji"],
+      "correct_answer": "B. Muhammad-bin-Tughlaq",
+      "explanation": "Muhammad-bin-Tughlaq's original name was Jauna Khan. Similarly, Ghazi Malik became Ghiyas-ud-din Tughlaq, and Nizam Khan became Sikandar Lodi.",
+      "trick": "Multiple rulers had different original names: Jauna Khan = Muhammad-bin-Tughlaq, Ghazi Malik = Ghiyas-ud-din Tughlaq, Nizam Khan = Sikandar Lodi. Students easily mix these up."
+    },
+    {
+      "id": "ds_trk016",
+      "type": "mcq",
+      "question": "Ghiyas-ud-din Tughlaq was:",
+      "options": ["A. Full Turkish", "B. Full Indian", "C. Half-Indian, half-Turkish", "D. Persian"],
+      "correct_answer": "C. Half-Indian, half-Turkish",
+      "explanation": "Ghiyas-ud-din Tughlaq (Ghazi Malik) was half-Indian and half-Turkish. This is a specific detail from the textbook.",
+      "trick": "Students assume all Delhi Sultanate rulers were fully Turkish or Central Asian. Ghiyas-ud-din Tughlaq was specifically noted as being half-Indian and half-Turkish."
+    },
+    {
+      "id": "ds_trk017",
+      "type": "mcq",
+      "question": "How did Ghiyas-ud-din Tughlaq die?",
+      "options": ["A. Killed in battle", "B. From collapse of a wooden pavilion", "C. Murdered by his son", "D. Died of illness"],
+      "correct_answer": "B. From collapse of a wooden pavilion",
+      "explanation": "Ghiyas-ud-din Tughlaq died in 1325 from the collapse of a wooden pavilion. He was succeeded by Muhammad-bin-Tughlaq (Jauna Khan).",
+      "trick": "This is an unusual cause of death for a Sultan that students may not remember. Some historians suggest Muhammad-bin-Tughlaq may have arranged the collapse, but the textbook states it as an accidental event."
+    },
+    {
+      "id": "ds_trk018",
+      "type": "fill_in_blanks",
+      "question": "Muhammad-bin-Tughlaq transferred the capital back from Daulatabad to Delhi in the year _____.",
+      "answer": "1335",
+      "explanation": "The capital was transferred to Daulatabad in 1327 and transferred back to Delhi in 1335 - a failed experiment lasting 8 years.",
+      "trick": "Students remember 1327 (year of transfer to Daulatabad) but forget 1335 (year of return to Delhi). Some may confuse the two dates."
+    },
+    {
+      "id": "ds_trk019",
+      "type": "mcq",
+      "question": "Muhammad-bin-Tughlaq raised land revenue in the Doab by how much?",
+      "options": ["A. Five-fold", "B. Ten-fold", "C. Twenty-fold", "D. Two-fold"],
+      "correct_answer": "C. Twenty-fold",
+      "explanation": "Muhammad-bin-Tughlaq raised land revenue twenty-fold in the Doab region, and this was during a famine, which led to peasant revolts.",
+      "trick": "Students may guess a lower number like five or ten fold. The actual increase was twenty-fold, which was extraordinarily harsh, especially during a famine."
+    },
+    {
+      "id": "ds_trk020",
+      "type": "mcq",
+      "question": "How did Muhammad-bin-Tughlaq die?",
+      "options": ["A. Killed by nobles in Delhi", "B. Died fighting a rebellion in Sindh", "C. Died of plague", "D. Murdered by Firoz Shah"],
+      "correct_answer": "B. Died fighting a rebellion in Sindh",
+      "explanation": "Muhammad-bin-Tughlaq died in 1351 while fighting a rebellion in Sindh. His cousin Firoz Shah Tughlaq was then placed on the throne by the ulemas and nobles.",
+      "trick": "Students may not remember where Muhammad-bin-Tughlaq died. He died in Sindh, not in Delhi. He was still trying to suppress revolts in his final days, showing how unstable his reign had become."
+    },
+    {
+      "id": "ds_trk021",
+      "type": "mcq",
+      "question": "Which ruler repaired the Qutub Minar?",
+      "options": ["A. Iltutmish", "B. Ala-ud-din Khalji", "C. Firoz Shah Tughlaq", "D. Sikandar Lodi"],
+      "correct_answer": "C. Firoz Shah Tughlaq",
+      "explanation": "Aibak laid the foundation, Iltutmish completed it, and Firoz Shah Tughlaq repaired it. Three different rulers, three different actions on the same monument.",
+      "trick": "Three rulers associated with Qutub Minar: Aibak (started), Iltutmish (completed), Firoz Shah (repaired). Students confuse which ruler did what."
+    },
+    {
+      "id": "ds_trk022",
+      "type": "mcq",
+      "question": "Firoz Shah Tughlaq's Kharaj (1/10 land tax) should NOT be confused with Ala-ud-din Khalji's revenue rate which was:",
+      "options": ["A. 1/10 for the Doab", "B. 1/3 for the Doab", "C. 1/2 for the Doab", "D. 1/4 for the Doab"],
+      "correct_answer": "C. 1/2 for the Doab",
+      "explanation": "Firoz Shah's Kharaj was 1/10. Ala-ud-din's rate was 1/2 for the Doab and 1/3 for other areas. The rates are very different.",
+      "trick": "Three different revenue rates to remember: Firoz Shah's Kharaj = 1/10, Ala-ud-din's Doab rate = 1/2, Ala-ud-din's other areas = 1/3. Students frequently mix these up."
+    },
+    {
+      "id": "ds_trk023",
+      "type": "mcq",
+      "question": "The Vijayanagara kingdom was founded in 1336 during whose reign?",
+      "options": ["A. Ala-ud-din Khalji", "B. Ghiyas-ud-din Tughlaq", "C. Muhammad-bin-Tughlaq", "D. Firoz Shah Tughlaq"],
+      "correct_answer": "C. Muhammad-bin-Tughlaq",
+      "explanation": "The Vijayanagara kingdom was founded in 1336 during Muhammad-bin-Tughlaq's reign (1325-1351). The Bahmani kingdom was founded in 1345, also during his reign.",
+      "trick": "Students may associate breakaway kingdoms with a later ruler. Both Vijayanagara (1336) and Bahmani (1345) were founded during Muhammad-bin-Tughlaq's reign as revolts against his weakening authority."
+    },
+    {
+      "id": "ds_trk024",
+      "type": "fill_in_blanks",
+      "question": "Firoz Shah Tughlaq's tax Kham was _____ of the war booty.",
+      "answer": "one-fifth (1/5)",
+      "explanation": "Kham was 1/5 of war booty. Kharaj was 1/10 of land produce. These fractions are different and easily confused.",
+      "trick": "Students confuse the fractions: Kharaj = 1/10 (land), Kham = 1/5 (war booty). Both are Firoz Shah's taxes but with different rates and different bases."
+    },
+    {
+      "id": "ds_trk025",
+      "type": "mcq",
+      "question": "Who translated Sanskrit books into Persian?",
+      "options": ["A. Ala-ud-din Khalji", "B. Muhammad-bin-Tughlaq", "C. Firoz Shah Tughlaq", "D. Sikandar Lodi"],
+      "correct_answer": "C. Firoz Shah Tughlaq",
+      "explanation": "Firoz Shah Tughlaq had Sanskrit books translated into Persian as part of his education reforms. This is a common trick in true/false questions where it's attributed to Ala-ud-din Khalji.",
+      "trick": "The textbook true/false question specifically tests this: 'Sanskrit books translated during Ala-ud-din Khalji's reign' is FALSE. It was Firoz Shah Tughlaq, not Ala-ud-din."
+    },
+    {
+      "id": "ds_trk026",
+      "type": "mcq",
+      "question": "When did Timur invade India?",
+      "options": ["A. 1388", "B. 1398", "C. 1408", "D. 1414"],
+      "correct_answer": "B. 1398",
+      "explanation": "Timur invaded India in 1398. Firoz Shah died in 1388 (10 years before Timur). The Sayyid Dynasty started in 1414 (16 years after Timur).",
+      "trick": "Students confuse nearby dates: 1388 (Firoz Shah's death), 1398 (Timur's invasion), 1414 (Sayyid Dynasty). The dates are close and easily mixed up."
+    },
+    {
+      "id": "ds_trk027",
+      "type": "mcq",
+      "question": "Khizr Khan, founder of the Sayyid Dynasty, was:",
+      "options": ["A. An Afghan noble", "B. A Turkish general", "C. Timur's viceroy", "D. A descendant of the Prophet"],
+      "correct_answer": "C. Timur's viceroy",
+      "explanation": "Khizr Khan was Timur's viceroy, which is why he founded the Sayyid Dynasty after Timur's invasion of 1398.",
+      "trick": "While 'Sayyid' means descendants of the Prophet, the textbook specifically states that Khizr Khan was Timur's viceroy. Students should focus on his role, not just the dynasty name."
+    },
+    {
+      "id": "ds_trk028",
+      "type": "fill_in_blanks",
+      "question": "The wazir who invited Bahlul Lodi and caused the end of the Sayyid Dynasty was _____.",
+      "answer": "Hamid Khan",
+      "explanation": "Ala-ud-din Alam Shah's own wazir Hamid Khan invited Bahlul Lodi to take power. Alam Shah then left for Badaun, ending the Sayyid dynasty.",
+      "trick": "Students may confuse Hamid Khan (wazir of Alam Shah who invited Bahlul Lodi) with Daulat Khan Lodi (uncle of Ibrahim Lodi who invited Babur). Both invited outsiders to overthrow their rulers!"
+    },
+    {
+      "id": "ds_trk029",
+      "type": "mcq",
+      "question": "Which Lodi ruler defeated the Sultan of Jaunpur?",
+      "options": ["A. Sikandar Lodi", "B. Ibrahim Lodi", "C. Bahlul Lodi", "D. Daulat Khan Lodi"],
+      "correct_answer": "C. Bahlul Lodi",
+      "explanation": "Bahlul Lodi defeated the Sultan of Jaunpur in 1476. Sikandar Lodi later annexed Jaunpur. Students confuse which Lodi did what with Jaunpur.",
+      "trick": "Both Bahlul Lodi (defeated Jaunpur Sultan, 1476) and Sikandar Lodi (annexed Jaunpur) dealt with Jaunpur, but in different ways. Bahlul defeated the Sultan, Sikandar formally annexed the territory."
+    },
+    {
+      "id": "ds_trk030",
+      "type": "mcq",
+      "question": "Which Lodi ruler re-imposed jizya on non-Muslims?",
+      "options": ["A. Bahlul Lodi", "B. Sikandar Lodi", "C. Ibrahim Lodi", "D. Daulat Khan Lodi"],
+      "correct_answer": "B. Sikandar Lodi",
+      "explanation": "Sikandar Lodi re-imposed jizya despite being otherwise considered the wisest Lodi ruler. He had little tolerance towards non-Muslims.",
+      "trick": "Students may think the 'greatest and wisest' Lodi ruler would be tolerant. But Sikandar Lodi, despite his welfare measures and administrative ability, was intolerant towards non-Muslims and re-imposed jizya."
+    },
+    {
+      "id": "ds_trk031",
+      "type": "mcq",
+      "question": "Who was Ibrahim Lodi's brother who rebelled against him?",
+      "options": ["A. Daulat Khan", "B. Jalal Khan", "C. Nizam Khan", "D. Bahlul Khan"],
+      "correct_answer": "B. Jalal Khan",
+      "explanation": "Ibrahim Lodi's brother Jalal Khan rebelled against him. His uncle Daulat Khan Lodi (governor of Punjab) then invited Babur to invade.",
+      "trick": "Students confuse Ibrahim's brother (Jalal Khan, who rebelled) with his uncle (Daulat Khan Lodi, who invited Babur). Two different relatives, two different threats."
+    },
+    {
+      "id": "ds_trk032",
+      "type": "mcq",
+      "question": "The Adhai-din-ka-Jhonpra was built in:",
+      "options": ["A. Delhi", "B. Lahore", "C. Ajmer", "D. Agra"],
+      "correct_answer": "C. Ajmer",
+      "explanation": "Qutb-ud-din Aibak built the Quwwat-ul-Islam mosque in Delhi and the Adhai-din-ka-Jhonpra in Ajmer. Different monuments in different cities.",
+      "trick": "Students confuse the locations: Quwwat-ul-Islam mosque = Delhi, Adhai-din-ka-Jhonpra = Ajmer. Both were built by Aibak but in different cities."
+    },
+    {
+      "id": "ds_trk033",
+      "type": "one_word",
+      "question": "What game was Qutb-ud-din Aibak playing when he died?",
+      "answer": "polo (chaugan)",
+      "explanation": "Aibak died in 1210 while playing polo, also called chaugan. He fell from his horse during the game.",
+      "trick": "This unusual cause of death for a Sultan is a favourite exam question. Students need to remember both names for the game: polo and chaugan."
+    },
+    {
+      "id": "ds_trk034",
+      "type": "mcq",
+      "question": "The Khalji rulers were originally from:",
+      "options": ["A. Arabia", "B. Central Asia (Turkic, settled in Afghanistan)", "C. Persia", "D. Mongolia"],
+      "correct_answer": "B. Central Asia (Turkic, settled in Afghanistan)",
+      "explanation": "The Khaljis were a Central Asian Turkic dynasty that had settled in Afghanistan. They were not Arabs, Persians, or Mongols.",
+      "trick": "Students may confuse the ethnic origins of different dynasties. Slave Dynasty = Turkish, Khalji = Central Asian Turkic (settled in Afghanistan), Lodi = Afghans. Each had different origins."
+    },
+    {
+      "id": "ds_trk035",
+      "type": "mcq",
+      "question": "Ala-ud-din Khalji was the first Sultan to keep a standing army. What does 'standing army' mean?",
+      "options": ["A. Army that stands at attention all day", "B. Permanent professional army maintained year-round", "C. Army stationed only at the border", "D. Army of slaves who stand guard"],
+      "correct_answer": "B. Permanent professional army maintained year-round",
+      "explanation": "A standing army is a permanent professional army maintained year-round, with soldiers paid in cash. Earlier, armies were assembled only when needed from iqta holders.",
+      "trick": "Students may take 'standing army' literally. It means a permanent professional army kept ready at all times, not assembled on an ad-hoc basis. Soldiers were paid in cash, not through land grants."
+    },
+    {
+      "id": "ds_trk036",
+      "type": "fill_in_blanks",
+      "question": "After Ala-ud-din Khalji's death, _____ briefly took the throne before being deposed.",
+      "answer": "Malik Kafur",
+      "explanation": "After Ala-ud-din died in 1316, his general Malik Kafur briefly seized the throne. He was deposed by Qutb-ud-din Mubarak Shah, who ruled for 4 years before being murdered by Khusro Khan.",
+      "trick": "The succession after Ala-ud-din is confusing: Ala-ud-din dies (1316) -> Malik Kafur briefly takes throne -> Deposed by Qutb-ud-din Mubarak Shah (4 years) -> Murdered by Khusro Khan -> Khusro Khan killed by Ghazi Malik (Tughlaq)."
+    },
+    {
+      "id": "ds_trk037",
+      "type": "mcq",
+      "question": "Which of these rulers moved the capital to Agra?",
+      "options": ["A. Muhammad-bin-Tughlaq", "B. Firoz Shah Tughlaq", "C. Sikandar Lodi", "D. Ibrahim Lodi"],
+      "correct_answer": "C. Sikandar Lodi",
+      "explanation": "Sikandar Lodi moved the capital from Delhi to Agra. Muhammad-bin-Tughlaq moved it to Daulatabad (then back to Delhi). Don't confuse the two capital transfers!",
+      "trick": "Two capital transfers to remember: Muhammad-bin-Tughlaq moved Delhi to Daulatabad (and back). Sikandar Lodi moved Delhi to Agra. Students mix up which ruler moved to which city."
+    },
+    {
+      "id": "ds_trk038",
+      "type": "mcq",
+      "question": "The Bahmani kingdom was founded in which year?",
+      "options": ["A. 1336", "B. 1345", "C. 1351", "D. 1398"],
+      "correct_answer": "B. 1345",
+      "explanation": "Vijayanagara kingdom = 1336, Bahmani kingdom = 1345. Both were founded during Muhammad-bin-Tughlaq's reign (1325-1351). Don't mix up the two dates.",
+      "trick": "Vijayanagara (1336) and Bahmani (1345) are 9 years apart. Students mix up which kingdom was founded first. Remember: V comes before B in the alphabet, 1336 comes before 1345."
+    },
+    {
+      "id": "ds_trk039",
+      "type": "one_word",
+      "question": "Name the fortified city founded by Ghiyas-ud-din Tughlaq.",
+      "answer": "Tughlaqabad",
+      "explanation": "Ghiyas-ud-din Tughlaq founded the fortified city of Tughlaqabad. Firoz Shah founded Firozabad, Firozpur, and Hissar-Firoza. Don't confuse the cities.",
+      "trick": "Multiple rulers founded cities named after themselves: Tughlaqabad (Ghiyas-ud-din Tughlaq), Firozabad/Firozpur/Hissar-Firoza (Firoz Shah), Mubarakabad (Mubarak Shah Sayyid). Students mix up which ruler built which city."
+    },
+    {
+      "id": "ds_trk040",
+      "type": "mcq",
+      "question": "The Delhi Sultanate lasted from 1206 to 1526. How many years is that?",
+      "options": ["A. 300 years", "B. 310 years", "C. 320 years", "D. 330 years"],
+      "correct_answer": "C. 320 years",
+      "explanation": "1526 minus 1206 = 320 years. The five dynasties ruled for a combined 320 years: Slave (84 years), Khalji (30 years), Tughlaq (94 years), Sayyid (37 years), Lodi (75 years).",
+      "trick": "Students may miscalculate. Also, the individual dynasty durations are tricky: Slave = 84 (longest sounding name but not longest reign), Tughlaq = 94 (actually the longest), Khalji = 30 (shortest)."
+    }
+  ]
+}

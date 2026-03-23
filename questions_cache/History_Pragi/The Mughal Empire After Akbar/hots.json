@@ -1,0 +1,91 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "ma_hots001",
+      "question": "The Mughals were great builders. Describe some of the Mughal buildings and their style of architecture.",
+      "context": "Analysing architectural contributions across three reigns",
+      "answer": "The Mughals carried out large-scale architectural activities that represented the peak of Islamic art in India, with a new style very different from the Sultanate period. Under Jahangir, the tomb of Akbar at Sikandra and the tomb of Itimad-ud-Daula (built by Nur Jahan) were important buildings, along with the famous Mughal gardens in Kashmir. Shah Jahan brought Mughal architecture to its climax by blending Indian, Persian and Central Asian styles. He replaced red stone with white marble, emphasised symmetry and uniformity, used the double dome, and employed pietra dura decoration. His masterpieces include the Taj Mahal, Red Fort, Jama Masjid, and Shahjahanabad. Aurangzeb built the Moti Masjid in Delhi, Badshahi Masjid in Lahore, and Bibi Ka Maqbara at Aurangabad.",
+      "key_points": [
+        "Mughals represented the peak of Islamic art in India with a unique blend of styles",
+        "Jahangir: tomb of Akbar at Sikandra, tomb of Itimad-ud-Daula, Mughal gardens in Kashmir",
+        "Shah Jahan was the greatest builder - 'Prince among Builders' and 'Engineer King'",
+        "Shah Jahan's innovations: white marble, symmetry, double dome, pietra dura",
+        "Taj Mahal (1632-1643) was the grandest project with calligraphy and inlay work",
+        "Red Fort in Delhi with Diwan-i-Aam, Diwan-i-Khas, Rang Mahal",
+        "Jama Masjid with three marble domes and colonnades",
+        "Aurangzeb: Moti Masjid, Badshahi Masjid, Bibi Ka Maqbara modelled on Taj Mahal"
+      ],
+      "keywords": ["Sikandra", "Itimad-ud-Daula", "white marble", "pietra dura", "double dome", "Taj Mahal", "Red Fort", "Jama Masjid", "Bibi Ka Maqbara"],
+      "source_section": "Cultural Developments - Architecture"
+    },
+    {
+      "id": "ma_hots002",
+      "question": "Compare Aurangzeb's reign with that of Akbar's. What differences do you notice?",
+      "context": "Comparing two contrasting approaches to Mughal governance",
+      "answer": "Akbar and Aurangzeb had fundamentally opposite approaches. Akbar followed religious tolerance (Sulh-i-Kul), abolished jizya, appointed Hindus to high posts, and formed Rajput alliances, creating a stable, united empire. Aurangzeb reimposed jizya, destroyed temples, deprived Rajputs, banned festivals and music, and discontinued jharoka darshan. Akbar's inclusive policies brought peace and expansion while Aurangzeb's rigid policies caused revolts by Jats, Sikhs, Marathas, Bundelas, and Rajputs. Akbar built the empire through tolerance; Aurangzeb's bigotry led to its disintegration despite ruling the largest territory.",
+      "key_points": [
+        "Akbar followed Sulh-i-Kul (universal peace); Aurangzeb aimed to establish Sunni religion",
+        "Akbar abolished jizya; Aurangzeb reimposed it on Hindus",
+        "Akbar gave Rajputs high posts and matrimonial alliances; Aurangzeb deprived them",
+        "Akbar respected temples; Aurangzeb destroyed Vishwanath temple and others",
+        "Akbar patronised arts and music; Aurangzeb banned music and dance",
+        "Akbar's reign brought unity and stability; Aurangzeb faced revolts from all communities",
+        "Akbar consolidated the empire; Aurangzeb's Deccan campaign drained resources"
+      ],
+      "keywords": ["Sulh-i-Kul", "jizya", "Rajput alliances", "temple destruction", "revolts", "tolerance vs bigotry"],
+      "source_section": "Aurangzeb as a Ruler / Comparison"
+    },
+    {
+      "id": "ma_hots003",
+      "question": "Do you think Aurangzeb could have prevented the decline of the Mughal Empire if he had followed different policies? Explain your reasoning.",
+      "context": "Evaluating the impact of individual leadership on empire's fate",
+      "answer": "Yes, Aurangzeb could likely have prevented or delayed the decline significantly by following more inclusive policies similar to Akbar's. His reimposition of jizya, destruction of temples, and depriving Rajputs of posts turned loyal communities into enemies. If he had continued Akbar's policy of religious tolerance, the Rajputs, Jats, Sikhs, and Satnamis might have remained loyal. His Deccan campaign of twenty-six years drained the empire's resources and left the north unattended. A more balanced approach between north and south could have maintained stability. However, some factors like wars of succession and the rise of regional powers like the Marathas were structural problems that any ruler would have faced.",
+      "key_points": [
+        "Aurangzeb's religious policies directly caused revolts that weakened the empire",
+        "Following Akbar's tolerance could have maintained Rajput loyalty and Hindu support",
+        "The twenty-six year Deccan campaign was a strategic mistake that drained resources",
+        "Not destroying temples would have prevented Hindu alienation",
+        "However, structural problems like no system of primogeniture existed regardless",
+        "The rise of Marathas as a power was partly independent of Aurangzeb's policies",
+        "Better treatment of sons could have produced capable successors"
+      ],
+      "keywords": ["religious tolerance", "Rajput loyalty", "Deccan strategy", "structural problems", "succession"],
+      "source_section": "Reasons for Decline"
+    },
+    {
+      "id": "ma_hots004",
+      "question": "Why do you think the British East India Company was able to gain a foothold in India during the Mughal period? What factors helped them?",
+      "context": "Analysing the origins of colonial power in India",
+      "answer": "The British East India Company gained a foothold through a combination of diplomatic skill and exploiting Mughal openness. Captain William Hawkins in 1608 and Sir Thomas Roe in 1615 used diplomatic means to secure trading concessions from Jahangir. The Mughals saw the British as mere traders and did not perceive them as a political threat. The Company established factories on the western coast, shifted headquarters to Bombay, obtained Madras in 1639, and built Fort St. George. As the Mughal Empire declined after Aurangzeb due to weak successors, corrupt nobility, and internal revolts, the Company gradually transitioned from trade to political power. The fragmentation of the empire into competing regional states gave the British opportunities to play one against another.",
+      "key_points": [
+        "British used diplomatic means - Hawkins and Roe secured trading rights peacefully",
+        "Mughals underestimated the British as mere traders, not political threats",
+        "Company gradually established strategic bases: Surat, Bombay, Madras (Fort St. George)",
+        "Mughal decline after Aurangzeb created a power vacuum",
+        "Weak successors and fragmented regional states allowed British exploitation",
+        "Competition from Portuguese, Dutch, and French kept initial British presence modest",
+        "Trade gradually converted to political and military control"
+      ],
+      "keywords": ["William Hawkins", "Sir Thomas Roe", "diplomatic", "trading concessions", "Mughal decline", "power vacuum"],
+      "source_section": "Arrival of the British / Reasons for Decline"
+    },
+    {
+      "id": "ma_hots005",
+      "question": "Nur Jahan was one of the most powerful women in Indian history. Discuss her influence and whether you think it was beneficial or harmful to the Mughal Empire.",
+      "context": "Evaluating the impact of a powerful woman in medieval governance",
+      "answer": "Nur Jahan was undoubtedly one of the most powerful women in Indian history. She effectively managed affairs of state during Jahangir's frequent absences due to his addiction to opium and alcohol. She presided over the court, issued orders from jharokhas, and even had coins minted in her name - an extraordinary achievement for a woman in medieval times. She showed remarkable courage in rescuing Jahangir from Mahabat Khan's rebellion in 1626. Her influence was largely beneficial in maintaining stability during Jahangir's weakness. However, her power also meant that the emperor was perceived as dependent on his wife, which could have emboldened nobles and rivals. Overall, she helped keep the empire running smoothly during a period when the emperor himself was often incapable, and her retirement after Jahangir's death in 1627 showed political maturity.",
+      "key_points": [
+        "Nur Jahan effectively governed when Jahangir was incapacitated by addiction",
+        "Having coins minted in her name was unprecedented for a Mughal empress",
+        "She showed physical courage in rescuing Jahangir from Mahabat Khan",
+        "Her governance maintained stability during the emperor's weakness",
+        "Perception of a weak emperor dependent on wife could embolden rivals",
+        "Her graceful retirement showed political maturity and self-awareness",
+        "Proved that women could govern effectively in medieval India"
+      ],
+      "keywords": ["Nur Jahan", "power", "coins", "Mahabat Khan", "Jahangir's addiction", "governance", "stability"],
+      "source_section": "Role of Nur Jahan"
+    }
+  ]
+}

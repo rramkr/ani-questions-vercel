@@ -1,0 +1,53 @@
+{
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "dp_gr001",
+      "question": "Why are Directive Principles of State Policy called 'non-justiciable'?",
+      "answer": "Directive Principles of State Policy are called non-justiciable because they cannot be enforced by any court of law. If the government does not implement them, citizens cannot go to court to get them enforced. They are only guidelines or instructions for the Central and State governments to follow while framing policies and laws. Unlike Fundamental Rights which are justiciable, Directive Principles depend on the goodwill and commitment of the government for their implementation.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_gr002",
+      "question": "Why did the Constitution makers include Directive Principles in the Constitution?",
+      "answer": "The Constitution makers included Directive Principles because when India attained independence, it faced innumerable problems such as poverty, illiteracy, ignorance and inequality. Vulnerable sections like women and children were deprived of basic means of living. The leaders of newly independent India realised they had to include ideals for general welfare. They wanted India to be a welfare state where the government would work towards the social and economic well-being of all citizens. The Directive Principles provide guidelines for achieving this goal.",
+      "source_section": "Background"
+    },
+    {
+      "id": "dp_gr003",
+      "question": "Why is the state required to ensure equal pay for equal work for men and women?",
+      "answer": "The state is required to ensure equal pay for equal work for men and women because this is a Directive Principle promoting social and economic equality. The aim is to eliminate gender-based discrimination in the workplace. A welfare state must treat all individuals on equal footing, and ensuring equal wages regardless of gender is an important step towards creating a just and equitable society where wealth is fairly distributed.",
+      "source_section": "Social and Economic Equality"
+    },
+    {
+      "id": "dp_gr004",
+      "question": "Why did the government abolish the Zamindari system?",
+      "answer": "The government abolished the Zamindari system because the Directive Principles state that the state should distribute wealth so that it is not concentrated in a few hands. Under the Zamindari system, landlords owned vast amounts of land while the poor had nothing. By abolishing this system, the surplus land of landlords was distributed among the landless poor, reducing economic inequality and moving towards the goal of equal distribution of wealth as envisioned by the Constitution.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_gr005",
+      "question": "Why are Gandhian principles important in the Directive Principles?",
+      "answer": "Gandhian principles are important in the Directive Principles because Mahatma Gandhi's philosophy of Swaraj (self-rule), Sarvodaya (welfare for all) and Swavlamban (self-reliance) formed the ideological foundation of independent India. Gandhi laid stress on rebuilding villages and promoting cottage industries. These principles were incorporated during the framing of the Constitution to ensure that India would develop from the grassroots level, empowering villages, protecting weaker sections, and building a self-reliant nation.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_gr006",
+      "question": "Why should the state promote cottage industries in rural areas?",
+      "answer": "The state should promote cottage industries in rural areas because this was an important Gandhian Directive Principle. Cottage industries provide employment to people in rural areas where large-scale industries may not exist. They support the principle of self-reliance (Swavlamban) by enabling local production. To implement this, the government established boards like the Village Industries Board, All India Handicraft Board, Silk Board and Coir Board under Article 43 to encourage small-scale manufacturing in rural areas.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_gr007",
+      "question": "Why are Directive Principles and Fundamental Rights considered complementary?",
+      "answer": "Directive Principles and Fundamental Rights are considered complementary because both aim at the same thing - the welfare of citizens. They are not contradictory but work together. Fundamental Rights guarantee political democracy by ensuring rights like equality, freedom and constitutional remedies. Directive Principles establish social and economic democracy by providing guidelines for equal distribution of wealth, free education and welfare programmes. Together, they form a comprehensive framework ensuring complete democracy for all citizens of India.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_gr008",
+      "question": "Why does the state promote international peace and encourage arbitration?",
+      "answer": "The state promotes international peace and encourages arbitration because these are General Directive Principles that guide India's foreign policy. The state shall maintain just and honest relations with other nations, foster respect for international laws and treaties, and encourage settlement of international disputes by arbitration (mutual agreement). These principles ensure that India acts as a responsible member of the international community, promoting peaceful resolution of conflicts rather than aggression or war.",
+      "source_section": "General Principles"
+    }
+  ]
+}

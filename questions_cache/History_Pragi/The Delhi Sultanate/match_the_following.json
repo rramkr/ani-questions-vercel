@@ -1,0 +1,70 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "ds_mtf001",
+      "column_a": ["Qutb-ud-din Aibak", "Iltutmish", "Raziya Sultan", "Balban", "Nasir-ud-din Mahmud"],
+      "column_b": ["Introduced Zaminbosi/Sijda", "First and last Muslim woman ruler of Delhi", "Introduced silver tanka and copper jital", "Youngest son of Iltutmish, reigned 20 years", "Called Lakh Baksh"],
+      "correct_matches": {
+        "Qutb-ud-din Aibak": "Called Lakh Baksh",
+        "Iltutmish": "Introduced silver tanka and copper jital",
+        "Raziya Sultan": "First and last Muslim woman ruler of Delhi",
+        "Balban": "Introduced Zaminbosi/Sijda",
+        "Nasir-ud-din Mahmud": "Youngest son of Iltutmish, reigned 20 years"
+      },
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mtf002",
+      "column_a": ["Dagh", "Huliya/Chehra", "Shahna-i-Mandi", "Barid", "Munhiyans"],
+      "column_b": ["Secret spies", "Superintendent of the market", "Intelligence officers", "Branding of horses", "Descriptive rolls of soldiers"],
+      "correct_matches": {
+        "Dagh": "Branding of horses",
+        "Huliya/Chehra": "Descriptive rolls of soldiers",
+        "Shahna-i-Mandi": "Superintendent of the market",
+        "Barid": "Intelligence officers",
+        "Munhiyans": "Secret spies"
+      },
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_mtf003",
+      "column_a": ["Slave Dynasty", "Khalji Dynasty", "Tughlaq Dynasty", "Sayyid Dynasty", "Lodi Dynasty"],
+      "column_b": ["1414-1451", "1206-1290", "1290-1320", "1451-1526", "1320-1414"],
+      "correct_matches": {
+        "Slave Dynasty": "1206-1290",
+        "Khalji Dynasty": "1290-1320",
+        "Tughlaq Dynasty": "1320-1414",
+        "Sayyid Dynasty": "1414-1451",
+        "Lodi Dynasty": "1451-1526"
+      },
+      "source_section": "Five Dynasties of the Delhi Sultanate"
+    },
+    {
+      "id": "ds_mtf004",
+      "column_a": ["Kharaj", "Zakat", "Kham", "Jizya", "Diwan-i-Khairat"],
+      "column_b": ["Welfare of the poor", "Tax on non-Muslims", "1/5 of war booty", "Muslim religious tax", "1/10 land tax"],
+      "correct_matches": {
+        "Kharaj": "1/10 land tax",
+        "Zakat": "Muslim religious tax",
+        "Kham": "1/5 of war booty",
+        "Jizya": "Tax on non-Muslims",
+        "Diwan-i-Khairat": "Welfare of the poor"
+      },
+      "source_section": "The Tughlaq Dynasty - Firoz Shah"
+    },
+    {
+      "id": "ds_mtf005",
+      "column_a": ["Khizr Khan", "Bahlul Lodi", "Sikandar Lodi", "Ibrahim Lodi", "Ala-ud-din Alam Shah"],
+      "column_b": ["Defeated by Babur at Panipat", "Moved capital to Agra", "Founded the Lodi Dynasty", "Last Sayyid ruler", "Founded the Sayyid Dynasty"],
+      "correct_matches": {
+        "Khizr Khan": "Founded the Sayyid Dynasty",
+        "Bahlul Lodi": "Founded the Lodi Dynasty",
+        "Sikandar Lodi": "Moved capital to Agra",
+        "Ibrahim Lodi": "Defeated by Babur at Panipat",
+        "Ala-ud-din Alam Shah": "Last Sayyid ruler"
+      },
+      "source_section": "Sayyid and Lodi Dynasties"
+    }
+  ]
+}

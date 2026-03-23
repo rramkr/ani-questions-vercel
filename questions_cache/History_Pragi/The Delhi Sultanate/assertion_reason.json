@@ -1,0 +1,109 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ds_ar001",
+      "question": "Assertion (A): Iltutmish is considered the real founder of the Delhi Sultanate.\nReason (R): He shifted the capital from Lahore to Delhi, introduced the iqta system, and established a proper monetary system with the silver tanka and copper jital.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "A) Both A and R are correct, and R is the correct explanation of A",
+      "explanation": "Iltutmish is indeed considered the real founder because of these very reasons - shifting the capital to Delhi, introducing the iqta system, and establishing a monetary system were foundational to the Sultanate's stability.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ar002",
+      "question": "Assertion (A): Raziya Sultan was killed by the nobles of the court.\nReason (R): She was an inefficient ruler who could not maintain law and order.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "C) A is correct, but R is wrong",
+      "explanation": "Raziya Sultan was indeed killed through the plotting of nobles, but the reason is wrong. She was actually an efficient and just ruler who established law and order and built roads. The nobles plotted against her because they could not accept taking orders from a woman.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ar003",
+      "question": "Assertion (A): Ala-ud-din Khalji established strict market regulations in Delhi.\nReason (R): He wanted to maintain a large standing army at low cost.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "A) Both A and R are correct, and R is the correct explanation of A",
+      "explanation": "Ala-ud-din's market regulations were directly linked to his need to maintain a large army cheaply. By controlling prices, soldiers could be paid less while still living well, allowing him to maintain a massive standing army.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_ar004",
+      "question": "Assertion (A): Muhammad-bin-Tughlaq's transfer of capital to Daulatabad failed.\nReason (R): Daulatabad was too far north and could not control the southern regions.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "C) A is correct, but R is wrong",
+      "explanation": "The transfer of capital to Daulatabad did fail, but the reason is wrong. Daulatabad was in the south (Deccan), not the north. The failure was because Muhammad-bin-Tughlaq could not control Delhi and the northern territories from the distant southern location, and the forced march caused great suffering.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_ar005",
+      "question": "Assertion (A): Muhammad-bin-Tughlaq's token currency scheme failed.\nReason (R): People easily forged the copper coins at home since copper was a cheap and commonly available metal.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "A) Both A and R are correct, and R is the correct explanation of A",
+      "explanation": "The token currency scheme failed precisely because people could easily forge cheap copper coins at home. Without proper security measures, the market was flooded with fake coins, collapsing the currency's value.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_ar006",
+      "question": "Assertion (A): Firoz Shah Tughlaq made the iqtas hereditary.\nReason (R): He wanted to strengthen the central authority of the Sultan.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "C) A is correct, but R is wrong",
+      "explanation": "Firoz Shah Tughlaq did make iqtas hereditary, but the reason is wrong. Making iqtas hereditary actually weakened central authority rather than strengthening it, because nobles became too powerful and independent with permanent land holdings.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_ar007",
+      "question": "Assertion (A): Balban introduced the practice of Zaminbosi/Sijda.\nReason (R): He wanted to establish the supreme dignity and divine authority of the Sultan.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "A) Both A and R are correct, and R is the correct explanation of A",
+      "explanation": "Balban introduced Zaminbosi/Sijda specifically to establish the divine authority of the Sultan. He also propagated the Divine Rights theory and ruled with absolute authority.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ar008",
+      "question": "Assertion (A): Daulat Khan Lodi invited Babur to invade India.\nReason (R): Daulat Khan Lodi was the loyal governor of Punjab who wanted to strengthen Ibrahim Lodi's rule.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "C) A is correct, but R is wrong",
+      "explanation": "Daulat Khan Lodi did invite Babur, but the reason is wrong. He was Ibrahim Lodi's uncle and governor of Punjab who was disloyal. He invited Babur precisely to overthrow Ibrahim Lodi, not to strengthen his rule. Ibrahim's reign was marked by revolts from nobles who opposed him.",
+      "source_section": "The Lodi Dynasty"
+    }
+  ]
+}

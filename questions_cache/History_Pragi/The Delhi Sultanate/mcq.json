@@ -1,0 +1,205 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "ds_mcq001",
+      "question": "Who laid the foundation of the Delhi Sultanate in 1206?",
+      "options": ["A) Shams-ud-din Iltutmish", "B) Qutb-ud-din Aibak", "C) Muhammad Ghori", "D) Ghiyas-ud-din Balban"],
+      "correct_answer": "B) Qutb-ud-din Aibak",
+      "explanation": "Qutb-ud-din Aibak laid the foundation of the Delhi Sultanate in 1206 after the death of Muhammad Ghori. He was crowned in Lahore and became the first independent Muslim ruler of northern India.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mcq002",
+      "question": "The Qutub Minar was named after which Sufi saint?",
+      "options": ["A) Nizamuddin Auliya", "B) Moinuddin Chishti", "C) Khwaja Qutb-ud-din Bakhtiyar Kaki", "D) Salim Chishti"],
+      "correct_answer": "C) Khwaja Qutb-ud-din Bakhtiyar Kaki",
+      "explanation": "The Qutub Minar was named after the Sufi saint Khwaja Qutb-ud-din Bakhtiyar Kaki. Its construction was started by Qutb-ud-din Aibak and completed by Iltutmish.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mcq003",
+      "question": "Who is considered the real founder of the Delhi Sultanate?",
+      "options": ["A) Qutb-ud-din Aibak", "B) Muhammad Ghori", "C) Shams-ud-din Iltutmish", "D) Ghiyas-ud-din Balban"],
+      "correct_answer": "C) Shams-ud-din Iltutmish",
+      "explanation": "Although Aibak laid the foundation, Iltutmish is considered the real founder of the Delhi Sultanate. He shifted the capital from Lahore to Delhi, consolidated the empire, introduced the iqta system, silver tanka and copper jital coins.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mcq004",
+      "question": "Which of the following coins was first introduced by Iltutmish?",
+      "options": ["A) Gold mohur", "B) Copper jittal only", "C) Silver tanka and copper jital", "D) Iron dam"],
+      "correct_answer": "C) Silver tanka and copper jital",
+      "explanation": "Iltutmish was the first Muslim king to introduce the silver tanka and copper jital coins. He was also the first to introduce the 'Pure Arabic Coin' in India.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mcq005",
+      "question": "What was the Chahalgani?",
+      "options": ["A) Balban's military department", "B) Iltutmish's group of forty faithful slaves", "C) Raziya Sultan's advisory council", "D) Ala-ud-din Khalji's spy network"],
+      "correct_answer": "B) Iltutmish's group of forty faithful slaves",
+      "explanation": "The Chahalgani (also called The Forty) was a group of faithful slaves maintained by Iltutmish. They became very influential in the administration of the Sultanate.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mcq006",
+      "question": "How did Qutb-ud-din Aibak die?",
+      "options": ["A) Killed in battle", "B) Poisoned by nobles", "C) Died while playing polo/chaugan", "D) Died of old age"],
+      "correct_answer": "C) Died while playing polo/chaugan",
+      "explanation": "Qutb-ud-din Aibak died in 1210 while playing polo (also called chaugan). He fell from his horse during the game.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mcq007",
+      "question": "Which practice did Balban introduce to establish the dignity of the Sultan?",
+      "options": ["A) Iqta system", "B) Dagh and huliya", "C) Zaminbosi/Sijda", "D) Market regulations"],
+      "correct_answer": "C) Zaminbosi/Sijda",
+      "explanation": "Balban introduced the practice of Zaminbosi or Sijda, where people had to kneel down and touch the ground before the Sultan. He also propagated the Divine Rights theory.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mcq008",
+      "question": "Who was the primary source of information about Raziya Sultan?",
+      "options": ["A) Ibn Battuta", "B) Amir Khusrau", "C) Minhaj-i-Siraj", "D) Abul Fazl"],
+      "correct_answer": "C) Minhaj-i-Siraj",
+      "explanation": "Minhaj-i-Siraj's work is the primary source of information about Raziya Sultan. She was the first and last Muslim woman to rule over Delhi.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mcq009",
+      "question": "Who founded the Khalji Dynasty?",
+      "options": ["A) Ala-ud-din Khalji", "B) Malik Kafur", "C) Jalal-ud-din Firuz Khalji", "D) Qutb-ud-din Mubarak Shah"],
+      "correct_answer": "C) Jalal-ud-din Firuz Khalji",
+      "explanation": "Jalal-ud-din Firuz Khalji founded the Khalji Dynasty in 1290. He was around 70 years old and was a weak and lenient ruler. He was later murdered by his nephew Ala-ud-din Khalji.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_mcq010",
+      "question": "Ala-ud-din Khalji was the first Sultan to:",
+      "options": ["A) Introduce the silver tanka", "B) Not ask for manshur from the Caliph", "C) Build the Qutub Minar", "D) Shift capital to Daulatabad"],
+      "correct_answer": "B) Not ask for manshur from the Caliph",
+      "explanation": "Ala-ud-din Khalji was the first Sultan who did not ask for manshur (letter of authority) from the Caliph. Instead, he called himself the deputy of the Caliph.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_mcq011",
+      "question": "What were 'Dagh' and 'Huliya' introduced by Ala-ud-din Khalji?",
+      "options": ["A) Types of taxes", "B) Branding of horses and descriptive rolls of soldiers", "C) Names of markets", "D) Types of coins"],
+      "correct_answer": "B) Branding of horses and descriptive rolls of soldiers",
+      "explanation": "Dagh was the system of branding horses and Huliya (or Chehra) was the system of maintaining descriptive rolls of soldiers. These were military reforms introduced by Ala-ud-din Khalji.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_mcq012",
+      "question": "Which of the following was the best creation of Ala-ud-din Khalji?",
+      "options": ["A) Qutub Minar", "B) Siri Fort", "C) Alai Darwaza", "D) Quwwat-ul-Islam mosque"],
+      "correct_answer": "C) Alai Darwaza",
+      "explanation": "The Alai Darwaza, built near the Qutub Minar, was considered the best creation of Ala-ud-din Khalji. He also built Siri Fort and the Palace of One Thousand Pillars.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_mcq013",
+      "question": "Who was the court poet of Ala-ud-din Khalji?",
+      "options": ["A) Ibn Battuta", "B) Minhaj-i-Siraj", "C) Amir Khusrau", "D) Tulsidas"],
+      "correct_answer": "C) Amir Khusrau",
+      "explanation": "Amir Khusrau was the famous court poet during Ala-ud-din Khalji's reign. Ala-ud-din was a great patron of education, literature, and arts.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_mcq014",
+      "question": "What was Ala-ud-din Khalji's revenue rate for the fertile Ganga-Yamuna Doab?",
+      "options": ["A) One-third of the produce", "B) One-fourth of the produce", "C) One-half of the produce", "D) One-tenth of the produce"],
+      "correct_answer": "C) One-half of the produce",
+      "explanation": "Ala-ud-din Khalji fixed the revenue at one-half of the produce for the fertile Ganga-Yamuna Doab region. Other areas paid one-third. His measures were harsh on peasants.",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_mcq015",
+      "question": "The founder of the Tughlaq Dynasty was:",
+      "options": ["A) Muhammad-bin-Tughlaq", "B) Firoz Shah Tughlaq", "C) Ghazi Malik (Ghiyas-ud-din Tughlaq)", "D) Jauna Khan"],
+      "correct_answer": "C) Ghazi Malik (Ghiyas-ud-din Tughlaq)",
+      "explanation": "Ghazi Malik founded the Tughlaq Dynasty in 1320, taking the title Ghiyas-ud-din Tughlaq. He was half-Indian and half-Turkish.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_mcq016",
+      "question": "Muhammad-bin-Tughlaq transferred the capital from Delhi to:",
+      "options": ["A) Agra", "B) Lahore", "C) Daulatabad (Devagiri)", "D) Jaunpur"],
+      "correct_answer": "C) Daulatabad (Devagiri)",
+      "explanation": "In 1327, Muhammad-bin-Tughlaq transferred the capital from Delhi to Devagiri, which he renamed Daulatabad. The scheme failed and he transferred back to Delhi in 1335.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_mcq017",
+      "question": "What token currency did Muhammad-bin-Tughlaq introduce?",
+      "options": ["A) Gold mohur in place of silver tanka", "B) Copper jittal in place of silver tanka", "C) Iron coin in place of gold coin", "D) Bronze coin in place of copper coin"],
+      "correct_answer": "B) Copper jittal in place of silver tanka",
+      "explanation": "Muhammad-bin-Tughlaq introduced copper jittal as token currency in place of silver tanka. People easily forged the copper coins, and he was forced to withdraw the token currency.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_mcq018",
+      "question": "Firoz Shah Tughlaq's land tax (Kharaj) was fixed at what rate?",
+      "options": ["A) One-half of the produce", "B) One-third of the produce", "C) One-fifth of the produce", "D) One-tenth of the produce"],
+      "correct_answer": "D) One-tenth of the produce",
+      "explanation": "Firoz Shah Tughlaq fixed Kharaj (land tax) at one-tenth (1/10) of the produce. This was much lower than the harsh taxes imposed by earlier rulers like Ala-ud-din Khalji.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_mcq019",
+      "question": "Which of the following towns was NOT built by Firoz Shah Tughlaq?",
+      "options": ["A) Jaunpur", "B) Firozabad", "C) Hissar-Firoza", "D) Siri"],
+      "correct_answer": "D) Siri",
+      "explanation": "Siri Fort was built by Ala-ud-din Khalji in 1302, not by Firoz Shah Tughlaq. Firoz Shah built Jaunpur, Firozpur, Firozabad, and Hissar-Firoza.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_mcq020",
+      "question": "Who invaded India in 1398 and left the Sultanate crumbling?",
+      "options": ["A) Genghis Khan", "B) Timur", "C) Babur", "D) Nadir Shah"],
+      "correct_answer": "B) Timur",
+      "explanation": "Timur invaded India in 1398, devastating Delhi and leaving the Sultanate crumbling. By 1412, the Sultanate was confined to a small territory.",
+      "source_section": "Invasion of Timur"
+    },
+    {
+      "id": "ds_mcq021",
+      "question": "Who founded the Sayyid Dynasty?",
+      "options": ["A) Mubarak Shah", "B) Muhammad Shah Sayyid", "C) Khizr Khan", "D) Ala-ud-din Alam Shah"],
+      "correct_answer": "C) Khizr Khan",
+      "explanation": "Khizr Khan founded the Sayyid Dynasty in 1414. He was Timur's viceroy and took the title Rayati-Ala. He was the most competent Sayyid ruler.",
+      "source_section": "The Sayyid Dynasty"
+    },
+    {
+      "id": "ds_mcq022",
+      "question": "Which Lodi ruler moved the capital from Delhi to Agra?",
+      "options": ["A) Bahlul Lodi", "B) Sikandar Lodi", "C) Ibrahim Lodi", "D) Daulat Khan Lodi"],
+      "correct_answer": "B) Sikandar Lodi",
+      "explanation": "Sikandar Lodi moved the capital from Delhi to Agra to better control the eastern territories. His real name was Nizam Khan and he was the greatest Lodi ruler.",
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_mcq023",
+      "question": "Who invited Babur to invade India?",
+      "options": ["A) Ibrahim Lodi himself", "B) Sikandar Lodi", "C) Daulat Khan Lodi of Punjab", "D) Ala-ud-din Alam Shah"],
+      "correct_answer": "C) Daulat Khan Lodi of Punjab",
+      "explanation": "Daulat Khan Lodi, Ibrahim Lodi's uncle and governor of Punjab, invited Babur at Kabul to invade India. This led to the Battle of Panipat in 1526 and the end of the Delhi Sultanate.",
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_mcq024",
+      "question": "Which department was created by Balban for military affairs?",
+      "options": ["A) Diwan-i-Khairat", "B) Diwan-i-Arz", "C) Diwan-i-Khas", "D) Diwan-i-Aam"],
+      "correct_answer": "B) Diwan-i-Arz",
+      "explanation": "Balban created the Diwan-i-Arz for military affairs. This helped him strengthen the army and maintain control over the Sultanate.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_mcq025",
+      "question": "The Vijayanagara kingdom was founded in which year during the Tughlaq period?",
+      "options": ["A) 1327", "B) 1336", "C) 1345", "D) 1351"],
+      "correct_answer": "B) 1336",
+      "explanation": "The Vijayanagara kingdom was founded in 1336, during Muhammad-bin-Tughlaq's reign. The Bahmani kingdom was founded in 1345. Both emerged as revolts against Tughlaq rule weakened.",
+      "source_section": "The Tughlaq Dynasty"
+    }
+  ]
+}

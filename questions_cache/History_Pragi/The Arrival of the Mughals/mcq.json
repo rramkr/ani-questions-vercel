@@ -1,0 +1,205 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "am_mcq001",
+      "question": "Babur was a descendant of which two great rulers?",
+      "options": ["A) Genghis Khan and Alexander", "B) Genghis Khan and Timur", "C) Timur and Mahmud of Ghazni", "D) Genghis Khan and Mahmud of Ghazni"],
+      "correct_answer": "B) Genghis Khan and Timur",
+      "explanation": "Babur was a descendant of Genghis Khan from his mother's side and Timur from his father's side. Because of the lineage of Timur, the Mughals were also referred to as Timurids.",
+      "source_section": "Background"
+    },
+    {
+      "id": "am_mcq002",
+      "question": "At what age did Babur ascend the throne of Farghana?",
+      "options": ["A) Nine", "B) Eleven", "C) Thirteen", "D) Fifteen"],
+      "correct_answer": "B) Eleven",
+      "explanation": "Babur ascended the throne as ruler of Farghana, a small principality in Transoxiana, in 1494 at the age of eleven after the death of his father.",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_mcq003",
+      "question": "Who invited Babur to invade India?",
+      "options": ["A) Rana Sanga and Rana Pratap", "B) Ibrahim Lodi and Sikandar Lodi", "C) Daulat Khan Lodi and Rana Sanga", "D) Bahadur Shah and Sher Shah"],
+      "correct_answer": "C) Daulat Khan Lodi and Rana Sanga",
+      "explanation": "Daulat Khan Lodi (Governor of Punjab) and Rana Sanga (Rajput king of Mewar) both asked Babur to invade India, thinking he would leave after defeating Ibrahim Lodi.",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_mcq004",
+      "question": "Which method of warfare did Babur use in the First Battle of Panipat?",
+      "options": ["A) Guerilla warfare", "B) Rumi (Ottoman) method", "C) Naval warfare", "D) Cavalry-only strategy"],
+      "correct_answer": "B) Rumi (Ottoman) method",
+      "explanation": "Babur applied the Rumi (Ottoman) method of warfare and used artillery and cannons for the first time in India, which gave him a decisive advantage over Ibrahim Lodi.",
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_mcq005",
+      "question": "In which year was the First Battle of Panipat fought?",
+      "options": ["A) 1524", "B) 1525", "C) 1526", "D) 1527"],
+      "correct_answer": "C) 1526",
+      "explanation": "The First Battle of Panipat was fought in 1526 between Babur and Ibrahim Lodi. Ibrahim Lodi was defeated and killed.",
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_mcq006",
+      "question": "The Battle of Khanua was fought between Babur and:",
+      "options": ["A) Ibrahim Lodi", "B) Rana Sanga", "C) Sher Shah", "D) Bahadur Shah"],
+      "correct_answer": "B) Rana Sanga",
+      "explanation": "The Battle of Khanua (1527) was fought between Babur and Rana Sanga of Mewar. Rana Sanga had mustered a large number of Rajput chiefs but was defeated by Babur's superior military tactics.",
+      "source_section": "Battle of Khanua"
+    },
+    {
+      "id": "am_mcq007",
+      "question": "Khanua, where Babur defeated Rana Sanga, was a village near:",
+      "options": ["A) Delhi", "B) Lahore", "C) Agra", "D) Jaipur"],
+      "correct_answer": "C) Agra",
+      "explanation": "Khanua was a village near Agra where the forces of Babur and Rana Sanga met in 1527.",
+      "source_section": "Battle of Khanua"
+    },
+    {
+      "id": "am_mcq008",
+      "question": "The Battle of Chanderi (1528) was fought by Babur against:",
+      "options": ["A) Rana Sanga", "B) Medini Rai", "C) Ibrahim Lodi", "D) Hasan Khan of Mewat"],
+      "correct_answer": "B) Medini Rai",
+      "explanation": "The Battle of Chanderi (1528) was fought by Babur against the Mewar Rajputs led by Medini Rai at Malwa. This victory completely shattered resistance across Rajputana.",
+      "source_section": "Other Conquests"
+    },
+    {
+      "id": "am_mcq009",
+      "question": "What is the name of Babur's autobiography?",
+      "options": ["A) Humayun Nama", "B) Akbarnama", "C) Tuzuk-i-Baburi or Baburnama", "D) Mubayyin"],
+      "correct_answer": "C) Tuzuk-i-Baburi or Baburnama",
+      "explanation": "Babur's autobiography is called Tuzuk-i-Baburi or Baburnama. It is not only a work of history but also a masterpiece of literature. The Mubayyin was his collection of mansavis (a treatise on Muslim law).",
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_mcq010",
+      "question": "What was the Mubayyin written by Babur?",
+      "options": ["A) A collection of poems", "B) An autobiography", "C) A treatise on Muslim law", "D) A book on Indian wildlife"],
+      "correct_answer": "C) A treatise on Muslim law",
+      "explanation": "The Mubayyin was a collection of mansavis written by Babur, which was a treatise on Muslim law. His autobiography was the Tuzuk-i-Baburi or Baburnama.",
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_mcq011",
+      "question": "Humayun succeeded Babur in:",
+      "options": ["A) 1526", "B) 1528", "C) 1530", "D) 1532"],
+      "correct_answer": "C) 1530",
+      "explanation": "Humayun succeeded Babur after his death in 1530. He faced many problems as the newly conquered territories and administrations were not consolidated.",
+      "source_section": "Humayun"
+    },
+    {
+      "id": "am_mcq012",
+      "question": "Which brother of Humayun received Kabul and Kandahar?",
+      "options": ["A) Askari", "B) Hindal", "C) Kamran", "D) Mirza Hakim"],
+      "correct_answer": "C) Kamran",
+      "explanation": "Humayun divided the empire among his brothers. Kamran received Kabul and Kandahar, while Askari got Sambhal and Alwar. His brothers were dissatisfied and wanted the throne of Delhi.",
+      "source_section": "Humayun"
+    },
+    {
+      "id": "am_mcq013",
+      "question": "In which battle did Sher Shah first defeat Humayun?",
+      "options": ["A) Battle of Panipat", "B) Battle of Khanua", "C) Battle of Chausa", "D) Battle of Chanderi"],
+      "correct_answer": "C) Battle of Chausa",
+      "explanation": "The Battle of Chausa (1539) was the first major battle between Sher Shah and Humayun. Sher Shah defeated the Mughal army, and Humayun barely escaped.",
+      "source_section": "Humayun's Battles"
+    },
+    {
+      "id": "am_mcq014",
+      "question": "The Battle of Kannauj (1540) was fought between:",
+      "options": ["A) Babur and Ibrahim Lodi", "B) Humayun and Sher Shah", "C) Humayun and his brothers", "D) Babur and Rana Sanga"],
+      "correct_answer": "B) Humayun and Sher Shah",
+      "explanation": "The Battle of Kannauj (1540) was fought between Humayun and Sher Shah Suri. Humayun lost and became an exile for fifteen years.",
+      "source_section": "Humayun's Battles"
+    },
+    {
+      "id": "am_mcq015",
+      "question": "How did Humayun die?",
+      "options": ["A) Killed in battle", "B) Poisoned by his brothers", "C) Fall from the staircase of his library", "D) Died of illness"],
+      "correct_answer": "C) Fall from the staircase of his library",
+      "explanation": "After re-establishing the Mughal dynasty in 1555, Humayun died in 1556 due to a fall from the staircase of his library, just six months after his return to power.",
+      "source_section": "Humayun's Return"
+    },
+    {
+      "id": "am_mcq016",
+      "question": "In which year did Humayun re-establish the Mughal dynasty?",
+      "options": ["A) 1545", "B) 1550", "C) 1555", "D) 1556"],
+      "correct_answer": "C) 1555",
+      "explanation": "In 1555, Humayun defeated the weak successors of Sher Shah and re-established the Mughal dynasty. He died the following year in 1556.",
+      "source_section": "Humayun's Return"
+    },
+    {
+      "id": "am_mcq017",
+      "question": "What was Sher Shah's real name?",
+      "options": ["A) Hasan Khan", "B) Farid Khan", "C) Islam Khan", "D) Adil Khan"],
+      "correct_answer": "B) Farid Khan",
+      "explanation": "Sher Shah's real name was Farid Khan. He was popularly known as Sher Khan and later assumed the title of Sher Shah after defeating Humayun in 1540.",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_mcq018",
+      "question": "Sher Shah died while besieging the fort of:",
+      "options": ["A) Chunar", "B) Ranthambhore", "C) Kalinjar", "D) Agra"],
+      "correct_answer": "C) Kalinjar",
+      "explanation": "Sher Shah died in 1545 while besieging the fort of Kalinjar in an accidental blast of gun powder.",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_mcq019",
+      "question": "Sher Shah divided his empire into how many sarkars?",
+      "options": ["A) 37", "B) 42", "C) 47", "D) 52"],
+      "correct_answer": "C) 47",
+      "explanation": "Sher Shah divided his empire into 47 units called sarkars. Each sarkar was further subdivided into parganas.",
+      "source_section": "Provincial Administration"
+    },
+    {
+      "id": "am_mcq020",
+      "question": "What was the state's share of the produce under Sher Shah's land revenue system?",
+      "options": ["A) One-fourth", "B) One-third", "C) One-half", "D) Two-thirds"],
+      "correct_answer": "B) One-third",
+      "explanation": "Under Sher Shah's land revenue system, the state's share was one-third of the produce. Peasants could pay in cash or kind.",
+      "source_section": "Land Revenue System"
+    },
+    {
+      "id": "am_mcq021",
+      "question": "The Grand Trunk Road built by Sher Shah connected:",
+      "options": ["A) Delhi to Agra", "B) Sonargoan in Bengal to Peshawar", "C) Lahore to Kabul", "D) Chittor to Mandu"],
+      "correct_answer": "B) Sonargoan in Bengal to Peshawar",
+      "explanation": "The most notable road constructed by Sher Shah was the Grand Trunk Road, which ran from Sonargoan in Bengal to Peshawar in the North-Western frontier (now Pakistan).",
+      "source_section": "Transport and Communication"
+    },
+    {
+      "id": "am_mcq022",
+      "question": "What was the name of the silver coin introduced by Sher Shah?",
+      "options": ["A) Tanka", "B) Mohur", "C) Rupia", "D) Dam"],
+      "correct_answer": "C) Rupia",
+      "explanation": "Sher Shah's greatest contribution was the introduction of the silver rupia of standard weight, which was used for centuries after his time. Gold coins were called mohurs and copper coins were called dams.",
+      "source_section": "Trade and Commerce"
+    },
+    {
+      "id": "am_mcq023",
+      "question": "The paper on which the amount of land revenue to be paid by peasants was recorded was called:",
+      "options": ["A) Farman", "B) Patta", "C) Qabuliyat", "D) Dastoor"],
+      "correct_answer": "B) Patta",
+      "explanation": "The amount of land revenue was recorded in a paper called 'Patta'. No one could charge the peasants more than what was recorded in the Patta.",
+      "source_section": "Land Revenue System"
+    },
+    {
+      "id": "am_mcq024",
+      "question": "Who authored the Humayun Nama?",
+      "options": ["A) Humayun himself", "B) Babur", "C) Gulbadan Banu Begum", "D) Sher Shah"],
+      "correct_answer": "C) Gulbadan Banu Begum",
+      "explanation": "Gulbadan Banu Begum, Humayun's sister, authored the Humayun Nama. It was about the everyday life of the royal family, women, the emperor's travels, and a rare pilgrimage to Mecca.",
+      "source_section": "Humayun"
+    },
+    {
+      "id": "am_mcq025",
+      "question": "Which city did Sher Shah build on the banks of the river Yamuna near Delhi?",
+      "options": ["A) Fatehpur Sikri", "B) Purana Qila", "C) Shahjahanabad", "D) Tughlaqabad"],
+      "correct_answer": "B) Purana Qila",
+      "explanation": "Sher Shah constructed a new city on the banks of the river Yamuna near Delhi, which included the old fort Purana Qila with five mosques.",
+      "source_section": "Transport and Communication"
+    }
+  ]
+}

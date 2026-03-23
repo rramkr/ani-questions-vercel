@@ -1,0 +1,110 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "ak_sa001",
+      "question": "Describe the early life of Akbar and the circumstances of his accession to the throne.",
+      "answer": "Humayun married Hamida Banu Begum while in exile in Sind and Rajasthan, and in 1542 their son Jalaluddin Muhammad Akbar was born in Amarkot Fort in present-day Sind. Young Akbar was brought up by his paternal uncle Kamran. When Humayun died suddenly, Akbar was at Kalanaur in Punjab and was forced to succeed at just 13 years of age. His coronation took place there in 1556, and Bairam Khan, Humayun's favourite, became his regent.",
+      "keywords": ["1542", "Amarkot Fort", "Kamran", "Kalanaur", "age 13", "1556", "Bairam Khan"],
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_sa002",
+      "question": "What problems did Akbar face when he became emperor?",
+      "answer": "When Akbar became emperor at age 13, the Mughal empire was unstable due to the sudden death of Humayun. The Afghans, particularly Adil Shah (Sher Shah's nephew) and his general Hemu, were posing serious threats and had seized Delhi and Agra. The Rajputs wanted to eradicate the Mughal empire. Additionally, Mirza Hakim, Akbar's half-brother, had revolted from Kabul and was ruling independently.",
+      "keywords": ["unstable empire", "Afghans", "Adil Shah", "Hemu", "Rajputs", "Mirza Hakim", "Kabul"],
+      "source_section": "Problems Before Akbar"
+    },
+    {
+      "id": "ak_sa003",
+      "question": "Describe the Second Battle of Panipat and its significance.",
+      "answer": "The Second Battle of Panipat was fought on 5 November 1556 between the Mughal forces under Akbar and Bairam Khan, and the Afghan forces under Hemu, the general of Adil Shah. Hemu had seized Delhi and Agra, and his army outnumbered the Mughals with more cavalry and elephants. During the battle, Hemu was struck by an arrow in his eye and rendered unconscious, causing his army to panic and retreat. This resulted in a complete Mughal victory, helping them regain supremacy over Delhi and Agra.",
+      "keywords": ["5 November 1556", "Bairam Khan", "Hemu", "Adil Shah", "arrow in eye", "complete victory", "Delhi and Agra"],
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "ak_sa004",
+      "question": "Who was Bairam Khan? Why was he removed from his position?",
+      "answer": "Bairam Khan was Humayun's favourite and confidant who served as regent of Akbar from 1556 to 1560 with the title Khan-i-Khanan. His major achievement was the defeat of Hemu in the Second Battle of Panipat. However, he became arrogant and started appointing his favourite nobles to important positions. A group of nobles opposed him. When Akbar turned 18, he removed Bairam Khan and asked him to go to Mecca. Bairam Khan was killed by an Afghan near Ahmedabad.",
+      "keywords": ["regent", "Khan-i-Khanan", "1556-1560", "arrogant", "nobles opposed", "age 18", "Mecca", "killed near Ahmedabad"],
+      "source_section": "End of Bairam Khan's Regency"
+    },
+    {
+      "id": "ak_sa005",
+      "question": "Explain Akbar's policy towards the Rajputs.",
+      "answer": "Akbar showed great reverence towards the Rajputs and adopted a policy of friendship. He formed matrimonial alliances, beginning with Raja Bharmal of Amber who was the first to enter such an alliance. He inducted Rajputs into Mughal service and offered them high administrative posts. Raja Birbal and Raja Man Singh were his most trusted Rajput officials. By 1570, almost the whole of Rajasthan was under his control without hostility, as he never interfered in the internal matters of the Rajputs.",
+      "keywords": ["matrimonial alliances", "Raja Bharmal", "Amber", "high posts", "Raja Birbal", "Raja Man Singh", "no interference"],
+      "source_section": "Relations with the Rajputs"
+    },
+    {
+      "id": "ak_sa006",
+      "question": "Describe the Battle of Haldighati and its outcome.",
+      "answer": "The Battle of Haldighati was fought on 18 June 1576 between the armies of Maharana Pratap of Mewar and the Mughal forces led by Man Singh I of Amber. The battle was fought because Maharana Pratap refused to accept Mughal authority after his father Udai Singh was defeated. Maharana Pratap was defeated and took shelter in a mountain fortress. A large number of Rajput soldiers were killed. However, resistance from Mewar continued, and in 1597 Maharana Pratap took back part of his dominion.",
+      "keywords": ["18 June 1576", "Maharana Pratap", "Man Singh I", "Mewar", "defeated", "mountain fortress", "1597"],
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "ak_sa007",
+      "question": "Explain the Mansabdari system introduced by Akbar.",
+      "answer": "The Mansabdari system was Akbar's army administration where every officer was a Mansabdar ('mansab' meaning office or rank). Each rank was denoted by two numbers: Zat (personal rank) and Sawar (size of cavalry contingent). Zat ranks ranged from 10 to 10,000, with above 50,000 reserved for princes. Mansabdars were given handsome jagirs and were the highest paid officers. Crucially, the rank was NOT hereditary - after a mansabdar's death, the jagir reverted to the emperor.",
+      "keywords": ["Mansabdar", "Zat", "Sawar", "10 to 10000", "jagirs", "not hereditary", "reverted to emperor"],
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "ak_sa008",
+      "question": "Describe the provincial administration under Akbar.",
+      "answer": "Akbar divided his empire into twelve provinces or subas, which later grew to twenty. Each suba was governed by a Subedar (provincial governor) directly appointed by the Emperor. Subas were further divided into sarkars (districts), then parganas (groups of villages), with the village as the lowest unit under a panchayat. A representative called Sadr handled welfare, religious, and judicial matters at the provincial level. The Kotwal was responsible for town administration, police, and civil duties.",
+      "keywords": ["twelve subas", "twenty", "Subedar", "sarkars", "parganas", "panchayat", "Sadr", "Kotwal"],
+      "source_section": "Provincial Administration"
+    },
+    {
+      "id": "ak_sa009",
+      "question": "What was Din-i-Ilahi? Describe its main features.",
+      "answer": "Din-i-Ilahi (religion of one God) was a religious path suggested by Akbar after discussions with scholars of various faiths. It was not a new religion but was like a Sufi order. Under Din-i-Ilahi, Akbar became the spiritual guide. It discouraged killing of animals and advised stopping meat consumption for some days. It disapproved of Sati and introduced worship of Sun and Fire in rituals. Akbar did not force anyone to follow it - even Raja Man Singh refused, while only Raja Birbal accepted it.",
+      "keywords": ["religion of one God", "Sufi order", "spiritual guide", "no killing animals", "disapproved Sati", "Sun and Fire", "not forced"],
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ak_sa010",
+      "question": "Describe Akbar's revenue administration under Raja Todar Mal.",
+      "answer": "Raja Todar Mal was in charge of land revenue and assessment. The revenue system was called dahsaal or zabti system. Todar Mal introduced bamboo sticks called jarib with iron rings for land measurement, replacing ropes that changed in wet and dry conditions. Land was classified into four categories: Polaj (cultivated), Parauti (fallow), Chachar (not cultivated 3-5 years), and Banjar (not cultivated 5+ years). The dahsaal system (introduced in 1580) fixed revenue based on the average produce and prices of the last 10 years.",
+      "keywords": ["Raja Todar Mal", "dahsaal/zabti", "jarib", "Polaj", "Parauti", "Chachar", "Banjar", "1580", "10-year average"],
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_sa011",
+      "question": "Describe the architecture during Akbar's reign, with special reference to Fatehpur Sikri.",
+      "answer": "Akbar built Fatehpur Sikri near Agra as his new capital, selecting the site because the Sufi saint Salim Chisti lived there. The city was surrounded by walls on three sides with an artificial lake on the fourth. The architecture blended Muslim and Hindu elements - Islamic arches alongside Hindu pillars - using red sandstone with white marble insertions. Important buildings included the Diwan-i-Khas, Panch Mahal, Jodha Bai's Palace, Jama Masjid, and the Buland Darwaza (highest gateway in India, commemorating Gujarat victory).",
+      "keywords": ["Fatehpur Sikri", "Salim Chisti", "red sandstone", "white marble", "Islamic and Hindu", "Buland Darwaza", "Gujarat victory"],
+      "source_section": "Architecture"
+    },
+    {
+      "id": "ak_sa012",
+      "question": "Who were the Navratnas of Akbar's court? Name all nine.",
+      "answer": "The Navratnas (Nine Gems) were nine eminent people in Akbar's court. They were: (1) Raja Birbal - Akbar's constant companion, (2) Miyan Tansen - famous musician and singer, (3) Abul Fazl - author of Akbarnama, (4) Faizi - Persian poet, (5) Raja Man Singh - trusted military commander, (6) Raja Todar Mal - in charge of revenue, (7) Mulla Do Piazza - courtier, (8) Fakir Aziao-Din - religious scholar, and (9) Abdul Rahim Khan-i-Khana - son of Bairam Khan.",
+      "keywords": ["Birbal", "Tansen", "Abul Fazl", "Faizi", "Man Singh", "Todar Mal", "Mulla Do Piazza", "Fakir Aziao-Din", "Rahim"],
+      "source_section": "Navratnas"
+    },
+    {
+      "id": "ak_sa013",
+      "question": "Write about music during Akbar's reign.",
+      "answer": "Music flourished greatly under Akbar's patronage. He had 36 musicians in his court. The most famous was Tansen, who was a renowned musician and singer and one of the Navratnas. Tansen composed many Hindustani ragas, with Raag Darbari and Deepak Raag being the most famous. He also introduced features of Persian music into Indian music, creating a unique fusion that enriched the musical traditions of the period.",
+      "keywords": ["36 musicians", "Tansen", "Raag Darbari", "Deepak Raag", "Persian music", "Indian music"],
+      "source_section": "Music"
+    },
+    {
+      "id": "ak_sa014",
+      "question": "What social reforms did Akbar introduce?",
+      "answer": "Akbar was a progressive ruler who introduced several important social reforms. He prohibited the practice of Sati (self-immolation of widows). He legalised widow remarriage. He discouraged child marriage and raised the minimum marriage age to 14 for girls and 16 for boys. He also abolished the system of enslaving wives and children of conquered kingdoms, showing his concern for human rights and dignity.",
+      "keywords": ["prohibited Sati", "widow remarriage", "child marriage", "14 for girls", "16 for boys", "abolished enslaving"],
+      "source_section": "Social Reforms"
+    },
+    {
+      "id": "ak_sa015",
+      "question": "Describe the painting style that developed during Akbar's reign.",
+      "answer": "During Akbar's reign, a large number of painters worked under royal patronage. A new style of painting emerged that was a mixture of Indian and Persian styles. The distinctive feature of this new style was the use of red and blue colours. Miniature painting became particularly popular. Akbar established many karkhanas (workshops) for painters and commissioned around 250 paintings in the latter part of the 16th century. Jaswant and Daswana were two famous painters of this period.",
+      "keywords": ["Indian and Persian mixture", "red and blue", "miniature painting", "karkhanas", "250 paintings", "Jaswant", "Daswana"],
+      "source_section": "Painting"
+    }
+  ]
+}

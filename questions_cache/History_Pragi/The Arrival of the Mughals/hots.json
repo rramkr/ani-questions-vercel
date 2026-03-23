@@ -1,0 +1,87 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "am_hots001",
+      "question": "Sher Shah took many steps for the welfare of people. Give some examples to justify this statement.",
+      "context": "Evaluating welfare policies",
+      "answer": "Sher Shah was an able ruler who genuinely cared about the welfare of his subjects. He constructed important roads including the Grand Trunk Road from Sonargoan in Bengal to Peshawar, with trees planted on both sides and sarais (rest houses) for travellers. His land revenue system was fair, with the state's share being one-third of produce, recorded in a Patta to prevent overcharging. During famines, advances were made to peasants. He abolished most trade duties to promote commerce, introduced uniform weights and measures, and standardized coins. His provincial administration ensured justice through regular transfer of officers. He showed religious tolerance and his overall reforms benefited common people greatly.",
+      "key_points": [
+        "Grand Trunk Road with trees, wells, and sarais for travellers",
+        "Fair land revenue system with Patta to prevent overcharging",
+        "Relief during famines and calamities, advances to peasants",
+        "Abolished most trade duties to promote commerce",
+        "Uniform weights, measures, and standardized coins",
+        "Religious tolerance and welfare measures for common people",
+        "Transfer of officers every 2-3 years to prevent corruption"
+      ],
+      "keywords": ["Grand Trunk Road", "Patta", "land revenue", "sarais", "welfare", "religious tolerance"],
+      "source_section": "Sher Shah's Reforms"
+    },
+    {
+      "id": "am_hots002",
+      "question": "Why do you think Babur's decision to stay in India after the Battle of Panipat was a turning point in Indian history?",
+      "context": "Analyzing historical turning points",
+      "answer": "Babur's decision to stay in India after Panipat was a turning point because it led to the establishment of the Mughal Empire, which would go on to rule India for over 300 years. If Babur had returned to Central Asia as his nobles wished, and as Daulat Khan Lodi and Rana Sanga expected, the political landscape of India would have been entirely different. By staying, Babur consolidated his position through victories at Khanua, Chanderi, and Ghaghara, weakening both Rajput and Afghan resistance. This created the foundation for one of the largest and most influential empires in Indian history, which contributed significantly to Indian art, architecture, administration, and culture.",
+      "key_points": [
+        "Led to establishment of the Mughal Empire lasting over 300 years",
+        "Nobles wanted to return to Central Asia but Babur convinced them to stay",
+        "Daulat Khan Lodi and Rana Sanga expected Babur to leave after Panipat",
+        "Subsequent victories at Khanua, Chanderi, and Ghaghara consolidated Mughal power",
+        "Weakened both Rajput and Afghan resistance",
+        "Foundation for one of India's most influential empires"
+      ],
+      "keywords": ["turning point", "Mughal Empire", "consolidation", "Khanua", "Chanderi", "300 years"],
+      "source_section": "Babur's Consolidation"
+    },
+    {
+      "id": "am_hots003",
+      "question": "Compare the military skills of Babur and Humayun. Why do you think Humayun failed where Babur succeeded?",
+      "context": "Comparative analysis of rulers",
+      "answer": "Babur was an able military commander who won decisive battles through superior tactics, the Rumi method of warfare, and innovative use of artillery. He commanded the respect of his nobility and could convince reluctant nobles to stay in India. Humayun, on the other hand, was described as kind and generous but not a good general or warrior. He did not command the respect of the Mughal nobility, and the Chaghatai nobles were not favourably inclined towards him. Humayun also faced the additional problem of disloyal brothers who wanted his throne. While Babur dealt with external threats through military genius, Humayun was overwhelmed by both internal family conflicts and external enemies like Sher Shah, who was himself a brilliant military strategist.",
+      "key_points": [
+        "Babur was an able military commander; Humayun was not a good general",
+        "Babur commanded respect of nobility; Humayun did not",
+        "Babur used innovative Rumi method and artillery; Humayun lacked tactical innovation",
+        "Humayun faced disloyal brothers competing for the throne",
+        "Sher Shah was a brilliant strategist who outmatched Humayun",
+        "Babur could inspire and convince his reluctant followers"
+      ],
+      "keywords": ["military skills", "Rumi method", "nobility respect", "brothers rivalry", "Sher Shah"],
+      "source_section": "Babur and Humayun"
+    },
+    {
+      "id": "am_hots004",
+      "question": "Do you think Sher Shah deserves to be called one of the greatest administrators of medieval India? Justify your answer.",
+      "context": "Evaluating historical legacy",
+      "answer": "Yes, Sher Shah deserves to be called one of the greatest administrators of medieval India. Despite ruling for only about five years (1540-1545), his reforms had a lasting impact. His provincial administration with 47 sarkars, regular transfer of officers, and village-level governance through Panchayats was well-organized. His land revenue system was so efficient that even the great Mughal emperor Akbar later adopted it. His military reforms including the Dagh system and personal recruitment ensured a disciplined army. The Grand Trunk Road and network of sarais transformed trade and communication. His standardized currency (silver rupia, gold mohurs, copper dams) and uniform weights and measures facilitated commerce. These achievements in such a short reign demonstrate extraordinary administrative ability.",
+      "key_points": [
+        "Ruled only about five years but left lasting reforms",
+        "Land revenue system adopted by Akbar himself",
+        "47 sarkars with efficient provincial administration",
+        "Grand Trunk Road transformed trade and communication",
+        "Standardized currency used for centuries",
+        "Military reforms including Dagh system",
+        "Short reign makes his achievements even more remarkable"
+      ],
+      "keywords": ["greatest administrator", "short reign", "lasting impact", "Akbar adopted", "Grand Trunk Road", "silver rupia"],
+      "source_section": "Sher Shah's Legacy"
+    },
+    {
+      "id": "am_hots005",
+      "question": "How did the use of artillery and cannons by Babur change the nature of warfare in India?",
+      "context": "Analyzing military technology impact",
+      "answer": "The use of artillery and cannons by Babur fundamentally changed the nature of warfare in India. Before Babur, Indian armies relied primarily on cavalry, war elephants, and infantry with traditional weapons. Babur's use of the Rumi (Ottoman) method of warfare with gunpowder weapons gave him a decisive advantage at Panipat despite having fewer soldiers. The loud noise of cannons terrified the enemy's horses and elephants, creating chaos in their ranks. This demonstrated that a smaller but technologically superior force could defeat a much larger traditional army. After Babur's introduction of artillery, subsequent rulers in India also had to adopt gunpowder weapons, making them a standard part of military forces. This shift from reliance on numbers to reliance on technology and tactics marked a new era in Indian military history.",
+      "key_points": [
+        "Before Babur, Indian armies relied on cavalry, elephants, and traditional weapons",
+        "Rumi (Ottoman) method introduced gunpowder warfare to India",
+        "Smaller force could defeat larger army with superior technology",
+        "Cannon noise terrified enemy horses and elephants",
+        "Subsequent rulers had to adopt gunpowder weapons",
+        "Marked shift from reliance on numbers to technology and tactics"
+      ],
+      "keywords": ["artillery", "cannons", "Rumi method", "gunpowder", "military technology", "warfare transformation"],
+      "source_section": "First Battle of Panipat"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "long_answer",
+  "questions": [
+    {
+      "id": "la001",
+      "question": "Describe the molecular model of the three states of matter — solids, liquids, and gases.",
+      "answer": "In solids, molecules are closely packed together in fixed positions with very little inter-molecular space between them. The inter-molecular forces of attraction are very strong, so the molecules can only vibrate about their fixed positions. This is why solids have a definite shape and a definite volume and are rigid. In liquids, molecules are less closely packed than in solids, with moderate inter-molecular spaces. The forces of attraction are weaker than in solids, allowing molecules to move around within the boundary of the vessel. This is why liquids have a definite volume but take the shape of the container, and can flow. In gases, molecules are wide apart from each other with very large inter-molecular spaces. The forces of attraction are very weak, so molecules move freely in all directions at high speeds. This is why gases have neither a definite shape nor a definite volume, and they fill the entire container they are placed in. Thus, the three states of matter differ fundamentally in their inter-molecular spacing, the strength of inter-molecular forces, and the kinetic energy of their molecules.",
+      "source_section": "States of Matter"
+    },
+    {
+      "id": "la002",
+      "question": "Explain the complete cycle of change of state of water, naming all the processes involved.",
+      "answer": "Water can exist in all three states — solid (ice), liquid (water), and gas (steam) — and can change from one state to another through various processes. When ice is heated, it absorbs heat and undergoes melting (or fusion) at 0 degrees Celsius to become liquid water. When liquid water is further heated, it absorbs heat and undergoes boiling (or vaporization) at 100 degrees Celsius to become steam. In the reverse direction, when steam is cooled, it releases heat and undergoes condensation at 100 degrees Celsius to become liquid water. When liquid water is further cooled, it releases heat and undergoes freezing at 0 degrees Celsius to become ice again. In some special cases, a solid can directly change to a gas through sublimation by absorbing heat, and a gas can directly change to a solid through deposition by releasing heat. During all these changes of state, the temperature remains constant, and the heat involved is called latent heat, which changes the potential energy of the molecules without changing their kinetic energy.",
+      "source_section": "Change of State"
+    },
+    {
+      "id": "la003",
+      "question": "Explain the process of melting at the molecular level. Why does the temperature remain constant during melting?",
+      "answer": "When a solid is heated, the heat energy supplied increases the kinetic energy of its molecules. The molecules begin to vibrate more and more vigorously about their fixed positions. As the temperature rises and reaches the melting point, the kinetic energy of the molecules becomes large enough to overcome the strong inter-molecular forces of attraction holding them in their fixed positions. At this point, the molecules begin to separate from their fixed positions and become free to move around, and the solid starts changing into a liquid. During this process, the temperature remains constant even though heat is continuously being supplied. This is because the heat energy is not being used to increase the kinetic energy of the molecules, but is instead used to overcome the inter-molecular forces and increase the separation between molecules. In other words, the heat increases the potential energy of the molecules rather than their kinetic energy, so the temperature does not rise. This heat is called the latent heat of fusion.",
+      "source_section": "Melting — Molecular Explanation"
+    },
+    {
+      "id": "la004",
+      "question": "Explain the process of boiling. How does pressure affect the boiling point of a liquid? Describe the principle of a pressure cooker.",
+      "answer": "Boiling, also called vaporization, is the rapid process by which a liquid changes into a gas at a fixed temperature called the boiling point. During boiling, bubbles of vapour form throughout the liquid and rise to the surface, unlike evaporation which occurs only from the surface. The boiling point of water is 100 degrees Celsius at normal atmospheric pressure. The boiling point of a liquid is affected by pressure — when pressure increases, the boiling point also increases, and when pressure decreases, the boiling point decreases. This is the principle behind the pressure cooker. Inside a pressure cooker, the steam cannot escape easily, which increases the pressure above the liquid. This raised pressure increases the boiling point of water to above 100 degrees Celsius, so the food cooks at a higher temperature and therefore cooks faster. Conversely, at high altitudes like mountains where atmospheric pressure is lower, water boils at a temperature lower than 100 degrees Celsius, making it difficult to cook food properly. The boiling point of a liquid also increases when impurities are added to it.",
+      "source_section": "Boiling and Effect of Pressure"
+    },
+    {
+      "id": "la005",
+      "question": "What is evaporation? Describe the five factors that affect the rate of evaporation.",
+      "answer": "Evaporation is the slow process by which a liquid changes into a gas from its surface at all temperatures, not just at the boiling point. The rate of evaporation depends on five factors. First, temperature — the higher the temperature, the faster the rate of evaporation, because more molecules gain enough kinetic energy to escape from the surface. Second, surface area — the larger the surface area of the liquid, the faster the evaporation, because more molecules are exposed at the surface. This is why tea poured into a saucer cools faster than in a cup. Third, the nature of the liquid — volatile liquids like alcohol and ether evaporate much faster than non-volatile liquids because their molecules have weaker inter-molecular forces and lower boiling points. Fourth, wind or air flow — blowing air over the surface carries away the evaporated molecules and allows more molecules to escape, increasing the rate of evaporation. This is why wet clothes dry faster on a windy day. Fifth, humidity — when the air is dry, evaporation is faster, but when the air is already humid (full of moisture), evaporation slows down because the air cannot hold much more vapour.",
+      "source_section": "Evaporation and Factors"
+    },
+    {
+      "id": "la006",
+      "question": "Explain how evaporation causes cooling. Give four applications of the cooling effect of evaporation.",
+      "answer": "Evaporation causes cooling because when a liquid evaporates, the molecules at the surface absorb heat energy from the surroundings to gain enough kinetic energy to escape into the air as vapour. This absorption of heat from the surroundings causes the temperature of the surroundings to decrease, producing a cooling effect. There are several practical applications of this principle. First, earthen pots (matkas) are used to keep water cool — water seeps through the tiny pores of the pot to the outer surface, where it evaporates and absorbs heat from the water inside, making it cooler. Second, when a person has fever, a wet cloth is placed on the forehead — the water in the cloth evaporates and absorbs heat from the body, helping to reduce the body temperature. Third, tea poured into a saucer cools faster than in a cup because the saucer provides a larger surface area for evaporation. Fourth, sweating helps maintain our body temperature at 37 degrees Celsius (98.6 degrees Fahrenheit) — when we feel hot, our body produces sweat, which evaporates from the skin and absorbs heat, cooling the body down.",
+      "source_section": "Evaporation — Cooling Effect and Applications"
+    },
+    {
+      "id": "la007",
+      "question": "What is sublimation? Explain with examples why certain solids undergo sublimation instead of melting.",
+      "answer": "Sublimation is the process by which a solid directly changes into a gas without passing through the liquid state, by absorbing heat. The reverse process, where a gas directly changes into a solid by releasing heat, is called deposition. Common examples of substances that sublime include camphor, ammonium chloride, iodine, naphthalene (used in moth balls), and dry ice (solid carbon dioxide). The reason certain solids undergo sublimation is that the inter-molecular forces of attraction in these substances are very weak. When these solids are heated, their molecules quickly acquire enough kinetic energy to completely overcome the weak inter-molecular forces and escape directly into the gaseous state, without needing to first pass through the liquid state. A common everyday example is that naphthalene moth balls kept in wardrobes gradually decrease in size and eventually disappear because they sublime directly into vapour. Similarly, camphor placed in a room slowly disappears due to sublimation. During sublimation, heat is absorbed by the substance, and this heat changes the potential energy of the molecules.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "la008",
+      "question": "Compare evaporation and boiling on the basis of temperature, speed, location in the liquid, and effect on surroundings.",
+      "answer": "Evaporation and boiling are both processes by which a liquid changes into a gas, but they differ significantly in several ways. In terms of temperature, evaporation occurs at all temperatures below the boiling point, while boiling occurs only at a fixed temperature called the boiling point, which is specific to each liquid (for example, 100 degrees Celsius for water). In terms of speed, evaporation is a slow process that happens gradually over time, whereas boiling is a rapid process that converts large amounts of liquid to gas quickly. In terms of location within the liquid, evaporation takes place only from the surface of the liquid where molecules can escape into the air, while boiling occurs throughout the entire volume of the liquid with bubbles of vapour forming at all levels and rising to the surface. In terms of the effect on surroundings, evaporation causes cooling of the surroundings because the escaping molecules absorb heat from the surrounding material, while during boiling the temperature of the surroundings remains more or less constant as the liquid is being heated from an external source. These differences make evaporation a natural, everyday phenomenon while boiling requires a specific amount of heat to be supplied to the liquid.",
+      "source_section": "Evaporation vs Boiling"
+    }
+  ]
+}

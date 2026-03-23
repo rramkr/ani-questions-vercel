@@ -1,0 +1,11 @@
+{
+  "subject": "8C Physics",
+  "chapters": [
+    {
+      "name": "Matter",
+      "slug": "Matter",
+      "has_questions": true,
+      "icon": "🧊"
+    }
+  ]
+}

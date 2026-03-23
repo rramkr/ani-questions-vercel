@@ -1,0 +1,95 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "ds_ntf001",
+      "question": "The title given to Qutb-ud-din Aibak meaning 'giver of lakhs'.",
+      "answer": "Lakh Baksh",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ntf002",
+      "question": "The mosque started by Qutb-ud-din Aibak in Delhi.",
+      "answer": "Quwwat-ul-Islam mosque",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ntf003",
+      "question": "The Sufi saint after whom the Qutub Minar was named.",
+      "answer": "Khwaja Qutb-ud-din Bakhtiyar Kaki",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ntf004",
+      "question": "The group of forty faithful slaves maintained by Iltutmish.",
+      "answer": "Chahalgani (The Forty)",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ntf005",
+      "question": "The historian who is the primary source of information about Raziya Sultan.",
+      "answer": "Minhaj-i-Siraj",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ntf006",
+      "question": "The practice introduced by Balban where people had to kneel and touch the ground before the Sultan.",
+      "answer": "Zaminbosi/Sijda",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ntf007",
+      "question": "The military department created by Balban.",
+      "answer": "Diwan-i-Arz",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_ntf008",
+      "question": "The system of branding horses introduced by Ala-ud-din Khalji.",
+      "answer": "Dagh",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_ntf009",
+      "question": "The court poet during Ala-ud-din Khalji's reign.",
+      "answer": "Amir Khusrau",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_ntf010",
+      "question": "The gateway near Qutub Minar considered the best creation of Ala-ud-din Khalji.",
+      "answer": "Alai Darwaza",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_ntf011",
+      "question": "The fortified city founded by Ghiyas-ud-din Tughlaq.",
+      "answer": "Tughlaqabad",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_ntf012",
+      "question": "The welfare department established by Firoz Shah Tughlaq for the poor.",
+      "answer": "Diwan-i-Khairat",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_ntf013",
+      "question": "The title taken by Khizr Khan, founder of the Sayyid Dynasty.",
+      "answer": "Rayati-Ala",
+      "source_section": "The Sayyid Dynasty"
+    },
+    {
+      "id": "ds_ntf014",
+      "question": "The real name of Sikandar Lodi.",
+      "answer": "Nizam Khan",
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_ntf015",
+      "question": "The governor of Punjab who invited Babur to invade India.",
+      "answer": "Daulat Khan Lodi",
+      "source_section": "The Lodi Dynasty"
+    }
+  ]
+}

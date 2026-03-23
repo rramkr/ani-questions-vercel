@@ -1,0 +1,180 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "ma_fib001",
+      "question": "Jahangir means '________' in Persian.",
+      "answer": "Conqueror of the World",
+      "explanation": "Prince Salim took the title Jahangir, meaning 'Conqueror of the World' in Persian, after becoming emperor in 1605.",
+      "source_section": "Jahangir"
+    },
+    {
+      "id": "ma_fib002",
+      "question": "Jahangir installed the ________ outside his palace to hear grievances directly.",
+      "answer": "Chain of Justice",
+      "explanation": "Soon after ascending the throne, Jahangir allowed a chain with bells outside his palace so that anyone could ask for justice. This was called the Chain of Justice.",
+      "source_section": "Jahangir"
+    },
+    {
+      "id": "ma_fib003",
+      "question": "Prince Khusrau's rebellion took place in ________ in 1606.",
+      "answer": "Lahore",
+      "explanation": "Prince Khusrau rebelled against his father Jahangir in Lahore in 1606, supported by powerful nobles.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_fib004",
+      "question": "Guru Arjan Dev had given shelter to Prince Khusrau at ________.",
+      "answer": "Taran Taran",
+      "explanation": "The fifth Sikh Guru Arjan Dev gave shelter to Prince Khusrau at Taran Taran and was subsequently executed by Jahangir.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_fib005",
+      "question": "Rana Amar Singh of Mewar was the son of ________.",
+      "answer": "Rana Pratap",
+      "explanation": "Rana Amar Singh, the ruler of Mewar who submitted to the Mughals in 1615, was the son of the famous Rana Pratap.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_fib006",
+      "question": "Kangra Fort surrendered to Jahangir on ________.",
+      "answer": "November 16, 1620",
+      "explanation": "The subjugation of Kangra Fort, which surrendered on November 16, 1620, was one of Jahangir's military achievements.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_fib007",
+      "question": "________ of Persia captured Kandahar from the Mughals in June 1622.",
+      "answer": "Shah Abbas",
+      "explanation": "Shah Abbas of Persia (1587-1629) captured Kandahar in June 1622, dealing a severe blow to Mughal power in Central Asia.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_fib008",
+      "question": "________ was sent by the East India Company to Jahangir's court in 1608.",
+      "answer": "Captain William Hawkins",
+      "explanation": "In 1608, the East India Company sent Captain William Hawkins to Jahangir's court to secure royal patronage for trading.",
+      "source_section": "Arrival of the British"
+    },
+    {
+      "id": "ma_fib009",
+      "question": "The East India Company received its charter from Queen Elizabeth I on ________.",
+      "answer": "December 31, 1600",
+      "explanation": "A group of English merchants formed the East India Company in 1599 and received a royal charter from Queen Elizabeth I on December 31, 1600.",
+      "source_section": "Arrival of the British"
+    },
+    {
+      "id": "ma_fib010",
+      "question": "In 1639, the British obtained a lease of ________ from a local king and built Fort St. George.",
+      "answer": "Madras",
+      "explanation": "In 1639, the East India Company obtained a lease of Madras from the local king and built Fort St. George, which became their headquarters.",
+      "source_section": "Arrival of the British"
+    },
+    {
+      "id": "ma_fib011",
+      "question": "Nur Jahan was the only Mughal ________ who had coins minted with her name.",
+      "answer": "empress",
+      "explanation": "Nur Jahan was the only Mughal empress (not emperor) who had coins minted with her name, an extraordinary distinction.",
+      "source_section": "Role of Nur Jahan"
+    },
+    {
+      "id": "ma_fib012",
+      "question": "Shah Jahan successfully ruled the Mughal Empire for ________ years.",
+      "answer": "30",
+      "explanation": "Shah Jahan successfully ruled the empire for 30 years, during which the Mughal Empire thrived and his reign came to be known as the golden era.",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_fib013",
+      "question": "The Taj Mahal was built in memory of Shah Jahan's wife ________.",
+      "answer": "Mumtaz Mahal",
+      "explanation": "Shah Jahan is best known for the construction of the Taj Mahal in memory of his beloved wife Mumtaz Mahal.",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_fib014",
+      "question": "Shah Jahan's Peacock Throne contained the famous 186-carat ________ diamond.",
+      "answer": "Koh-i-Noor",
+      "explanation": "Shah Jahan commissioned the jewel-encrusted Peacock Throne which contained the famous 186-carat Koh-i-Noor diamond, later taken by the British.",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_fib015",
+      "question": "Aurangzeb assumed the title ________ meaning 'Conqueror of the World'.",
+      "answer": "Alamgir",
+      "explanation": "Aurangzeb took the title Aurangzeb Alamgir, where Alamgir means 'Conqueror of the World'. He ruled for fifty years.",
+      "source_section": "Aurangzeb"
+    },
+    {
+      "id": "ma_fib016",
+      "question": "Aurangzeb defeated Dara's forces at ________ and Samugarh.",
+      "answer": "Dharmat",
+      "explanation": "Aurangzeb defeated Dara Shikoh's forces at Dharmat and Samugarh in 1657 and 1658 during the war of succession.",
+      "source_section": "Aurangzeb"
+    },
+    {
+      "id": "ma_fib017",
+      "question": "The Jats revolted in the ________ region under the leadership of Gokula.",
+      "answer": "Mathura",
+      "explanation": "In 1669-1670, the Jats rose in the Mathura region under the leadership of Gokula against Aurangzeb's policies.",
+      "source_section": "Aurangzeb - Conquests"
+    },
+    {
+      "id": "ma_fib018",
+      "question": "Guru Tegh Bahadur was executed in December 1675 in ________.",
+      "answer": "Chandni Chowk",
+      "explanation": "Guru Tegh Bahadur, the ninth Sikh Guru, was captured, taken to Delhi, asked to embrace Islam, refused, and was executed in December 1675 in Chandni Chowk.",
+      "source_section": "Aurangzeb - War with the Sikhs"
+    },
+    {
+      "id": "ma_fib019",
+      "question": "Aurangzeb spent the last ________ years of his reign in the Deccan.",
+      "answer": "twenty-six",
+      "explanation": "Aurangzeb spent the last twenty-six years of his reign in the Deccan, annexing Bijapur and Golconda and fighting the Marathas.",
+      "source_section": "Aurangzeb - Deccan Campaign"
+    },
+    {
+      "id": "ma_fib020",
+      "question": "Shivaji signed the Treaty of Purandhar in ________.",
+      "answer": "1665",
+      "explanation": "Shivaji was forced to sign the Treaty of Purandhar in 1665 after Raja Jai Singh besieged the fort of Purandhar. He had to surrender 23 of his 35 forts.",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    },
+    {
+      "id": "ma_fib021",
+      "question": "Shivaji managed to escape from the Mughal court and reached ________ in 1666.",
+      "answer": "Raigarh",
+      "explanation": "Shivaji was ill-treated and taken prisoner at the Mughal court in Agra but managed to escape and reach Raigarh in 1666.",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    },
+    {
+      "id": "ma_fib022",
+      "question": "Shah Jahan was called the '________' and the 'Engineer King' for his love of architecture.",
+      "answer": "Prince among Builders",
+      "explanation": "Shah Jahan was called the 'Prince among Builders' and the 'Engineer King' for his exceptional love of architecture.",
+      "source_section": "Cultural Developments - Architecture"
+    },
+    {
+      "id": "ma_fib023",
+      "question": "The construction of the Taj Mahal began in 1632 and was completed by ________.",
+      "answer": "1643",
+      "explanation": "The Taj Mahal, Shah Jahan's grandest project, had its construction begin in 1632 and was completed by 1643.",
+      "source_section": "Cultural Developments - Architecture"
+    },
+    {
+      "id": "ma_fib024",
+      "question": "________ by Khafi Khan covers the history of the Mughal period.",
+      "answer": "Muntakhab-ul-Lubab",
+      "explanation": "Muntakhab-ul-Lubab by Khafi Khan covers the history of the Mughal period and was written during Aurangzeb's reign.",
+      "source_section": "Cultural Developments - Literature"
+    },
+    {
+      "id": "ma_fib025",
+      "question": "The city of ________, now known as Old Delhi, was built by Shah Jahan.",
+      "answer": "Shahjahanabad",
+      "explanation": "Shah Jahan built the city of Shahjahanabad, which is now known as Old Delhi, as one of his many architectural achievements.",
+      "source_section": "Shah Jahan"
+    }
+  ]
+}

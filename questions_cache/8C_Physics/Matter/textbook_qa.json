@@ -1,0 +1,475 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "question": "[Section A.1 - MCQ]\nThe inter-molecular force is maximum in:\n(i) solids\n(ii) gases\n(iii) liquids\n(iv) none of the above",
+      "answer": "(i) solids",
+      "question_type": "mcq_textbook",
+      "options": ["solids", "gases", "liquids", "none of the above"],
+      "source_section": "Test Yourself - Section A.1 MCQ"
+    },
+    {
+      "id": "tqa002",
+      "question": "[Section A.1 - MCQ]\nThe inter-molecular space is maximum in:\n(i) liquids\n(ii) solids\n(iii) gases\n(iv) none of the above",
+      "answer": "(iii) gases",
+      "question_type": "mcq_textbook",
+      "options": ["liquids", "solids", "gases", "none of the above"],
+      "source_section": "Test Yourself - Section A.1 MCQ"
+    },
+    {
+      "id": "tqa003",
+      "question": "[Section A.1 - MCQ]\nThe molecules can move freely anywhere in:\n(i) gases\n(ii) liquids\n(iii) solids\n(iv) none of the above",
+      "answer": "(i) gases",
+      "question_type": "mcq_textbook",
+      "options": ["gases", "liquids", "solids", "none of the above"],
+      "source_section": "Test Yourself - Section A.1 MCQ"
+    },
+    {
+      "id": "tqa004",
+      "question": "[Section A.1 - MCQ]\nThe molecules move only within the boundary in:\n(i) liquids\n(ii) gases\n(iii) solids\n(iv) none of the above",
+      "answer": "(i) liquids",
+      "question_type": "mcq_textbook",
+      "options": ["liquids", "gases", "solids", "none of the above"],
+      "source_section": "Test Yourself - Section A.1 MCQ"
+    },
+    {
+      "id": "tqa005",
+      "question": "[Section A.1 - MCQ]\nThe temperature at which a liquid gets converted into its vapour state is called its:\n(i) melting point\n(ii) boiling point\n(iii) dew point\n(iv) freezing point",
+      "answer": "(ii) boiling point",
+      "question_type": "mcq_textbook",
+      "options": ["melting point", "boiling point", "dew point", "freezing point"],
+      "source_section": "Test Yourself - Section A.1 MCQ"
+    },
+    {
+      "id": "tqa006",
+      "question": "[Section A.1 - MCQ]\nRapid conversion of water into steam is an example of:\n(i) evaporation\n(ii) freezing\n(iii) melting\n(iv) vaporization",
+      "answer": "(iv) vaporization",
+      "question_type": "mcq_textbook",
+      "options": ["evaporation", "freezing", "melting", "vaporization"],
+      "source_section": "Test Yourself - Section A.1 MCQ"
+    },
+    {
+      "id": "tqa007",
+      "question": "[Section A.1 - MCQ]\nEvaporation takes place:\n(i) from the surface of liquid\n(ii) throughout the liquid\n(iii) from the mid-portion of liquid\n(iv) from the bottom of liquid",
+      "answer": "(i) from the surface of liquid",
+      "question_type": "mcq_textbook",
+      "options": ["from the surface of liquid", "throughout the liquid", "from the mid-portion of liquid", "from the bottom of liquid"],
+      "source_section": "Test Yourself - Section A.1 MCQ"
+    },
+    {
+      "id": "tqa008",
+      "question": "[Section A.1 - MCQ]\nBoiling takes place:\n(i) from the surface of liquid\n(ii) throughout the liquid\n(iii) from mid-portion of liquid\n(iv) from none of the above",
+      "answer": "(ii) throughout the liquid",
+      "question_type": "mcq_textbook",
+      "options": ["from the surface of liquid", "throughout the liquid", "from mid-portion of liquid", "from none of the above"],
+      "source_section": "Test Yourself - Section A.1 MCQ"
+    },
+    {
+      "id": "tqa009",
+      "question": "[Section A.1 - MCQ]\nIdentify the correct statement:\n(1) The molecules of water move faster than ice\n(2) The molecules are more closely packed in ice than water\n(3) The molecules of water vibrate to and fro only but those of ice are free to move within the boundary of the vessel in which it is kept\n(4) The molecules have more intermolecular space in ice than in water\n\n(i) (1), (2) and (3)\n(ii) (1), (2) and (4)\n(iii) (2), (3) and (4)\n(iv) (1), (3) and (4)",
+      "answer": "(i) (1), (2) and (3) — Statements 1, 2 and 3 are correct. Statement (3) is worded in reverse in the textbook — it should say 'molecules of ice vibrate to and fro only but those of water are free to move within the boundary', but the intended answer selects statements 1, 2 and 3. Statement 4 is incorrect because ice molecules are more closely packed (less inter-molecular space) than water molecules.",
+      "question_type": "mcq_textbook",
+      "options": ["(1), (2) and (3)", "(1), (2) and (4)", "(2), (3) and (4)", "(1), (3) and (4)"],
+      "source_section": "Test Yourself - Section A.1 MCQ"
+    },
+    {
+      "id": "tqa010",
+      "question": "[Section A.2 - Assertion-Reason]\nFor the following, choose the correct option:\n(1) Both A and R are true and R is the correct explanation of A\n(2) Both A and R are true but R is not the correct explanation of A\n(3) Assertion is true but Reason is false\n(4) Assertion is false but Reason is true\n\nAssertion (A): We often pour tea in a saucer to cool it faster.\nReason (R): Evaporation takes place at all temperatures.",
+      "answer": "(2) Both A and R are true but R is not the correct explanation of A. The assertion is true — pouring tea in a saucer does cool it faster. The reason is also true — evaporation does take place at all temperatures. However, R is not the correct explanation of A. The correct explanation is that the saucer has a larger surface area than the cup, which increases the rate of evaporation and thus cools the tea faster.",
+      "question_type": "assertion_reason",
+      "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "source_section": "Test Yourself - Section A.2 Assertion-Reason"
+    },
+    {
+      "id": "tqa011",
+      "question": "[Section A.2 - Assertion-Reason]\nFor the following, choose the correct option:\n(1) Both A and R are true and R is the correct explanation of A\n(2) Both A and R are true but R is not the correct explanation of A\n(3) Assertion is true but Reason is false\n(4) Assertion is false but Reason is true\n\nAssertion (A): The molecules in a liquid can move within the boundary of the vessel.\nReason (R): A liquid has a definite volume and a definite shape.",
+      "answer": "(3) Assertion is true but Reason is false. The assertion is true — in a liquid, the inter-molecular forces are moderate, so molecules can slide over each other and move freely within the boundary of the vessel. The reason is false — a liquid has a definite volume but does NOT have a definite shape. A liquid takes the shape of the container it is placed in.",
+      "question_type": "assertion_reason",
+      "options": ["Both A and R are true and R is the correct explanation of A", "Both A and R are true but R is not the correct explanation of A", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "source_section": "Test Yourself - Section A.2 Assertion-Reason"
+    },
+    {
+      "id": "tqa012",
+      "question": "[Section A.3 - Fill in the Blanks]\nEvaporation takes place at _______ temperatures.",
+      "answer": "all",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Test Yourself - Section A.3 Fill in the Blanks"
+    },
+    {
+      "id": "tqa013",
+      "question": "[Section A.3 - Fill in the Blanks]\n_______ process is just the reverse of melting.",
+      "answer": "Freezing",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Test Yourself - Section A.3 Fill in the Blanks"
+    },
+    {
+      "id": "tqa014",
+      "question": "[Section A.3 - Fill in the Blanks]\n_______ is a process that involves direct conversion of a solid into its vapour on heating.",
+      "answer": "Sublimation",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Test Yourself - Section A.3 Fill in the Blanks"
+    },
+    {
+      "id": "tqa015",
+      "question": "[Section A.3 - Fill in the Blanks]\nThe temperature at which a solid converts into a liquid is called its _______.",
+      "answer": "melting point",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Test Yourself - Section A.3 Fill in the Blanks"
+    },
+    {
+      "id": "tqa016",
+      "question": "[Section A.3 - Fill in the Blanks]\nThe smallest unit of matter that exists freely in nature is called _______.",
+      "answer": "molecule",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Test Yourself - Section A.3 Fill in the Blanks"
+    },
+    {
+      "id": "tqa017",
+      "question": "[Section A.3 - Fill in the Blanks]\nMolecules of a substance are always in a state of _______ and so they possess _______ energy.",
+      "answer": "motion, kinetic",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Test Yourself - Section A.3 Fill in the Blanks"
+    },
+    {
+      "id": "tqa018",
+      "question": "[Section A.3 - Fill in the Blanks]\nInter-molecular space is maximum in _______, less in _______ and the least in _______.",
+      "answer": "gases, liquids, solids",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Test Yourself - Section A.3 Fill in the Blanks"
+    },
+    {
+      "id": "tqa019",
+      "question": "[Section A.3 - Fill in the Blanks]\nInter-molecular force of attraction is maximum in _______, less in _______ and the least in _______.",
+      "answer": "solids, liquids, gases",
+      "question_type": "fill_in_blank_textbook",
+      "source_section": "Test Yourself - Section A.3 Fill in the Blanks"
+    },
+    {
+      "id": "tqa020",
+      "question": "[Section A.4 - Match the Following]\nMatch Column A with Column B:\n\nColumn A:\n(a) Molecules\n(b) 100°C\n(c) 0°C\n(d) At all temperatures\n(e) Camphor\n\nColumn B:\n(i) water boils\n(ii) evaporation\n(iii) changes from solid to gas\n(iv) matter\n(v) water freezes",
+      "answer": "(a) Molecules → (iv) matter\n(b) 100°C → (i) water boils\n(c) 0°C → (v) water freezes\n(d) At all temperatures → (ii) evaporation\n(e) Camphor → (iii) changes from solid to gas",
+      "question_type": "match_the_following",
+      "source_section": "Test Yourself - Section A.4 Match the Following"
+    },
+    {
+      "id": "tqa021",
+      "question": "[Section A.5 - True or False]\nThe temperature of a substance remains unaffected during its change of state.",
+      "answer": "True. During a change of state, the temperature remains constant even though heat is being added or removed. The heat supplied or removed is used as latent heat to overcome or strengthen inter-molecular forces.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa022",
+      "question": "[Section A.5 - True or False]\nIce melts at 100°C.",
+      "answer": "False. Ice melts at 0°C, not 100°C. 100°C is the boiling point of water.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa023",
+      "question": "[Section A.5 - True or False]\nWater at 100°C has more heat than steam at 100°C.",
+      "answer": "False. Steam at 100°C has more heat than water at 100°C. This is because steam contains additional latent heat of vaporization which was absorbed during boiling to change the state from liquid to gas.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa024",
+      "question": "[Section A.5 - True or False]\nEvaporation of a liquid causes cooling.",
+      "answer": "True. When a liquid evaporates, it absorbs heat (latent heat of vaporization) from its surroundings, causing the temperature of the surroundings to decrease, which produces a cooling effect.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa025",
+      "question": "[Section A.5 - True or False]\nWater evaporates only at 100°C.",
+      "answer": "False. Water can evaporate at all temperatures, not just at 100°C. Evaporation takes place from the surface of the liquid at any temperature. 100°C is the boiling point of water, at which vaporization occurs throughout the liquid.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa026",
+      "question": "[Section A.5 - True or False]\nBoiling takes place at all temperatures.",
+      "answer": "False. Boiling takes place only at a fixed temperature called the boiling point. For water, the boiling point is 100°C. It is evaporation (not boiling) that takes place at all temperatures.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa027",
+      "question": "[Section A.5 - True or False]\nEvaporation takes place over the entire mass of the liquid.",
+      "answer": "False. Evaporation takes place only from the surface of the liquid, not throughout its entire mass. It is boiling that takes place throughout the entire mass of the liquid.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa028",
+      "question": "[Section A.5 - True or False]\nThe process of a gas converting directly into solid is called vaporization.",
+      "answer": "False. The process of a gas converting directly into a solid is called deposition (or solidification). Vaporization is the process of a liquid changing into vapour (gas) on heating.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa029",
+      "question": "[Section A.5 - True or False]\nAt high altitudes, water boils above 100°C.",
+      "answer": "False. At high altitudes, water boils below 100°C (not above). This is because at high altitudes, the atmospheric pressure is lower, which reduces the boiling point of water.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa030",
+      "question": "[Section A.5 - True or False]\nThe melting point of ice is 0°C.",
+      "answer": "True. The melting point of ice is 0°C. At this temperature, ice absorbs heat and changes from solid state to liquid state (water) without any rise in temperature.",
+      "question_type": "true_false",
+      "source_section": "Test Yourself - Section A.5 True or False"
+    },
+    {
+      "id": "tqa031",
+      "question": "[Section B - Short Answer]\nDefine the term matter. What is it composed of?",
+      "answer": "Matter is anything that occupies space and has mass. It can be perceived by our senses. Examples include air, water, iron, hydrogen, oxygen etc. Matter is composed of tiny particles called molecules. A molecule is the smallest unit of matter that can exist freely in nature and has all the properties of that substance.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa032",
+      "question": "[Section B - Short Answer]\nState three properties of molecules of matter.",
+      "answer": "(1) Molecules are very small in size — about 10⁻¹⁰ metre, too small to be seen even with a microscope. (2) Molecules have spaces between them called inter-molecular spaces — less in solids, more in liquids, and most in gases. (3) Molecules are in constant motion — in solids they vibrate about their mean positions, in liquids they move within the boundary of the vessel, and in gases they move freely in all directions.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa033",
+      "question": "[Section B - Short Answer]\nWhat do you mean by inter-molecular spaces? How do they vary in different states of matter?",
+      "answer": "Inter-molecular spaces are the gaps or spaces between the molecules of matter. In solids, the inter-molecular spaces are the least because the molecules are closely packed due to strong attractive forces. In liquids, the inter-molecular spaces are more than in solids as the molecules are loosely packed. In gases, the inter-molecular spaces are the maximum because the molecules are wide apart with very weak forces of attraction between them.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa034",
+      "question": "[Section B - Short Answer]\nWhat is meant by inter-molecular forces of attraction? How do they vary in solids, liquids and gases?",
+      "answer": "Inter-molecular forces of attraction are the forces with which molecules of matter attract each other. These forces are caused by the electrostatic forces between the molecules (not gravitational). They are effective only up to a separation of about 10⁻⁹ metre. In solids, the inter-molecular forces are very strong, which is why solids are rigid and have a definite shape. In liquids, these forces are moderate (less strong), which is why liquids can flow but stay within the boundary of the vessel. In gases, these forces are negligibly weak, which is why gases can spread freely and have neither a definite shape nor volume.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa035",
+      "question": "[Section B - Short Answer]\nWhich of the following are correct?\n(a) Solids have definite shape and definite volume.\n(b) Liquids have definite volume but no definite shape.\n(c) Gases have definite volume but no definite shape.\n(d) Liquids have both definite shape and definite volume.",
+      "answer": "Correct statements are (a) and (b). Statement (a) is correct — solids have a definite shape and a definite volume because their molecules are closely packed with strong inter-molecular forces. Statement (b) is correct — liquids have a definite volume but take the shape of the container. Statement (c) is incorrect — gases have neither a definite volume nor a definite shape; they fill the entire available space. Statement (d) is incorrect — liquids have no definite shape; they take the shape of the container.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa036",
+      "question": "[Section B - Short Answer]\nA liquid can change into vapour state (a) at a fixed temperature, and (b) at all temperatures. Name the processes involved in both the cases.",
+      "answer": "(a) When a liquid changes into vapour state at a fixed temperature (its boiling point), the process is called vaporization or boiling. For example, water changes to steam at 100°C. (b) When a liquid changes into vapour state at all temperatures from the surface of the liquid, the process is called evaporation. Evaporation is a slow and gradual process that takes place only from the surface of the liquid at any temperature.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa037",
+      "question": "[Section B - Short Answer]\nState (a) the melting point of ice and (b) the boiling point of water.",
+      "answer": "(a) The melting point of ice is 0°C. At this temperature, ice changes into water by absorbing heat without any rise in temperature. (b) The boiling point of water is 100°C. At this temperature, water changes into steam by absorbing heat without any further rise in temperature.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa038",
+      "question": "[Section B - Short Answer]\nWhat is evaporation?",
+      "answer": "Evaporation is the process by which a liquid changes into vapour from the surface of the liquid at all temperatures. It is a slow and gradual process. Unlike boiling, evaporation takes place only at the surface of the liquid (not throughout the mass) and occurs at any temperature (not just at the boiling point). Evaporation produces cooling.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa039",
+      "question": "[Section B - Short Answer]\nState three factors which affect the rate of evaporation of a liquid.",
+      "answer": "(1) Temperature of the liquid — higher temperature leads to faster evaporation. A wet cloth dries up faster on a hot day than on a cold day. (2) Area of the exposed surface — larger surface area leads to faster evaporation. A cloth dries faster when spread out than when folded. (3) Flow of air (wind) above the liquid surface — blowing air moves away the molecules from the surface, increasing evaporation rate. This is why we blow air over hot milk to cool it.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa040",
+      "question": "[Section B - Short Answer]\nWhy are volatile liquids such as alcohol and spirit stored in tightly closed bottles?",
+      "answer": "Volatile liquids like alcohol and spirit have very low boiling points and weak inter-molecular forces of attraction. Their molecules can easily escape from the surface of the liquid even at room temperature. If stored in open bottles, they would evaporate much faster than water and soon the bottle would become empty. Therefore, they are stored in tightly closed bottles to prevent evaporation.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa041",
+      "question": "[Section B - Short Answer]\nWhy is cooling produced on evaporation of a liquid?",
+      "answer": "When a liquid evaporates, it changes from liquid state to vapour state. This change requires heat energy (latent heat of vaporization). The liquid takes this heat from its surroundings (the surface or object it is on). As the surroundings lose heat, their temperature decreases, producing a cooling effect. For example, when alcohol is poured on the palm, it evaporates quickly and takes heat from the palm, making it feel cool.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa042",
+      "question": "[Section B - Short Answer]\nGive two applications of evaporation.",
+      "answer": "(1) In summer, water stays cool in an earthen pot (surahi) because water seeps out through the tiny pores of the pot and evaporates from the surface. The heat required for evaporation is taken from the water inside the pot, thus cooling it. (2) Doctors advise putting wet cloth strips on the forehead of a patient with high fever. The water from the strips evaporates, taking heat from the patient's body, which helps in reducing the body temperature.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa043",
+      "question": "[Section B - Short Answer]\nWhat do you mean by sublimation? Explain with an example.",
+      "answer": "Sublimation is the process by which a solid when heated, directly changes into its vapour (gaseous state) without first changing into a liquid. For example, when camphor or ammonium chloride is heated in a china dish covered with an inverted funnel, the solid directly changes into vapours. These vapours upon cooling get deposited as solid on the inner walls of the funnel. Other examples include iodine, naphthalene, and solid carbon dioxide (dry ice). Naphthalene balls used to protect woolen clothes from insects slowly decrease in size because they sublime at room temperature.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa044",
+      "question": "[Section B - Short Answer]\nWhy does the size of naphthalene balls decrease when left open?",
+      "answer": "Naphthalene balls undergo sublimation — they directly change from solid state to vapour state without first becoming a liquid. When naphthalene balls are left open, their molecules gradually escape from the solid surface into the air as vapour. This is because the inter-molecular forces of attraction in naphthalene are relatively weak. Since the molecules keep escaping as vapour over time, the size of the naphthalene balls decreases gradually.",
+      "question_type": "short_answer",
+      "source_section": "Test Yourself - Section B Short Answer"
+    },
+    {
+      "id": "tqa045",
+      "question": "[Section C - Long Answer]\nDiscuss the three states of matter: solid, liquid and gas on the basis of molecular model.",
+      "answer": "According to the molecular model, all matter is made up of very tiny particles called molecules. The three states differ in how their molecules are arranged and behave:\n\nSolids: The molecules in a solid are very closely packed with very little inter-molecular space between them. They are held together by very strong inter-molecular forces of attraction. The molecules can only vibrate to and fro about their fixed mean positions — they cannot leave their positions. Because of this rigid arrangement, solids have a definite shape and a definite volume. They cannot flow.\n\nLiquids: The molecules in a liquid are less closely packed compared to solids, with more inter-molecular space. The inter-molecular forces are moderate — strong enough to keep molecules within the boundary of the vessel but not strong enough to fix them at definite positions. The molecules can slide over each other and move about freely within the vessel. This is why liquids have a definite volume but take the shape of the container they are placed in. Liquids can flow.\n\nGases: The molecules in a gas are very widely spaced with the maximum inter-molecular spaces. The inter-molecular forces are very weak (almost negligible). The molecules are free to move about randomly in all directions at high speeds. They are like tiny rigid, homogeneous, and perfectly elastic balls. Because of this freedom, gases have neither a definite shape nor a definite volume — they take the shape and volume of the entire container. Gases can flow and fill any available space.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa046",
+      "question": "[Section C - Long Answer]\nWhat do you mean by 'the change of state'? Write the flow chart showing the complete cycle of change of state of matter.",
+      "answer": "The change of state is the process of changing from one state of matter (solid, liquid or gas) to another state, either by absorption or rejection of heat at a constant temperature. During a change of state, the temperature of the substance remains constant even though heat is being added or removed.\n\nFlow chart of the complete cycle:\nSOLID —(Melting/Fusion, heat absorbed)→ LIQUID —(Vaporization/Boiling, heat absorbed)→ GAS\nReverse: GAS —(Condensation, heat rejected)→ LIQUID —(Freezing, heat rejected)→ SOLID\nDirect: SOLID —(Sublimation, heat absorbed)→ GAS\nReverse direct: GAS —(Deposition, heat rejected)→ SOLID\n\nIn all these changes, the temperature remains constant during the change of state. The heat absorbed or rejected during the change of state is called latent heat.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa047",
+      "question": "[Section C - Long Answer]\nDifferentiate between melting point and boiling point, giving at least one example of each.",
+      "answer": "Melting point is the constant temperature at which a solid changes into its liquid state on heating, without any further rise in temperature. For example, ice melts at 0°C — at this temperature, ice absorbs heat and changes into water while the temperature remains at 0°C until all the ice has melted.\n\nBoiling point is the constant temperature at which a liquid changes into its gaseous (vapour) state on heating, without any further rise in temperature. For example, water boils at 100°C — at this temperature, water absorbs heat and changes into steam while the temperature remains at 100°C.\n\nKey differences: Melting is the change from solid to liquid, while boiling is the change from liquid to gas. Each substance has its own specific melting and boiling points.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa048",
+      "question": "[Section C - Long Answer]\nDescribe the process of condensation and sublimation with examples.",
+      "answer": "Condensation is the change from the vapour (gaseous) state to the liquid state at a constant temperature on rejecting heat (or on cooling). The temperature at which vapour changes into liquid without any further decrease in temperature is called the condensation point. For example, steam (water vapour) at 100°C condenses to water (liquid) at 100°C when cooled. The condensation point of steam is the same as the boiling point of water (100°C). In daily life, water droplets form on the outside of a cold glass of water because the water vapour in the air condenses on the cold surface.\n\nSublimation is the process by which a solid directly changes into its vapour (gaseous state) on heating, without first changing into a liquid. The reverse process — when a gas directly changes into a solid without becoming a liquid — is called deposition (or solidification). For example, when camphor or ammonium chloride is heated, it directly changes into vapours. When these vapours are cooled, they directly change back into solid. Other examples include iodine, naphthalene (moth balls), and dry ice (solid carbon dioxide).",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa049",
+      "question": "[Section C - Long Answer]\nExplain the terms melting and melting point.",
+      "answer": "Melting is the process of change of state from the solid state to the liquid state on heating at a fixed temperature. When a solid is heated, its temperature rises until it reaches a specific temperature where the solid begins to change into liquid. During this change, even though heat continues to be supplied, the temperature does not rise until the entire solid has melted.\n\nMelting point is the constant temperature at which a solid changes into a liquid without any further increase in temperature. For example, ice has a melting point of 0°C — ice begins to melt at 0°C and continues melting at 0°C until all the ice has changed into water. Wax has a melting point of 55°C, naphthalene melts at 80°C, and copper melts at 1085°C.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa050",
+      "question": "[Section C - Long Answer]\nDescribe an experiment to demonstrate that a substance absorbs heat during melting without change in its temperature.",
+      "answer": "Take a test tube. Put some wax in it. Clamp it in a vertical stand and place it in a beaker of water placed on a wire gauze on a tripod stand. Insert a thermometer into the wax. Heat the beaker over a burner and record the temperature of the wax every minute.\n\nObservations: The temperature of wax rises steadily (25°C → 30°C → 35°C → 40°C → 45°C → 50°C → 55°C). At 55°C, the wax starts melting. While the wax is melting, the temperature remains constant at 55°C for several minutes even though heat is being continuously supplied. After all the wax has melted, the temperature begins to rise again (60°C → 65°C → 70°C).\n\nConclusion: The wax melts at 55°C. During melting, heat is absorbed by the substance but the temperature does not change. This heat (called latent heat) is used in overcoming the inter-molecular forces of attraction and increasing the separation between molecules.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa051",
+      "question": "[Section C - Long Answer]\nExplain the terms vaporization and boiling point.",
+      "answer": "Vaporization (or boiling) is the process of change of state from the liquid state to the gaseous (vapour) state on heating at a constant temperature by absorption of heat. When a liquid is heated, its temperature rises until it reaches a specific temperature where the liquid begins to change into vapour. During this change, bubbles form throughout the liquid and rise to the surface. Even though heat continues to be supplied, the temperature does not rise until the entire liquid has changed into vapour.\n\nBoiling point is the constant temperature at which a liquid changes into vapour without any further increase in temperature. For example, water has a boiling point of 100°C — water begins to boil at 100°C and continues boiling at 100°C until all the water has changed into steam. Alcohol has a boiling point of 78.3°C and ether has a boiling point of 35°C.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa052",
+      "question": "[Section C - Long Answer]\nDescribe an experiment to demonstrate that water absorbs heat during boiling at a constant temperature.",
+      "answer": "Take a beaker. Pour some water in it. Place the beaker on a wire gauze placed over a tripod stand. Clamp a thermometer in a vertical stand and insert it in the beaker. Heat the beaker over a burner and record the temperature of water after every minute.\n\nObservations: The temperature rises steadily (20°C → 30°C → 40°C... → 90°C → 100°C). At 100°C, the water starts boiling — bubbles form and the water begins to change into steam. Even though the flame continues to supply heat, the temperature remains constant at 100°C.\n\nConclusion: The boiling point of water is 100°C. During boiling, heat is absorbed by the liquid but the temperature does not change. This heat is used to overcome the inter-molecular forces of attraction between the water molecules and convert them into steam.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa053",
+      "question": "[Section C - Long Answer]\nWet clothes dry more quickly on a warm dry day than on a cold humid day. Explain.",
+      "answer": "This happens because of evaporation and its dependence on two factors — temperature and humidity. On a warm day, the temperature is high, so the water molecules in the wet clothes have more kinetic energy. They can more easily overcome the inter-molecular forces of attraction and escape from the surface of the cloth into the air as water vapour. This makes evaporation faster. Additionally, on a dry day, the air has less moisture (low humidity). The dry air allows the water molecules from the cloth to escape easily into the atmosphere.\n\nIn contrast, on a cold day, molecules have less kinetic energy, so fewer molecules can escape. On a humid day (like in the rainy season), the air already has a lot of water vapour, which prevents more water molecules from escaping from the cloth. Therefore, the rate of evaporation is much slower on a cold humid day compared to a warm dry day.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa054",
+      "question": "[Section C - Long Answer]\nExplain with an example that when a liquid evaporates, it takes heat from its surroundings.",
+      "answer": "When a liquid evaporates, it changes from the liquid state to the vapour state. This change requires heat energy (latent heat of vaporization). The liquid takes this heat from its surroundings, causing the temperature of the surroundings to fall.\n\nFor example, when a little alcohol or spirit is poured on the palm, it gives a soothing and cooling sensation. The alcohol evaporates quickly from the palm's surface. The heat required for this evaporation is taken from the palm, which causes the palm's temperature to drop, producing a feeling of coolness. Similarly, if some alcohol is poured on cotton wrapped around the bulb of a thermometer, the reading of the thermometer falls. This clearly demonstrates that the evaporating liquid absorbs heat from its surroundings (the cotton and thermometer), causing the temperature to decrease.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa055",
+      "question": "[Section C - Long Answer]\nExplain why in hot summer days water remains cool in earthen pots.",
+      "answer": "Earthen pots have tiny pores in their walls. Water from inside the pot slowly seeps out through these pores to the outer surface of the pot. On the outer surface, this water evaporates (changes from liquid to vapour). The process of evaporation requires heat energy. This heat is taken from the water remaining inside the pot. As the water inside the pot loses heat, its temperature decreases and the water feels cool.\n\nThis process continues as long as there is water in the pot and the outer surface remains moist. On hot summer days, the rate of evaporation is even faster due to the higher temperature, making the cooling effect more noticeable. This is why earthen pots (surahis) are commonly used in India, especially in summer, to keep drinking water cool.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa056",
+      "question": "[Section C - Long Answer]\nDescribe an experiment to demonstrate the process of sublimation.",
+      "answer": "Take some camphor or ammonium chloride powder. Keep the powder in a china dish. Cover the china dish with an inverted funnel. Close the narrow end of the funnel with a piece of cotton. Place the dish on a wire mesh kept on a tripod stand. Heat the dish gently by a burner.\n\nObservations: On heating, the camphor or ammonium chloride directly changes into vapours (fumes) without first becoming a liquid. These vapours rise up and enter the inverted funnel. As the vapours reach the cooler upper parts of the funnel, they get cooled and directly change back into solid. The solid gets deposited on the inner walls of the funnel.\n\nConclusion: Camphor (or ammonium chloride) on heating changes directly from solid to vapour — this process is called sublimation. The vapours on cooling change directly from gas to solid — this process is called deposition (or solidification). These substances undergo sublimation because the inter-molecular forces of attraction in them are relatively weak.",
+      "question_type": "long_answer",
+      "source_section": "Test Yourself - Section C Long Answer"
+    },
+    {
+      "id": "tqa057",
+      "question": "[Section D - Think and Answer (HOTS)]\nSome ice is taken in a beaker and its temperature is recorded after each one minute interval.\nObservations:\nTime 0 min: 0°C\nTime 1 min: 0°C\nTime 2 min: 0°C\nTime 3 min: 0°C\nTime 4 min: 0°C\nTime 5 min: 0°C\nTime 6 min: 3.8°C\nTime 7 min: 7.6°C\nTime 8 min: 11.4°C\n\nFrom the above observations what conclusion do you draw about the melting point of ice?",
+      "answer": "The melting point of ice is 0°C. From the observations, the temperature remains constant at 0°C from time 0 to 5 minutes. During this time, the ice is absorbing heat and melting (changing from solid to liquid). The temperature does not rise during this period because all the heat being supplied is used up as latent heat to overcome the inter-molecular forces of attraction and change the state from solid to liquid. After 5 minutes, all the ice has melted and the temperature begins to rise (3.8°C at 6 min, 7.6°C at 7 min, 11.4°C at 8 min), showing that the water is now absorbing heat and its temperature is increasing.",
+      "question_type": "hots",
+      "source_section": "Test Yourself - Section D Think and Answer (HOTS)"
+    },
+    {
+      "id": "tqa058",
+      "question": "[Section D - Think and Answer (HOTS)]\nWater in a dish evaporates faster than in a bottle. Give reason.",
+      "answer": "Water in a dish evaporates faster than in a bottle because the rate of evaporation depends on the area of the exposed surface. A dish has a much larger surface area exposed to the air compared to the narrow opening of a bottle. With more surface area, more water molecules at the surface can absorb heat and escape into the air as water vapour at the same time. In a bottle, only a very small area of water surface is exposed to the air through the narrow mouth, so fewer molecules can escape at a time. Therefore, evaporation is faster from a dish than from a bottle.",
+      "question_type": "hots",
+      "source_section": "Test Yourself - Section D Think and Answer (HOTS)"
+    },
+    {
+      "id": "tqa059",
+      "question": "[Section D - Think and Answer (HOTS)]\nA patient suffering from high fever is advised to put wet cloth strips on his forehead. Why?",
+      "answer": "When wet cloth strips are placed on the forehead of a patient with high fever, the water from the cloth evaporates. Evaporation is a cooling process — when water evaporates, it requires heat energy (latent heat of vaporization). This heat is taken from the body of the patient through the forehead. As the body loses heat, its temperature decreases. This helps in reducing the fever. This is an application of the principle that evaporation produces cooling.",
+      "question_type": "hots",
+      "source_section": "Test Yourself - Section D Think and Answer (HOTS)"
+    },
+    {
+      "id": "tqa060",
+      "question": "[Section D - Think and Answer (HOTS)]\nWhen we put some acetone or petrol on our palm, it feels cold. Give reason.",
+      "answer": "Acetone and petrol are volatile liquids with low boiling points and weak inter-molecular forces. When placed on the palm, they evaporate very quickly. Evaporation requires heat energy (latent heat of vaporization). This heat is rapidly absorbed from the palm (which is at body temperature of about 37°C). As the palm loses heat to the evaporating liquid, its temperature drops, and we feel a cold or cooling sensation. This demonstrates that evaporation produces cooling — the faster the evaporation (as with volatile liquids), the more pronounced the cooling effect.",
+      "question_type": "hots",
+      "source_section": "Test Yourself - Section D Think and Answer (HOTS)"
+    },
+    {
+      "id": "tqa061",
+      "question": "[Section D - Think and Answer (HOTS)]\nOn a humid day, you sweat more and feel less cool in comparison to a breezy day where sweating makes you feel much cooler. Give reason.",
+      "answer": "On a humid day, the air already contains a lot of water vapour (high moisture content). The water molecules present in the humid air near the skin surface do not allow the sweat molecules to escape easily from the skin into the air. This means the rate of evaporation of sweat is very low. Since evaporation produces cooling, less evaporation means less cooling, so you feel hot and uncomfortable even though you are sweating a lot.\n\nOn a breezy day, the moving air (wind) blows away the water vapour molecules from near the skin surface. This allows more sweat molecules to escape from the skin surface (higher rate of evaporation). As more sweat evaporates, more heat is taken from the body, producing a greater cooling effect. This is why sweating on a breezy day makes you feel much cooler.",
+      "question_type": "hots",
+      "source_section": "Test Yourself - Section D Think and Answer (HOTS)"
+    },
+    {
+      "id": "tqa062",
+      "question": "[Section E - Case Study]\nA group of students went out on a scout camp in a hilly area. The nights were extremely cold. During the camp, Adit noticed several things:\n(I) During dinner, steam rising from the hot soup quickly turned into tiny droplets in the cold air.\n(II) A thin layer of frost formed on their tents every night even though there was no dew.\n(III) The wet towel Adit left outside became stiff and frozen by early morning.\n(IV) When they exhaled warm breath into the cold air, a white cloud formed instantly and disappeared just as quickly.\n(V) Metal chairs kept outside the tents appeared wet early in the mornings.\n\n(i) Identify the process responsible for steam turning into droplets.",
+      "answer": "The process is condensation. When hot steam (water vapour) from the soup comes in contact with the extremely cold air, it loses heat rapidly and changes from the gaseous state directly to the liquid state (tiny water droplets). This happens because the water vapour cools below its condensation point (100°C) and the molecules lose kinetic energy, allowing inter-molecular forces to pull them together into liquid droplets.",
+      "question_type": "case_study",
+      "case_text": "A group of students went out on a scout camp in a hilly area. The nights were extremely cold. During the camp, Adit noticed several things:\n(I) During dinner, steam rising from the hot soup quickly turned into tiny droplets in the cold air.\n(II) A thin layer of frost formed on their tents every night even though there was no dew.\n(III) The wet towel Adit left outside became stiff and frozen by early morning.\n(IV) When they exhaled warm breath into the cold air, a white cloud formed instantly and disappeared just as quickly.\n(V) Metal chairs kept outside the tents appeared wet early in the mornings.",
+      "sub_questions": [
+        {
+          "question": "(i) Identify the process responsible for steam turning into droplets.",
+          "answer": "The process is condensation. When hot steam (water vapour) from the soup comes in contact with the extremely cold air, it loses heat rapidly and changes from the gaseous state directly to the liquid state (tiny water droplets). This happens because the water vapour cools below its condensation point (100°C) and the molecules lose kinetic energy, allowing inter-molecular forces to pull them together into liquid droplets."
+        },
+        {
+          "question": "(ii) Which change of state leads to frost formation? Explain briefly.",
+          "answer": "The process is deposition (or solidification). Frost is formed when water vapour in the air directly changes into solid ice crystals on cold surfaces without first becoming liquid water. On extremely cold nights in hilly areas, the temperature drops below 0°C. The water vapour molecules in the air lose enough kinetic energy to be directly captured by strong inter-molecular forces, forming solid ice crystals (frost) on surfaces like tent fabric."
+        },
+        {
+          "question": "(iii) Using kinetic theory, explain why Adit's wet towel became stiff and frozen.",
+          "answer": "The wet towel had water in it. During the extremely cold night, the temperature dropped below 0°C (the freezing point of water). As the water in the towel lost heat to the cold surroundings, the kinetic energy of the water molecules decreased. At 0°C, the molecules lost enough kinetic energy that the inter-molecular forces of attraction became dominant. The molecules could no longer move freely and became fixed at their positions, arranging themselves into a rigid pattern. The water changed from liquid state to solid state (ice), making the towel stiff and frozen. This process is called freezing."
+        },
+        {
+          "question": "(iv) Why did a white cloud appear when they exhaled?",
+          "answer": "When we breathe, the air we exhale contains water vapour at body temperature (about 37°C). In the extremely cold air of the hilly area, this warm, moist exhaled air rapidly cools down. The water vapour in the exhaled air undergoes condensation — it changes from gas to tiny liquid water droplets. These tiny water droplets suspended in the air appear as a visible white cloud or mist. The cloud disappears quickly because the tiny droplets spread out and evaporate again as they mix with the surrounding air."
+        },
+        {
+          "question": "(v) Why did the metal chairs appear wet in the morning?",
+          "answer": "During the night, the temperature was extremely cold. Metal is a good conductor of heat, so the metal chairs cooled down much faster than the surrounding air and became very cold. In the early morning, as the temperature began to rise slightly, the relatively warmer air (containing water vapour) came in contact with the still-cold metal surface of the chairs. The water vapour in the air condensed on the cold metal surface, forming tiny water droplets. This is why the metal chairs appeared wet. This process is condensation — the water vapour lost heat to the cold metal surface and changed from gaseous state to liquid state."
+        }
+      ],
+      "source_section": "Test Yourself - Section E Case Study"
+    }
+  ]
+}

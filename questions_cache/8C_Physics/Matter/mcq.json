@@ -1,0 +1,267 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "mcq001",
+      "question": "What is the approximate size of a molecule?",
+      "options": [
+        "A. 10^-5 m",
+        "B. 10^-8 m",
+        "C. 10^-10 m",
+        "D. 10^-15 m"
+      ],
+      "correct_answer": "C. 10^-10 m",
+      "explanation": "Molecules are extremely small with a size of approximately 10^-10 m.",
+      "source_section": "Molecules"
+    },
+    {
+      "id": "mcq002",
+      "question": "The force of attraction between molecules of the same substance is called:",
+      "options": [
+        "A. Adhesion",
+        "B. Cohesion",
+        "C. Friction",
+        "D. Gravity"
+      ],
+      "correct_answer": "B. Cohesion",
+      "explanation": "Cohesion is the inter-molecular force of attraction between molecules of the same substance.",
+      "source_section": "Inter-molecular Forces"
+    },
+    {
+      "id": "mcq003",
+      "question": "The force of attraction between molecules of different substances is called:",
+      "options": [
+        "A. Cohesion",
+        "B. Adhesion",
+        "C. Repulsion",
+        "D. Tension"
+      ],
+      "correct_answer": "B. Adhesion",
+      "explanation": "Adhesion is the inter-molecular force of attraction between molecules of different substances.",
+      "source_section": "Inter-molecular Forces"
+    },
+    {
+      "id": "mcq004",
+      "question": "The inter-molecular force is effective up to a distance of:",
+      "options": [
+        "A. 10^-10 m",
+        "B. 10^-9 m",
+        "C. 10^-7 m",
+        "D. 10^-5 m"
+      ],
+      "correct_answer": "B. 10^-9 m",
+      "explanation": "The inter-molecular force of attraction is effective only up to a distance of about 10^-9 m between molecules.",
+      "source_section": "Inter-molecular Forces"
+    },
+    {
+      "id": "mcq005",
+      "question": "Which state of matter has definite shape and definite volume?",
+      "options": [
+        "A. Liquid",
+        "B. Gas",
+        "C. Solid",
+        "D. Plasma"
+      ],
+      "correct_answer": "C. Solid",
+      "explanation": "Solids have both definite shape and definite volume because their molecules are closely packed with strong inter-molecular forces.",
+      "source_section": "States of Matter"
+    },
+    {
+      "id": "mcq006",
+      "question": "Which state of matter has definite volume but no definite shape?",
+      "options": [
+        "A. Solid",
+        "B. Liquid",
+        "C. Gas",
+        "D. None of these"
+      ],
+      "correct_answer": "B. Liquid",
+      "explanation": "Liquids have a definite volume but take the shape of their container because their inter-molecular forces are moderate.",
+      "source_section": "States of Matter"
+    },
+    {
+      "id": "mcq007",
+      "question": "The melting point of ice is:",
+      "options": [
+        "A. 100\u00b0C",
+        "B. 55\u00b0C",
+        "C. 0\u00b0C",
+        "D. -10\u00b0C"
+      ],
+      "correct_answer": "C. 0\u00b0C",
+      "explanation": "The melting point of ice (and the freezing point of water) is 0\u00b0C.",
+      "source_section": "Change of State"
+    },
+    {
+      "id": "mcq008",
+      "question": "The boiling point of water is:",
+      "options": [
+        "A. 50\u00b0C",
+        "B. 78.3\u00b0C",
+        "C. 100\u00b0C",
+        "D. 120\u00b0C"
+      ],
+      "correct_answer": "C. 100\u00b0C",
+      "explanation": "Water boils at 100\u00b0C under normal atmospheric pressure.",
+      "source_section": "Change of State"
+    },
+    {
+      "id": "mcq009",
+      "question": "The process of change of state directly from solid to gas is called:",
+      "options": [
+        "A. Evaporation",
+        "B. Condensation",
+        "C. Sublimation",
+        "D. Deposition"
+      ],
+      "correct_answer": "C. Sublimation",
+      "explanation": "Sublimation is the process where a solid changes directly into a gas without passing through the liquid state.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "mcq010",
+      "question": "The process of change of state directly from gas to solid is called:",
+      "options": [
+        "A. Sublimation",
+        "B. Deposition",
+        "C. Condensation",
+        "D. Freezing"
+      ],
+      "correct_answer": "B. Deposition",
+      "explanation": "Deposition is the reverse of sublimation, where a gas changes directly into a solid without passing through the liquid state.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "mcq011",
+      "question": "Which of the following is an example of a substance that undergoes sublimation?",
+      "options": [
+        "A. Salt",
+        "B. Sugar",
+        "C. Camphor",
+        "D. Iron"
+      ],
+      "correct_answer": "C. Camphor",
+      "explanation": "Camphor is one of the substances that sublimes, i.e., changes directly from solid to gas. Other examples include ammonium chloride, iodine, naphthalene, and dry ice.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "mcq012",
+      "question": "The specific latent heat of fusion of ice is:",
+      "options": [
+        "A. 2260 \u00d7 10\u00b3 J/kg",
+        "B. 336 \u00d7 10\u00b3 J/kg",
+        "C. 100 \u00d7 10\u00b3 J/kg",
+        "D. 500 \u00d7 10\u00b3 J/kg"
+      ],
+      "correct_answer": "B. 336 \u00d7 10\u00b3 J/kg",
+      "explanation": "Ice absorbs 336 \u00d7 10\u00b3 J/kg of heat energy to melt into water at the same temperature (0\u00b0C).",
+      "source_section": "Latent Heat"
+    },
+    {
+      "id": "mcq013",
+      "question": "The specific latent heat of vaporization of water is:",
+      "options": [
+        "A. 336 \u00d7 10\u00b3 J/kg",
+        "B. 1000 \u00d7 10\u00b3 J/kg",
+        "C. 2260 \u00d7 10\u00b3 J/kg",
+        "D. 4200 \u00d7 10\u00b3 J/kg"
+      ],
+      "correct_answer": "C. 2260 \u00d7 10\u00b3 J/kg",
+      "explanation": "Water absorbs 2260 \u00d7 10\u00b3 J/kg of heat energy to change into steam at the same temperature (100\u00b0C).",
+      "source_section": "Latent Heat"
+    },
+    {
+      "id": "mcq014",
+      "question": "What happens to the melting point of ice when pressure is increased?",
+      "options": [
+        "A. It increases",
+        "B. It decreases",
+        "C. It remains the same",
+        "D. It first increases then decreases"
+      ],
+      "correct_answer": "B. It decreases",
+      "explanation": "The melting point of ice decreases with an increase of pressure. This is because ice expands on freezing, and increased pressure favours melting.",
+      "source_section": "Effect of Pressure on Melting Point"
+    },
+    {
+      "id": "mcq015",
+      "question": "What happens to the boiling point of water when pressure is increased?",
+      "options": [
+        "A. It decreases",
+        "B. It remains the same",
+        "C. It increases",
+        "D. Water cannot boil under high pressure"
+      ],
+      "correct_answer": "C. It increases",
+      "explanation": "The boiling point of water increases with an increase in pressure. This is the principle behind the pressure cooker.",
+      "source_section": "Effect of Pressure on Boiling Point"
+    },
+    {
+      "id": "mcq016",
+      "question": "Evaporation produces:",
+      "options": [
+        "A. Heating",
+        "B. Cooling",
+        "C. No temperature change",
+        "D. Boiling"
+      ],
+      "correct_answer": "B. Cooling",
+      "explanation": "Evaporation is a slow process that takes heat energy from the surroundings, thereby producing a cooling effect.",
+      "source_section": "Evaporation"
+    },
+    {
+      "id": "mcq017",
+      "question": "Which of the following does NOT affect the rate of evaporation?",
+      "options": [
+        "A. Temperature",
+        "B. Surface area",
+        "C. Mass of the container",
+        "D. Humidity"
+      ],
+      "correct_answer": "C. Mass of the container",
+      "explanation": "The rate of evaporation depends on temperature, surface area, nature of the liquid, wind/air flow, and humidity. The mass of the container does not affect evaporation.",
+      "source_section": "Evaporation"
+    },
+    {
+      "id": "mcq018",
+      "question": "Why do naphthalene balls decrease in size over time?",
+      "options": [
+        "A. They dissolve in air",
+        "B. They undergo sublimation",
+        "C. They melt slowly",
+        "D. They react with air"
+      ],
+      "correct_answer": "B. They undergo sublimation",
+      "explanation": "Naphthalene balls decrease in size because naphthalene undergoes sublimation, changing directly from solid to gas without passing through the liquid state.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "mcq019",
+      "question": "The melting point of wax is:",
+      "options": [
+        "A. 0\u00b0C",
+        "B. 55\u00b0C",
+        "C. 80\u00b0C",
+        "D. 100\u00b0C"
+      ],
+      "correct_answer": "B. 55\u00b0C",
+      "explanation": "The melting point of wax is 55\u00b0C.",
+      "source_section": "Change of State"
+    },
+    {
+      "id": "mcq020",
+      "question": "Which of the following is a key difference between evaporation and boiling?",
+      "options": [
+        "A. Evaporation occurs at a fixed temperature while boiling occurs at all temperatures",
+        "B. Evaporation is a slow surface process while boiling is a rapid process throughout the liquid",
+        "C. Evaporation heats the surroundings while boiling cools the surroundings",
+        "D. Evaporation requires more heat than boiling"
+      ],
+      "correct_answer": "B. Evaporation is a slow surface process while boiling is a rapid process throughout the liquid",
+      "explanation": "Evaporation is a slow process occurring at the surface of a liquid at all temperatures, while boiling is a rapid process that occurs throughout the liquid at a fixed temperature (the boiling point).",
+      "source_section": "Evaporation vs Boiling"
+    }
+  ]
+}

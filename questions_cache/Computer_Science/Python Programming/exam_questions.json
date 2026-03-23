@@ -120,8 +120,8 @@
     {
       "id": "sp1_wc_06",
       "question": "Write a Python code to print your favourite 5 festivals in India in 5 different lines.",
-      "answer": "print(\"Diwali\")\nprint(\"Holi\")\nprint(\"Pongal\")\nprint(\"Eid\")\nprint(\"Christmas\")",
-      "explanation": "Each print() statement automatically adds a newline, so each festival appears on a separate line.",
+      "answer": "Method 1 (Simple):\nprint(\"Diwali\")\nprint(\"Holi\")\nprint(\"Pongal\")\nprint(\"Eid\")\nprint(\"Christmas\")\n\nMethod 2 (Using list + for loop):\nfestivals = [\"Diwali\", \"Holi\", \"Pongal\", \"Eid\", \"Christmas\"]\nfor f in festivals:\n    print(f)",
+      "explanation": "Method 1 uses separate print statements. Method 2 stores the festivals in a list and uses a for loop — this is the better approach.",
       "source_section": "Paper 1 — Write Python Code"
     },
     {
@@ -256,13 +256,15 @@
     {
       "id": "sp2_wc_03",
       "question": "Write a Python code to create a list with 5 country names and display the items in the list using positive index.",
-      "answer": "countries = [\"India\", \"Japan\", \"Brazil\", \"France\", \"Australia\"]\nprint(countries[0])\nprint(countries[1])\nprint(countries[2])\nprint(countries[3])\nprint(countries[4])",
+      "answer": "Method 1 (Simple — positive index):\ncountries = [\"India\", \"Japan\", \"Brazil\", \"France\", \"Australia\"]\nprint(countries[0])\nprint(countries[1])\nprint(countries[2])\nprint(countries[3])\nprint(countries[4])\n\nMethod 2 (Using for loop with positive index):\ncountries = [\"India\", \"Japan\", \"Brazil\", \"France\", \"Australia\"]\nfor i in range(5):\n    print(countries[i])",
+      "explanation": "Method 1 accesses each item individually. Method 2 uses range(5) to loop through indices 0 to 4 — this is the better approach.",
       "source_section": "Paper 2 — Write Python Code"
     },
     {
       "id": "sp2_wc_04",
       "question": "Write a Python code to create a list with 5 cartoon character names and display the items in the list using negative index.",
-      "answer": "cartoons = [\"Tom\", \"Jerry\", \"Pikachu\", \"Doraemon\", \"Shinchan\"]\nprint(cartoons[-5])\nprint(cartoons[-4])\nprint(cartoons[-3])\nprint(cartoons[-2])\nprint(cartoons[-1])",
+      "answer": "Method 1 (Simple — negative index):\ncartoons = [\"Tom\", \"Jerry\", \"Pikachu\", \"Doraemon\", \"Shinchan\"]\nprint(cartoons[-5])\nprint(cartoons[-4])\nprint(cartoons[-3])\nprint(cartoons[-2])\nprint(cartoons[-1])\n\nMethod 2 (Using for loop with negative index):\ncartoons = [\"Tom\", \"Jerry\", \"Pikachu\", \"Doraemon\", \"Shinchan\"]\nfor i in range(-5, 0):\n    print(cartoons[i])",
+      "explanation": "Method 1 accesses each item individually. Method 2 uses range(-5, 0) to loop through negative indices — this is the better approach.",
       "source_section": "Paper 2 — Write Python Code"
     },
     {
@@ -280,8 +282,8 @@
     {
       "id": "sp2_wc_07",
       "question": "Write a Python code to create the following list of sportsmen: \"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\". Display their names in alphabetical order using positive index.",
-      "answer": "sportsmen = [\"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\"]\nsportsmen.sort()\nfor i in range(len(sportsmen)):\n    print(sportsmen[i])",
-      "explanation": "After sorting: Abhinav Bhindra, Dhyaan Chand, Neeraj Chopra, Sunil Chhetri, Virat Kohli",
+      "answer": "sportsmen = [\"Abhinav Bhindra\", \"Dhyaan Chand\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Virat Kohli\"]\nfor i in range(5):\n    print(sportsmen[i])",
+      "explanation": "We arrange the names in alphabetical order in the list itself, then use a for loop with positive index to print them.",
       "source_section": "Paper 2 — Write Python Code"
     },
     {
@@ -364,12 +366,6 @@
       "source_section": "Paper 4 — Data Types"
     },
     {
-      "id": "sp4_sa_01",
-      "question": "What is a binary language?",
-      "answer": "Binary language (also called machine language or machine code) is the language that the computer hardware/processor can directly understand. It is made up of only 1s and 0s. All instructions and data are ultimately converted to binary for the computer to process.",
-      "source_section": "Paper 4 — Short Answer"
-    },
-    {
       "id": "sp4_sa_02",
       "question": "Define an operator in Python. Give examples.",
       "answer": "An operator in Python is a special symbol that carries out an operation on variables or values. The values it acts upon are called operands. Examples: + (addition), - (subtraction), * (multiplication), / (division), % (modulus/remainder), // (integer division).",
@@ -394,12 +390,6 @@
       "source_section": "Paper 4 — Write Python Code"
     },
     {
-      "id": "sp4_wc_02",
-      "question": "Write a Python code to accept the time taken to watch a movie in hours. Calculate and print the time taken in minutes.",
-      "answer": "hours = int(input(\"Enter time in hours: \"))\nprint(hours * 60)",
-      "source_section": "Paper 4 — Write Python Code"
-    },
-    {
       "id": "sp4_wc_03",
       "question": "Write a Python code to accept the cost of 1 pen and print the cost of 10 such pens.",
       "answer": "cost = float(input(\"Enter cost of 1 pen: \"))\nprint(cost * 10)",
@@ -421,13 +411,7 @@
     {
       "id": "sp4_wc_06",
       "question": "Write a Python code to print the names of 5 states in India in 5 different lines.",
-      "answer": "print(\"Tamil Nadu\")\nprint(\"Kerala\")\nprint(\"Karnataka\")\nprint(\"Maharashtra\")\nprint(\"Rajasthan\")",
-      "source_section": "Paper 4 — Write Python Code"
-    },
-    {
-      "id": "sp4_wc_07",
-      "question": "Write a Python code to accept the number of bytes and print the bits in it.",
-      "answer": "bytes_val = int(input(\"Enter number of bytes: \"))\nprint(bytes_val * 8)",
+      "answer": "Method 1 (Simple):\nprint(\"Tamil Nadu\")\nprint(\"Kerala\")\nprint(\"Karnataka\")\nprint(\"Maharashtra\")\nprint(\"Rajasthan\")\n\nMethod 2 (Using list + for loop):\nstates = [\"Tamil Nadu\", \"Kerala\", \"Karnataka\", \"Maharashtra\", \"Rajasthan\"]\nfor s in states:\n    print(s)",
       "source_section": "Paper 4 — Write Python Code"
     },
     {
@@ -460,12 +444,6 @@
       "id": "sp5_tf_01",
       "question": "True or False: The first item in a Python list can only be retrieved using the index number 1.",
       "answer": "False. The first item in a Python list has index number 0, not 1. It can also be accessed using the negative index -(length of list).",
-      "source_section": "Paper 5 — True/False"
-    },
-    {
-      "id": "sp5_tf_02",
-      "question": "True or False: The step value in range() Python function is optional.",
-      "answer": "True. The step value in range() is optional and defaults to 1 if not specified.",
       "source_section": "Paper 5 — True/False"
     },
     {
@@ -510,12 +488,6 @@
       "question": "Fill in the range() to print the series: 100, 95, 90, 85, 80, 75, ..., 5",
       "answer": "for i in range(100, 4, -5):\n    print(i)",
       "explanation": "Start at 100, stop before 4, step by -5.",
-      "source_section": "Paper 5 — Fill in Range"
-    },
-    {
-      "id": "sp5_rg_03",
-      "question": "Fill in the range() to print the series: 0, 2, 4, 6, 8, 10",
-      "answer": "for i in range(0, 11, 2):\n    print(i)",
       "source_section": "Paper 5 — Fill in Range"
     },
     {
@@ -573,12 +545,6 @@
       "source_section": "Paper 5 — Short Answer"
     },
     {
-      "id": "sp5_sa_02",
-      "question": "What is an index number in a Python list?",
-      "answer": "An index number is the position number of each item in a Python list. Index numbers can be positive (starting from 0 for the first item) or negative (starting from -1 for the last item). They are used to access individual items from the list.",
-      "source_section": "Paper 5 — Short Answer"
-    },
-    {
       "id": "sp5_wc_01",
       "question": "Write a Python code to create a list that contains the names of all 7 days of the week. Display all the names one by one using a for loop.",
       "answer": "days = [\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\", \"Sunday\"]\nfor d in days:\n    print(d)",
@@ -593,13 +559,15 @@
     {
       "id": "sp5_wc_03",
       "question": "Write a Python code to create a list with 5 country names and display the items in the list using negative index.",
-      "answer": "countries = [\"India\", \"Japan\", \"Brazil\", \"France\", \"Australia\"]\nprint(countries[-5])\nprint(countries[-4])\nprint(countries[-3])\nprint(countries[-2])\nprint(countries[-1])",
+      "answer": "Method 1 (Simple — negative index):\ncountries = [\"India\", \"Japan\", \"Brazil\", \"France\", \"Australia\"]\nprint(countries[-5])\nprint(countries[-4])\nprint(countries[-3])\nprint(countries[-2])\nprint(countries[-1])\n\nMethod 2 (Using for loop with negative index):\ncountries = [\"India\", \"Japan\", \"Brazil\", \"France\", \"Australia\"]\nfor i in range(-5, 0):\n    print(countries[i])",
+      "explanation": "Method 1 accesses each item individually. Method 2 uses range(-5, 0) to loop through negative indices — this is the better approach.",
       "source_section": "Paper 5 — Write Python Code"
     },
     {
       "id": "sp5_wc_04",
       "question": "Write a Python code to create a list with 5 movie names and display the items in the list in reverse order using positive index.",
-      "answer": "movies = [\"Avengers\", \"Batman\", \"Spider-Man\", \"Iron Man\", \"Thor\"]\nprint(movies[4])\nprint(movies[3])\nprint(movies[2])\nprint(movies[1])\nprint(movies[0])",
+      "answer": "Method 1 (Simple — reverse positive index):\nmovies = [\"Avengers\", \"Batman\", \"Spider-Man\", \"Iron Man\", \"Thor\"]\nprint(movies[4])\nprint(movies[3])\nprint(movies[2])\nprint(movies[1])\nprint(movies[0])\n\nMethod 2 (Using for loop in reverse):\nmovies = [\"Avengers\", \"Batman\", \"Spider-Man\", \"Iron Man\", \"Thor\"]\nfor i in range(4, -1, -1):\n    print(movies[i])",
+      "explanation": "Method 1 accesses each item individually in reverse. Method 2 uses range(4, -1, -1) to loop from index 4 down to 0 — this is the better approach.",
       "source_section": "Paper 5 — Write Python Code"
     },
     {
@@ -612,13 +580,6 @@
       "id": "sp5_wc_06",
       "question": "Write a Python code to print \"Happy new year!!\" 10 times with a time delay of 1 second.",
       "answer": "import time\nfor i in range(10):\n    print(\"Happy new year!!\")\n    time.sleep(1)",
-      "source_section": "Paper 5 — Write Python Code"
-    },
-    {
-      "id": "sp5_wc_07",
-      "question": "Write a Python code to create the following list of sportsmen: \"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\". Display their names in alphabetical order using positive index.",
-      "answer": "sportsmen = [\"Virat Kohli\", \"Abhinav Bhindra\", \"Neeraj Chopra\", \"Sunil Chhetri\", \"Dhyaan Chand\"]\nsportsmen.sort()\nfor i in range(len(sportsmen)):\n    print(sportsmen[i])",
-      "explanation": "After sorting: Abhinav Bhindra, Dhyaan Chand, Neeraj Chopra, Sunil Chhetri, Virat Kohli",
       "source_section": "Paper 5 — Write Python Code"
     },
     {
@@ -669,12 +630,6 @@
       "source_section": "Paper 6 — One Word Answer"
     },
     {
-      "id": "sp6_ow_02",
-      "question": "What is the data value that the operator works on called?",
-      "answer": "Operand",
-      "source_section": "Paper 6 — One Word Answer"
-    },
-    {
       "id": "sp6_po_01",
       "question": "Predict the output:\n\nx = 10\ny = 5\nprint(x / y)",
       "answer": "2.0",
@@ -719,12 +674,6 @@
       "id": "sp6_wc_02",
       "question": "Write a Python code to accept the number of minutes and print the number of seconds in it.",
       "answer": "minutes = int(input(\"Enter number of minutes: \"))\nprint(minutes * 60)",
-      "source_section": "Paper 6 — Write Python Code"
-    },
-    {
-      "id": "sp6_wc_03",
-      "question": "Write a Python code to accept your age and print your year of birth.",
-      "answer": "age = int(input(\"Enter your age: \"))\nprint(2026 - age)",
       "source_section": "Paper 6 — Write Python Code"
     },
     {
@@ -775,12 +724,6 @@
       "answer": "b) float",
       "explanation": "The / operator always returns a float in Python. 10 / 3 = 3.3333...",
       "source_section": "Paper 7 — MCQ"
-    },
-    {
-      "id": "sp7_ow_01",
-      "question": "Name the operator that is used to give integer quotient after division.",
-      "answer": "// (floor division operator)",
-      "source_section": "Paper 7 — One Word Answer"
     },
     {
       "id": "sp7_po_01",
@@ -897,12 +840,6 @@
       "source_section": "Paper 8 — Fill in Range"
     },
     {
-      "id": "sp8_rg_02",
-      "question": "Fill in the range() to print the series: 4, 8, 12, 16, 20, ..., 40",
-      "answer": "for i in range(4, 41, 4):\n    print(i)",
-      "source_section": "Paper 8 — Fill in Range"
-    },
-    {
       "id": "sp8_rg_03",
       "question": "Fill in the range() to print the series: 20, 18, 16, ..., 0",
       "answer": "for i in range(20, -1, -2):\n    print(i)",
@@ -978,8 +915,8 @@
     {
       "id": "sp8_wc_02",
       "question": "Write a Python code to create a list containing 8 fruit names. Use negative indexes to display only the last three fruits in the list.",
-      "answer": "fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\", \"fig\", \"grape\", \"honeydew\"]\nprint(fruits[-3])\nprint(fruits[-2])\nprint(fruits[-1])",
-      "explanation": "Output: fig, grape, honeydew",
+      "answer": "Method 1 (Simple — negative index):\nfruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\", \"fig\", \"grape\", \"honeydew\"]\nprint(fruits[-3])\nprint(fruits[-2])\nprint(fruits[-1])\n\nMethod 2 (Using for loop with negative index):\nfruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\", \"fig\", \"grape\", \"honeydew\"]\nfor i in range(-3, 0):\n    print(fruits[i])",
+      "explanation": "Method 1 accesses each item individually. Method 2 uses range(-3, 0) to loop through the last 3 items. Output: fig, grape, honeydew.",
       "source_section": "Paper 8 — Write Python Code"
     },
     {

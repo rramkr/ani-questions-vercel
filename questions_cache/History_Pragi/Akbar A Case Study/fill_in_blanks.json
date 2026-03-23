@@ -1,0 +1,180 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "ak_fib001",
+      "question": "Akbar was born in _____ in Amarkot Fort in present-day Sind.",
+      "answer": "1542",
+      "explanation": "Akbar was born in 1542 while his father Humayun was in exile in Sind and Rajasthan.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_fib002",
+      "question": "Akbar's full name was Jalaluddin Muhammad _____.",
+      "answer": "Akbar",
+      "explanation": "Akbar's full name was Jalaluddin Muhammad Akbar, meaning 'Akbar the Great'.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_fib003",
+      "question": "Akbar was brought up by his paternal uncle _____.",
+      "answer": "Kamran",
+      "explanation": "While Humayun was in exile, young Akbar was brought up by his paternal uncle Kamran.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_fib004",
+      "question": "Akbar's coronation took place in _____ in Punjab in 1556.",
+      "answer": "Kalanaur",
+      "explanation": "When Humayun died, Akbar was at Kalanaur in Punjab, and his coronation was held there in 1556.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_fib005",
+      "question": "_____ served as the regent of Akbar from 1556 to 1560.",
+      "answer": "Bairam Khan",
+      "explanation": "Bairam Khan, Humayun's favourite and confidant, served as regent of Akbar from 1556 to 1560.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_fib006",
+      "question": "Bairam Khan held the title of _____.",
+      "answer": "Khan-i-Khanan",
+      "explanation": "Bairam Khan held the prestigious title of Khan-i-Khanan during his regency.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_fib007",
+      "question": "_____, Akbar's half-brother, revolted from Kabul.",
+      "answer": "Mirza Hakim",
+      "explanation": "Mirza Hakim, Akbar's half-brother, revolted from Kabul and posed a challenge to Akbar's authority.",
+      "source_section": "Problems Before Akbar"
+    },
+    {
+      "id": "ak_fib008",
+      "question": "Hemu was struck by an arrow in his _____ during the Second Battle of Panipat.",
+      "answer": "eye",
+      "explanation": "During the Second Battle of Panipat, Hemu was struck by an arrow in his eye and rendered unconscious, leading to the Afghan army's panic and retreat.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "ak_fib009",
+      "question": "Adil Shah was defeated and killed in Bengal by _____ in April 1557.",
+      "answer": "Khizr Khan",
+      "explanation": "After the Second Battle of Panipat, Adil Shah was also defeated and killed in Bengal by Khizr Khan in April 1557.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "ak_fib010",
+      "question": "Bairam Khan's son became the influential noble _____.",
+      "answer": "Abdur Rahim Khan-i-Khana",
+      "explanation": "After Bairam Khan was killed near Ahmedabad, his son became the influential noble Abdur Rahim Khan-i-Khana, one of the Navratnas.",
+      "source_section": "End of Bairam Khan's Regency"
+    },
+    {
+      "id": "ak_fib011",
+      "question": "In 1564, Akbar conquered _____ where Rani Durgawati's kingdom was annexed.",
+      "answer": "Gondwana",
+      "explanation": "In 1564, Akbar conquered Gondwana, where Rani Durgawati ruled. The kingdom was conquered and annexed.",
+      "source_section": "Expansion of Akbar's Empire"
+    },
+    {
+      "id": "ak_fib012",
+      "question": "_____ of Amber was the first Rajput to enter into an alliance with Akbar.",
+      "answer": "Raja Bharmal",
+      "explanation": "Raja Bharmal of Amber was the first Rajput chief to enter into a matrimonial alliance with Akbar.",
+      "source_section": "Relations with the Rajputs"
+    },
+    {
+      "id": "ak_fib013",
+      "question": "The Mughal empire was divided into _____ subas by Akbar, which later grew to twenty.",
+      "answer": "twelve",
+      "explanation": "Akbar initially divided his empire into twelve provinces (subas), which later grew to twenty with the addition of Ahmadnagar, Berar, and Khandesh.",
+      "source_section": "Provincial Administration"
+    },
+    {
+      "id": "ak_fib014",
+      "question": "The _____ was the officer in-charge of the royal Karkhanas.",
+      "answer": "Mir Saman",
+      "explanation": "The Mir Saman was the officer in-charge of royal Karkhanas (manufacturing) in Akbar's central administration.",
+      "source_section": "Central Administration"
+    },
+    {
+      "id": "ak_fib015",
+      "question": "In the Mansabdari system, 'Mansab' literally means _____ or rank.",
+      "answer": "office",
+      "explanation": "The literal meaning of 'Mansab' is office or rank. Every officer or noble in Akbar's administration was a Mansabdar.",
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "ak_fib016",
+      "question": "Raja Todar Mal introduced bamboo sticks called _____ with iron rings for land measurement.",
+      "answer": "jarib",
+      "explanation": "Raja Todar Mal introduced bamboo sticks called jarib with iron rings, replacing rope which changed in wet and dry conditions.",
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_fib017",
+      "question": "The dahsaal system was introduced in _____ and fixed revenue based on the average of the last 10 years.",
+      "answer": "1580",
+      "explanation": "The dahsaal system, introduced in 1580, fixed the revenue after assessing the average produce and prices of the last 10 years.",
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_fib018",
+      "question": "Land not cultivated for more than 5 years was classified as _____.",
+      "answer": "Banjar",
+      "explanation": "Under Akbar's revenue system, land was classified into four categories: Polaj, Parauti, Chachar, and Banjar (not cultivated for more than 5 years).",
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_fib019",
+      "question": "The gold coin during Akbar's reign was called _____.",
+      "answer": "mohur",
+      "explanation": "During Akbar's reign, the gold coin was called mohur, the silver coin was called rupee, and the copper coin was called dam or paisa.",
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_fib020",
+      "question": "Akbar suggested a new religious path called _____.",
+      "answer": "Din-i-Ilahi",
+      "explanation": "After discussions with scholars of various faiths, Akbar suggested Din-i-Ilahi (religion of one God), which was like a Sufi order.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ak_fib021",
+      "question": "In 1575, Akbar built _____ as his new capital city.",
+      "answer": "Fatehpur Sikri",
+      "explanation": "Akbar built Fatehpur Sikri near Agra as his new capital in 1575, selecting the site because the Sufi saint Salim Chisti lived there.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ak_fib022",
+      "question": "The _____ was the Hall of Worship built by Akbar for religious discussions.",
+      "answer": "Ibadat Khana",
+      "explanation": "Akbar built the Ibadat Khana (Hall of Worship) where he invited scholars of different faiths for religious discussions.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ak_fib023",
+      "question": "Abul Fazl wrote the _____, which was an official biographical account of Akbar's life.",
+      "answer": "Akbarnama",
+      "explanation": "Abul Fazl wrote the Akbarnama, commissioned by Akbar. It took seven years to complete and contained paintings.",
+      "source_section": "Education and Literature"
+    },
+    {
+      "id": "ak_fib024",
+      "question": "The _____ is the highest gateway in India, built at Fatehpur Sikri.",
+      "answer": "Buland Darwaza",
+      "explanation": "The Buland Darwaza was built at Fatehpur Sikri to commemorate Akbar's victory over Gujarat. It is the highest gateway in India and one of the biggest in the world.",
+      "source_section": "Architecture"
+    },
+    {
+      "id": "ak_fib025",
+      "question": "Akbar raised the minimum marriage age to _____ for girls and _____ for boys.",
+      "answer": "14, 16",
+      "explanation": "As part of his social reforms, Akbar discouraged child marriage and raised the minimum marriage age to 14 for girls and 16 for boys.",
+      "source_section": "Social Reforms"
+    }
+  ]
+}

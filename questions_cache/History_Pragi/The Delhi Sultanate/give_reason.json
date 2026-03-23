@@ -1,0 +1,53 @@
+{
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "ds_gr001",
+      "question": "Qutb-ud-din Aibak was called 'Lakh Baksh'.",
+      "answer": "Qutb-ud-din Aibak was called 'Lakh Baksh' because of his extreme generosity. The title means 'giver of lakhs'. He was known to be very kind-hearted and would distribute large amounts of wealth and gifts to people around him. Despite being born as a slave in Central Asia, he rose to become the first independent Muslim ruler of northern India and was remembered for his charitable nature.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_gr002",
+      "question": "Iltutmish refused shelter to the ruler of Persia in 1221.",
+      "answer": "Iltutmish refused shelter to the ruler of Persia in 1221 because the Persian ruler was being chased by the fearsome Mongol conqueror Genghis Khan. Iltutmish showed great diplomatic wisdom by understanding that giving shelter to the Persian ruler would give Genghis Khan a reason to invade India. By refusing shelter, he avoided a potentially devastating Mongol invasion that could have destroyed the Delhi Sultanate. This shrewd decision saved India from the destruction that the Mongols had inflicted across Central Asia and Persia.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_gr003",
+      "question": "The nobles plotted against Raziya Sultan and killed her.",
+      "answer": "The nobles plotted against Raziya Sultan because they could not tolerate taking orders from a woman. Despite being an efficient and just ruler who established law and order, built roads, and set up das-chowkis (guard posts), the powerful Turkish nobles of the 13th century could not accept a woman as their Sultan. In the patriarchal society of medieval times, having a woman rule over a Muslim kingdom was unacceptable to the conservative nobility. They conspired against her and she was killed in 1240, just four years after becoming Sultan.",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_gr004",
+      "question": "Muhammad-bin-Tughlaq decided to transfer the capital from Delhi to Daulatabad.",
+      "answer": "Muhammad-bin-Tughlaq transferred the capital from Delhi to Daulatabad (formerly Devagiri) in 1327 because Daulatabad was more centrally located in the empire. He wanted better administrative control over both the northern and the recently conquered southern territories. However, the scheme failed because only the upper classes were shifted, the harsh journey caused great suffering and many deaths, and he could not effectively control Delhi and the northern regions from the distant southern location. He was forced to transfer the capital back to Delhi in 1335.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_gr005",
+      "question": "Muhammad-bin-Tughlaq's token currency scheme failed.",
+      "answer": "Muhammad-bin-Tughlaq's token currency scheme failed because there were no proper security measures to prevent counterfeiting. He introduced copper jittal as token currency in place of the silver tanka. Since copper was a cheap and commonly available metal, people could easily forge coins at home. The market was soon flooded with fake copper coins, and the value of the currency collapsed completely. The Sultan was forced to withdraw the token currency at a tremendous loss to the state treasury. While the idea of token currency was ahead of its time, the lack of anti-counterfeiting measures made it impractical.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_gr006",
+      "question": "Firoz Shah Tughlaq's decision to make iqtas hereditary weakened the empire.",
+      "answer": "Firoz Shah Tughlaq made iqtas hereditary to win the loyalty and support of the nobles. However, this decision ultimately weakened the empire because it gave nobles a permanent source of income and power that they could pass on to their children. Earlier, iqtas were temporary grants that could be revoked by the Sultan, which kept the nobles dependent on royal favour. By making them hereditary, the nobles became too powerful and independent, no longer needing to serve the Sultan faithfully to retain their lands. After Firoz Shah's death in 1388, these powerful nobles asserted their independence and the empire quickly broke apart.",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_gr007",
+      "question": "Daulat Khan Lodi invited Babur to invade India.",
+      "answer": "Daulat Khan Lodi, who was the governor of Punjab and uncle of Ibrahim Lodi, invited Babur to invade India because Ibrahim Lodi's reign was marked by constant revolts and conflict with the nobles. Ibrahim Lodi had failed to win the cooperation of the Afghan nobles, and his own brother Jalal Khan had already rebelled against him. Daulat Khan Lodi saw an opportunity to overthrow Ibrahim by seeking help from the powerful ruler Babur, who was based in Kabul. This invitation led to Babur's invasion and the decisive Battle of Panipat in 1526, ending the Delhi Sultanate.",
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_gr008",
+      "question": "Ala-ud-din Khalji was the first Sultan to not seek manshur from the Caliph.",
+      "answer": "Ala-ud-din Khalji was the first Sultan to not ask for manshur (letter of authority) from the Caliph because he wanted to assert his independent authority and supreme power. Earlier Sultans sought the Caliph's approval to legitimize their rule, but Ala-ud-din was so powerful and confident that he did not feel the need for this religious endorsement. Instead, he called himself the deputy of the Caliph, claiming authority without actually seeking permission. This was a bold political move that demonstrated his belief in his own absolute power and his desire to rule without external validation.",
+      "source_section": "The Khalji Dynasty"
+    }
+  ]
+}

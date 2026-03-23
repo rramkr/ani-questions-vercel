@@ -1,0 +1,117 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "dp_ar001",
+      "assertion": "Directive Principles of State Policy cannot be enforced in a court of law.",
+      "reason": "Directive Principles are non-justiciable in nature.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Directive Principles are non-justiciable, which means they cannot be enforced by any court of law. The reason correctly explains why they cannot be enforced.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_ar002",
+      "assertion": "The Directive Principles were inspired by the Constitution of Ireland.",
+      "reason": "Ireland was the first country to include Directive Principles in its Constitution.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The Directive Principles were inspired by those stated in the Constitution of Ireland. Ireland's inclusion of such principles in their Constitution served as the model for India.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_ar003",
+      "assertion": "The Zamindari system was abolished after Independence.",
+      "reason": "The Directive Principles aim to ensure that wealth is not concentrated in a few hands.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The Zamindari system was abolished and surplus land was distributed among the landless poor. This was done because the Directive Principles aim to distribute wealth so it is not concentrated in a few hands.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_ar004",
+      "assertion": "Fundamental Rights guarantee political democracy.",
+      "reason": "Directive Principles establish social and economic democracy.",
+      "correct_option": "B",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true. Fundamental Rights do guarantee political democracy and Directive Principles do establish social and economic democracy. However, the reason about Directive Principles does not explain why Fundamental Rights guarantee political democracy.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_ar005",
+      "assertion": "Village Panchayats shall be given powers for self-government.",
+      "reason": "This is a General Directive Principle of State Policy.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The assertion is true - Village Panchayats shall be given powers for self-government. However, the reason is false because this is a Gandhian Directive Principle, not a General Directive Principle.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_ar006",
+      "assertion": "Under British rule, India was a welfare state.",
+      "reason": "The British government was interested in the welfare of Indian people.",
+      "correct_option": "D",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both are false. Under British rule, India was NOT a welfare state, and the British were NOT interested in the welfare of the Indian people. Whatever they did was in the interests of the British government.",
+      "source_section": "Background"
+    },
+    {
+      "id": "dp_ar007",
+      "assertion": "The 42nd Amendment added the duty to protect the environment as a Directive Principle.",
+      "reason": "Environmental protection was originally part of the Constitution when it was adopted.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The assertion is true - the 42nd Amendment did add the duty to protect the environment. However, the reason is false because environmental protection was NOT originally part of the Constitution; it was ADDED later by the 42nd Amendment.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_ar008",
+      "assertion": "Directive Principles and Fundamental Rights are complementary to each other.",
+      "reason": "Both aim at the welfare of citizens and together they ensure political, social and economic democracy.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both assertion and reason are true. Directive Principles and Fundamental Rights are indeed complementary, and this is because both aim at the welfare of citizens - Fundamental Rights guarantee political democracy while Directive Principles establish social and economic democracy.",
+      "source_section": "Differences"
+    }
+  ]
+}

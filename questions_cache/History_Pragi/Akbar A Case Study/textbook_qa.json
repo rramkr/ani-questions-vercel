@@ -1,0 +1,255 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "ak_tqa001",
+      "exercise": "I - Choose the correct answer",
+      "question": "Akbar started policy of expansion with ________ India.\n(a) Northern\n(b) Central",
+      "answer": "Central India",
+      "question_type": "mcq_textbook",
+      "options": ["Northern", "Central"]
+    },
+    {
+      "id": "ak_tqa002",
+      "exercise": "I - Choose the correct answer",
+      "question": "Akbar had ________ jewels.\n(a) nine\n(b) ten",
+      "answer": "nine",
+      "question_type": "mcq_textbook",
+      "options": ["nine", "ten"]
+    },
+    {
+      "id": "ak_tqa003",
+      "exercise": "I - Choose the correct answer",
+      "question": "Tomb of Salim Chisti is made of ________.\n(a) sandstone\n(b) marble",
+      "answer": "marble",
+      "question_type": "mcq_textbook",
+      "options": ["sandstone", "marble"]
+    },
+    {
+      "id": "ak_tqa004",
+      "exercise": "I - Choose the correct answer",
+      "question": "Buland Darwaza was built to commemorate Akbar's victory over ________.\n(a) Malwa\n(b) Gujarat",
+      "answer": "Gujarat",
+      "question_type": "mcq_textbook",
+      "options": ["Malwa", "Gujarat"]
+    },
+    {
+      "id": "ak_tqa005",
+      "exercise": "I - Choose the correct answer",
+      "question": "Mughal empire was divided into ________ provinces by Akbar.\n(a) eleven\n(b) twelve",
+      "answer": "twelve",
+      "question_type": "mcq_textbook",
+      "options": ["eleven", "twelve"]
+    },
+    {
+      "id": "ak_tqa006",
+      "exercise": "II - Fill in the blanks",
+      "question": "Akbar's coronation took place in ________ in ________.",
+      "answer": "Akbar's coronation took place in Kalanaur in 1556.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ak_tqa007",
+      "exercise": "II - Fill in the blanks",
+      "question": "________ served as the regent of Akbar.",
+      "answer": "Bairam Khan served as the regent of Akbar.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ak_tqa008",
+      "exercise": "II - Fill in the blanks",
+      "question": "Akbar suggested a new religious path called ________.",
+      "answer": "Akbar suggested a new religious path called Din-i-Ilahi.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ak_tqa009",
+      "exercise": "II - Fill in the blanks",
+      "question": "________ is an account of Akbar's life.",
+      "answer": "Akbarnama is an account of Akbar's life.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ak_tqa010",
+      "exercise": "II - Fill in the blanks",
+      "question": "Akbar defeated ________ in the Second Battle of Panipat.",
+      "answer": "Akbar defeated Hemu in the Second Battle of Panipat.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ak_tqa011",
+      "exercise": "III - Remembering Based",
+      "question": "What was Din-i-Ilahi? What were its main principles?",
+      "answer": "Din-i-Ilahi (religion of one God) was a religious path suggested by Akbar after discussions with scholars of various faiths at Fatehpur Sikri. It was not a new religion but was like a Sufi order. Its main principles included: Akbar became the spiritual guide; it discouraged killing of animals and advised stopping meat consumption for some days; it disapproved of Sati; and it introduced worship of Sun and Fire in rituals. Akbar did not force anyone to follow it. Even his own minister Raja Man Singh refused, while Raja Birbal followed it. After Akbar's death in 1605, Din-i-Ilahi faded out.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa012",
+      "exercise": "III - Remembering Based",
+      "question": "Who were the Navratnas? Name all of them.",
+      "answer": "The Navratnas (Nine Gems) were nine eminent people in Akbar's court who excelled in different fields. They were: (1) Raja Birbal - Akbar's constant companion, (2) Miyan Tansen - famous musician and singer, (3) Abul Fazl - author of Akbarnama, (4) Faizi - Persian poet, (5) Raja Man Singh - trusted military commander, (6) Raja Todar Mal - in charge of land revenue and assessment, (7) Mulla Do Piazza - courtier, (8) Fakir Aziao-Din - religious scholar, and (9) Abdul Rahim Khan-i-Khana - influential noble and son of Bairam Khan.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa013",
+      "exercise": "III - Remembering Based",
+      "question": "When and between whom was the Second Battle of Panipat fought? What was the outcome?",
+      "answer": "The Second Battle of Panipat was fought on 5 November 1556 between the Mughal forces under Akbar and his regent Bairam Khan, and the Afghan forces under Hemu, the general of Afghan emperor Adil Shah. Hemu had already seized Delhi and Agra and his army numerically outnumbered the Mughals with more cavalry and elephants. However, the Mughal forces bravely fought and forced Hemu to retreat. Hemu was struck by an arrow in his eye and rendered unconscious. The Afghan army panicked and retreated, resulting in a complete victory for the Mughals. This battle helped the Mughals regain supremacy over Delhi and Agra.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa014",
+      "exercise": "III - Remembering Based",
+      "question": "Name the famous style of painting that emerged during Akbar's reign.",
+      "answer": "During Akbar's reign, a new style of painting emerged that was a mixture of Indian and Persian styles. The new style featured the use of red and blue colours. Miniature painting became particularly famous. Akbar established many karkhanas (workshops) for painters and commissioned around 250 paintings in the latter part of the 16th century. Jaswant and Daswana were two famous painters of this period.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa015",
+      "exercise": "IV - Understanding Based: True/False",
+      "question": "Ahmadnagar was bravely defended by Chand Bibi and only some part of it was annexed by the Mughals.",
+      "answer": "True. Ahmadnagar was bravely defended by Chand Bibi. The Mughals could only annex part of Ahmadnagar, not the whole territory.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ak_tqa016",
+      "exercise": "IV - Understanding Based: True/False",
+      "question": "Tansen was a famous musician and singer in Akbar's court.",
+      "answer": "True. Tansen was one of the Navratnas and was a famous musician and singer who composed many Hindustani ragas including Raag Darbari and Deepak Raag.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ak_tqa017",
+      "exercise": "IV - Understanding Based: True/False",
+      "question": "Humayun's Tomb is located in Agra.",
+      "answer": "False. Humayun's Tomb is located in New Delhi, not in Agra.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ak_tqa018",
+      "exercise": "IV - Understanding Based: True/False",
+      "question": "The head of the revenue department in the suba was the Subedar.",
+      "answer": "False. The Subedar was the provincial governor, not the head of the revenue department. The Wazir/Diwan was the head of the revenue department.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ak_tqa019",
+      "exercise": "IV - Understanding Based: True/False",
+      "question": "Akbar got the Ramayana and the Mahabharata translated from Sanskrit to Persian.",
+      "answer": "True. Akbar got the Ramayana and the Mahabharata translated from Sanskrit to Persian to promote cultural exchange.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ak_tqa020",
+      "exercise": "V - Define",
+      "question": "Define: Navratnas",
+      "answer": "Navratnas (Nine Gems) refers to the nine eminent people who were part of Akbar's court and excelled in different fields such as literature, music, military, revenue, and religion. They were: Abul Fazl, Abdul Rahim Khan-i-Khana, Raja Todar Mal, Raja Man Singh, Fakir Aziao-Din, Raja Birbal, Mulla Do Piazza, Faizi, and Miyan Tansen.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa021",
+      "exercise": "V - Define",
+      "question": "Define: Subas",
+      "answer": "Subas were provinces into which Akbar divided his empire for efficient administration. Initially, Akbar divided the empire into twelve subas: Allahabad, Agra, Awadh, Ajmer, Ahmedabad, Bihar, Bengal, Delhi, Kabul, Lahore, Malwa, and Multan. Later, three more (Ahmadnagar, Berar, and Khandesh) were added, growing to twenty provinces. Each suba was governed by a Subedar who was directly appointed by the Emperor.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa022",
+      "exercise": "VI - Differentiate",
+      "question": "Differentiate between: Zat and Sawar",
+      "answer": "In the Mansabdari system, every officer's rank was denoted by two numbers - Zat and Sawar. Zat referred to the personal rank of the mansabdar and determined his position in the hierarchy, with ranks ranging from 10 to 10,000 (above 50,000 was reserved for princes). Sawar referred to the size of the cavalry contingent that the mansabdar was expected to maintain. While Zat determined the personal status and salary, Sawar indicated the actual military obligation and the number of horsemen the officer had to keep ready for service.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa023",
+      "exercise": "VII - Answer in brief",
+      "question": "Write a short note on architecture of this period.",
+      "answer": "Akbar built a new capital city at Fatehpur Sikri near Agra. He selected the site because the Sufi saint Salim Chisti lived there. The city was surrounded by a wall on three sides with an artificial lake on the fourth. The architecture blended Muslim and Hindu elements, with Islamic arches alongside Hindu pillars. The material used was red sandstone with insertions of white marble. It was a mixture of Indian and Persian styles. Important buildings at Fatehpur Sikri include Diwan-i-Khas, Diwan-i-Aam, Panch Mahal, Jodha Bai's Palace, Jama Masjid, Buland Darwaza (the highest gateway in India, built to commemorate his Gujarat victory), and the Tomb of Sheikh Salim Chisti (made of marble with pearl and ebony inlay). Humayun's Tomb in New Delhi was also built during this period, featuring a raised platform, many domes, arches, a garden and a big gateway.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ak_tqa024",
+      "exercise": "VII - Answer in brief",
+      "question": "When Akbar became Mughal emperor, what problems were posed before him?",
+      "answer": "When Akbar became emperor at the age of 13, the Mughal empire was unstable due to the sudden death of his father Humayun. The Afghans, particularly Adil Shah (Sher Shah's nephew) and his general Hemu, were posing serious threats and had already seized Delhi and Agra. The Rajputs wanted to eradicate the Mughal empire. Additionally, Mirza Hakim, Akbar's half-brother, had revolted from Kabul and was ruling independently. All these challenges made Akbar's position very insecure at the time of his accession.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa025",
+      "exercise": "VII - Answer in brief",
+      "question": "Who was Bairam Khan? Why was he important during the initial years? Why did Akbar remove him?",
+      "answer": "Bairam Khan was Humayun's favourite and confidant who served as the regent of young Akbar from 1556 to 1560. He held the title of Khan-i-Khanan. During the initial years, he was extremely important because he guided the administration and led the Mughal forces to victory in the Second Battle of Panipat (1556), defeating Hemu and the Afghans. However, over time Bairam Khan became arrogant and started appointing his favourite nobles to important positions. A group of nobles opposed him. When Akbar turned 18, he removed Bairam Khan and asked him to go on a pilgrimage to Mecca. Bairam Khan was killed by an Afghan near Ahmedabad. His son later became the influential noble Abdur Rahim Khan-i-Khana.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa026",
+      "exercise": "VII - Answer in brief",
+      "question": "Explain briefly the policy adopted by Akbar towards the Rajputs.",
+      "answer": "Akbar showed great reverence towards the Rajputs and adopted a policy of friendship and alliance. He inducted Rajputs into Mughal service and formed matrimonial alliances, with Raja Bharmal of Amber being the first Rajput to enter into such an alliance. Rajput kingdoms of Merta and Jodhpur were subjugated without much resistance. By 1570, Akbar had captured almost the whole of Rajasthan and there was no hostility between Rajputs and Mughals. He never interfered in the internal matters of the Rajputs and offered them high administrative posts. Raja Birbal and Raja Man Singh were his most trusted Rajput officials.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa027",
+      "exercise": "VII - Answer in brief",
+      "question": "Why was the Battle of Haldighati fought? What was its outcome?",
+      "answer": "The Battle of Haldighati was fought on 18 June 1576 because not all Rajput chiefs had submitted to Akbar. Udai Singh of Mewar had fought against Akbar and was defeated, but his son Maharana Pratap continued the fight and refused to accept Mughal authority. The battle was fought between the armies of Maharana Pratap (Rana of Mewar) and the Mughal forces led by Man Singh I of Amber. Maharana Pratap was defeated and took shelter in a mountain fortress. A large number of Rajput soldiers were killed. However, resistance from Mewar continued for a long time, and in 1597, Maharana Pratap managed to take back part of his dominion.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ak_tqa028",
+      "exercise": "VIII - Answer in detail",
+      "question": "What steps were taken by Akbar to expand his empire?",
+      "answer": "Akbar adopted policies of direct conquest and matrimonial alliances to expand his empire. In 1559-60, his first expedition captured Gwalior, followed by Malwa where Baz Bahadur was defeated and fled to Burhanpur. In 1564, he conquered Gondwana, where Rani Durgawati's kingdom was conquered and annexed. In 1572, he conquered Gujarat, which was significant for its cotton industry, seaports, and trade. Between 1574-76, Bengal was brought under the Mughal empire. In 1592, Orissa was annexed. In the north-west, Akbar conquered Kabul, Kashmir, Qandahar, Lower Sind, and eastern Baluchistan. In 1590, he started his Deccan campaign, attacking Ahmadnagar which was bravely defended by Chand Bibi, and only part was annexed. In 1601, he invaded Khandesh and captured the forts of Burhanpur and Asirgarh. Through these conquests, Akbar built one of the largest empires in Indian history.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ak_tqa029",
+      "exercise": "VIII - Answer in detail",
+      "question": "Explain briefly the religious policy of Akbar.",
+      "answer": "Akbar held liberal religious views and believed in the basic unity of all religions. He married a Rajput princess and allowed her to practise her own religion. In 1562, he abolished the pilgrim tax and jizya on Hindus. He participated in Hindu festivals such as Diwali, Holi, and Raksha Bandhan, and abolished the forceful conversion of prisoners of war. In 1575, he built Fatehpur Sikri as his new capital and invited religious scholars from different faiths - Hindus, Jains, Parsis, and Christians - for discussion. After these discussions, he suggested Din-i-Ilahi (religion of one God), which was not a new religion but like a Sufi order. He did not force anyone to follow it - even his own minister Raja Man Singh refused, while only Raja Birbal followed it. He built the Ibadat Khana (Hall of Worship) for religious discussions. Under Din-i-Ilahi, Akbar discouraged killing animals, disapproved of Sati, and introduced worship of Sun and Fire. After his death in 1605, Din-i-Ilahi faded out, though his policy of secularism was followed by his son Jahangir.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ak_tqa030",
+      "exercise": "VIII - Answer in detail",
+      "question": "Write a short note on the condition of literature during Akbar's rule.",
+      "answer": "Literature flourished under Akbar's patronage, even though Akbar himself never learnt to read or write. He was fond of knowledge and had books read to him. The two great literary gems of his court were Abul Fazl and Faizi. Abul Fazl wrote the Akbarnama, which was an official biographical account of Akbar's life and took seven years to complete. Part of the Akbarnama was the Ain-i-Akbari, which documented the law and revenue system. Faizi was a poet who wrote in Persian. Akbar got the Ramayana and the Mahabharata translated from Sanskrit to Persian to promote cultural exchange. Hindi poetry also flourished during this period, with poets like Keshav, Rahim, Surdas, and Tulsidas making significant contributions. Tulsidas's Ramcharitmanas, composed during this era, continues to be read with reverence worldwide.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ak_tqa031",
+      "exercise": "VIII - Answer in detail",
+      "question": "How was the central administrative system during Akbar's reign?",
+      "answer": "Akbar's central administration, documented by Abul Fazl in the Ain-i-Akbari, was a mix of Central Asian and Indian traditions. The Emperor was the head of the state who controlled all political, military, and judicial powers. All officers owed their power and position to the Emperor. Several departments were created, and official meetings were held in the Diwan-i-Khas where nobles and department heads reported. The key officials were: the Wazir or Diwan, who was the head of the revenue department; the Mir Bakshi, who handled military administration and maintenance of armed contingents; the Mir Saman, who was the officer in-charge of royal Karkhanas (manufacturing); the Sadr-us-Sudur, who protected the laws of Islam; and the Qazi, who was the head of the judiciary. The Mansabdari system was used for the army, where every officer was a Mansabdar with ranks denoted by Zat (personal rank) and Sawar (size of contingent). Ranks were not hereditary - after a mansabdar's death, his jagir reverted to the emperor.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ak_tqa032",
+      "exercise": "VIII - Answer in detail",
+      "question": "How was the revenue system under Akbar's reign?",
+      "answer": "Under Akbar's reign, land and trade were the two main sources of income. Raja Todar Mal was in charge of land revenue and assessment. The revenue system was known as the dahsaal or zabti system. Todar Mal introduced a new method of measurement using bamboo sticks called jarib with iron rings at the ends, instead of rope which would change in wet and dry conditions. Land was classified into four categories: Polaj (land under cultivation), Parauti (land left fallow to regain fertility), Chachar (land not cultivated for 3-5 years), and Banjar (land not cultivated for more than 5 years). The dahsaal system, introduced in 1580, fixed the revenue after assessing the average produce and prices of the last 10 years. If crops failed due to drought or floods, the government remitted the value. Akbar also encouraged internal and external trade, with Gujarat and Bengal serving as centres of foreign trade. The coins used were: gold coin called mohur, silver coin called rupee, and copper coin called dam or paisa.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ak_tqa033",
+      "exercise": "Application",
+      "question": "Which qualities of Akbar made him 'Akbar the Great'?",
+      "answer": "Several qualities made Akbar deserve the title 'Akbar the Great'. His military genius helped him expand the Mughal empire from a small territory to one of the largest empires in Indian history through strategic conquests and alliances. His religious tolerance was remarkable - he abolished the jizya and pilgrim tax, participated in Hindu festivals, and believed in the unity of all religions, establishing Din-i-Ilahi. His diplomatic skill was evident in his Rajput policy, where he won their loyalty through matrimonial alliances and giving them high posts rather than treating them as enemies. His administrative brilliance is seen in the Mansabdari system and the efficient revenue system under Raja Todar Mal. His patronage of art, literature, music, and architecture led to a cultural golden age, producing masterpieces like Fatehpur Sikri and the Akbarnama. His social reforms - abolishing Sati, legalising widow remarriage, discouraging child marriage, and abolishing enslavement - showed him to be a progressive ruler far ahead of his time.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ak_tqa034",
+      "exercise": "HOTS",
+      "question": "Akbar built the Mughal empire by enlisting the support of the Rajputs. Discuss.",
+      "answer": "Akbar realised early on that to build a stable and lasting empire in India, he needed the cooperation of the Rajputs, who were the most powerful warrior class in the region. Instead of fighting them all, he adopted a two-pronged strategy. First, he formed matrimonial alliances, beginning with Raja Bharmal of Amber, who was the first Rajput chief to enter into such an alliance. Second, he gave Rajputs high administrative and military posts - Raja Man Singh became one of his most trusted generals who led the Mughal forces at the Battle of Haldighati, and Raja Birbal was his constant companion. He never interfered in the internal matters of the Rajputs. By 1570, almost the whole of Rajasthan had come under Mughal control without hostility. This Rajput alliance provided Akbar with brave, loyal soldiers and administrators, which was crucial for building and maintaining his vast empire. However, Akbar also showed firmness against those who resisted, as seen in his campaigns against Udai Singh of Mewar and the Battle of Haldighati against Maharana Pratap.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ak_tqa035",
+      "exercise": "HOTS",
+      "question": "Bring out the main features of the mansabdari system with special reference to the reign of Akbar.",
+      "answer": "The Mansabdari system was a unique administrative and military system introduced by Akbar. The literal meaning of 'Mansab' is office or rank, and every officer or noble was called a Mansabdar. Each mansabdar's rank was denoted by two numbers: Zat (personal rank) and Sawar (the size of the cavalry contingent they were expected to maintain). Zat ranks ranged from 10 to 10,000, with ranks above 50,000 reserved for princes. Mansabdars were the highest paid officers and were given handsome jagirs for their personal expenditure and to maintain horses, elephants, camels, and other animals. They could be paid in cash or through jagirs, and if given a jagir, it was assessed to match their salary. Importantly, the rank was NOT hereditary - it was held only during the mansabdar's lifetime, and after death, the jagir reverted to the emperor. This prevented the growth of a feudal class that could challenge imperial authority. Akbar also maintained string artillery and ahadis (special cavalry), making his army highly organised.",
+      "question_type": "long_answer"
+    }
+  ]
+}

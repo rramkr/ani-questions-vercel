@@ -1,0 +1,117 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ak_ar001",
+      "assertion": "Akbar followed a policy of friendship and matrimonial alliances with the Rajputs.",
+      "reason": "Akbar needed the cooperation of the powerful Rajput warrior class to build a large and stable empire.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Akbar formed matrimonial alliances with Rajputs, beginning with Raja Bharmal of Amber, and gave them high posts. He did this because he recognised that Rajput cooperation was essential for building a stable empire. Both the assertion and reason are true, and the reason correctly explains the assertion.",
+      "source_section": "Relations with the Rajputs"
+    },
+    {
+      "id": "ak_ar002",
+      "assertion": "Bairam Khan was dismissed by Akbar in 1560.",
+      "reason": "Bairam Khan had become arrogant and a group of nobles opposed him.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Bairam Khan served as regent from 1556 to 1560. He became arrogant and appointed favourites to important positions, which led to opposition from other nobles. When Akbar turned 18, he removed Bairam Khan. Both statements are true and the reason explains why Akbar dismissed him.",
+      "source_section": "End of Bairam Khan's Regency"
+    },
+    {
+      "id": "ak_ar003",
+      "assertion": "The mansab rank was not hereditary under Akbar's system.",
+      "reason": "After the death of a mansabdar, his jagir reverted to the emperor.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "In the mansabdari system, ranks were granted by the emperor and could not be passed to the mansabdar's children. When a mansabdar died, his jagir reverted to the emperor, which is precisely what made the system non-hereditary. Both are true and the reason correctly explains the assertion.",
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "ak_ar004",
+      "assertion": "Akbar abolished the jizya and pilgrim tax on Hindus in 1562.",
+      "reason": "Akbar believed in the basic unity of all religions and wanted to promote religious harmony.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Akbar did abolish both the pilgrim tax and jizya on Hindus in 1562. He did this because of his liberal religious views and his belief in the basic unity of all religions. The reason directly explains why he took this step.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ak_ar005",
+      "assertion": "Raja Todar Mal introduced bamboo sticks called jarib for land measurement.",
+      "reason": "The earlier measurement using rope was unreliable because rope changed length in wet and dry conditions.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Raja Todar Mal introduced bamboo sticks called jarib with iron rings to replace ropes for land measurement. The reason - that ropes expanded and contracted in different weather conditions - directly explains why this change was needed.",
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_ar006",
+      "assertion": "Akbar built Fatehpur Sikri as his new capital near Agra.",
+      "reason": "The Sufi saint Salim Chisti lived at that site.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Akbar did build Fatehpur Sikri as his new capital. He selected that particular site because the Sufi saint Salim Chisti lived there. The reason correctly explains why Akbar chose that location.",
+      "source_section": "Architecture"
+    },
+    {
+      "id": "ak_ar007",
+      "assertion": "The conquest of Gujarat in 1572 was significant for the Mughal empire.",
+      "reason": "Gujarat had a rich cotton industry, important seaports, and thriving trade.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The conquest of Gujarat in 1572 was indeed significant. The reason - its rich cotton industry, seaports, and trade - explains exactly why this conquest was economically important for the Mughal empire.",
+      "source_section": "Expansion of Akbar's Empire"
+    },
+    {
+      "id": "ak_ar008",
+      "assertion": "Din-i-Ilahi faded out after Akbar's death in 1605.",
+      "reason": "Akbar had forced all his ministers and nobles to follow Din-i-Ilahi.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "It is true that Din-i-Ilahi faded out after Akbar's death in 1605. However, the reason is false - Akbar did NOT force anyone to follow Din-i-Ilahi. Even his own minister Raja Man Singh refused to accept it. Only Raja Birbal followed it voluntarily.",
+      "source_section": "Religious Policy"
+    }
+  ]
+}

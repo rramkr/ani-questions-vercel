@@ -1,0 +1,356 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "dp_trk001",
+      "type": "mcq",
+      "question": "Directive Principles of State Policy are found in which Part of the Constitution?",
+      "options": ["A. Part III", "B. Part IV", "C. Part V", "D. Part II"],
+      "correct_answer": "B. Part IV",
+      "explanation": "Directive Principles are in Part IV (Articles 36-51). Fundamental Rights are in Part III.",
+      "trick": "Students confuse Part III (Fundamental Rights) with Part IV (Directive Principles). Remember: III = Rights, IV = Principles."
+    },
+    {
+      "id": "dp_trk002",
+      "type": "mcq",
+      "question": "Directive Principles are inspired by which country's constitution?",
+      "options": ["A. United States", "B. United Kingdom", "C. Ireland", "D. France"],
+      "correct_answer": "C. Ireland",
+      "explanation": "The Directive Principles were inspired by the Constitution of Ireland, not the US or UK.",
+      "trick": "Students often assume India borrowed from the US or UK Constitution. The Directive Principles specifically came from Ireland's Constitution."
+    },
+    {
+      "id": "dp_trk003",
+      "type": "mcq",
+      "question": "Which of the following is enforceable in a court of law?",
+      "options": ["A. Directive Principles", "B. Fundamental Rights", "C. Both A and B", "D. Neither A nor B"],
+      "correct_answer": "B. Fundamental Rights",
+      "explanation": "Only Fundamental Rights are justiciable (enforceable by courts). Directive Principles are non-justiciable.",
+      "trick": "Students sometimes think both are enforceable, or confuse which one is enforceable. Remember: Rights = enforceable, Principles = guidelines only."
+    },
+    {
+      "id": "dp_trk004",
+      "type": "mcq",
+      "question": "Equal pay for equal work for men and women is a:",
+      "options": ["A. Fundamental Right", "B. Directive Principle", "C. Fundamental Duty", "D. Preamble provision"],
+      "correct_answer": "B. Directive Principle",
+      "explanation": "Equal pay for equal work is a Directive Principle promoting social and economic equality, not a Fundamental Right.",
+      "trick": "Students often assume that equal pay is a Fundamental Right. It is actually a Directive Principle and is therefore non-justiciable."
+    },
+    {
+      "id": "dp_trk005",
+      "type": "mcq",
+      "question": "Swaraj, one of Gandhi's principles, means:",
+      "options": ["A. Welfare for all", "B. Self-reliance", "C. Self-rule", "D. Non-violence"],
+      "correct_answer": "C. Self-rule",
+      "explanation": "Swaraj means self-rule. Sarvodaya means welfare for all, and Swavlamban means self-reliance.",
+      "trick": "Students mix up the three Gandhian terms. Remember: Swaraj = Self-rule (both start with 'Sw' and have 'r'), Sarvodaya = welfare for all (Sarv = all), Swavlamban = Self-reliance."
+    },
+    {
+      "id": "dp_trk006",
+      "type": "mcq",
+      "question": "Sarvodaya means:",
+      "options": ["A. Self-rule", "B. Self-reliance", "C. Non-violence", "D. Welfare for all"],
+      "correct_answer": "D. Welfare for all",
+      "explanation": "Sarvodaya means welfare for all. 'Sarv' means all and 'udaya' means upliftment/welfare.",
+      "trick": "Students confuse Sarvodaya with Swaraj or Swavlamban. 'Sarv' = all, so Sarvodaya = welfare for ALL."
+    },
+    {
+      "id": "dp_trk007",
+      "type": "mcq",
+      "question": "Promoting cottage industries in rural areas is a:",
+      "options": ["A. General Directive Principle", "B. Principle promoting Social and Economic Equality", "C. Gandhian Directive Principle", "D. Fundamental Right"],
+      "correct_answer": "C. Gandhian Directive Principle",
+      "explanation": "Promoting cottage industries is a Gandhian Directive Principle, not a General Principle or one promoting social/economic equality.",
+      "trick": "Students mix up which category each Directive Principle belongs to. Cottage industries, village Panchayats, and prohibition of alcohol are all Gandhian Principles."
+    },
+    {
+      "id": "dp_trk008",
+      "type": "mcq",
+      "question": "Establishing a uniform civil code is a:",
+      "options": ["A. Gandhian Directive Principle", "B. Principle promoting Social and Economic Equality", "C. General Directive Principle", "D. Fundamental Right"],
+      "correct_answer": "C. General Directive Principle",
+      "explanation": "Uniform civil code is a General Directive Principle, not a Gandhian Principle.",
+      "trick": "Students often place the uniform civil code under the wrong category. Remember: uniform civil code, historical monuments, and international peace are General Principles."
+    },
+    {
+      "id": "dp_trk009",
+      "type": "mcq",
+      "question": "The Community Development Programme was launched in:",
+      "options": ["A. 1947", "B. 1950", "C. 1952", "D. 1956"],
+      "correct_answer": "C. 1952",
+      "explanation": "The Community Development Programme was launched in 1952, not in 1947 (Independence) or 1950 (Republic Day).",
+      "trick": "Students confuse the year with 1947 (Independence) or 1950 (Constitution came into force). CDP was launched in 1952."
+    },
+    {
+      "id": "dp_trk010",
+      "type": "mcq",
+      "question": "The Integrated Rural Development Programme was launched in:",
+      "options": ["A. 1952", "B. 1970-71", "C. 1978-79", "D. 2006"],
+      "correct_answer": "C. 1978-79",
+      "explanation": "IRDP was launched in 1978-79. Students often confuse it with CDP (1952) or MGNREGA (2006).",
+      "trick": "Three key dates to remember: CDP = 1952, IRDP = 1978-79, MGNREGA = 2006. Students often mix these up."
+    },
+    {
+      "id": "dp_trk011",
+      "type": "mcq",
+      "question": "Directive Principles ensure which type of democracy?",
+      "options": ["A. Political democracy", "B. Military democracy", "C. Social and economic democracy", "D. Religious democracy"],
+      "correct_answer": "C. Social and economic democracy",
+      "explanation": "Directive Principles establish social and economic democracy. Fundamental Rights guarantee political democracy.",
+      "trick": "Students confuse which ensures which. Remember: Fundamental Rights = political democracy, Directive Principles = social and economic democracy."
+    },
+    {
+      "id": "dp_trk012",
+      "type": "mcq",
+      "question": "Fundamental Rights and Directive Principles are:",
+      "options": ["A. Contradictory", "B. Identical", "C. Complementary", "D. Unrelated"],
+      "correct_answer": "C. Complementary",
+      "explanation": "They are complementary, not contradictory. Both aim at the welfare of citizens but through different means.",
+      "trick": "Students sometimes think they are contradictory because one is justiciable and the other is not. They are actually complementary - working together for complete democracy."
+    },
+    {
+      "id": "dp_trk013",
+      "type": "mcq",
+      "question": "Which amendment added environment protection as a Directive Principle?",
+      "options": ["A. 40th Amendment", "B. 42nd Amendment", "C. 44th Amendment", "D. 46th Amendment"],
+      "correct_answer": "B. 42nd Amendment",
+      "explanation": "The 42nd Amendment added the duty to protect the environment and safeguard forests and wildlife.",
+      "trick": "Students confuse the amendment number. The 42nd Amendment is important for many additions including 'Socialist' and 'Secular' to the Preamble as well as DPSP additions."
+    },
+    {
+      "id": "dp_trk014",
+      "type": "mcq",
+      "question": "Under Directive Principles, free education is compulsory for children up to age:",
+      "options": ["A. 12 years", "B. 14 years", "C. 16 years", "D. 18 years"],
+      "correct_answer": "B. 14 years",
+      "explanation": "Free and compulsory education is to be provided to children up to the age of 14 years.",
+      "trick": "Students sometimes confuse 14 with other ages. The specific age mentioned in the Directive Principles is 14 years."
+    },
+    {
+      "id": "dp_trk015",
+      "type": "mcq",
+      "question": "Article 43 relates to:",
+      "options": ["A. Free education", "B. Promotion of cottage industries", "C. International peace", "D. Uniform civil code"],
+      "correct_answer": "B. Promotion of cottage industries",
+      "explanation": "Article 43 relates to the promotion of cottage industries. The government established several boards under this article.",
+      "trick": "Students rarely remember specific article numbers. Article 43 is specifically linked to cottage industries and the establishment of various boards."
+    },
+    {
+      "id": "dp_trk016",
+      "type": "mcq",
+      "question": "Which of the following was NOT a board established to promote cottage industries?",
+      "options": ["A. Village Industries Board", "B. Silk Board", "C. Steel Board", "D. Coir Board"],
+      "correct_answer": "C. Steel Board",
+      "explanation": "The boards established were Village Industries Board, All India Handicraft Board, Silk Board and Coir Board. Steel Board does not exist in this context.",
+      "trick": "Students need to remember the four specific boards: Village Industries, Handicraft, Silk, and Coir. Steel is a large-scale industry, not a cottage industry."
+    },
+    {
+      "id": "dp_trk017",
+      "type": "mcq",
+      "question": "Directive Principles help in protecting:",
+      "options": ["A. Natural rights", "B. Human rights", "C. Property rights", "D. Animal rights"],
+      "correct_answer": "B. Human rights",
+      "explanation": "According to the textbook, Directive Principles help in protecting human rights. Fundamental Rights are described as natural rights.",
+      "trick": "Students confuse 'human rights' with 'natural rights'. In the textbook: Directive Principles = protect human rights, Fundamental Rights = are natural rights."
+    },
+    {
+      "id": "dp_trk018",
+      "type": "mcq",
+      "question": "Fundamental Rights are described as:",
+      "options": ["A. Human rights", "B. Natural rights", "C. Social rights", "D. Economic rights"],
+      "correct_answer": "B. Natural rights",
+      "explanation": "The textbook describes Fundamental Rights as 'natural rights', while Directive Principles help in protecting 'human rights'.",
+      "trick": "Students mix up 'natural rights' and 'human rights'. Fundamental Rights = natural rights, Directive Principles = protect human rights."
+    },
+    {
+      "id": "dp_trk019",
+      "type": "mcq",
+      "question": "Settlement of international disputes by arbitration means:",
+      "options": ["A. Settlement by war", "B. Settlement by mutual agreement", "C. Settlement by the UN only", "D. Settlement by economic sanctions"],
+      "correct_answer": "B. Settlement by mutual agreement",
+      "explanation": "Arbitration means mutual agreement. The state shall encourage settlement of international disputes by arbitration.",
+      "trick": "Students may not know the meaning of 'arbitration'. It specifically means mutual agreement, not war or sanctions."
+    },
+    {
+      "id": "dp_trk020",
+      "type": "mcq",
+      "question": "Preventing consumption of alcoholic drinks is a:",
+      "options": ["A. General Directive Principle", "B. Principle promoting Social and Economic Equality", "C. Gandhian Directive Principle", "D. Fundamental Right"],
+      "correct_answer": "C. Gandhian Directive Principle",
+      "explanation": "Prevention of alcoholic drinks and harmful drugs is a Gandhian Directive Principle.",
+      "trick": "Students might place this under General Principles or Social/Economic Equality. Remember: prohibition of alcohol is a Gandhian Principle because Gandhi advocated against intoxicants."
+    },
+    {
+      "id": "dp_trk021",
+      "type": "true_false",
+      "question": "Directive Principles are stated in Part III of the Constitution.",
+      "correct_answer": "False",
+      "explanation": "Directive Principles are in Part IV, not Part III. Part III contains Fundamental Rights.",
+      "trick": "Students confuse Part III (Fundamental Rights) with Part IV (Directive Principles). One number difference can cost marks."
+    },
+    {
+      "id": "dp_trk022",
+      "type": "true_false",
+      "question": "The Directive Principles were inspired by the Constitution of the United States.",
+      "correct_answer": "False",
+      "explanation": "They were inspired by the Constitution of Ireland, not the United States.",
+      "trick": "Students often assume the US Constitution was the source for most Indian constitutional features. DPSP specifically came from Ireland."
+    },
+    {
+      "id": "dp_trk023",
+      "type": "true_false",
+      "question": "Fundamental Rights establish social and economic democracy.",
+      "correct_answer": "False",
+      "explanation": "Fundamental Rights guarantee political democracy. It is the Directive Principles that establish social and economic democracy.",
+      "trick": "Students swap the roles. Political democracy = Fundamental Rights, Social and economic democracy = Directive Principles."
+    },
+    {
+      "id": "dp_trk024",
+      "type": "true_false",
+      "question": "A welfare state is based on the principle of inequality.",
+      "correct_answer": "False",
+      "explanation": "A welfare state is based on the principles of equality of opportunity and equal distribution of wealth, not inequality.",
+      "trick": "The word 'inequality' looks similar to 'equality'. Read carefully - a welfare state is based on EQUALITY, not inequality."
+    },
+    {
+      "id": "dp_trk025",
+      "type": "true_false",
+      "question": "Directive Principles are only instructions for the state to frame policies.",
+      "correct_answer": "True",
+      "explanation": "Directive Principles are indeed only instructions or directions for the state. They are not enforceable legal rights.",
+      "trick": "The word 'only' might make students think this is false. But it is true - DPSP are ONLY instructions/guidelines, unlike Fundamental Rights which are enforceable."
+    },
+    {
+      "id": "dp_trk026",
+      "type": "mcq",
+      "question": "The state shall promote the interests of weaker sections, ESPECIALLY:",
+      "options": ["A. Women and children", "B. Senior citizens", "C. Scheduled Castes and Scheduled Tribes", "D. Farmers"],
+      "correct_answer": "C. Scheduled Castes and Scheduled Tribes",
+      "explanation": "The Gandhian Directive Principle specifically mentions promoting interests of weaker sections, especially Scheduled Castes and Scheduled Tribes.",
+      "trick": "While women, children, and others are also mentioned elsewhere, the specific Gandhian principle mentions SC and ST as the 'especially' target group."
+    },
+    {
+      "id": "dp_trk027",
+      "type": "mcq",
+      "question": "The Mahatma Gandhi Rural Employment Guarantee Act was launched in:",
+      "options": ["A. 1952", "B. 1978-79", "C. 2000", "D. 2006"],
+      "correct_answer": "D. 2006",
+      "explanation": "MGNREGA was launched in 2006. CDP was 1952 and IRDP was 1978-79.",
+      "trick": "Students mix up the three programme dates. Remember the chronological order: CDP (1952) -> IRDP (1978-79) -> MGNREGA (2006)."
+    },
+    {
+      "id": "dp_trk028",
+      "type": "mcq",
+      "question": "A cottage industry is:",
+      "options": ["A. A large-scale factory", "B. A small-scale, decentralised manufacturing business operated from home", "C. A government-run industry", "D. An import-export business"],
+      "correct_answer": "B. A small-scale, decentralised manufacturing business operated from home",
+      "explanation": "A cottage industry is a small-scale, decentralised manufacturing business operated from home, as defined in the textbook Key Terms.",
+      "trick": "Students may not know the exact definition. Cottage = home/small dwelling, so cottage industry = home-based, small-scale manufacturing."
+    },
+    {
+      "id": "dp_trk029",
+      "type": "mcq",
+      "question": "Which of the following is NOT a Directive Principle promoting Social and Economic Equality?",
+      "options": ["A. Equal pay for equal work", "B. Free education up to age 14", "C. Promoting village Panchayats", "D. Right to work and education"],
+      "correct_answer": "C. Promoting village Panchayats",
+      "explanation": "Village Panchayats is a Gandhian Directive Principle, not one promoting Social and Economic Equality.",
+      "trick": "Village Panchayats sound like they promote equality, but they are classified under Gandhian Principles in the textbook."
+    },
+    {
+      "id": "dp_trk030",
+      "type": "mcq",
+      "question": "Under the Directive Principles, the state should ensure that wealth is:",
+      "options": ["A. Concentrated in government hands", "B. Concentrated in a few hands", "C. Not concentrated in a few hands", "D. Equally divided among all citizens"],
+      "correct_answer": "C. Not concentrated in a few hands",
+      "explanation": "The state should distribute wealth so it is NOT concentrated in a few hands. The exact wording matters.",
+      "trick": "Option D sounds similar but the textbook says 'not concentrated in a few hands', not 'equally divided'. Read the exact wording carefully."
+    },
+    {
+      "id": "dp_trk031",
+      "type": "true_false",
+      "question": "The state shall try to promote large-scale industries in rural areas.",
+      "correct_answer": "False",
+      "explanation": "The state shall promote COTTAGE industries (not large-scale industries) in rural areas.",
+      "trick": "The word 'large-scale' is the trick. The textbook says 'cottage' industries, which are small-scale, home-based businesses."
+    },
+    {
+      "id": "dp_trk032",
+      "type": "true_false",
+      "question": "Sarvodaya means self-rule.",
+      "correct_answer": "False",
+      "explanation": "Sarvodaya means welfare for all, not self-rule. Swaraj means self-rule.",
+      "trick": "Students frequently confuse Swaraj, Sarvodaya and Swavlamban. Sarvodaya (Sarv = all) = welfare for all."
+    },
+    {
+      "id": "dp_trk033",
+      "type": "true_false",
+      "question": "Swavlamban means welfare for all.",
+      "correct_answer": "False",
+      "explanation": "Swavlamban means self-reliance, not welfare for all. Sarvodaya means welfare for all.",
+      "trick": "Another mix-up of the three Gandhian terms. Swavlamban = self-reliance (avlamban = support, so self-support)."
+    },
+    {
+      "id": "dp_trk034",
+      "type": "mcq",
+      "question": "Protecting historical monuments and places of national importance is a:",
+      "options": ["A. Gandhian Directive Principle", "B. Principle promoting Social and Economic Equality", "C. General Directive Principle", "D. Fundamental Duty"],
+      "correct_answer": "C. General Directive Principle",
+      "explanation": "Protection of historical monuments is a General Directive Principle.",
+      "trick": "Students may place this under Gandhian Principles or confuse it with Fundamental Duties. It falls under General Directive Principles."
+    },
+    {
+      "id": "dp_trk035",
+      "type": "mcq",
+      "question": "Which of the following is true about Directive Principles?",
+      "options": ["A. They are enforceable by the Supreme Court", "B. They are considered fundamental in governance", "C. They override Fundamental Rights", "D. Citizens can sue the government for not following them"],
+      "correct_answer": "B. They are considered fundamental in governance",
+      "explanation": "Directive Principles are considered fundamental in the governance of the country. They are NOT enforceable by courts and citizens cannot sue for non-compliance.",
+      "trick": "The word 'fundamental' might confuse students into thinking they are like Fundamental Rights. But 'fundamental in governance' means important for governing, not legally enforceable."
+    },
+    {
+      "id": "dp_trk036",
+      "type": "mcq",
+      "question": "The judiciary must keep Directive Principles in mind while:",
+      "options": ["A. Arresting criminals", "B. Deciding cases", "C. Making laws", "D. Conducting elections"],
+      "correct_answer": "B. Deciding cases",
+      "explanation": "The textbook states that the judiciary must keep Directive Principles in mind while deciding cases.",
+      "trick": "Students might think the judiciary makes laws (that is the legislature). The judiciary DECIDES cases and must consider DPSP while doing so."
+    },
+    {
+      "id": "dp_trk037",
+      "type": "mcq",
+      "question": "Which two specific constitutional provisions were made for social and economic welfare?",
+      "options": ["A. Preamble and Fundamental Duties", "B. Fundamental Rights and Directive Principles", "C. Emergency Provisions and Amendments", "D. Union List and State List"],
+      "correct_answer": "B. Fundamental Rights and Directive Principles",
+      "explanation": "The Constitution made two specific provisions for welfare: Fundamental Rights and Directive Principles of State Policy.",
+      "trick": "Students might choose the Preamble, but the textbook specifically names Fundamental Rights and Directive Principles as the two provisions."
+    },
+    {
+      "id": "dp_trk038",
+      "type": "true_false",
+      "question": "Directive Principles were inspired by Gandhian philosophy and the American Constitution.",
+      "correct_answer": "False",
+      "explanation": "Directive Principles were inspired by Gandhian philosophy and the Constitution of IRELAND, not the American Constitution.",
+      "trick": "Half the statement is correct (Gandhian philosophy). Students may mark True without noticing 'American Constitution' should be 'Ireland'."
+    },
+    {
+      "id": "dp_trk039",
+      "type": "mcq",
+      "question": "Improving the standard of living and public health is classified as a:",
+      "options": ["A. General Directive Principle", "B. Gandhian Directive Principle", "C. Principle promoting Social and Economic Equality", "D. Fundamental Right"],
+      "correct_answer": "B. Gandhian Directive Principle",
+      "explanation": "Improving the standard of living and public health is listed under Gandhian Directive Principles in the textbook.",
+      "trick": "Students might classify health-related provisions under Social and Economic Equality. But the textbook places this specifically under Gandhian Principles."
+    },
+    {
+      "id": "dp_trk040",
+      "type": "mcq",
+      "question": "The main aim of Directive Principles is to:",
+      "options": ["A. Punish lawbreakers", "B. Create healthy social and economic conditions for all citizens", "C. Control the judiciary", "D. Limit the powers of the state"],
+      "correct_answer": "B. Create healthy social and economic conditions for all citizens",
+      "explanation": "The main aim of Directive Principles is to create healthy social and economic conditions for all citizens to lead a good life.",
+      "trick": "Students might pick option D since DPSP are guidelines. But the PURPOSE is positive - creating conditions for a good life, not limiting state power."
+    }
+  ]
+}

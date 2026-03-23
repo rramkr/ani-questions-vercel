@@ -1,0 +1,155 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "am_fib001",
+      "question": "Babur was the founder of the great __________ Empire of India.",
+      "answer": "Mughal",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_fib002",
+      "question": "Babur ascended the throne as ruler of __________, a small principality in Transoxiana.",
+      "answer": "Farghana",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_fib003",
+      "question": "Because of the lineage of Timur, the Mughals were also referred to as __________.",
+      "answer": "Timurids",
+      "source_section": "Background"
+    },
+    {
+      "id": "am_fib004",
+      "question": "__________ was the Governor of Punjab who invited Babur to invade India.",
+      "answer": "Daulat Khan Lodi",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_fib005",
+      "question": "Babur used artillery and __________ for the first time in India.",
+      "answer": "cannons",
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_fib006",
+      "question": "The defeat of Rana Sanga at __________ gave Babur complete control over Central India.",
+      "answer": "Khanua",
+      "source_section": "Battle of Khanua"
+    },
+    {
+      "id": "am_fib007",
+      "question": "Babur's autobiography __________ is a masterpiece of literature.",
+      "answer": "Tuzuk-i-Baburi (or Baburnama)",
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_fib008",
+      "question": "Babur introduced __________ palaces in India.",
+      "answer": "garden",
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_fib009",
+      "question": "Humayun's three brothers were Kamran, __________ and Hindal.",
+      "answer": "Askari",
+      "source_section": "Humayun"
+    },
+    {
+      "id": "am_fib010",
+      "question": "Humayun was defeated by Sher Shah in the Battle of __________ in 1539.",
+      "answer": "Chausa",
+      "source_section": "Humayun's Battles"
+    },
+    {
+      "id": "am_fib011",
+      "question": "After losing the Battle of Kannauj, Humayun became an exile for the next __________ years.",
+      "answer": "fifteen",
+      "source_section": "Humayun's Exile"
+    },
+    {
+      "id": "am_fib012",
+      "question": "Humayun recaptured Kabul and Kandahar with the help of the ruler of __________.",
+      "answer": "Persia",
+      "source_section": "Humayun's Return"
+    },
+    {
+      "id": "am_fib013",
+      "question": "Humayun died in 1556 due to a fall from the staircase of his __________.",
+      "answer": "library",
+      "source_section": "Humayun's Return"
+    },
+    {
+      "id": "am_fib014",
+      "question": "Sher Shah's real name was __________.",
+      "answer": "Farid Khan",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_fib015",
+      "question": "Sher Shah founded the __________ dynasty.",
+      "answer": "Sur",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_fib016",
+      "question": "Sher Shah died in 1545 while besieging the fort of __________.",
+      "answer": "Kalinjar",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_fib017",
+      "question": "Sher Shah divided his empire into 47 units called __________.",
+      "answer": "sarkars",
+      "source_section": "Provincial Administration"
+    },
+    {
+      "id": "am_fib018",
+      "question": "Each sarkar was subdivided into __________.",
+      "answer": "parganas",
+      "source_section": "Provincial Administration"
+    },
+    {
+      "id": "am_fib019",
+      "question": "The system of branding horses with an imperial sign was called __________.",
+      "answer": "Dagh",
+      "source_section": "Military Administration"
+    },
+    {
+      "id": "am_fib020",
+      "question": "The state's share of produce under Sher Shah was __________ of the produce.",
+      "answer": "one-third",
+      "source_section": "Land Revenue System"
+    },
+    {
+      "id": "am_fib021",
+      "question": "The amount of revenue was recorded in a paper called __________.",
+      "answer": "Patta",
+      "source_section": "Land Revenue System"
+    },
+    {
+      "id": "am_fib022",
+      "question": "The Grand Trunk Road ran from __________ in Bengal to Peshawar.",
+      "answer": "Sonargoan",
+      "source_section": "Transport and Communication"
+    },
+    {
+      "id": "am_fib023",
+      "question": "Sher Shah's greatest contribution was the introduction of the silver __________.",
+      "answer": "rupia",
+      "source_section": "Trade and Commerce"
+    },
+    {
+      "id": "am_fib024",
+      "question": "Gold coins introduced by Sher Shah were called __________ and weighed 169 grams.",
+      "answer": "mohurs",
+      "source_section": "Trade and Commerce"
+    },
+    {
+      "id": "am_fib025",
+      "question": "__________ authored the Humayun Nama, which described the everyday life of the royal family.",
+      "answer": "Gulbadan Banu Begum",
+      "source_section": "Humayun"
+    }
+  ]
+}

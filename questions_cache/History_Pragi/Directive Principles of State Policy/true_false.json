@@ -1,0 +1,145 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "dp_tf001",
+      "statement": "Directive Principles of State Policy are stated in Part IV of the Indian Constitution.",
+      "answer": true,
+      "explanation": "Directive Principles are stated in Articles 36 to 51, in Part IV of the Constitution.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_tf002",
+      "statement": "Directive Principles of State Policy are justiciable and can be enforced by courts.",
+      "answer": false,
+      "explanation": "Directive Principles are non-justiciable, meaning they are NOT enforceable by any court of law.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_tf003",
+      "statement": "The Directive Principles were inspired by the Constitution of Ireland.",
+      "answer": true,
+      "explanation": "The Directive Principles were inspired by the Directive Principles stated in the Constitution of Ireland and principles of Gandhian philosophy.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_tf004",
+      "statement": "Primary education has been made compulsory for children up to the age of 14 years.",
+      "answer": true,
+      "explanation": "This is one of the Directive Principles promoting social and economic equality.",
+      "source_section": "Social and Economic Equality"
+    },
+    {
+      "id": "dp_tf005",
+      "statement": "The state shall not take steps to separate the Judiciary from the Executive.",
+      "answer": false,
+      "explanation": "The state shall take steps to separate the Judiciary from the Executive, not avoid doing so.",
+      "source_section": "General Principles"
+    },
+    {
+      "id": "dp_tf006",
+      "statement": "The state shall promote international peace and security.",
+      "answer": true,
+      "explanation": "Promoting international peace and security is a General Directive Principle.",
+      "source_section": "General Principles"
+    },
+    {
+      "id": "dp_tf007",
+      "statement": "Fundamental Rights guarantee political democracy.",
+      "answer": true,
+      "explanation": "Fundamental Rights guarantee political democracy, while Directive Principles establish social and economic democracy.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_tf008",
+      "statement": "The state shall not take steps to promote agriculture.",
+      "answer": false,
+      "explanation": "Under Gandhian Directive Principles, the state shall take steps to improve the quality of livestock and promote agriculture.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_tf009",
+      "statement": "Fundamental Rights are protected by the Supreme Court and High Courts.",
+      "answer": true,
+      "explanation": "Fundamental Rights are justiciable and enforceable, protected by the Supreme Court and High Courts.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_tf010",
+      "statement": "The state shall promote the educational and economic interests of the weaker sections of the society.",
+      "answer": true,
+      "explanation": "Under Gandhian Principles, the state shall promote the educational and economic interests of weaker sections, especially Scheduled Castes and Scheduled Tribes.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_tf011",
+      "statement": "Under British rule, India was a welfare state.",
+      "answer": false,
+      "explanation": "Under British rule, India was NOT a welfare state. The British were not interested in the welfare of the Indian people.",
+      "source_section": "Background"
+    },
+    {
+      "id": "dp_tf012",
+      "statement": "A welfare state is based on the principles of equal distribution of wealth.",
+      "answer": true,
+      "explanation": "A welfare state is based on principles of equality of opportunity and equal distribution of wealth.",
+      "source_section": "Welfare State"
+    },
+    {
+      "id": "dp_tf013",
+      "statement": "Directive Principles and Fundamental Rights are contradictory to each other.",
+      "answer": false,
+      "explanation": "They are NOT contradictory but complementary. Both aim at the same thing - the welfare of citizens.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_tf014",
+      "statement": "The Zamindari system was abolished as an impact of the Directive Principles.",
+      "answer": true,
+      "explanation": "The Zamindari system was abolished and surplus land of landlords was distributed among the landless poor.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_tf015",
+      "statement": "Untouchability has been made a punishable offence.",
+      "answer": true,
+      "explanation": "Untouchability was made a punishable offence as one of the positive impacts of Directive Principles.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_tf016",
+      "statement": "The state shall try to promote large-scale industries in rural areas.",
+      "answer": false,
+      "explanation": "The state shall try to promote cottage industries (not large-scale industries) in rural areas, as per Gandhian Directive Principles.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_tf017",
+      "statement": "Swaraj means welfare for all.",
+      "answer": false,
+      "explanation": "Swaraj means self-rule, not welfare for all. Sarvodaya means welfare for all.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_tf018",
+      "statement": "The 42nd Amendment added the duty to protect the environment as a Directive Principle.",
+      "answer": true,
+      "explanation": "The 42nd Amendment added a new directive - the duty of the state to protect and improve the environment and to safeguard the forests and wildlife of the country.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_tf019",
+      "statement": "Directive Principles help in protecting human rights.",
+      "answer": true,
+      "explanation": "According to the textbook, Directive Principles help in protecting human rights, while Fundamental Rights are natural rights.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_tf020",
+      "statement": "The state should distribute wealth so it is concentrated in a few hands.",
+      "answer": false,
+      "explanation": "The state should distribute wealth so it is NOT concentrated in a few hands. This is a Directive Principle promoting social and economic equality.",
+      "source_section": "Social and Economic Equality"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "dp_mcq001",
+      "question": "Directive Principles of State Policy are stated in which part of the Constitution?",
+      "options": ["A. Part II", "B. Part III", "C. Part IV", "D. Part V"],
+      "correct_answer": "C. Part IV",
+      "explanation": "Directive Principles of State Policy are stated in Part IV of the Indian Constitution, under Articles 36 to 51.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_mcq002",
+      "question": "Directive Principles of State Policy are covered under which Articles?",
+      "options": ["A. Articles 12 to 35", "B. Articles 36 to 51", "C. Articles 52 to 78", "D. Articles 1 to 11"],
+      "correct_answer": "B. Articles 36 to 51",
+      "explanation": "Directive Principles are stated in Articles 36 to 51 of the Indian Constitution.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_mcq003",
+      "question": "The Directive Principles of State Policy were inspired by the Constitution of:",
+      "options": ["A. United Kingdom", "B. United States of America", "C. Ireland", "D. France"],
+      "correct_answer": "C. Ireland",
+      "explanation": "The Directive Principles were inspired by the Directive Principles stated in the Constitution of Ireland and the principles of Gandhian philosophy.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_mcq004",
+      "question": "Directive Principles of State Policy are:",
+      "options": ["A. Justiciable", "B. Non-justiciable", "C. Enforceable by courts", "D. Legally binding"],
+      "correct_answer": "B. Non-justiciable",
+      "explanation": "Directive Principles are non-justiciable, meaning they are not enforceable by any court of law.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_mcq005",
+      "question": "Which of the following is NOT a basic principle of Gandhian thought?",
+      "options": ["A. Swaraj (self-rule)", "B. Sarvodaya (welfare for all)", "C. Swavlamban (self-reliance)", "D. Swadhinta (independence)"],
+      "correct_answer": "D. Swadhinta (independence)",
+      "explanation": "The three basic principles of Gandhian thought mentioned in the textbook are Swaraj (self-rule), Sarvodaya (welfare for all) and Swavlamban (self-reliance). Swadhinta is not one of them.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_mcq006",
+      "question": "Under the Directive Principles, free and compulsory education is to be provided to children up to the age of:",
+      "options": ["A. 10 years", "B. 12 years", "C. 14 years", "D. 16 years"],
+      "correct_answer": "C. 14 years",
+      "explanation": "The state should take steps to impart compulsory and free education to children up to the age of 14 years.",
+      "source_section": "Social and Economic Equality"
+    },
+    {
+      "id": "dp_mcq007",
+      "question": "Which of the following is a feature of a welfare state?",
+      "options": ["A. It favours the rich over the poor", "B. It takes steps to abolish illiteracy, poverty and unemployment", "C. It only provides education to the elite", "D. It does not provide social benefits"],
+      "correct_answer": "B. It takes steps to abolish illiteracy, poverty and unemployment",
+      "explanation": "A welfare state takes steps to abolish illiteracy, poverty and unemployment, and provides equal opportunities for all citizens.",
+      "source_section": "Welfare State"
+    },
+    {
+      "id": "dp_mcq008",
+      "question": "The Community Development Programme was launched in:",
+      "options": ["A. 1947", "B. 1950", "C. 1952", "D. 1960"],
+      "correct_answer": "C. 1952",
+      "explanation": "The Community Development Programme was launched in 1952 as part of development programmes to raise the standard of living.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_mcq009",
+      "question": "The Integrated Rural Development Programme was launched in:",
+      "options": ["A. 1952", "B. 1965-66", "C. 1978-79", "D. 2006"],
+      "correct_answer": "C. 1978-79",
+      "explanation": "The Integrated Rural Development Programme was launched in 1978-79 to raise the standard of living in rural areas.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_mcq010",
+      "question": "The Mahatma Gandhi Rural Employment Guarantee Act was passed in:",
+      "options": ["A. 1990", "B. 2000", "C. 2004", "D. 2006"],
+      "correct_answer": "D. 2006",
+      "explanation": "The Mahatma Gandhi Rural Employment Guarantee Act was passed in 2006 to guarantee rural employment and raise the standard of living.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_mcq011",
+      "question": "Which amendment added the duty to protect and improve the environment as a Directive Principle?",
+      "options": ["A. 40th Amendment", "B. 42nd Amendment", "C. 44th Amendment", "D. 46th Amendment"],
+      "correct_answer": "B. 42nd Amendment",
+      "explanation": "The 42nd Amendment added a new directive - the duty of the state to protect and improve the environment and to safeguard the forests and wildlife of the country.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_mcq012",
+      "question": "Which of the following is a Gandhian Directive Principle?",
+      "options": ["A. Promoting international peace", "B. Establishing a uniform civil code", "C. Promoting cottage industries in rural areas", "D. Protecting historical monuments"],
+      "correct_answer": "C. Promoting cottage industries in rural areas",
+      "explanation": "Promoting cottage industries in rural areas is a Gandhian Directive Principle, while the others are General Principles.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_mcq013",
+      "question": "Under Directive Principles, the state shall promote the interests of which weaker sections?",
+      "options": ["A. Women and children only", "B. Scheduled Castes and Scheduled Tribes", "C. Senior citizens only", "D. Farmers only"],
+      "correct_answer": "B. Scheduled Castes and Scheduled Tribes",
+      "explanation": "The state shall promote educational and economic interests of weaker sections, especially Scheduled Castes and Scheduled Tribes.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_mcq014",
+      "question": "Directive Principles and Fundamental Rights are:",
+      "options": ["A. Contradictory to each other", "B. Complementary to each other", "C. Unrelated to each other", "D. Identical to each other"],
+      "correct_answer": "B. Complementary to each other",
+      "explanation": "Directive Principles and Fundamental Rights are not contradictory but complementary. Both aim at the same thing - the welfare of citizens.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_mcq015",
+      "question": "Fundamental Rights help in strengthening:",
+      "options": ["A. Social democracy", "B. Economic democracy", "C. Political democracy", "D. Military democracy"],
+      "correct_answer": "C. Political democracy",
+      "explanation": "Fundamental Rights help in strengthening political democracy, while Directive Principles establish social and economic democracy.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_mcq016",
+      "question": "The Zamindari system was abolished as an impact of which principle?",
+      "options": ["A. Fundamental Rights", "B. Directive Principles", "C. Preamble", "D. Emergency Provisions"],
+      "correct_answer": "B. Directive Principles",
+      "explanation": "The abolition of the Zamindari system was one of the impacts of Directive Principles. Surplus land of landlords was distributed among the landless poor.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_mcq017",
+      "question": "To promote cottage industries (Article 43), the government established all of the following EXCEPT:",
+      "options": ["A. Village Industries Board", "B. All India Handicraft Board", "C. Heavy Industries Board", "D. Coir Board"],
+      "correct_answer": "C. Heavy Industries Board",
+      "explanation": "The government established Village Industries Board, All India Handicraft Board, Silk Board and Coir Board. Heavy Industries Board is not among them.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_mcq018",
+      "question": "A welfare state is based on the principles of:",
+      "options": ["A. Equality of opportunity and equal distribution of wealth", "B. Only military strength", "C. Concentration of wealth among the elite", "D. Foreign trade"],
+      "correct_answer": "A. Equality of opportunity and equal distribution of wealth",
+      "explanation": "A welfare state is based on principles of equality of opportunity and equal distribution of wealth.",
+      "source_section": "Welfare State"
+    },
+    {
+      "id": "dp_mcq019",
+      "question": "Which of the following is a General Directive Principle?",
+      "options": ["A. Equal pay for equal work", "B. Promoting cottage industries", "C. Establishing a uniform civil code", "D. Free education up to age 14"],
+      "correct_answer": "C. Establishing a uniform civil code",
+      "explanation": "Establishing a uniform civil code for all citizens is a General Directive Principle.",
+      "source_section": "General Principles"
+    },
+    {
+      "id": "dp_mcq020",
+      "question": "Under Directive Principles, the state shall encourage settlement of international disputes by:",
+      "options": ["A. War", "B. Economic sanctions", "C. Arbitration", "D. Military intervention"],
+      "correct_answer": "C. Arbitration",
+      "explanation": "The state shall encourage settlement of international disputes by arbitration, meaning mutual agreement.",
+      "source_section": "General Principles"
+    },
+    {
+      "id": "dp_mcq021",
+      "question": "Before Independence, India was not a welfare state because:",
+      "options": ["A. Indians did not want welfare", "B. The British were not interested in the welfare of the people", "C. India was too rich to need welfare", "D. The Constitution did not exist yet"],
+      "correct_answer": "B. The British were not interested in the welfare of the people",
+      "explanation": "Under British rule, India was not a welfare state because the British were not interested in the welfare of the people. Whatever they did was in the interests of the British government.",
+      "source_section": "Background"
+    },
+    {
+      "id": "dp_mcq022",
+      "question": "India is described as a:",
+      "options": ["A. Sovereign, socialist, secular, democratic, republic", "B. Communist, socialist, democratic republic", "C. Federal, theocratic, democratic republic", "D. Sovereign, religious, democratic monarchy"],
+      "correct_answer": "A. Sovereign, socialist, secular, democratic, republic",
+      "explanation": "India is a sovereign, socialist, secular, democratic, republic country as stated in the Constitution.",
+      "source_section": "Welfare State"
+    },
+    {
+      "id": "dp_mcq023",
+      "question": "Which programme provides mid-day meals to school children?",
+      "options": ["A. Community Development Programme", "B. Health and nutritional support programmes", "C. Integrated Rural Development Programme", "D. PMGSY"],
+      "correct_answer": "B. Health and nutritional support programmes",
+      "explanation": "The government introduced various programmes for health and nutritional support to women and children, including maternity relief and mid-day meal for school children.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_mcq024",
+      "question": "Swaraj means:",
+      "options": ["A. Welfare for all", "B. Self-reliance", "C. Self-rule", "D. Non-violence"],
+      "correct_answer": "C. Self-rule",
+      "explanation": "Swaraj means self-rule. It is one of the three basic principles of Gandhian thought.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_mcq025",
+      "question": "The Directive Principles ensure which type of democracy?",
+      "options": ["A. Political democracy", "B. Social and economic democracy", "C. Military democracy", "D. Religious democracy"],
+      "correct_answer": "B. Social and economic democracy",
+      "explanation": "Directive Principles establish social and economic democracy, while Fundamental Rights guarantee political democracy.",
+      "source_section": "Differences"
+    }
+  ]
+}

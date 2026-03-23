@@ -1,0 +1,72 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ar001",
+      "question": "Assertion (A): Naphthalene balls kept in a cupboard decrease in size over time.\nReason (R): Naphthalene undergoes sublimation, changing directly from solid to gas.",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A",
+        "B. Both A and R are true but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "correct_answer": "A. Both A and R are true and R is the correct explanation of A",
+      "explanation": "Naphthalene balls decrease in size because naphthalene sublimes, i.e., it changes directly from solid to gas without passing through the liquid state. The reason correctly explains the assertion.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "ar002",
+      "question": "Assertion (A): Food cooks faster in a pressure cooker.\nReason (R): The boiling point of water increases with increase in pressure.",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A",
+        "B. Both A and R are true but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "correct_answer": "A. Both A and R are true and R is the correct explanation of A",
+      "explanation": "In a pressure cooker, the increased pressure raises the boiling point of water above 100\u00b0C. This higher temperature cooks food faster. The reason correctly explains the assertion.",
+      "source_section": "Effect of Pressure on Boiling Point"
+    },
+    {
+      "id": "ar003",
+      "question": "Assertion (A): Water expands on freezing.\nReason (R): The melting point of ice decreases with increase of pressure.",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A",
+        "B. Both A and R are true but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "correct_answer": "B. Both A and R are true but R is not the correct explanation of A",
+      "explanation": "Both statements are true. Water does expand on freezing, and the melting point of ice does decrease with increased pressure. However, the reason is a consequence of the same anomalous behaviour of water, not a direct explanation of why water expands on freezing.",
+      "source_section": "Effect of Pressure on Melting Point"
+    },
+    {
+      "id": "ar004",
+      "question": "Assertion (A): Evaporation produces a cooling effect.\nReason (R): During evaporation, the liquid molecules at the surface absorb heat energy from the surroundings to change into vapour.",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A",
+        "B. Both A and R are true but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "correct_answer": "A. Both A and R are true and R is the correct explanation of A",
+      "explanation": "Evaporation produces cooling because the molecules escaping from the surface take heat energy from the surroundings. This is why a wet cloth on the forehead cools a fever patient and why earthen pots keep water cool.",
+      "source_section": "Evaporation"
+    },
+    {
+      "id": "ar005",
+      "question": "Assertion (A): Salt is added to ice when making kulfis.\nReason (R): Adding salt to ice increases its melting point.",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A",
+        "B. Both A and R are true but R is not the correct explanation of A",
+        "C. A is true but R is false",
+        "D. A is false but R is true"
+      ],
+      "correct_answer": "C. A is true but R is false",
+      "explanation": "Salt is indeed added to ice when making kulfis, but the reason is false. Adding salt to ice DECREASES (not increases) its melting point, creating a freezing mixture that has a temperature below 0\u00b0C, which helps freeze the kulfi mixture.",
+      "source_section": "Effect of Impurities on Melting Point"
+    }
+  ]
+}

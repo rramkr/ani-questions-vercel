@@ -1,0 +1,53 @@
+{
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "am_gr001",
+      "question": "Why did Babur's nobles want to return to Central Asia after the Battle of Panipat?",
+      "answer": "Babur's nobles wanted to return to Central Asia after the Battle of Panipat because they did not like the Indian climate and felt culturally alienated in India. They were accustomed to the conditions in Central Asia and found India unfamiliar and uncomfortable. Babur had to convince his companions to stay and consolidate their position in India rather than abandoning their conquest.",
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_gr002",
+      "question": "Why did Daulat Khan Lodi and Rana Sanga invite Babur to invade India?",
+      "answer": "Daulat Khan Lodi (Governor of Punjab) and Rana Sanga (Rajput king of Mewar) invited Babur to invade India because the political situation was unstable after Sikandar Lodi's death, with conflict between Afghan chiefs and Ibrahim Lodi. Both Daulat Khan and Rana Sanga expected that Babur would defeat Ibrahim Lodi and then return to Central Asia, leaving them to benefit from the power vacuum. They did not realize that Babur, having heard of India's immense wealth, intended to stay.",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_gr003",
+      "question": "Why did Humayun become an exile for fifteen years?",
+      "answer": "Humayun became an exile for fifteen years because he was decisively defeated by Sher Shah Suri in two major battles. In the Battle of Chausa (1539), Sher Shah defeated the Mughal army and Humayun barely escaped. In the Battle of Kannauj (1540), Humayun fought Sher Shah again but lost once more. Having lost his kingdom to the Afghans and with no allies or territories left in India, Humayun was forced into exile.",
+      "source_section": "Humayun's Exile"
+    },
+    {
+      "id": "am_gr004",
+      "question": "Why did Sher Shah introduce the system of transferring government officers every two or three years?",
+      "answer": "Sher Shah introduced the system of transferring government officers every two or three years to prevent undue influence and corruption. If officers stayed in one place too long, they could build personal loyalties and become too powerful, potentially challenging the central authority. By rotating officials regularly, Sher Shah ensured that the administration remained efficient and that no officer could misuse their position.",
+      "source_section": "Provincial Administration"
+    },
+    {
+      "id": "am_gr005",
+      "question": "Why is the First Battle of Panipat considered a great achievement of military tactics?",
+      "answer": "The First Battle of Panipat (1526) is considered a great achievement of military tactics because Babur won despite having fewer soldiers than Ibrahim Lodi. He used superior army organisation, applied the Rumi (Ottoman) method of warfare which was unknown in India, and used artillery and cannons for the first time in India. His proper planning and superior weapons compensated for his numerical disadvantage, demonstrating that military skill and technology could overcome larger armies.",
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_gr006",
+      "question": "Why did Sher Shah introduce the Dagh system?",
+      "answer": "Sher Shah introduced the Dagh system of branding horses with an imperial sign to prevent malpractices in the army. Without this system, soldiers could substitute good quality horses that were inspected with inferior ones. By branding horses with the imperial mark during inspection, Sher Shah ensured that the same horses that were approved were actually used in the army, maintaining military quality and preventing fraud.",
+      "source_section": "Military Administration"
+    },
+    {
+      "id": "am_gr007",
+      "question": "Why was Sher Shah's silver rupia considered his greatest contribution?",
+      "answer": "Sher Shah's silver rupia was considered his greatest contribution because it was a coin of standard weight and uniform quality that became widely accepted across the empire. Before this, there were many different types of coins in circulation. The silver rupia provided a reliable and standardized currency that facilitated trade and commerce. It was so well-designed and practical that it continued to be used for centuries after Sher Shah's time.",
+      "source_section": "Trade and Commerce"
+    },
+    {
+      "id": "am_gr008",
+      "question": "Why was Humayun able to recapture his empire in 1555?",
+      "answer": "Humayun was able to recapture his empire in 1555 because of two key factors. First, after the death of Sher Shah in 1545, his successors were weak rulers who could not hold the empire together, and their authority had declined significantly over ten years. Second, Humayun received military help from the ruler of Persia, which enabled him to capture Kabul and Kandahar first. With these resources and the weakness of the Sur rulers, Humayun invaded India again and successfully defeated the Afghans to re-establish the Mughal dynasty.",
+      "source_section": "Humayun's Return"
+    }
+  ]
+}

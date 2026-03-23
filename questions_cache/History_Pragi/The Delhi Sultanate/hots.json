@@ -1,0 +1,86 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "ds_hots001",
+      "question": "Muhammad-bin-Tughlaq's schemes were well conceived but poorly executed. Explain with examples.",
+      "context": "Evaluating political judgement vs intellectual ability",
+      "answer": "Muhammad-bin-Tughlaq was the most learned scholar of his time, well-versed in Arabic, Persian, philosophy, astronomy, logic, and mathematics. Yet he consistently failed as an administrator because he lacked political judgement. His transfer of capital to Daulatabad was strategically logical since it was more centrally located, but the forced march caused immense suffering and he could not control Delhi from the south, forcing a return in 1335. His token currency of copper jittal replacing silver tanka was a forward-thinking economic idea, but without security measures, people forged coins freely, collapsing the currency. His excessive taxation in the Doab during a famine showed terrible timing, causing peasant revolts. His Khurasan expedition wasted a year's salary advances when the war was abandoned. Each scheme had sound logic behind it but failed in practical implementation.",
+      "key_points": [
+        "Most learned scholar of his time - Arabic, Persian, philosophy, astronomy, logic, mathematics",
+        "Transfer of capital to Daulatabad (1327) - strategically sound but harsh execution caused deaths, forced return in 1335",
+        "Token currency - copper jittal for silver tanka was forward-thinking but people forged coins without security measures",
+        "Excessive taxation in Doab during famine showed terrible timing, caused peasant revolts",
+        "Khurasan expedition wasted army salary advances when campaign was abandoned",
+        "Lost trust of nobles and ulema, leading to revolts and breakaway kingdoms"
+      ],
+      "keywords": ["well conceived", "poorly executed", "Daulatabad", "token currency", "Doab taxation", "political judgement"],
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_hots002",
+      "question": "Why is Firoz Shah Tughlaq called the reformer? Were all his reforms beneficial in the long run?",
+      "context": "Evaluating short-term benefits vs long-term consequences",
+      "answer": "Firoz Shah Tughlaq earned the title of reformer through his wide-ranging beneficial changes. He abolished harsh taxes, established four fair taxes (Kharaj, Zakat, Kham, Jizya), built canals for irrigation, hospitals, new towns, and repaired the Qutub Minar. He translated Sanskrit works to Persian, built schools, and created the Diwan-i-Khairat for the poor and an Employment Bureau. However, not all his reforms were beneficial long-term. His decision to make iqtas hereditary gave nobles permanent power, weakening central authority. His policy of winning over nobles and ulemas through concessions made them too powerful. After his death in 1388, these powerful nobles asserted independence and the empire broke apart. So while his welfare reforms improved people's lives in the short term, his political reforms inadvertently planted the seeds of the Sultanate's decline.",
+      "key_points": [
+        "Abolished harsh taxes, established four main fair taxes",
+        "Built canals, hospitals, new towns, sarais, repaired Qutub Minar",
+        "Translated Sanskrit to Persian, built schools and colleges",
+        "Created Diwan-i-Khairat and Employment Bureau for the poor",
+        "Making iqtas hereditary weakened central authority in the long run",
+        "Nobles became too powerful and the empire broke apart after his death in 1388"
+      ],
+      "keywords": ["reformer", "welfare measures", "hereditary iqtas", "long-term consequences", "decline"],
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_hots003",
+      "question": "Compare the approaches of Balban and Firoz Shah Tughlaq towards governance. Which approach was more effective for maintaining empire stability?",
+      "context": "Comparing authoritarian vs welfare-oriented governance",
+      "answer": "Balban (1266-1286) and Firoz Shah Tughlaq (1351-1388) represented two opposite approaches to governance. Balban ruled with an iron hand through his policy of blood and iron. He crushed the Mewatis, reduced the power of the Chahalgani nobles, introduced Zaminbosi/Sijda to enforce absolute respect, propagated Divine Rights theory, and never shared authority. He kept ulemas out of politics and created the Diwan-i-Arz for military control. Firoz Shah, on the other hand, was a welfare-oriented ruler who won over nobles by making iqtas hereditary, abolished harsh taxes, built public works, and promoted education. While Balban's approach maintained strict order during his reign, his harsh methods meant the empire depended entirely on the ruler's strength. Firoz Shah's approach improved people's lives but weakened central authority. Ironically, Balban's authoritarian approach proved more effective for stability because the Slave Dynasty survived his reign, while the Tughlaq Empire broke apart after Firoz Shah's death because the nobles he had empowered became too independent.",
+      "key_points": [
+        "Balban: iron hand, crushed Mewatis, reduced noble power, Zaminbosi/Sijda, Divine Rights",
+        "Firoz Shah: welfare-oriented, hereditary iqtas, abolished harsh taxes, public works",
+        "Balban kept strict central control, Firoz Shah gave away power to nobles",
+        "Balban's harshness maintained order but depended on ruler strength",
+        "Firoz Shah improved lives but weakened central authority",
+        "Empire survived Balban's reign but broke apart after Firoz Shah's death"
+      ],
+      "keywords": ["Balban", "Firoz Shah", "blood and iron", "welfare", "central authority", "stability"],
+      "source_section": "The Slave Dynasty / The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_hots004",
+      "question": "The Delhi Sultanate lasted 320 years across five dynasties. What factors allowed it to survive so long, and what finally caused its downfall?",
+      "context": "Analyzing factors of political longevity and decline",
+      "answer": "The Delhi Sultanate survived from 1206 to 1526 due to several key factors. Strong rulers like Iltutmish, Balban, and Ala-ud-din Khalji maintained centralized authority and military strength. The iqta system provided an effective administrative framework. Military innovations like the standing army and reforms such as Dagh and Huliya kept the armed forces efficient. The Sultanate also benefited from its strategic location in Delhi, which commanded the Gangetic plains. However, multiple factors contributed to its decline. Muhammad-bin-Tughlaq's failed schemes caused widespread revolts and the loss of southern territories with the founding of Vijayanagara (1336) and Bahmani (1345) kingdoms. Firoz Shah's hereditary iqtas weakened central authority. Timur's devastating invasion of 1398 left the Sultanate crumbling. The Sayyid rulers were mere figureheads. The Lodi dynasty's Afghan tribal traditions of treating the chief as first among equals made it difficult to maintain absolute authority. Finally, internal betrayal by Daulat Khan Lodi inviting Babur led to the Battle of Panipat in 1526 and the end of the Sultanate.",
+      "key_points": [
+        "Survival factors: strong rulers, centralized authority, iqta system, military innovations",
+        "Strategic location of Delhi commanding the Gangetic plains",
+        "Muhammad-bin-Tughlaq's failed schemes caused revolts and breakaway kingdoms",
+        "Firoz Shah's hereditary iqtas weakened central authority",
+        "Timur's invasion of 1398 devastated the Sultanate",
+        "Sayyid rulers were weak figureheads",
+        "Internal betrayal by Daulat Khan Lodi inviting Babur led to final defeat in 1526"
+      ],
+      "keywords": ["320 years", "five dynasties", "survival factors", "decline", "Timur", "Battle of Panipat"],
+      "source_section": "Overview of the Delhi Sultanate"
+    },
+    {
+      "id": "ds_hots005",
+      "question": "Why did Ala-ud-din Khalji allow the defeated southern kings to continue ruling on condition of tribute rather than annexing their kingdoms directly?",
+      "context": "Analyzing imperial strategy and practical governance",
+      "answer": "Ala-ud-din Khalji's decision to allow defeated southern kings to continue ruling was a pragmatic political strategy rather than a sign of weakness. The southern kingdoms of the Yadavas, Kakatiyas, Hoysalas, and Pandyas were far from Delhi, making direct administration extremely difficult with the communication and transport systems of the 13th century. Installing his own governors in such distant territories would require maintaining large garrisons, which would be costly and hard to supply. The local kings already had established administrative systems and knew how to govern their people effectively. By allowing them to rule as tributaries, Ala-ud-din gained a steady flow of wealth without the cost and difficulty of direct administration. This was similar to how the Mongol Empire often used local rulers to govern conquered territories. However, this policy had a weakness: once central Sultanate power weakened under the Tughlaqs, these southern kingdoms stopped paying tribute and eventually became fully independent.",
+      "key_points": [
+        "Southern kingdoms were far from Delhi, making direct administration difficult",
+        "Communication and transport limitations of the 13th century",
+        "Installing governors would require costly garrisons hard to supply",
+        "Local kings had established administrative systems and knew their people",
+        "Tributary system provided steady wealth without administrative costs",
+        "Weakness: once Sultanate power weakened, tributaries became independent"
+      ],
+      "keywords": ["southern conquests", "tributary", "practical governance", "distance", "administration costs"],
+      "source_section": "The Khalji Dynasty"
+    }
+  ]
+}

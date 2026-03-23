@@ -1,0 +1,251 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "am_tqa001",
+      "exercise": "I",
+      "question": "Choose the correct answer: Ibrahim Lodi was defeated by Babur in the battle of Plassey/Panipat.",
+      "answer": "Panipat"
+    },
+    {
+      "id": "am_tqa002",
+      "exercise": "I",
+      "question": "Choose the correct answer: Sher Shah/Akbar introduced the system of Dagh or branding of horses.",
+      "answer": "Sher Shah"
+    },
+    {
+      "id": "am_tqa003",
+      "exercise": "I",
+      "question": "Choose the correct answer: The Panchayats/Patwaris also played important role in village administration.",
+      "answer": "Panchayats"
+    },
+    {
+      "id": "am_tqa004",
+      "exercise": "I",
+      "question": "Choose the correct answer: Rana Sanga was defeated in the Battle of Khanua/Chanderi.",
+      "answer": "Khanua"
+    },
+    {
+      "id": "am_tqa005",
+      "exercise": "I",
+      "question": "Choose the correct answer: Greatest contribution of Sher Shah was introduction of silver rupia/copper rupia.",
+      "answer": "silver rupia"
+    },
+    {
+      "id": "am_tqa006",
+      "exercise": "II",
+      "question": "Fill in the blank: The Mubayyin is a treatise on __________.",
+      "answer": "Muslim law"
+    },
+    {
+      "id": "am_tqa007",
+      "exercise": "II",
+      "question": "Fill in the blank: Humayun had three brothers, Kamran, Askari and __________.",
+      "answer": "Hindal"
+    },
+    {
+      "id": "am_tqa008",
+      "exercise": "II",
+      "question": "Fill in the blank: Sher Shah constructed a new city on the banks of the river Yamuna called __________.",
+      "answer": "Purana Qila"
+    },
+    {
+      "id": "am_tqa009",
+      "exercise": "II",
+      "question": "Fill in the blank: Sher Shah constructed roads and __________ for the growth of trade and commerce.",
+      "answer": "inns"
+    },
+    {
+      "id": "am_tqa010",
+      "exercise": "II",
+      "question": "Fill in the blank: The whole empire of Sher Shah was divided into 47 units called __________.",
+      "answer": "sarkars"
+    },
+    {
+      "id": "am_tqa011",
+      "exercise": "III",
+      "question": "[Remembering Based] Why did Babur invade India?",
+      "answer": "Babur invaded India because the political situation in India was unstable after Sikandar Lodi's death, with conflict between Afghan chiefs and Ibrahim Lodi. Daulat Khan Lodi (Governor of Punjab) and Rana Sanga (Rajput king of Mewar) both invited Babur to invade India, thinking he would leave after defeating Ibrahim Lodi. However, Babur had heard tales of the immense wealth of India and saw a great opportunity to establish a powerful empire."
+    },
+    {
+      "id": "am_tqa012",
+      "exercise": "III",
+      "question": "[Remembering Based] Who were the Mughals?",
+      "answer": "The Mughals were led by Zahiruddin Muhammad Babur, an able military commander from Central Asia. They were descendants of two great lineages: from their mother's side they descended from Genghis Khan (ruler of Central Asia), and from their father's side they descended from Timur (ruler of Iran, Iraq, and Turkey). Because of their lineage from Timur, the Mughals were also referred to as the Timurids."
+    },
+    {
+      "id": "am_tqa013",
+      "exercise": "III",
+      "question": "[Remembering Based] List two important achievements of Sher Shah.",
+      "answer": "Two important achievements of Sher Shah were: (1) He constructed the Grand Trunk Road from Sonargoan in Bengal to Peshawar in the North-Western frontier, which was one of the most notable roads of its time. Trees were planted on both sides, and wells and sarais were built for travellers. (2) He introduced the silver rupia of standard weight, which was his greatest contribution and was used for centuries after his time. He also introduced gold coins called mohurs and copper coins called dams."
+    },
+    {
+      "id": "am_tqa014",
+      "exercise": "IV",
+      "question": "[Understanding Based - True/False] The Sultanate had substantially weakened when Babur invaded India.",
+      "answer": "True. By 1526, the Delhi Sultanate had substantially weakened with many independent kingdoms emerging. Delhi was under Sultan Ibrahim Lodi, while other regions like Gujarat, Malwa, Bengal, Mewar, and Vijayanagara had become independent kingdoms."
+    },
+    {
+      "id": "am_tqa015",
+      "exercise": "IV",
+      "question": "[Understanding Based - True/False] Humayun ascended the throne as ruler of Farghana, a small principality in Transoxiana.",
+      "answer": "False. It was Babur, not Humayun, who ascended the throne as ruler of Farghana in 1494 at the age of eleven after the death of his father. Humayun succeeded Babur as ruler of the Mughal Empire in 1530 after Babur's death."
+    },
+    {
+      "id": "am_tqa016",
+      "exercise": "IV",
+      "question": "[Understanding Based - True/False] The defeat of Rana Sanga weakened the Rajput power to a great extent.",
+      "answer": "True. Rana Sanga was defeated by Babur in the Battle of Khanua in 1527. This defeat weakened Rajput power greatly and gave Babur complete control over Central India."
+    },
+    {
+      "id": "am_tqa017",
+      "exercise": "IV",
+      "question": "[Understanding Based - True/False] Sher Shah succeeded in establishing the Afghan rule again in India in 1545.",
+      "answer": "False. Sher Shah succeeded in establishing Afghan rule again in India in 1540, not 1545. After defeating Humayun in the Battle of Kannauj in 1540, he assumed the title of Sher Shah and established what is known as the period of the second Afghan Empire. He died in 1545."
+    },
+    {
+      "id": "am_tqa018",
+      "exercise": "IV",
+      "question": "[Understanding Based - True/False] Dak Chowkies served as sarais where horses were kept to carry mail to the next post.",
+      "answer": "True. Sarais built along the roads also served as Dak Chowkies, where horses were kept ready to carry mail to the next post. This was part of Sher Shah's transport and communication reforms."
+    },
+    {
+      "id": "am_tqa019",
+      "exercise": "V",
+      "question": "[Define] Dagh",
+      "answer": "Dagh was the system of branding horses with an imperial sign introduced by Sher Shah. This was done to prevent malpractices such as substitution of good horses with inferior ones. The system ensured that the horses that were inspected and approved were the same ones used by the soldiers."
+    },
+    {
+      "id": "am_tqa020",
+      "exercise": "V",
+      "question": "[Define] Rumi",
+      "answer": "Rumi referred to the Ottoman method of warfare that Babur applied in his battles in India. Babur used this war tactic, along with artillery and cannons (used for the first time in India), which contributed to his victory in the First Battle of Panipat in 1526 against Ibrahim Lodi."
+    },
+    {
+      "id": "am_tqa021",
+      "exercise": "VI",
+      "question": "[Differentiate] Mohurs and Dams",
+      "answer": "Mohurs were gold coins introduced by Sher Shah that weighed 169 grams. Dams, on the other hand, were copper coins introduced by Sher Shah. Both were part of Sher Shah's currency reforms where he introduced coins of gold, silver and copper of uniform standards. The silver coin was called 'rupia' and was his greatest contribution."
+    },
+    {
+      "id": "am_tqa022",
+      "exercise": "VII",
+      "question": "[Answer in brief] What problems did Babur face after the Battle of Panipat?",
+      "answer": "After the Battle of Panipat, Babur faced three major problems. First, his nobles wanted to return to Central Asia as they did not like the Indian climate and felt culturally alienated. Second, the Rajputs under Rana Sanga wanted to expel the Mughals from India. Third, the Afghans, though defeated, were still a formidable force in eastern Uttar Pradesh, Bihar, and Bengal."
+    },
+    {
+      "id": "am_tqa023",
+      "exercise": "VII",
+      "question": "[Answer in brief] How did Sher Shah emerge as the leader of the Afghans?",
+      "answer": "Sher Shah's real name was Farid Khan. He was the son of a jagirdar under the kingdom of Jaunpur. After 1524, he was given his father's jagir by Ibrahim Lodi. He had to conflict with his family to possess it. Through these experiences, he acquired great military and administrative skills and gradually became the leader of the Afghans. He already knew that the first Afghan kingdom under the Lodis had been replaced by the Mughals under Babur in 1526."
+    },
+    {
+      "id": "am_tqa024",
+      "exercise": "VII",
+      "question": "[Answer in brief] Describe briefly the Battle of Khanua.",
+      "answer": "The Battle of Khanua was fought in 1527 between Babur and Rana Sanga of Mewar. Rana Sanga mustered a large number of Rajput chiefs including rulers of Jalor, Sirohi, Dungarpur, Amber, and Merta, along with Hasan Khan of Mewat and Mahmud Lodi. They expected Babur to return to Kabul after Panipat. The forces met at Khanua, a village near Agra. Babur defeated Rana Sanga with his superior military tactics. This defeat weakened Rajput power greatly and gave Babur complete control over Central India."
+    },
+    {
+      "id": "am_tqa025",
+      "exercise": "VII",
+      "question": "[Answer in brief] Write a short note on exile and return of Humayun.",
+      "answer": "After losing the Battle of Kannauj in 1540 to Sher Shah, Humayun became an exile for fifteen years. In 1545, after the death of Sher Shah, his weak successors ruled for ten years. With the help of the ruler of Persia, Humayun captured Kabul and Kandahar. Taking advantage of the weak successors of Sher Shah, Humayun invaded again, defeated the Afghans, and in 1555 re-established the Mughal dynasty. After six months, he died in 1556 due to a fall from the staircase of his library."
+    },
+    {
+      "id": "am_tqa026",
+      "exercise": "VII",
+      "question": "[Answer in brief] Why did Daulat Khan Lodhi invite Babur to invade India?",
+      "answer": "Daulat Khan Lodi was the Governor of Punjab. After the death of Sikandar Lodi, there was conflict between the Afghan chiefs and the new Sultan Ibrahim Lodi. Daulat Khan Lodi, along with Rana Sanga of Mewar, invited Babur to invade India thinking that Babur would defeat Ibrahim Lodi and then return to Central Asia. However, Babur had heard tales of the immense wealth of India and had no intention of leaving."
+    },
+    {
+      "id": "am_tqa027",
+      "exercise": "VIII",
+      "question": "[Answer in detail] What were the reasons for Babur's success in the First Battle of Panipat?",
+      "answer": "Babur's success in the First Battle of Panipat in 1526 was due to several reasons. First, Babur had a superior army organisation compared to Ibrahim Lodi's forces. Second, he employed great war tactics and applied the Rumi (Ottoman) method of warfare, which was unknown in India. Third, he used artillery and cannons for the first time in India, which gave him a significant military advantage. Fourth, his forces benefited from proper planning and superior weapons. Although Babur's soldiers were less in number compared to Lodi's army, these factors combined to give him a decisive victory. Ibrahim Lodi was defeated and killed, giving Babur a firm ground in India."
+    },
+    {
+      "id": "am_tqa028",
+      "exercise": "VIII",
+      "question": "[Answer in detail] What were the problems faced by Humayun when he ascended the throne?",
+      "answer": "Humayun faced many serious problems when he ascended the throne after Babur's death in 1530. First, the newly conquered territories and administrations were not consolidated. Second, unlike Babur, Humayun did not command the respect of the Mughal nobility. Third, the Chaghatai nobles were not favourably inclined towards him, and the Indian nobles had deserted. Fourth, he was confronted with the hostility of the Afghans, especially Sher Shah in Bihar and Bahadur Shah in Gujarat. Fifth, his three brothers Kamran, Askari, and Hindal were dissatisfied with their share of the empire and wanted the throne of Delhi for themselves. Kamran got Kabul and Kandahar, while Askari got Sambhal and Alwar."
+    },
+    {
+      "id": "am_tqa029",
+      "exercise": "VIII",
+      "question": "[Answer in detail] Briefly describe the land revenue system of Sher Shah.",
+      "answer": "Sher Shah paid special attention to the land revenue system and introduced a permanent schedule of rates. The state's share was one-third of the produce, and peasants could pay in cash or kind. The amount to be paid was recorded in a paper called 'Patta', and no one could charge the peasants extra. In times of famines and calamities, an additional tax of 2.5% was levied for relief. He surveyed the entire land and fixed one-fourth to one-third of products as revenue. He employed officials such as Amins, Muqaddams, Shiqdars, Quanungos, and Patwaris, and advised officers to be lenient with the peasants. No hardship was caused to peasants, and advances were made during unforeseen calamities. Sher Shah's land revenue system was so efficient that Akbar later adopted it."
+    },
+    {
+      "id": "am_tqa030",
+      "exercise": "VIII",
+      "question": "[Answer in detail] Write a short note on Babur's achievements.",
+      "answer": "Babur was known for his significant military victories in India, including the First Battle of Panipat (1526), the Battle of Khanua (1527), the Battle of Chanderi (1528), and the Battle of Ghaghara (1529). Apart from being a great warrior, Babur was also a remarkable scholar and writer. He wrote his autobiography called Tuzuk-i-Baburi or Baburnama, which was not only a work of history but also a masterpiece of literature. His command over the Turki language gave him a high place among scholars. He was well versed in Arabic and Persian. His account of India was very attractive, throwing light on the climate, animals, birds, fruits, art, industries, and socio-economic life. He also wrote a collection of mansavis called Mubayyin, a treatise on Muslim law, and composed poems in Persian. Additionally, he introduced garden palaces in India."
+    },
+    {
+      "id": "am_tqa031",
+      "exercise": "VIII",
+      "question": "[Answer in detail] List the battles fought by Humayun.",
+      "answer": "Humayun fought several important battles during his reign. He first besieged Chunar in the east against the Afghans. He then marched against Bahadur Shah of Gujarat, who had occupied Bhilsa, Raisen, Ujjain, and Gagron. Bahadur Shah escaped without fighting, and Humayun annexed Malwa and Gujarat. The most significant battles were against Sher Shah Suri. In the Battle of Chausa (1539), Sher Shah defeated the Mughal army, and Humayun barely escaped. In the Battle of Kannauj (1540), Humayun fought Sher Shah again but lost once more. After this defeat, Humayun became an exile for fifteen years. Finally, after returning with Persian help and capturing Kabul and Kandahar, he invaded India again and defeated the weak successors of Sher Shah in 1555, re-establishing the Mughal dynasty."
+    },
+    {
+      "id": "am_tqa032",
+      "exercise": "Application",
+      "question": "[Application] How did Babur secure his foothold in India?",
+      "answer": "Babur secured his foothold in India through a series of strategic military victories and political decisions. After winning the First Battle of Panipat in 1526, he convinced his nobles (who wanted to return to Central Asia) to stay and consolidate. He sent his son Humayun to face the eastern Afghans. When Rana Sanga mustered a large coalition of Rajput chiefs, Babur defeated them at the Battle of Khanua in 1527, weakening Rajput power and gaining control over Central India. He then fought at Chanderi in 1528, completely shattering Rajput resistance. Finally, his victory at Ghaghara in 1529 against the Afghans and the king of Bengal established Mughal supremacy in northern India."
+    },
+    {
+      "id": "am_tqa033",
+      "exercise": "HOTS",
+      "question": "[HOTS] Which Mughal ruler earned the title of Insan-i-Kamil (Perfect Man) for his peaceful personality and patience?",
+      "answer": "Humayun is often referred to with this title. Despite facing numerous setbacks including losing his kingdom to Sher Shah and spending fifteen years in exile, Humayun showed great patience and perseverance. He was known to be kind and generous, and though not a great warrior, he loved painting and wrote poetry in Persian."
+    },
+    {
+      "id": "am_tqa034",
+      "exercise": "HOTS",
+      "question": "[HOTS] Sher Shah took many steps for welfare of people. Give some examples to justify this statement.",
+      "answer": "Sher Shah took many welfare measures for the common people. He constructed important roads including the Grand Trunk Road from Sonargoan in Bengal to Peshawar, with trees planted on both sides and wells and sarais for travellers. His land revenue system ensured no hardship for peasants, with advances made during calamities. He abolished all duties on goods except two, promoting trade and commerce. He introduced uniform weights and measures, and standard coins (silver rupia, gold mohurs, copper dams). He showed religious tolerance and implemented welfare measures for common people. His efficient provincial administration with a system of transferring officers every two or three years prevented corruption."
+    },
+    {
+      "id": "am_tqa035",
+      "exercise": "Assess Yourself",
+      "question": "[Assess Yourself - Babur] Babur's forces met Ibrahim Lodi at the battlefield of __________.",
+      "answer": "Panipat"
+    },
+    {
+      "id": "am_tqa036",
+      "exercise": "Assess Yourself",
+      "question": "[Assess Yourself - Babur] The forces of Babur and Rana Sanga met at __________.",
+      "answer": "Khanua"
+    },
+    {
+      "id": "am_tqa037",
+      "exercise": "Assess Yourself",
+      "question": "[Assess Yourself - Babur] Babur wrote his autobiography which is called __________.",
+      "answer": "Tuzuk-i-Baburi"
+    },
+    {
+      "id": "am_tqa038",
+      "exercise": "Assess Yourself",
+      "question": "[Assess Yourself - Sher Shah] The Sur Dynasty was founded by Sher Shah. (True/False)",
+      "answer": "True. Sher Shah (whose real name was Farid Khan) founded the Sur dynasty after defeating Humayun."
+    },
+    {
+      "id": "am_tqa039",
+      "exercise": "Assess Yourself",
+      "question": "[Assess Yourself - Sher Shah] The Battle of Kannauj was fought between Humayun and his brothers. (True/False)",
+      "answer": "False. The Battle of Kannauj (1540) was fought between Humayun and Sher Shah Suri, not between Humayun and his brothers."
+    },
+    {
+      "id": "am_tqa040",
+      "exercise": "Assess Yourself",
+      "question": "[Assess Yourself - Sher Shah] In 1555, Humayun defeated the Afghans and recovered the Mughal throne. (True/False)",
+      "answer": "True. After fifteen years of exile, Humayun defeated the weak successors of Sher Shah and re-established the Mughal dynasty in 1555."
+    },
+    {
+      "id": "am_tqa041",
+      "exercise": "Assess Yourself",
+      "question": "[Assess Yourself - Sher Shah] Humayun introduced many reforms in his empire. (True/False)",
+      "answer": "False. Humayun was not known for introducing reforms. It was Sher Shah who introduced many significant administrative, revenue, and military reforms during his rule."
+    }
+  ]
+}

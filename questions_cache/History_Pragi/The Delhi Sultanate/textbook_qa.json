@@ -1,0 +1,227 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "ds_tqa001",
+      "exercise": "I",
+      "question": "Choose the correct answer: __________ became the first ruler of the Slave Dynasty. (Iltutmish / Qutb-ud-din Aibak)",
+      "answer": "Qutb-ud-din Aibak"
+    },
+    {
+      "id": "ds_tqa002",
+      "exercise": "I",
+      "question": "Choose the correct answer: Muhammad introduced a __________ in place of the silver coin. (gold coin / copper coin)",
+      "answer": "copper coin"
+    },
+    {
+      "id": "ds_tqa003",
+      "exercise": "I",
+      "question": "Choose the correct answer: The founder of the Tughlaq dynasty was __________. (Ghazi Malik / Malik Kafur)",
+      "answer": "Ghazi Malik"
+    },
+    {
+      "id": "ds_tqa004",
+      "exercise": "I",
+      "question": "Choose the correct answer: Babur defeated __________ in 1526 in the Battle of Panipat. (Ibrahim Lodi / Sikandar Lodi)",
+      "answer": "Ibrahim Lodi"
+    },
+    {
+      "id": "ds_tqa005",
+      "exercise": "I",
+      "question": "Choose the correct answer: __________ carried out various works of public utility. (Alam Shah / Firoz Shah)",
+      "answer": "Firoz Shah"
+    },
+    {
+      "id": "ds_tqa006",
+      "exercise": "II",
+      "question": "Fill in the blank: Qutb-ud-din Aibak was called __________.",
+      "answer": "Lakh Baksh"
+    },
+    {
+      "id": "ds_tqa007",
+      "exercise": "II",
+      "question": "Fill in the blank: The Sultan decided to shift his capital from Delhi to Daulatabad because __________.",
+      "answer": "it was more centrally located"
+    },
+    {
+      "id": "ds_tqa008",
+      "exercise": "II",
+      "question": "Fill in the blank: __________ re-imposed jizya on the non-Muslims.",
+      "answer": "Sikandar Lodi"
+    },
+    {
+      "id": "ds_tqa009",
+      "exercise": "II",
+      "question": "Fill in the blank: Ala-ud-din Khalji started several __________ and __________ for the progress of literature, science and technology.",
+      "answer": "maktabs and madrasas"
+    },
+    {
+      "id": "ds_tqa010",
+      "exercise": "II",
+      "question": "Fill in the blank: Babur defeated Ibrahim Lodi in 1526 in the __________.",
+      "answer": "Battle of Panipat"
+    },
+    {
+      "id": "ds_tqa011",
+      "exercise": "III",
+      "question": "Name the ruler who took various steps to control the prices for different commodities in Delhi.",
+      "answer": "Ala-ud-din Khalji. He established three markets in Delhi - one for food grains, one for cloth, and one for horses, slaves, and cattle. He appointed a superintendent called Shahna-i-Mandi along with intelligence officers (barids) and secret spies (munhiyans) to ensure that prices were strictly controlled. Violators were severely punished or imprisoned."
+    },
+    {
+      "id": "ds_tqa012",
+      "exercise": "III",
+      "question": "Who was the last Sayyid ruler?",
+      "answer": "Ala-ud-din Alam Shah was the last Sayyid ruler. He was incompetent and unable to govern effectively. His wazir Hamid Khan invited Bahlul Lodi to take over. Alam Shah willingly left for Badaun, bringing an end to the Sayyid dynasty in 1451."
+    },
+    {
+      "id": "ds_tqa013",
+      "exercise": "III",
+      "question": "Under which title did Ghazi Malik ascend the throne in 1320?",
+      "answer": "Ghazi Malik ascended the throne under the title of Ghiyas-ud-din Tughlaq in 1320. He founded the Tughlaq dynasty and became its first ruler. He was half-Indian and half-Turkish, and had earlier killed Khusro Khan who had murdered the last Khalji ruler."
+    },
+    {
+      "id": "ds_tqa014",
+      "exercise": "III",
+      "question": "Who led the expeditions in the South during Ala-ud-din Khalji's rule?",
+      "answer": "Malik Kafur led the southern expeditions during Ala-ud-din Khalji's rule. He defeated the Yadavas of Devagiri, the Kakatiyas of Warangal, the Hoysalas of Dwarasamudra, and the Pandyas of Madurai. Ala-ud-din allowed the defeated kings to continue ruling on the condition that they paid tribute regularly."
+    },
+    {
+      "id": "ds_tqa015",
+      "exercise": "IV",
+      "question": "True or False: Firoz Shah Tughlaq was placed on the throne by ulemas and nobles.",
+      "answer": "True. Firoz Shah Tughlaq was Muhammad-bin-Tughlaq's cousin. After Muhammad-bin-Tughlaq died in 1351 while fighting a rebellion in Sindh, the ulemas and nobles placed Firoz Shah on the throne. He was a religious man who won over both the nobles and the ulemas."
+    },
+    {
+      "id": "ds_tqa016",
+      "exercise": "IV",
+      "question": "True or False: A number of Sanskrit books were translated into Persian during Ala-ud-din Khalji's reign.",
+      "answer": "False. Sanskrit books were translated into Persian during Firoz Shah Tughlaq's reign, not Ala-ud-din Khalji's. Firoz Shah Tughlaq was known for his education reforms, which included the translation of Sanskrit texts into Persian and the building of schools and colleges."
+    },
+    {
+      "id": "ds_tqa017",
+      "exercise": "IV",
+      "question": "True or False: Alai Darwaza was the best creation of the Lodi Dynasty.",
+      "answer": "False. The Alai Darwaza was the best creation of Ala-ud-din Khalji of the Khalji Dynasty, not the Lodi Dynasty. He built it near the Qutub Minar. Ala-ud-din was a patron of art and architecture who also built Siri Fort and the Palace of One Thousand Pillars."
+    },
+    {
+      "id": "ds_tqa018",
+      "exercise": "IV",
+      "question": "True or False: The rulers of the Lodi dynasty were Afghans.",
+      "answer": "True. The Lodi dynasty rulers were Afghans. They were the last ruling family of the Delhi Sultanate period. The three Lodi rulers were Bahlul Lodi, Sikandar Lodi, and Ibrahim Lodi."
+    },
+    {
+      "id": "ds_tqa019",
+      "exercise": "IV",
+      "question": "True or False: Mubarak Shah abolished all those taxes which were a great burden on poor people.",
+      "answer": "False. It was Firoz Shah Tughlaq who abolished the harsh taxes that burdened the poor, not Mubarak Shah. Firoz Shah implemented four main taxes: Kharaj (land tax of 1/10), Zakat (Muslim religious tax), Kham (1/5 of war booty), and Jizya (non-Muslim tax), abolishing many of the harsh and arbitrary taxes imposed by earlier rulers."
+    },
+    {
+      "id": "ds_tqa020",
+      "exercise": "V",
+      "question": "Define: Lakh Baksh",
+      "answer": "Lakh Baksh was the title given to Qutb-ud-din Aibak, which means 'giver of lakhs'. He earned this title because of his extreme generosity and kind-hearted nature. He was known for distributing large amounts of wealth and gifts to those around him. Despite being born a slave, he rose to become the first independent Muslim ruler of northern India and was remembered for his charitable nature."
+    },
+    {
+      "id": "ds_tqa021",
+      "exercise": "V",
+      "question": "Define: Sijda",
+      "answer": "Sijda (also called Zaminbosi) was a form of greeting introduced by Ghiyas-ud-din Balban during the Slave Dynasty. In this practice, people had to kneel down and touch the ground before the Sultan as a mark of respect and submission. Balban introduced this practice as part of his policy to establish the divine authority of the Sultan. He propagated the Divine Rights theory and believed that the Sultan's authority should be absolute and unquestionable."
+    },
+    {
+      "id": "ds_tqa022",
+      "exercise": "VI",
+      "question": "Differentiate between Kharaj and Kham.",
+      "answer": "Kharaj was a land tax levied during Firoz Shah Tughlaq's reign. It was fixed at one-tenth of the produce from agricultural land. It was a regular tax that farmers had to pay based on their land holdings and agricultural output.\n\nKham was a tax on war booty during Firoz Shah Tughlaq's reign. It was fixed at one-fifth (1/5) of the plunder or spoils obtained during military campaigns. This money went directly to the state treasury. While Kharaj was a continuous agricultural tax, Kham was collected only after successful military expeditions."
+    },
+    {
+      "id": "ds_tqa023",
+      "exercise": "VI",
+      "question": "Differentiate between Zakat and Jizya.",
+      "answer": "Zakat was a religious tax levied on Muslims during Firoz Shah Tughlaq's reign. It was a charitable contribution that Muslims were required to pay as part of their religious obligations. The collected amount was used for welfare purposes.\n\nJizya was a tax imposed on non-Muslims. It was essentially a poll tax that non-Muslim subjects had to pay. Sikandar Lodi later re-imposed jizya on non-Muslims during the Lodi dynasty. While Zakat was a religious duty for Muslims, Jizya was specifically levied on non-Muslim subjects of the Sultanate."
+    },
+    {
+      "id": "ds_tqa024",
+      "exercise": "VII",
+      "question": "What problems did Iltutmish face on ascending the throne?",
+      "answer": "Iltutmish faced many problems when he ascended the throne. Aibak's son Aram Shah was ruling weakly and Iltutmish had to overthrow him. After becoming Sultan, he faced numerous revolts from rival nobles and governors who challenged his authority. He had to consolidate a vast empire stretching from the Indus to Multan, Sindh, and Bengal. He also had to deal with the threat of the Rajputs who resisted Muslim rule. In 1221, he faced the danger of a Mongol invasion when Genghis Khan was chasing the ruler of Persia. However, Iltutmish wisely refused to give shelter to the Persian ruler, thus avoiding a direct confrontation with the Mongols. Through strong military action and diplomatic skill, he managed to overcome these challenges and is considered the real founder of the Delhi Sultanate."
+    },
+    {
+      "id": "ds_tqa025",
+      "exercise": "VII",
+      "question": "Name the five dynasties of the Delhi Sultanate.",
+      "answer": "The five dynasties of the Delhi Sultanate were: (1) The Slave Dynasty or Mamluk Dynasty (1206-1290), founded by Qutb-ud-din Aibak. (2) The Khalji Dynasty (1290-1320), founded by Jalal-ud-din Firuz Khalji. (3) The Tughlaq Dynasty (1320-1414), founded by Ghiyas-ud-din Tughlaq (Ghazi Malik). (4) The Sayyid Dynasty (1414-1451), founded by Khizr Khan. (5) The Lodi Dynasty (1451-1526), founded by Bahlul Lodi. Together, these five dynasties ruled the Delhi Sultanate for 320 years until Babur defeated Ibrahim Lodi in the Battle of Panipat in 1526."
+    },
+    {
+      "id": "ds_tqa026",
+      "exercise": "VII",
+      "question": "Who was Ibn Battuta? When did he come to India?",
+      "answer": "Ibn Battuta was a famous Moroccan traveller and explorer who visited India during the reign of Muhammad-bin-Tughlaq. He arrived in India around 1334 and spent several years at the court of Muhammad-bin-Tughlaq in Delhi. He was appointed as the qazi (judge) of Delhi by the Sultan. Ibn Battuta's detailed accounts of his travels, known as the Rihla, provide valuable historical information about the Tughlaq dynasty and life in medieval India. His observations give us a first-hand account of Muhammad-bin-Tughlaq's administration, the transfer of capital to Daulatabad, and the general conditions of the Sultanate during that period."
+    },
+    {
+      "id": "ds_tqa027",
+      "exercise": "VII",
+      "question": "Which kinds of taxes were levied during Firoz Shah Tughlaq's reign?",
+      "answer": "Firoz Shah Tughlaq levied four main taxes. First, Kharaj was a land tax fixed at one-tenth of the agricultural produce. Second, Zakat was a religious tax that Muslims had to pay as part of their religious obligations. Third, Kham was a tax of one-fifth of the war booty or plunder obtained during military campaigns. Fourth, Jizya was a poll tax levied on non-Muslim subjects. Besides these four main taxes, he also collected irrigation tax, garden tax, octroi, and sales tax. However, he abolished many of the harsh and arbitrary taxes that had been imposed by earlier rulers, making the tax system fairer for the common people."
+    },
+    {
+      "id": "ds_tqa028",
+      "exercise": "VII",
+      "question": "What was Muhammad-bin-Tughlaq's motive behind the transfer of capital?",
+      "answer": "Muhammad-bin-Tughlaq decided to transfer the capital from Delhi to Devagiri (which he renamed Daulatabad) in 1327. His main motive was that Daulatabad was more centrally located in the empire, making it easier to control both northern and southern territories. He wanted better administrative control over the recently conquered southern regions. However, the plan was poorly executed. Only the upper classes were shifted, and the harsh journey from Delhi to Daulatabad caused great suffering and many deaths. Moreover, he could not effectively control Delhi and the northern territories from the distant Daulatabad. Realizing his mistake, he was forced to transfer the capital back to Delhi in 1335."
+    },
+    {
+      "id": "ds_tqa029",
+      "exercise": "VII",
+      "question": "Why did nobles become powerful during Firoz Shah Tughlaq's reign?",
+      "answer": "Nobles became powerful during Firoz Shah Tughlaq's reign because he made iqtas (land assignments) hereditary. Earlier, iqtas were temporary grants that could be revoked by the Sultan. But Firoz Shah allowed nobles to pass their iqtas to their children, which gave them a permanent source of income and power. He also tried to win over the nobles and ulemas by implementing Islamic laws and giving them special privileges. By being generous and lenient towards the nobility, he inadvertently made them too powerful and independent. This eventually weakened the central authority of the Sultan, and after his death in 1388, the empire quickly broke up as powerful nobles asserted their independence."
+    },
+    {
+      "id": "ds_tqa030",
+      "exercise": "VIII",
+      "question": "Why did the Delhi Sultanate disintegrate after the Tughlaqs?",
+      "answer": "The Delhi Sultanate disintegrated after the Tughlaqs due to several reasons. Muhammad-bin-Tughlaq's failed schemes such as the transfer of capital to Daulatabad, the introduction of token currency, excessive taxation in the Doab, and failed military expeditions had severely weakened the empire. Many provinces had already revolted and become independent during his reign, including the founding of the Vijayanagara kingdom in 1336 and the Bahmani kingdom in 1345. Firoz Shah Tughlaq made the iqtas hereditary, which gave nobles too much power and weakened central authority. After Firoz Shah's death in 1388, weak successors could not hold the empire together. The devastating invasion of Timur in 1398 dealt the final blow, leaving the Sultanate crumbling and confined to a small territory around Delhi by 1412. The Sayyid dynasty that followed was weak and ruled only as Timur's viceroys. By the time the Lodi dynasty came to power, the Sultanate was a shadow of its former glory, and internal revolts eventually led to its end when Ibrahim Lodi was defeated by Babur in 1526."
+    },
+    {
+      "id": "ds_tqa031",
+      "exercise": "VIII",
+      "question": "What policy did Bahlul Lodi adopt to seek cooperation of Afghan nobles?",
+      "answer": "Bahlul Lodi, as the founder of the Lodi dynasty, adopted a policy of diplomacy and military strength to seek the cooperation of Afghan nobles. He suppressed revolts in Mewat and the Doab region to establish his authority. He defeated the Sultan of Jaunpur in 1476, bringing that territory under his control. However, he treated the Afghan nobles as equals rather than subordinates, which was in line with Afghan tribal traditions where the chief was considered first among equals. He distributed conquered territories among loyal nobles to win their support. By combining military firmness with political accommodation, he managed to stabilize the Sultanate after the weakness of the Sayyid period. Despite these efforts, he could not reoccupy Bengal, Gujarat, or the Deccan, showing the limits of the Sultanate's power by this period."
+    },
+    {
+      "id": "ds_tqa032",
+      "exercise": "VIII",
+      "question": "List some achievements of Balban's reign.",
+      "answer": "Ghiyas-ud-din Balban was one of the most powerful rulers of the Slave Dynasty, ruling from 1266 to 1286. He ruled with an iron hand and crushed the Mewatis who had been causing disturbances in the region around Delhi. He significantly reduced the power of the nobles and broke the influence of the Chahalgani (The Forty), the group of powerful nobles that had been created by Iltutmish. He introduced the practice of Zaminbosi or Sijda, where people had to kneel and touch the ground before the Sultan, to establish the supreme dignity of the throne. He propagated the theory of Divine Rights of the Sultan. He created the Diwan-i-Arz, a separate department for military affairs, to strengthen the army. He built forts and established Afghan garrisons along the frontiers to protect the Sultanate from Mongol invasions. He also ensured that the ulemas were kept away from political affairs to maintain the supremacy of the Sultan."
+    },
+    {
+      "id": "ds_tqa033",
+      "exercise": "VIII",
+      "question": "What measures did Sikandar Lodi take to improve the dignity and status of the Sultan?",
+      "answer": "Sikandar Lodi, whose real name was Nizam Khan, was the greatest and wisest ruler of the Lodi dynasty. He organised the entire administrative system to improve the dignity and status of the Sultan. He moved the capital from Delhi to Agra to better control the eastern territories. He annexed Jaunpur and Bihar to strengthen the Sultanate. He introduced various welfare measures including lowering prices of essential commodities and providing loans to farmers, which made him popular among the common people. He re-imposed jizya on non-Muslims, showing his religious policy. He took strict measures to maintain law and order throughout his territory. By combining efficient administration with military strength and welfare measures, Sikandar Lodi significantly improved the prestige and authority of the Sultan during his long reign from 1489 to 1517."
+    },
+    {
+      "id": "ds_tqa034",
+      "exercise": "VIII",
+      "question": "What measures were taken by Ala-ud-din Khalji regarding land measurement?",
+      "answer": "Ala-ud-din Khalji introduced significant reforms in land measurement and revenue collection. He was the first Sultan to order the measurement of cultivable land to ensure accurate revenue assessment. He abolished the system of small iqtas and converted them into Crown lands called Khalsa, bringing them under direct state control. He fixed the land revenue at one-half of the produce for the fertile Ganga-Yamuna Doab region, while other areas paid one-third. His measures were harsh on the peasants but ensured a steady flow of revenue to the state treasury. The purpose of these strict measures was to maintain a large standing army at low cost, as he needed enormous resources to fund his military campaigns in northern and southern India. These land revenue reforms were among the most systematic of any Delhi Sultanate ruler."
+    },
+    {
+      "id": "ds_tqa035",
+      "exercise": "Application",
+      "question": "Why was Raziya Sultan not accepted as a Sultan in spite of being talented?",
+      "answer": "Raziya Sultan was the first and only Muslim woman to rule over Delhi. She was efficient, just, and established law and order during her brief reign from 1236 to 1240. She built roads and das-chowkis (guard posts) to maintain security. However, the powerful nobles of the court did not accept her as Sultan primarily because she was a woman. In the 13th century, the idea of a woman ruling over a Muslim kingdom was unacceptable to the conservative Turkish nobility. The nobles plotted against her because they could not tolerate taking orders from a woman. Despite her administrative abilities and just governance, gender prejudice and the patriarchal attitudes of the time proved too strong. The nobles conspired against her and she was killed in 1240, ending one of the most promising but tragically short reigns in the history of the Delhi Sultanate."
+    },
+    {
+      "id": "ds_tqa036",
+      "exercise": "HOTS",
+      "question": "Muhammad-bin-Tughlaq's schemes were well conceived but poorly executed. Explain with examples.",
+      "answer": "Muhammad-bin-Tughlaq was the most learned scholar of his time, well-versed in Arabic, Persian, philosophy, astronomy, logic, and mathematics. However, his ambitious schemes consistently failed due to poor execution. First, his transfer of capital from Delhi to Daulatabad (1327) was a sound strategic idea since Daulatabad was more centrally located, but the execution was disastrous. Only the upper classes were shifted, the harsh journey caused immense suffering and deaths, and he could not control Delhi from the south, forcing a return in 1335. Second, his token currency scheme of introducing copper jittal in place of silver tanka was ahead of its time, but without proper security measures, people easily forged coins, forcing him to withdraw the currency at great loss. Third, his excessive taxation in the Doab region during a famine showed terrible timing and insensitivity, leading to peasant revolts and agricultural devastation. Fourth, the Khurasan and Qurachil military expeditions were abandoned after soldiers had already received a year's salary advance, wasting enormous resources. Each scheme had logical reasoning behind it, but Muhammad-bin-Tughlaq lacked the practical political judgement to implement them successfully."
+    },
+    {
+      "id": "ds_tqa037",
+      "exercise": "HOTS",
+      "question": "Why is Firoz Shah Tughlaq called the reformer?",
+      "answer": "Firoz Shah Tughlaq is called the reformer because he introduced numerous beneficial changes across almost every area of governance. In economic reforms, he abolished the harsh taxes imposed by earlier rulers and established a fair system of four main taxes: Kharaj, Zakat, Kham, and Jizya. He built extensive irrigation infrastructure including canals from the Yamuna to Hissar and from the Sutlej to the Ghaggar, which greatly improved agriculture. In public works, he built hospitals, new towns like Jaunpur, Firozpur, Firozabad, and Hissar-Firoza, and repaired the Qutub Minar. He established sarais (rest houses) for travellers. In judicial reforms, he replaced excessive and cruel punishments with petty fines and short-term punishments. In education, he built schools and colleges, and had Sanskrit books translated into Persian to promote learning. He created the Diwan-i-Khairat for welfare of the poor, set up an Employment Bureau to help people find work, and even assisted with marriages of those who could not afford them. These wide-ranging reforms in taxation, irrigation, education, judiciary, and public welfare earned him the well-deserved title of reformer."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "hots001",
+      "question": "Why does ice float on water?",
+      "answer": "Water is an anomalous substance that expands on freezing. When water freezes into ice, its volume increases, which means ice is less dense than liquid water. Since ice has a lower density than water, it floats on the surface of water. This is also the reason why water pipes can burst in extremely cold weather — the water inside expands upon freezing and exerts pressure on the pipe walls.",
+      "source_section": "Anomalous Expansion of Water"
+    },
+    {
+      "id": "hots002",
+      "question": "Why do we blow on hot food to cool it down?",
+      "answer": "When we blow on hot food, we increase the air flow over the surface of the food. This increased air flow speeds up the rate of evaporation of the moisture on the food's surface. Since evaporation causes cooling (the evaporating molecules absorb heat energy from the food), the food cools down faster. Blowing also helps carry away the hot air and water vapour near the food's surface, replacing it with cooler air, which further enhances the cooling effect.",
+      "source_section": "Evaporation — Effect of Wind"
+    },
+    {
+      "id": "hots003",
+      "question": "Why does a pressure cooker cook food faster than an ordinary pot?",
+      "answer": "In an ordinary pot, water boils at 100 degrees Celsius at normal atmospheric pressure. In a pressure cooker, the steam cannot escape easily, so the pressure inside builds up to a value higher than normal atmospheric pressure. Since the boiling point of water increases with increase in pressure, the water inside the pressure cooker boils at a temperature higher than 100 degrees Celsius. The food cooks at this higher temperature and therefore cooks much faster.",
+      "source_section": "Effect of Pressure on Boiling Point"
+    },
+    {
+      "id": "hots004",
+      "question": "Why do wet clothes dry faster on a warm, windy day compared to a cold, humid day?",
+      "answer": "On a warm day, the temperature is higher, which gives the water molecules on the clothes more kinetic energy to escape from the surface, increasing the rate of evaporation. Wind blows away the water vapour from near the surface of the clothes, allowing more molecules to evaporate. On a humid day, the air already contains a lot of moisture and cannot absorb much more water vapour, so evaporation slows down significantly. The combination of high temperature and wind on a warm, windy day, versus low temperature and high humidity on a cold, humid day, makes a dramatic difference in the drying speed.",
+      "source_section": "Factors Affecting Evaporation"
+    },
+    {
+      "id": "hots005",
+      "question": "Why does perfume spread quickly throughout a room when the bottle is opened?",
+      "answer": "Perfume is a volatile liquid that evaporates easily at room temperature. When the bottle is opened, the perfume molecules escape into the air as gas. In the gaseous state, molecules have very large inter-molecular spaces and very weak forces of attraction, so they move freely in all directions at high speeds. The perfume molecules quickly mix with the air molecules and spread throughout the room. This happens because gas molecules have high kinetic energy and are in constant random motion.",
+      "source_section": "Properties of Gases and Evaporation"
+    },
+    {
+      "id": "hots006",
+      "question": "Why do naphthalene moth balls kept in a wardrobe gradually decrease in size and eventually disappear?",
+      "answer": "Naphthalene moth balls undergo sublimation, which is the direct change from solid state to gaseous state without passing through the liquid state. Naphthalene has weak inter-molecular forces of attraction, so its molecules can acquire enough kinetic energy even at room temperature to break free from the solid and escape directly as vapour into the air. Over time, more and more molecules sublime from the surface, causing the moth ball to gradually decrease in size until it completely disappears.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "hots007",
+      "question": "If you are feeling very hot on a summer day, would you feel more comfortable if the humidity is low or high? Explain why.",
+      "answer": "You would feel more comfortable if the humidity is low. When the humidity is low (dry air), sweat from your body evaporates quickly. Evaporation causes cooling because the evaporating sweat absorbs latent heat from your skin, helping to maintain your body temperature at 37 degrees Celsius (98.6 degrees Fahrenheit). When the humidity is high, the air already contains a lot of water vapour and cannot absorb much more, so the sweat does not evaporate easily. Without effective evaporation, the cooling effect is reduced and you feel uncomfortable and sticky.",
+      "source_section": "Evaporation — Humidity and Body Cooling"
+    },
+    {
+      "id": "hots008",
+      "question": "A student heats a piece of ice continuously and records the temperature every minute. She observes that the temperature remains at 0 degrees Celsius for some time and then at 100 degrees Celsius for some time, even though heat is being supplied continuously. Explain this observation.",
+      "answer": "At 0 degrees Celsius, the ice is melting (changing from solid to liquid). The heat being supplied is used as latent heat of fusion to overcome the inter-molecular forces between the ice molecules and increase their separation (potential energy), not to increase their kinetic energy. Since temperature is a measure of average kinetic energy, the temperature remains constant at 0 degrees Celsius until all the ice has melted. Similarly, at 100 degrees Celsius, the water is boiling (changing from liquid to gas). The heat supplied is used as latent heat of vaporization to further overcome the inter-molecular forces and greatly increase the separation between molecules, again without increasing their kinetic energy. So the temperature remains constant at 100 degrees Celsius until all the water has turned to steam.",
+      "source_section": "Latent Heat and Change of State"
+    }
+  ]
+}

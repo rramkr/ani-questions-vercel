@@ -1,0 +1,67 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "give_reason",
+  "questions": [
+    {
+      "id": "gr001",
+      "question": "Give reason: Ice melts at 0 degrees Celsius.",
+      "answer": "Because at 0 degrees Celsius, the molecules of ice acquire enough kinetic energy to overcome the strong inter-molecular forces of attraction holding them in their fixed positions. The heat energy supplied at the melting point is used to break the bonds between molecules and increase their separation (potential energy), allowing the molecules to move from their fixed positions and become free to move around, thus changing the ice from solid to liquid state.",
+      "source_section": "Melting / Fusion"
+    },
+    {
+      "id": "gr002",
+      "question": "Give reason: Water kept in an earthen pot remains cool.",
+      "answer": "Because the earthen pot has tiny pores through which water seeps to the outer surface. This water on the outer surface evaporates by absorbing heat (latent heat) from the water inside the pot. Since evaporation causes cooling, the water inside the pot loses heat and becomes cooler than the surrounding temperature. This continuous process of evaporation keeps the water in the earthen pot pleasantly cool.",
+      "source_section": "Evaporation — Applications"
+    },
+    {
+      "id": "gr003",
+      "question": "Give reason: Naphthalene balls kept in a wardrobe gradually decrease in size and eventually disappear.",
+      "answer": "Because naphthalene undergoes sublimation, which is the direct change from solid state to gaseous state without passing through the liquid state. The inter-molecular forces in naphthalene are very weak, so its molecules easily acquire enough kinetic energy at room temperature to escape directly from the solid into the air as vapour. Over time, more and more molecules sublime from the surface, causing the naphthalene ball to shrink and eventually disappear completely.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "gr004",
+      "question": "Give reason: Evaporation causes cooling.",
+      "answer": "Because during evaporation, the molecules at the surface of the liquid need to absorb heat energy from the surroundings to gain enough kinetic energy to escape from the liquid surface into the air as vapour. This absorption of latent heat from the surroundings causes the temperature of the surroundings to decrease, producing a cooling effect. This is why we feel cold after stepping out of a swimming pool — the water on our skin evaporates and takes heat from our body.",
+      "source_section": "Evaporation — Cooling Effect"
+    },
+    {
+      "id": "gr005",
+      "question": "Give reason: Volatile liquids like ether and alcohol should be stored in tightly closed bottles.",
+      "answer": "Because volatile liquids have low boiling points and their molecules have weak inter-molecular forces, so they evaporate very quickly at room temperature. If kept in an open container, the molecules would rapidly escape from the surface into the air, and the liquid would soon evaporate completely. Storing them in tightly closed bottles prevents the molecules from escaping, thus preserving the liquid.",
+      "source_section": "Evaporation — Nature of Liquid"
+    },
+    {
+      "id": "gr006",
+      "question": "Give reason: A pressure cooker cooks food faster than an ordinary cooking pot.",
+      "answer": "Because in a pressure cooker, the steam cannot escape easily, which causes the pressure inside to build up above normal atmospheric pressure. Since the boiling point of a liquid increases with increase in pressure, the water inside the pressure cooker boils at a temperature higher than 100 degrees Celsius. The food cooks at this higher temperature and therefore gets cooked much faster than in an ordinary pot where water boils at only 100 degrees Celsius.",
+      "source_section": "Effect of Pressure on Boiling Point"
+    },
+    {
+      "id": "gr007",
+      "question": "Give reason: Wet clothes dry faster on a warm, sunny day than on a cold day.",
+      "answer": "Because temperature is one of the key factors that affects the rate of evaporation. On a warm, sunny day, the temperature is higher, which means the water molecules on the wet clothes gain more kinetic energy. With greater kinetic energy, more molecules at the surface can overcome the inter-molecular forces and escape into the air as vapour. Thus, the rate of evaporation increases at higher temperatures, causing the wet clothes to dry faster.",
+      "source_section": "Evaporation — Effect of Temperature"
+    },
+    {
+      "id": "gr008",
+      "question": "Give reason: Gases can be compressed easily but solids cannot.",
+      "answer": "Because in gases, the molecules are wide apart from each other with very large inter-molecular spaces between them and very weak inter-molecular forces. When pressure is applied, the molecules can be pushed closer together easily, reducing the inter-molecular spaces. In solids, the molecules are already closely packed with very little inter-molecular space between them and very strong forces of attraction. There is hardly any space left to push the molecules closer, so solids cannot be compressed easily.",
+      "source_section": "States of Matter — Properties"
+    },
+    {
+      "id": "gr009",
+      "question": "Give reason: The smell of perfume spreads quickly throughout a room when the bottle is opened.",
+      "answer": "Because perfume is a volatile liquid that evaporates easily at room temperature. When the bottle is opened, the perfume molecules escape into the air as gas. In the gaseous state, molecules have very large inter-molecular spaces and very weak forces of attraction, so they move freely in all directions at high speeds. The perfume vapour molecules quickly mix with the air molecules and spread throughout the room due to their high kinetic energy and constant random motion.",
+      "source_section": "Properties of Gases"
+    },
+    {
+      "id": "gr010",
+      "question": "Give reason: The temperature remains constant during a change of state even though heat is continuously being supplied.",
+      "answer": "Because during a change of state, the heat energy supplied is used to change the average potential energy of the molecules, not their average kinetic energy. The heat goes into overcoming the inter-molecular forces of attraction and increasing the separation between molecules. Since temperature is a measure of the average kinetic energy of the molecules, and the kinetic energy does not change during a change of state, the temperature remains constant. This heat is called latent heat or hidden heat.",
+      "source_section": "Latent Heat"
+    }
+  ]
+}

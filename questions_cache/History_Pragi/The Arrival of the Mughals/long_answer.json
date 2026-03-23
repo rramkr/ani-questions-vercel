@@ -1,0 +1,61 @@
+{
+  "question_type": "long_answer",
+  "questions": [
+    {
+      "id": "am_la001",
+      "question": "Describe the rise of Babur and his major military conquests in India.",
+      "answer": "Zahiruddin Muhammad Babur was an able military commander from Central Asia who founded the great Mughal Empire of India. He was a descendant of Genghis Khan from his mother's side and Timur from his father's side. Babur ascended the throne as ruler of Farghana, a small principality in Transoxiana, in 1494 at the age of eleven. His early years in Central Asia were tough, as he captured Samarkand but lost it, and also lost Farghana to the Uzbegs. From 1517, he made decisive plans to move towards India. The unstable political situation in India, with conflict between Afghan chiefs and Ibrahim Lodi, provided the opportunity. Daulat Khan Lodi and Rana Sanga invited him to invade. Babur captured Bhira (1519-1520), Sialkot (1520), and Lahore (1524). In 1526, he defeated Ibrahim Lodi in the First Battle of Panipat using superior tactics, the Rumi method of warfare, and artillery. He then defeated Rana Sanga at Khanua (1527), Medini Rai at Chanderi (1528), and the king of Bengal at Ghaghara (1529), establishing firm Mughal control over northern India.",
+      "keywords": ["Farghana", "Transoxiana", "Genghis Khan", "Timur", "First Battle of Panipat 1526", "Khanua 1527", "Chanderi 1528", "Ghaghara 1529", "Rumi method", "artillery"],
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_la002",
+      "question": "What were the problems faced by Humayun? Describe the battles he fought and his eventual return to power.",
+      "answer": "After Babur's death in 1530, Humayun succeeded him but faced numerous problems. The newly conquered territories and administrations were not consolidated. Unlike Babur, he did not command the respect of the Mughal nobility, and the Chaghatai nobles were not favourably inclined. His three brothers Kamran, Askari, and Hindal were dissatisfied with their shares and wanted the throne. Humayun was also confronted with hostility from Afghans, especially Sher Shah in Bihar and Bahadur Shah in Gujarat. Humayun marched against Bahadur Shah who escaped, and he annexed Malwa and Gujarat. Meanwhile, Sher Shah consolidated himself in Bihar and Bengal. In the Battle of Chausa (1539), Sher Shah defeated the Mughal army, and Humayun barely escaped. In the Battle of Kannauj (1540), Humayun lost again and became an exile for fifteen years. After Sher Shah's death in 1545, his weak successors ruled for ten years. With help from the ruler of Persia, Humayun captured Kabul and Kandahar, then invaded India again and re-established the Mughal dynasty in 1555. He died six months later in 1556 due to a fall from the staircase of his library.",
+      "keywords": ["1530 succession", "territories not consolidated", "brothers Kamran Askari Hindal", "Bahadur Shah", "Chausa 1539", "Kannauj 1540", "fifteen years exile", "Persia", "1555 return", "died 1556 library staircase"],
+      "source_section": "Humayun"
+    },
+    {
+      "id": "am_la003",
+      "question": "Write a detailed account of Sher Shah's rise to power and his conquests.",
+      "answer": "Sher Shah's real name was Farid Khan and he was the son of a jagirdar under the kingdom of Jaunpur. His father Hasan Khan Sur held a jagir of Sasaram in Bihar during Lodi rule. After 1524, Farid Khan was given his father's jagir by Ibrahim Lodi, and through conflicts with his family and various experiences, he acquired great military and administrative skills, becoming the leader of the Afghans. He knew that the first Afghan kingdom under the Lodis had been replaced by the Mughals in 1526. After a gap of many years, Sher Shah defeated Humayun in the Battle of Chausa (1539) and the Battle of Kannauj (1540), establishing Afghan rule again in India. He assumed the title of Sher Shah and followed Humayun to Sindh. After expelling Humayun, he consolidated his position in Northern and Eastern India, defeating and conquering Malwa in 1542. In Rajasthan, he carried out campaigns against Marwar, Ranthambhore, Nagor, Ajmer, Merta, Jodhpur, and Bikaner. By 1545, he was the supreme ruler from Sindh and Punjab to Rajputana in the west and Bengal in the east. He died in 1545 while besieging the fort of Kalinjar in an accidental blast of gun powder.",
+      "keywords": ["Farid Khan", "Sasaram Bihar", "leader of Afghans", "Chausa 1539", "Kannauj 1540", "second Afghan Empire", "Malwa 1542", "Rajasthan campaigns", "Kalinjar 1545"],
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_la004",
+      "question": "Describe Sher Shah's administrative and revenue reforms in detail.",
+      "answer": "Sher Shah introduced many significant administrative and revenue reforms. In provincial administration, he divided his empire into 47 units called sarkars, each subdivided into parganas. Each sarkar had one amin, one shiqdar, one treasurer, and both Hindi and Persian writers. Officers called Shiqdar-i-Shiqdaran and Munsif-i-Munsifan were placed over each sarkar. Villages had a Muqaddam, Chaudhuri, and Patwari, with Panchayats playing an important role. Government officers were transferred every two or three years to prevent undue influence. In land revenue, the state's share was one-third of the produce, payable in cash or kind. The amount was recorded in a paper called Patta, and no extra charges were allowed. During famines, an additional 2.5% tax was levied for relief. He employed Amins, Muqaddams, Shiqdars, Quanungos, and Patwaris, and advised officers to be lenient. Advances were made during calamities. Sher Shah's land revenue system was so efficient that Akbar later adopted it.",
+      "keywords": ["47 sarkars", "parganas", "Shiqdar-i-Shiqdaran", "Munsif-i-Munsifan", "Panchayats", "transfer every 2-3 years", "one-third produce", "Patta", "2.5% famine tax", "Akbar adopted"],
+      "source_section": "Provincial Administration and Land Revenue"
+    },
+    {
+      "id": "am_la005",
+      "question": "Discuss Sher Shah's military administration and his contributions to transport, trade and commerce.",
+      "answer": "Sher Shah maintained a strong army with 1,50,000 cavalry, 25,000 infantry, 300 war elephants, and efficient artillery. He personally recruited soldiers and fixed their salaries after inspections. Soldiers were paid individually in cash, and the system of jagirs was discontinued. He introduced Dagh (branding horses with an imperial sign) to prevent substitution. Garrisons were kept at forts under fauzdar command. In transport, he constructed the Grand Trunk Road from Sonargoan in Bengal to Peshawar, along with roads from Chittor to Agra, Agra to Mandu, and Lahore to Multan. Trees were planted on both sides, and sarais served as Dak Chowkies for mail. Markets developed near sarais. He also built the Purana Qila on the banks of the Yamuna near Delhi. In trade, he abolished all duties except two, introduced uniform weights and measures, and standardized coins: silver rupia, gold mohurs (169 grams), and copper dams. The silver rupia was used for centuries after his time.",
+      "keywords": ["1,50,000 cavalry", "Dagh", "Grand Trunk Road", "sarais", "Dak Chowkies", "Purana Qila", "silver rupia", "mohurs", "dams", "uniform weights"],
+      "source_section": "Military Administration and Trade"
+    },
+    {
+      "id": "am_la006",
+      "question": "Write a detailed note on Babur's achievements, both military and literary.",
+      "answer": "Babur was not only a great military commander but also a remarkable scholar and writer. On the military front, he won significant victories in India: the First Battle of Panipat (1526) against Ibrahim Lodi using the Rumi method of warfare and artillery for the first time in India, the Battle of Khanua (1527) against Rana Sanga which broke Rajput power, the Battle of Chanderi (1528) against Medini Rai, and the Battle of Ghaghara (1529) against the king of Bengal. He introduced garden palaces in India. On the literary front, his autobiography Tuzuk-i-Baburi or Baburnama is not only a work of history but a masterpiece of literature. His command over the Turki language and his style and diction gave him a high place among scholars. He was well versed in Arabic and Persian. His account of India throws light on the climate, animals, birds, fruits, art, industries, and socio-economic life, making it very attractive and effective. He also wrote the Mubayyin, a collection of mansavis that served as a treatise on Muslim law, and composed poems in Persian.",
+      "keywords": ["Panipat 1526", "Khanua 1527", "Chanderi 1528", "Ghaghara 1529", "garden palaces", "Tuzuk-i-Baburi", "Baburnama", "Turki language", "Mubayyin", "poems in Persian"],
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_la007",
+      "question": "Explain how Babur secured his foothold in India after the First Battle of Panipat.",
+      "answer": "After winning the First Battle of Panipat in 1526, Babur faced multiple challenges in securing his position. His nobles wanted to return to Central Asia as they disliked the Indian climate and felt culturally alienated. The Rajputs under Rana Sanga planned to expel the Mughals, and the Afghans remained a formidable force in eastern UP, Bihar, and Bengal. Babur convinced his companions to stay and consolidate, and sent his son Humayun to face the eastern Afghans. When Rana Sanga mustered a large coalition of Rajput chiefs from Jalor, Sirohi, Dungarpur, Amber, Merta, along with Medini Rai of Chanderi, Hasan Khan of Mewat, and Mahmud Lodi, Babur met them at the Battle of Khanua (1527) near Agra and defeated them, weakening Rajput power and gaining control over Central India. He then fought at Chanderi (1528) against Medini Rai, completely shattering resistance across Rajputana. His success against the Afghans, Rajputs, and the king of Bengal at Ghaghara (1529) established Mughal supremacy in northern India, though rulers of Gujarat, Malwa, and Bengal still enjoyed substantial power.",
+      "keywords": ["nobles wanted to return", "convinced companions", "Khanua 1527", "Rajput power weakened", "Chanderi 1528", "Ghaghara 1529", "Mughal supremacy"],
+      "source_section": "Babur's Consolidation"
+    },
+    {
+      "id": "am_la008",
+      "question": "Compare and contrast the reigns of Babur and Humayun as Mughal rulers.",
+      "answer": "Babur and Humayun were the first two Mughal rulers but had very different experiences. Babur was an able military commander who founded the Mughal Empire through decisive victories at Panipat (1526), Khanua (1527), Chanderi (1528), and Ghaghara (1529). He commanded respect from his nobility and successfully convinced his reluctant nobles to stay in India. Babur was also a great scholar, writing the Baburnama and the Mubayyin. Humayun, who succeeded Babur in 1530, faced far greater challenges. Unlike Babur, he did not command the respect of the Mughal nobility. The territories were not consolidated, his brothers were rivals, and he faced threats from Sher Shah and Bahadur Shah. Humayun lost his kingdom to Sher Shah after defeats at Chausa (1539) and Kannauj (1540) and spent fifteen years in exile. He eventually recaptured his empire in 1555 with Persian help. While Babur was a great warrior and writer, Humayun was kind and generous but not a good general. He loved painting and wrote poetry in Persian. Both rulers contributed to establishing the Mughal dynasty, but Babur built it from scratch while Humayun had to reclaim it.",
+      "keywords": ["Babur military commander", "Humayun lost kingdom", "Babur commanded respect", "Humayun exile fifteen years", "both contributed to Mughal dynasty"],
+      "source_section": "Babur and Humayun"
+    }
+  ]
+}

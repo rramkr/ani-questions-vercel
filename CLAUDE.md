@@ -96,6 +96,16 @@ The app has TWO rendering paths:
 - `renderOneByOneQuestion()` (~line 2412) — renders question for one-by-one mode
 - `renderOneByOneAnswer()` (~line 2470) — renders answer for one-by-one mode
 
+### Question Number Navigation Bar (One-by-One Mode)
+In one-by-one mode, a clickable question number bar appears below the Back/Next buttons.
+- **≤20 questions:** Shows individual numbered buttons (1, 2, 3, ...)
+- **>20 questions:** Shows range chips (1-10, 11-20, ...) that expand to show individual numbers when clicked
+- Current question highlighted purple; answered questions highlighted green
+- Uses `goToQuestion(index)` (already existed) and `expandRange(rangeIndex)` (new)
+- `state.expandedRange` tracks which range is expanded; reset in `resetQuizState()`
+- CSS classes: `.question-nav-bar`, `.q-nav-expanded`, `.q-nav-num`, `.q-nav-range`, `.q-nav-num.current`, `.q-nav-num.answered`
+- Buttons must be inside `.q-nav-expanded` div for horizontal layout (not direct children of `.question-nav-bar` which is `flex-direction: column`)
+
 ### Answer Visibility
 `shouldShowAnswer = state.answersRevealed` — answers always show when "Check Answers" is clicked, regardless of whether the user typed anything. No input is required.
 
@@ -122,7 +132,14 @@ Questions can include diagrams via:
   "diagram_description": "Fallback text if no image"
 }
 ```
-Used by Physics diagram questions and Computer Science "Name the Icons" section (uses Google favicon API: `https://www.google.com/s2/favicons?domain=DOMAIN&sz=128`).
+Used by Physics diagram questions and Computer Science "Name the Icons" section.
+
+### Name the Icons — Icon Sources
+- **Primary:** SimpleIcons CDN for black & white icons: `https://cdn.simpleicons.org/{slug}/000000`
+- **Fallback:** Google favicon API for icons not on SimpleIcons (LinkedIn, Amazon): `https://www.google.com/s2/favicons?domain=DOMAIN&sz=128`
+- **Black & white enforcement:** When `state.currentType.value === 'name_icons'`, diagram images get CSS class `bw-icon` which applies `filter: grayscale(1) brightness(0)` — ensures ALL icons render in black & white regardless of source
+- **SimpleIcons slugs that work:** facebook, whatsapp, x, reddit, wikipedia, pinterest, instagram, youtube, googlechrome, firefoxbrowser, safari, gmail, googledrive, googlemeet, tiktok, spotify, zoom, messenger, google, dropbox, norton, mcafee, kaspersky, snapchat, telegram, signal, discord, opera, brave, bitdefender, avast, ebay, paypal, paytm, phonepe
+- **SimpleIcons slugs that DON'T work (use favicons):** linkedin, amazon, skype, microsoftedge, internetexplorer, googleplus, quickheal
 
 ---
 
@@ -404,10 +421,11 @@ These are the question types that appear across the 9 Physics sample papers (80-
 ```
 questions_cache/Computer_Science/Ethics and Safety Measures/
 ├── sections.json
-├── textbook_qa.json
+├── textbook_qa.json            # Exact textbook exercises with section labels
+├── graded_test.json            # Graded test (exam_questions subset)
 ├── mcq.json
 ├── match_the_following.json    # Uses column_a/column_b/correct_matches format
-├── name_icons.json             # Icon identification with diagram_image URLs
+├── name_icons.json             # Icon identification (35 icons, SimpleIcons CDN)
 ├── true_false.json
 ├── fill_in_blanks.json
 ├── one_word.json
@@ -416,6 +434,8 @@ questions_cache/Computer_Science/Ethics and Safety Measures/
 ├── short_answer.json
 ├── name_the_following.json
 ├── differentiate_between.json
+├── application_questions.json  # 20 scenario-based application questions
+├── jumbled_words.json          # 25 scrambled words (randomly shuffled letters)
 └── tricky_questions.json
 
 questions_cache/Computer_Science/Python Programming/
@@ -460,17 +480,43 @@ The app supports both formats:
 ```
 Or with `question` instead of `instruction` and `answer` object instead of `correct_matches`.
 
+### Match the Following — Letter-Format Answer Display
+`computeMatchLetterAnswer(leftItems, rightItems, correctMatches)` maps column_a items to column_b letter indices (A, B, C...) and returns a string like "1-C, 2-B, 3-D, 4-E, 5-A". Used in both `renderMatchAnswer()` and the one-by-one answer handler for `column_a`/`column_b` format questions.
+
 ### Name the Icons Format
-Uses `has_diagram` + `diagram_image` with Google's favicon API:
+Uses `has_diagram` + `diagram_image`. Primary source is SimpleIcons CDN (black & white):
 ```json
 {
   "id": 1,
   "question": "Identify the icon shown below:",
   "answer": "Google Chrome",
   "has_diagram": true,
-  "diagram_image": "https://www.google.com/s2/favicons?domain=chrome.google.com&sz=128"
+  "diagram_image": "https://cdn.simpleicons.org/googlechrome/000000"
 }
 ```
+For icons not on SimpleIcons (LinkedIn, Amazon), use Google favicon API as fallback:
+`https://www.google.com/s2/favicons?domain=DOMAIN&sz=128`
+All icons are forced black & white via CSS `bw-icon` class (see "Name the Icons — Icon Sources" above).
+
+### Jumbled Words Format
+Scrambled words for vocabulary practice. Letters must be **randomly shuffled** (NOT simply reversed):
+```json
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {"id": "jw001", "question": "Unscramble: CHTIES", "answer": "ETHICS"}
+  ]
+}
+```
+
+### Ethics Textbook Q&A Format
+Questions use section labels matching the textbook structure:
+- `[Section A - Fill in the Blanks]` — includes word bank in question text
+- `[Section B - True or False]` — includes full instruction
+- `[Section C - Choose the correct option]` — includes a/b/c/d options in question text
+- `[Section D - Answer the following]` — short/long answer questions
+- `[Application-Based Questions]` — scenario-based questions from book
+- `[Hands On]` — practical activity questions
 
 ### Differentiate Between Format
 ```json
@@ -512,3 +558,6 @@ Should have at least 2 points of difference with examples.
 - `processQuestion()` for match_the_following must handle both `pairs` format and `column_a`/`column_b` format
 - Answer visibility: `shouldShowAnswer = state.answersRevealed` (no input required)
 - MCQ questions in textbook_qa need proper `options` arrays (not inline in question text)
+- Question nav bar buttons must be inside `.q-nav-expanded` div (not direct children of `.question-nav-bar` which has `flex-direction: column`) — otherwise buttons stack vertically
+- Jumbled words must use random letter shuffling, NOT simple reversal (reversing makes words trivially decodable)
+- Name the Icons: Google favicon API returns colored icons; use CSS `bw-icon` class with `filter: grayscale(1) brightness(0)` to enforce black & white

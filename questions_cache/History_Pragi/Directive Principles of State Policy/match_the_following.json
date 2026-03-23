@@ -1,0 +1,70 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "dp_mtf001",
+      "column_a": ["Swaraj", "Sarvodaya", "Swavlamban", "Non-justiciable", "Justiciable"],
+      "column_b": ["Enforceable by courts", "Self-rule", "Self-reliance", "Not enforceable by courts", "Welfare for all"],
+      "correct_matches": {
+        "Swaraj": "Self-rule",
+        "Sarvodaya": "Welfare for all",
+        "Swavlamban": "Self-reliance",
+        "Non-justiciable": "Not enforceable by courts",
+        "Justiciable": "Enforceable by courts"
+      },
+      "source_section": "Key Terms and Gandhian Philosophy"
+    },
+    {
+      "id": "dp_mtf002",
+      "column_a": ["Community Development Programme", "Integrated Rural Development Programme", "Mahatma Gandhi Rural Employment Guarantee Act", "Village Industries Board", "National Rural Health Mission"],
+      "column_b": ["Promote cottage industries", "2006", "Rural healthcare", "1978-79", "1952"],
+      "correct_matches": {
+        "Community Development Programme": "1952",
+        "Integrated Rural Development Programme": "1978-79",
+        "Mahatma Gandhi Rural Employment Guarantee Act": "2006",
+        "Village Industries Board": "Promote cottage industries",
+        "National Rural Health Mission": "Rural healthcare"
+      },
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_mtf003",
+      "column_a": ["Social and Economic Equality", "Gandhian Philosophy", "General Principles", "Fundamental Rights", "Directive Principles"],
+      "column_b": ["Non-justiciable guidelines", "Cottage industries and village Panchayats", "Justiciable rights", "Uniform civil code and international peace", "Equal pay and free education"],
+      "correct_matches": {
+        "Social and Economic Equality": "Equal pay and free education",
+        "Gandhian Philosophy": "Cottage industries and village Panchayats",
+        "General Principles": "Uniform civil code and international peace",
+        "Fundamental Rights": "Justiciable rights",
+        "Directive Principles": "Non-justiciable guidelines"
+      },
+      "source_section": "Types of Directive Principles"
+    },
+    {
+      "id": "dp_mtf004",
+      "column_a": ["Directive Principles", "Fundamental Rights", "Welfare State", "Constitution of Ireland", "42nd Amendment"],
+      "column_b": ["Inspired DPSP in India", "Part IV", "Environment protection", "Part III", "Equal distribution of wealth"],
+      "correct_matches": {
+        "Directive Principles": "Part IV",
+        "Fundamental Rights": "Part III",
+        "Welfare State": "Equal distribution of wealth",
+        "Constitution of Ireland": "Inspired DPSP in India",
+        "42nd Amendment": "Environment protection"
+      },
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_mtf005",
+      "column_a": ["Village Industries Board", "All India Handicraft Board", "Silk Board", "Coir Board", "Article 43"],
+      "column_b": ["Promotion of cottage industries", "Coir products", "Silk production", "Village-level industries", "Handicraft promotion"],
+      "correct_matches": {
+        "Village Industries Board": "Village-level industries",
+        "All India Handicraft Board": "Handicraft promotion",
+        "Silk Board": "Silk production",
+        "Coir Board": "Coir products",
+        "Article 43": "Promotion of cottage industries"
+      },
+      "source_section": "Impact of Directive Principles"
+    }
+  ]
+}

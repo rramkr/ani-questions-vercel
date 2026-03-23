@@ -1,0 +1,255 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "ma_tqa001",
+      "exercise": "I - Choose the correct answer",
+      "question": "In 1608, East India Company sent ________ to the court of Jahangir.\n(a) Captain William Hawkins\n(b) Sir Thomas Roe",
+      "answer": "Captain William Hawkins",
+      "question_type": "mcq_textbook",
+      "options": ["Captain William Hawkins", "Sir Thomas Roe"]
+    },
+    {
+      "id": "ma_tqa002",
+      "exercise": "I - Choose the correct answer",
+      "question": "The fifth Guru Arjan Dev was executed by Jahangir for helping Prince ________.\n(a) Khusrau\n(b) Khurram",
+      "answer": "Prince Khusrau",
+      "question_type": "mcq_textbook",
+      "options": ["Khusrau", "Khurram"]
+    },
+    {
+      "id": "ma_tqa003",
+      "exercise": "I - Choose the correct answer",
+      "question": "Ramcharitmanas was written by ________.\n(a) Tulsidas\n(b) Surdas",
+      "answer": "Tulsidas",
+      "question_type": "mcq_textbook",
+      "options": ["Tulsidas", "Surdas"]
+    },
+    {
+      "id": "ma_tqa004",
+      "exercise": "I - Choose the correct answer",
+      "question": "________ was regarded by many Muslims as a Zinda pir or living saint.\n(a) Aurangzeb\n(b) Akbar",
+      "answer": "Aurangzeb",
+      "question_type": "mcq_textbook",
+      "options": ["Aurangzeb", "Akbar"]
+    },
+    {
+      "id": "ma_tqa005",
+      "exercise": "I - Choose the correct answer",
+      "question": "Taj Mahal was the grandest project of ________.\n(a) Jahangir\n(b) Shah Jahan",
+      "answer": "Shah Jahan",
+      "question_type": "mcq_textbook",
+      "options": ["Jahangir", "Shah Jahan"]
+    },
+    {
+      "id": "ma_tqa006",
+      "exercise": "II - Fill in the blanks",
+      "question": "Jahangir's memoirs, written in Persian are called ________.",
+      "answer": "Jahangir's memoirs, written in Persian are called Tuzk-i-Jahangiri.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ma_tqa007",
+      "exercise": "II - Fill in the blanks",
+      "question": "After ascending the Mughal throne, Aurangzeb took the title of ________.",
+      "answer": "After ascending the Mughal throne, Aurangzeb took the title of Alamgir.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ma_tqa008",
+      "exercise": "II - Fill in the blanks",
+      "question": "Guru Gobind Singh turned the Sikhs into a powerful force called the ________.",
+      "answer": "Guru Gobind Singh turned the Sikhs into a powerful force called the Khalsa.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ma_tqa009",
+      "exercise": "II - Fill in the blanks",
+      "question": "The Bibi Ka Maqbara at Aurangabad is modelled on the ________.",
+      "answer": "The Bibi Ka Maqbara at Aurangabad is modelled on the Taj Mahal.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ma_tqa010",
+      "exercise": "II - Fill in the blanks",
+      "question": "Shivaji crowned himself the Maratha king and took the title of ________.",
+      "answer": "Shivaji crowned himself the Maratha king and took the title of Chhatrapati.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "ma_tqa011",
+      "exercise": "III - Remembering Based",
+      "question": "Who visited the court of Emperor Jahangir in 1615?",
+      "answer": "Sir Thomas Roe visited the court of Emperor Jahangir in 1615. He was sent by Emperor James I of England to secure more trading concessions for the East India Company. He was very diplomatic and succeeded in securing a royal charter for the Company to trade freely in the whole Mughal territory.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa012",
+      "exercise": "III - Remembering Based",
+      "question": "Who was the last ruler of the Mughal Empire?",
+      "answer": "Bahadur Shah Zafar was the last ruler of the Mughal Empire in Delhi. After the death of Aurangzeb in 1707, the Mughal Empire went into rapid decline. His successors were incapable and weak rulers who could not hold the vast empire together.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa013",
+      "exercise": "III - Remembering Based",
+      "question": "Name any three literary works created during the Mughal period.",
+      "answer": "Three important literary works created during the Mughal period are: (1) Tuzk-i-Jahangiri - the memoirs of Emperor Jahangir written in Persian, recording details of flora and fauna; (2) Padshahnama - written by Abdul Hamid Lahori during Shah Jahan's reign; and (3) Fatwa-i-Alamgiri - a digest of Muslim law compiled during Aurangzeb's reign. Other notable works include Ramcharitmanas by Tulsidas, Sur Sagar by Surdas, Akbarnama and Ain-i-Akbari by Abul Fazl.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa014",
+      "exercise": "IV - Understanding Based (True/False)",
+      "question": "Aurangzeb was a secular king.",
+      "answer": "False. Aurangzeb was not a secular king. He was an orthodox and God-fearing Muslim who aimed to establish Sunni religion throughout India. He gave up Akbar's policies of religious tolerance, reimposed jizya on Hindus, banned music and festivals, discontinued jharoka darshan, and ordered the destruction of Hindu temples.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ma_tqa015",
+      "exercise": "IV - Understanding Based (True/False)",
+      "question": "Reign of Shah Jahan is considered as 'Golden Age' of Mughal Empire.",
+      "answer": "True. The reign of Shah Jahan is indeed considered as the 'Golden Age' of the Mughal Empire. During his 30-year rule, the empire was politically united, culturally and economically prosperous. There were no foreign invasions, and peace, security and stability led to great developments in architecture, including the Taj Mahal, Red Fort, and Jama Masjid.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ma_tqa016",
+      "exercise": "IV - Understanding Based (True/False)",
+      "question": "Bahadur Shah Zafar was the first Mughal ruler who ruled in Delhi.",
+      "answer": "False. Bahadur Shah Zafar was the last Mughal ruler who ruled in Delhi, not the first. The first Mughal ruler was Babur who founded the Mughal Empire after the First Battle of Panipat in 1526.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ma_tqa017",
+      "exercise": "IV - Understanding Based (True/False)",
+      "question": "Marathas succeeded in establishing their own kingdom in the Deccan under Raja Jaswant Singh.",
+      "answer": "False. The Marathas succeeded in establishing their own kingdom in the Deccan under Chhatrapati Shivaji, not Raja Jaswant Singh. Raja Jaswant Singh was a Rajput ruler of Marwar. Shivaji crowned himself the Maratha king at Raigarh in 1674.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ma_tqa018",
+      "exercise": "IV - Understanding Based (True/False)",
+      "question": "Nur Jahan was the first Mughal emperor to mint coins in her name.",
+      "answer": "False. The statement is misleading. Nur Jahan was the only Mughal empress (not emperor) who had coins minted with her name. She was not an emperor but the wife of Emperor Jahangir, and she wielded great power during his reign.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "ma_tqa019",
+      "exercise": "V - Define",
+      "question": "Define: Pietra dura",
+      "answer": "Pietra dura, also known as parelinkari, was a method of decoration used extensively during Shah Jahan's reign. It involved putting up marble and decorating the walls with floral designs using semi-precious stones. This technique was used in the construction of monuments like the Taj Mahal, where colourful semi-precious stones were inlaid into white marble to create beautiful floral patterns and designs.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa020",
+      "exercise": "V - Define",
+      "question": "Define: Chain of Justice",
+      "answer": "The Chain of Justice was a chain with bells that Emperor Jahangir hung outside his palace soon after ascending to the Mughal throne. Any subject who had a grievance could come and ring the bells on this chain to seek justice directly from the emperor. This showed Jahangir's desire to be a benevolent and just ruler who was accessible to his people.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa021",
+      "exercise": "V - Define",
+      "question": "Define: Khalsa",
+      "answer": "The Khalsa was a strong and powerful military force organised by Guru Gobind Singh, the tenth Sikh Guru. He created the Khalsa to resist Aurangzeb's atrocities against the Sikhs. The Khalsa transformed the Sikhs into a disciplined fighting community that engaged in fierce conflicts against the Mughal forces. Guru Gobind Singh endured great hardships and lost all four of his sons to the Mughals in this struggle.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa022",
+      "exercise": "VI - Differentiate",
+      "question": "Differentiate between: Akbarnama and the Ain-i-Akbari",
+      "answer": "Both the Akbarnama and the Ain-i-Akbari were written by Abul Fazl during the Mughal period in Persian. The Akbarnama is a historical chronicle that records the events and history of Akbar's reign in a narrative form. It is essentially a biography and history of Emperor Akbar's rule and achievements. The Ain-i-Akbari, on the other hand, is a detailed administrative document that describes the system of administration established by Akbar. It contains information about the Mughal administrative machinery, the mansabdari system, revenue administration, the army, and the social and cultural life of the period. While the Akbarnama tells the story of Akbar's reign, the Ain-i-Akbari explains how his empire was governed.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa023",
+      "exercise": "VII - Answer in brief",
+      "question": "Give a brief account of Aurangzeb as a ruler.",
+      "answer": "Aurangzeb was an orthodox and God-fearing Muslim who was regarded as a zinda pir or living saint. He lived a simple life, avoided luxury, wore simple clothes, and never used gold or silver vessels. He sewed his own caps and sold copies of the Quran to earn money. However, his rigid religious policies caused great harm to the empire. He banned music, dancing, and wine in the royal court. He deprived Rajputs of higher posts and prohibited Hindu festivals like Diwali. He discontinued the practice of jharoka darshan. Most significantly, he reimposed the jizya and pilgrim tax on Hindus, which lost him their loyalty. He also ordered the destruction of Hindu temples, including the Vishwanath temple at Banaras.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa024",
+      "exercise": "VII - Answer in brief",
+      "question": "Name the different buildings built by Shah Jahan.",
+      "answer": "Shah Jahan was called the 'Prince among Builders' and the 'Engineer King' for his love of architecture. The famous buildings built by him include: the Taj Mahal at Agra (in memory of his beloved wife Mumtaz Mahal), the Red Fort (Lal Qila) in Delhi with its Diwan-i-Aam, Diwan-i-Khas and Rang Mahal, the Red Fort at Agra and Lahore, the Jama Masjid at Delhi, the Moti Masjid at Agra, and the city of Shahjahanabad (now Old Delhi). His buildings were characterised by the use of white marble, symmetry, uniformity, double domes, and the pietra dura method of decoration.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa025",
+      "exercise": "VII - Answer in brief",
+      "question": "How did Jahangir suppress the Portuguese?",
+      "answer": "This question actually relates to Shah Jahan, not Jahangir. Shah Jahan found that the Portuguese, who had established a factory at Hugli in Bengal, were lifting orphaned children and converting them to Christianity. This was objectionable to Shah Jahan as a devout Muslim. In 1631, he appointed Qasim Khan as the Governor of Bengal and gave him authority to teach the Portuguese a lesson. The Portuguese were attacked and massacred, and Hugli was besieged for three months. Shah Jahan thus gave the Portuguese a death blow in Bengal.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa026",
+      "exercise": "VII - Answer in brief",
+      "question": "How was Jahangir as a ruler?",
+      "answer": "Jahangir was a successful ruler who continued Akbar's policies and administrative measures. He was a benevolent ruler and installed the Chain of Justice with bells outside his palace so that any subject could seek justice directly. He was a devout Muslim but did not allow too much religious interference from the ulemas. His reign was generally peaceful with no major changes to the administrative system. He maintained friendly relations with the Rajputs through matrimonial alliances and gave them administrative posts. Under Jahangir, the art of Mughal painting achieved great heights. Like his father Akbar, he showed religious tolerance.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa027",
+      "exercise": "VII - Answer in brief",
+      "question": "Under Jahangir's reign, Mughal paintings reached great height. How?",
+      "answer": "Under Jahangir's reign, the art of Mughal painting achieved great heights. Jahangir introduced the element of perspective in Mughal painting, which was influenced by the European style of art. Portraits and studies of birds, flowers, and animals became common themes in paintings. Scenes from the court were coloured using gold, giving them a rich and grand appearance. The tradition of making portraits and albums continued and flourished. Famous painters who worked in Jahangir's court included Bishan Das, Daulat, Kanha, and Shankar.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "ma_tqa028",
+      "exercise": "VIII - Answer in detail",
+      "question": "Explain the military campaigns of Jahangir.",
+      "answer": "Jahangir's military campaigns began soon after his ascension when his son Prince Khusrau rebelled in Lahore in 1606 with support from powerful nobles. Jahangir personally suppressed this rebellion, captured Khusrau, had him blinded and confined. The fifth Sikh Guru Arjan Dev, who had given shelter to Khusrau at Taran Taran, was executed by Jahangir - an unwise political decision that sowed the seeds of a long struggle between the Mughals and Sikhs. Jahangir's first major military campaign was against Rana Amar Singh of Mewar (son of Rana Pratap). Mughal expeditions in 1606 and 1608-09 proved indecisive, but the 1613-14 campaign led by his third son Khurram proved decisive, and Rana Amar Singh submitted to the Mughals in 1615, ending the long struggle. Jahangir also pursued Akbar's plan of territorial expansion in the Deccan, targeting the half-conquered Nizam Shahi kingdom of Ahmadnagar. However, despite multiple military expeditions from 1608 onwards and enormous expenses and loss of thousands of lives, the Abyssinian Prime Minister Malik Ambar kept reasserting Ahmadnagar's independence, and it remained outside Mughal control. The subjugation of Kangra Fort, which surrendered on November 16, 1620, was another military achievement. Jahangir's greatest failure was the loss of Kandahar to Persia - Shah Abbas of Persia captured Kandahar in June 1622, dealing a severe blow to Mughal power in Central Asia.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ma_tqa029",
+      "exercise": "VIII - Answer in detail",
+      "question": "Who was Nur Jahan? Explain her role during Jahangir's reign.",
+      "answer": "Nur Jahan was the wife of Emperor Jahangir and a woman of remarkable strength and courage. In 1611, Jahangir met Nur Jahan in the palace bazaar and proposed marriage to her. He gave her the title 'Nur Jahan' meaning 'Light of the World'. She wielded great power during Jahangir's reign and often presided over the court alongside him, taking part in matters of state. According to historians, she was often seen in jharokhas receiving audience and issuing orders, sometimes even without Jahangir being present. Jahangir's addiction to opium and alcohol meant he was often missing from court, which made it easier for Nur Jahan to assert her authority. She was the only Mughal empress who had coins minted with her name, which was an extraordinary distinction. On many occasions, she was seen hunting tigers with her husband. Nur Jahan was known for her shrewd planning and physical strength - she even rescued Jahangir from the clutches of rebel leader Mahabat Khan in 1626. After Jahangir's death in October 1627, she retired from court life. Jahangir owed much of his successful reign to her influence and capable management.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ma_tqa030",
+      "exercise": "VIII - Answer in detail",
+      "question": "Why is the reign of Shah Jahan considered as the 'Golden Age' of the Mughal Empire?",
+      "answer": "The reign of Shah Jahan is considered the 'Golden Age' of the Mughal Empire because during his 30-year rule, the empire reached its peak of prosperity and cultural achievement. The empire was politically united, with no foreign invasions threatening its stability. This peace, security, and stability led to remarkable developments in architecture. Shah Jahan was called the 'Prince among Builders' and the 'Engineer King'. He blended Indian, Persian and Central Asian architectural styles to create masterpieces like the Taj Mahal at Agra, the Red Fort and Jama Masjid at Delhi, the Moti Masjid at Agra, and the city of Shahjahanabad. His style of architecture was characterised by the use of white marble instead of red stone, symmetry and uniformity, double domes, and the pietra dura method of decoration with semi-precious stones. The empire was culturally and economically prosperous during his reign. However, it should be noted that his extravagant expenditures on monuments required heavy taxes on peasants, which widened the gap between the rich and poor. His failed military campaigns also pointed to a declining military strength beneath the outward glory.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ma_tqa031",
+      "exercise": "VIII - Answer in detail",
+      "question": "What were the contributions of the Mughals in the field of painting and literature?",
+      "answer": "The Mughals made significant contributions to painting and literature. In painting, Humayun commissioned one of the first paintings 'Princes of the House of Timur' and brought Persian artists Abd-al-Samad and Mir Sayyid Ali to his court. Under Akbar, the Tutinama (Tales of a Parrot) was illustrated. Under Jahangir, painting reached its greatest heights - he introduced the element of perspective influenced by European style, with portraits and studies of birds, flowers, and animals becoming common themes. Court scenes were coloured using gold, and famous painters like Bishan Das, Daulat, Kanha, and Shankar flourished. Shah Jahan continued to patronise painting, though his aesthetic sense was not as refined as Jahangir's. Under Aurangzeb, painting declined as he withdrew patronage, and painters migrated to regional kingdoms. In literature, Babur was a great scholar who built schools and colleges. Abul Fazl wrote the Akbarnama and Ain-i-Akbari in Persian. Ramcharitmanas by Tulsidas and Sur Sagar by Surdas were written during this period. Jahangir was an excellent writer who wrote the Tuzk-i-Jahangiri in Persian. Abdul Hamid Lahori wrote the Padshahnama during Shah Jahan's reign. Under Aurangzeb, the most important work was the Fatwa-i-Alamgiri, and Muntakhab-ul-Lubab by Khafi Khan covered the history of the Mughal period.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ma_tqa032",
+      "exercise": "VIII - Answer in detail",
+      "question": "Give five reasons for the decline of the Mughal Empire.",
+      "answer": "The decline of the Mughal Empire can be attributed to several reasons. First, the nature and policies of Aurangzeb played a major role - his suspicious nature prevented his sons and nobles from becoming capable rulers, and his spiritual bigotry caused revolts by the Jats, Satnamis, and Sikhs, while his Deccan campaign led to disintegration. Second, the incapability of later Mughals was a key factor - Aurangzeb's successors were weak and incapable rulers who could not hold the empire together, with Bahadur Shah Zafar being the last Mughal ruler. Third, corruption among the nobility weakened the empire as nobles became very powerful, carved out their own kingdoms, and led to the break-up of the empire. Fourth, military weaknesses plagued the empire - failure to improve ammunitions and strategies led to a weakened and demoralised army. Fifth, the falling economy added to the decline as revolts, wars in the Deccan, and administration of the North put extra burden on resources, while the plunder by Nadir Shah and Ahmad Shah Abdali further drained the treasury.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ma_tqa033",
+      "exercise": "Application",
+      "question": "Why was Shivaji awarded with the royal degree of 'Chhatrapati'? Give reasons.",
+      "answer": "Shivaji was awarded the royal title of 'Chhatrapati' in 1674 when he crowned himself the Maratha king at Raigarh, which he made his capital. He earned this title through his extraordinary achievements in establishing an independent Maratha kingdom. Shivaji had captured the principality of Javli in 1656 and raided Bijapur territory. He killed the Bijapur general Afzal Khan in 1659 when the latter was sent to capture him. He forced the Sultan of Bijapur to acknowledge him as an independent ruler in 1662. Even when Aurangzeb sent Shaista Khan and later Raja Jai Singh against him, Shivaji showed remarkable courage. Although he was forced to sign the Treaty of Purandhar in 1665 and was taken prisoner at Agra, he managed to escape and reach Raigarh in 1666. He then reconquered all his surrendered forts and plundered Surat for the second time in 1670. His great expedition into southern India conquered Jinji, Vellore, and many forts in Karnataka. These achievements made him worthy of the title Chhatrapati.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ma_tqa034",
+      "exercise": "HOTS",
+      "question": "The Mughals were great builders. Describe some of the Mughal buildings and their style of architecture.",
+      "answer": "The Mughals carried out large-scale architectural activities that represented the peak of Islamic art in India. Under Jahangir, important buildings included the tomb of Akbar at Sikandra and the tomb of Itimad-ud-Daula built by Nur Jahan. Shah Jahan was called the 'Prince among Builders' and brought Mughal architecture to its climax. He blended Indian, Persian, and Central Asian styles, replacing red stone with white marble and emphasising symmetry, uniformity, and the double dome. The pietra dura or parelinkari method of decoration used semi-precious stones inlaid in marble to create floral designs. The Red Fort in Delhi featured the Diwan-i-Aam, Diwan-i-Khas, and Rang Mahal. The Jama Masjid in Delhi was built on a large platform with three marble domes. The Taj Mahal, his grandest project, was built from 1632 to 1643 on a high marble platform with a huge dome covered with an inverted lotus and decorated with calligraphy and inlay work. Aurangzeb built the Moti Masjid at Lal Qila in Delhi, the Badshahi Masjid in Lahore, and the Bibi Ka Maqbara at Aurangabad modelled on the Taj Mahal.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "ma_tqa035",
+      "exercise": "HOTS",
+      "question": "Compare Aurangzeb's reign with that of Akbar's. What differences do you notice?",
+      "answer": "Akbar and Aurangzeb had fundamentally different approaches to ruling. Akbar followed a policy of religious tolerance (Sulh-i-Kul) - he abolished the jizya and pilgrim tax on Hindus, while Aurangzeb reimposed these discriminatory taxes. Akbar gave Rajputs high administrative posts and formed matrimonial alliances with them, whereas Aurangzeb deprived Rajputs of higher positions and caused a serious rift in Mughal-Rajput relations. Akbar promoted Din-i-Ilahi and the practice of jharoka darshan to show himself as an inclusive ruler, while Aurangzeb discontinued jharoka darshan and banned music, dancing, and festivals like Diwali. Akbar respected Hindu temples and religious places, but Aurangzeb ordered the destruction of temples like the Vishwanath temple at Banaras and erected mosques in their places. As a result of his inclusive policies, Akbar's reign was marked by unity, stability, and expansion, while Aurangzeb's rigid religious policies caused revolts by the Jats, Satnamis, Sikhs, Bundelas, and Marathas. Akbar consolidated and expanded the empire peacefully, while Aurangzeb's wars in the Deccan over twenty-six years drained the empire's resources and paved the way for its decline.",
+      "question_type": "long_answer"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "question_type": "finer_details",
+  "questions": [
+    {
+      "id": "fd_hff_1",
+      "question": "How many brothers did the young seagull have?",
+      "options": ["one", "two", "three", "four"],
+      "answer": "two",
+      "explanation": "The text states: 'His two brothers and his sister had already flown away.'"
+    },
+    {
+      "id": "fd_hff_2",
+      "question": "The young seagull's sister's wings were _______ compared to his.",
+      "options": ["longer", "the same size", "far shorter", "slightly shorter"],
+      "answer": "far shorter",
+      "explanation": "'His little sister, whose wings were far shorter than his own.'"
+    },
+    {
+      "id": "fd_hff_3",
+      "question": "How long had the seagull been without food?",
+      "options": ["twelve hours", "since the previous nightfall", "two days", "three days"],
+      "answer": "since the previous nightfall",
+      "explanation": "'He felt the heat because he had not eaten since the previous nightfall.'"
+    },
+    {
+      "id": "fd_hff_4",
+      "question": "What dried food did the seagull find on the ledge?",
+      "options": ["a herring tail", "a mackerel tail", "a sardine", "some seaweed"],
+      "answer": "a mackerel tail",
+      "explanation": "'He had found a dried piece of mackerel tail at the far end of his ledge.'"
+    },
+    {
+      "id": "fd_hff_5",
+      "question": "What direction did the seagull's ledge face?",
+      "options": ["north", "south", "east", "west"],
+      "answer": "south",
+      "explanation": "'His ledge that faced south.'"
+    },
+    {
+      "id": "fd_hff_6",
+      "question": "What was the father seagull doing when the young seagull tried to get attention?",
+      "options": ["sleeping", "eating fish", "preening his feathers", "flying"],
+      "answer": "preening his feathers",
+      "explanation": "'His father was preening the feathers on his white back.'"
+    },
+    {
+      "id": "fd_hff_7",
+      "question": "What colour was the father seagull's back?",
+      "options": ["grey", "brown", "white", "black"],
+      "answer": "white",
+      "explanation": "'His father was preening the feathers on his white back.'"
+    },
+    {
+      "id": "fd_hff_8",
+      "question": "What colour was the mother seagull's breast?",
+      "options": ["grey", "brown", "white", "black"],
+      "answer": "white",
+      "explanation": "'Standing on a little high hump on the plateau, her white breast thrust forward.'"
+    },
+    {
+      "id": "fd_hff_9",
+      "question": "What colour were the young seagull's legs?",
+      "options": ["black", "grey", "yellow", "brown"],
+      "answer": "grey",
+      "explanation": "'His long grey legs stepping daintily.'"
+    },
+    {
+      "id": "fd_hff_10",
+      "question": "The young seagull's first fish seen being caught was a _______.",
+      "options": ["mackerel", "herring", "dog-fish", "sardine"],
+      "answer": "herring",
+      "explanation": "'He had seen his older brother catch his first herring and devour it.'"
+    },
+    {
+      "id": "fd_hff_11",
+      "question": "Where was the big plateau where the family gathered?",
+      "options": ["at the top of the cliff", "midway down the opposite cliff", "at the bottom", "on the beach"],
+      "answer": "midway down the opposite cliff",
+      "explanation": "'The big plateau midway down the opposite cliff.'"
+    },
+    {
+      "id": "fd_hff_12",
+      "question": "What scraps of food did the family offer after the seagull's first flight?",
+      "options": ["herring", "mackerel", "dog-fish", "sardine"],
+      "answer": "dog-fish",
+      "explanation": "'Their beaks were offering him scraps of dog-fish.'"
+    },
+    {
+      "id": "fd_hff_13",
+      "question": "When was Liam O'Flaherty born?",
+      "options": ["1886", "1896", "1906", "1916"],
+      "answer": "1896",
+      "explanation": "The textbook states: 'Liam O'Flaherty (1896–1984).'"
+    },
+    {
+      "id": "fd_hff_14",
+      "question": "When did Liam O'Flaherty die?",
+      "options": ["1974", "1984", "1994", "2004"],
+      "answer": "1984",
+      "explanation": "The textbook states: 'Liam O'Flaherty (1896–1984).'"
+    },
+    {
+      "id": "fd_hff_15",
+      "question": "Liam O'Flaherty was from _______.",
+      "options": ["England", "Scotland", "Ireland", "America"],
+      "answer": "Ireland",
+      "explanation": "'Liam O'Flaherty was an Irish novelist and short story writer.'"
+    },
+    {
+      "id": "fd_hff_16",
+      "question": "How many legs was the seagull standing on when trying to get attention?",
+      "options": ["no legs", "one leg", "two legs", "sitting down"],
+      "answer": "one leg",
+      "explanation": "'Standing on one leg with the other leg hidden under his wing.'"
+    },
+    {
+      "id": "fd_hff_17",
+      "question": "The mother screamed '______' mockingly at the young seagull.",
+      "options": ["Ga, ga, ga", "Gawl-ool-ah", "Fly, fly, fly", "Come, come, come"],
+      "answer": "Gawl-ool-ah",
+      "explanation": "'Gawl-ool-ah,' she screamed back mockingly."
+    },
+    {
+      "id": "fd_hff_18",
+      "question": "What colour was the sea described as when the seagull flew over it?",
+      "options": ["blue", "green", "grey", "dark"],
+      "answer": "green",
+      "explanation": "'He saw a vast green sea beneath him.' and 'He dropped his legs to stand on the green sea.'"
+    },
+    {
+      "id": "fd_hff_19",
+      "question": "The seagull gnawed at _______ when desperately hungry.",
+      "options": ["straw", "dried eggshell", "wood", "rock"],
+      "answer": "dried eggshell",
+      "explanation": "'He even gnawed at the dried pieces of eggshell. It was like eating part of himself.'"
+    },
+    {
+      "id": "fd_hff_20",
+      "question": "Two constant themes in O'Flaherty's works are _______.",
+      "options": ["love and war", "nature and Ireland", "science and religion", "travel and food"],
+      "answer": "nature and Ireland",
+      "explanation": "'Two constant themes in his works are nature and Ireland.'"
+    }
+  ],
+  "total_count": 20,
+  "subject": "8C English Literature",
+  "chapter": "His First Flight"
+}

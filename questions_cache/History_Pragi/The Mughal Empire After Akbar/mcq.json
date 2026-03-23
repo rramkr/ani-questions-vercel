@@ -1,0 +1,205 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "ma_mcq001",
+      "question": "What title did Prince Salim take after becoming emperor?",
+      "options": ["A) Alamgir", "B) Jahangir", "C) Shah Jahan", "D) Nur-ud-din"],
+      "correct_answer": "B) Jahangir",
+      "explanation": "Prince Salim took the title Jahangir, meaning 'Conqueror of the World' in Persian, after ascending the Mughal throne in 1605.",
+      "source_section": "Jahangir"
+    },
+    {
+      "id": "ma_mcq002",
+      "question": "Who led the rebellion against Jahangir soon after his accession?",
+      "options": ["A) Prince Khurram", "B) Prince Dara Shikoh", "C) Prince Khusrau", "D) Prince Murad"],
+      "correct_answer": "C) Prince Khusrau",
+      "explanation": "Prince Khusrau, Jahangir's son, rebelled in 1606 in Lahore with support from powerful nobles. The rebellion was personally suppressed by Jahangir.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_mcq003",
+      "question": "Which Sikh Guru was executed by Jahangir for helping Prince Khusrau?",
+      "options": ["A) Guru Tegh Bahadur", "B) Guru Gobind Singh", "C) Guru Arjan Dev", "D) Guru Nanak"],
+      "correct_answer": "C) Guru Arjan Dev",
+      "explanation": "The fifth Sikh Guru, Arjan Dev, had given shelter to Prince Khusrau at Taran Taran and was executed by Jahangir. This sowed the seeds of the long struggle between Mughals and Sikhs.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_mcq004",
+      "question": "Who led the decisive Mughal campaign against Rana Amar Singh of Mewar in 1613-14?",
+      "options": ["A) Jahangir himself", "B) Prince Khusrau", "C) Prince Khurram", "D) Malik Ambar"],
+      "correct_answer": "C) Prince Khurram",
+      "explanation": "Khurram (Jahangir's third son, later Shah Jahan) led the decisive campaign in 1613-14 that forced Rana Amar Singh to submit to the Mughals in 1615.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_mcq005",
+      "question": "Who was the Abyssinian Prime Minister who kept Ahmadnagar independent from the Mughals?",
+      "options": ["A) Afzal Khan", "B) Shaista Khan", "C) Malik Ambar", "D) Qasim Khan"],
+      "correct_answer": "C) Malik Ambar",
+      "explanation": "Malik Ambar, the Abyssinian Prime Minister of Ahmadnagar, successfully resisted multiple Mughal expeditions from 1608 onwards and kept Ahmadnagar outside Mughal control.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_mcq006",
+      "question": "When did the East India Company receive its royal charter from Queen Elizabeth I?",
+      "options": ["A) December 31, 1599", "B) December 31, 1600", "C) January 1, 1608", "D) January 1, 1615"],
+      "correct_answer": "B) December 31, 1600",
+      "explanation": "The East India Company received its royal charter from Queen Elizabeth I on December 31, 1600, giving it the right to trade in the East.",
+      "source_section": "Arrival of the British"
+    },
+    {
+      "id": "ma_mcq007",
+      "question": "Who was sent by Emperor James I of England to Jahangir's court in 1615?",
+      "options": ["A) Captain William Hawkins", "B) Sir Thomas Roe", "C) Vasco da Gama", "D) Robert Clive"],
+      "correct_answer": "B) Sir Thomas Roe",
+      "explanation": "Sir Thomas Roe was sent by Emperor James I of England in 1615 to secure more trading concessions. He was very diplomatic and secured a royal charter for the Company to trade freely in the whole Mughal territory.",
+      "source_section": "Arrival of the British"
+    },
+    {
+      "id": "ma_mcq008",
+      "question": "What does the title 'Nur Jahan' mean?",
+      "options": ["A) Queen of the World", "B) Conqueror of the World", "C) Light of the World", "D) Jewel of the World"],
+      "correct_answer": "C) Light of the World",
+      "explanation": "Jahangir gave his wife the title 'Nur Jahan' which means 'Light of the World'. He met her in the palace bazaar in 1611 and proposed marriage.",
+      "source_section": "Role of Nur Jahan"
+    },
+    {
+      "id": "ma_mcq009",
+      "question": "From whom did Nur Jahan rescue Jahangir in 1626?",
+      "options": ["A) Prince Khusrau", "B) Shah Abbas of Persia", "C) Malik Ambar", "D) Mahabat Khan"],
+      "correct_answer": "D) Mahabat Khan",
+      "explanation": "Nur Jahan was known for her shrewd planning and physical strength. She rescued Jahangir from the clutches of rebel leader Mahabat Khan in 1626.",
+      "source_section": "Role of Nur Jahan"
+    },
+    {
+      "id": "ma_mcq010",
+      "question": "What was the title taken by Prince Khurram after becoming emperor?",
+      "options": ["A) Jahangir", "B) Alamgir", "C) Shah Jahan", "D) Chhatrapati"],
+      "correct_answer": "C) Shah Jahan",
+      "explanation": "Prince Khurram took the title Shah Jahan meaning 'Ruler of the World' after defeating his brothers and ascending the throne following Jahangir's death in 1627.",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_mcq011",
+      "question": "Shah Jahan's mother was a princess from which Rajput dynasty?",
+      "options": ["A) Sisodia of Mewar", "B) Rathore of Marwar (Jodhpur)", "C) Kachwaha of Amber", "D) Bundela of Bundelkhand"],
+      "correct_answer": "B) Rathore of Marwar (Jodhpur)",
+      "explanation": "Shah Jahan's mother was a Rathore princess, the daughter of the Rajput ruler of Marwar (Jodhpur).",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_mcq012",
+      "question": "Which kingdom did Shah Jahan annex in the Deccan in 1632?",
+      "options": ["A) Bijapur", "B) Golconda", "C) Ahmadnagar", "D) Maratha Kingdom"],
+      "correct_answer": "C) Ahmadnagar",
+      "explanation": "In 1632, Shah Jahan started a military campaign against Ahmadnagar and annexed it. He then ordered Bijapur and Golconda to submit.",
+      "source_section": "Shah Jahan - Military Campaigns"
+    },
+    {
+      "id": "ma_mcq013",
+      "question": "Who was appointed Governor of Bengal to deal with the Portuguese?",
+      "options": ["A) Shaista Khan", "B) Malik Ambar", "C) Qasim Khan", "D) Mahabat Khan"],
+      "correct_answer": "C) Qasim Khan",
+      "explanation": "In 1631, Shah Jahan appointed Qasim Khan as Governor of Bengal and gave him authority to teach the Portuguese a lesson for converting orphaned children to Christianity.",
+      "source_section": "Shah Jahan - Policy Towards the Portuguese"
+    },
+    {
+      "id": "ma_mcq014",
+      "question": "The Peacock Throne contained which famous diamond?",
+      "options": ["A) Hope Diamond", "B) Koh-i-Noor diamond", "C) Cullinan diamond", "D) Regent diamond"],
+      "correct_answer": "B) Koh-i-Noor diamond",
+      "explanation": "Shah Jahan's jewel-encrusted Peacock Throne contained the famous 186-carat Koh-i-Noor diamond, along with hundreds of rubies, emeralds, and pearls.",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_mcq015",
+      "question": "Who stole the Peacock Throne from Delhi in 1739?",
+      "options": ["A) Ahmad Shah Abdali", "B) Nadir Shah of Persia", "C) Shah Abbas of Persia", "D) Shivaji"],
+      "correct_answer": "B) Nadir Shah of Persia",
+      "explanation": "Nadir Shah of Persia sacked Delhi in 1739 and stole the Peacock Throne along with other treasures.",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_mcq016",
+      "question": "Who was nominated by Shah Jahan as his heir?",
+      "options": ["A) Aurangzeb", "B) Murad", "C) Dara Shikoh", "D) Shuja"],
+      "correct_answer": "C) Dara Shikoh",
+      "explanation": "Shah Jahan nominated his eldest son Dara Shikoh as his heir, but there was no system of primogeniture. Aurangzeb eventually defeated Dara and seized the throne.",
+      "source_section": "Aurangzeb"
+    },
+    {
+      "id": "ma_mcq017",
+      "question": "For how many years did Shah Jahan remain imprisoned at Agra Fort?",
+      "options": ["A) Five years", "B) Eight years", "C) Ten years", "D) Twelve years"],
+      "correct_answer": "B) Eight years",
+      "explanation": "Shah Jahan remained in prison for eight years at Agra Fort after being imprisoned by his son Aurangzeb. He died there in 1666.",
+      "source_section": "Shah Jahan / Aurangzeb"
+    },
+    {
+      "id": "ma_mcq018",
+      "question": "Where was Guru Tegh Bahadur executed?",
+      "options": ["A) Agra Fort", "B) Red Fort, Delhi", "C) Chandni Chowk, Delhi", "D) Lahore"],
+      "correct_answer": "C) Chandni Chowk, Delhi",
+      "explanation": "Guru Tegh Bahadur, the ninth Sikh Guru, was executed in December 1675 in Chandni Chowk, Delhi, after refusing to embrace Islam on Aurangzeb's orders.",
+      "source_section": "Aurangzeb - War with the Sikhs"
+    },
+    {
+      "id": "ma_mcq019",
+      "question": "When was Bijapur annexed by Aurangzeb?",
+      "options": ["A) 1680", "B) 1686", "C) 1687", "D) 1690"],
+      "correct_answer": "B) 1686",
+      "explanation": "Aurangzeb annexed Bijapur in 1686 and Golconda in 1687 during his long Deccan campaign.",
+      "source_section": "Aurangzeb - Deccan Campaign"
+    },
+    {
+      "id": "ma_mcq020",
+      "question": "Which treaty did Shivaji sign in 1665?",
+      "options": ["A) Treaty of Agra", "B) Treaty of Raigarh", "C) Treaty of Purandhar", "D) Treaty of Bijapur"],
+      "correct_answer": "C) Treaty of Purandhar",
+      "explanation": "Shivaji signed the Treaty of Purandhar in 1665 after being besieged by Raja Jai Singh. He had to surrender 23 of his 35 forts and keep the remaining 12.",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    },
+    {
+      "id": "ma_mcq021",
+      "question": "In which year did Shivaji crown himself Maratha king at Raigarh?",
+      "options": ["A) 1666", "B) 1670", "C) 1674", "D) 1680"],
+      "correct_answer": "C) 1674",
+      "explanation": "In 1674, Shivaji made Raigarh his capital and crowned himself Maratha king, taking the title of Chhatrapati.",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    },
+    {
+      "id": "ma_mcq022",
+      "question": "Which method of decoration was extensively used in Shah Jahan's monuments?",
+      "options": ["A) Fresco painting", "B) Pietra dura", "C) Marble carving", "D) Mosaic tiles"],
+      "correct_answer": "B) Pietra dura",
+      "explanation": "Pietra dura (also called parelinkari) involved inlaying semi-precious stones into marble to create floral designs. This was the signature decorative method of Shah Jahan's architecture.",
+      "source_section": "Cultural Developments - Architecture"
+    },
+    {
+      "id": "ma_mcq023",
+      "question": "Who built the tomb of Itimad-ud-Daula?",
+      "options": ["A) Jahangir", "B) Shah Jahan", "C) Nur Jahan", "D) Aurangzeb"],
+      "correct_answer": "C) Nur Jahan",
+      "explanation": "The tomb of Itimad-ud-Daula (Nur Jahan's father) was built by Nur Jahan during Jahangir's reign.",
+      "source_section": "Cultural Developments - Architecture"
+    },
+    {
+      "id": "ma_mcq024",
+      "question": "Who wrote the Padshahnama?",
+      "options": ["A) Abul Fazl", "B) Abdul Hamid Lahori", "C) Khafi Khan", "D) Jahangir"],
+      "correct_answer": "B) Abdul Hamid Lahori",
+      "explanation": "Abdul Hamid Lahori wrote the Padshahnama during Shah Jahan's reign.",
+      "source_section": "Cultural Developments - Literature"
+    },
+    {
+      "id": "ma_mcq025",
+      "question": "Which Bijapur general was killed by Shivaji in 1659?",
+      "options": ["A) Shaista Khan", "B) Raja Jai Singh", "C) Afzal Khan", "D) Malik Ambar"],
+      "correct_answer": "C) Afzal Khan",
+      "explanation": "In 1659, the Sultan of Bijapur sent general Afzal Khan to capture Shivaji, but Shivaji killed him instead.",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    }
+  ]
+}

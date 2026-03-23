@@ -1,0 +1,253 @@
+{
+  "subject": "8C English Literature",
+  "chapter": "His First Flight",
+  "type": "textbook_qa",
+  "questions": [
+    {
+      "id": "hff_starter_1",
+      "question": "[Starter] Which of the four animals do you associate with courage and fearlessness? Share the reasons for your choice.",
+      "answer": "Among the four animals shown (a rhino, an eagle, a cat/lion cub, and a puppy), the eagle is most commonly associated with courage and fearlessness. Eagles are known for soaring to great heights, diving fearlessly at incredible speeds to catch prey, and flying through storms rather than avoiding them. They are often used as symbols of bravery and power. The rhino can also represent fearlessness because of its massive strength and willingness to charge at threats without hesitation. Courage is not just about physical strength — even small animals can show courage in their own way.",
+      "source": "Starter Questions (p.17)"
+    },
+    {
+      "id": "hff_starter_2",
+      "question": "[Starter] Do you think courage is always related to physical strength? Why/why not?",
+      "answer": "No, courage is not always related to physical strength. Courage is more about the strength of mind and heart — the willingness to face fear, difficulty, or danger despite feeling afraid. A small child standing up to a bully shows courage without physical strength. A person speaking the truth despite consequences shows moral courage. In the story, the young seagull's courage was not about physical strength — his wings were actually longer than his siblings'. His challenge was mental and emotional. True courage is about overcoming fear, making difficult decisions, and doing the right thing even when it is hard or frightening.",
+      "source": "Starter Questions (p.17)"
+    },
+    {
+      "id": "hff_qq1_1",
+      "question": "[Quick Quiz - p.19] What did the little seagull's parents do at first to make him fly?",
+      "answer": "At first, the little seagull's parents came around calling to him shrilly, scolding him, and threatening to let him starve on his ledge unless he flew away. They tried to use both encouragement and threats to force him to take the plunge and fly.",
+      "source": "Quick Quiz (p.19)"
+    },
+    {
+      "id": "hff_qq1_2",
+      "question": "[Quick Quiz - p.19] What had the little seagull seen his older brother do?",
+      "answer": "The little seagull had seen his older brother catch his first herring and devour it, standing on a rock, while his parents circled around raising a proud cackle. The whole family had walked about on the big plateau midway down the opposite cliff, laughing at the young seagull's cowardice.",
+      "source": "Quick Quiz (p.19)"
+    },
+    {
+      "id": "hff_qq1_3",
+      "question": "[Quick Quiz - p.19] What did the little seagull do to catch his parents' attention?",
+      "answer": "The little seagull stepped slowly out to the brink of the ledge, and standing on one leg with the other leg hidden under his wing, he closed one eye, then the other, and pretended to be falling asleep. He did this hoping his parents would notice him and come to him, but they took no notice.",
+      "source": "Quick Quiz (p.19)"
+    },
+    {
+      "id": "hff_qq2_1",
+      "question": "[Quick Quiz - p.20] Why was the seagull all alone on the ledge?",
+      "answer": "The seagull was all alone on the ledge because his two brothers and his sister had already flown away the day before. He had been afraid to fly with them. His parents had also left him there, threatening to let him starve unless he flew. Twenty-four hours had passed since then and nobody had come near him.",
+      "source": "Quick Quiz (p.20)"
+    },
+    {
+      "id": "hff_qq2_2",
+      "question": "[Quick Quiz - p.20] Why did the seagull cry 'ga, ga, ga'?",
+      "answer": "The seagull cried 'ga, ga, ga' because he was extremely hungry and was begging his mother to bring him some food. He could see her tearing at a piece of fish on the plateau, and the sight of the food maddened him with hunger. He was desperately pleading with her to share some food with him.",
+      "source": "Quick Quiz (p.20)"
+    },
+    {
+      "id": "hff_qq3_1",
+      "question": "[Quick Quiz - p.21] What did the young seagull see when he flew straight over the ocean?",
+      "answer": "When the young seagull flew straight over the ocean, he saw a vast green sea beneath him, with little ridges moving over it. He turned his beak sideways and crowed amusedly. His parents, brothers, and sister had landed on this green floor in front of him and were beckoning to him, calling shrilly.",
+      "source": "Quick Quiz (p.21)"
+    },
+    {
+      "id": "hff_qq3_2",
+      "question": "[Quick Quiz - p.21] What happened when the seagull's feet touched the sea?",
+      "answer": "When the seagull dropped his legs to stand on the green sea, his legs sank into it. He screamed with fright and attempted to rise again, flapping his wings. But he was tired and weak with hunger and could not rise, exhausted by the strange exercise. His feet sank into the green sea, and then his belly touched it and he sank no farther. He was floating on it.",
+      "source": "Quick Quiz (p.21)"
+    },
+    {
+      "id": "hff_rc_a1",
+      "question": "[Section A - Complete the sentence] The young seagull was overcome with fear when ______",
+      "answer": "The young seagull was overcome with fear when he ran forward to the brink of the ledge and attempted to flap his wings. He became afraid because the great expanse of sea stretched down beneath him and it was such a long way down — miles down. He felt certain that his wings would never support him.",
+      "source": "Reading Comprehension A.1 (p.22)"
+    },
+    {
+      "id": "hff_rc_a2",
+      "question": "[Section A - Complete the sentence] Mother seagull taunted the young seagull with the fish because ______",
+      "answer": "Mother seagull taunted the young seagull with the fish because she wanted to lure him off the ledge and force him to fly. She flew towards him carrying a piece of fish in her beak but halted just opposite him, keeping the fish almost within reach of his beak without coming closer. She knew that his desperate hunger would make him dive for the food and that would push him into the air.",
+      "source": "Reading Comprehension A.2 (p.22)"
+    },
+    {
+      "id": "hff_rc_a3",
+      "question": "[Section A - Complete the sentence] The young seagull forgot his fear of flying because ______",
+      "answer": "The young seagull forgot his fear of flying because once he was in the air, the thrill and excitement of flying took over. He felt the wind rush against his breast feathers, under his stomach, and against his wings. He realised he was soaring, not falling. He flapped his wings and soared upward, and the joy of flying completely made him forget that he had not always been able to fly. He commenced to dive and soar, shrieking shrilly with delight.",
+      "source": "Reading Comprehension A.3 (p.22)"
+    },
+    {
+      "id": "hff_rc_a4",
+      "question": "[Section A - Complete the sentence] The young seagull was thrilled when he realised ______",
+      "answer": "The young seagull was thrilled when he realised that he was actually flying and that his wings could support him. He was not falling headlong — he was soaring gradually downwards and outwards. He was no longer afraid. He could feel the tips of his wings cutting through the air and when he flapped his wings, he soared upward. The sensation of flying filled him with joy and he completely forgot his earlier fear.",
+      "source": "Reading Comprehension A.4 (p.22)"
+    },
+    {
+      "id": "hff_rc_b1",
+      "question": "[Section B] Why was the young seagull afraid to fly? (Answer in about 40 words)",
+      "answer": "The young seagull was afraid to fly because when he looked down from his ledge, the great expanse of sea stretched far below him — miles down. He felt certain that his wings would never support him in the air. Even though his siblings, whose wings were far shorter than his own, had managed to fly, the young seagull could not muster the courage to take that plunge, which appeared so desperate to him.",
+      "source": "Reading Comprehension B.1 (p.22)"
+    },
+    {
+      "id": "hff_rc_b2",
+      "question": "[Section B] How did the parents try to make the young seagull take his first flight with his siblings?",
+      "answer": "The parents tried several methods to make the young seagull fly. His father and mother had come around calling to him shrilly, scolding him, and threatening to let him starve on his ledge unless he flew away. They wanted to use fear and pressure to push him into flying. Later, the entire family walked about on the big plateau, laughing at his cowardice, hoping that shame and humiliation might motivate him. Finally, his mother used a clever trick — she flew towards him with a piece of fish to tempt his hunger and lure him off the ledge.",
+      "source": "Reading Comprehension B.2 (p.22)"
+    },
+    {
+      "id": "hff_rc_b3",
+      "question": "[Section B] What did the young seagull's parents and siblings do the entire day?",
+      "answer": "The day before, the young seagull had watched his parents flying about with his brothers and sister all day long. His parents were perfecting them in the art of flight, teaching them how to skim the waves and how to dive for fish. He had seen his older brother catch his first herring and devour it standing on a rock, while his parents circled around raising a proud cackle. In the morning, the whole family had walked about on the big plateau midway down the opposite cliff, laughing at the young seagull's cowardice.",
+      "source": "Reading Comprehension B.3 (p.22)"
+    },
+    {
+      "id": "hff_rc_b4",
+      "question": "[Section B] Why was the condition of the young seagull desperate after twenty-four hours?",
+      "answer": "After twenty-four hours, the young seagull's condition was desperate because he had not eaten since the previous nightfall. He felt the heat as the sun blazed warmly on his south-facing ledge. He had found only a dried piece of mackerel tail at the far end of his ledge and not a single other scrap of food. He had searched every inch, rooting among the rough, dirt-caked straw nest, and had even gnawed at dried pieces of eggshell, which was like eating part of himself. He was famished and weakening from hunger.",
+      "source": "Reading Comprehension B.4 (p.22)"
+    },
+    {
+      "id": "hff_rc_b5",
+      "question": "[Section B] What is your opinion of the family's reaction to the miserable condition of the young seagull? Give reasons for your answer.",
+      "answer": "The family's reaction to the young seagull's miserable condition may seem harsh, but it was actually wise and necessary. By ignoring him and refusing to bring him food, they were pushing him to overcome his fear on his own. They knew that the seagull was physically capable of flying — his wings were even longer than his siblings'. His only problem was fear, and feeding him on the ledge would only have made him more comfortable staying there forever. The mother's clever trick of tempting him with food just out of reach was the final push he needed. Sometimes, tough love is the most effective way to help someone overcome their fears. The family's approach ultimately succeeded — the young seagull flew and discovered abilities he never knew he had.",
+      "source": "Reading Comprehension B.5 (p.22)"
+    },
+    {
+      "id": "hff_rc_d1",
+      "question": "[Section D - Think and Discuss] Imagine yourself to be the mother seagull. Describe how you felt when you saw the young seagull take his first flight.",
+      "answer": "As the mother seagull, I was filled with a mixture of relief, pride, and overwhelming joy when I saw my young one finally take his first flight. I had been so worried about him — he was the only one who hadn't flown, and I could see him growing weaker from hunger every hour. It broke my heart to ignore his cries, but I knew that bringing him food on the ledge would only make things worse. When I flew towards him with the fish, my heart was pounding. I deliberately stopped just out of his reach, hoping his hunger would do what our scolding couldn't. When he dived at the fish and fell into the air, I swooped beneath him immediately, ready to help if needed. But then I saw his wings spread and he was soaring! I screamed with joy and flew past him, making loud noises to encourage him. Seeing him fly around with his brothers and sister, diving and soaring without any fear, was the proudest moment of my life.",
+      "source": "Reading Comprehension D.1 (p.22)"
+    },
+    {
+      "id": "hff_rc_d2",
+      "question": "[Section D - Think and Discuss] Do you feel sorry for the young seagull? Why/Why not?",
+      "answer": "Yes, I do feel sorry for the young seagull, but only to a certain extent. It is natural to feel sympathy for him because he was genuinely terrified and suffered greatly — left alone on the ledge for twenty-four hours without food, watching his family enjoy themselves while he starved. His fear was real and paralysing, and being mocked and ignored by his own family must have been painful. However, I also understand that his family's tough approach was necessary. The seagull's fear was irrational — his wings were longer than his siblings', so he was physically more than capable of flying. If his parents had continued feeding him on the ledge, he might never have learned to fly. Sometimes we need to face our fears to discover our true potential. In the end, the young seagull not only learned to fly but completely forgot his fear, which shows that overcoming challenges makes us stronger.",
+      "source": "Reading Comprehension D.2 (p.22)"
+    },
+    {
+      "id": "hff_vocab_1",
+      "question": "[Vocabulary - Fill in the Blanks] Fill in the blank: Meg ______ realised that her friend was in serious trouble and rushed headlong to help her. (Choose from: taunted, instinctively, upbraided, realisation, derisively)",
+      "answer": "instinctively\n\nExplanation: 'Instinctively' means acting on instinct, without conscious thought. Meg immediately and naturally sensed her friend was in trouble and rushed to help without stopping to think — this is an instinctive reaction.",
+      "source": "Vocabulary - Contextual Meanings (p.22)"
+    },
+    {
+      "id": "hff_vocab_2",
+      "question": "[Vocabulary - Fill in the Blanks] Fill in the blank: Hercules looked ______ at his opponent who was losing his strength and completely at his mercy. (Choose from: taunted, instinctively, upbraided, realisation, derisively)",
+      "answer": "derisively\n\nExplanation: 'Derisively' means in a mocking, scornful, or contemptuous manner. Hercules looked at his weakened opponent with scorn and mockery, as the opponent was completely at his mercy.",
+      "source": "Vocabulary - Contextual Meanings (p.22)"
+    },
+    {
+      "id": "hff_vocab_3",
+      "question": "[Vocabulary - Fill in the Blanks] Fill in the blank: The captain ______ his men for not carrying out his instructions. (Choose from: taunted, instinctively, upbraided, realisation, derisively)",
+      "answer": "upbraided\n\nExplanation: 'Upbraided' means scolded or rebuked severely. The captain severely scolded his men for failing to follow his orders.",
+      "source": "Vocabulary - Contextual Meanings (p.23)"
+    },
+    {
+      "id": "hff_vocab_4",
+      "question": "[Vocabulary - Fill in the Blanks] Fill in the blank: The villager was ______ by the young man who felt he was no match for him and spoke contemptuously of his uncouth ways. (Choose from: taunted, instinctively, upbraided, realisation, derisively)",
+      "answer": "taunted\n\nExplanation: 'Taunted' means provoked or mocked with insulting remarks. The young man mocked the villager, looking down on him and speaking contemptuously about his rough ways.",
+      "source": "Vocabulary - Contextual Meanings (p.23)"
+    },
+    {
+      "id": "hff_vocab_5",
+      "question": "[Vocabulary - Fill in the Blanks] Fill in the blank: Henry suddenly woke up to the ______ that his exams were just a fortnight away. (Choose from: taunted, instinctively, upbraided, realisation, derisively)",
+      "answer": "realisation\n\nExplanation: 'Realisation' means the act of becoming fully aware of something. Henry suddenly became aware of the fact that his exams were only two weeks away.",
+      "source": "Vocabulary - Contextual Meanings (p.23)"
+    },
+    {
+      "id": "hff_gram_a1",
+      "question": "[Grammar - Correct the Errors] Correct the error: 'Hardly had I reached the bus stop than it started raining.'",
+      "answer": "Hardly had I reached the bus stop when it started raining.\n\nExplanation: 'Hardly' is always followed by 'when', not 'than'. The correct structure is: Hardly + had + subject + past participle + when + (second event). 'Than' is used only with 'No sooner'.",
+      "source": "Grammar - Practise It A.1 (p.23)"
+    },
+    {
+      "id": "hff_gram_a2",
+      "question": "[Grammar - Correct the Errors] Correct the error: 'No sooner the school bell rang than the children rushed out to play.'",
+      "answer": "No sooner did the school bell ring than the children rushed out to play.\n\nExplanation: With 'No sooner', the subject and helping verb must be inverted. The correct structure is: No sooner + did/had + subject + verb + than + (second event). The original sentence was missing the inversion.",
+      "source": "Grammar - Practise It A.2 (p.23)"
+    },
+    {
+      "id": "hff_gram_a3",
+      "question": "[Grammar - Correct the Errors] Correct the error: 'The restaurant serves breakfast not only but also lunch and dinner.'",
+      "answer": "The restaurant serves not only breakfast but also lunch and dinner.\n\nExplanation: In the 'not only...but also' structure, 'not only' must be placed directly before the first item being listed. Here, 'not only' should come before 'breakfast' to correctly pair with 'but also lunch and dinner'.",
+      "source": "Grammar - Practise It A.3 (p.23)"
+    },
+    {
+      "id": "hff_gram_a4",
+      "question": "[Grammar - Correct the Errors] Correct the error: 'Betty not only knows how to play the guitar but the sitar also.'",
+      "answer": "Betty knows how to play not only the guitar but also the sitar.\n\nExplanation: The 'not only...but also' structure must be parallel. 'Not only' should be placed before 'the guitar' and 'but also' before 'the sitar' so that both items are grammatically parallel. Also, 'also' comes after 'but', not at the end.",
+      "source": "Grammar - Practise It A.4 (p.24)"
+    },
+    {
+      "id": "hff_gram_a5",
+      "question": "[Grammar - Correct the Errors] Correct the error: 'Scarcely the clock struck twelve, when the coach turned into a pumpkin.'",
+      "answer": "Scarcely had the clock struck twelve when the coach turned into a pumpkin.\n\nExplanation: With 'Scarcely', the subject and helping verb must be inverted. The correct structure is: Scarcely + had + subject + past participle + when + (second event). The original was missing the inversion with 'had'.",
+      "source": "Grammar - Practise It A.5 (p.24)"
+    },
+    {
+      "id": "hff_gram_a6",
+      "question": "[Grammar - Correct the Errors] Correct the error: 'Hardly the food was on the table than the rats came out of their holes.'",
+      "answer": "Hardly was the food on the table when the rats came out of their holes.\n\nExplanation: Two errors: (1) 'Hardly' requires subject-verb inversion — 'Hardly was the food' instead of 'Hardly the food was'. (2) 'Hardly' is followed by 'when', not 'than'. 'Than' is used only with 'No sooner'.",
+      "source": "Grammar - Practise It A.6 (p.24)"
+    },
+    {
+      "id": "hff_gram_b1",
+      "question": "[Grammar - Join Sentences] Join using no sooner...than, hardly...when, scarcely...when, or not only...but also: 'You will get an offer. You will get a scholarship too.'",
+      "answer": "You will get not only an offer but also a scholarship.\n\nExplanation: Since both sentences describe things 'you will get', we use 'not only...but also' to combine them. This structure connects two things that happen together or are equally true.",
+      "source": "Grammar - Apply It B.1 (p.24)"
+    },
+    {
+      "id": "hff_gram_b2",
+      "question": "[Grammar - Join Sentences] Join using no sooner...than, hardly...when, scarcely...when, or not only...but also: 'The alarm rang loudly. I woke up.'",
+      "answer": "No sooner did the alarm ring loudly than I woke up.\n(OR: Hardly had the alarm rung loudly when I woke up.)\n(OR: Scarcely had the alarm rung loudly when I woke up.)\n\nExplanation: These are two events happening one immediately after the other, so we use 'no sooner...than' or 'hardly/scarcely...when'. The first event (alarm ringing) is followed immediately by the second (waking up).",
+      "source": "Grammar - Apply It B.2 (p.24)"
+    },
+    {
+      "id": "hff_gram_b3",
+      "question": "[Grammar - Join Sentences] Join using no sooner...than, hardly...when, scarcely...when, or not only...but also: 'We heard the crash. We rushed outside.'",
+      "answer": "No sooner did we hear the crash than we rushed outside.\n(OR: Hardly had we heard the crash when we rushed outside.)\n(OR: Scarcely had we heard the crash when we rushed outside.)\n\nExplanation: Two events happening in quick succession — hearing the crash was immediately followed by rushing outside.",
+      "source": "Grammar - Apply It B.3 (p.24)"
+    },
+    {
+      "id": "hff_gram_b4",
+      "question": "[Grammar - Join Sentences] Join using no sooner...than, hardly...when, scarcely...when, or not only...but also: 'I finished the last question. The bell rang.'",
+      "answer": "No sooner had I finished the last question than the bell rang.\n(OR: Hardly had I finished the last question when the bell rang.)\n(OR: Scarcely had I finished the last question when the bell rang.)\n\nExplanation: The two events happened almost simultaneously — finishing the question was immediately followed by the bell ringing.",
+      "source": "Grammar - Apply It B.4 (p.24)"
+    },
+    {
+      "id": "hff_gram_b5",
+      "question": "[Grammar - Join Sentences] Join using no sooner...than, hardly...when, scarcely...when, or not only...but also: 'I drank the milk. I started feeling sick.'",
+      "answer": "No sooner did I drink the milk than I started feeling sick.\n(OR: Hardly had I drunk the milk when I started feeling sick.)\n(OR: Scarcely had I drunk the milk when I started feeling sick.)\n\nExplanation: One event quickly followed the other — drinking the milk was immediately followed by feeling sick.",
+      "source": "Grammar - Apply It B.5 (p.24)"
+    },
+    {
+      "id": "hff_gram_b6",
+      "question": "[Grammar - Join Sentences] Join using no sooner...than, hardly...when, scarcely...when, or not only...but also: 'Andy bought the sandwich. He gobbled it hungrily.'",
+      "answer": "No sooner did Andy buy the sandwich than he gobbled it hungrily.\n(OR: Hardly had Andy bought the sandwich when he gobbled it hungrily.)\n\nExplanation: Two events in rapid succession — buying the sandwich was immediately followed by eating it hungrily.",
+      "source": "Grammar - Apply It B.6 (p.24)"
+    },
+    {
+      "id": "hff_gram_b7",
+      "question": "[Grammar - Join Sentences] Join using no sooner...than, hardly...when, scarcely...when, or not only...but also: 'The company launched its new product. Sales shot up in a day.'",
+      "answer": "No sooner did the company launch its new product than sales shot up in a day.\n(OR: Hardly had the company launched its new product when sales shot up in a day.)\n\nExplanation: The launch was immediately followed by a rapid increase in sales.",
+      "source": "Grammar - Apply It B.7 (p.24)"
+    },
+    {
+      "id": "hff_gram_b8",
+      "question": "[Grammar - Join Sentences] Join using no sooner...than, hardly...when, scarcely...when, or not only...but also: 'Tina entered the contest. Tina won the contest.'",
+      "answer": "Tina not only entered the contest but also won it.\n\nExplanation: Since both actions are performed by the same person (Tina) and describe two achievements, 'not only...but also' is the best connector. It emphasises that she did both things — entered and won.",
+      "source": "Grammar - Apply It B.8 (p.24)"
+    },
+    {
+      "id": "hff_punct_1",
+      "question": "[Punctuation] Rewrite with correct punctuation: 'when mr hiram b otis the american minister bought canterville chase every one told him he was doing a very foolish thing as there was no doubt at all that the place was haunted indeed lord canterville himself who was a man of the most punctilious honour had felt it his duty to mention the fact to mr otis when they came to discuss terms'",
+      "answer": "When Mr. Hiram B. Otis, the American minister, bought Canterville Chase, every one told him he was doing a very foolish thing, as there was no doubt at all that the place was haunted. Indeed, Lord Canterville himself, who was a man of the most punctilious honour, had felt it his duty to mention the fact to Mr. Otis when they came to discuss terms.\n\nPunctuation added: Capital letters for proper nouns (Mr., Hiram, B., Otis, American, Canterville, Chase, Lord), commas to separate clauses and appositives, full stop at the end of each sentence.",
+      "source": "Punctuation (p.24)"
+    },
+    {
+      "id": "hff_punct_2",
+      "question": "[Punctuation] Rewrite with correct punctuation: 'a few weeks after this the purchase was concluded and at the close of the season the minister and his family went down to canterville chase mrs otis who as miss lucretia r tappen of west 53rd street had been a celebrated new york beauty was now a very handsome middle-aged woman with fine eyes and a superb profile many american ladies on leaving their native land adopt an appearance of chronic ill-health under the impression that it is a form of european refinement but mrs otis had never fallen into this error'",
+      "answer": "A few weeks after this, the purchase was concluded and, at the close of the season, the minister and his family went down to Canterville Chase. Mrs. Otis, who as Miss Lucretia R. Tappen of West 53rd Street had been a celebrated New York beauty, was now a very handsome middle-aged woman with fine eyes and a superb profile. Many American ladies, on leaving their native land, adopt an appearance of chronic ill-health under the impression that it is a form of European refinement, but Mrs. Otis had never fallen into this error.\n\nPunctuation added: Capital letters for proper nouns, commas to separate clauses and phrases, full stops at the end of sentences.",
+      "source": "Punctuation (p.24)"
+    }
+  ]
+}

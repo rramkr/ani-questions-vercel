@@ -1,0 +1,110 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "dp_sa001",
+      "question": "What is a welfare state?",
+      "answer": "A welfare state is one in which the government plays a key role in protecting and promoting the economic and social well-being of its citizens. It is based on principles of equality of opportunity and equal distribution of wealth. Under this system, the welfare of citizens is the responsibility of the state. It regards all individuals on equal footing irrespective of social and economic status.",
+      "keywords": ["government", "economic and social well-being", "equality of opportunity", "equal distribution of wealth", "responsibility of the state"],
+      "source_section": "Welfare State"
+    },
+    {
+      "id": "dp_sa002",
+      "question": "What are the features of a welfare state?",
+      "answer": "A welfare state regards all individuals on equal footing irrespective of social and economic status. It takes responsibility for the well-being of all citizens and takes steps to abolish illiteracy, poverty and unemployment. It establishes schools, hospitals and other institutions. It provides jobs, maternity benefit, old-age pension and other social benefits. It is based on the principle of equality and opportunity for all.",
+      "keywords": ["equal footing", "well-being", "abolish illiteracy", "poverty", "unemployment", "schools", "hospitals", "maternity benefit", "old-age pension", "equality"],
+      "source_section": "Welfare State"
+    },
+    {
+      "id": "dp_sa003",
+      "question": "Why was India not a welfare state under British rule?",
+      "answer": "Under British rule, India was not a welfare state because the British were not interested in the welfare of the Indian people. Whatever they did was in the interests of the British government. India faced innumerable problems such as poverty, illiteracy, ignorance and inequality. Vulnerable sections like women and children were deprived of basic means of living.",
+      "keywords": ["British", "not interested", "welfare", "interests of British government", "poverty", "illiteracy", "ignorance", "inequality"],
+      "source_section": "Background"
+    },
+    {
+      "id": "dp_sa004",
+      "question": "What are Directive Principles of State Policy?",
+      "answer": "Directive Principles of State Policy are guidelines for the Central and State governments stated in Articles 36 to 51, in Part IV of the Constitution. They are non-justiciable, meaning not enforceable by any court of law. However, they are considered fundamental in the governance of the country. They were inspired by the Constitution of Ireland and Gandhian philosophy. Their main aim is to create healthy social and economic conditions for all citizens.",
+      "keywords": ["Articles 36 to 51", "Part IV", "guidelines", "non-justiciable", "Constitution of Ireland", "Gandhian philosophy", "social and economic conditions"],
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_sa005",
+      "question": "What are the three categories of Directive Principles?",
+      "answer": "The Directive Principles are classified into three categories: (1) Principles promoting social and economic equality, which include equal pay for equal work, free education up to age 14, and adequate means of livelihood. (2) Principles related to Gandhian philosophy, which include promoting cottage industries, village Panchayats, and preventing consumption of alcoholic drinks. (3) General Principles, which include a uniform civil code, protection of historical monuments, and promoting international peace.",
+      "keywords": ["social and economic equality", "Gandhian philosophy", "General Principles", "three categories"],
+      "source_section": "Types of Directive Principles"
+    },
+    {
+      "id": "dp_sa006",
+      "question": "What are the basic principles of Gandhian thought?",
+      "answer": "The basic principles of Gandhian thought are Swaraj (self-rule), Sarvodaya (welfare for all) and Swavlamban (self-reliance). Gandhi laid stress on rebuilding villages and promoting cottage industries. He also laid down some principles during the freedom movement, which were later incorporated during the framing of the Constitution as Directive Principles.",
+      "keywords": ["Swaraj", "self-rule", "Sarvodaya", "welfare for all", "Swavlamban", "self-reliance", "villages", "cottage industries"],
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_sa007",
+      "question": "List any three Directive Principles promoting Social and Economic Equality.",
+      "answer": "Three Directive Principles promoting social and economic equality are: (1) Equal pay for equal work for both men and women. (2) The state should take steps to impart compulsory and free education to children up to the age of 14 years. (3) The state should ensure adequate means of livelihood for its people and fair distribution of material resources for the common good.",
+      "keywords": ["equal pay", "men and women", "free education", "14 years", "adequate means of livelihood", "fair distribution"],
+      "source_section": "Social and Economic Equality"
+    },
+    {
+      "id": "dp_sa008",
+      "question": "List any three Gandhian Principles incorporated as Directive Principles.",
+      "answer": "Three Gandhian Principles incorporated as Directive Principles are: (1) Village Panchayats shall be given powers for self-government. (2) The state shall make efforts to prevent consumption of alcoholic drinks and other harmful drugs. (3) The state shall try to promote cottage industries in rural areas.",
+      "keywords": ["Village Panchayats", "self-government", "alcoholic drinks", "harmful drugs", "cottage industries", "rural areas"],
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_sa009",
+      "question": "List any three General Directive Principles of State Policy.",
+      "answer": "Three General Directive Principles are: (1) The state shall take steps for maintenance and protection of historical monuments and places of national importance. (2) The state shall aim at establishing a uniform civil code for all citizens. (3) The state shall promote international peace and security and encourage settlement of international disputes by arbitration.",
+      "keywords": ["historical monuments", "uniform civil code", "international peace", "security", "arbitration"],
+      "source_section": "General Principles"
+    },
+    {
+      "id": "dp_sa010",
+      "question": "How do Directive Principles differ from Fundamental Rights in terms of enforceability?",
+      "answer": "Directive Principles are non-justiciable, meaning they cannot be enforced in any court of law. They are only instructions or directions for the state to frame policies. On the other hand, Fundamental Rights are justiciable and enforceable by the courts. If Fundamental Rights are violated, citizens can approach the Supreme Court or High Courts for redress. This is the key difference in enforceability between the two.",
+      "keywords": ["non-justiciable", "not enforceable", "justiciable", "enforceable", "courts", "instructions", "directions"],
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_sa011",
+      "question": "What was the impact of Directive Principles on education?",
+      "answer": "The Directive Principles have had a significant impact on education. Primary education has been made compulsory for all children up to the age of 14 years. The state promotes the educational interests of weaker sections, especially Scheduled Castes and Scheduled Tribes. Some seats have been reserved for these communities. The government also introduced the mid-day meal programme for school children to support their nutritional needs.",
+      "keywords": ["compulsory education", "14 years", "weaker sections", "Scheduled Castes", "Scheduled Tribes", "reserved seats", "mid-day meal"],
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_sa012",
+      "question": "What boards were established to promote cottage industries?",
+      "answer": "To promote cottage industries under Article 43, the government established several boards: the Village Industries Board, the All India Handicraft Board, the Silk Board and the Coir Board. These boards were set up to encourage small-scale, decentralised manufacturing in rural areas, in line with the Gandhian Directive Principle of promoting cottage industries.",
+      "keywords": ["Article 43", "Village Industries Board", "All India Handicraft Board", "Silk Board", "Coir Board", "cottage industries"],
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_sa013",
+      "question": "Name the government development programmes launched to raise the standard of living.",
+      "answer": "The government launched several development programmes to raise the standard of living: (1) Community Development Programme (1952), (2) Integrated Rural Development Programme (1978-79), and (3) Mahatma Gandhi Rural Employment Guarantee Act (2006). Additionally, Central Government sponsored schemes like Pradhan Mantri Gram Swasthya Yojana (PMGSY) and National Rural Health Mission (NRHM) were introduced.",
+      "keywords": ["Community Development Programme", "1952", "Integrated Rural Development Programme", "1978-79", "MGNREGA", "2006", "PMGSY", "NRHM"],
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_sa014",
+      "question": "What is the relationship between Directive Principles and Fundamental Rights?",
+      "answer": "Directive Principles and Fundamental Rights are not contradictory but complementary. Both aim at the same thing - the welfare of citizens. Fundamental Rights guarantee political democracy, while Directive Principles establish social and economic democracy. Together, they form a comprehensive framework for the governance of India. Neither can be ignored as both are essential for the well-being of citizens.",
+      "keywords": ["complementary", "not contradictory", "political democracy", "social and economic democracy", "welfare"],
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_sa015",
+      "question": "What new Directive Principle was added by the 42nd Amendment?",
+      "answer": "The 42nd Amendment added a new Directive Principle - the duty of the state to protect and improve the environment and to safeguard the forests and wildlife of the country. This was an important addition recognising the need for environmental protection as a fundamental responsibility of the state in governing the country.",
+      "keywords": ["42nd Amendment", "protect", "improve", "environment", "safeguard", "forests", "wildlife"],
+      "source_section": "Directive Principles of State Policy"
+    }
+  ]
+}

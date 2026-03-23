@@ -1,4 +1,4 @@
-// Version: 6.5 - Added Picture Comprehension section with sample compositions
+// Version: 6.6 - Added History Pragi subject (5 chapters, 1050 questions)
 // Use local deployment URL for fetching questions (faster than GitHub raw)
 const GITHUB_BASE_URL = './questions_cache';
 
@@ -22,12 +22,21 @@ const USERS = {
     'rramkr@gmail.com': {
         passwordHash: simpleHash('Ani1@unni2'),
         name: 'Admin',
-        role: 'admin'
+        role: 'admin',
+        allowedSubjects: null
     },
     'anirudh.ramkr@gmail.com': {
         passwordHash: simpleHash('Sishya@1234'),
         name: 'Anirudh',
-        role: 'student'
+        role: 'student',
+        allowedSubjects: null,
+        excludedSubjects: ['History Pragi']
+    },
+    'prahladsathishclass2@gmail.com': {
+        passwordHash: simpleHash('152013'),
+        name: 'Prahlad',
+        role: 'student',
+        allowedSubjects: ['Physics', 'History Pragi']
     }
 };
 
@@ -142,6 +151,13 @@ function checkAuth() {
     if (savedUser) {
         try {
             currentUser = JSON.parse(savedUser);
+            // Re-sync allowedSubjects and excludedSubjects from USERS dict (in case it changed since last login)
+            const userRecord = USERS[currentUser.email];
+            if (userRecord) {
+                currentUser.allowedSubjects = userRecord.allowedSubjects || null;
+                currentUser.excludedSubjects = userRecord.excludedSubjects || null;
+                localStorage.setItem('aniQuiz_user', JSON.stringify(currentUser));
+            }
             return true;
         } catch {
             return false;
@@ -157,7 +173,9 @@ function login(email, password) {
         currentUser = {
             email: email.toLowerCase(),
             name: user.name,
-            role: user.role
+            role: user.role,
+            allowedSubjects: user.allowedSubjects || null,
+            excludedSubjects: user.excludedSubjects || null
         };
         localStorage.setItem('aniQuiz_user', JSON.stringify(currentUser));
         return true;
@@ -566,6 +584,7 @@ function resetState() {
     state.oneByOneMode = false;
     state.currentQuestionIndex = 0;
     state.currentAnswerRevealed = false;
+    state.expandedRange = undefined;
     // Reset comprehension state
     state.comprehensionMode = false;
     state.passages = [];
@@ -579,7 +598,23 @@ async function loadSubjects() {
         const response = await fetch(`${GITHUB_BASE_URL}/subjects.json`);
         const data = await response.json();
 
-        if (data.subjects.length === 0) {
+        // Filter subjects based on user's allowedSubjects
+        if (currentUser?.allowedSubjects) {
+            data.subjects = data.subjects.filter(s => currentUser.allowedSubjects.includes(s.name));
+            if (data.completed) {
+                data.completed = data.completed.filter(s => currentUser.allowedSubjects.includes(s.name));
+            }
+        }
+
+        // Filter out excludedSubjects
+        if (currentUser?.excludedSubjects) {
+            data.subjects = data.subjects.filter(s => !currentUser.excludedSubjects.includes(s.name));
+            if (data.completed) {
+                data.completed = data.completed.filter(s => !currentUser.excludedSubjects.includes(s.name));
+            }
+        }
+
+        if (data.subjects.length === 0 && (!data.completed || data.completed.length === 0)) {
             showEmptyState('No subjects found.');
             return;
         }
@@ -677,6 +712,13 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
     // Handle rules type separately
     if (type.value === 'rules') {
         await loadRules(type);
+        showLoading(false);
+        return;
+    }
+
+    // Handle notes type separately
+    if (type.value === 'notes') {
+        await loadNotes(type);
         showLoading(false);
         return;
     }
@@ -894,6 +936,124 @@ function renderRules(rulesData) {
     html += '</div>';
 
     elements.questionsContainer.innerHTML = html;
+}
+
+// ============== CHAPTER NOTES HANDLING ==============
+
+async function loadNotes(type) {
+    try {
+        const subjectFolder = state.currentSubject.name.replace(/ /g, '_');
+        const chapterFolder = encodeURIComponent(state.currentChapter.name);
+        const url = `${GITHUB_BASE_URL}/${subjectFolder}/${chapterFolder}/notes.json`;
+        const response = await fetch(url);
+
+        if (!response.ok) {
+            alert('Failed to load notes');
+            return;
+        }
+
+        const notesData = await response.json();
+        state.currentType = type;
+        renderNotes(notesData);
+        showView('quiz');
+        updateHash();
+    } catch (error) {
+        console.error('Error loading notes:', error);
+        alert('Failed to load notes: ' + error.message);
+    }
+}
+
+function renderNotes(data) {
+    if (elements.quizTitle) elements.quizTitle.textContent = `${data.title || 'Chapter Notes'} — ${state.currentChapter.name}`;
+    if (elements.questionsShown) elements.questionsShown.textContent = data.sections.length + ' sections';
+
+    // Hide quiz-specific elements
+    if (elements.challengeBanner) elements.challengeBanner.style.display = 'none';
+    if (elements.resultsBanner) elements.resultsBanner.style.display = 'none';
+    if (elements.scoreDisplay) elements.scoreDisplay.style.display = 'none';
+    if (elements.tryMoreBtn) elements.tryMoreBtn.style.display = 'none';
+    if (elements.checkAnswersBtn) elements.checkAnswersBtn.style.display = 'none';
+    if (elements.showAllAnswersBtn) elements.showAllAnswersBtn.style.display = 'none';
+
+    let html = '<div class="notes-container">';
+
+    // Table of contents
+    html += '<div class="notes-toc"><h3 class="notes-toc-title">In this chapter</h3><ul class="notes-toc-list">';
+    data.sections.forEach((sec, i) => {
+        html += `<li><a href="#notes-sec-${sec.id || i}" class="notes-toc-link">${sec.title}</a></li>`;
+    });
+    html += '</ul></div>';
+
+    data.sections.forEach((section, i) => {
+        html += `<div class="notes-section" id="notes-sec-${section.id || i}">`;
+        html += `<h2 class="notes-section-title"><span class="notes-section-num">${i + 1}</span>${section.title}</h2>`;
+
+        // Main content paragraphs
+        if (section.content) {
+            const paragraphs = section.content.split('\n\n');
+            paragraphs.forEach(p => {
+                if (p.trim()) {
+                    // Convert **bold** markers to <strong>
+                    let formatted = p.trim().replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                    html += `<p class="notes-text">${formatted}</p>`;
+                }
+            });
+        }
+
+        // Key terms box
+        if (section.key_terms && section.key_terms.length > 0) {
+            html += '<div class="notes-key-terms"><h4 class="notes-box-title">Key Terms</h4><dl class="notes-definitions">';
+            section.key_terms.forEach(kt => {
+                html += `<dt>${kt.term}</dt><dd>${kt.definition}</dd>`;
+            });
+            html += '</dl></div>';
+        }
+
+        // Tables
+        if (section.tables && section.tables.length > 0) {
+            section.tables.forEach(table => {
+                html += '<div class="notes-table-wrap">';
+                if (table.title) html += `<h4 class="notes-table-title">${table.title}</h4>`;
+                html += '<table class="notes-table"><thead><tr>';
+                table.headers.forEach(h => { html += `<th>${h}</th>`; });
+                html += '</tr></thead><tbody>';
+                table.rows.forEach(row => {
+                    html += '<tr>';
+                    row.forEach(cell => { html += `<td>${cell}</td>`; });
+                    html += '</tr>';
+                });
+                html += '</tbody></table></div>';
+            });
+        }
+
+        // Fun facts / Do You Know box
+        if (section.fun_facts && section.fun_facts.length > 0) {
+            html += '<div class="notes-fun-facts"><h4 class="notes-box-title">Do You Know?</h4><ul>';
+            section.fun_facts.forEach(f => { html += `<li>${f}</li>`; });
+            html += '</ul></div>';
+        }
+
+        // Examples
+        if (section.examples && section.examples.length > 0) {
+            html += '<div class="notes-examples"><h4 class="notes-box-title">Real-life Examples</h4><ul>';
+            section.examples.forEach(e => { html += `<li>${e}</li>`; });
+            html += '</ul></div>';
+        }
+
+        html += '</div>'; // end notes-section
+    });
+
+    html += '</div>'; // end notes-container
+    elements.questionsContainer.innerHTML = html;
+
+    // Smooth scroll for TOC links
+    document.querySelectorAll('.notes-toc-link').forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const target = document.querySelector(link.getAttribute('href'));
+            if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+    });
 }
 
 // ============== COMPREHENSION PASSAGE HANDLING ==============
@@ -1926,7 +2086,7 @@ function renderQuestionShowAll(question, index) {
         if (question.diagram_image) {
             diagramHtml = `
                 <div class="question-diagram">
-                    <img src="${question.diagram_image}" alt="Diagram for question" class="diagram-image" onclick="openDiagramModal(this.src)">
+                    <img src="${question.diagram_image}" alt="Diagram for question" class="diagram-image${state.currentType && state.currentType.value === 'name_icons' ? ' bw-icon' : ''}" onclick="openDiagramModal(this.src)">
                     <span class="diagram-hint">Click to enlarge</span>
                 </div>
             `;
@@ -2337,7 +2497,7 @@ function renderOneByOneQuiz() {
         if (currentQuestion.diagram_image) {
             diagramHtml = `
                 <div class="question-diagram">
-                    <img src="${currentQuestion.diagram_image}" alt="Diagram for question" class="diagram-image" onclick="openDiagramModal(this.src)">
+                    <img src="${currentQuestion.diagram_image}" alt="Diagram for question" class="diagram-image${state.currentType && state.currentType.value === 'name_icons' ? ' bw-icon' : ''}" onclick="openDiagramModal(this.src)">
                     <span class="diagram-hint">Click to enlarge</span>
                 </div>
             `;
@@ -2406,6 +2566,8 @@ function renderOneByOneQuiz() {
                     </button>
                 `}
             </div>
+
+            ${renderQuestionNavBar(totalQuestions, state.currentQuestionIndex)}
         </div>
     `;
 }
@@ -2618,6 +2780,8 @@ function renderOneByOneAnswer(question) {
         const pairs = question.pairs || [];
         const correctMatches = question.correct_matches || {};
         const answersString = question.answers || '';
+        const leftItems = question.left_items || [];
+        const rightItems = question.right_items || [];
 
         let matchesHtml = '';
         if (pairs.length > 0) {
@@ -2625,7 +2789,11 @@ function renderOneByOneAnswer(question) {
             matchesHtml = `<div style="font-weight: bold; margin-bottom: 10px;">Answer: ${answerLetters}</div>`;
             matchesHtml += pairs.map((p, i) => `<div>${i + 1}. ${p.left} → ${p.right}</div>`).join('');
         } else if (Object.keys(correctMatches).length > 0) {
-            matchesHtml = Object.entries(correctMatches).map(([left, right], i) =>
+            const letterAnswer = computeMatchLetterAnswer(leftItems, rightItems, correctMatches);
+            if (letterAnswer) {
+                matchesHtml += `<div style="font-weight: bold; margin-bottom: 10px;">Answer: ${letterAnswer}</div>`;
+            }
+            matchesHtml += Object.entries(correctMatches).map(([left, right], i) =>
                 `<div>${i + 1}. ${left} → ${right}</div>`
             ).join('');
         }
@@ -2770,6 +2938,62 @@ function goToNextQuestion() {
     }
 }
 
+// Render the question number navigation bar
+function renderQuestionNavBar(total, currentIndex) {
+    const RANGE_SIZE = 10;
+    const answered = state.questions.map(q => {
+        const a = state.userAnswers[q.id];
+        return a !== undefined && a !== '';
+    });
+
+    if (total <= 20) {
+        // Show all individual numbers
+        let nums = '';
+        for (let i = 0; i < total; i++) {
+            const cls = ['q-nav-num'];
+            if (i === currentIndex) cls.push('current');
+            if (answered[i]) cls.push('answered');
+            nums += `<button class="${cls.join(' ')}" onclick="goToQuestion(${i})">${i + 1}</button>`;
+        }
+        return `<div class="question-nav-bar"><div class="q-nav-expanded">${nums}</div></div>`;
+    }
+
+    // Grouped ranges for >20 questions
+    const rangeCount = Math.ceil(total / RANGE_SIZE);
+    const activeRange = state.expandedRange !== undefined ? state.expandedRange : Math.floor(currentIndex / RANGE_SIZE);
+
+    let rangeChips = '';
+    for (let r = 0; r < rangeCount; r++) {
+        const start = r * RANGE_SIZE + 1;
+        const end = Math.min((r + 1) * RANGE_SIZE, total);
+        const cls = r === activeRange ? 'q-nav-range active' : 'q-nav-range';
+        rangeChips += `<button class="${cls}" onclick="expandRange(${r})">${start}-${end}</button>`;
+    }
+
+    // Expanded individual numbers for active range
+    const rangeStart = activeRange * RANGE_SIZE;
+    const rangeEnd = Math.min(rangeStart + RANGE_SIZE, total);
+    let nums = '';
+    for (let i = rangeStart; i < rangeEnd; i++) {
+        const cls = ['q-nav-num'];
+        if (i === currentIndex) cls.push('current');
+        if (answered[i]) cls.push('answered');
+        nums += `<button class="${cls.join(' ')}" onclick="goToQuestion(${i})">${i + 1}</button>`;
+    }
+
+    return `
+        <div class="question-nav-bar">
+            <div class="q-nav-ranges">${rangeChips}</div>
+            <div class="q-nav-expanded">${nums}</div>
+        </div>
+    `;
+}
+
+function expandRange(rangeIndex) {
+    state.expandedRange = rangeIndex;
+    renderOneByOneQuiz();
+}
+
 function goToPreviousQuestion() {
     if (state.currentQuestionIndex > 0) {
         state.currentQuestionIndex--;
@@ -2890,7 +3114,7 @@ function renderQuestion(question, index) {
         if (question.diagram_image) {
             diagramHtml = `
                 <div class="question-diagram">
-                    <img src="${question.diagram_image}" alt="Diagram for question" class="diagram-image" onclick="openDiagramModal(this.src)">
+                    <img src="${question.diagram_image}" alt="Diagram for question" class="diagram-image${state.currentType && state.currentType.value === 'name_icons' ? ' bw-icon' : ''}" onclick="openDiagramModal(this.src)">
                     <span class="diagram-hint">Click to enlarge</span>
                 </div>
             `;
@@ -3420,10 +3644,29 @@ function renderTextAnswer(q) {
     `;
 }
 
+// Compute letter-format answer (e.g., "1-C, 2-B, 3-D, 4-E, 5-A") for match_the_following
+function computeMatchLetterAnswer(leftItems, rightItems, correctMatches) {
+    if (!leftItems.length || !rightItems.length || !Object.keys(correctMatches).length) return '';
+    const parts = [];
+    for (let i = 0; i < leftItems.length; i++) {
+        const left = leftItems[i];
+        const correctRight = correctMatches[left];
+        if (correctRight) {
+            const rightIndex = rightItems.indexOf(correctRight);
+            if (rightIndex >= 0) {
+                parts.push(`${i + 1}-${String.fromCharCode(65 + rightIndex)}`);
+            }
+        }
+    }
+    return parts.join(', ');
+}
+
 function renderMatchAnswer(q) {
     const pairs = q.pairs || [];
     const correctMatches = q.correct_matches || {};
     const answersString = q.answers || '';
+    const leftItems = q.left_items || [];
+    const rightItems = q.right_items || [];
 
     // Handle both formats: pairs array or correct_matches object
     let matchesHtml = '';
@@ -3433,7 +3676,12 @@ function renderMatchAnswer(q) {
         matchesHtml = `<div style="font-weight: bold; margin-bottom: 10px;">Answer: ${answerLetters}</div>`;
         matchesHtml += pairs.map((p, i) => `<div>${i + 1}. ${p.left} → ${p.right}</div>`).join('');
     } else if (Object.keys(correctMatches).length > 0) {
-        matchesHtml = Object.entries(correctMatches).map(([left, right], i) =>
+        // Compute letter-format answer (1-C, 2-B, etc.) from column mapping
+        const letterAnswer = computeMatchLetterAnswer(leftItems, rightItems, correctMatches);
+        if (letterAnswer) {
+            matchesHtml += `<div style="font-weight: bold; margin-bottom: 10px;">Answer: ${letterAnswer}</div>`;
+        }
+        matchesHtml += Object.entries(correctMatches).map(([left, right], i) =>
             `<div>${i + 1}. ${left} → ${right}</div>`
         ).join('');
     }
@@ -3611,5 +3859,6 @@ window.revealCurrentAnswer = revealCurrentAnswer;
 window.goToNextQuestion = goToNextQuestion;
 window.goToPreviousQuestion = goToPreviousQuestion;
 window.goToQuestion = goToQuestion;
+window.expandRange = expandRange;
 window.finishOneByOneQuiz = finishOneByOneQuiz;
 window.evaluateCurrentAnswer = evaluateCurrentAnswer;

@@ -1,0 +1,70 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "am_mtf001",
+      "column_a": ["First Battle of Panipat", "Battle of Khanua", "Battle of Chanderi", "Battle of Ghaghara", "Battle of Chausa"],
+      "column_b": ["1529", "1527", "1539", "1526", "1528"],
+      "correct_matches": {
+        "First Battle of Panipat": "1526",
+        "Battle of Khanua": "1527",
+        "Battle of Chanderi": "1528",
+        "Battle of Ghaghara": "1529",
+        "Battle of Chausa": "1539"
+      },
+      "source_section": "Major Battles"
+    },
+    {
+      "id": "am_mtf002",
+      "column_a": ["Babur", "Humayun", "Sher Shah", "Rana Sanga", "Ibrahim Lodi"],
+      "column_b": ["Last Lodi Sultan defeated at Panipat", "Founded the Sur dynasty", "Rajput king defeated at Khanua", "Re-established Mughal dynasty in 1555", "Founded the Mughal Empire"],
+      "correct_matches": {
+        "Babur": "Founded the Mughal Empire",
+        "Humayun": "Re-established Mughal dynasty in 1555",
+        "Sher Shah": "Founded the Sur dynasty",
+        "Rana Sanga": "Rajput king defeated at Khanua",
+        "Ibrahim Lodi": "Last Lodi Sultan defeated at Panipat"
+      },
+      "source_section": "Key Personalities"
+    },
+    {
+      "id": "am_mtf003",
+      "column_a": ["Tuzuk-i-Baburi", "Mubayyin", "Humayun Nama", "Dagh", "Patta"],
+      "column_b": ["Revenue record for peasants", "System of branding horses", "Babur's autobiography", "Book about royal family life", "Treatise on Muslim law"],
+      "correct_matches": {
+        "Tuzuk-i-Baburi": "Babur's autobiography",
+        "Mubayyin": "Treatise on Muslim law",
+        "Humayun Nama": "Book about royal family life",
+        "Dagh": "System of branding horses",
+        "Patta": "Revenue record for peasants"
+      },
+      "source_section": "Important Terms"
+    },
+    {
+      "id": "am_mtf004",
+      "column_a": ["Mohurs", "Dams", "Rupia", "Sarkars", "Parganas"],
+      "column_b": ["Subdivisions of sarkars", "Silver coins", "47 administrative units", "Gold coins weighing 169 grams", "Copper coins"],
+      "correct_matches": {
+        "Mohurs": "Gold coins weighing 169 grams",
+        "Dams": "Copper coins",
+        "Rupia": "Silver coins",
+        "Sarkars": "47 administrative units",
+        "Parganas": "Subdivisions of sarkars"
+      },
+      "source_section": "Sher Shah's Reforms"
+    },
+    {
+      "id": "am_mtf005",
+      "column_a": ["Kamran", "Askari", "Gulbadan Banu Begum", "Bahadur Shah", "Daulat Khan Lodi"],
+      "column_b": ["Governor of Punjab who invited Babur", "Wrote Humayun Nama", "Sultan of Gujarat hostile to Humayun", "Received Kabul and Kandahar", "Received Sambhal and Alwar"],
+      "correct_matches": {
+        "Kamran": "Received Kabul and Kandahar",
+        "Askari": "Received Sambhal and Alwar",
+        "Gulbadan Banu Begum": "Wrote Humayun Nama",
+        "Bahadur Shah": "Sultan of Gujarat hostile to Humayun",
+        "Daulat Khan Lodi": "Governor of Punjab who invited Babur"
+      },
+      "source_section": "Key Personalities"
+    }
+  ]
+}

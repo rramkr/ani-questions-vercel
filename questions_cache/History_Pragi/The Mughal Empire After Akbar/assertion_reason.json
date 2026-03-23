@@ -1,0 +1,109 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "ma_ar001",
+      "question": "Assertion (A): The execution of Guru Arjan Dev by Jahangir was an unwise political decision.\nReason (R): It sowed the seeds of a long drawn struggle between the Mughals and the Sikhs.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "A) Both A and R are correct, and R is the correct explanation of A",
+      "explanation": "The execution of Guru Arjan Dev was indeed unwise because it directly led to the long Mughal-Sikh conflict. This enmity continued through Aurangzeb's reign, with the execution of Guru Tegh Bahadur and the fierce conflicts with Guru Gobind Singh's Khalsa.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_ar002",
+      "question": "Assertion (A): Nur Jahan wielded great power during Jahangir's reign.\nReason (R): She was an expert in military strategy and led several campaigns.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "C) A is correct, but R is wrong",
+      "explanation": "Nur Jahan did wield great power - she presided over the court, issued orders, and had coins minted in her name. However, the reason is wrong. She did not lead military campaigns. Her power came from Jahangir's addiction to opium and alcohol which kept him absent from court, allowing her to assert authority in matters of state.",
+      "source_section": "Role of Nur Jahan"
+    },
+    {
+      "id": "ma_ar003",
+      "question": "Assertion (A): Shah Jahan is called the 'Prince among Builders'.\nReason (R): He used the pietra dura technique, replaced red stone with white marble, and built monuments like the Taj Mahal, Red Fort, and Jama Masjid.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "A) Both A and R are correct, and R is the correct explanation of A",
+      "explanation": "Shah Jahan earned the title 'Prince among Builders' precisely because of his revolutionary architectural contributions - using white marble, the pietra dura technique, and building masterpieces like the Taj Mahal, Red Fort, and Jama Masjid.",
+      "source_section": "Cultural Developments - Architecture"
+    },
+    {
+      "id": "ma_ar004",
+      "question": "Assertion (A): Aurangzeb reimposed the jizya tax on Hindus.\nReason (R): Aurangzeb aimed to establish Sunni religion throughout India.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "A) Both A and R are correct, and R is the correct explanation of A",
+      "explanation": "Both statements are true and directly connected. Aurangzeb's aim to establish Sunni religion throughout India was the driving force behind his reimposition of the jizya tax on Hindus, along with other discriminatory measures like banning festivals and destroying temples.",
+      "source_section": "Aurangzeb as a Ruler"
+    },
+    {
+      "id": "ma_ar005",
+      "question": "Assertion (A): Shivaji signed the Treaty of Purandhar in 1665.\nReason (R): Shivaji voluntarily offered to surrender his forts to the Mughals as a gesture of goodwill.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "C) A is correct, but R is wrong",
+      "explanation": "Shivaji did sign the Treaty of Purandhar in 1665, but not voluntarily. He was forced to sign it after Aurangzeb sent Raja Jai Singh to besiege the fort of Purandhar, leaving Shivaji with no choice. He had to surrender 23 of his 35 forts under duress.",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    },
+    {
+      "id": "ma_ar006",
+      "question": "Assertion (A): The Mughal Empire declined after the death of Aurangzeb in 1707.\nReason (R): Aurangzeb's successors were incapable and weak rulers who could not hold the vast empire together.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "B) Both A and R are correct, but R is not the correct explanation of A",
+      "explanation": "Both statements are true, but weak successors were only one of many reasons for the decline. Other major factors included Aurangzeb's own policies, corrupt nobility, military weaknesses, falling economy, wars of succession, the rise of the Marathas, and the growing power of the British East India Company.",
+      "source_section": "Reasons for Decline"
+    },
+    {
+      "id": "ma_ar007",
+      "question": "Assertion (A): Jahangir failed to conquer Ahmadnagar despite multiple military expeditions.\nReason (R): The Abyssinian Prime Minister Malik Ambar successfully resisted the Mughal forces.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "A) Both A and R are correct, and R is the correct explanation of A",
+      "explanation": "Jahangir sent multiple expeditions against Ahmadnagar from 1608 onwards, but Malik Ambar, the capable Abyssinian Prime Minister, kept reasserting Ahmadnagar's independence. Despite enormous expenses and loss of thousands of lives, Ahmadnagar remained outside Mughal control.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_ar008",
+      "question": "Assertion (A): Under Aurangzeb, painting in the Mughal Empire declined.\nReason (R): Aurangzeb banned music and dance but actively encouraged painting.",
+      "options": [
+        "A) Both A and R are correct, and R is the correct explanation of A",
+        "B) Both A and R are correct, but R is not the correct explanation of A",
+        "C) A is correct, but R is wrong",
+        "D) A is wrong, but R is correct"
+      ],
+      "correct_answer": "C) A is correct, but R is wrong",
+      "explanation": "It is true that painting declined under Aurangzeb. However, the reason is wrong - Aurangzeb did not encourage painting. He withdrew patronage from arts, which caused painters to migrate to regional kingdoms. His orthodox policies extended to discouraging all forms of artistic expression.",
+      "source_section": "Cultural Developments - Painting"
+    }
+  ]
+}

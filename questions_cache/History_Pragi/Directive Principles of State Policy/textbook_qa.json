@@ -1,0 +1,234 @@
+{
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "dp_tqa001",
+      "exercise": "I - Knowledge Based - Choose the correct answer",
+      "question": "Equal wages for both men and women is a:\n(a) Directive Principle\n(b) Fundamental Right",
+      "answer": "Directive Principle",
+      "question_type": "mcq_textbook",
+      "options": ["Directive Principle", "Fundamental Right"]
+    },
+    {
+      "id": "dp_tqa002",
+      "exercise": "I - Knowledge Based - Choose the correct answer",
+      "question": "Directive Principles of State Policy are:\n(a) justiciable\n(b) non-justiciable",
+      "answer": "non-justiciable",
+      "question_type": "mcq_textbook",
+      "options": ["justiciable", "non-justiciable"]
+    },
+    {
+      "id": "dp_tqa003",
+      "exercise": "I - Knowledge Based - Choose the correct answer",
+      "question": "________ are guidelines for central and state governments of India.\n(a) Directive Principles of State Policy\n(b) Fundamental Rights",
+      "answer": "Directive Principles of State Policy",
+      "question_type": "mcq_textbook",
+      "options": ["Directive Principles of State Policy", "Fundamental Rights"]
+    },
+    {
+      "id": "dp_tqa004",
+      "exercise": "I - Knowledge Based - Choose the correct answer",
+      "question": "State shall try to promote ________ industries in rural areas.\n(a) large-scale\n(b) cottage",
+      "answer": "cottage",
+      "question_type": "mcq_textbook",
+      "options": ["large-scale", "cottage"]
+    },
+    {
+      "id": "dp_tqa005",
+      "exercise": "I - Knowledge Based - Choose the correct answer",
+      "question": "A welfare state is based on the principles of:\n(a) equality\n(b) inequality",
+      "answer": "equality",
+      "question_type": "mcq_textbook",
+      "options": ["equality", "inequality"]
+    },
+    {
+      "id": "dp_tqa006",
+      "exercise": "II - Fill in the blanks",
+      "question": "Directive Principles cannot be enforced in a ________ of law.",
+      "answer": "Directive Principles cannot be enforced in a court of law.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "dp_tqa007",
+      "exercise": "II - Fill in the blanks",
+      "question": "Primary education has been made compulsory for children up to the age of ________ years.",
+      "answer": "Primary education has been made compulsory for children up to the age of 14 years.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "dp_tqa008",
+      "exercise": "II - Fill in the blanks",
+      "question": "The Fundamental Rights are ________ in the court of law.",
+      "answer": "The Fundamental Rights are enforceable in the court of law.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "dp_tqa009",
+      "exercise": "II - Fill in the blanks",
+      "question": "The state shall aim at establishing a uniform ________ for all citizens in the country.",
+      "answer": "The state shall aim at establishing a uniform civil code for all citizens in the country.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "dp_tqa010",
+      "exercise": "II - Fill in the blanks",
+      "question": "Directive Principles of State Policy are adopted from constitution of ________.",
+      "answer": "Directive Principles of State Policy are adopted from constitution of Ireland.",
+      "question_type": "fill_in_blanks"
+    },
+    {
+      "id": "dp_tqa011",
+      "exercise": "III - Remembering Based",
+      "question": "Mention the categories into which the Directive Principles can be classified.",
+      "answer": "The Directive Principles of State Policy can be classified into three categories: (1) Principles promoting social and economic equality, (2) Principles related to Gandhian philosophy, and (3) General Principles.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa012",
+      "exercise": "III - Remembering Based",
+      "question": "What were the main problems when India attained Independence?",
+      "answer": "When India attained independence, it faced innumerable problems and challenges. These included widespread poverty, illiteracy, ignorance and inequality. Vulnerable sections of society such as women and children were deprived of even the basic means of living.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa013",
+      "exercise": "III - Remembering Based",
+      "question": "Name two Central Government sponsored schemes to bring social and economic stability.",
+      "answer": "Two Central Government sponsored schemes are: (1) Pradhan Mantri Gram Swasthya Yojana (PMGSY) and (2) National Rural Health Mission (NRHM). These schemes aim to improve health and living standards across the country.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa014",
+      "exercise": "IV - Understanding Based - True/False",
+      "question": "Fundamental Rights guarantee political democracy.",
+      "answer": "True. Fundamental Rights guarantee political democracy by ensuring basic rights like the right to equality, freedom, and constitutional remedies to all citizens.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "dp_tqa015",
+      "exercise": "IV - Understanding Based - True/False",
+      "question": "The state shall not take steps to promote agriculture.",
+      "answer": "False. According to Gandhian Directive Principles, the state shall take steps to improve the quality of livestock and promote agriculture.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "dp_tqa016",
+      "exercise": "IV - Understanding Based - True/False",
+      "question": "Fundamental Rights are protected by the Supreme Court and High Courts.",
+      "answer": "True. Fundamental Rights are justiciable and are protected and enforceable by the Supreme Court and High Courts.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "dp_tqa017",
+      "exercise": "IV - Understanding Based - True/False",
+      "question": "The state shall promote the educational and economic interests of the weaker sections of the society.",
+      "answer": "True. Under Gandhian Principles, the state shall promote the educational and economic interests of the weaker sections, especially Scheduled Castes and Scheduled Tribes.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "dp_tqa018",
+      "exercise": "IV - Understanding Based - True/False",
+      "question": "The Directive Principles come after the Fundamental Rights.",
+      "answer": "False. While in terms of Part numbers, Directive Principles (Part IV) come after Fundamental Rights (Part III) in the Constitution, this statement is contextually tricky. However, the textbook marks this as False.",
+      "question_type": "true_false"
+    },
+    {
+      "id": "dp_tqa019",
+      "exercise": "V - Define",
+      "question": "Define: Welfare state.",
+      "answer": "A welfare state is one in which the government plays a key role in protecting and promoting the economic and social well-being of its citizens. It is based on principles of equality of opportunity and equal distribution of wealth. Under this system, the welfare of citizens is the responsibility of the state.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa020",
+      "exercise": "V - Define",
+      "question": "Define: Non-justiciable.",
+      "answer": "Non-justiciable means not enforceable by any court of law. The Directive Principles of State Policy are non-justiciable, meaning that if the government does not implement them, citizens cannot go to court to get them enforced. They are guidelines for the government, not legal rights.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa021",
+      "exercise": "VI - Answer in brief",
+      "question": "What are the features of a welfare state?",
+      "answer": "The features of a welfare state are: (1) It regards all individuals on equal footing irrespective of social and economic status. (2) It takes responsibility of the well-being of all citizens. (3) It takes steps to abolish illiteracy, poverty and unemployment. (4) It establishes schools, hospitals and other institutions. (5) It provides jobs, maternity benefit, old-age pension and other social benefits. (6) It is based on the principle of equality and opportunity for all.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa022",
+      "exercise": "VI - Answer in brief",
+      "question": "What are the basic principles of Gandhian thought?",
+      "answer": "The basic principles of Gandhian thought are Swaraj (self-rule), Sarvodaya (welfare for all) and Swavlamban (self-reliance). Gandhi laid stress on rebuilding villages and promoting cottage industries. These principles were incorporated into the Directive Principles during the framing of the Constitution.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa023",
+      "exercise": "VI - Answer in brief",
+      "question": "List any two Gandhian Principles incorporated as Directive Principles.",
+      "answer": "Two Gandhian Principles incorporated as Directive Principles are: (1) Village Panchayats shall be given powers for self-government. (2) The state shall make efforts to prevent consumption of alcoholic drinks and other harmful drugs.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa024",
+      "exercise": "VI - Answer in brief",
+      "question": "Mention any three Directive Principles Promoting Social and Economic Equality.",
+      "answer": "Three Directive Principles promoting social and economic equality are: (1) Equal pay for equal work for both men and women. (2) The state should take steps to impart compulsory and free education to children up to the age of 14 years. (3) The state should ensure adequate means of livelihood for its people.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa025",
+      "exercise": "VI - Answer in brief",
+      "question": "List any three General Directive Principles of State Policy.",
+      "answer": "Three General Directive Principles are: (1) The state shall take steps for maintenance and protection of historical monuments and places of national importance. (2) The state shall aim at establishing a uniform civil code for all citizens. (3) The state shall promote international peace and security, and maintain just and honest relations with other nations.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa026",
+      "exercise": "VII - Answer in detail",
+      "question": "What are Directive Principles of State Policy?",
+      "answer": "Directive Principles of State Policy are stated in Articles 36 to 51, in Part IV of our Constitution. They are guidelines for the Central and State governments of India. They are non-justiciable, which means they are not enforceable by any court of law. However, they are considered fundamental in the governance of the country. It is the duty of the Central and State governments to apply these principles in making laws for legal, economic and social justice for every individual. The Directive Principles were inspired by the Directive Principles stated in the Constitution of Ireland and the principles of Gandhian philosophy. Their main aim is to create healthy social and economic conditions for all citizens so they can lead a good life. The judiciary must also keep them in mind while deciding cases.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "dp_tqa027",
+      "exercise": "VII - Answer in detail",
+      "question": "Explain the three important differences between Directive Principles and Fundamental Rights.",
+      "answer": "There are three important differences between Directive Principles and Fundamental Rights:\n\n(1) Enforceability: Directive Principles are non-justiciable and cannot be enforced in any court of law. Fundamental Rights are justiciable and enforceable in the courts.\n\n(2) Nature: Directive Principles are only instructions or directions for the state to frame policies. Fundamental Rights are ensured by the Constitution, and the state is bound to protect the rights of all citizens.\n\n(3) Purpose: Directive Principles help in protecting human rights and ensure social and economic democracy. Fundamental Rights are natural rights that help in strengthening political democracy.\n\nHowever, both cannot be ignored. They aim at the same thing and are not contradictory but complementary. Fundamental Rights guarantee political democracy while Directive Principles establish social and economic democracy.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "dp_tqa028",
+      "exercise": "VII - Answer in detail",
+      "question": "What has been the impact of Directive Principles since Independence?",
+      "answer": "The Directive Principles have had a significant impact since Independence. Many improvements have been made:\n\n(1) Some seats have been reserved for Scheduled Castes, Scheduled Tribes and OBCs. (2) To promote cottage industries (Article 43), the government established boards like Village Industries Board, All India Handicraft Board, Silk Board and Coir Board. (3) Primary education has been made compulsory for all children up to the age of 14. (4) Untouchability has been made a punishable offence. (5) The Zamindari system was abolished and surplus land of landlords was distributed among the landless poor. (6) The government launched development programmes like Community Development Programme (1952), Integrated Rural Development Programme (1978-79), and Mahatma Gandhi Rural Employment Guarantee Act (2006) to raise the standard of living. (7) Various programmes for health and nutritional support were introduced for women and children, including maternity relief and mid-day meal for school children. (8) Central Government sponsored schemes like Pradhan Mantri Gram Swasthya Yojana and National Rural Health Mission were introduced.",
+      "question_type": "long_answer"
+    },
+    {
+      "id": "dp_tqa029",
+      "exercise": "Application",
+      "question": "Which part of the Indian Constitution deals with Directive Principles of State Policy?",
+      "answer": "Part IV of the Indian Constitution deals with Directive Principles of State Policy. They are stated in Articles 36 to 51.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa030",
+      "exercise": "Analysis Based",
+      "question": "Identify the picture showing children going to school. Where are these children going? What is Sarva Shiksha Abhiyan? Up to which age has primary education been made compulsory?",
+      "answer": "(a) The picture shows children going to school. (b) These children are going to school. (c) Sarva Shiksha Abhiyan is a Government initiative for universal education that aims to provide free and compulsory education to all children between the ages of 6 and 14 years. (d) Primary education has been made compulsory up to the age of 14 years.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa031",
+      "exercise": "HOTS",
+      "question": "Who described Directive Principles of State Policy as a 'novel feature' of our Constitution?",
+      "answer": "Dr B.R. Ambedkar described Directive Principles of State Policy as a 'novel feature' of our Constitution. He considered them to be unique and important guidelines for the governance of the country.",
+      "question_type": "short_answer"
+    },
+    {
+      "id": "dp_tqa032",
+      "exercise": "HOTS",
+      "question": "What are the recent developments in favour of Directive Principles?",
+      "answer": "Recent developments in favour of Directive Principles include the implementation of various government schemes and programmes. The Right to Education Act (2009) made education a fundamental right for children aged 6 to 14, fulfilling the Directive Principle of free and compulsory education. The Mahatma Gandhi Rural Employment Guarantee Act (2006) provides guaranteed employment in rural areas. The government has also launched health schemes like National Rural Health Mission and Pradhan Mantri Gram Swasthya Yojana to improve healthcare. The 42nd Amendment added the protection of environment and safeguarding of forests and wildlife as a Directive Principle.",
+      "question_type": "short_answer"
+    }
+  ]
+}

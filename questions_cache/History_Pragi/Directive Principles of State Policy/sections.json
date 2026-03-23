@@ -1,0 +1,29 @@
+{
+  "subject": "History_Pragi",
+  "chapter": "Directive Principles of State Policy",
+  "sections": {
+    "textbook": [
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "\ud83d\udcd6"}
+    ],
+    "exam": [
+      {"value": "mcq", "label": "Multiple Choice", "icon": "\ud83d\udd18"},
+      {"value": "fill_in_blanks", "label": "Fill in the Blanks", "icon": "\u270f\ufe0f"},
+      {"value": "true_false", "label": "True or False", "icon": "\u2713\u2717"},
+      {"value": "match_the_following", "label": "Match the Following", "icon": "\ud83d\udd17"},
+      {"value": "short_answer", "label": "Short Answer", "icon": "\ud83d\udcdd"},
+      {"value": "long_answer", "label": "Long Answer", "icon": "\ud83d\udcc4"}
+    ],
+    "miscellaneous": [
+      {"value": "name_the_following", "label": "Name the Following", "icon": "\ud83c\udff7\ufe0f"},
+      {"value": "assertion_reason", "label": "Assertion & Reason", "icon": "\u2696\ufe0f"},
+      {"value": "give_reason", "label": "Give Reason", "icon": "\ud83d\udca1"},
+      {"value": "hots", "label": "Higher Order Thinking", "icon": "\ud83e\udde0"},
+      {"value": "tricky_questions", "label": "Tricky Questions", "icon": "\ud83c\udfaf"}
+    ]
+  },
+  "section_labels": {
+    "textbook": "Textbook Questions",
+    "exam": "Practice Questions for Exam",
+    "miscellaneous": "Miscellaneous"
+  }
+}

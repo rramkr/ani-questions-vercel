@@ -1,0 +1,11 @@
+{
+  "subject": "8C English Literature",
+  "chapters": [
+    {
+      "name": "His First Flight",
+      "slug": "His First Flight",
+      "has_questions": true,
+      "icon": "🕊️"
+    }
+  ]
+}

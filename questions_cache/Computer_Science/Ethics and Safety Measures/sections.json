@@ -18,6 +18,8 @@
       {"value": "short_answer", "label": "Short Answer (XI)", "icon": "📝"}
     ],
     "miscellaneous": [
+      {"value": "application_questions", "label": "Application Questions", "icon": "💡"},
+      {"value": "jumbled_words", "label": "Jumbled Words", "icon": "🔤"},
       {"value": "name_the_following", "label": "Name the Following", "icon": "🏷️"},
       {"value": "differentiate_between", "label": "Differentiate Between", "icon": "↔️"},
       {"value": "tricky_questions", "label": "Tricky Questions", "icon": "🎯"}

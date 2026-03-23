@@ -1,0 +1,365 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "am_trk001",
+      "type": "mcq",
+      "question": "Babur descended from Genghis Khan on his:",
+      "options": ["A. Father's side", "B. Mother's side", "C. Both sides", "D. Neither side"],
+      "correct_answer": "B. Mother's side",
+      "explanation": "Babur descended from Genghis Khan from his mother's side and from Timur from his father's side.",
+      "trick": "Students often mix up which lineage came from which side. Remember: Mother = Mongol (Genghis Khan), Father = Timur. The 'M' in Mother matches the 'M' in Mongol."
+    },
+    {
+      "id": "am_trk002",
+      "type": "mcq",
+      "question": "Babur ascended the throne of Farghana at the age of:",
+      "options": ["A. Nine", "B. Eleven", "C. Thirteen", "D. Fifteen"],
+      "correct_answer": "B. Eleven",
+      "explanation": "Babur ascended the throne of Farghana in 1494 at the age of eleven after the death of his father.",
+      "trick": "Students might confuse this with other young rulers' ages. Remember: Babur became ruler at 11 (ELEVEn = starts with same vowel as 'E' in Empire)."
+    },
+    {
+      "id": "am_trk003",
+      "type": "mcq",
+      "question": "Who ACTUALLY captured Samarkand first but then lost it?",
+      "options": ["A. Timur", "B. Genghis Khan", "C. Babur", "D. Humayun"],
+      "correct_answer": "C. Babur",
+      "explanation": "Babur captured Samarkand during his early years in Central Asia but soon lost it. He also lost Farghana to the Uzbegs.",
+      "trick": "Students associate Samarkand with Timur (who ruled it) and might not know that Babur also captured it briefly. Babur's early career was full of gains and losses before he turned to India."
+    },
+    {
+      "id": "am_trk004",
+      "type": "mcq",
+      "question": "Who lost Farghana to the Uzbegs?",
+      "options": ["A. Timur", "B. Babur", "C. Humayun", "D. Sher Shah"],
+      "correct_answer": "B. Babur",
+      "explanation": "Babur lost Farghana to the Uzbegs during his early years in Central Asia. His situation was not stable and he faced resistance from the nobility.",
+      "trick": "Students often only know about Babur's victories in India and forget that his early years in Central Asia were marked by losses, including losing his own kingdom of Farghana."
+    },
+    {
+      "id": "am_trk005",
+      "type": "mcq",
+      "question": "Daulat Khan Lodi invited Babur to India expecting that Babur would:",
+      "options": ["A. Establish a permanent empire in India", "B. Defeat Ibrahim Lodi and then leave India", "C. Help Ibrahim Lodi fight the Rajputs", "D. Become the new Sultan of Delhi"],
+      "correct_answer": "B. Defeat Ibrahim Lodi and then leave India",
+      "explanation": "Both Daulat Khan Lodi and Rana Sanga invited Babur thinking he would defeat Ibrahim Lodi and return to Central Asia. They did not expect him to stay.",
+      "trick": "Students might think the inviters wanted Babur to rule India. In reality, they expected him to leave after removing Ibrahim Lodi, like a hired mercenary."
+    },
+    {
+      "id": "am_trk006",
+      "type": "mcq",
+      "question": "Which of these was NOT a reason for Babur's success at Panipat?",
+      "options": ["A. Superior army organisation", "B. Use of artillery and cannons", "C. Having more soldiers than Ibrahim Lodi", "D. Rumi (Ottoman) method of warfare"],
+      "correct_answer": "C. Having more soldiers than Ibrahim Lodi",
+      "explanation": "Babur's soldiers were actually LESS in number than Ibrahim Lodi's. His success was due to superior organisation, Rumi method, and artillery — not numerical superiority.",
+      "trick": "Students assume the winner must have had more soldiers. Babur won DESPITE having fewer soldiers, which is what made his victory such a great achievement of military tactics."
+    },
+    {
+      "id": "am_trk007",
+      "type": "mcq",
+      "question": "After the Battle of Panipat, who wanted to return to Central Asia?",
+      "options": ["A. Babur himself", "B. Babur's nobles", "C. Ibrahim Lodi's surviving generals", "D. Rana Sanga's forces"],
+      "correct_answer": "B. Babur's nobles",
+      "explanation": "After Panipat, Babur's own nobles wanted to return to Central Asia because they did not like the Indian climate and felt culturally alienated. Babur had to convince them to stay.",
+      "trick": "Students might think Babur wanted to leave, or that it was the defeated enemy who fled. It was actually Babur's own victorious nobles who wanted to go back!"
+    },
+    {
+      "id": "am_trk008",
+      "type": "mcq",
+      "question": "Rana Sanga expected Babur to:",
+      "options": ["A. Stay in India permanently", "B. Return to Kabul after Panipat", "C. Form an alliance with him", "D. Attack Gujarat next"],
+      "correct_answer": "B. Return to Kabul after Panipat",
+      "explanation": "Rana Sanga, like Daulat Khan Lodi, expected Babur to return to Kabul after defeating Ibrahim Lodi. Babur's decision to stay gave him a big jolt.",
+      "trick": "Students forget that Rana Sanga initially INVITED Babur and expected him to leave. When Babur stayed, Rana Sanga realized he had to fight the very person he had invited."
+    },
+    {
+      "id": "am_trk009",
+      "type": "mcq",
+      "question": "Mahmud Lodi, who fought alongside Rana Sanga at Khanua, was the:",
+      "options": ["A. Son of Ibrahim Lodi", "B. Younger son of Sikandar Lodi", "C. Brother of Daulat Khan Lodi", "D. General of the Afghan army"],
+      "correct_answer": "B. Younger son of Sikandar Lodi",
+      "explanation": "Mahmud Lodi, the younger son of Sikandar Lodi, joined Rana Sanga's coalition against Babur at Khanua. This shows the unusual alliance between Rajputs and Afghans against the Mughals.",
+      "trick": "Students might think Mahmud Lodi was a son of Ibrahim Lodi (who was killed at Panipat). He was actually the younger son of Sikandar Lodi, making him Ibrahim Lodi's brother."
+    },
+    {
+      "id": "am_trk010",
+      "type": "mcq",
+      "question": "Khanua, where Babur defeated Rana Sanga, was a village near:",
+      "options": ["A. Delhi", "B. Panipat", "C. Agra", "D. Jaipur"],
+      "correct_answer": "C. Agra",
+      "explanation": "Khanua was a village near Agra, not near Delhi or Panipat.",
+      "trick": "Students often confuse the locations of battles. Panipat is near Delhi, but Khanua is near Agra. The battles moved southward as Babur expanded."
+    },
+    {
+      "id": "am_trk011",
+      "type": "mcq",
+      "question": "After the Battle of Khanua, Babur gained control over:",
+      "options": ["A. Eastern India", "B. Central India", "C. Southern India", "D. All of India"],
+      "correct_answer": "B. Central India",
+      "explanation": "The defeat of Rana Sanga at Khanua gave Babur complete control over Central India, not all of India.",
+      "trick": "Students might think winning a major battle gave Babur control over all of India. He still had to fight at Chanderi and Ghaghara, and rulers of Gujarat, Malwa, and Bengal remained independent."
+    },
+    {
+      "id": "am_trk012",
+      "type": "mcq",
+      "question": "The Battle of Chanderi (1528) was fought against the Rajputs of:",
+      "options": ["A. Mewar", "B. Amber", "C. Malwa", "D. Marwar"],
+      "correct_answer": "C. Malwa",
+      "explanation": "The Battle of Chanderi (1528) was fought against Medini Rai and the Mewar Rajputs who were threatening from Malwa.",
+      "trick": "Students might think Chanderi was in Mewar or confuse it with Khanua (which was the main Rajput battle). Chanderi was specifically about Malwa and Medini Rai."
+    },
+    {
+      "id": "am_trk013",
+      "type": "mcq",
+      "question": "Babur's autobiography Baburnama was written in which language?",
+      "options": ["A. Arabic", "B. Persian", "C. Turki", "D. Hindi"],
+      "correct_answer": "C. Turki",
+      "explanation": "Babur had great command over the Turki language, and his autobiography Tuzuk-i-Baburi (Baburnama) was written in Turki. He was also well versed in Arabic and Persian, and composed poems in Persian.",
+      "trick": "Since Babur was a Muslim ruler and Persian was the court language, students assume the Baburnama was in Persian. But it was in Turki — Babur's mother tongue from Central Asia."
+    },
+    {
+      "id": "am_trk014",
+      "type": "mcq",
+      "question": "The Mubayyin written by Babur was a:",
+      "options": ["A. History of the Mughal Empire", "B. Collection of poems", "C. Treatise on Muslim law", "D. Description of Indian wildlife"],
+      "correct_answer": "C. Treatise on Muslim law",
+      "explanation": "The Mubayyin was a collection of mansavis written by Babur that served as a treatise on Muslim law. His autobiography was the Baburnama.",
+      "trick": "Students often confuse the Mubayyin with the Baburnama. The Baburnama was the autobiography; the Mubayyin was about Muslim law. They are two completely different works."
+    },
+    {
+      "id": "am_trk015",
+      "type": "mcq",
+      "question": "Babur died in which year?",
+      "options": ["A. 1526", "B. 1528", "C. 1530", "D. 1532"],
+      "correct_answer": "C. 1530",
+      "explanation": "Babur died in 1530. He ruled India for only about 4 years (1526-1530).",
+      "trick": "Students might confuse the year of Babur's death (1530) with the year of Panipat (1526). Remember: Babur ruled India for only about 4 years."
+    },
+    {
+      "id": "am_trk016",
+      "type": "mcq",
+      "question": "Humayun's brother who received Kabul and Kandahar was:",
+      "options": ["A. Hindal", "B. Askari", "C. Kamran", "D. Mirza Hakim"],
+      "correct_answer": "C. Kamran",
+      "explanation": "Kamran received Kabul and Kandahar, while Askari received Sambhal and Alwar. All three brothers were dissatisfied and wanted the throne of Delhi.",
+      "trick": "Students confuse which brother got what. Remember: Kamran = Kabul/Kandahar (both start with K!). Askari = Alwar (both start with A!)."
+    },
+    {
+      "id": "am_trk017",
+      "type": "mcq",
+      "question": "Who was Bahadur Shah in the context of Humayun's reign?",
+      "options": ["A. The last Mughal emperor", "B. Ruler of Gujarat hostile to Humayun", "C. An Afghan general", "D. Humayun's brother"],
+      "correct_answer": "B. Ruler of Gujarat hostile to Humayun",
+      "explanation": "Bahadur Shah was the ruler of Gujarat who was hostile to Humayun. He occupied Bhilsa, Raisen, Ujjain, and Gagron, expanding towards Malwa and Rajputana.",
+      "trick": "Students often confuse this Bahadur Shah with the last Mughal emperor Bahadur Shah Zafar (who lived 300+ years later). This Bahadur Shah was from Gujarat."
+    },
+    {
+      "id": "am_trk018",
+      "type": "mcq",
+      "question": "In the Battle of Chausa (1539), what happened to Humayun?",
+      "options": ["A. He won decisively", "B. He was killed", "C. He barely escaped after defeat", "D. He captured Sher Shah"],
+      "correct_answer": "C. He barely escaped after defeat",
+      "explanation": "In the Battle of Chausa (1539), Sher Shah defeated the Mughal army and Humayun escaped from there, barely saving his life.",
+      "trick": "Students might think Humayun died at Chausa since he lost. He actually escaped and fought again at Kannauj (1540), where he lost again and became an exile."
+    },
+    {
+      "id": "am_trk019",
+      "type": "mcq",
+      "question": "The Battle of Kannauj (1540) was fought between Humayun and:",
+      "options": ["A. Babur's other sons", "B. Rana Sanga", "C. Ibrahim Lodi", "D. Sher Shah Suri"],
+      "correct_answer": "D. Sher Shah Suri",
+      "explanation": "The Battle of Kannauj (1540) was fought between Humayun and Sher Shah Suri. A common mistake in the textbook's Assess Yourself section tests whether students know this was NOT between Humayun and his brothers.",
+      "trick": "The textbook specifically tests this as a True/False question. Students sometimes confuse it with Humayun's conflicts with his brothers, but Kannauj was against Sher Shah."
+    },
+    {
+      "id": "am_trk020",
+      "type": "mcq",
+      "question": "For how many years was Humayun in exile after losing to Sher Shah?",
+      "options": ["A. Five years", "B. Ten years", "C. Fifteen years", "D. Twenty years"],
+      "correct_answer": "C. Fifteen years",
+      "explanation": "After losing the Battle of Kannauj in 1540, Humayun became an exile for the next fifteen years until he recaptured his empire in 1555.",
+      "trick": "Students might confuse this with the ten years that Sher Shah's weak successors ruled (after his death in 1545). Humayun's exile was fifteen years (1540-1555)."
+    },
+    {
+      "id": "am_trk021",
+      "type": "mcq",
+      "question": "Humayun recaptured his empire with the help of the ruler of:",
+      "options": ["A. Turkey", "B. Afghanistan", "C. Persia", "D. Arabia"],
+      "correct_answer": "C. Persia",
+      "explanation": "Humayun received help from the ruler of Persia, which enabled him to first capture Kabul and Kandahar, and then invade India again to recapture his throne in 1555.",
+      "trick": "Students might think Humayun got help from Kabul/Afghanistan. He actually got Persian help first, then used that to capture Kabul and Kandahar as stepping stones back to India."
+    },
+    {
+      "id": "am_trk022",
+      "type": "mcq",
+      "question": "How did Humayun die?",
+      "options": ["A. In battle against the Afghans", "B. Poisoned by his brothers", "C. Fall from the staircase of his library", "D. Old age and illness"],
+      "correct_answer": "C. Fall from the staircase of his library",
+      "explanation": "Humayun died in 1556 due to a fall from the staircase of his library, just six months after re-establishing the Mughal dynasty in 1555.",
+      "trick": "This is an unusual cause of death for a ruler. Students might expect he died in battle. The fact that he died in his LIBRARY shows his scholarly nature — he loved painting and poetry."
+    },
+    {
+      "id": "am_trk023",
+      "type": "mcq",
+      "question": "The Humayun Nama was written by:",
+      "options": ["A. Humayun himself", "B. Babur", "C. Gulbadan Banu Begum", "D. Abul Fazl"],
+      "correct_answer": "C. Gulbadan Banu Begum",
+      "explanation": "Gulbadan Banu Begum, Humayun's sister, authored the Humayun Nama about the everyday life of the royal family, women, the emperor's travels, and a rare pilgrimage to Mecca.",
+      "trick": "Students assume the 'Humayun Nama' was written BY Humayun, just as the Baburnama was BY Babur. But it was written by his sister Gulbadan Banu Begum."
+    },
+    {
+      "id": "am_trk024",
+      "type": "mcq",
+      "question": "Sher Shah's father Hasan Khan Sur held a jagir in:",
+      "options": ["A. Punjab", "B. Delhi", "C. Sasaram in Bihar", "D. Bengal"],
+      "correct_answer": "C. Sasaram in Bihar",
+      "explanation": "Sher Shah's father Hasan Khan Sur held a jagir of Sasaram in Bihar during Lodi rule. Sher Shah's tomb is also in Sasaram, Bihar.",
+      "trick": "Students might confuse Sasaram with other places. Remember: Sher Shah started from Sasaram (Bihar), and his tomb is also there — his story begins and ends at the same place."
+    },
+    {
+      "id": "am_trk025",
+      "type": "mcq",
+      "question": "Sher Shah established Afghan rule again in India in:",
+      "options": ["A. 1539", "B. 1540", "C. 1545", "D. 1555"],
+      "correct_answer": "B. 1540",
+      "explanation": "Sher Shah established Afghan rule again in India in 1540 after defeating Humayun at Kannauj. The textbook specifically tests this — 1545 is when he DIED, not when he established power.",
+      "trick": "The textbook has a True/False question saying 1545, which is FALSE. 1540 was when Sher Shah took power (Battle of Kannauj). 1545 was when he died at Kalinjar."
+    },
+    {
+      "id": "am_trk026",
+      "type": "mcq",
+      "question": "The period of Sher Shah and his successors' rule is known as the:",
+      "options": ["A. First Afghan Empire", "B. Second Afghan Empire", "C. Sur Sultanate", "D. Lodi Revival"],
+      "correct_answer": "B. Second Afghan Empire",
+      "explanation": "The period of Sher Shah and his successors is known as the period of the second Afghan Empire. The first Afghan kingdom was under the Lodis.",
+      "trick": "Students might forget that the Lodi dynasty was also Afghan. Sher Shah's rule represents the SECOND time Afghans ruled India — the first was under the Lodis (1451-1526)."
+    },
+    {
+      "id": "am_trk027",
+      "type": "mcq",
+      "question": "Sher Shah died while besieging the fort of Kalinjar due to:",
+      "options": ["A. A sword wound in battle", "B. An accidental blast of gun powder", "C. Poisoning by enemies", "D. A fall from his horse"],
+      "correct_answer": "B. An accidental blast of gun powder",
+      "explanation": "Sher Shah died in 1545 while besieging the fort of Kalinjar in an accidental blast of gun powder. It was not in direct combat.",
+      "trick": "Students might assume a great warrior died in heroic battle. Sher Shah actually died in an accident — a gun powder explosion while besieging Kalinjar fort."
+    },
+    {
+      "id": "am_trk028",
+      "type": "mcq",
+      "question": "How did Sher Khan earn the title 'Sher Khan'?",
+      "options": ["A. He defeated a lion in a circus", "B. He killed a tiger that leaped upon Bahar Khan Lohani", "C. He was brave like a lion in battle", "D. His father gave him the name at birth"],
+      "correct_answer": "B. He killed a tiger that leaped upon Bahar Khan Lohani",
+      "explanation": "Sher Khan served under Bahar Khan Lohani, Governor of Bihar. He earned the title 'Sher Khan' when he killed a tiger (sher) which leaped upon Lohani.",
+      "trick": "Students might think the title was honorary or metaphorical. He literally killed a tiger to earn the name! Also, 'sher' means lion/tiger in Hindi-Urdu."
+    },
+    {
+      "id": "am_trk029",
+      "type": "mcq",
+      "question": "Sher Shah paid soldiers individually in cash and discontinued the system of:",
+      "options": ["A. Patta", "B. Dagh", "C. Jagirs", "D. Sarkars"],
+      "correct_answer": "C. Jagirs",
+      "explanation": "Sher Shah paid soldiers individually in cash and discontinued the system of jagirs (land grants). This was a major reform that prevented corruption.",
+      "trick": "Students might confuse jagirs with other terms. Jagirs were land grants given instead of cash salary. Sher Shah stopped this and paid cash directly, which was revolutionary."
+    },
+    {
+      "id": "am_trk030",
+      "type": "mcq",
+      "question": "In Sher Shah's administration, Panchayats played an important role in:",
+      "options": ["A. Military matters", "B. Revenue collection", "C. Village administration", "D. Trade regulation"],
+      "correct_answer": "C. Village administration",
+      "explanation": "Panchayats played an important role in village administration under Sher Shah's provincial system. The textbook specifically tests this (Panchayats vs Patwaris).",
+      "trick": "The textbook exercise asks whether Panchayats or Patwaris played an important role in village administration. The answer is Panchayats. Patwaris were revenue officials."
+    },
+    {
+      "id": "am_trk031",
+      "type": "mcq",
+      "question": "The additional tax levied by Sher Shah during famines and calamities was:",
+      "options": ["A. 1%", "B. 2.5%", "C. 5%", "D. 10%"],
+      "correct_answer": "B. 2.5%",
+      "explanation": "In famines and calamities, an additional tax of 2.5% was levied for relief purposes. This shows Sher Shah's concern for welfare during difficult times.",
+      "trick": "This is a specific number that students need to memorize. The 2.5% tax was for RELIEF of the affected people, not an extra burden — it was a welfare measure."
+    },
+    {
+      "id": "am_trk032",
+      "type": "mcq",
+      "question": "Which later Mughal emperor adopted Sher Shah's land revenue system?",
+      "options": ["A. Humayun", "B. Akbar", "C. Shah Jahan", "D. Aurangzeb"],
+      "correct_answer": "B. Akbar",
+      "explanation": "Sher Shah's land revenue system was so efficient that Akbar later adopted it. This is considered one of Sher Shah's greatest legacies.",
+      "trick": "Students might think Humayun adopted it (since he came right after Sher Shah). But Humayun died too soon. It was Akbar, the greatest Mughal administrator, who recognized and adopted Sher Shah's system."
+    },
+    {
+      "id": "am_trk033",
+      "type": "mcq",
+      "question": "The Grand Trunk Road built by Sher Shah ran from:",
+      "options": ["A. Delhi to Agra", "B. Lahore to Delhi", "C. Sonargoan in Bengal to Peshawar", "D. Chittor to Mandu"],
+      "correct_answer": "C. Sonargoan in Bengal to Peshawar",
+      "explanation": "The Grand Trunk Road ran from Sonargoan in Bengal to Peshawar in the North-Western frontier (now Pakistan). It was the most notable road built by Sher Shah.",
+      "trick": "Students often think the Grand Trunk Road started from Delhi or Agra. It actually started from Sonargoan in Bengal (east) to Peshawar (north-west) — spanning almost the entire breadth of northern India."
+    },
+    {
+      "id": "am_trk034",
+      "type": "mcq",
+      "question": "Sarais built by Sher Shah along the roads also served as:",
+      "options": ["A. Military camps", "B. Courts of justice", "C. Dak Chowkies (mail stations)", "D. Tax collection centres"],
+      "correct_answer": "C. Dak Chowkies (mail stations)",
+      "explanation": "Sarais served a dual purpose: rest houses for travellers AND Dak Chowkies where horses were kept ready to carry mail to the next post. This created an efficient postal system.",
+      "trick": "Students might only think of sarais as rest houses. They were also postal relay stations (Dak Chowkies). This dual use was an innovative administrative measure."
+    },
+    {
+      "id": "am_trk035",
+      "type": "mcq",
+      "question": "Gold coins introduced by Sher Shah were called:",
+      "options": ["A. Rupia", "B. Dams", "C. Mohurs", "D. Tankas"],
+      "correct_answer": "C. Mohurs",
+      "explanation": "Gold coins were called mohurs (weighing 169 grams), silver coins were called rupia, and copper coins were called dams.",
+      "trick": "Students confuse the three types of coins. Remember: Gold = Mohurs, Silver = Rupia, Copper = Dams. The silver rupia was his GREATEST contribution."
+    },
+    {
+      "id": "am_trk036",
+      "type": "mcq",
+      "question": "How much did Sher Shah's gold mohurs weigh?",
+      "options": ["A. 100 grams", "B. 129 grams", "C. 169 grams", "D. 200 grams"],
+      "correct_answer": "C. 169 grams",
+      "explanation": "Sher Shah's gold mohurs weighed 169 grams.",
+      "trick": "This is a specific number that can easily be confused. Remember 169 = 13 x 13 (13 squared)."
+    },
+    {
+      "id": "am_trk037",
+      "type": "mcq",
+      "question": "The last ruler of the Sur dynasty was:",
+      "options": ["A. Islam Shah Suri", "B. Adil Shah Suri", "C. Sher Shah Suri", "D. Farid Khan"],
+      "correct_answer": "B. Adil Shah Suri",
+      "explanation": "Adil Shah Suri was the last ruler of the Sur dynasty and ruled till Humayun revived Mughal rule. He was preceded by Islam Shah Suri (Sher Shah's son, who ruled till 1553).",
+      "trick": "Students might think Islam Shah was the last Sur ruler since he was Sher Shah's direct son. But Adil Shah Suri came after Islam Shah and was the last, ruling until Humayun's return."
+    },
+    {
+      "id": "am_trk038",
+      "type": "mcq",
+      "question": "Babur introduced which of the following in India?",
+      "options": ["A. The silver rupia", "B. Garden palaces", "C. The Dagh system", "D. The Grand Trunk Road"],
+      "correct_answer": "B. Garden palaces",
+      "explanation": "Babur introduced garden palaces in India. The silver rupia, Dagh system, and Grand Trunk Road were all introduced by Sher Shah, not Babur.",
+      "trick": "Students might attribute Sher Shah's reforms to Babur since he came first. Babur's contributions were military conquests, literary works, and the introduction of garden palaces — NOT administrative reforms."
+    },
+    {
+      "id": "am_trk039",
+      "type": "mcq",
+      "question": "How long did Humayun rule after recapturing his empire in 1555?",
+      "options": ["A. Six months", "B. One year", "C. Two years", "D. Five years"],
+      "correct_answer": "A. Six months",
+      "explanation": "After re-establishing the Mughal dynasty in 1555, Humayun ruled for only about six months before dying in 1556 from a fall from his library staircase.",
+      "trick": "Students might think Humayun had a long second reign after his dramatic return. In reality, he ruled for only six months before his accidental death."
+    },
+    {
+      "id": "am_trk040",
+      "type": "mcq",
+      "question": "Which statement about Humayun is FALSE?",
+      "options": ["A. He was kind and generous", "B. He loved painting and wrote poetry in Persian", "C. He introduced many reforms in his empire", "D. He spent fifteen years in exile"],
+      "correct_answer": "C. He introduced many reforms in his empire",
+      "explanation": "The textbook's Assess Yourself section specifically states this is False. Humayun was NOT known for introducing reforms. It was Sher Shah who introduced many significant reforms. Humayun was kind and generous, loved painting and poetry, but was not an effective administrator.",
+      "trick": "This is directly from the textbook's True/False exercise. Students might assume all Mughal rulers introduced reforms, but Humayun's reign was marked by struggles, not administrative achievements."
+    }
+  ]
+}

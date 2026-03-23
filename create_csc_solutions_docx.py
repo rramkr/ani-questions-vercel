@@ -81,6 +81,10 @@ def add_question_answer(q, num):
     run = p.add_run(q_text)
     run.font.size = Pt(11)
 
+    # Spacing between question and answer (6-7 blank lines for writing space)
+    for _ in range(7):
+        doc.add_paragraph()
+
     # Answer
     p = doc.add_paragraph()
     run = p.add_run('Answer: ')

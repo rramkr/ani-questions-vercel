@@ -1,0 +1,145 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "ak_tf001",
+      "statement": "Akbar was born in 1542 in Amarkot Fort in present-day Sind.",
+      "answer": true,
+      "explanation": "Akbar was indeed born in 1542 in Amarkot Fort in present-day Sind, while his father Humayun was in exile.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_tf002",
+      "statement": "Akbar was 15 years old when he succeeded to the Mughal throne.",
+      "answer": false,
+      "explanation": "Akbar was 13 years old, not 15, when he was forced to succeed to the throne after the sudden death of his father Humayun.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_tf003",
+      "statement": "Bairam Khan served as the regent of Akbar from 1556 to 1560.",
+      "answer": true,
+      "explanation": "Bairam Khan was Humayun's favourite and confidant who served as regent of Akbar from 1556 to 1560, with the title of Khan-i-Khanan.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_tf004",
+      "statement": "The Second Battle of Panipat was fought on 5 November 1576.",
+      "answer": false,
+      "explanation": "The Second Battle of Panipat was fought on 5 November 1556, not 1576. The Battle of Haldighati was fought in 1576.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "ak_tf005",
+      "statement": "Hemu was the general of Afghan emperor Adil Shah, who was Sher Shah's nephew.",
+      "answer": true,
+      "explanation": "Hemu was indeed the general of Adil Shah, who was Sher Shah's nephew. Hemu seized Delhi and Agra before being defeated at the Second Battle of Panipat.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "ak_tf006",
+      "statement": "Akbar removed Bairam Khan when Akbar turned 21 years old.",
+      "answer": false,
+      "explanation": "Akbar removed Bairam Khan when he turned 18, not 21. He asked Bairam Khan to go to Mecca.",
+      "source_section": "End of Bairam Khan's Regency"
+    },
+    {
+      "id": "ak_tf007",
+      "statement": "Ahmadnagar was bravely defended by Chand Bibi and only part of it was annexed by the Mughals.",
+      "answer": true,
+      "explanation": "When Akbar attacked Ahmadnagar in 1590, Chand Bibi bravely defended it, and the Mughals could only annex part of the territory.",
+      "source_section": "Expansion of Akbar's Empire"
+    },
+    {
+      "id": "ak_tf008",
+      "statement": "Raja Birbal of Amber was the first Rajput to enter into an alliance with Akbar.",
+      "answer": false,
+      "explanation": "It was Raja Bharmal of Amber, not Raja Birbal, who was the first Rajput to enter into a matrimonial alliance with Akbar.",
+      "source_section": "Relations with the Rajputs"
+    },
+    {
+      "id": "ak_tf009",
+      "statement": "The Battle of Haldighati was fought on 18 June 1576.",
+      "answer": true,
+      "explanation": "The Battle of Haldighati was indeed fought on 18 June 1576 between the armies of Maharana Pratap and the Mughal forces led by Man Singh I of Amber.",
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "ak_tf010",
+      "statement": "Akbar personally led the Mughal forces at the Battle of Haldighati.",
+      "answer": false,
+      "explanation": "Akbar did not personally lead the forces at Haldighati. The Mughal forces were led by Man Singh I of Amber.",
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "ak_tf011",
+      "statement": "Under the mansabdari system, ranks were expressed in numerical terms using Zat and Sawar.",
+      "answer": true,
+      "explanation": "The mansab rank was denoted by two numbers: Zat (personal rank) and Sawar (size of cavalry contingent). They were not expressed in alphabetical terms.",
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "ak_tf012",
+      "statement": "The mansab rank was hereditary and could be passed on to the officer's children.",
+      "answer": false,
+      "explanation": "The rank was NOT hereditary. It was held only during the mansabdar's lifetime, and after death, the jagir reverted to the emperor.",
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "ak_tf013",
+      "statement": "Raja Todar Mal was in charge of land revenue and assessment.",
+      "answer": true,
+      "explanation": "Raja Todar Mal was in charge of land revenue and assessment and introduced the dahsaal or zabti system.",
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_tf014",
+      "statement": "Fatehpur Sikri was a new capital city founded by Akbar.",
+      "answer": true,
+      "explanation": "Akbar built Fatehpur Sikri as his new capital near Agra, selecting the site because the Sufi saint Salim Chisti lived there.",
+      "source_section": "Architecture"
+    },
+    {
+      "id": "ak_tf015",
+      "statement": "Raja Man Singh accepted Din-i-Ilahi openly.",
+      "answer": false,
+      "explanation": "Raja Man Singh refused to accept Din-i-Ilahi. Only Raja Birbal accepted and followed it among Akbar's close associates.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ak_tf016",
+      "statement": "Tansen was a famous musician and singer in Akbar's court.",
+      "answer": true,
+      "explanation": "Tansen was one of the Navratnas and a famous musician who composed many Hindustani ragas including Raag Darbari and Deepak Raag.",
+      "source_section": "Music"
+    },
+    {
+      "id": "ak_tf017",
+      "statement": "Humayun's Tomb is located in Agra.",
+      "answer": false,
+      "explanation": "Humayun's Tomb is located in New Delhi, not in Agra.",
+      "source_section": "Architecture"
+    },
+    {
+      "id": "ak_tf018",
+      "statement": "Akbar got the Ramayana and the Mahabharata translated from Sanskrit to Persian.",
+      "answer": true,
+      "explanation": "Akbar promoted cultural exchange by getting the Ramayana and the Mahabharata translated from Sanskrit to Persian.",
+      "source_section": "Education and Literature"
+    },
+    {
+      "id": "ak_tf019",
+      "statement": "Akbar learnt to read and write fluently and was a great scholar.",
+      "answer": false,
+      "explanation": "Akbar never learnt to read or write, but he was fond of knowledge and had books read to him.",
+      "source_section": "Education and Literature"
+    },
+    {
+      "id": "ak_tf020",
+      "statement": "Akbar prohibited the practice of Sati and legalised widow remarriage.",
+      "answer": true,
+      "explanation": "As part of his social reforms, Akbar prohibited the practice of Sati and legalised widow remarriage.",
+      "source_section": "Social Reforms"
+    }
+  ]
+}

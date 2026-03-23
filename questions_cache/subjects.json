@@ -1,11 +1,25 @@
 {
   "subjects": [
     {
-      "name": "Physics",
-      "slug": "physics",
-      "icon": "⚛️",
-      "chapter_count": 5
+      "name": "8C English Literature",
+      "slug": "8C_English_Literature",
+      "icon": "📕",
+      "chapter_count": 1
     },
+    {
+      "name": "8C Physics",
+      "slug": "8C_Physics",
+      "icon": "🔬",
+      "chapter_count": 1
+    },
+    {
+      "name": "History Pragi",
+      "slug": "History_Pragi",
+      "icon": "📜",
+      "chapter_count": 5
+    }
+  ],
+  "completed": [
     {
       "name": "Computer Science",
       "slug": "Computer_Science",
@@ -13,13 +27,17 @@
       "chapter_count": 2
     },
     {
+      "name": "Physics",
+      "slug": "physics",
+      "icon": "⚛️",
+      "chapter_count": 5
+    },
+    {
       "name": "Chemistry",
       "slug": "Chemistry",
       "icon": "🧪",
       "chapter_count": 4
-    }
-  ],
-  "completed": [
+    },
     {
       "name": "English E2",
       "slug": "english_e2",

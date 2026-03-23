@@ -1,0 +1,110 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "am_sa001",
+      "question": "Why did Babur invade India?",
+      "answer": "Babur invaded India because the political situation was unstable after Sikandar Lodi's death, with conflict between Afghan chiefs and Ibrahim Lodi. Daulat Khan Lodi (Governor of Punjab) and Rana Sanga (Rajput king of Mewar) invited Babur to invade, thinking he would defeat Ibrahim Lodi and leave. However, Babur had heard tales of the immense wealth of India and saw a great opportunity to establish an empire.",
+      "keywords": ["unstable political situation", "Daulat Khan Lodi", "Rana Sanga", "immense wealth", "opportunity"],
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_sa002",
+      "question": "What problems did Babur face after the Battle of Panipat?",
+      "answer": "After the Battle of Panipat, Babur faced three major problems. First, his nobles wanted to return to Central Asia because they did not like the Indian climate and felt culturally alienated. Second, the Rajputs under Rana Sanga wanted to expel the Mughals from India. Third, the Afghans, though defeated at Panipat, were still a formidable force in eastern Uttar Pradesh, Bihar, and Bengal.",
+      "keywords": ["nobles wanted to return", "Indian climate", "Rana Sanga", "Rajputs", "Afghans still formidable"],
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_sa003",
+      "question": "Describe briefly the Battle of Khanua.",
+      "answer": "The Battle of Khanua was fought in 1527 between Babur and Rana Sanga of Mewar. Rana Sanga mustered a large number of Rajput chiefs from Jalor, Sirohi, Dungarpur, Amber, and Merta, along with Medini Rai of Chanderi, Hasan Khan of Mewat, and Mahmud Lodi. They expected Babur to return to Kabul. The forces met at Khanua, a village near Agra. Babur defeated Rana Sanga through superior military tactics, which weakened Rajput power greatly and gave Babur complete control over Central India.",
+      "keywords": ["1527", "Rana Sanga", "Rajput chiefs", "Khanua near Agra", "superior military tactics", "weakened Rajput power"],
+      "source_section": "Battle of Khanua"
+    },
+    {
+      "id": "am_sa004",
+      "question": "Write a short note on the exile and return of Humayun.",
+      "answer": "After losing the Battle of Kannauj in 1540, Humayun became an exile for fifteen years. In 1545, Sher Shah died, and his weak successors ruled for ten years. With help from the ruler of Persia, Humayun captured Kabul and Kandahar. Taking advantage of the weak Sur rulers, Humayun invaded India again, defeated the Afghans, and re-established the Mughal dynasty in 1555. Sadly, he died just six months later in 1556 due to a fall from the staircase of his library.",
+      "keywords": ["fifteen years exile", "ruler of Persia", "Kabul and Kandahar", "1555 re-established", "died 1556", "fall from library staircase"],
+      "source_section": "Humayun's Exile and Return"
+    },
+    {
+      "id": "am_sa005",
+      "question": "Why did Daulat Khan Lodi invite Babur to invade India?",
+      "answer": "Daulat Khan Lodi was the Governor of Punjab. After Sikandar Lodi's death, there was conflict between the Afghan chiefs and the new Sultan Ibrahim Lodi. Daulat Khan Lodi was unhappy with Ibrahim Lodi's rule and invited Babur to invade India, thinking that Babur would defeat Ibrahim Lodi and then return to Central Asia. However, Babur had heard of India's immense wealth and planned to stay and establish an empire.",
+      "keywords": ["Governor of Punjab", "conflict with Ibrahim Lodi", "thought Babur would leave", "immense wealth of India"],
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_sa006",
+      "question": "How did Sher Shah emerge as the leader of the Afghans?",
+      "answer": "Sher Shah's real name was Farid Khan and he was the son of a jagirdar under the kingdom of Jaunpur. His father Hasan Khan Sur held a jagir of Sasaram in Bihar during Lodi rule. After 1524, Farid Khan was given his father's jagir by Ibrahim Lodi. He had to conflict with his family to possess it. Through these experiences, he acquired great military and administrative skills and gradually became the leader of the Afghans.",
+      "keywords": ["Farid Khan", "son of jagirdar", "Sasaram in Bihar", "military and administrative skills", "leader of Afghans"],
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_sa007",
+      "question": "What were Babur's literary achievements?",
+      "answer": "Babur was a remarkable scholar and writer. He wrote his autobiography called Tuzuk-i-Baburi or Baburnama, which was not only a work of history but a masterpiece of literature. His command over the Turki language and his style gave him a high place among scholars. He was well versed in Arabic and Persian. He also wrote a collection of mansavis called Mubayyin, which was a treatise on Muslim law, and composed poems in Persian.",
+      "keywords": ["Tuzuk-i-Baburi", "Baburnama", "Turki language", "Mubayyin", "treatise on Muslim law", "poems in Persian"],
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_sa008",
+      "question": "Describe the provincial administration under Sher Shah.",
+      "answer": "Sher Shah divided his empire into 47 units called sarkars. Each sarkar was subdivided into parganas. Each sarkar had one amin, one shiqdar, one treasurer, one Hindi writer and one Persian writer. Every sarkar was placed under officers called Shiqdar-i-Shiqdaran and Munsif-i-Munsifan. Parganas comprised several villages, and each village had a Muqaddam, a Chaudhuri, and a Patwari. Panchayats played an important role in village administration. Government officers were transferred every two or three years to prevent undue influence.",
+      "keywords": ["47 sarkars", "parganas", "Shiqdar-i-Shiqdaran", "Munsif-i-Munsifan", "Panchayats", "transfer every 2-3 years"],
+      "source_section": "Provincial Administration"
+    },
+    {
+      "id": "am_sa009",
+      "question": "What reforms did Sher Shah introduce in transport and communication?",
+      "answer": "Sher Shah constructed several important roads. The most notable was the Grand Trunk Road from Sonargoan in Bengal to Peshawar. Other roads connected Chittor to Agra, Agra to Mandu, and Lahore to Multan. Trees were planted on both sides of the roads, and wells and sarais were built for travellers. The sarais also served as Dak Chowkies where horses were kept ready to carry mail to the next post. Markets and towns developed near the sarais, giving impetus to trade.",
+      "keywords": ["Grand Trunk Road", "Sonargoan to Peshawar", "trees on both sides", "sarais", "Dak Chowkies", "markets near sarais"],
+      "source_section": "Transport and Communication"
+    },
+    {
+      "id": "am_sa010",
+      "question": "What was Sher Shah's military administration like?",
+      "answer": "Sher Shah maintained a strong army to protect against invasion or internal disorder. He personally recruited soldiers and fixed their salaries after personal inspections. Soldiers were paid individually in cash, and the system of jagirs was discontinued. He introduced the system of Dagh (branding horses with an imperial sign) to prevent substitution. He kept garrisons under the command of a fauzdar at each fort. His standing army consisted of 1,50,000 cavalry, 25,000 infantry, 300 war elephants, and efficient artillery.",
+      "keywords": ["personal recruitment", "paid in cash", "no jagirs", "Dagh system", "fauzdar", "1,50,000 cavalry"],
+      "source_section": "Military Administration"
+    },
+    {
+      "id": "am_sa011",
+      "question": "What were the reasons for Babur's success in the First Battle of Panipat?",
+      "answer": "Babur succeeded in the First Battle of Panipat (1526) due to several reasons. He had superior army organisation compared to Ibrahim Lodi's forces. He applied the Rumi (Ottoman) method of warfare, which was new to India. He used artillery and cannons for the first time in India, giving him a significant military advantage. His forces also had proper planning and superior weapons. Although Babur had fewer soldiers, these factors combined to give him a decisive victory.",
+      "keywords": ["superior organisation", "Rumi method", "artillery and cannons", "first time in India", "proper planning", "superior weapons"],
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_sa012",
+      "question": "What was Sher Shah's contribution to trade and commerce?",
+      "answer": "Sher Shah created an excellent network of roads and inns that promoted the growth of trade. He abolished all duties on goods except two, charging only on goods brought into the country and duties on goods sold. He gave the duty of protecting traders to zamindars and village headmen. He introduced new weights and measures and coins of gold, silver, and copper of uniform standards. His greatest contribution was the silver rupia of standard weight, which was used for centuries after.",
+      "keywords": ["roads and inns", "abolished duties except two", "protecting traders", "weights and measures", "silver rupia", "uniform standards"],
+      "source_section": "Trade and Commerce"
+    },
+    {
+      "id": "am_sa013",
+      "question": "Who were the Mughals? Describe their lineage.",
+      "answer": "The Mughals were led by Zahiruddin Muhammad Babur, an able military commander from Central Asia. They were descendants of two great lineages. From their mother's side, they descended from Genghis Khan, who was the ruler of Central Asia. From their father's side, they descended from Timur, who was the ruler of Iran, Iraq, and Turkey. Because of their lineage from Timur, the Mughals were also referred to as the Timurids.",
+      "keywords": ["Zahiruddin Muhammad Babur", "Central Asia", "Genghis Khan", "Timur", "Timurids"],
+      "source_section": "Background"
+    },
+    {
+      "id": "am_sa014",
+      "question": "What were the problems faced by Humayun when he ascended the throne?",
+      "answer": "Humayun faced many problems after succeeding Babur in 1530. The newly conquered territories were not consolidated. Unlike Babur, he did not command the respect of the Mughal nobility. The Chaghatai nobles were not favourably inclined, and Indian nobles had deserted. He was confronted with hostility from Afghans, especially Sher Shah in Bihar and Bahadur Shah in Gujarat. His three brothers Kamran, Askari, and Hindal were dissatisfied with their share and wanted the throne of Delhi.",
+      "keywords": ["territories not consolidated", "no respect from nobility", "Chaghatai nobles", "Sher Shah", "Bahadur Shah", "brothers dissatisfied"],
+      "source_section": "Humayun"
+    },
+    {
+      "id": "am_sa015",
+      "question": "Describe Sher Shah's land revenue system.",
+      "answer": "Sher Shah introduced a permanent schedule of rates for land revenue. The state's share was one-third of the produce, and peasants could pay in cash or kind. The amount was recorded in a paper called Patta, and no one could overcharge peasants. During famines, an additional 2.5% tax was levied for relief. He surveyed the entire land and employed officials like Amins, Muqaddams, Shiqdars, Quanungos, and Patwaris. Officers were advised to be lenient, and advances were made during calamities. This system was so efficient that Akbar later adopted it.",
+      "keywords": ["one-third produce", "cash or kind", "Patta", "2.5% famine tax", "Amins", "Akbar adopted it"],
+      "source_section": "Land Revenue System"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "case_study",
+  "questions": [
+    {
+      "id": "cs001",
+      "case_text": "Ravi's mother was cooking in the kitchen. She placed a steel pot of water on the gas stove and turned on the flame. After some time, she noticed small bubbles forming at the bottom of the pot. As she continued heating, the bubbles became larger and the water started boiling vigorously. She then placed a steel lid on the pot and noticed water droplets forming on the underside of the lid. Meanwhile, she also observed that the wet kitchen towel hanging near the stove dried up much faster than the one hanging in the corner of the kitchen.",
+      "questions": [
+        {
+          "question": "At what temperature does water start boiling at normal atmospheric pressure?",
+          "answer": "Water starts boiling at 100 degrees Celsius at normal atmospheric pressure."
+        },
+        {
+          "question": "What is the process by which water droplets formed on the underside of the steel lid?",
+          "answer": "The process is condensation. The steam (water vapour) rising from the boiling water came in contact with the cooler steel lid, lost heat, and condensed back into liquid water droplets."
+        },
+        {
+          "question": "Why did the wet towel near the stove dry faster than the one in the corner?",
+          "answer": "The towel near the stove dried faster because of the higher temperature near the stove. Higher temperature increases the rate of evaporation, as the water molecules gain more kinetic energy and escape from the surface more quickly."
+        },
+        {
+          "question": "Name the change of state that occurred when the water started boiling. Is heat absorbed or released in this process?",
+          "answer": "The change of state is boiling or vaporization (liquid to gas). Heat is absorbed during this process. The specific latent heat of vaporization of water is 2260 x 10^3 J/kg."
+        },
+        {
+          "question": "How is the drying of the wet towel different from the boiling of water in the pot?",
+          "answer": "The drying of the towel happens through evaporation, which is a slow process that occurs from the surface of the liquid at all temperatures. Boiling is a rapid process that occurs throughout the liquid at a fixed temperature (the boiling point). Evaporation causes cooling of the surroundings, while during boiling the temperature remains constant."
+        }
+      ],
+      "source_section": "Boiling, Condensation, and Evaporation"
+    },
+    {
+      "id": "cs002",
+      "case_text": "During the summer holidays, Priya visited her grandmother's village. She noticed that her grandmother stored drinking water in an earthen pot (matka) instead of a plastic bottle. The water in the earthen pot was pleasantly cool even without a refrigerator. Priya also noticed that her grandmother placed the kulfi moulds in a large container filled with a mixture of ice and salt. When Priya asked why salt was added to the ice, her grandmother explained the science behind it. Later in the evening, Priya noticed that the camphor tablets kept in the prayer room had become smaller over the past few months.",
+      "questions": [
+        {
+          "question": "Why is water cooler in an earthen pot than in a plastic bottle?",
+          "answer": "Water seeps through the tiny pores of the earthen pot to its outer surface. There, the water evaporates and absorbs heat (latent heat) from the water inside the pot. This cooling effect of evaporation makes the water inside the earthen pot cooler. Plastic bottles do not have pores, so no evaporation occurs from the surface."
+        },
+        {
+          "question": "Why did Priya's grandmother add salt to ice for making kulfi?",
+          "answer": "Adding salt to ice lowers the melting point of ice below 0 degrees Celsius. This creates a freezing mixture that is much colder than normal ice. The very cold freezing mixture absorbs heat from the kulfi mixture more effectively, causing it to freeze into kulfi."
+        },
+        {
+          "question": "What is the scientific name for the process that caused the camphor tablets to become smaller?",
+          "answer": "The process is called sublimation. Camphor directly changes from solid to gas without passing through the liquid state. This happens because the inter-molecular forces in camphor are weak, and the molecules acquire enough kinetic energy at room temperature to escape directly into the gaseous state."
+        },
+        {
+          "question": "Name two other substances, besides camphor, that undergo the same process as the camphor tablets.",
+          "answer": "Two other substances that undergo sublimation are naphthalene (used in moth balls) and dry ice (solid carbon dioxide). Other examples include ammonium chloride and iodine."
+        },
+        {
+          "question": "If Priya's grandmother had wrapped the earthen pot in a wet cloth, would the water cool even faster? Give a reason.",
+          "answer": "Yes, wrapping the earthen pot in a wet cloth would help cool the water even faster. The wet cloth provides additional surface area for evaporation. As the water from the cloth evaporates, it absorbs more heat from the pot and the water inside, enhancing the cooling effect of evaporation."
+        }
+      ],
+      "source_section": "Evaporation, Freezing Mixture, and Sublimation"
+    },
+    {
+      "id": "cs003",
+      "case_text": "Arjun's family went on a trekking trip to a hill station at a high altitude. His father tried to boil eggs for breakfast, but noticed that even though the water was boiling, the eggs were taking much longer to cook than at home. His mother suggested using the pressure cooker they had brought along. In the pressure cooker, the eggs cooked quickly. Later, Arjun noticed that the metal water bottle he had left outside overnight had cracked. His father explained that the water inside had frozen overnight and expanded, cracking the bottle.",
+      "questions": [
+        {
+          "question": "Why did the eggs take longer to cook in boiling water at the hill station?",
+          "answer": "At high altitudes, the atmospheric pressure is lower than at sea level. Since the boiling point of water decreases with decrease in pressure, water boils at a temperature lower than 100 degrees Celsius at the hill station. The food cooks at a lower temperature and therefore takes longer to cook."
+        },
+        {
+          "question": "How does a pressure cooker help food cook faster?",
+          "answer": "In a pressure cooker, the steam cannot escape easily, which increases the pressure inside the cooker above normal atmospheric pressure. This increased pressure raises the boiling point of water to above 100 degrees Celsius. Since the food cooks at a higher temperature, it cooks much faster than in an open pot."
+        },
+        {
+          "question": "What change of state occurred when the water in the bottle froze overnight?",
+          "answer": "The change of state that occurred is freezing, which is the process by which a liquid changes into a solid by releasing heat. Water freezes at 0 degrees Celsius. During freezing, the water molecules slow down and arrange themselves into a fixed pattern, releasing latent heat in the process."
+        },
+        {
+          "question": "Why did the metal bottle crack when the water inside froze?",
+          "answer": "The metal bottle cracked because water expands on freezing. Unlike most substances that contract when they freeze, water is an anomalous substance that increases in volume when it changes from liquid to solid. This expansion exerted a large force on the walls of the metal bottle, causing it to crack."
+        },
+        {
+          "question": "Does the boiling point of water increase or decrease when salt is added? What about the melting point of ice when salt is added?",
+          "answer": "When salt (an impurity) is added to water, its boiling point increases. However, when salt is added to ice, its melting point decreases below 0 degrees Celsius. This is why salt is used with ice to create freezing mixtures for making items like kulfi."
+        }
+      ],
+      "source_section": "Effect of Pressure on Boiling Point, Freezing, and Anomalous Expansion"
+    }
+  ]
+}

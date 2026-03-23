@@ -1,0 +1,110 @@
+{
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "ds_sa001",
+      "question": "Describe the achievements of Qutb-ud-din Aibak as the founder of the Delhi Sultanate.",
+      "answer": "Qutb-ud-din Aibak laid the foundation of the Delhi Sultanate in 1206 after the death of Muhammad Ghori. He was born in Central Asia to Turkish parents and had been a slave of Muhammad Ghori. He was crowned in Lahore and became the first independent Muslim ruler of northern India. He was kind-hearted and earned the title 'Lakh Baksh' meaning the giver of lakhs. He built mosques and started the construction of Quwwat-ul-Islam mosque in Delhi and Adhai-din-ka-Jhonpra in Ajmer. He also laid the foundation of the Qutub Minar.",
+      "keywords": ["1206", "Lahore", "Lakh Baksh", "Quwwat-ul-Islam", "Adhai-din-ka-Jhonpra", "Qutub Minar"],
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_sa002",
+      "question": "What was the iqta system introduced by Iltutmish?",
+      "answer": "The iqta system was introduced by Iltutmish as a method of land administration. Under this system, land was assigned to officers who were responsible for collecting revenue from the assigned territory. In return, these officers had to maintain a certain number of troops and provide military service to the Sultan when required. The iqta holders were called iqtadars. This system helped Iltutmish consolidate his empire and maintain a large military force without directly paying salaries from the state treasury.",
+      "keywords": ["land assignments", "officers", "military responsibility", "revenue", "Iltutmish"],
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_sa003",
+      "question": "How did Iltutmish avoid a Mongol invasion in 1221?",
+      "answer": "In 1221, the ruler of Persia was being chased by the fearsome Mongol conqueror Genghis Khan. The Persian ruler sought shelter with Iltutmish in India. However, Iltutmish showed great diplomatic wisdom by refusing to give shelter to the Persian ruler. By doing this, he avoided giving Genghis Khan any reason to invade India. If Iltutmish had provided shelter, the Mongols would have attacked India in pursuit. This clever diplomatic decision saved the Delhi Sultanate from what could have been a devastating Mongol invasion.",
+      "keywords": ["Genghis Khan", "Persia", "1221", "refused shelter", "diplomatic wisdom"],
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_sa004",
+      "question": "Describe Balban's policy of 'blood and iron'.",
+      "answer": "Ghiyas-ud-din Balban ruled from 1266 to 1286 with an iron hand. He crushed the Mewatis who had been causing disturbances around Delhi. He reduced the power of the nobles and broke the influence of the Chahalgani (The Forty). He introduced the practice of Zaminbosi or Sijda and propagated the theory of Divine Rights. He created the Diwan-i-Arz for military affairs and built forts and Afghan garrisons to protect the frontiers. He never gave authority to Hindus and kept the ulemas away from political affairs, maintaining absolute control.",
+      "keywords": ["iron hand", "Mewatis", "Chahalgani", "Zaminbosi", "Divine Rights", "Diwan-i-Arz"],
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_sa005",
+      "question": "Explain Ala-ud-din Khalji's market control system.",
+      "answer": "Ala-ud-din Khalji established strict market regulations to control prices of commodities in Delhi. He set up three separate markets: one for food grains, one for cloth, and one for horses, slaves, and cattle. Each market was supervised by a superintendent called Shahna-i-Mandi. He also employed intelligence officers called barids and secret spies called munhiyans to monitor prices and prevent cheating. Anyone who violated the price regulations was severely punished or imprisoned. This system ensured that soldiers could be maintained at low cost.",
+      "keywords": ["three markets", "Shahna-i-Mandi", "barids", "munhiyans", "price regulations"],
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_sa006",
+      "question": "What were the military reforms of Ala-ud-din Khalji?",
+      "answer": "Ala-ud-din Khalji was the first ruler of Delhi to maintain a standing army, where soldiers were paid in cash. He introduced the system of Dagh, which was the branding of horses to prevent fraud. He also introduced Huliya or Chehra, which involved maintaining descriptive rolls of soldiers so that no substitutions could be made during inspections. These reforms ensured that the army was well-organized and ready for war at all times. His market regulations also helped him maintain this large army at low cost.",
+      "keywords": ["standing army", "cash payment", "Dagh", "Huliya/Chehra", "branding horses", "descriptive rolls"],
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_sa007",
+      "question": "Why did Muhammad-bin-Tughlaq's token currency fail?",
+      "answer": "Muhammad-bin-Tughlaq introduced copper jittal as token currency in place of the silver tanka. The idea was ahead of its time but failed because there were no proper security measures to prevent counterfeiting. People easily forged copper coins at home since copper was a cheap and commonly available metal. The market was flooded with fake coins, and the value of the currency collapsed. The Sultan was eventually forced to withdraw the token currency at a great loss to the state treasury.",
+      "keywords": ["copper jittal", "silver tanka", "forged coins", "counterfeiting", "withdrew"],
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_sa008",
+      "question": "What public works did Firoz Shah Tughlaq undertake?",
+      "answer": "Firoz Shah Tughlaq was known for his extensive public works. He built canals for irrigation, including one from the Yamuna to Hissar and another from the Sutlej to the Ghaggar. He built hospitals for the sick and established new towns including Jaunpur, Firozpur, Firozabad, and Hissar-Firoza. He repaired the Qutub Minar which had been damaged. He built sarais (rest houses) for travellers. He also established the Diwan-i-Khairat for welfare of the poor, set up an Employment Bureau, and even helped with marriages of those who could not afford them.",
+      "keywords": ["canals", "Yamuna to Hissar", "hospitals", "Jaunpur", "Firozabad", "Qutub Minar", "Diwan-i-Khairat"],
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_sa009",
+      "question": "Describe the role of Malik Kafur in expanding Ala-ud-din Khalji's empire.",
+      "answer": "Malik Kafur was the general who led the southern expeditions during Ala-ud-din Khalji's rule. He defeated the Yadavas of Devagiri, the Kakatiyas of Warangal, the Hoysalas of Dwarasamudra, and the Pandyas of Madurai. Ala-ud-din allowed the defeated kings to continue ruling on the condition that they paid tribute regularly. Through these campaigns, Ala-ud-din became the first Muslim ruler to extend the empire to the extreme south of India. After Ala-ud-din's death in 1316, Malik Kafur briefly seized the throne before being deposed.",
+      "keywords": ["Malik Kafur", "Yadavas", "Kakatiyas", "Hoysalas", "Pandyas", "southern expeditions", "tribute"],
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_sa010",
+      "question": "How did the Sayyid Dynasty come to power?",
+      "answer": "The Sayyid Dynasty came to power in the aftermath of Timur's devastating invasion of India in 1398. Timur's invasion left the Delhi Sultanate crumbling, and by 1412, it was confined to a small territory around Delhi. In 1414, Khizr Khan, who had been Timur's viceroy, founded the Sayyid Dynasty. He took the title Rayati-Ala and was the most competent of the Sayyid rulers. The Sayyid dynasty was relatively weak and ruled only four rulers before ending in 1451 when the last ruler Ala-ud-din Alam Shah left for Badaun.",
+      "keywords": ["Timur", "1398", "Khizr Khan", "1414", "Rayati-Ala", "viceroy"],
+      "source_section": "The Sayyid Dynasty"
+    },
+    {
+      "id": "ds_sa011",
+      "question": "What were the achievements of Sikandar Lodi?",
+      "answer": "Sikandar Lodi, whose real name was Nizam Khan, was the greatest and wisest ruler of the Lodi dynasty, ruling from 1489 to 1517. He organised the entire administrative system efficiently. He annexed Jaunpur and Bihar to strengthen the Sultanate. He moved the capital from Delhi to Agra for better strategic control. He introduced welfare measures including lowering prices of essential goods and providing loans to farmers. However, he had little tolerance towards non-Muslims and re-imposed jizya on them.",
+      "keywords": ["Nizam Khan", "Agra", "Jaunpur", "Bihar", "welfare measures", "jizya"],
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_sa012",
+      "question": "How did the Delhi Sultanate come to an end?",
+      "answer": "The Delhi Sultanate came to an end with the defeat of Ibrahim Lodi by Babur in the Battle of Panipat in 1526. Ibrahim Lodi's reign was marked by constant revolts from the nobles. His own brother Jalal Khan rebelled against him. His uncle Daulat Khan Lodi, who was the governor of Punjab, invited Babur from Kabul to invade India. Babur accepted the invitation and defeated Ibrahim Lodi decisively at Panipat in 1526, ending 320 years of Sultanate rule and establishing the Mughal Empire.",
+      "keywords": ["Ibrahim Lodi", "Babur", "Battle of Panipat", "1526", "Daulat Khan Lodi"],
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_sa013",
+      "question": "What was the significance of the Second Battle of Tarain (1192)?",
+      "answer": "The Second Battle of Tarain in 1192 was a turning point in Indian history. In this battle, Muhammad Ghori defeated Prithviraj Chauhan, the powerful Rajput king. This victory opened the doors for Muslim conquest of northern India. After this battle, Muhammad Ghori's generals, particularly Qutb-ud-din Aibak, consolidated Muslim control over the region. It directly led to the foundation of the Delhi Sultanate in 1206 when Aibak established himself as the first independent Muslim ruler of northern India.",
+      "keywords": ["1192", "Muhammad Ghori", "Prithviraj Chauhan", "turning point", "Muslim conquest", "Delhi Sultanate"],
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_sa014",
+      "question": "Describe the education reforms of Firoz Shah Tughlaq.",
+      "answer": "Firoz Shah Tughlaq made significant contributions to education. He had Sanskrit books translated into Persian, which helped in the exchange of knowledge between Hindu and Muslim scholars. He built schools and colleges throughout his kingdom to promote learning. He encouraged scholarship and the study of various subjects. These education reforms were part of his broader vision to improve the welfare of his subjects. His patronage of learning helped preserve and spread knowledge during his reign.",
+      "keywords": ["Sanskrit to Persian", "schools", "colleges", "learning", "scholarship"],
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_sa015",
+      "question": "What happened during the period between the Slave Dynasty and the Khalji Dynasty?",
+      "answer": "After Balban's death in 1286, his grandson succeeded him but was a weak ruler. The grandson could not maintain the strong central authority that Balban had established. Taking advantage of this weakness, the Khaljis, who were a Central Asian Turkic dynasty that had settled in Afghanistan, seized the opportunity. In 1290, the Khalji family captured the throne of Delhi, ending the Slave Dynasty which had ruled for 84 years. Jalal-ud-din Firuz Khalji became the founder of the new Khalji Dynasty.",
+      "keywords": ["Balban's death", "1286", "weak grandson", "1290", "Jalal-ud-din Firuz Khalji"],
+      "source_section": "The Slave Dynasty / The Khalji Dynasty"
+    }
+  ]
+}

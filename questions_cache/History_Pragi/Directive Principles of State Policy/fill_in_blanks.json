@@ -1,0 +1,180 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "dp_fib001",
+      "question": "Directive Principles of State Policy are stated in Articles _____ to _____ of the Constitution.",
+      "answer": "36 to 51",
+      "explanation": "Directive Principles are stated in Articles 36 to 51, in Part IV of the Indian Constitution.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_fib002",
+      "question": "Directive Principles are stated in Part _____ of the Indian Constitution.",
+      "answer": "IV",
+      "explanation": "Directive Principles of State Policy are found in Part IV of the Constitution.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_fib003",
+      "question": "Directive Principles were inspired by the Constitution of _____.",
+      "answer": "Ireland",
+      "explanation": "The Directive Principles were inspired by the Directive Principles stated in the Constitution of Ireland and principles of Gandhian philosophy.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_fib004",
+      "question": "Directive Principles are _____ and cannot be enforced in any court of law.",
+      "answer": "non-justiciable",
+      "explanation": "Non-justiciable means they cannot be enforced by any court of law.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_fib005",
+      "question": "A _____ state is one in which the government plays a key role in protecting and promoting the economic and social well-being of its citizens.",
+      "answer": "welfare",
+      "explanation": "A welfare state protects and promotes the economic and social well-being of its citizens.",
+      "source_section": "Welfare State"
+    },
+    {
+      "id": "dp_fib006",
+      "question": "The state should ensure equal pay for equal work for both _____ and _____.",
+      "answer": "men and women",
+      "explanation": "Equal pay for equal work for both men and women is a Directive Principle promoting social and economic equality.",
+      "source_section": "Social and Economic Equality"
+    },
+    {
+      "id": "dp_fib007",
+      "question": "The state should impart compulsory and free education to children up to the age of _____ years.",
+      "answer": "14",
+      "explanation": "Free and compulsory education for children up to the age of 14 years is a Directive Principle.",
+      "source_section": "Social and Economic Equality"
+    },
+    {
+      "id": "dp_fib008",
+      "question": "The three basic principles of Gandhian thought are Swaraj, Sarvodaya and _____.",
+      "answer": "Swavlamban",
+      "explanation": "The three basic principles are Swaraj (self-rule), Sarvodaya (welfare for all) and Swavlamban (self-reliance).",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_fib009",
+      "question": "Sarvodaya means _____ for all.",
+      "answer": "welfare",
+      "explanation": "Sarvodaya means welfare for all and is one of the basic principles of Gandhian thought.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_fib010",
+      "question": "Swavlamban means _____.",
+      "answer": "self-reliance",
+      "explanation": "Swavlamban means self-reliance and is one of the three basic principles of Gandhian thought.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_fib011",
+      "question": "Village _____ shall be given powers for self-government.",
+      "answer": "Panchayats",
+      "explanation": "Under Gandhian Principles, Village Panchayats shall be given powers for self-government.",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_fib012",
+      "question": "The state shall aim at establishing a uniform _____ code for all citizens.",
+      "answer": "civil",
+      "explanation": "Establishing a uniform civil code is a General Directive Principle.",
+      "source_section": "General Principles"
+    },
+    {
+      "id": "dp_fib013",
+      "question": "The state shall encourage settlement of international disputes by _____.",
+      "answer": "arbitration",
+      "explanation": "Arbitration means mutual agreement, and it is a General Directive Principle for resolving international disputes.",
+      "source_section": "General Principles"
+    },
+    {
+      "id": "dp_fib014",
+      "question": "Fundamental Rights are _____ and enforceable in the courts.",
+      "answer": "justiciable",
+      "explanation": "Unlike Directive Principles which are non-justiciable, Fundamental Rights are justiciable and enforceable in the courts.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_fib015",
+      "question": "Directive Principles and Fundamental Rights are not contradictory but _____.",
+      "answer": "complementary",
+      "explanation": "Both aim at the same thing and are complementary. Fundamental Rights guarantee political democracy while Directive Principles establish social and economic democracy.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_fib016",
+      "question": "The _____ system was abolished and surplus land was distributed among the landless poor.",
+      "answer": "Zamindari",
+      "explanation": "The Zamindari system was abolished as an impact of the Directive Principles.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_fib017",
+      "question": "_____ has been made a punishable offence as an impact of Directive Principles.",
+      "answer": "Untouchability",
+      "explanation": "Untouchability was made a punishable offence as one of the positive impacts of Directive Principles since Independence.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_fib018",
+      "question": "The Community Development Programme was launched in _____.",
+      "answer": "1952",
+      "explanation": "The Community Development Programme was launched in 1952 to raise the standard of living.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_fib019",
+      "question": "To promote cottage industries under Article _____, the government established several boards.",
+      "answer": "43",
+      "explanation": "Under Article 43, the government established boards like Village Industries Board, All India Handicraft Board, Silk Board and Coir Board.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_fib020",
+      "question": "The 42nd Amendment added the duty to protect the _____ and safeguard forests and wildlife.",
+      "answer": "environment",
+      "explanation": "The 42nd Amendment added a new directive - the duty of the state to protect and improve the environment and to safeguard the forests and wildlife.",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_fib021",
+      "question": "Under British rule, India was not a _____ state.",
+      "answer": "welfare",
+      "explanation": "Under British rule, India was not a welfare state as the British were not interested in the welfare of the people.",
+      "source_section": "Background"
+    },
+    {
+      "id": "dp_fib022",
+      "question": "Fundamental Rights guarantee _____ democracy.",
+      "answer": "political",
+      "explanation": "Fundamental Rights guarantee political democracy, while Directive Principles establish social and economic democracy.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_fib023",
+      "question": "Directive Principles establish social and _____ democracy.",
+      "answer": "economic",
+      "explanation": "Directive Principles establish social and economic democracy.",
+      "source_section": "Differences"
+    },
+    {
+      "id": "dp_fib024",
+      "question": "The Mahatma Gandhi Rural Employment Guarantee Act was launched in _____.",
+      "answer": "2006",
+      "explanation": "The Mahatma Gandhi Rural Employment Guarantee Act was launched in 2006 to raise the standard of living.",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_fib025",
+      "question": "Gandhi laid stress on rebuilding _____ and promoting cottage industries.",
+      "answer": "villages",
+      "explanation": "Gandhian thought laid stress on rebuilding villages and promoting cottage industries.",
+      "source_section": "Gandhian Philosophy"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "ma_ntf001",
+      "question": "The chain installed by Jahangir outside his palace for hearing grievances.",
+      "answer": "Chain of Justice",
+      "source_section": "Jahangir"
+    },
+    {
+      "id": "ma_ntf002",
+      "question": "The Abyssinian Prime Minister who kept Ahmadnagar independent of Mughal control.",
+      "answer": "Malik Ambar",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_ntf003",
+      "question": "The fort that surrendered to Jahangir on November 16, 1620.",
+      "answer": "Kangra Fort",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_ntf004",
+      "question": "The first Englishman sent to Jahangir's court in 1608 by the East India Company.",
+      "answer": "Captain William Hawkins",
+      "source_section": "Arrival of the British"
+    },
+    {
+      "id": "ma_ntf005",
+      "question": "The only Mughal empress who had coins minted with her name.",
+      "answer": "Nur Jahan",
+      "source_section": "Role of Nur Jahan"
+    },
+    {
+      "id": "ma_ntf006",
+      "question": "The rebel leader from whose clutches Nur Jahan rescued Jahangir in 1626.",
+      "answer": "Mahabat Khan",
+      "source_section": "Role of Nur Jahan"
+    },
+    {
+      "id": "ma_ntf007",
+      "question": "The jewel-encrusted golden throne commissioned by Shah Jahan.",
+      "answer": "Peacock Throne",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_ntf008",
+      "question": "The method of decoration involving inlay of semi-precious stones in marble used in Shah Jahan's buildings.",
+      "answer": "Pietra dura (or parelinkari)",
+      "source_section": "Cultural Developments - Architecture"
+    },
+    {
+      "id": "ma_ntf009",
+      "question": "The title taken by Aurangzeb meaning 'Conqueror of the World'.",
+      "answer": "Alamgir",
+      "source_section": "Aurangzeb"
+    },
+    {
+      "id": "ma_ntf010",
+      "question": "The ninth Sikh Guru who was executed by Aurangzeb in Chandni Chowk in 1675.",
+      "answer": "Guru Tegh Bahadur",
+      "source_section": "Aurangzeb - War with the Sikhs"
+    },
+    {
+      "id": "ma_ntf011",
+      "question": "The powerful military force organised by Guru Gobind Singh.",
+      "answer": "Khalsa",
+      "source_section": "Aurangzeb - War with the Sikhs"
+    },
+    {
+      "id": "ma_ntf012",
+      "question": "The treaty signed by Shivaji in 1665 after the siege of Purandhar.",
+      "answer": "Treaty of Purandhar",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    },
+    {
+      "id": "ma_ntf013",
+      "question": "The Bijapur general killed by Shivaji in 1659.",
+      "answer": "Afzal Khan",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    },
+    {
+      "id": "ma_ntf014",
+      "question": "The last Mughal ruler who ruled in Delhi.",
+      "answer": "Bahadur Shah Zafar",
+      "source_section": "Reasons for Decline"
+    },
+    {
+      "id": "ma_ntf015",
+      "question": "The Persian invader who sacked Delhi in 1739 and stole the Peacock Throne.",
+      "answer": "Nadir Shah of Persia",
+      "source_section": "Shah Jahan / Reasons for Decline"
+    }
+  ]
+}

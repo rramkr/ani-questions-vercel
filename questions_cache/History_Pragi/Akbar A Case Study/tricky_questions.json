@@ -1,0 +1,365 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "ak_trk001",
+      "type": "mcq",
+      "question": "Hemu, who fought against Akbar in the Second Battle of Panipat, was:",
+      "options": ["A. An independent king who ruled Delhi", "B. A Rajput chief who opposed the Mughals", "C. The general of Afghan emperor Adil Shah", "D. Akbar's half-brother who revolted"],
+      "correct_answer": "C. The general of Afghan emperor Adil Shah",
+      "explanation": "Hemu was the general of Adil Shah, who was Sher Shah's nephew. Though Hemu had seized Delhi and Agra, he was not an independent king but served under Adil Shah.",
+      "trick": "Students confuse Hemu with an independent ruler because he seized Delhi and Agra. He was actually Adil Shah's general. Adil Shah was Sher Shah's nephew, not Hemu."
+    },
+    {
+      "id": "ak_trk002",
+      "type": "mcq",
+      "question": "Akbar's coronation took place at:",
+      "options": ["A. Delhi", "B. Agra", "C. Fatehpur Sikri", "D. Kalanaur in Punjab"],
+      "correct_answer": "D. Kalanaur in Punjab",
+      "explanation": "When Humayun died, Akbar was at Kalanaur in Punjab, and his coronation took place there in 1556. Delhi and Agra were held by Hemu at the time.",
+      "trick": "Students assume the coronation happened in Delhi or Agra, the usual Mughal capitals. But Akbar was at Kalanaur when his father died, and his coronation happened there because Delhi and Agra were occupied by Hemu."
+    },
+    {
+      "id": "ak_trk003",
+      "type": "mcq",
+      "question": "Who led the Mughal forces at the Battle of Haldighati?",
+      "options": ["A. Akbar himself", "B. Bairam Khan", "C. Raja Birbal", "D. Man Singh I of Amber"],
+      "correct_answer": "D. Man Singh I of Amber",
+      "explanation": "The Mughal forces at Haldighati were led by Man Singh I of Amber, a Rajput in Akbar's service. Akbar did not personally fight in this battle.",
+      "trick": "Students assume Akbar personally led the battle against Maharana Pratap. It was actually Man Singh I, a Rajput fighting against another Rajput. Also, Bairam Khan had been dismissed in 1560, long before 1576."
+    },
+    {
+      "id": "ak_trk004",
+      "type": "mcq",
+      "question": "Bairam Khan was killed by:",
+      "options": ["A. Akbar's soldiers on his orders", "B. An Afghan near Ahmedabad", "C. Maharana Pratap's forces", "D. Mirza Hakim in Kabul"],
+      "correct_answer": "B. An Afghan near Ahmedabad",
+      "explanation": "After being removed as regent and asked to go to Mecca, Bairam Khan was killed by an Afghan near Ahmedabad. Akbar did not order his death.",
+      "trick": "Students often think Akbar had Bairam Khan executed. Akbar actually asked him to go to Mecca on pilgrimage, and Bairam Khan was killed en route by an Afghan near Ahmedabad."
+    },
+    {
+      "id": "ak_trk005",
+      "type": "mcq",
+      "question": "The first Rajput to form an alliance with Akbar was:",
+      "options": ["A. Raja Man Singh", "B. Raja Birbal", "C. Maharana Pratap", "D. Raja Bharmal of Amber"],
+      "correct_answer": "D. Raja Bharmal of Amber",
+      "explanation": "Raja Bharmal of Amber was the first Rajput to enter into a matrimonial alliance with Akbar. Raja Man Singh was from a later generation.",
+      "trick": "Students confuse Raja Man Singh (the famous general) with Raja Bharmal. Man Singh came later; Bharmal was the first to form the alliance. Birbal was not from a ruling Rajput family. Maharana Pratap opposed Akbar."
+    },
+    {
+      "id": "ak_trk006",
+      "type": "mcq",
+      "question": "Who accepted Din-i-Ilahi among Akbar's close associates?",
+      "options": ["A. Raja Man Singh", "B. Raja Todar Mal", "C. Raja Birbal", "D. Abul Fazl"],
+      "correct_answer": "C. Raja Birbal",
+      "explanation": "Raja Birbal was the only one among Akbar's close associates who accepted Din-i-Ilahi. Even Raja Man Singh, despite being closely allied with Akbar, refused.",
+      "trick": "Students think Raja Man Singh accepted because he was Akbar's military commander. But Man Singh actually refused Din-i-Ilahi. Only Birbal followed it."
+    },
+    {
+      "id": "ak_trk007",
+      "type": "mcq",
+      "question": "Akbar was brought up by his:",
+      "options": ["A. Mother Hamida Banu Begum", "B. Father Humayun", "C. Paternal uncle Kamran", "D. Regent Bairam Khan"],
+      "correct_answer": "C. Paternal uncle Kamran",
+      "explanation": "Akbar was brought up by his paternal uncle Kamran while his father Humayun was in exile. Bairam Khan became his regent later, after Humayun's death.",
+      "trick": "Students confuse Bairam Khan (regent after Humayun's death) with the person who raised Akbar. Kamran raised him during Humayun's exile period, before Bairam Khan became regent."
+    },
+    {
+      "id": "ak_trk008",
+      "type": "mcq",
+      "question": "Humayun's Tomb is located in:",
+      "options": ["A. Agra", "B. Fatehpur Sikri", "C. Lahore", "D. New Delhi"],
+      "correct_answer": "D. New Delhi",
+      "explanation": "Humayun's Tomb is located in New Delhi, not in Agra. Students often confuse it with other Mughal monuments in Agra.",
+      "trick": "Since most famous Mughal monuments (Taj Mahal, Fatehpur Sikri, Agra Fort) are associated with Agra, students assume Humayun's Tomb is also there. It is actually in New Delhi."
+    },
+    {
+      "id": "ak_trk009",
+      "type": "mcq",
+      "question": "The head of the revenue department in Akbar's central administration was:",
+      "options": ["A. Mir Bakshi", "B. Sadr-us-Sudur", "C. Wazir/Diwan", "D. Mir Saman"],
+      "correct_answer": "C. Wazir/Diwan",
+      "explanation": "The Wazir or Diwan was the head of the revenue department. Mir Bakshi handled military administration, Sadr-us-Sudur protected Islamic laws, and Mir Saman managed royal Karkhanas.",
+      "trick": "Students mix up the five key officials. Remember: Wazir/Diwan = Revenue, Mir Bakshi = Military, Mir Saman = Karkhanas, Sadr-us-Sudur = Islamic laws, Qazi = Judiciary."
+    },
+    {
+      "id": "ak_trk010",
+      "type": "mcq",
+      "question": "The Subedar in Akbar's provincial administration was the:",
+      "options": ["A. Head of the revenue department in the province", "B. Head of the judiciary", "C. Provincial governor directly appointed by the Emperor", "D. Head of town administration"],
+      "correct_answer": "C. Provincial governor directly appointed by the Emperor",
+      "explanation": "The Subedar was the provincial governor, directly appointed by the Emperor. The Kotwal was in charge of town administration, and the Sadr handled judicial matters at the provincial level.",
+      "trick": "The textbook's own true/false question tests this: 'The head of the revenue department in the suba was the Subedar' is FALSE. The Subedar was the governor, not revenue head."
+    },
+    {
+      "id": "ak_trk011",
+      "type": "mcq",
+      "question": "Akbar's half-brother who revolted from Kabul was:",
+      "options": ["A. Kamran", "B. Mirza Hakim", "C. Adil Shah", "D. Bairam Khan"],
+      "correct_answer": "B. Mirza Hakim",
+      "explanation": "Mirza Hakim was Akbar's half-brother who revolted from Kabul. Kamran was Akbar's paternal uncle. Adil Shah was an Afghan enemy, and Bairam Khan was the regent.",
+      "trick": "Students confuse Kamran (uncle who raised Akbar) with Mirza Hakim (half-brother who revolted from Kabul). These are two different relatives with different roles."
+    },
+    {
+      "id": "ak_trk012",
+      "type": "mcq",
+      "question": "In the Mansabdari system, 'Sawar' referred to:",
+      "options": ["A. The personal rank of the officer", "B. The size of the cavalry contingent", "C. The amount of salary paid", "D. The area of jagir granted"],
+      "correct_answer": "B. The size of the cavalry contingent",
+      "explanation": "Sawar referred to the size of the cavalry contingent that the mansabdar was expected to maintain. Zat was the personal rank.",
+      "trick": "Students frequently swap Zat and Sawar. Remember: Zat = personal rank (think 'self'), Sawar = cavalry size (think 'sawar' relates to horsemen/riders)."
+    },
+    {
+      "id": "ak_trk013",
+      "type": "mcq",
+      "question": "The Buland Darwaza was built to commemorate Akbar's victory over:",
+      "options": ["A. Rajasthan", "B. Bengal", "C. Malwa", "D. Gujarat"],
+      "correct_answer": "D. Gujarat",
+      "explanation": "The Buland Darwaza at Fatehpur Sikri was built to commemorate Akbar's victory over Gujarat in 1572. It is the highest gateway in India.",
+      "trick": "Students confuse which victory the Buland Darwaza commemorates. It was specifically built for the Gujarat victory, not Malwa, Bengal, or Rajasthan."
+    },
+    {
+      "id": "ak_trk014",
+      "type": "mcq",
+      "question": "Akbar never learnt to read or write, yet he:",
+      "options": ["A. Showed no interest in literature", "B. Had books read to him and patronised poets and writers", "C. Wrote the Akbarnama himself", "D. Could only read Persian"],
+      "correct_answer": "B. Had books read to him and patronised poets and writers",
+      "explanation": "Despite never learning to read or write, Akbar was fond of knowledge and had books read to him. He patronised great writers like Abul Fazl and Faizi. The Akbarnama was written by Abul Fazl, not by Akbar.",
+      "trick": "Students may assume that because Akbar was illiterate, he had no interest in literature. Or they may think he wrote the Akbarnama himself. It was commissioned by him but written by Abul Fazl."
+    },
+    {
+      "id": "ak_trk015",
+      "type": "mcq",
+      "question": "The Tomb of Sheikh Salim Chisti at Fatehpur Sikri is made of:",
+      "options": ["A. Red sandstone", "B. Marble with pearl and ebony inlay", "C. Granite", "D. Limestone"],
+      "correct_answer": "B. Marble with pearl and ebony inlay",
+      "explanation": "The Tomb of Sheikh Salim Chisti is made of marble with pearl and ebony inlay, while most other buildings at Fatehpur Sikri use red sandstone.",
+      "trick": "Since Fatehpur Sikri is known for red sandstone, students assume everything there is red sandstone. But the Tomb of Salim Chisti is an exception - it is made of marble."
+    },
+    {
+      "id": "ak_trk016",
+      "type": "mcq",
+      "question": "After Maharana Pratap's defeat at Haldighati, he:",
+      "options": ["A. Surrendered to Akbar", "B. Was captured and imprisoned", "C. Took shelter in a mountain fortress and continued resistance", "D. Accepted Mughal authority"],
+      "correct_answer": "C. Took shelter in a mountain fortress and continued resistance",
+      "explanation": "Despite being defeated at Haldighati, Maharana Pratap did not surrender. He took shelter in a mountain fortress and continued resistance, eventually taking back part of his dominion in 1597.",
+      "trick": "Students assume defeat at Haldighati meant the end of Maharana Pratap's resistance. He actually continued fighting and recovered part of his territory by 1597."
+    },
+    {
+      "id": "ak_trk017",
+      "type": "mcq",
+      "question": "Din-i-Ilahi was:",
+      "options": ["A. A completely new religion founded by Akbar", "B. A Sufi-like order suggesting belief in one God", "C. A Hindu religious sect", "D. A system forced on all Mughal subjects"],
+      "correct_answer": "B. A Sufi-like order suggesting belief in one God",
+      "explanation": "Din-i-Ilahi was not a new religion but was like a Sufi order. Akbar did not force anyone to follow it. It means 'religion of one God'.",
+      "trick": "Students often describe Din-i-Ilahi as a 'new religion founded by Akbar' - it was NOT a new religion, just a Sufi-like order. Also, it was NOT forced on anyone."
+    },
+    {
+      "id": "ak_trk018",
+      "type": "mcq",
+      "question": "The dahsaal system fixed revenue based on:",
+      "options": ["A. Current year's produce only", "B. The landlord's estimate", "C. Average produce and prices of the last 10 years", "D. A fixed flat rate for all land"],
+      "correct_answer": "C. Average produce and prices of the last 10 years",
+      "explanation": "The dahsaal system, introduced in 1580, fixed revenue by assessing the average produce and prices of the last 10 years, making it fair and predictable.",
+      "trick": "Students may think 'dahsaal' (which literally means 'ten years') refers to a 10-year tax collection period. It actually means the revenue was calculated using the average of the last 10 years of data."
+    },
+    {
+      "id": "ak_trk019",
+      "type": "mcq",
+      "question": "Akbar initially divided his empire into how many provinces?",
+      "options": ["A. Ten", "B. Twelve", "C. Fifteen", "D. Twenty"],
+      "correct_answer": "B. Twelve",
+      "explanation": "Akbar initially divided his empire into twelve provinces (subas). The number later grew to twenty with the addition of Ahmadnagar, Berar, and Khandesh.",
+      "trick": "Students confuse 'twelve' (initial number) with 'twenty' (final number after additions). The textbook exercise specifically tests this: the answer is twelve, not twenty."
+    },
+    {
+      "id": "ak_trk020",
+      "type": "mcq",
+      "question": "Rani Durgawati ruled which kingdom conquered by Akbar in 1564?",
+      "options": ["A. Gujarat", "B. Malwa", "C. Gondwana", "D. Bengal"],
+      "correct_answer": "C. Gondwana",
+      "explanation": "Rani Durgawati ruled Gondwana, which was conquered and annexed by Akbar in 1564. Gujarat was conquered in 1572 and Bengal in 1574-76.",
+      "trick": "Students may confuse Rani Durgawati (Gondwana) with Chand Bibi (Ahmadnagar). Both were brave women rulers who resisted Akbar, but at different times and places."
+    },
+    {
+      "id": "ak_trk021",
+      "type": "mcq",
+      "question": "After Bairam Khan's death, his son became:",
+      "options": ["A. The next regent of Akbar", "B. The governor of Kabul", "C. The influential noble Abdur Rahim Khan-i-Khana", "D. A general in Maharana Pratap's army"],
+      "correct_answer": "C. The influential noble Abdur Rahim Khan-i-Khana",
+      "explanation": "Bairam Khan's son became Abdur Rahim Khan-i-Khana, an influential noble and one of the Navratnas (Nine Gems) of Akbar's court.",
+      "trick": "Students may not connect Abdur Rahim Khan-i-Khana (one of the Navratnas) with Bairam Khan's son. These are the same person - the son of the dismissed regent became one of Akbar's most valued courtiers."
+    },
+    {
+      "id": "ak_trk022",
+      "type": "mcq",
+      "question": "The Kotwal in Akbar's administration was responsible for:",
+      "options": ["A. Provincial governance", "B. Town administration, police and civil duties", "C. Revenue collection", "D. Military affairs"],
+      "correct_answer": "B. Town administration, police and civil duties",
+      "explanation": "The Kotwal was responsible for town administration, police, and civil duties. The Subedar was the provincial governor, not the Kotwal.",
+      "trick": "Students confuse Kotwal (town police/administration) with Subedar (provincial governor). Remember Kotwal for towns, Subedar for entire subas/provinces."
+    },
+    {
+      "id": "ak_trk023",
+      "type": "mcq",
+      "question": "Fatehpur Sikri was surrounded by:",
+      "options": ["A. Walls on all four sides", "B. A moat on all sides", "C. Walls on three sides with an artificial lake on the fourth", "D. A river on two sides and walls on two sides"],
+      "correct_answer": "C. Walls on three sides with an artificial lake on the fourth",
+      "explanation": "Fatehpur Sikri was surrounded by a wall on three sides with an artificial lake on the fourth side.",
+      "trick": "Students assume the city was entirely walled. The fourth side had an artificial lake rather than a wall, which was a distinctive feature of Akbar's capital."
+    },
+    {
+      "id": "ak_trk024",
+      "type": "mcq",
+      "question": "The Ain-i-Akbari was:",
+      "options": ["A. A separate book from the Akbarnama", "B. Part of the Akbarnama documenting law and revenue system", "C. Written by Faizi", "D. Akbar's autobiography"],
+      "correct_answer": "B. Part of the Akbarnama documenting law and revenue system",
+      "explanation": "The Ain-i-Akbari was part of the Akbarnama (not a separate book). It documented the law and revenue system. Both were written by Abul Fazl, not Faizi.",
+      "trick": "Students think the Ain-i-Akbari and Akbarnama are two completely separate books. The Ain-i-Akbari is actually a section within the Akbarnama. Also, some confuse Abul Fazl (Akbarnama) with Faizi (Persian poet) - they were different people."
+    },
+    {
+      "id": "ak_trk025",
+      "type": "mcq",
+      "question": "Which of the following is TRUE about Akbar's social reforms?",
+      "options": ["A. He encouraged child marriage", "B. He raised marriage age to 16 for girls and 18 for boys", "C. He prohibited Sati and legalised widow remarriage", "D. He continued the practice of enslaving conquered families"],
+      "correct_answer": "C. He prohibited Sati and legalised widow remarriage",
+      "explanation": "Akbar prohibited Sati, legalised widow remarriage, discouraged child marriage (age 14 for girls, 16 for boys), and abolished enslaving conquered families.",
+      "trick": "Students may get the marriage ages wrong (14 for girls and 16 for boys, not 16 and 18). Options A and D are the opposite of what Akbar did."
+    },
+    {
+      "id": "ak_trk026",
+      "type": "mcq",
+      "question": "The architecture of Fatehpur Sikri was built using:",
+      "options": ["A. Only white marble", "B. Red sandstone with insertions of white marble", "C. Only red sandstone", "D. Grey granite with marble"],
+      "correct_answer": "B. Red sandstone with insertions of white marble",
+      "explanation": "Fatehpur Sikri was built primarily of red sandstone with insertions of white marble. It was not purely one material.",
+      "trick": "Students may say 'red sandstone' only or 'white marble' only. The correct answer is red sandstone WITH white marble insertions. The Tomb of Salim Chisti is the exception, being entirely marble."
+    },
+    {
+      "id": "ak_trk027",
+      "type": "mcq",
+      "question": "Akbar's policy of secularism was continued by his:",
+      "options": ["A. Grandson Shah Jahan", "B. Great-grandson Aurangzeb", "C. Son Jahangir", "D. No one - it ended with his death"],
+      "correct_answer": "C. Son Jahangir",
+      "explanation": "The textbook states that Akbar's policy of secularism was followed by his son Jahangir. Din-i-Ilahi faded out, but the broader secular approach continued.",
+      "trick": "Students confuse what ended (Din-i-Ilahi) with what continued (secularism policy). Din-i-Ilahi faded out, but the general policy of secularism was carried on by Jahangir."
+    },
+    {
+      "id": "ak_trk028",
+      "type": "mcq",
+      "question": "Tansen introduced features of _____ music into Indian music.",
+      "options": ["A. Turkish", "B. Afghan", "C. Persian", "D. Central Asian"],
+      "correct_answer": "C. Persian",
+      "explanation": "Tansen introduced features of Persian music into Indian music, creating a unique fusion in Akbar's court.",
+      "trick": "Since the Mughals came from Central Asia, students may guess Turkish or Central Asian. The textbook specifically says Persian music was introduced into Indian music by Tansen."
+    },
+    {
+      "id": "ak_trk029",
+      "type": "mcq",
+      "question": "Land classified as 'Chachar' in Akbar's revenue system was:",
+      "options": ["A. Land under cultivation", "B. Land left fallow to regain fertility", "C. Land not cultivated for 3-5 years", "D. Land not cultivated for more than 5 years"],
+      "correct_answer": "C. Land not cultivated for 3-5 years",
+      "explanation": "Chachar was land not cultivated for 3-5 years. Polaj = under cultivation, Parauti = left fallow, Banjar = not cultivated 5+ years.",
+      "trick": "Students mix up the four land categories. Remember the order of increasing uncultivation: Polaj (cultivated) > Parauti (fallow) > Chachar (3-5 years) > Banjar (5+ years)."
+    },
+    {
+      "id": "ak_trk030",
+      "type": "mcq",
+      "question": "The silver coin during Akbar's reign was called:",
+      "options": ["A. Mohur", "B. Dam", "C. Rupee", "D. Paisa"],
+      "correct_answer": "C. Rupee",
+      "explanation": "The silver coin was called rupee. Mohur was the gold coin, and dam/paisa was the copper coin.",
+      "trick": "Students mix up which coin was which metal. Remember: Gold = Mohur, Silver = Rupee, Copper = Dam/Paisa."
+    },
+    {
+      "id": "ak_trk031",
+      "type": "mcq",
+      "question": "Baz Bahadur, who was defeated by Akbar, was the ruler of:",
+      "options": ["A. Gujarat", "B. Gondwana", "C. Malwa", "D. Bengal"],
+      "correct_answer": "C. Malwa",
+      "explanation": "Baz Bahadur was the ruler of Malwa who was defeated by Akbar in 1559-60 and fled to Burhanpur.",
+      "trick": "Students may confuse Baz Bahadur (Malwa) with other defeated rulers. Rani Durgawati was from Gondwana, and Chand Bibi defended Ahmadnagar."
+    },
+    {
+      "id": "ak_trk032",
+      "type": "mcq",
+      "question": "The Akbarnama took how many years to complete?",
+      "options": ["A. Three years", "B. Five years", "C. Seven years", "D. Ten years"],
+      "correct_answer": "C. Seven years",
+      "explanation": "The Akbarnama, written by Abul Fazl, took seven years to complete. It was commissioned by Akbar and contained paintings.",
+      "trick": "Students may guess any number. The textbook specifically states seven years."
+    },
+    {
+      "id": "ak_trk033",
+      "type": "mcq",
+      "question": "Which TWO famous painters flourished during Akbar's reign?",
+      "options": ["A. Jaswant and Daswana", "B. Mansur and Bishan Das", "C. Abdus Samad and Mir Sayyid Ali", "D. Basawan and Kesu Das"],
+      "correct_answer": "A. Jaswant and Daswana",
+      "explanation": "The textbook names Jaswant and Daswana as the two famous painters of Akbar's period.",
+      "trick": "The other painter names are from different Mughal periods. The Pragi textbook specifically mentions only Jaswant and Daswana for Akbar's reign."
+    },
+    {
+      "id": "ak_trk034",
+      "type": "mcq",
+      "question": "Mansab ranks above 50,000 were reserved for:",
+      "options": ["A. The most senior generals", "B. The Navratnas", "C. Princes of the royal family", "D. Provincial governors"],
+      "correct_answer": "C. Princes of the royal family",
+      "explanation": "In the Mansabdari system, Zat ranks ranged from 10 to 10,000, with ranks above 50,000 reserved exclusively for princes.",
+      "trick": "Students may think the highest ranks went to the best generals or Navratnas. Ranks above 50,000 were reserved exclusively for royal family members (princes)."
+    },
+    {
+      "id": "ak_trk035",
+      "type": "mcq",
+      "question": "The Second Battle of Panipat was fought between:",
+      "options": ["A. Babur and Ibrahim Lodi", "B. Akbar and Maharana Pratap", "C. Mughal forces under Akbar/Bairam Khan and Hemu", "D. Humayun and Sher Shah"],
+      "correct_answer": "C. Mughal forces under Akbar/Bairam Khan and Hemu",
+      "explanation": "The Second Battle of Panipat (1556) was between the Mughal forces under Akbar and Bairam Khan, and Hemu. Babur vs Ibrahim Lodi was the FIRST Battle of Panipat (1526).",
+      "trick": "Students confuse the three Battles of Panipat. First (1526) = Babur vs Ibrahim Lodi. Second (1556) = Akbar/Bairam Khan vs Hemu. The battle with Maharana Pratap was at Haldighati, not Panipat."
+    },
+    {
+      "id": "ak_trk036",
+      "type": "mcq",
+      "question": "Humayun married Hamida Banu Begum while in exile in:",
+      "options": ["A. Kabul and Persia", "B. Sind and Rajasthan", "C. Gujarat and Malwa", "D. Punjab and Kashmir"],
+      "correct_answer": "B. Sind and Rajasthan",
+      "explanation": "Humayun married Hamida Banu Begum while in exile in Sind and Rajasthan, and their son Akbar was born in Amarkot Fort in Sind.",
+      "trick": "Students may think Humayun's exile was in Persia (which is true for a later period). The marriage to Hamida Banu Begum specifically happened during the exile in Sind and Rajasthan."
+    },
+    {
+      "id": "ak_trk037",
+      "type": "mcq",
+      "question": "Which of the following is FALSE about Fatehpur Sikri?",
+      "options": ["A. It was built near Agra", "B. It blended Muslim and Hindu architectural elements", "C. Akbar selected the site because of the Sufi saint Salim Chisti", "D. All buildings are made entirely of white marble"],
+      "correct_answer": "D. All buildings are made entirely of white marble",
+      "explanation": "Most buildings at Fatehpur Sikri are made of red sandstone with white marble insertions. Only the Tomb of Salim Chisti is made entirely of marble. All other statements are true.",
+      "trick": "Students who remember the Tomb of Salim Chisti being marble may incorrectly generalise that to all buildings. The main material is red sandstone with marble insertions."
+    },
+    {
+      "id": "ak_trk038",
+      "type": "mcq",
+      "question": "Akbar started his Deccan campaign in:",
+      "options": ["A. 1572", "B. 1580", "C. 1590", "D. 1601"],
+      "correct_answer": "C. 1590",
+      "explanation": "Akbar started his Deccan campaign in 1590, attacking Ahmadnagar first. In 1601, he invaded Khandesh and captured Burhanpur and Asirgarh forts.",
+      "trick": "Students may confuse 1590 (start of Deccan campaign) with 1601 (Khandesh campaign). Gujarat was conquered in 1572, and the dahsaal system started in 1580 - these are different dates."
+    },
+    {
+      "id": "ak_trk039",
+      "type": "mcq",
+      "question": "The lowest administrative unit in Akbar's provincial system was the:",
+      "options": ["A. Suba", "B. Sarkar", "C. Pargana", "D. Village under panchayat"],
+      "correct_answer": "D. Village under panchayat",
+      "explanation": "The administrative hierarchy was: Suba (province) > Sarkar (district) > Pargana (group of villages) > Village (under panchayat, the lowest unit).",
+      "trick": "Students may think pargana is the lowest unit. The correct hierarchy from top to bottom is: Suba > Sarkar > Pargana > Village (under panchayat)."
+    },
+    {
+      "id": "ak_trk040",
+      "type": "mcq",
+      "question": "Adil Shah was killed in Bengal by Khizr Khan in:",
+      "options": ["A. November 1556", "B. April 1557", "C. June 1576", "D. January 1560"],
+      "correct_answer": "B. April 1557",
+      "explanation": "After the Second Battle of Panipat (November 1556), Adil Shah was also defeated and killed in Bengal by Khizr Khan in April 1557.",
+      "trick": "Students focus on the Second Battle of Panipat (November 1556) and forget that Adil Shah himself was killed separately in Bengal in April 1557 by Khizr Khan, not at Panipat."
+    }
+  ]
+}

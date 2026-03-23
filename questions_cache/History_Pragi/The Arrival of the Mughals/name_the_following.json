@@ -1,0 +1,95 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "am_ntf001",
+      "question": "The founder of the Mughal Empire in India.",
+      "answer": "Babur (Zahiruddin Muhammad Babur)",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_ntf002",
+      "question": "The small principality in Transoxiana where Babur first became ruler.",
+      "answer": "Farghana",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_ntf003",
+      "question": "The Governor of Punjab who invited Babur to invade India.",
+      "answer": "Daulat Khan Lodi",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_ntf004",
+      "question": "The Rajput king of Mewar who was defeated at the Battle of Khanua.",
+      "answer": "Rana Sanga",
+      "source_section": "Battle of Khanua"
+    },
+    {
+      "id": "am_ntf005",
+      "question": "The Ottoman method of warfare used by Babur in India.",
+      "answer": "Rumi method",
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_ntf006",
+      "question": "Babur's autobiography, which is a masterpiece of literature.",
+      "answer": "Tuzuk-i-Baburi (or Baburnama)",
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_ntf007",
+      "question": "The treatise on Muslim law written by Babur.",
+      "answer": "Mubayyin",
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_ntf008",
+      "question": "The dynasty founded by Sher Shah after defeating Humayun.",
+      "answer": "Sur dynasty",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_ntf009",
+      "question": "The fort where Sher Shah died in an accidental blast of gun powder in 1545.",
+      "answer": "Kalinjar",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_ntf010",
+      "question": "The system of branding horses with an imperial sign introduced by Sher Shah.",
+      "answer": "Dagh",
+      "source_section": "Military Administration"
+    },
+    {
+      "id": "am_ntf011",
+      "question": "The famous road built by Sher Shah from Sonargoan to Peshawar.",
+      "answer": "Grand Trunk Road",
+      "source_section": "Transport and Communication"
+    },
+    {
+      "id": "am_ntf012",
+      "question": "The paper on which the amount of land revenue was recorded for peasants.",
+      "answer": "Patta",
+      "source_section": "Land Revenue System"
+    },
+    {
+      "id": "am_ntf013",
+      "question": "Humayun's sister who authored the Humayun Nama.",
+      "answer": "Gulbadan Banu Begum",
+      "source_section": "Humayun"
+    },
+    {
+      "id": "am_ntf014",
+      "question": "The silver coin of standard weight introduced by Sher Shah, used for centuries.",
+      "answer": "Rupia",
+      "source_section": "Trade and Commerce"
+    },
+    {
+      "id": "am_ntf015",
+      "question": "The new city built by Sher Shah on the banks of the river Yamuna near Delhi.",
+      "answer": "Purana Qila",
+      "source_section": "Transport and Communication"
+    }
+  ]
+}

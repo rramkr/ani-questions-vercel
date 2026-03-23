@@ -1,0 +1,80 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "dp_hots001",
+      "question": "If Directive Principles are not enforceable by courts, why are they still considered important?",
+      "context": "Directive Principles are non-justiciable and cannot be taken to court. Yet they are described as 'fundamental in the governance of the country'.",
+      "answer": "Even though Directive Principles are not enforceable by courts, they are still considered important because they serve as guidelines for the government in framing policies and laws. They represent the ideals and aspirations of the nation for social and economic welfare. The government has used them to implement major reforms like abolishing the Zamindari system, making untouchability a punishable offence, establishing free compulsory education, and launching development programmes. They also establish social and economic democracy, which complements the political democracy guaranteed by Fundamental Rights. Without these guidelines, the government would lack a constitutional framework for welfare policies.",
+      "key_points": [
+        "Guidelines for framing government policies and laws",
+        "Represent ideals and aspirations of the nation",
+        "Government has used them for major reforms",
+        "Establish social and economic democracy",
+        "Complement Fundamental Rights"
+      ],
+      "keywords": ["non-justiciable", "guidelines", "policies", "reforms", "social and economic democracy"],
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_hots002",
+      "question": "Why do you think the Directive Principles were inspired by the Constitution of Ireland rather than any other country?",
+      "context": "The framers of the Indian Constitution studied many constitutions from around the world. They chose to model the Directive Principles on Ireland's Constitution.",
+      "answer": "The framers likely chose Ireland's Constitution as the model for Directive Principles because Ireland, like India, had a history of colonial rule under the British. Ireland had gained independence and created its own Constitution with guidelines for social and economic welfare of its citizens. The Irish experience of building a new nation after colonial rule closely paralleled India's situation. The Directive Principles in Ireland's Constitution provided a practical example of how a newly independent country could set aspirational goals for governance without making every goal a legally enforceable right, which would have been impractical given the many challenges both nations faced at independence.",
+      "key_points": [
+        "Ireland had similar colonial history under British rule",
+        "Ireland gained independence and created its own Constitution",
+        "Irish experience paralleled India's situation as a new nation",
+        "Practical model for aspirational governance goals",
+        "Both nations faced similar challenges at independence"
+      ],
+      "keywords": ["Ireland", "colonial rule", "independence", "Constitution", "aspirational goals"],
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_hots003",
+      "question": "How would India be different today if Directive Principles had never been included in the Constitution?",
+      "context": "Since Independence, many reforms and programmes have been implemented based on the guidelines provided by Directive Principles.",
+      "answer": "If Directive Principles had never been included, India would likely be very different today. Without guidelines for social and economic welfare, the government may not have prioritised programmes for poverty reduction, free education, or rural development. The Zamindari system might have continued, keeping wealth concentrated in the hands of a few landlords. Cottage industries may not have received government support, leaving rural populations without employment. Programmes like the Community Development Programme, mid-day meals, and MGNREGA might not have been launched. Weaker sections like Scheduled Castes and Scheduled Tribes may not have received reservations. Without these aspirational goals, India's progress towards becoming a welfare state would have been much slower.",
+      "key_points": [
+        "No constitutional framework for welfare programmes",
+        "Zamindari system may have continued",
+        "Rural development and cottage industries would have suffered",
+        "Weaker sections may not have received reservations",
+        "Progress towards welfare state would have been slower"
+      ],
+      "keywords": ["welfare programmes", "Zamindari", "cottage industries", "rural development", "reservations", "weaker sections"],
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_hots004",
+      "question": "Dr B.R. Ambedkar described Directive Principles as a 'novel feature' of our Constitution. Why do you think he used this term?",
+      "context": "The textbook mentions that Dr B.R. Ambedkar called DPSP a 'novel feature'. Consider what makes them unique compared to other constitutional provisions.",
+      "answer": "Dr B.R. Ambedkar likely called Directive Principles a 'novel feature' because they represented something unique in constitutional design. While most constitutions guarantee enforceable rights (like Fundamental Rights), the idea of including non-enforceable guidelines for governance was innovative. These principles create a moral obligation on the government to work towards social and economic welfare without burdening the courts with enforcement. They bridge the gap between what is ideal and what is immediately achievable. For a newly independent nation facing poverty, illiteracy and inequality, this was a creative solution - setting aspirational goals that the government could work towards progressively, rather than making impossible promises as enforceable rights.",
+      "key_points": [
+        "Unique and innovative concept in constitutional design",
+        "Non-enforceable guidelines creating moral obligation",
+        "Bridge between ideal goals and immediate achievability",
+        "Creative solution for a newly independent nation",
+        "Progressive implementation rather than immediate enforcement"
+      ],
+      "keywords": ["novel feature", "Ambedkar", "innovative", "moral obligation", "aspirational", "progressive"],
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_hots005",
+      "question": "Why is the promotion of cottage industries especially important for rural India, and how does it connect to Gandhian philosophy?",
+      "context": "Gandhi believed in Swavlamban (self-reliance) and rebuilding villages. The Directive Principles include promotion of cottage industries as a Gandhian principle.",
+      "answer": "The promotion of cottage industries is especially important for rural India because most of India's population lives in villages where large-scale factories and industries are not present. Cottage industries are small-scale, decentralised manufacturing businesses that can be operated from homes, providing employment and income to rural families. This connects directly to Gandhian philosophy in several ways: Swavlamban (self-reliance) is achieved when villagers can produce goods locally without depending on urban factories. Sarvodaya (welfare for all) is served when employment reaches the poorest sections. Gandhi's vision of rebuilding villages becomes reality when local production strengthens the rural economy. The government has implemented this through boards like the Village Industries Board, All India Handicraft Board, Silk Board and Coir Board under Article 43.",
+      "key_points": [
+        "Most of India's population lives in rural areas",
+        "Cottage industries provide local employment",
+        "Connects to Swavlamban (self-reliance)",
+        "Supports Sarvodaya (welfare for all)",
+        "Government established boards under Article 43"
+      ],
+      "keywords": ["cottage industries", "rural India", "Swavlamban", "self-reliance", "Sarvodaya", "villages", "Article 43"],
+      "source_section": "Gandhian Philosophy"
+    }
+  ]
+}

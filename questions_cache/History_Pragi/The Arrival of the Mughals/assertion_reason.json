@@ -1,0 +1,117 @@
+{
+  "question_type": "assertion_reason",
+  "questions": [
+    {
+      "id": "am_ar001",
+      "assertion": "Babur defeated Ibrahim Lodi in the First Battle of Panipat despite having fewer soldiers.",
+      "reason": "Babur used the Rumi (Ottoman) method of warfare and artillery and cannons for the first time in India.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Babur's soldiers were indeed less in number but he won because of superior army organisation, the Rumi (Ottoman) method of warfare, and the use of artillery and cannons for the first time in India. The reason directly explains why he could win despite being outnumbered.",
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_ar002",
+      "assertion": "Daulat Khan Lodi invited Babur to invade India.",
+      "reason": "Daulat Khan Lodi wanted Babur to permanently settle in India and establish an empire.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The assertion is true as Daulat Khan Lodi (Governor of Punjab) did invite Babur. However, the reason is false because Daulat Khan Lodi thought Babur would defeat Ibrahim Lodi and then leave. He did not expect Babur to stay permanently. It was Babur who had heard of India's wealth and planned to establish an empire.",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_ar003",
+      "assertion": "Humayun faced many problems when he ascended the throne in 1530.",
+      "reason": "The Mughal territories were not consolidated and Humayun did not command the respect of the nobility.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true. Humayun indeed faced problems as the newly conquered territories were not consolidated, unlike Babur he did not command the respect of the Mughal nobility, the Chaghatai nobles were unfavourable, and his brothers were dissatisfied. The lack of consolidation and respect directly explains his difficulties.",
+      "source_section": "Humayun"
+    },
+    {
+      "id": "am_ar004",
+      "assertion": "Sher Shah introduced the system of Dagh.",
+      "reason": "Dagh was a system of recording land revenue on paper.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The assertion is true as Sher Shah did introduce the Dagh system. However, the reason is false. Dagh was the system of branding horses with an imperial sign to prevent substitution, not recording land revenue. The paper for recording land revenue was called 'Patta'.",
+      "source_section": "Military Administration"
+    },
+    {
+      "id": "am_ar005",
+      "assertion": "Sher Shah's land revenue system was adopted by Akbar.",
+      "reason": "Sher Shah's system was fair to peasants, with the state's share being one-third of produce and provisions for relief during calamities.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both the assertion and reason are true. Sher Shah's land revenue system was so well-designed and efficient, with fair assessment rates, the Patta system to prevent overcharging, and relief during famines, that Akbar later adopted it. The fairness and efficiency of the system explains why Akbar chose to adopt it.",
+      "source_section": "Land Revenue System"
+    },
+    {
+      "id": "am_ar006",
+      "assertion": "Babur had great command over the Turki language.",
+      "reason": "His autobiography Tuzuk-i-Baburi was written in Turki and is considered a masterpiece of literature.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true. Babur had great command over the Turki language, and his autobiography Tuzuk-i-Baburi (Baburnama) was indeed written in Turki and is a masterpiece of literature. His style and diction in Turki gave him a high place among scholars. The reason directly demonstrates and explains the assertion about his command over Turki.",
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_ar007",
+      "assertion": "Humayun re-established the Mughal dynasty in 1555.",
+      "reason": "The successors of Sher Shah were weak rulers who could not hold the empire together.",
+      "correct_option": "A",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "Both statements are true. Humayun did re-establish the Mughal dynasty in 1555. This was possible because after Sher Shah's death in 1545, his weak successors could not hold the empire together. Humayun took advantage of this weakness to recapture his throne with Persian help. The weakness of Sher Shah's successors directly explains Humayun's successful return.",
+      "source_section": "Humayun's Return"
+    },
+    {
+      "id": "am_ar008",
+      "assertion": "The Grand Trunk Road was one of Sher Shah's most important achievements.",
+      "reason": "The road ran from Delhi to Agra and promoted local trade.",
+      "correct_option": "C",
+      "options": [
+        "A. Both A and R are true and R is the correct explanation of A.",
+        "B. Both A and R are true but R is not the correct explanation of A.",
+        "C. A is true but R is false.",
+        "D. Both A and R are false."
+      ],
+      "explanation": "The assertion is true as the Grand Trunk Road was one of Sher Shah's most notable achievements. However, the reason is false because the Grand Trunk Road ran from Sonargoan in Bengal to Peshawar in the North-Western frontier, not from Delhi to Agra. The road from Chittor to Agra was a different road.",
+      "source_section": "Transport and Communication"
+    }
+  ]
+}

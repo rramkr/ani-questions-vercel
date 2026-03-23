@@ -1,0 +1,112 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "tf001",
+      "question": "Matter occupies space and has mass.",
+      "correct_answer": true,
+      "explanation": "This is the basic definition of matter. Anything that occupies space and has mass is called matter.",
+      "source_section": "Matter"
+    },
+    {
+      "id": "tf002",
+      "question": "Molecules of a substance are always at rest.",
+      "correct_answer": false,
+      "explanation": "Molecules are in constant motion. They possess kinetic energy and keep moving continuously.",
+      "source_section": "Molecules"
+    },
+    {
+      "id": "tf003",
+      "question": "Cohesion is the force of attraction between molecules of different substances.",
+      "correct_answer": false,
+      "explanation": "Cohesion is the force of attraction between molecules of the SAME substance. The force between molecules of different substances is called adhesion.",
+      "source_section": "Inter-molecular Forces"
+    },
+    {
+      "id": "tf004",
+      "question": "Gases have neither definite shape nor definite volume.",
+      "correct_answer": true,
+      "explanation": "In gases, molecules are widely apart with very weak inter-molecular forces, so gases have neither a definite shape nor a definite volume. They take the shape and volume of their container.",
+      "source_section": "States of Matter"
+    },
+    {
+      "id": "tf005",
+      "question": "The melting point of ice is 100\u00b0C.",
+      "correct_answer": false,
+      "explanation": "The melting point of ice is 0\u00b0C, not 100\u00b0C. 100\u00b0C is the boiling point of water.",
+      "source_section": "Change of State"
+    },
+    {
+      "id": "tf006",
+      "question": "During a change of state, the temperature remains constant even though heat is being supplied.",
+      "correct_answer": true,
+      "explanation": "During a change of state, heat energy (latent heat) is absorbed or released without any change in temperature. The heat goes into breaking or forming inter-molecular bonds.",
+      "source_section": "Latent Heat"
+    },
+    {
+      "id": "tf007",
+      "question": "The melting point of naphthalene is 80\u00b0C.",
+      "correct_answer": true,
+      "explanation": "The melting point of naphthalene is 80\u00b0C as stated in the textbook.",
+      "source_section": "Change of State"
+    },
+    {
+      "id": "tf008",
+      "question": "Water contracts on freezing like most other substances.",
+      "correct_answer": false,
+      "explanation": "Water is an exception. It EXPANDS on freezing, unlike most substances such as wax and lead which contract on freezing.",
+      "source_section": "Effect of Pressure on Melting Point"
+    },
+    {
+      "id": "tf009",
+      "question": "The melting point of wax increases with increase in pressure.",
+      "correct_answer": true,
+      "explanation": "The melting point of wax increases with increase in pressure. This is because wax contracts on freezing (unlike ice which expands on freezing).",
+      "source_section": "Effect of Pressure on Melting Point"
+    },
+    {
+      "id": "tf010",
+      "question": "Evaporation occurs only at the boiling point of a liquid.",
+      "correct_answer": false,
+      "explanation": "Evaporation occurs at ALL temperatures, not just at the boiling point. It is a slow process that takes place at the surface of a liquid at any temperature.",
+      "source_section": "Evaporation"
+    },
+    {
+      "id": "tf011",
+      "question": "Camphor is an example of a substance that undergoes sublimation.",
+      "correct_answer": true,
+      "explanation": "Camphor sublimes, meaning it changes directly from solid to gas without passing through the liquid state. Other examples include ammonium chloride, iodine, naphthalene, and dry ice.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "tf012",
+      "question": "Adding salt to ice increases its melting point.",
+      "correct_answer": false,
+      "explanation": "Adding salt to ice DECREASES its melting point. This is the principle used in making freezing mixtures for kulfis.",
+      "source_section": "Effect of Impurities on Melting Point"
+    },
+    {
+      "id": "tf013",
+      "question": "Higher humidity decreases the rate of evaporation.",
+      "correct_answer": true,
+      "explanation": "When humidity is high, the air already contains a lot of water vapour, so the rate of evaporation decreases.",
+      "source_section": "Evaporation"
+    },
+    {
+      "id": "tf014",
+      "question": "The boiling point of alcohol is 78.3\u00b0C.",
+      "correct_answer": true,
+      "explanation": "The boiling point of alcohol is 78.3\u00b0C, which is lower than the boiling point of water (100\u00b0C).",
+      "source_section": "Change of State"
+    },
+    {
+      "id": "tf015",
+      "question": "In sublimation-prone solids, the inter-molecular forces are very strong.",
+      "correct_answer": false,
+      "explanation": "In solids that undergo sublimation, the inter-molecular forces are WEAK, which is why they can change directly from solid to gas without passing through the liquid state.",
+      "source_section": "Sublimation"
+    }
+  ]
+}

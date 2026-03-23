@@ -1,0 +1,89 @@
+{
+  "question_type": "hots",
+  "questions": [
+    {
+      "id": "ak_hots001",
+      "question": "Why do you think Akbar's policy of religious tolerance was more successful than the approach of earlier rulers?",
+      "context": "Evaluating political and religious strategy",
+      "answer": "Akbar's policy of religious tolerance was more successful because he did not merely tolerate other religions passively but actively embraced and respected them. He married a Rajput princess and allowed her to practise her own religion, abolished the jizya and pilgrim tax that had created deep resentment among Hindus, participated in Hindu festivals like Diwali and Holi, and appointed Hindus to the highest positions based on merit. By inviting scholars of all faiths to the Ibadat Khana for discussions, he showed genuine respect for all beliefs. This inclusive approach won him the loyalty and cooperation of diverse communities, creating a stable empire where subjects of different faiths felt respected. Earlier rulers had imposed discriminatory taxes and policies that created division and resistance.",
+      "key_points": [
+        "Akbar actively embraced other religions rather than just tolerating them passively",
+        "He abolished discriminatory taxes like jizya and pilgrim tax that caused Hindu resentment",
+        "He married a Rajput princess and allowed freedom of worship",
+        "He participated in Hindu festivals showing genuine respect",
+        "He appointed Hindus like Todar Mal and Man Singh to highest positions based on merit",
+        "The Ibadat Khana showed respect for all faiths including Jains, Parsis, Christians",
+        "This created a stable empire with loyal subjects of diverse faiths"
+      ],
+      "keywords": ["religious tolerance", "jizya", "pilgrim tax", "Ibadat Khana", "Rajput alliance", "merit-based appointments"],
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ak_hots002",
+      "question": "Akbar built the Mughal empire by enlisting the support of the Rajputs. Discuss how this strategy was different from and more effective than military conquest alone.",
+      "context": "Analyzing diplomatic and military strategy",
+      "answer": "Akbar's strategy of enlisting Rajput support was brilliant because it combined diplomacy with military strength. Instead of spending resources fighting the powerful Rajput warriors, he turned them into allies through matrimonial alliances (starting with Raja Bharmal of Amber) and by offering high administrative and military posts. This gave him access to brave, loyal soldiers like Raja Man Singh who led the Mughal forces at Haldighati. By never interfering in the Rajputs' internal matters, he earned their trust. Military conquest alone would have been costly, created resentment, and required constant military presence to hold territories. Through alliances, Akbar gained willing cooperation, reducing the need for military force. By 1570, almost all of Rajasthan was under his control without hostility. The Rajputs became partners in empire-building rather than defeated enemies plotting revenge.",
+      "key_points": [
+        "Diplomatic alliances were less costly than continuous military campaigns",
+        "Matrimonial alliances created personal bonds of loyalty with Rajput families",
+        "Offering high posts turned potential enemies into trusted administrators and generals",
+        "Not interfering in internal matters earned genuine trust",
+        "Rajputs like Man Singh became willing military commanders for the Mughals",
+        "By 1570 almost all of Rajasthan was controlled without hostility",
+        "Military conquest alone would have created resentment and required constant force"
+      ],
+      "keywords": ["Rajput support", "matrimonial alliances", "Raja Bharmal", "Man Singh", "cooperation vs conquest"],
+      "source_section": "Relations with the Rajputs"
+    },
+    {
+      "id": "ak_hots003",
+      "question": "Bring out the main features of the mansabdari system and explain why making ranks non-hereditary was a wise administrative decision.",
+      "context": "Analyzing administrative systems and governance",
+      "answer": "The mansabdari system's key features were that every officer held a rank denoted by Zat (personal rank) and Sawar (cavalry contingent size), officers were paid through jagirs, and critically, ranks were not hereditary. Making ranks non-hereditary was wise because it gave Akbar complete control over appointments and prevented the rise of a powerful feudal class. In earlier systems where titles were inherited, noble families accumulated power over generations and eventually challenged the ruler. Under Akbar's system, every mansabdar owed his position directly to the emperor and knew his family would not retain the jagir after his death. This ensured loyalty, prevented corruption of power, and allowed Akbar to promote officials based on merit and service rather than birth. It also meant the emperor could always redistribute wealth and power as needed for good governance.",
+      "key_points": [
+        "Ranks denoted by Zat (personal) and Sawar (cavalry size) created a structured hierarchy",
+        "Non-hereditary ranks prevented the growth of a feudal class that could challenge the emperor",
+        "Every mansabdar owed his position directly to the emperor, ensuring loyalty",
+        "Hereditary systems allow noble families to accumulate dangerous levels of power over generations",
+        "Non-hereditary system allowed promotion based on merit and service rather than birth",
+        "Emperor could redistribute wealth and power as needed for effective governance",
+        "After death, jagir reverted to emperor, preventing power concentration"
+      ],
+      "keywords": ["mansabdari", "Zat", "Sawar", "non-hereditary", "jagir reverted", "merit-based", "feudal prevention"],
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "ak_hots004",
+      "question": "Do you think Akbar's revenue system under Raja Todar Mal was fair to the farmers? Give reasons.",
+      "context": "Evaluating economic policy and social justice",
+      "answer": "Akbar's revenue system under Raja Todar Mal was indeed quite fair to farmers for several reasons. First, the use of bamboo sticks (jarib) with iron rings instead of ropes ensured accurate and consistent land measurement, preventing officials from cheating farmers. Second, the classification of land into four categories (Polaj, Parauti, Chachar, Banjar) meant that the revenue demand was proportionate to the land's productivity - farmers with fallow or uncultivated land paid less. Third, the dahsaal system (introduced in 1580) fixed revenue based on the average produce and prices of the last 10 years, which smoothed out fluctuations and gave farmers predictability. Most importantly, if crops failed due to drought or floods, the government remitted the value, showing genuine concern for farmers' welfare during natural calamities. This combination of accurate measurement, fair classification, predictable assessment, and disaster relief made it one of the most equitable revenue systems of its time.",
+      "key_points": [
+        "Jarib (bamboo sticks with iron rings) ensured accurate measurement, preventing cheating",
+        "Four land categories meant revenue was proportionate to productivity",
+        "Dahsaal system based on 10-year average smoothed out yearly fluctuations",
+        "Revenue remission during droughts and floods protected farmers from ruin",
+        "Predictable assessment gave farmers stability for planning",
+        "Fair measurement tools prevented corruption by local officials"
+      ],
+      "keywords": ["Todar Mal", "jarib", "land classification", "dahsaal", "10-year average", "crop failure remission", "fair assessment"],
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_hots005",
+      "question": "Which qualities of Akbar made him 'Akbar the Great'? Compare his approach to governance with what you know about other rulers.",
+      "context": "Comprehensive evaluation of a historical figure",
+      "answer": "Akbar earned the title 'the Great' through a remarkable combination of qualities. His military genius helped him expand the empire from a vulnerable state to one covering most of the Indian subcontinent. His religious tolerance was extraordinary for his time - abolishing jizya and pilgrim tax, participating in Hindu festivals, and creating Din-i-Ilahi. His diplomatic skill turned potential enemies (Rajputs) into loyal allies through respect rather than subjugation. His administrative brilliance created systems like the Mansabdari and Todar Mal's revenue system that were efficient and fair. His social reforms - prohibiting Sati, legalising widow remarriage, raising marriage age to 14 for girls and 16 for boys, abolishing enslavement - showed progressive thinking centuries ahead of his time. His patronage of arts and culture created a golden age in literature, music, painting, and architecture. Unlike many rulers who relied solely on force, Akbar combined strength with wisdom, tolerance, and genuine concern for all his subjects regardless of their faith.",
+      "key_points": [
+        "Military genius expanded empire across most of the Indian subcontinent",
+        "Religious tolerance was extraordinary - abolished discriminatory taxes, embraced all faiths",
+        "Diplomatic skill turned Rajput warriors from enemies into loyal allies",
+        "Administrative brilliance created efficient and fair systems (Mansabdari, dahsaal)",
+        "Social reforms were centuries ahead of his time (anti-Sati, widow remarriage, marriage age)",
+        "Cultural patronage created a golden age in art, literature, music, architecture",
+        "Combined strength with wisdom and genuine concern for all subjects"
+      ],
+      "keywords": ["Akbar the Great", "military genius", "religious tolerance", "diplomatic skill", "social reforms", "cultural patronage", "progressive"],
+      "source_section": "Overall Assessment"
+    }
+  ]
+}

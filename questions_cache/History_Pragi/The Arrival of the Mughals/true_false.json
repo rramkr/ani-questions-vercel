@@ -1,0 +1,145 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "am_tf001",
+      "question": "Babur was a descendant of Genghis Khan from his mother's side and Timur from his father's side.",
+      "answer": true,
+      "explanation": "Babur descended from two great lineages: from his mother's side he was a descendant of Genghis Khan (ruler of Central Asia), and from his father's side he descended from Timur (ruler of Iran, Iraq, Turkey).",
+      "source_section": "Background"
+    },
+    {
+      "id": "am_tf002",
+      "question": "Babur ascended the throne of Farghana in 1494 at the age of thirteen.",
+      "answer": false,
+      "explanation": "Babur ascended the throne of Farghana in 1494 at the age of eleven, not thirteen, after the death of his father.",
+      "source_section": "Babur"
+    },
+    {
+      "id": "am_tf003",
+      "question": "Babur used artillery and cannons for the first time in India in the First Battle of Panipat.",
+      "answer": true,
+      "explanation": "Babur used artillery and cannons for the first time in India during the First Battle of Panipat in 1526. This was one of the key reasons for his victory over Ibrahim Lodi.",
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_tf004",
+      "question": "After the Battle of Panipat, Babur's nobles were eager to stay and consolidate in India.",
+      "answer": false,
+      "explanation": "After the Battle of Panipat, Babur's nobles wanted to return to Central Asia. They did not like the Indian climate and felt culturally alienated. Babur had to convince his companions to stay.",
+      "source_section": "First Battle of Panipat"
+    },
+    {
+      "id": "am_tf005",
+      "question": "The Battle of Khanua (1527) weakened Rajput power greatly.",
+      "answer": true,
+      "explanation": "The defeat of Rana Sanga at the Battle of Khanua in 1527 weakened Rajput power greatly and gave Babur complete control over Central India.",
+      "source_section": "Battle of Khanua"
+    },
+    {
+      "id": "am_tf006",
+      "question": "Babur wrote his autobiography in Arabic language.",
+      "answer": false,
+      "explanation": "Babur had command over the Turki language, and his autobiography Tuzuk-i-Baburi (Baburnama) was written in Turki. Though he was well versed in Arabic and Persian, the autobiography was in Turki.",
+      "source_section": "Babur's Achievements"
+    },
+    {
+      "id": "am_tf007",
+      "question": "The Sur Dynasty was founded by Sher Shah.",
+      "answer": true,
+      "explanation": "Sher Shah (whose real name was Farid Khan) founded the Sur dynasty after defeating Humayun in 1540.",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_tf008",
+      "question": "Humayun was a great warrior and an excellent general.",
+      "answer": false,
+      "explanation": "According to the textbook, Humayun was kind and generous, but not a good general or warrior. He loved painting and wrote poetry in Persian.",
+      "source_section": "Humayun"
+    },
+    {
+      "id": "am_tf009",
+      "question": "The Battle of Kannauj was fought between Humayun and his brothers.",
+      "answer": false,
+      "explanation": "The Battle of Kannauj (1540) was fought between Humayun and Sher Shah Suri, not between Humayun and his brothers. Humayun lost and became an exile for fifteen years.",
+      "source_section": "Humayun's Battles"
+    },
+    {
+      "id": "am_tf010",
+      "question": "In 1555, Humayun defeated the Afghans and recovered the Mughal throne.",
+      "answer": true,
+      "explanation": "After fifteen years of exile, Humayun took advantage of the weak successors of Sher Shah, defeated the Afghans, and re-established the Mughal dynasty in 1555.",
+      "source_section": "Humayun's Return"
+    },
+    {
+      "id": "am_tf011",
+      "question": "Sher Shah introduced the system of Dagh or branding of horses.",
+      "answer": true,
+      "explanation": "Sher Shah introduced the system of Dagh, which was branding horses with an imperial sign to prevent substitution of good horses with inferior ones.",
+      "source_section": "Military Administration"
+    },
+    {
+      "id": "am_tf012",
+      "question": "Sher Shah succeeded in establishing Afghan rule again in India in 1545.",
+      "answer": false,
+      "explanation": "Sher Shah succeeded in establishing Afghan rule again in India in 1540, not 1545. He defeated Humayun at the Battle of Kannauj in 1540 and assumed the title of Sher Shah. He died in 1545.",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_tf013",
+      "question": "Sher Shah's standing army consisted of 1,50,000 cavalry, 25,000 infantry, and 300 war elephants.",
+      "answer": true,
+      "explanation": "Sher Shah maintained a large standing army of 1,50,000 cavalry, 25,000 infantry, 300 war elephants, and efficient artillery.",
+      "source_section": "Military Administration"
+    },
+    {
+      "id": "am_tf014",
+      "question": "The Patwaris played an important role in village administration under Sher Shah.",
+      "answer": false,
+      "explanation": "It was the Panchayats, not the Patwaris, that played an important role in village administration under Sher Shah. Patwaris were village-level revenue officials.",
+      "source_section": "Provincial Administration"
+    },
+    {
+      "id": "am_tf015",
+      "question": "Sher Shah abolished all duties on goods except two.",
+      "answer": true,
+      "explanation": "Sher Shah abolished all duties on goods except two. Only goods brought into the country were charged, and duties on goods sold.",
+      "source_section": "Trade and Commerce"
+    },
+    {
+      "id": "am_tf016",
+      "question": "The Grand Trunk Road was built from Delhi to Lahore.",
+      "answer": false,
+      "explanation": "The Grand Trunk Road was built from Sonargoan in Bengal to Peshawar in the North-Western frontier (now Pakistan), not from Delhi to Lahore. Lahore to Multan was a separate road.",
+      "source_section": "Transport and Communication"
+    },
+    {
+      "id": "am_tf017",
+      "question": "Sher Shah's land revenue system was so efficient that Akbar later adopted it.",
+      "answer": true,
+      "explanation": "Sher Shah's land revenue system, with its fair assessment, permanent schedule of rates, and considerate treatment of peasants, was so well-designed that Akbar later adopted it.",
+      "source_section": "Land Revenue System"
+    },
+    {
+      "id": "am_tf018",
+      "question": "Copper coins introduced by Sher Shah were called mohurs.",
+      "answer": false,
+      "explanation": "Copper coins introduced by Sher Shah were called dams, not mohurs. Gold coins were called mohurs (weighing 169 grams).",
+      "source_section": "Trade and Commerce"
+    },
+    {
+      "id": "am_tf019",
+      "question": "Islam Shah Suri succeeded Sher Shah and ruled till his death in 1553.",
+      "answer": true,
+      "explanation": "Sher Shah was succeeded by his son Islam Shah Suri, who ruled till his death in 1553. After him, Adil Shah Suri became the last ruler of the Sur dynasty.",
+      "source_section": "Sher Shah"
+    },
+    {
+      "id": "am_tf020",
+      "question": "Babur captured Samarkand and held it permanently.",
+      "answer": false,
+      "explanation": "Babur captured Samarkand but soon lost it. He also lost Farghana to the Uzbegs. His early years in Central Asia were very tough.",
+      "source_section": "Babur"
+    }
+  ]
+}

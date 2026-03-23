@@ -1,0 +1,205 @@
+{
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "ak_mcq001",
+      "question": "Where was Akbar born?",
+      "options": ["A. Agra Fort", "B. Amarkot Fort in Sind", "C. Kalanaur in Punjab", "D. Kabul in Afghanistan"],
+      "correct_answer": "B. Amarkot Fort in Sind",
+      "explanation": "Akbar was born in 1542 in Amarkot Fort in present-day Sind, while his father Humayun was in exile.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_mcq002",
+      "question": "At what age did Akbar succeed to the Mughal throne?",
+      "options": ["A. 10 years", "B. 13 years", "C. 15 years", "D. 18 years"],
+      "correct_answer": "B. 13 years",
+      "explanation": "Akbar was forced to succeed at the age of 13 after the sudden death of his father Humayun.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_mcq003",
+      "question": "Where did Akbar's coronation take place?",
+      "options": ["A. Delhi", "B. Agra", "C. Kalanaur in Punjab", "D. Fatehpur Sikri"],
+      "correct_answer": "C. Kalanaur in Punjab",
+      "explanation": "When Humayun died, Akbar was at Kalanaur in Punjab, and his coronation took place there in 1556.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_mcq004",
+      "question": "What title was given to Bairam Khan?",
+      "options": ["A. Mir Bakshi", "B. Khan-i-Khanan", "C. Sadr-us-Sudur", "D. Wazir-i-Azam"],
+      "correct_answer": "B. Khan-i-Khanan",
+      "explanation": "Bairam Khan, who served as regent of Akbar from 1556-1560, held the title of Khan-i-Khanan.",
+      "source_section": "Early Life and Accession"
+    },
+    {
+      "id": "ak_mcq005",
+      "question": "The Second Battle of Panipat was fought on:",
+      "options": ["A. 5 November 1526", "B. 5 November 1556", "C. 18 June 1576", "D. 21 April 1526"],
+      "correct_answer": "B. 5 November 1556",
+      "explanation": "The Second Battle of Panipat was fought on 5 November 1556 between the Mughal forces and Hemu's Afghan army.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "ak_mcq006",
+      "question": "How was Hemu defeated in the Second Battle of Panipat?",
+      "options": ["A. He was killed by Akbar personally", "B. He was struck by an arrow in his eye and became unconscious", "C. He surrendered to Bairam Khan", "D. His army deserted him before the battle"],
+      "correct_answer": "B. He was struck by an arrow in his eye and became unconscious",
+      "explanation": "During the battle, Hemu was struck by an arrow in his eye and rendered unconscious, causing his Afghan army to panic and retreat.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "ak_mcq007",
+      "question": "Who was Adil Shah?",
+      "options": ["A. A Rajput king", "B. Sher Shah's nephew", "C. Akbar's half-brother", "D. Governor of Bengal"],
+      "correct_answer": "B. Sher Shah's nephew",
+      "explanation": "Adil Shah was Sher Shah's nephew who was the Afghan emperor. His general Hemu fought the Mughals at the Second Battle of Panipat.",
+      "source_section": "Second Battle of Panipat"
+    },
+    {
+      "id": "ak_mcq008",
+      "question": "Why did Akbar remove Bairam Khan from his position?",
+      "options": ["A. Bairam Khan tried to assassinate Akbar", "B. Bairam Khan became arrogant and a group of nobles opposed him", "C. Bairam Khan lost a major battle", "D. Bairam Khan converted to Hinduism"],
+      "correct_answer": "B. Bairam Khan became arrogant and a group of nobles opposed him",
+      "explanation": "Bairam Khan became arrogant and appointed his favourite nobles to important positions. When Akbar turned 18, he removed Bairam Khan and asked him to go to Mecca.",
+      "source_section": "End of Bairam Khan's Regency"
+    },
+    {
+      "id": "ak_mcq009",
+      "question": "Who was the first Rajput to enter into an alliance with Akbar?",
+      "options": ["A. Udai Singh of Mewar", "B. Raja Birbal", "C. Raja Bharmal of Amber", "D. Maharana Pratap"],
+      "correct_answer": "C. Raja Bharmal of Amber",
+      "explanation": "Raja Bharmal of Amber was the first Rajput chief to enter into a matrimonial alliance with Akbar.",
+      "source_section": "Relations with the Rajputs"
+    },
+    {
+      "id": "ak_mcq010",
+      "question": "The Battle of Haldighati was fought on:",
+      "options": ["A. 5 November 1556", "B. 18 June 1576", "C. 14 January 1572", "D. 21 March 1564"],
+      "correct_answer": "B. 18 June 1576",
+      "explanation": "The Battle of Haldighati was fought on 18 June 1576 between the forces of Maharana Pratap and Mughal forces led by Man Singh I of Amber.",
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "ak_mcq011",
+      "question": "Who led the Mughal forces at the Battle of Haldighati?",
+      "options": ["A. Akbar himself", "B. Bairam Khan", "C. Raja Birbal", "D. Man Singh I of Amber"],
+      "correct_answer": "D. Man Singh I of Amber",
+      "explanation": "The Mughal forces at the Battle of Haldighati were led by Man Singh I of Amber, a Rajput general in Akbar's service.",
+      "source_section": "Battle of Haldighati"
+    },
+    {
+      "id": "ak_mcq012",
+      "question": "Why was the conquest of Gujarat (1572) significant for Akbar?",
+      "options": ["A. It was the capital of the Rajputs", "B. It had rich cotton industry, seaports and trade", "C. It was where Bairam Khan lived", "D. It had the largest Mughal army"],
+      "correct_answer": "B. It had rich cotton industry, seaports and trade",
+      "explanation": "Gujarat was significant because of its cotton industry, seaports, and trade connections, making it economically valuable.",
+      "source_section": "Expansion of Akbar's Empire"
+    },
+    {
+      "id": "ak_mcq013",
+      "question": "Who bravely defended Ahmadnagar against the Mughals?",
+      "options": ["A. Rani Durgawati", "B. Chand Bibi", "C. Maharana Pratap", "D. Baz Bahadur"],
+      "correct_answer": "B. Chand Bibi",
+      "explanation": "When Akbar attacked Ahmadnagar in 1590, it was bravely defended by Chand Bibi, and only part of the territory was annexed.",
+      "source_section": "Expansion of Akbar's Empire"
+    },
+    {
+      "id": "ak_mcq014",
+      "question": "The Wazir or Diwan in Akbar's administration was the head of:",
+      "options": ["A. Military department", "B. Revenue department", "C. Judiciary", "D. Royal Karkhanas"],
+      "correct_answer": "B. Revenue department",
+      "explanation": "The Wazir or Diwan was the head of the revenue department in Akbar's central administration.",
+      "source_section": "Central Administration"
+    },
+    {
+      "id": "ak_mcq015",
+      "question": "The Mir Bakshi was responsible for:",
+      "options": ["A. Revenue collection", "B. Royal manufacturing", "C. Military administration and maintenance of armed contingents", "D. Protection of Islamic laws"],
+      "correct_answer": "C. Military administration and maintenance of armed contingents",
+      "explanation": "The Mir Bakshi handled military administration and maintenance of armed contingents in Akbar's government.",
+      "source_section": "Central Administration"
+    },
+    {
+      "id": "ak_mcq016",
+      "question": "How many provinces (subas) did Akbar initially divide his empire into?",
+      "options": ["A. Ten", "B. Twelve", "C. Fifteen", "D. Twenty"],
+      "correct_answer": "B. Twelve",
+      "explanation": "Akbar initially divided his empire into twelve provinces or subas, which later grew to twenty.",
+      "source_section": "Provincial Administration"
+    },
+    {
+      "id": "ak_mcq017",
+      "question": "In the Mansabdari system, 'Zat' referred to:",
+      "options": ["A. Size of cavalry contingent", "B. Personal rank of the officer", "C. Amount of land granted", "D. Type of weapon used"],
+      "correct_answer": "B. Personal rank of the officer",
+      "explanation": "In the Mansabdari system, Zat referred to the personal rank of the mansabdar, while Sawar referred to the size of the cavalry contingent.",
+      "source_section": "Mansabdari System"
+    },
+    {
+      "id": "ak_mcq018",
+      "question": "The revenue system introduced by Akbar was known as:",
+      "options": ["A. Iqta system", "B. Dahsaal or Zabti system", "C. Ryotwari system", "D. Zamindari system"],
+      "correct_answer": "B. Dahsaal or Zabti system",
+      "explanation": "Akbar's revenue system was known as the dahsaal or zabti system, managed by Raja Todar Mal.",
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_mcq019",
+      "question": "What measurement instrument did Raja Todar Mal introduce for land measurement?",
+      "options": ["A. Rope with metal ends", "B. Bamboo sticks called jarib with iron rings", "C. Chain links made of iron", "D. Wooden rulers with brass markings"],
+      "correct_answer": "B. Bamboo sticks called jarib with iron rings",
+      "explanation": "Todar Mal introduced bamboo sticks called jarib with iron rings instead of rope, which would change in wet and dry conditions.",
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_mcq020",
+      "question": "In 1562, Akbar abolished which taxes on Hindus?",
+      "options": ["A. Land tax and trade tax", "B. Pilgrim tax and jizya", "C. Salt tax and cloth tax", "D. Mansion tax and hearth tax"],
+      "correct_answer": "B. Pilgrim tax and jizya",
+      "explanation": "In 1562, Akbar abolished both the pilgrim tax and jizya on Hindus as part of his liberal religious policy.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ak_mcq021",
+      "question": "What was the Ibadat Khana?",
+      "options": ["A. Akbar's private chamber", "B. Hall of Worship for religious discussions", "C. Revenue office", "D. Military headquarters"],
+      "correct_answer": "B. Hall of Worship for religious discussions",
+      "explanation": "The Ibadat Khana (Hall of Worship) was built by Akbar for religious discussions where scholars of different faiths were invited.",
+      "source_section": "Religious Policy"
+    },
+    {
+      "id": "ak_mcq022",
+      "question": "Buland Darwaza at Fatehpur Sikri was built to commemorate Akbar's victory over:",
+      "options": ["A. Rajasthan", "B. Bengal", "C. Gujarat", "D. Malwa"],
+      "correct_answer": "C. Gujarat",
+      "explanation": "The Buland Darwaza, the highest gateway in India, was built at Fatehpur Sikri to commemorate Akbar's victory over Gujarat.",
+      "source_section": "Architecture"
+    },
+    {
+      "id": "ak_mcq023",
+      "question": "Who wrote the Akbarnama?",
+      "options": ["A. Faizi", "B. Tansen", "C. Abul Fazl", "D. Raja Birbal"],
+      "correct_answer": "C. Abul Fazl",
+      "explanation": "Abul Fazl wrote the Akbarnama, the official biographical account of Akbar's life. It was commissioned by Akbar and took seven years to complete.",
+      "source_section": "Education and Literature"
+    },
+    {
+      "id": "ak_mcq024",
+      "question": "Akbar raised the minimum marriage age for girls and boys to:",
+      "options": ["A. 12 for girls and 14 for boys", "B. 14 for girls and 16 for boys", "C. 16 for girls and 18 for boys", "D. 13 for girls and 15 for boys"],
+      "correct_answer": "B. 14 for girls and 16 for boys",
+      "explanation": "Akbar discouraged child marriage and raised the minimum marriage age to 14 for girls and 16 for boys.",
+      "source_section": "Social Reforms"
+    },
+    {
+      "id": "ak_mcq025",
+      "question": "Which famous ragas were composed by Tansen?",
+      "options": ["A. Raag Bhairavi and Raag Malkauns", "B. Raag Darbari and Deepak Raag", "C. Raag Yaman and Raag Bihag", "D. Raag Todi and Raag Puriya"],
+      "correct_answer": "B. Raag Darbari and Deepak Raag",
+      "explanation": "Tansen was a famous musician in Akbar's court who composed many Hindustani ragas, with Raag Darbari and Deepak Raag being the most famous.",
+      "source_section": "Music"
+    }
+  ]
+}

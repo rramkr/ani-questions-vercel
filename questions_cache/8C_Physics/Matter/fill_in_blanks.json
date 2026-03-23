@@ -1,0 +1,112 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "fib001",
+      "question": "The smallest unit of matter that can exist freely in nature is called a _______.",
+      "answer": "molecule",
+      "explanation": "A molecule is the smallest particle of matter that can exist freely and retains the properties of the substance.",
+      "source_section": "Molecules"
+    },
+    {
+      "id": "fib002",
+      "question": "The force of attraction between molecules of the same substance is called _______.",
+      "answer": "cohesion",
+      "explanation": "Cohesion is the inter-molecular force between molecules of the same substance, e.g., between two water molecules.",
+      "source_section": "Inter-molecular Forces"
+    },
+    {
+      "id": "fib003",
+      "question": "The force of attraction between molecules of different substances is called _______.",
+      "answer": "adhesion",
+      "explanation": "Adhesion is the inter-molecular force between molecules of different substances, e.g., between water and glass.",
+      "source_section": "Inter-molecular Forces"
+    },
+    {
+      "id": "fib004",
+      "question": "The change of state from solid to liquid is called _______ or _______.",
+      "answer": "melting or fusion",
+      "explanation": "When a solid is heated to its melting point, it changes to a liquid. This process is called melting or fusion.",
+      "source_section": "Change of State"
+    },
+    {
+      "id": "fib005",
+      "question": "The change of state from liquid to gas is called _______ or _______.",
+      "answer": "boiling or vaporization",
+      "explanation": "When a liquid is heated to its boiling point, it changes to a gas. This process is called boiling or vaporization.",
+      "source_section": "Change of State"
+    },
+    {
+      "id": "fib006",
+      "question": "The heat energy absorbed or rejected during a change of state without any change in temperature is called _______ heat.",
+      "answer": "latent",
+      "explanation": "Latent heat is the heat absorbed or released during a change of state at constant temperature. The word 'latent' means hidden.",
+      "source_section": "Latent Heat"
+    },
+    {
+      "id": "fib007",
+      "question": "Ice absorbs _______ J/kg of heat energy to melt into water at 0\u00b0C.",
+      "answer": "336 \u00d7 10\u00b3",
+      "explanation": "The specific latent heat of fusion of ice is 336 \u00d7 10\u00b3 J/kg.",
+      "source_section": "Latent Heat"
+    },
+    {
+      "id": "fib008",
+      "question": "Water absorbs _______ J/kg of heat energy to change into steam at 100\u00b0C.",
+      "answer": "2260 \u00d7 10\u00b3",
+      "explanation": "The specific latent heat of vaporization of water is 2260 \u00d7 10\u00b3 J/kg.",
+      "source_section": "Latent Heat"
+    },
+    {
+      "id": "fib009",
+      "question": "The direct change of a solid into gas without passing through the liquid state is called _______.",
+      "answer": "sublimation",
+      "explanation": "Sublimation is a direct change from solid to gas. Examples include camphor, ammonium chloride, iodine, naphthalene, and dry ice.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "fib010",
+      "question": "The reverse of sublimation, where a gas changes directly into a solid, is called _______.",
+      "answer": "deposition",
+      "explanation": "Deposition is the process where a gas changes directly into a solid without passing through the liquid state.",
+      "source_section": "Sublimation"
+    },
+    {
+      "id": "fib011",
+      "question": "Water _______ on freezing, unlike most other substances.",
+      "answer": "expands",
+      "explanation": "Water is an anomalous substance that expands on freezing, while most other substances like wax and lead contract on freezing.",
+      "source_section": "Effect of Pressure on Melting Point"
+    },
+    {
+      "id": "fib012",
+      "question": "The melting point of ice _______ when salt is added to it.",
+      "answer": "decreases",
+      "explanation": "Adding salt to ice decreases its melting point. This principle is used in making freezing mixtures for kulfis.",
+      "source_section": "Effect of Impurities on Melting Point"
+    },
+    {
+      "id": "fib013",
+      "question": "The boiling point of water _______ with increase in pressure, which is the principle behind a pressure cooker.",
+      "answer": "increases",
+      "explanation": "Increased pressure raises the boiling point of water, allowing food to cook faster in a pressure cooker.",
+      "source_section": "Effect of Pressure on Boiling Point"
+    },
+    {
+      "id": "fib014",
+      "question": "Evaporation is a _______ process that occurs at the surface of a liquid at all temperatures.",
+      "answer": "slow",
+      "explanation": "Unlike boiling, evaporation is a slow process that occurs only at the surface of a liquid and can happen at any temperature.",
+      "source_section": "Evaporation"
+    },
+    {
+      "id": "fib015",
+      "question": "Dry ice is the solid form of _______ and it undergoes sublimation.",
+      "answer": "carbon dioxide (CO\u2082)",
+      "explanation": "Dry ice is solid carbon dioxide. It sublimes directly into carbon dioxide gas without passing through the liquid state.",
+      "source_section": "Sublimation"
+    }
+  ]
+}

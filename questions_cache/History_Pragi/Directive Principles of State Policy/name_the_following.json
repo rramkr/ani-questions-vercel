@@ -1,0 +1,95 @@
+{
+  "question_type": "name_the_following",
+  "questions": [
+    {
+      "id": "dp_ntf001",
+      "question": "The part of the Indian Constitution that contains Directive Principles of State Policy.",
+      "answer": "Part IV",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_ntf002",
+      "question": "The articles under which Directive Principles are stated.",
+      "answer": "Articles 36 to 51",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_ntf003",
+      "question": "The country whose constitution inspired the Directive Principles of State Policy in India.",
+      "answer": "Ireland",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_ntf004",
+      "question": "The term used for principles that cannot be enforced by any court of law.",
+      "answer": "Non-justiciable",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_ntf005",
+      "question": "The Gandhian principle that means 'self-rule'.",
+      "answer": "Swaraj",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_ntf006",
+      "question": "The Gandhian principle that means 'welfare for all'.",
+      "answer": "Sarvodaya",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_ntf007",
+      "question": "The Gandhian principle that means 'self-reliance'.",
+      "answer": "Swavlamban",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_ntf008",
+      "question": "The constitutional amendment that added the duty to protect the environment as a Directive Principle.",
+      "answer": "42nd Amendment",
+      "source_section": "Directive Principles of State Policy"
+    },
+    {
+      "id": "dp_ntf009",
+      "question": "The development programme launched in 1952 to raise the standard of living.",
+      "answer": "Community Development Programme",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_ntf010",
+      "question": "The system abolished to distribute surplus land among the landless poor.",
+      "answer": "Zamindari system",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_ntf011",
+      "question": "The article under which the government established boards to promote cottage industries.",
+      "answer": "Article 43",
+      "source_section": "Impact of Directive Principles"
+    },
+    {
+      "id": "dp_ntf012",
+      "question": "The type of local self-government body given powers under Gandhian Directive Principles.",
+      "answer": "Village Panchayats",
+      "source_section": "Gandhian Philosophy"
+    },
+    {
+      "id": "dp_ntf013",
+      "question": "The method of settling international disputes recommended under General Directive Principles.",
+      "answer": "Arbitration (mutual agreement)",
+      "source_section": "General Principles"
+    },
+    {
+      "id": "dp_ntf014",
+      "question": "The type of code that the state shall aim to establish for all citizens.",
+      "answer": "Uniform civil code",
+      "source_section": "General Principles"
+    },
+    {
+      "id": "dp_ntf015",
+      "question": "The social practice made a punishable offence as an impact of Directive Principles.",
+      "answer": "Untouchability",
+      "source_section": "Impact of Directive Principles"
+    }
+  ]
+}

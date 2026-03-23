@@ -1,0 +1,365 @@
+{
+  "question_type": "tricky_questions",
+  "questions": [
+    {
+      "id": "trk_ma_001",
+      "type": "mcq",
+      "question": "The title 'Jahangir' means:",
+      "options": ["A. Ruler of the World", "B. Conqueror of the World", "C. Light of the World", "D. Shadow of God"],
+      "correct_answer": "B. Conqueror of the World",
+      "explanation": "Jahangir means 'Conqueror of the World' in Persian. 'Ruler of the World' is the meaning of Shah Jahan, and 'Light of the World' is the meaning of Nur Jahan.",
+      "trick": "Students confuse the meanings of Jahangir, Shah Jahan, and Nur Jahan. Jahangir = Conqueror, Shah Jahan = Ruler, Nur Jahan = Light. All have 'of the World' but the first word is different."
+    },
+    {
+      "id": "trk_ma_002",
+      "type": "mcq",
+      "question": "The Chain of Justice was introduced by:",
+      "options": ["A. Akbar", "B. Shah Jahan", "C. Jahangir", "D. Aurangzeb"],
+      "correct_answer": "C. Jahangir",
+      "explanation": "The Chain of Justice was installed by Jahangir outside his palace soon after ascending the throne, so that any subject could ring the bells and seek justice directly.",
+      "trick": "Students may confuse this with Shah Jahan (similar-sounding name) or Akbar (known for justice). The textbook's own 'Assess Yourself' section tests this: 'Chain of Justice was introduced by Shah Jahan - False'."
+    },
+    {
+      "id": "trk_ma_003",
+      "type": "mcq",
+      "question": "The fifth Sikh Guru Arjan Dev was executed by Jahangir for helping:",
+      "options": ["A. Prince Khurram", "B. Prince Khusrau", "C. Guru Tegh Bahadur", "D. Rana Amar Singh"],
+      "correct_answer": "B. Prince Khusrau",
+      "explanation": "Guru Arjan Dev gave shelter to Prince Khusrau at Taran Taran during his rebellion, not to Khurram (who later became Shah Jahan).",
+      "trick": "Prince Khusrau and Prince Khurram sound similar. Khusrau was the rebel son whom Guru Arjan Dev helped. Khurram was the obedient son who became Shah Jahan."
+    },
+    {
+      "id": "trk_ma_004",
+      "type": "mcq",
+      "question": "Who defeated Rana Amar Singh of Mewar for Jahangir?",
+      "options": ["A. Jahangir himself", "B. Prince Khusrau", "C. Malik Ambar", "D. Prince Khurram"],
+      "correct_answer": "D. Prince Khurram",
+      "explanation": "The decisive campaign of 1613-14 against Rana Amar Singh was led by Khurram (Jahangir's third son, later Shah Jahan). Earlier campaigns in 1606 and 1608-09 had been indecisive.",
+      "trick": "Students assume Jahangir personally led the campaign. The earlier campaigns were indecisive; it was specifically Khurram who led the decisive 1613-14 campaign that forced Rana Amar Singh to submit in 1615."
+    },
+    {
+      "id": "trk_ma_005",
+      "type": "mcq",
+      "question": "Captain William Hawkins visited Jahangir's court in:",
+      "options": ["A. 1600", "B. 1608", "C. 1615", "D. 1639"],
+      "correct_answer": "B. 1608",
+      "explanation": "Captain William Hawkins came in 1608. Sir Thomas Roe came in 1615. The Company got its charter in 1600. Madras was obtained in 1639.",
+      "trick": "Four important British dates are easily confused: 1600 (charter from Elizabeth I), 1608 (Hawkins), 1615 (Roe), 1639 (Madras/Fort St. George). Remember: Hawkins before Roe, charter before all."
+    },
+    {
+      "id": "trk_ma_006",
+      "type": "mcq",
+      "question": "Sir Thomas Roe was sent to India by:",
+      "options": ["A. Queen Elizabeth I", "B. King George III", "C. Emperor James I", "D. The East India Company directors"],
+      "correct_answer": "C. Emperor James I",
+      "explanation": "Sir Thomas Roe was sent by Emperor James I of England in 1615. Queen Elizabeth I gave the charter in 1600 but did not send Roe.",
+      "trick": "Students confuse Queen Elizabeth I (who gave the charter in 1600) with the sender of Sir Thomas Roe. Elizabeth gave the charter; James I sent Roe. Two different monarchs, two different events."
+    },
+    {
+      "id": "trk_ma_007",
+      "type": "mcq",
+      "question": "Nur Jahan rescued Jahangir from the clutches of:",
+      "options": ["A. Shaista Khan", "B. Afzal Khan", "C. Mahabat Khan", "D. Qasim Khan"],
+      "correct_answer": "C. Mahabat Khan",
+      "explanation": "Nur Jahan rescued Jahangir from rebel leader Mahabat Khan in 1626. Shaista Khan was sent against Shivaji, Afzal Khan was killed by Shivaji, and Qasim Khan was Shah Jahan's governor of Bengal.",
+      "trick": "Multiple 'Khan' names cause confusion. Mahabat Khan = rebel against Jahangir. Shaista Khan = sent against Shivaji by Aurangzeb. Afzal Khan = Bijapur general killed by Shivaji. Qasim Khan = governor who fought Portuguese."
+    },
+    {
+      "id": "trk_ma_008",
+      "type": "mcq",
+      "question": "Shah Jahan's mother was a princess from:",
+      "options": ["A. Mewar", "B. Amber", "C. Marwar (Jodhpur)", "D. Bundelkhand"],
+      "correct_answer": "C. Marwar (Jodhpur)",
+      "explanation": "Shah Jahan's mother was a Rathore princess, daughter of the Rajput ruler of Marwar (Jodhpur).",
+      "trick": "Students confuse which Rajput dynasty Shah Jahan's mother belonged to. She was a Rathore princess from Marwar (Jodhpur), not from Mewar (Sisodias) or Amber (Kachwahas)."
+    },
+    {
+      "id": "trk_ma_009",
+      "type": "mcq",
+      "question": "Which of the following was NOT built by Shah Jahan?",
+      "options": ["A. Taj Mahal", "B. Tomb of Itimad-ud-Daula", "C. Jama Masjid at Delhi", "D. City of Shahjahanabad"],
+      "correct_answer": "B. Tomb of Itimad-ud-Daula",
+      "explanation": "The tomb of Itimad-ud-Daula was built by Nur Jahan (for her father), not by Shah Jahan. All other options are Shah Jahan's buildings.",
+      "trick": "Students assume all famous Mughal buildings from this period were built by Shah Jahan. The tomb of Itimad-ud-Daula was built by Nur Jahan during Jahangir's reign, not Shah Jahan."
+    },
+    {
+      "id": "trk_ma_010",
+      "type": "mcq",
+      "question": "Kandahar was a bone of contention between the Mughals and the:",
+      "options": ["A. Marathas", "B. Rajputs", "C. Persians", "D. Afghans"],
+      "correct_answer": "C. Persians",
+      "explanation": "Kandahar was a bone of contention between the Mughals and the Persians. Shah Abbas of Persia captured it in 1622, and despite recovery in 1638, the Persians took it again in 1649.",
+      "trick": "Students may confuse Persians with Afghans since both are in the northwest. The textbook specifically mentions Persia/Iran in connection with Kandahar, not Afghanistan."
+    },
+    {
+      "id": "trk_ma_011",
+      "type": "mcq",
+      "question": "Shah Jahan recovered Kandahar in 1638, but lost it again in:",
+      "options": ["A. 1640", "B. 1645", "C. 1649", "D. 1657"],
+      "correct_answer": "C. 1649",
+      "explanation": "Shah Jahan recovered Kandahar in 1638 but the Shah of Iran captured it again in 1649. Three major campaigns to recover it all failed.",
+      "trick": "The year 1649 is crucial. Shah Jahan recovered Kandahar in 1638 and held it for just 11 years before losing it again to Iran. Students may pick an earlier date thinking the loss was immediate."
+    },
+    {
+      "id": "trk_ma_012",
+      "type": "mcq",
+      "question": "Hugli was besieged by the Mughals for how long?",
+      "options": ["A. 1 month", "B. 3 months", "C. 6 months", "D. 1 year"],
+      "correct_answer": "B. 3 months",
+      "explanation": "Hugli, where the Portuguese had established a factory, was besieged for 3 months under Shah Jahan's orders in 1631.",
+      "trick": "The duration '3 months' is a specific detail that could be confused with other siege durations. Hugli = 3 months."
+    },
+    {
+      "id": "trk_ma_013",
+      "type": "mcq",
+      "question": "Shah Jahan nominated which son as his heir?",
+      "options": ["A. Aurangzeb", "B. Shuja", "C. Murad", "D. Dara Shikoh"],
+      "correct_answer": "D. Dara Shikoh",
+      "explanation": "Shah Jahan nominated his eldest son Dara Shikoh as heir. However, Aurangzeb defeated Dara's forces and seized the throne.",
+      "trick": "Students assume the one who won (Aurangzeb) must have been the nominated heir. In fact, Dara Shikoh was nominated. Aurangzeb seized power by force, defeating Dara at Dharmat and Samugarh."
+    },
+    {
+      "id": "trk_ma_014",
+      "type": "mcq",
+      "question": "Aurangzeb defeated Dara Shikoh's forces at Dharmat and:",
+      "options": ["A. Panipat", "B. Haldighati", "C. Samugarh", "D. Purandhar"],
+      "correct_answer": "C. Samugarh",
+      "explanation": "Aurangzeb defeated Dara's forces at Dharmat and Samugarh in 1657 and 1658, not at any of the other famous battle locations.",
+      "trick": "Students may pick famous battle names like Panipat or Haldighati. The specific battles of succession were at Dharmat and Samugarh - less famous names that students need to remember."
+    },
+    {
+      "id": "trk_ma_015",
+      "type": "mcq",
+      "question": "Shah Jahan died in the year:",
+      "options": ["A. 1658", "B. 1660", "C. 1666", "D. 1670"],
+      "correct_answer": "C. 1666",
+      "explanation": "Shah Jahan was imprisoned in 1658 and died in 1666 after eight years in prison at Agra Fort.",
+      "trick": "Students confuse 1658 (when Aurangzeb seized the throne and imprisoned Shah Jahan) with 1666 (when Shah Jahan actually died). He lived in prison for eight more years after being deposed."
+    },
+    {
+      "id": "trk_ma_016",
+      "type": "mcq",
+      "question": "Aurangzeb's title 'Alamgir' means:",
+      "options": ["A. Ruler of the World", "B. Conqueror of the World", "C. Shadow of God", "D. Defender of Faith"],
+      "correct_answer": "B. Conqueror of the World",
+      "explanation": "Aurangzeb Alamgir - Alamgir means 'Conqueror of the World'. Note that Jahangir ALSO means 'Conqueror of the World' in Persian.",
+      "trick": "Both Jahangir and Alamgir mean 'Conqueror of the World'! Students may think they have different meanings since they sound different, but both translate to the same phrase."
+    },
+    {
+      "id": "trk_ma_017",
+      "type": "mcq",
+      "question": "Aurangzeb ruled for:",
+      "options": ["A. 30 years", "B. 40 years", "C. 50 years", "D. 26 years"],
+      "correct_answer": "C. 50 years",
+      "explanation": "Aurangzeb ruled for fifty years (1658-1707). He spent the last twenty-six years in the Deccan. Shah Jahan ruled for 30 years.",
+      "trick": "Two numbers to remember: Aurangzeb ruled 50 years total, last 26 in the Deccan. Students confuse these or mix up with Shah Jahan's 30 years."
+    },
+    {
+      "id": "trk_ma_018",
+      "type": "mcq",
+      "question": "The Jats revolted under the leadership of:",
+      "options": ["A. Champati Rai", "B. Chhatrasal", "C. Gokula", "D. Guru Tegh Bahadur"],
+      "correct_answer": "C. Gokula",
+      "explanation": "The Jats revolted in 1669-1670 in the Mathura region under the leadership of Gokula. Champati Rai and Chhatrasal led the Bundela revolt.",
+      "trick": "Students confuse the leaders of different revolts. Jats = Gokula (Mathura). Bundelas = Champati Rai and Chhatrasal (Bundelkhand). Sikhs = Guru Tegh Bahadur / Guru Gobind Singh."
+    },
+    {
+      "id": "trk_ma_019",
+      "type": "mcq",
+      "question": "Guru Tegh Bahadur was the _____ Sikh Guru.",
+      "options": ["A. Fifth", "B. Eighth", "C. Ninth", "D. Tenth"],
+      "correct_answer": "C. Ninth",
+      "explanation": "Guru Tegh Bahadur was the ninth Sikh Guru, executed by Aurangzeb. The fifth was Guru Arjan Dev (executed by Jahangir). The tenth was Guru Gobind Singh (organised the Khalsa).",
+      "trick": "Three Sikh Gurus appear in this chapter: 5th (Arjan Dev - executed by Jahangir), 9th (Tegh Bahadur - executed by Aurangzeb), 10th (Gobind Singh - created Khalsa). Students mix up which number goes with which Guru."
+    },
+    {
+      "id": "trk_ma_020",
+      "type": "mcq",
+      "question": "Which Sikh Guru was executed by Aurangzeb?",
+      "options": ["A. Guru Arjan Dev", "B. Guru Tegh Bahadur", "C. Guru Gobind Singh", "D. Guru Nanak"],
+      "correct_answer": "B. Guru Tegh Bahadur",
+      "explanation": "Guru Tegh Bahadur (9th Guru) was executed by Aurangzeb. Guru Arjan Dev (5th Guru) was executed by Jahangir. Guru Gobind Singh (10th Guru) was not executed but died from a stabbing by an Afghan.",
+      "trick": "Students confuse which emperor executed which Guru. Jahangir executed the 5th Guru Arjan Dev. Aurangzeb executed the 9th Guru Tegh Bahadur. Guru Gobind Singh was stabbed by an Afghan, not executed."
+    },
+    {
+      "id": "trk_ma_021",
+      "type": "mcq",
+      "question": "Guru Gobind Singh died:",
+      "options": ["A. Fighting in a battle against Aurangzeb", "B. By execution in Chandni Chowk", "C. When stabbed by an Afghan in 1708", "D. Of old age at Nanded"],
+      "correct_answer": "C. When stabbed by an Afghan in 1708",
+      "explanation": "Guru Gobind Singh took residence at Nanded in the Deccan and returned north after Aurangzeb's death. He died when stabbed by an Afghan in 1708.",
+      "trick": "Students confuse the deaths of Guru Tegh Bahadur (executed in Chandni Chowk) and Guru Gobind Singh (stabbed by an Afghan). Neither died in battle, and Gobind Singh outlived Aurangzeb."
+    },
+    {
+      "id": "trk_ma_022",
+      "type": "mcq",
+      "question": "Aurangzeb annexed Bijapur in 1686 and Golconda in:",
+      "options": ["A. 1686", "B. 1687", "C. 1690", "D. 1700"],
+      "correct_answer": "B. 1687",
+      "explanation": "Bijapur was annexed in 1686 and Golconda in 1687. These are consecutive years and easy to remember.",
+      "trick": "Students either think both were annexed in the same year or confuse the order. Bijapur = 1686, Golconda = 1687. Just one year apart."
+    },
+    {
+      "id": "trk_ma_023",
+      "type": "mcq",
+      "question": "The Marathas established their own kingdom under:",
+      "options": ["A. Raja Jaswant Singh", "B. Malik Ambar", "C. Chhatrapati Shivaji", "D. Peshwa Baji Rao"],
+      "correct_answer": "C. Chhatrapati Shivaji",
+      "explanation": "The Marathas established their kingdom under Chhatrapati Shivaji, not Raja Jaswant Singh (a Rajput ruler of Marwar). This is directly from the textbook's True/False section.",
+      "trick": "The textbook itself uses Raja Jaswant Singh as the wrong option in its True/False exercise. Raja Jaswant Singh was a Rajput ruler of Marwar, not a Maratha leader."
+    },
+    {
+      "id": "trk_ma_024",
+      "type": "mcq",
+      "question": "Shivaji killed the Bijapur general Afzal Khan in:",
+      "options": ["A. 1656", "B. 1659", "C. 1662", "D. 1665"],
+      "correct_answer": "B. 1659",
+      "explanation": "Shivaji killed Afzal Khan in 1659 when the Sultan of Bijapur sent the general to capture him. 1656 was the capture of Javli, 1662 was the peace settlement, and 1665 was the Treaty of Purandhar.",
+      "trick": "Four important Shivaji dates: 1656 (Javli), 1659 (killed Afzal Khan), 1662 (Bijapur peace), 1665 (Treaty of Purandhar). Students mix these up easily."
+    },
+    {
+      "id": "trk_ma_025",
+      "type": "mcq",
+      "question": "Under the Treaty of Purandhar (1665), Shivaji surrendered:",
+      "options": ["A. All 35 forts", "B. 23 of 35 forts", "C. 12 of 35 forts", "D. 30 of 35 forts"],
+      "correct_answer": "B. 23 of 35 forts",
+      "explanation": "Shivaji surrendered 23 forts and kept 12. Total was 35 forts.",
+      "trick": "The numbers 23 and 12 can be confused. Remember: Shivaji SURRENDERED 23 and KEPT 12 (23 + 12 = 35 total). He surrendered the majority."
+    },
+    {
+      "id": "trk_ma_026",
+      "type": "mcq",
+      "question": "Shivaji escaped from Mughal captivity and reached Raigarh in:",
+      "options": ["A. 1665", "B. 1666", "C. 1670", "D. 1674"],
+      "correct_answer": "B. 1666",
+      "explanation": "Shivaji escaped from Agra and reached Raigarh in 1666. The Treaty of Purandhar was 1665, plundering Surat was 1670, and crowning as Chhatrapati was 1674.",
+      "trick": "Key Shivaji dates: 1665 (Treaty), 1666 (escape to Raigarh), 1670 (plundered Surat again), 1674 (crowned Chhatrapati), 1680 (died). Students mix these up easily."
+    },
+    {
+      "id": "trk_ma_027",
+      "type": "mcq",
+      "question": "Shivaji ruled as Maratha king for:",
+      "options": ["A. 6 years", "B. 10 years", "C. 14 years", "D. 20 years"],
+      "correct_answer": "A. 6 years",
+      "explanation": "Shivaji crowned himself in 1674 and died in 1680, ruling for only 6 years. Despite the short reign, he founded the Maratha kingdom that lasted for a century and a half.",
+      "trick": "Students overestimate Shivaji's reign because of his enormous achievements. He actually ruled as king for only 6 years (1674-1680). His military career was much longer, but his formal kingship was very brief."
+    },
+    {
+      "id": "trk_ma_028",
+      "type": "mcq",
+      "question": "Aurangzeb was regarded as a 'zinda pir' which means:",
+      "options": ["A. Holy warrior", "B. Living saint", "C. Shadow of God", "D. Defender of faith"],
+      "correct_answer": "B. Living saint",
+      "explanation": "Zinda pir means 'living saint'. Aurangzeb was called this because of his simple, pious lifestyle - he wore simple clothes, sewed his own caps, and sold copies of the Quran.",
+      "trick": "Students may confuse 'zinda pir' with other religious titles. Zinda = living, pir = saint/holy man. Despite being called a living saint, his policies were extremely intolerant."
+    },
+    {
+      "id": "trk_ma_029",
+      "type": "mcq",
+      "question": "Aurangzeb discontinued the practice of:",
+      "options": ["A. Chain of Justice", "B. Jharoka darshan", "C. Coronation ceremony", "D. Mansabdari system"],
+      "correct_answer": "B. Jharoka darshan",
+      "explanation": "Aurangzeb discontinued the practice of jharoka darshan (public appearance from a window/balcony). The Chain of Justice was Jahangir's, not something Aurangzeb discontinued.",
+      "trick": "Students may think Aurangzeb discontinued the Chain of Justice (which was Jahangir's invention). He specifically discontinued jharoka darshan, along with banning music, dancing, and festivals."
+    },
+    {
+      "id": "trk_ma_030",
+      "type": "mcq",
+      "question": "The Vishwanath temple that Aurangzeb destroyed was located at:",
+      "options": ["A. Mathura", "B. Banaras", "C. Delhi", "D. Agra"],
+      "correct_answer": "B. Banaras",
+      "explanation": "Aurangzeb ordered the destruction of the Vishwanath temple at Banaras (Varanasi). The temple of Keshava Rai was at Mathura.",
+      "trick": "Two temples mentioned in the text: Vishwanath at Banaras and Keshava Rai at Mathura. Students may swap the locations. Vishwanath = Banaras, Keshava Rai = Mathura."
+    },
+    {
+      "id": "trk_ma_031",
+      "type": "mcq",
+      "question": "The Peacock Throne was stolen from Delhi by:",
+      "options": ["A. Ahmad Shah Abdali", "B. Shah Abbas of Persia", "C. Nadir Shah of Persia", "D. Shivaji"],
+      "correct_answer": "C. Nadir Shah of Persia",
+      "explanation": "Nadir Shah of Persia sacked Delhi in 1739 and stole the Peacock Throne. Ahmad Shah Abdali also plundered Delhi but at a different time. Shah Abbas lived much earlier (1587-1629).",
+      "trick": "Two Persian/Afghan invaders who plundered Delhi: Nadir Shah (1739, stole Peacock Throne) and Ahmad Shah Abdali (later). Students confuse which one took the throne."
+    },
+    {
+      "id": "trk_ma_032",
+      "type": "mcq",
+      "question": "Pietra dura is also known as:",
+      "options": ["A. Charbagh", "B. Parelinkari", "C. Jharokha", "D. Calligraphy"],
+      "correct_answer": "B. Parelinkari",
+      "explanation": "Pietra dura, the method of inlaying semi-precious stones into marble, is also known as parelinkari. This was the signature decorative method of Shah Jahan's architecture.",
+      "trick": "Students may not remember the Indian name 'parelinkari' for the Italian term 'pietra dura'. Both refer to the same inlay technique. Charbagh is a garden style, jharokha is a window/balcony."
+    },
+    {
+      "id": "trk_ma_033",
+      "type": "mcq",
+      "question": "The Bibi Ka Maqbara was built by Aurangzeb at Aurangabad for his wife. It was modelled on the:",
+      "options": ["A. Red Fort", "B. Jama Masjid", "C. Tomb of Itimad-ud-Daula", "D. Taj Mahal"],
+      "correct_answer": "D. Taj Mahal",
+      "explanation": "The Bibi Ka Maqbara at Aurangabad was built by Aurangzeb for his wife Rabia-ud-Daurani and was modelled on the Taj Mahal.",
+      "trick": "Students may not connect Bibi Ka Maqbara with the Taj Mahal. While both are mausoleums for wives, the Bibi Ka Maqbara is considered a poor imitation of the Taj and is sometimes called the 'poor man's Taj'."
+    },
+    {
+      "id": "trk_ma_034",
+      "type": "mcq",
+      "question": "The tomb of Itimad-ud-Daula was built by:",
+      "options": ["A. Jahangir", "B. Shah Jahan", "C. Nur Jahan", "D. Aurangzeb"],
+      "correct_answer": "C. Nur Jahan",
+      "explanation": "The tomb of Itimad-ud-Daula (Nur Jahan's father) was built by Nur Jahan, not by Jahangir or Shah Jahan.",
+      "trick": "Students assume Jahangir built it since it was during his reign. But it was Nur Jahan who built it for her father. This is one of the few buildings attributed to a woman in Mughal architecture."
+    },
+    {
+      "id": "trk_ma_035",
+      "type": "mcq",
+      "question": "Tuzk-i-Jahangiri was written by:",
+      "options": ["A. Abul Fazl", "B. Abdul Hamid Lahori", "C. Jahangir himself", "D. Khafi Khan"],
+      "correct_answer": "C. Jahangir himself",
+      "explanation": "Tuzk-i-Jahangiri are Jahangir's own memoirs, written by him in Persian, recording details of flora and fauna. Abul Fazl wrote Akbarnama, Lahori wrote Padshahnama, Khafi Khan wrote Muntakhab-ul-Lubab.",
+      "trick": "Students assume all Mughal books were written by court historians. But the Tuzk-i-Jahangiri is unique - it was Jahangir's own autobiography/memoir, not written by a court historian."
+    },
+    {
+      "id": "trk_ma_036",
+      "type": "mcq",
+      "question": "Under Aurangzeb, painting in the Mughal Empire:",
+      "options": ["A. Reached its greatest heights", "B. Introduced European perspective", "C. Declined and painters migrated", "D. Shifted to landscape themes"],
+      "correct_answer": "C. Declined and painters migrated",
+      "explanation": "Under Aurangzeb, painting declined as he withdrew patronage. Painters migrated to regional kingdoms. It was under Jahangir (not Aurangzeb) that painting reached its greatest heights with European perspective.",
+      "trick": "Students confuse which emperor was associated with which art achievement. Jahangir = painting reached heights, European perspective. Aurangzeb = painting declined, painters migrated."
+    },
+    {
+      "id": "trk_ma_037",
+      "type": "mcq",
+      "question": "Nur Jahan was the only Mughal _____ who had coins minted with her name.",
+      "options": ["A. Emperor", "B. Princess", "C. Empress", "D. Queen Mother"],
+      "correct_answer": "C. Empress",
+      "explanation": "Nur Jahan was the only Mughal empress (wife of an emperor) who had coins minted with her name. The textbook's own True/False section tests this distinction.",
+      "trick": "The textbook deliberately uses 'first Mughal emperor to mint coins' in its True/False exercise as a trick. She was an empress (wife), not an emperor. Also 'only', not 'first'."
+    },
+    {
+      "id": "trk_ma_038",
+      "type": "mcq",
+      "question": "The East India Company was formed by English merchants in:",
+      "options": ["A. 1599", "B. 1600", "C. 1608", "D. 1615"],
+      "correct_answer": "A. 1599",
+      "explanation": "The East India Company was FORMED in 1599. It received its royal charter from Queen Elizabeth I on December 31, 1600. These are two different events in consecutive years.",
+      "trick": "Students confuse 1599 (formation) with 1600 (charter). The Company was formed in 1599 by 'Merchant Adventurers', but the official charter came on December 31, 1600."
+    },
+    {
+      "id": "trk_ma_039",
+      "type": "mcq",
+      "question": "How many years did Aurangzeb spend in the Deccan?",
+      "options": ["A. 20 years", "B. 26 years", "C. 30 years", "D. 50 years"],
+      "correct_answer": "B. 26 years",
+      "explanation": "Aurangzeb spent the last twenty-six years of his reign in the Deccan. His total reign was fifty years. Students should not confuse the two numbers.",
+      "trick": "Two numbers for Aurangzeb: 50 years total reign, 26 years in Deccan. The question asks specifically about the Deccan, not the total reign. Also, some sources say 25 years - the textbook mentions both 'twenty-six' and 'twenty-five' in different places."
+    },
+    {
+      "id": "trk_ma_040",
+      "type": "mcq",
+      "question": "Golconda acknowledged Mughal sovereignty under Shah Jahan in:",
+      "options": ["A. 1632", "B. 1636", "C. 1638", "D. 1649"],
+      "correct_answer": "B. 1636",
+      "explanation": "Shah Jahan annexed Ahmadnagar in 1632, and Golconda acknowledged Mughal sovereignty in 1636. Bijapur required military action to be brought into submission. 1638 = Kandahar recovered, 1649 = Kandahar lost again.",
+      "trick": "Three Shah Jahan military dates to keep straight: 1632 (Ahmadnagar annexed), 1636 (Golconda submitted), 1638 (Kandahar recovered). Students confuse which kingdom submitted in which year."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "ds_fib001",
+      "question": "Qutb-ud-din Aibak was given the title __________ because of his generosity.",
+      "answer": "Lakh Baksh",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_fib002",
+      "question": "The word 'Mamluk' means __________ in Arabic.",
+      "answer": "slave",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_fib003",
+      "question": "Iltutmish shifted the capital of the Delhi Sultanate from __________ to Delhi.",
+      "answer": "Lahore",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_fib004",
+      "question": "The __________ system introduced by Iltutmish involved land assignments to officers with military responsibility.",
+      "answer": "iqta",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_fib005",
+      "question": "In 1221, Iltutmish refused shelter to the ruler of __________ who was being chased by Genghis Khan.",
+      "answer": "Persia",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_fib006",
+      "question": "__________ was the first and last Muslim woman to rule over Delhi.",
+      "answer": "Raziya Sultan",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_fib007",
+      "question": "Balban propagated the __________ theory to establish the supreme authority of the Sultan.",
+      "answer": "Divine Rights",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_fib008",
+      "question": "Balban created the __________ department for military affairs.",
+      "answer": "Diwan-i-Arz",
+      "source_section": "The Slave Dynasty"
+    },
+    {
+      "id": "ds_fib009",
+      "question": "Ala-ud-din Khalji called himself the deputy of the __________.",
+      "answer": "Caliph",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_fib010",
+      "question": "__________ led the southern expeditions during Ala-ud-din Khalji's rule.",
+      "answer": "Malik Kafur",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_fib011",
+      "question": "Ala-ud-din Khalji abolished small iqtas and converted them into Crown lands called __________.",
+      "answer": "Khalsa",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_fib012",
+      "question": "The superintendent of the market during Ala-ud-din Khalji's time was called __________.",
+      "answer": "Shahna-i-Mandi",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_fib013",
+      "question": "Ala-ud-din Khalji built __________ Fort in 1302.",
+      "answer": "Siri",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_fib014",
+      "question": "__________ was the court poet during Ala-ud-din Khalji's reign.",
+      "answer": "Amir Khusrau",
+      "source_section": "The Khalji Dynasty"
+    },
+    {
+      "id": "ds_fib015",
+      "question": "Ghazi Malik ascended the throne under the title of __________.",
+      "answer": "Ghiyas-ud-din Tughlaq",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_fib016",
+      "question": "Muhammad-bin-Tughlaq renamed Devagiri as __________.",
+      "answer": "Daulatabad",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_fib017",
+      "question": "Muhammad-bin-Tughlaq introduced __________ as token currency in place of silver tanka.",
+      "answer": "copper jittal",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_fib018",
+      "question": "Firoz Shah Tughlaq established the __________ for the welfare of the poor.",
+      "answer": "Diwan-i-Khairat",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_fib019",
+      "question": "Firoz Shah Tughlaq built canals from the __________ to Hissar for irrigation.",
+      "answer": "Yamuna",
+      "source_section": "The Tughlaq Dynasty"
+    },
+    {
+      "id": "ds_fib020",
+      "question": "__________ invaded India in 1398, leaving the Sultanate crumbling.",
+      "answer": "Timur",
+      "source_section": "Invasion of Timur"
+    },
+    {
+      "id": "ds_fib021",
+      "question": "Khizr Khan, the founder of the Sayyid Dynasty, took the title __________.",
+      "answer": "Rayati-Ala",
+      "source_section": "The Sayyid Dynasty"
+    },
+    {
+      "id": "ds_fib022",
+      "question": "The last Sayyid ruler was __________.",
+      "answer": "Ala-ud-din Alam Shah",
+      "source_section": "The Sayyid Dynasty"
+    },
+    {
+      "id": "ds_fib023",
+      "question": "Sikandar Lodi's real name was __________.",
+      "answer": "Nizam Khan",
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_fib024",
+      "question": "Sikandar Lodi moved the capital from Delhi to __________.",
+      "answer": "Agra",
+      "source_section": "The Lodi Dynasty"
+    },
+    {
+      "id": "ds_fib025",
+      "question": "Babur defeated __________ in the Battle of Panipat in 1526, ending the Delhi Sultanate.",
+      "answer": "Ibrahim Lodi",
+      "source_section": "The Lodi Dynasty"
+    }
+  ]
+}

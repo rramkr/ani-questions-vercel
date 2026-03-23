@@ -1,0 +1,145 @@
+{
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "ma_tf001",
+      "statement": "Jahangir means 'Ruler of the World' in Persian.",
+      "answer": false,
+      "explanation": "Jahangir means 'Conqueror of the World' in Persian, not 'Ruler of the World'. 'Ruler of the World' is the meaning of 'Shah Jahan'.",
+      "source_section": "Jahangir"
+    },
+    {
+      "id": "ma_tf002",
+      "statement": "The Chain of Justice was installed by Jahangir outside his palace.",
+      "answer": true,
+      "explanation": "Soon after ascending the throne, Jahangir installed a chain with bells outside his palace so that any subject could ring it and seek justice directly from the emperor.",
+      "source_section": "Jahangir"
+    },
+    {
+      "id": "ma_tf003",
+      "statement": "Rana Amar Singh of Mewar submitted to the Mughals in 1615.",
+      "answer": true,
+      "explanation": "After the decisive campaign led by Khurram in 1613-14, Rana Amar Singh of Mewar submitted to the Mughals in 1615, ending the long struggle between Mewar and the Mughal Empire.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_tf004",
+      "statement": "Jahangir successfully conquered Ahmadnagar in the Deccan.",
+      "answer": false,
+      "explanation": "Despite multiple military expeditions from 1608 onwards and enormous expenses, Jahangir failed to conquer Ahmadnagar. The Abyssinian Prime Minister Malik Ambar successfully kept Ahmadnagar independent of Mughal control.",
+      "source_section": "Jahangir - Military Campaigns"
+    },
+    {
+      "id": "ma_tf005",
+      "statement": "Captain William Hawkins was sent to Jahangir's court by the East India Company in 1608.",
+      "answer": true,
+      "explanation": "In 1608, the East India Company sent Captain William Hawkins to Jahangir's court to secure royal patronage. He succeeded in getting a permit for factories at various places on the western coast.",
+      "source_section": "Arrival of the British"
+    },
+    {
+      "id": "ma_tf006",
+      "statement": "Nur Jahan rescued Jahangir from the rebel leader Shaista Khan in 1626.",
+      "answer": false,
+      "explanation": "Nur Jahan rescued Jahangir from the rebel leader Mahabat Khan (not Shaista Khan) in 1626. Shaista Khan was a general sent by Aurangzeb against Shivaji.",
+      "source_section": "Role of Nur Jahan"
+    },
+    {
+      "id": "ma_tf007",
+      "statement": "Shah Jahan's mother was a Rathore princess from Marwar.",
+      "answer": true,
+      "explanation": "Shah Jahan's mother was a Rathore princess, the daughter of the Rajput ruler of Marwar (Jodhpur).",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_tf008",
+      "statement": "The reign of Shah Jahan is considered as the 'Golden Age' of the Mughal Empire.",
+      "answer": true,
+      "explanation": "Shah Jahan's reign is considered the 'Golden Age' because during his 30-year rule, the empire was politically united, culturally and economically prosperous, with no foreign invasions and remarkable architectural achievements.",
+      "source_section": "Shah Jahan"
+    },
+    {
+      "id": "ma_tf009",
+      "statement": "Shah Jahan successfully retained Kandahar after recovering it in 1638.",
+      "answer": false,
+      "explanation": "Although Shah Jahan recovered Kandahar in 1638, the Mughals could not retain it. The Shah of Iran captured it again in 1649, and three major campaigns to recover it all failed.",
+      "source_section": "Shah Jahan - Military Campaigns"
+    },
+    {
+      "id": "ma_tf010",
+      "statement": "The Portuguese at Hugli were punished for lifting orphaned children and converting them to Christianity.",
+      "answer": true,
+      "explanation": "Shah Jahan found that the Portuguese at Hugli in Bengal were lifting orphaned children and converting them to Christianity. In 1631, Qasim Khan was given authority to deal with them, and Hugli was besieged for three months.",
+      "source_section": "Shah Jahan - Policy Towards the Portuguese"
+    },
+    {
+      "id": "ma_tf011",
+      "statement": "Aurangzeb ruled for twenty-five years.",
+      "answer": false,
+      "explanation": "Aurangzeb ruled for fifty years (1658-1707), not twenty-five. He spent the last twenty-six years of his reign in the Deccan.",
+      "source_section": "Aurangzeb"
+    },
+    {
+      "id": "ma_tf012",
+      "statement": "Shah Jahan was imprisoned by Aurangzeb and died in Agra Fort in 1666.",
+      "answer": true,
+      "explanation": "Aurangzeb imprisoned his father Shah Jahan after seizing the throne. Shah Jahan remained in prison for eight years at Agra Fort and died there in 1666.",
+      "source_section": "Aurangzeb"
+    },
+    {
+      "id": "ma_tf013",
+      "statement": "Guru Gobind Singh was the ninth Sikh Guru who was executed by Aurangzeb.",
+      "answer": false,
+      "explanation": "Guru Gobind Singh was the tenth (not ninth) Sikh Guru. The ninth Guru, Guru Tegh Bahadur, was the one executed by Aurangzeb in December 1675 in Chandni Chowk, Delhi.",
+      "source_section": "Aurangzeb - War with the Sikhs"
+    },
+    {
+      "id": "ma_tf014",
+      "statement": "Shivaji was forced to surrender all 35 of his forts under the Treaty of Purandhar.",
+      "answer": false,
+      "explanation": "Under the Treaty of Purandhar (1665), Shivaji had to surrender 23 of his 35 forts, not all 35. He was allowed to keep the remaining 12 forts.",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    },
+    {
+      "id": "ma_tf015",
+      "statement": "Aurangzeb was regarded as a 'zinda pir' or living saint by many Muslims.",
+      "answer": true,
+      "explanation": "Aurangzeb was indeed regarded as a zinda pir or living saint. He was an orthodox and God-fearing Muslim who lived a simple life, wore simple clothes, never used gold or silver vessels, and sewed his own caps.",
+      "source_section": "Aurangzeb as a Ruler"
+    },
+    {
+      "id": "ma_tf016",
+      "statement": "Aurangzeb reimposed the jizya tax on Hindus.",
+      "answer": true,
+      "explanation": "Aurangzeb committed the blunder of reimposing the jizya and pilgrim tax on Hindus, which had been abolished by Akbar. This lost him the loyalty of Hindus.",
+      "source_section": "Aurangzeb as a Ruler"
+    },
+    {
+      "id": "ma_tf017",
+      "statement": "The Taj Mahal's construction began in 1632 and was completed by 1653.",
+      "answer": false,
+      "explanation": "The construction of the Taj Mahal began in 1632 and was completed by 1643, not 1653.",
+      "source_section": "Cultural Developments - Architecture"
+    },
+    {
+      "id": "ma_tf018",
+      "statement": "Bishan Das, Daulat, Kanha, and Shankar were famous painters in Jahangir's court.",
+      "answer": true,
+      "explanation": "These four painters were indeed famous during Jahangir's reign, when Mughal painting reached its greatest heights. Jahangir introduced the element of perspective influenced by European style.",
+      "source_section": "Cultural Developments - Painting"
+    },
+    {
+      "id": "ma_tf019",
+      "statement": "Bahadur Shah Zafar was the last ruler of the Mughal Empire.",
+      "answer": true,
+      "explanation": "After the death of Aurangzeb in 1707, the Mughal Empire declined rapidly. Bahadur Shah Zafar was the last Mughal ruler in Delhi.",
+      "source_section": "Reasons for Decline"
+    },
+    {
+      "id": "ma_tf020",
+      "statement": "Shivaji died at Raigarh in 1680 after ruling for ten years.",
+      "answer": false,
+      "explanation": "Shivaji died at Raigarh in 1680 after ruling for only six years (he crowned himself in 1674), not ten years. In this short time, he founded the Maratha kingdom.",
+      "source_section": "Rise of the Marathas and Chhatrapati Shivaji"
+    }
+  ]
+}

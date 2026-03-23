@@ -1,0 +1,35 @@
+{
+  "subject": "History Pragi",
+  "chapters": [
+    {
+      "name": "The Delhi Sultanate",
+      "slug": "The Delhi Sultanate",
+      "has_questions": true,
+      "icon": "⚔️"
+    },
+    {
+      "name": "The Arrival of the Mughals",
+      "slug": "The Arrival of the Mughals",
+      "has_questions": true,
+      "icon": "🏹"
+    },
+    {
+      "name": "Akbar A Case Study",
+      "slug": "Akbar A Case Study",
+      "has_questions": true,
+      "icon": "👑"
+    },
+    {
+      "name": "The Mughal Empire After Akbar",
+      "slug": "The Mughal Empire After Akbar",
+      "has_questions": true,
+      "icon": "🕌"
+    },
+    {
+      "name": "Directive Principles of State Policy",
+      "slug": "Directive Principles of State Policy",
+      "has_questions": true,
+      "icon": "📜"
+    }
+  ]
+}

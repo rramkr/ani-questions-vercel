@@ -1,0 +1,70 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "ma_mtf001",
+      "column_a": ["Jahangir", "Shah Jahan", "Aurangzeb", "Nur Jahan", "Shivaji"],
+      "column_b": ["Chhatrapati", "Conqueror of the World", "Alamgir", "Light of the World", "Ruler of the World"],
+      "correct_matches": {
+        "Jahangir": "Conqueror of the World",
+        "Shah Jahan": "Ruler of the World",
+        "Aurangzeb": "Alamgir",
+        "Nur Jahan": "Light of the World",
+        "Shivaji": "Chhatrapati"
+      },
+      "source_section": "Titles and Meanings"
+    },
+    {
+      "id": "ma_mtf002",
+      "column_a": ["Tuzk-i-Jahangiri", "Padshahnama", "Fatwa-i-Alamgiri", "Akbarnama", "Muntakhab-ul-Lubab"],
+      "column_b": ["Khafi Khan", "Jahangir", "Digest of Muslim law", "Abdul Hamid Lahori", "Abul Fazl"],
+      "correct_matches": {
+        "Tuzk-i-Jahangiri": "Jahangir",
+        "Padshahnama": "Abdul Hamid Lahori",
+        "Fatwa-i-Alamgiri": "Digest of Muslim law",
+        "Akbarnama": "Abul Fazl",
+        "Muntakhab-ul-Lubab": "Khafi Khan"
+      },
+      "source_section": "Cultural Developments - Literature"
+    },
+    {
+      "id": "ma_mtf003",
+      "column_a": ["Captain William Hawkins", "Sir Thomas Roe", "Qasim Khan", "Raja Jai Singh", "Afzal Khan"],
+      "column_b": ["Besieged Purandhar fort", "Visited Jahangir's court in 1608", "Governor of Bengal under Shah Jahan", "Sent by Emperor James I in 1615", "Killed by Shivaji in 1659"],
+      "correct_matches": {
+        "Captain William Hawkins": "Visited Jahangir's court in 1608",
+        "Sir Thomas Roe": "Sent by Emperor James I in 1615",
+        "Qasim Khan": "Governor of Bengal under Shah Jahan",
+        "Raja Jai Singh": "Besieged Purandhar fort",
+        "Afzal Khan": "Killed by Shivaji in 1659"
+      },
+      "source_section": "Various Sections"
+    },
+    {
+      "id": "ma_mtf004",
+      "column_a": ["Taj Mahal", "Bibi Ka Maqbara", "Tomb of Itimad-ud-Daula", "Jama Masjid", "Shalimar Bagh"],
+      "column_b": ["Jahangir/Shah Jahan", "Aurangzeb at Aurangabad", "Shah Jahan at Delhi", "Nur Jahan", "Shah Jahan at Agra"],
+      "correct_matches": {
+        "Taj Mahal": "Shah Jahan at Agra",
+        "Bibi Ka Maqbara": "Aurangzeb at Aurangabad",
+        "Tomb of Itimad-ud-Daula": "Nur Jahan",
+        "Jama Masjid": "Shah Jahan at Delhi",
+        "Shalimar Bagh": "Jahangir/Shah Jahan"
+      },
+      "source_section": "Cultural Developments - Architecture"
+    },
+    {
+      "id": "ma_mtf005",
+      "column_a": ["Guru Arjan Dev", "Guru Tegh Bahadur", "Guru Gobind Singh", "Malik Ambar", "Dara Shikoh"],
+      "column_b": ["Organised Khalsa", "Executed by Jahangir", "Nominated heir of Shah Jahan", "Kept Ahmadnagar independent", "Executed by Aurangzeb in 1675"],
+      "correct_matches": {
+        "Guru Arjan Dev": "Executed by Jahangir",
+        "Guru Tegh Bahadur": "Executed by Aurangzeb in 1675",
+        "Guru Gobind Singh": "Organised Khalsa",
+        "Malik Ambar": "Kept Ahmadnagar independent",
+        "Dara Shikoh": "Nominated heir of Shah Jahan"
+      },
+      "source_section": "Various Sections"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "ak_mtf001",
+      "column_a": ["Wazir/Diwan", "Mir Bakshi", "Mir Saman", "Sadr-us-Sudur", "Qazi"],
+      "column_b": ["Head of judiciary", "Military administration", "Head of revenue department", "Royal Karkhanas", "Protected laws of Islam"],
+      "correct_matches": {
+        "Wazir/Diwan": "Head of revenue department",
+        "Mir Bakshi": "Military administration",
+        "Mir Saman": "Royal Karkhanas",
+        "Sadr-us-Sudur": "Protected laws of Islam",
+        "Qazi": "Head of judiciary"
+      },
+      "source_section": "Central Administration"
+    },
+    {
+      "id": "ak_mtf002",
+      "column_a": ["Abul Fazl", "Faizi", "Tansen", "Raja Man Singh", "Raja Birbal"],
+      "column_b": ["Trusted military commander", "Persian poet", "Akbar's constant companion", "Akbarnama", "Famous musician and singer"],
+      "correct_matches": {
+        "Abul Fazl": "Akbarnama",
+        "Faizi": "Persian poet",
+        "Tansen": "Famous musician and singer",
+        "Raja Man Singh": "Trusted military commander",
+        "Raja Birbal": "Akbar's constant companion"
+      },
+      "source_section": "Navratnas"
+    },
+    {
+      "id": "ak_mtf003",
+      "column_a": ["Gwalior/Malwa", "Gondwana", "Gujarat", "Bengal", "Ahmadnagar"],
+      "column_b": ["1574-76", "1590", "1559-60", "1572", "1564"],
+      "correct_matches": {
+        "Gwalior/Malwa": "1559-60",
+        "Gondwana": "1564",
+        "Gujarat": "1572",
+        "Bengal": "1574-76",
+        "Ahmadnagar": "1590"
+      },
+      "source_section": "Expansion of Akbar's Empire"
+    },
+    {
+      "id": "ak_mtf004",
+      "column_a": ["Polaj", "Parauti", "Chachar", "Banjar", "Dahsaal"],
+      "column_b": ["Not cultivated 3-5 years", "Revenue based on 10-year average", "Land under cultivation", "Not cultivated 5+ years", "Left fallow to regain fertility"],
+      "correct_matches": {
+        "Polaj": "Land under cultivation",
+        "Parauti": "Left fallow to regain fertility",
+        "Chachar": "Not cultivated 3-5 years",
+        "Banjar": "Not cultivated 5+ years",
+        "Dahsaal": "Revenue based on 10-year average"
+      },
+      "source_section": "Revenue Administration"
+    },
+    {
+      "id": "ak_mtf005",
+      "column_a": ["Buland Darwaza", "Ibadat Khana", "Diwan-i-Khas", "Fatehpur Sikri", "Humayun's Tomb"],
+      "column_b": ["New Delhi", "Near Agra, capital city", "Highest gateway in India", "Official meetings with nobles", "Hall of Worship"],
+      "correct_matches": {
+        "Buland Darwaza": "Highest gateway in India",
+        "Ibadat Khana": "Hall of Worship",
+        "Diwan-i-Khas": "Official meetings with nobles",
+        "Fatehpur Sikri": "Near Agra, capital city",
+        "Humayun's Tomb": "New Delhi"
+      },
+      "source_section": "Architecture"
+    }
+  ]
+}

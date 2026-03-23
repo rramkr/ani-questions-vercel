@@ -1,0 +1,157 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "differentiate_between",
+  "questions": [
+    {
+      "id": "db001",
+      "term1": "Solids",
+      "term2": "Liquids",
+      "differences": [
+        {
+          "aspect": "Shape",
+          "term1_point": "Have a definite shape",
+          "term2_point": "Do not have a definite shape; take the shape of the container"
+        },
+        {
+          "aspect": "Inter-molecular space",
+          "term1_point": "Very small inter-molecular spaces; molecules are closely packed",
+          "term2_point": "Moderate inter-molecular spaces; molecules are less closely packed"
+        },
+        {
+          "aspect": "Movement of molecules",
+          "term1_point": "Molecules only vibrate about their fixed positions",
+          "term2_point": "Molecules can move around within the boundary of the vessel"
+        },
+        {
+          "aspect": "Inter-molecular force",
+          "term1_point": "Very strong inter-molecular forces of attraction",
+          "term2_point": "Moderate inter-molecular forces of attraction"
+        },
+        {
+          "aspect": "Ability to flow",
+          "term1_point": "Cannot flow; are rigid",
+          "term2_point": "Can flow easily"
+        }
+      ],
+      "source_section": "States of Matter"
+    },
+    {
+      "id": "db002",
+      "term1": "Liquids",
+      "term2": "Gases",
+      "differences": [
+        {
+          "aspect": "Volume",
+          "term1_point": "Have a definite volume",
+          "term2_point": "Do not have a definite volume; expand to fill the entire container"
+        },
+        {
+          "aspect": "Inter-molecular space",
+          "term1_point": "Moderate inter-molecular spaces",
+          "term2_point": "Very large inter-molecular spaces; molecules are wide apart"
+        },
+        {
+          "aspect": "Inter-molecular force",
+          "term1_point": "Moderate inter-molecular forces of attraction",
+          "term2_point": "Very weak inter-molecular forces of attraction"
+        },
+        {
+          "aspect": "Compressibility",
+          "term1_point": "Difficult to compress because molecules are relatively close together",
+          "term2_point": "Can be compressed easily because molecules are far apart with large spaces between them"
+        },
+        {
+          "aspect": "Movement of molecules",
+          "term1_point": "Molecules move within the boundary of the vessel",
+          "term2_point": "Molecules move freely in all directions throughout the available space"
+        }
+      ],
+      "source_section": "States of Matter"
+    },
+    {
+      "id": "db003",
+      "term1": "Evaporation",
+      "term2": "Boiling",
+      "differences": [
+        {
+          "aspect": "Temperature",
+          "term1_point": "Occurs at all temperatures below the boiling point",
+          "term2_point": "Occurs only at a fixed temperature called the boiling point"
+        },
+        {
+          "aspect": "Speed of process",
+          "term1_point": "It is a slow process",
+          "term2_point": "It is a rapid process"
+        },
+        {
+          "aspect": "Location in liquid",
+          "term1_point": "Takes place only from the surface of the liquid",
+          "term2_point": "Takes place throughout the entire liquid with bubbles forming at all levels"
+        },
+        {
+          "aspect": "Effect on surroundings",
+          "term1_point": "Causes cooling of the surroundings as heat is absorbed from them",
+          "term2_point": "Temperature of the surroundings remains more or less constant"
+        }
+      ],
+      "source_section": "Evaporation vs Boiling"
+    },
+    {
+      "id": "db004",
+      "term1": "Melting",
+      "term2": "Freezing",
+      "differences": [
+        {
+          "aspect": "Change of state",
+          "term1_point": "Solid changes into liquid",
+          "term2_point": "Liquid changes into solid"
+        },
+        {
+          "aspect": "Heat transfer",
+          "term1_point": "Heat is absorbed by the substance from the surroundings",
+          "term2_point": "Heat is released by the substance to the surroundings"
+        },
+        {
+          "aspect": "Effect on inter-molecular force",
+          "term1_point": "Inter-molecular forces are overcome as molecules gain kinetic energy and move apart",
+          "term2_point": "Inter-molecular forces become stronger as molecules lose kinetic energy and come closer"
+        },
+        {
+          "aspect": "Effect on molecular arrangement",
+          "term1_point": "Molecules move from fixed positions to being free to move around",
+          "term2_point": "Molecules move from free movement to fixed positions, forming an orderly arrangement"
+        }
+      ],
+      "source_section": "Melting and Freezing"
+    },
+    {
+      "id": "db005",
+      "term1": "Cohesion",
+      "term2": "Adhesion",
+      "differences": [
+        {
+          "aspect": "Definition",
+          "term1_point": "Force of attraction between molecules of the same substance",
+          "term2_point": "Force of attraction between molecules of different substances"
+        },
+        {
+          "aspect": "Example",
+          "term1_point": "Attraction between water molecules and other water molecules",
+          "term2_point": "Attraction between water molecules and glass molecules"
+        },
+        {
+          "aspect": "Role in surface tension",
+          "term1_point": "Cohesive forces between liquid molecules create surface tension, allowing the liquid surface to behave like a stretched membrane",
+          "term2_point": "Adhesive forces cause liquids to stick to the surfaces of other materials, such as water wetting a glass surface"
+        },
+        {
+          "aspect": "Role in viscosity",
+          "term1_point": "Strong cohesive forces between molecules of a liquid contribute to higher viscosity (resistance to flow)",
+          "term2_point": "Adhesive forces between the liquid and the container walls also affect how the liquid flows along surfaces"
+        }
+      ],
+      "source_section": "Cohesion and Adhesion"
+    }
+  ]
+}
