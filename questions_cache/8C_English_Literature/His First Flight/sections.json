@@ -3,6 +3,7 @@
   "chapter": "His First Flight",
   "sections": {
     "textbook": [
+      {"value": "notes", "label": "Chapter Notes", "icon": "📒"},
       {"value": "summary", "label": "Summary", "icon": "📋"},
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
     ],
