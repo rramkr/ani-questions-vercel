@@ -2157,7 +2157,16 @@ function renderTextAnswerShowAll(q) {
 }
 
 // Renderers
+// Store completed subjects grouped by class for folder navigation
+let completedByClass = {};
+let cachedActiveSubjects = [];
+let cachedCompleted = [];
+
 function renderSubjects(subjects, completed = []) {
+    // Cache for back navigation
+    cachedActiveSubjects = subjects;
+    cachedCompleted = completed;
+
     let html = subjects.map(subject => `
         <div class="card" onclick="loadChapters(${JSON.stringify(subject).replace(/"/g, '&quot;')})">
             <div class="card-icon">${subject.icon}</div>
@@ -2168,12 +2177,12 @@ function renderSubjects(subjects, completed = []) {
 
     if (completed.length > 0) {
         // Group completed subjects by class
-        const byClass = {};
+        completedByClass = {};
         const noClass = [];
         completed.forEach(s => {
             if (s.class) {
-                if (!byClass[s.class]) byClass[s.class] = [];
-                byClass[s.class].push(s);
+                if (!completedByClass[s.class]) completedByClass[s.class] = [];
+                completedByClass[s.class].push(s);
             } else {
                 noClass.push(s);
             }
@@ -2183,45 +2192,59 @@ function renderSubjects(subjects, completed = []) {
                 <div class="completed-header">
                     <span class="completed-icon">✅</span>
                     <span>Completed Exams</span>
-                </div>`;
+                </div>
+                <div class="completed-grid">`;
 
-        // Render each class group
-        const classKeys = Object.keys(byClass).sort((a, b) => b - a);
+        // Render class folder cards
+        const classKeys = Object.keys(completedByClass).sort((a, b) => b - a);
         classKeys.forEach(cls => {
-            const subjects = byClass[cls];
+            const count = completedByClass[cls].length;
             html += `
-                <div class="completed-class-group">
-                    <div class="completed-class-label">Class ${cls}</div>
-                    <div class="completed-grid">
-                        ${subjects.map(subject => `
-                            <div class="card completed-card" onclick="loadChapters(${JSON.stringify(subject).replace(/"/g, '&quot;')})">
-                                <div class="card-icon">${subject.icon}</div>
-                                <div class="card-title">${subject.name}</div>
-                                <div class="card-subtitle">${subject.chapter_count} chapter${subject.chapter_count !== 1 ? 's' : ''}</div>
-                            </div>
-                        `).join('')}
-                    </div>
+                <div class="card completed-card class-folder-card" onclick="openClassFolder(${cls})">
+                    <div class="card-icon">📁</div>
+                    <div class="card-title">Class ${cls}</div>
+                    <div class="card-subtitle">${count} subject${count !== 1 ? 's' : ''}</div>
                 </div>`;
         });
 
-        // Render any without a class (ungrouped)
-        if (noClass.length > 0) {
+        // Render any without a class directly
+        noClass.forEach(subject => {
             html += `
-                <div class="completed-grid">
-                    ${noClass.map(subject => `
-                        <div class="card completed-card" onclick="loadChapters(${JSON.stringify(subject).replace(/"/g, '&quot;')})">
-                            <div class="card-icon">${subject.icon}</div>
-                            <div class="card-title">${subject.name}</div>
-                            <div class="card-subtitle">${subject.chapter_count} chapter${subject.chapter_count !== 1 ? 's' : ''}</div>
-                        </div>
-                    `).join('')}
+                <div class="card completed-card" onclick="loadChapters(${JSON.stringify(subject).replace(/"/g, '&quot;')})">
+                    <div class="card-icon">${subject.icon}</div>
+                    <div class="card-title">${subject.name}</div>
+                    <div class="card-subtitle">${subject.chapter_count} chapter${subject.chapter_count !== 1 ? 's' : ''}</div>
                 </div>`;
-        }
+        });
 
-        html += `</div>`;
+        html += `</div></div>`;
     }
 
     elements.subjectsGrid.innerHTML = html;
+}
+
+function openClassFolder(classNum) {
+    const subjects = completedByClass[classNum] || [];
+    let html = `
+        <div class="class-folder-header">
+            <button class="class-folder-back" onclick="closeClassFolder()">← Back</button>
+            <div class="class-folder-title">📁 Class ${classNum} — Completed Exams</div>
+        </div>
+        <div class="class-folder-grid">
+            ${subjects.map(subject => `
+                <div class="card completed-card" onclick="loadChapters(${JSON.stringify(subject).replace(/"/g, '&quot;')})">
+                    <div class="card-icon">${subject.icon}</div>
+                    <div class="card-title">${subject.name}</div>
+                    <div class="card-subtitle">${subject.chapter_count} chapter${subject.chapter_count !== 1 ? 's' : ''}</div>
+                </div>
+            `).join('')}
+        </div>`;
+    elements.subjectsGrid.innerHTML = html;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function closeClassFolder() {
+    renderSubjects(cachedActiveSubjects, cachedCompleted);
 }
 
 function renderChapters(chapters) {
@@ -3877,6 +3900,8 @@ function getScoreClass(score) {
 
 // Make functions globally available
 window.loadChapters = loadChapters;
+window.openClassFolder = openClassFolder;
+window.closeClassFolder = closeClassFolder;
 window.loadSections = loadSections;
 window.loadQuestions = loadQuestions;
 window.loadWrongQuestions = loadWrongQuestions;

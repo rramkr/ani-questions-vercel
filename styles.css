@@ -3911,18 +3911,57 @@ b, strong {
     filter: grayscale(30%);
 }
 
-.completed-class-group {
-    margin-bottom: 1.5rem;
+.class-folder-card {
+    border: 2px dashed #d1d5db !important;
+    cursor: pointer;
 }
 
-.completed-class-label {
+.class-folder-card:hover {
+    border-color: #9ca3af !important;
+}
+
+.class-folder-card .card-icon {
+    filter: none !important;
+    font-size: 2.2rem;
+}
+
+.class-folder-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    width: 100%;
+    grid-column: 1 / -1;
+}
+
+.class-folder-back {
+    background: #f3f4f6;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
     font-size: 0.95rem;
     font-weight: 600;
-    color: #9ca3af;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 0.75rem;
-    padding-left: 0.25rem;
+    color: #374151;
+    cursor: pointer;
+    transition: background 0.2s;
+    white-space: nowrap;
+}
+
+.class-folder-back:hover {
+    background: #e5e7eb;
+}
+
+.class-folder-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #6b7280;
+}
+
+.class-folder-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1rem;
+    width: 100%;
 }
 
 /* ============== CHAPTER NOTES STYLES ============== */
