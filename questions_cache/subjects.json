@@ -24,61 +24,71 @@
       "name": "Computer Science",
       "slug": "Computer_Science",
       "icon": "💻",
-      "chapter_count": 2
+      "chapter_count": 2,
+      "class": 7
     },
     {
       "name": "Physics",
       "slug": "physics",
       "icon": "⚛️",
-      "chapter_count": 5
+      "chapter_count": 5,
+      "class": 7
     },
     {
       "name": "Chemistry",
       "slug": "Chemistry",
       "icon": "🧪",
-      "chapter_count": 4
+      "chapter_count": 4,
+      "class": 7
     },
     {
       "name": "English E2",
       "slug": "english_e2",
       "icon": "📚",
-      "chapter_count": 4
+      "chapter_count": 4,
+      "class": 7
     },
     {
       "name": "History Civics",
       "slug": "History_Civics",
       "icon": "🏛️",
-      "chapter_count": 3
+      "chapter_count": 3,
+      "class": 7
     },
     {
       "name": "Tamil1",
       "slug": "Tamil1",
       "icon": "🇮🇳",
-      "chapter_count": 1
+      "chapter_count": 1,
+      "class": 7
     },
     {
       "name": "EVE",
       "slug": "EVE",
       "icon": "🌍",
-      "chapter_count": 4
+      "chapter_count": 4,
+      "class": 7
     },
     {
       "name": "Hindi",
       "slug": "Hindi",
       "icon": "🇮🇳",
-      "chapter_count": 1
+      "chapter_count": 1,
+      "class": 7
     },
     {
       "name": "General Knowledge",
       "slug": "General Knowledge",
       "icon": "🧠",
-      "chapter_count": 1
+      "chapter_count": 1,
+      "class": 7
     },
     {
       "name": "English E1",
       "slug": "english_e1",
       "icon": "📖",
-      "chapter_count": 2
+      "chapter_count": 2,
+      "class": 7
     }
   ]
 }

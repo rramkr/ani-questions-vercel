@@ -3911,6 +3911,20 @@ b, strong {
     filter: grayscale(30%);
 }
 
+.completed-class-group {
+    margin-bottom: 1.5rem;
+}
+
+.completed-class-label {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #9ca3af;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+    padding-left: 0.25rem;
+}
+
 /* ============== CHAPTER NOTES STYLES ============== */
 
 .notes-container {

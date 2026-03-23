@@ -2167,23 +2167,58 @@ function renderSubjects(subjects, completed = []) {
     `).join('');
 
     if (completed.length > 0) {
-        html += `
-            <div class="completed-section">
+        // Group completed subjects by class
+        const byClass = {};
+        const noClass = [];
+        completed.forEach(s => {
+            if (s.class) {
+                if (!byClass[s.class]) byClass[s.class] = [];
+                byClass[s.class].push(s);
+            } else {
+                noClass.push(s);
+            }
+        });
+
+        html += `<div class="completed-section">
                 <div class="completed-header">
                     <span class="completed-icon">✅</span>
                     <span>Completed Exams</span>
-                </div>
+                </div>`;
+
+        // Render each class group
+        const classKeys = Object.keys(byClass).sort((a, b) => b - a);
+        classKeys.forEach(cls => {
+            const subjects = byClass[cls];
+            html += `
+                <div class="completed-class-group">
+                    <div class="completed-class-label">Class ${cls}</div>
+                    <div class="completed-grid">
+                        ${subjects.map(subject => `
+                            <div class="card completed-card" onclick="loadChapters(${JSON.stringify(subject).replace(/"/g, '&quot;')})">
+                                <div class="card-icon">${subject.icon}</div>
+                                <div class="card-title">${subject.name}</div>
+                                <div class="card-subtitle">${subject.chapter_count} chapter${subject.chapter_count !== 1 ? 's' : ''}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>`;
+        });
+
+        // Render any without a class (ungrouped)
+        if (noClass.length > 0) {
+            html += `
                 <div class="completed-grid">
-                    ${completed.map(subject => `
+                    ${noClass.map(subject => `
                         <div class="card completed-card" onclick="loadChapters(${JSON.stringify(subject).replace(/"/g, '&quot;')})">
                             <div class="card-icon">${subject.icon}</div>
                             <div class="card-title">${subject.name}</div>
                             <div class="card-subtitle">${subject.chapter_count} chapter${subject.chapter_count !== 1 ? 's' : ''}</div>
                         </div>
                     `).join('')}
-                </div>
-            </div>
-        `;
+                </div>`;
+        }
+
+        html += `</div>`;
     }
 
     elements.subjectsGrid.innerHTML = html;
