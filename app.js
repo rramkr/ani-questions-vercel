@@ -36,7 +36,7 @@ const USERS = {
         passwordHash: simpleHash('152013'),
         name: 'Prahlad',
         role: 'student',
-        allowedSubjects: ['Physics', 'History Pragi']
+        allowedSubjects: ['Physics', 'History Pragi', 'English E1']
     }
 };
 
