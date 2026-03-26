@@ -1,0 +1,43 @@
+{
+  "question_type": "summary",
+  "questions": [
+    {
+      "id": "sum_boh_1",
+      "question": "Summary of In the Bazaars of Hyderabad (Sarojini Naidu)",
+      "answer": "The poem 'In the Bazaars of Hyderabad' by Sarojini Naidu is a vivid, colourful celebration of the bustling markets of Hyderabad. The poet, who is also the speaker, walks through the bazaars and addresses the various tradespeople she encounters, asking them what they sell, weigh, grind, make, cry, play, chant, and weave.\n\nThe poem is structured as a series of questions directed at different workers: merchants displaying turbans, tunics, mirrors, and daggers; vendors weighing saffron, lentil, and rice; maidens grinding sandalwood, henna, and spice; pedlars calling out chessmen and ivory dice; goldsmiths crafting wristlets, anklets, rings, and delicate bells; fruitmen crying citron, pomegranate, and plum; musicians playing sitar, sarangi, and drums; magicians chanting spells; and flower-girls weaving garlands.\n\nThe poem ends on a deeply moving note — the flower-girls weave not only crowns for bridegrooms and chaplets for wedding beds, but also 'sheets of white blossoms new-garnered to perfume the sleep of the dead.' This final image connects the joyful marketplace to the cycle of life and death, reminding us that the bazaar serves both celebrations and sorrows.\n\nThe poem is a tribute to India's rich cultural diversity, traditional craftsmanship, and the vibrant life of its marketplaces."
+    },
+    {
+      "id": "sum_boh_2",
+      "question": "Stanza 1: The Merchants",
+      "answer": "The speaker opens by asking the merchants what they sell. Their wares are richly displayed — turbans of crimson (deep red) and silver, tunics of purple brocade (expensive patterned fabric), mirrors with panels of amber (a yellow-brown gemstone), and daggers with handles of jade (a hard green gemstone). This stanza paints a picture of luxury, colour, and craftsmanship. The items are not ordinary — they are ornamental and beautiful, reflecting the richness of Indian bazaars."
+    },
+    {
+      "id": "sum_boh_3",
+      "question": "Stanza 2: The Vendors, Maidens, and Pedlars",
+      "answer": "The speaker next addresses three groups. She asks the vendors what they weigh — saffron, lentil, and rice, the everyday essentials of Indian cooking. She asks the maidens what they grind — sandalwood, henna, and spice, items associated with beauty, rituals, and fragrance. She asks the pedlars (travelling salesmen) what they call out — chessmen and ivory dice, items of leisure and entertainment. This stanza moves from food to beauty to play, showing the variety of goods available in the bazaar."
+    },
+    {
+      "id": "sum_boh_4",
+      "question": "Stanza 3: The Goldsmiths",
+      "answer": "The speaker asks the goldsmiths what they make. They craft wristlets, anklets, and rings — everyday jewellery. But they also make delicate bells for the feet of blue pigeons, which are described as 'frail as a dragon-fly's wing' — a beautiful simile comparing the lightness of the bells to the delicate, translucent wing of a dragonfly. They also make girdles of gold for dancers and scabbards (sword covers) of gold for the king. This stanza moves from common jewellery to exquisite, specialised craft — showing the range of the goldsmiths' skill."
+    },
+    {
+      "id": "sum_boh_5",
+      "question": "Stanza 4: Fruitmen, Musicians, and Magicians",
+      "answer": "The speaker asks the fruitmen what they cry (call out) — citron, pomegranate, and plum. She asks the musicians what they play — sitar, sarangi, and drums, instruments that are quintessentially Indian. She asks the magicians what they chant — 'spells for aeons to come,' suggesting ancient, timeless magic. This stanza captures the sounds of the bazaar — the cries of fruit sellers, the music of instruments, and the mysterious chanting of magicians."
+    },
+    {
+      "id": "sum_boh_6",
+      "question": "Stanza 5: The Flower-Girls",
+      "answer": "The final stanza is the most powerful. The speaker asks the flower-girls what they weave. They weave with tassels of azure (bright blue) and red. They make crowns for the brow of a bridegroom and chaplets (garlands) to garland his bed — images of celebration and marriage. But the last two lines shift dramatically: 'Sheets of white blossoms new-garnered / To perfume the sleep of the dead.' The flower-girls also make funeral garlands for the dead. This ending is a poignant reminder that the bazaar serves all of life — from weddings to funerals, from joy to grief. It connects the vibrant marketplace to the eternal cycle of life and death."
+    },
+    {
+      "id": "sum_boh_7",
+      "question": "About the Poet",
+      "answer": "**Sarojini Naidu (1879-1949)**\n\nSarojini Naidu was also known by the sobriquet (nickname) 'The Nightingale of India' and was a child prodigy. She was a freedom fighter and a patriot who played a crucial role in India's independence movement. She was the first Indian woman to become the President of the Indian National Congress and also the first woman governor of an Indian state (Uttar Pradesh). Her poems are famous for their depiction of the beauty of simple joys and sorrows of life, originality of theme, and harmony of rhythm and music. Other famous poems by her include 'Indian Weavers', 'To Youth', and 'Past and Future'."
+    }
+  ],
+  "total_count": 7,
+  "subject": "8C English Literature",
+  "chapter": "In the Bazaars of Hyderabad"
+}

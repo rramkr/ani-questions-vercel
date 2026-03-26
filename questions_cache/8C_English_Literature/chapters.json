@@ -6,6 +6,12 @@
       "slug": "His First Flight",
       "has_questions": true,
       "icon": "🕊️"
+    },
+    {
+      "name": "In the Bazaars of Hyderabad",
+      "slug": "In the Bazaars of Hyderabad",
+      "has_questions": true,
+      "icon": "🏪"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "subject": "8C English Literature",
+  "chapter": "In the Bazaars of Hyderabad",
+  "sections": {
+    "textbook": [
+      {"value": "notes", "label": "Chapter Notes", "icon": "📒"},
+      {"value": "summary", "label": "Summary", "icon": "📋"},
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+    ],
+    "exam": [
+      {"value": "reference_to_context", "label": "Reference to Context", "icon": "📜"},
+      {"value": "short_answer", "label": "Short Answer (3 marks)", "icon": "📝"},
+      {"value": "long_answer", "label": "Long Answer (5 marks)", "icon": "📄"},
+      {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},
+      {"value": "make_sentences", "label": "Make Sentences", "icon": "✍️"}
+    ],
+    "miscellaneous": [
+      {"value": "finer_details", "label": "Finer Details", "icon": "🔍"}
+    ]
+  }
+}

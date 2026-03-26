@@ -1,0 +1,85 @@
+{
+  "subject": "8C English Literature",
+  "chapter": "In the Bazaars of Hyderabad",
+  "type": "textbook_qa",
+  "questions": [
+    {
+      "id": "boh_starter_1",
+      "question": "[Starter] Do you have any weekly markets in your area? What kinds of things can one buy there?",
+      "answer": "Yes, many neighbourhoods in Indian cities have weekly markets. In Chennai, for example, areas like T. Nagar, Mylapore, and Pondy Bazaar have markets where you can buy a wide variety of items — fresh vegetables, fruits, flowers, clothes, utensils, spices, toys, and household goods. These markets are bustling, colourful, and full of energy, much like the bazaars described in the poem.",
+      "source": "Starter Questions (p.85)"
+    },
+    {
+      "id": "boh_starter_2",
+      "question": "[Starter] Do you prefer going to a departmental store to buy things or to your local market? Give reasons for your choice.",
+      "answer": "Both departmental stores and local markets have their advantages. Departmental stores offer air-conditioning, fixed prices, and a neat shopping experience. However, local markets are often more vibrant and offer fresher produce, better bargains, and a more personal connection with the sellers. In a local market, you can bargain, interact with the vendors, and experience the rich cultural atmosphere — much like what Sarojini Naidu describes in her poem. Local markets also support small businesses and traditional artisans.",
+      "source": "Starter Questions (p.85)"
+    },
+    {
+      "id": "boh_rc_a",
+      "question": "[Section A] Fill in the blanks to complete the summary of the poem.",
+      "answer": "The speaker in the poem imagines that she is in the (1) bazaars of Hyderabad where she is looking at the various (2) tradespeople/merchants who are selling many different things. She observes the vendors engaged in various activities and describes the different items she sees. Among them are tunics of (3) purple brocade and mirrors with (4) panels of amber. She notices the vendors weighing (5) saffron, lentil, and rice. She sees them grinding (6) sandalwood, henna, and spice. The speaker uses a simile when describing the bells which the goldsmiths are making for the feet of blue pigeons, by comparing them with delicate (7) wings of the (8) dragon-fly. She then goes on to describe fruit sellers, (9) musicians and (10) magicians. Finally, the speaker describes the flower-girls who are using multi-coloured flowers and brocade to weave tassels of (11) azure and (12) red. The most dramatic and powerful line comes right at the end of the poem when the speaker talks about how the flower-girls are creating white sheet-like strings of perfumed flower for (13) the sleep of the dead.",
+      "source": "Reading Comprehension A (p.87)"
+    },
+    {
+      "id": "boh_rc_b1",
+      "question": "[Section B - RTC] 'Bells for the feet of blue pigeons, / Frail as a dragon-fly's wing, / Girdles of gold for the dancers, / Scabbards of gold for the king.' — Whom is the speaker observing at this point?",
+      "answer": "The speaker is observing the goldsmiths at this point. She is describing the various items that the goldsmiths make in the bazaars of Hyderabad — from delicate bells for pigeons to grand gold girdles for dancers and scabbards for the king.",
+      "source": "Reading Comprehension B.1 (p.87)"
+    },
+    {
+      "id": "boh_rc_b2",
+      "question": "[Section B - RTC] What does the word 'frail' mean in this context?",
+      "answer": "'Frail' in this context means extremely delicate, thin, and fragile. The poet uses 'frail' to describe how incredibly light and delicate the bells for the pigeons' feet are — so thin and fine that they are compared to the translucent wing of a dragonfly. The bells are not weak or broken, but rather astonishingly light and finely crafted.",
+      "source": "Reading Comprehension B.2 (p.87)"
+    },
+    {
+      "id": "boh_rc_b3",
+      "question": "[Section B - RTC] Explain in your own words how the speaker describes the bells for the pigeon's feet.",
+      "answer": "The speaker describes the bells made by the goldsmiths for the feet of blue pigeons using a beautiful simile. She says the bells are 'Frail as a dragon-fly's wing,' meaning they are so delicate, thin, and lightweight that they can be compared to the translucent, paper-thin wing of a dragonfly. This image highlights the extraordinary skill of the goldsmiths who can craft something so small and fragile out of metal. The bells need to be extremely light because they are attached to the feet of pigeons, which must still be able to fly while wearing them.",
+      "source": "Reading Comprehension B.3 (p.87)"
+    },
+    {
+      "id": "boh_rc_c1",
+      "question": "[Section C] Can we say that the bazaars contain goods of everyday use? Give reasons. (About 40 words)",
+      "answer": "Yes, the bazaars certainly contain goods of everyday use. The vendors sell saffron, lentil, and rice — essential food items. The maidens grind sandalwood, henna, and spice — items used in daily life and rituals. The fruitmen sell citron, pomegranate, and plum — common fruits. However, the bazaars also contain luxury items like brocade tunics, gold jewellery, and jade-handled daggers, showing that the markets cater to both everyday needs and special occasions.",
+      "source": "Reading Comprehension C.1 (p.88)"
+    },
+    {
+      "id": "boh_rc_c2",
+      "question": "[Section C] What are the goods that the goldsmiths make? (About 40 words)",
+      "answer": "The goldsmiths in the bazaars make a wide variety of gold items. They craft wristlets (bracelets), anklets, and rings — common jewellery. They also make extremely delicate bells for the feet of blue pigeons, which are as frail as a dragonfly's wing. Additionally, they make girdles (waist belts) of gold for dancers and scabbards (sword covers) of gold for the king. Their work ranges from everyday jewellery to exquisite, specialised items.",
+      "source": "Reading Comprehension C.2 (p.88)"
+    },
+    {
+      "id": "boh_rc_c3",
+      "question": "[Section C] How has the poet described the fruit sellers in the poem? (About 40 words)",
+      "answer": "The poet describes the fruit sellers (fruitmen) by asking them what they 'cry' — meaning what they call out or shout to attract customers. The fruitmen cry out 'Citron, pomegranate, and plum' — three colourful, juicy fruits. The word 'cry' captures the lively, noisy atmosphere of the bazaar where sellers loudly advertise their goods. The description is brief but vivid, evoking the sound and energy of the marketplace.",
+      "source": "Reading Comprehension C.3 (p.88)"
+    },
+    {
+      "id": "boh_rc_c4",
+      "question": "[Section C] Pick out any three things from the bazaars that lend colour and richness to the poem. (About 40 words)",
+      "answer": "Three things that lend colour and richness to the poem are: (1) Turbans of crimson and silver — the deep red and gleaming silver create a vivid visual image. (2) Tunics of purple brocade — purple is the colour of royalty, and brocade is a luxurious fabric. (3) Tassels of azure and red — the bright blue and red colours of the flower-girls' garlands add vibrancy. These colourful descriptions make the bazaar come alive in the reader's imagination.",
+      "source": "Reading Comprehension C.4 (p.88)"
+    },
+    {
+      "id": "boh_rc_c5",
+      "question": "[Section C] Do you think the poet has been successful in describing an Indian market place? Give reasons. (About 40 words)",
+      "answer": "Yes, the poet has been very successful in describing an Indian marketplace. She captures the incredible variety of goods — from food to fabrics, jewellery to fruits, music to flowers. She uses rich sensory imagery that appeals to sight (crimson, purple, azure), smell (sandalwood, henna, spice), sound (sitar, drums, vendors' cries), and touch (brocade, gold, ivory). The poem also captures the spirit of Indian bazaars — the bustling energy, the diverse tradespeople, and the way the market serves all aspects of life, from daily needs to weddings to funerals.",
+      "source": "Reading Comprehension C.5 (p.88)"
+    },
+    {
+      "id": "boh_rc_d1",
+      "question": "[Section D - Think and Discuss] Local bazaars and markets in our country are not just places to buy things but they reflect the diversity and harmonious lives of our communities. In what way does the poem support this statement?",
+      "answer": "The poem strongly supports this statement. The bazaars of Hyderabad bring together people from all walks of life — merchants selling luxury goods, vendors weighing everyday food, maidens grinding cosmetics, goldsmiths crafting jewellery, musicians playing classical instruments, magicians chanting spells, and flower-girls weaving garlands. Each group represents a different skill, tradition, and social role, yet they all coexist harmoniously in the same marketplace.\n\nThe diversity is evident in the range of goods: from food (saffron, rice, fruits) to beauty (henna, sandalwood) to art (music, chess) to ceremony (wedding garlands, funeral flowers). The bazaar serves all religions, all classes, and all occasions. The last stanza beautifully shows this — the same flower-girls make garlands for both joyful weddings and solemn funerals, reflecting how the market embraces all of life.\n\nThe poem also reflects cultural harmony — Hindu, Muslim, and other traditions blend seamlessly in the Hyderabad bazaar, with sitar music, Mughal-style brocade, Persian-style daggers, and Indian spices all coexisting in one vibrant space.",
+      "source": "Reading Comprehension D (p.88)"
+    },
+    {
+      "id": "boh_vocab_match",
+      "question": "[Vocabulary] Match the foreign words in Column A with their meanings in Column B: 1. versus, 2. adieu, 3. bonhomie, 4. genteel, 5. verbatim, 6. en masse, 7. faux pas, 8. ad interim, 9. incognito",
+      "answer": "1. versus — (e) against\n2. adieu — (g) goodbye\n3. bonhomie — (d) good-natured friendliness\n4. genteel — (h) elegant, refined\n5. verbatim — (f) repeating the exact words someone said\n6. en masse — (i) all together\n7. faux pas — (c) an embarrassing action or remark\n8. ad interim — (b) temporarily\n9. incognito — (a) pretended identity",
+      "source": "Vocabulary - Foreign Words (p.88)"
+    }
+  ]
+}

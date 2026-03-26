@@ -1,0 +1,27 @@
+{
+  "subject": "8C English Literature",
+  "chapter": "In the Bazaars of Hyderabad",
+  "type": "make_sentences",
+  "questions": [
+    {"id": "boh_ms_1", "word": "wares", "meaning": "goods or merchandise displayed for sale", "sample_sentence": "The shopkeeper at T. Nagar arranged his wares attractively in the display window, hoping to catch the eye of Diwali shoppers passing by."},
+    {"id": "boh_ms_2", "word": "crimson", "meaning": "a deep, rich red colour", "sample_sentence": "Anirudh's cricket team wore crimson jerseys for the inter-school tournament, standing out brightly against the green field at Sishya."},
+    {"id": "boh_ms_3", "word": "brocade", "meaning": "an expensive thick fabric with a raised pattern woven into it", "sample_sentence": "Anirudh's mother wore a beautiful brocade saree with golden patterns to the Pongal celebrations at school."},
+    {"id": "boh_ms_4", "word": "amber", "meaning": "a hard, yellow-brown stone used for making jewellery", "sample_sentence": "At the jewellery exhibition near Greams Road, Anirudh was fascinated by a necklace made of polished amber beads that glowed like honey in the light."},
+    {"id": "boh_ms_5", "word": "jade", "meaning": "a hard green gemstone used for ornaments", "sample_sentence": "Anirudh's grandmother showed him a small jade figurine she had brought back from her trip to China, explaining how the stone is considered lucky."},
+    {"id": "boh_ms_6", "word": "saffron", "meaning": "an expensive orange-yellow spice from the crocus flower", "sample_sentence": "The biryani at Sastha Catering was fragrant with saffron, giving it a rich golden colour that made Anirudh's mouth water."},
+    {"id": "boh_ms_7", "word": "henna", "meaning": "a reddish-brown dye made from the henna plant, used for decorating hands", "sample_sentence": "During the school's cultural festival, Suvasana got beautiful henna patterns drawn on her hands and showed them off proudly to Anirudh and Yohann."},
+    {"id": "boh_ms_8", "word": "pedlar", "meaning": "a person who travels from place to place selling small goods", "sample_sentence": "A pedlar came to the street near Tidel Park selling colourful balloons and toys, and all the children in the neighbourhood gathered around him excitedly."},
+    {"id": "boh_ms_9", "word": "frail", "meaning": "delicate, thin, and fragile; easily broken", "sample_sentence": "The frail paper kite Anirudh made for the Pongal festival tore apart in the strong Marina Beach wind before it could even fly properly."},
+    {"id": "boh_ms_10", "word": "girdle", "meaning": "a belt or sash worn around the waist", "sample_sentence": "The Bharatanatyam dancer at the school annual day wore a golden girdle around her waist that jingled as she performed the intricate dance steps."},
+    {"id": "boh_ms_11", "word": "scabbard", "meaning": "a cover or sheath for the blade of a sword or dagger", "sample_sentence": "At the Government Museum in Chennai, Anirudh and Vishwak admired an ancient Mughal sword with an ornate jewelled scabbard on display."},
+    {"id": "boh_ms_12", "word": "citron", "meaning": "a large, thick-skinned citrus fruit similar to a lemon", "sample_sentence": "Anirudh learned that the citron fruit used in Onam celebrations in Kerala looks like a giant lemon but has a much thicker, bumpier skin."},
+    {"id": "boh_ms_13", "word": "aeon", "meaning": "an extremely long period of time; an age", "sample_sentence": "The ancient temples of Mahabalipuram have stood for aeons, and Anirudh felt a sense of wonder imagining the craftsmen who built them centuries ago."},
+    {"id": "boh_ms_14", "word": "azure", "meaning": "bright blue colour, like a clear sky", "sample_sentence": "On the school trip to Kodaikanal, Anirudh gazed at the azure sky above the hills, thinking he had never seen a blue so vivid and clear."},
+    {"id": "boh_ms_15", "word": "chaplet", "meaning": "a garland or circlet of flowers for a person's head", "sample_sentence": "The bride at Prahlad's cousin's wedding wore a beautiful chaplet of jasmine and roses on her head that filled the room with fragrance."},
+    {"id": "boh_ms_16", "word": "sobriquet", "meaning": "a nickname or descriptive name given to someone", "sample_sentence": "Anirudh's friends at Sishya gave him the sobriquet 'Mridangam Master' after his brilliant performance at the school music competition."},
+    {"id": "boh_ms_17", "word": "verbatim", "meaning": "repeating the exact words someone said, word for word", "sample_sentence": "The teacher asked Anirudh to repeat the poem verbatim, so he recited every line of 'In the Bazaars of Hyderabad' exactly as written."},
+    {"id": "boh_ms_18", "word": "bonhomie", "meaning": "good-natured friendliness and warmth", "sample_sentence": "There was a spirit of bonhomie in the air as Anirudh's family gathered at home for Pongal, with everyone laughing and sharing stories."},
+    {"id": "boh_ms_19", "word": "faux pas", "meaning": "an embarrassing social mistake or blunder", "sample_sentence": "Calling the chief guest by the wrong name during the school prize-giving ceremony was a faux pas that made Anirudh blush with embarrassment."},
+    {"id": "boh_ms_20", "word": "incognito", "meaning": "with a hidden or pretended identity; in disguise", "sample_sentence": "The famous cricketer visited Marina Beach incognito, wearing sunglasses and a cap so that fans would not recognise him."}
+  ]
+}

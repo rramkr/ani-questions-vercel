@@ -1,0 +1,57 @@
+{
+  "subject": "8C English Literature",
+  "chapter": "In the Bazaars of Hyderabad",
+  "question_type": "reference_to_context",
+  "questions": [
+    {
+      "id": "rtc_boh_1",
+      "extract": "What do you sell, O ye merchants?\nRichly your wares are displayed,\nTurbans of crimson and silver,\nTunics of purple brocade,",
+      "sub_questions": [
+        {"question": "Who is the speaker addressing in these lines?", "answer": "The speaker (Sarojini Naidu) is addressing the merchants in the bazaars of Hyderabad who are displaying their goods for sale."},
+        {"question": "What does 'wares' mean? How are they described?", "answer": "'Wares' means goods or merchandise for sale. They are described as being 'richly displayed,' meaning they are arranged beautifully and abundantly, suggesting luxury and abundance."},
+        {"question": "What colours are mentioned in this extract? What effect do they create?", "answer": "Crimson (deep red), silver, and purple are mentioned. These colours create a vivid, rich visual image that brings the bazaar to life. They suggest luxury and opulence, as crimson and purple were historically associated with royalty and wealth."},
+        {"question": "What is 'brocade'? Why is it significant?", "answer": "Brocade is an expensive, thick fabric with a raised pattern woven into it, often using gold or silver thread. Its mention is significant because it highlights the luxurious quality of goods available in Hyderabad's bazaars and the rich textile tradition of India."}
+      ]
+    },
+    {
+      "id": "rtc_boh_2",
+      "extract": "What do you weigh, O ye vendors?\nSaffron, lentil, and rice.\nWhat do you grind, O ye maidens?\nSandalwood, henna, and spice.",
+      "sub_questions": [
+        {"question": "What are the vendors weighing? What type of goods are these?", "answer": "The vendors are weighing saffron, lentil, and rice. These are food essentials — everyday items needed for cooking. Saffron, however, is also the most expensive spice in the world, showing that even everyday items in the bazaar have a touch of luxury."},
+        {"question": "Who are the maidens and what are they grinding?", "answer": "The maidens are young women working in the bazaar. They are grinding sandalwood, henna, and spice. These are items associated with beauty, rituals, and fragrance — sandalwood is used for its perfume and in religious ceremonies, henna is used for decorating hands, and spices are used in cooking and medicine."},
+        {"question": "Which sense does this stanza appeal to most? Give evidence.", "answer": "This stanza appeals most strongly to the sense of SMELL (olfactory imagery). Saffron has a distinctive aroma, and the grinding of sandalwood, henna, and spice would release strong, fragrant smells. You can almost smell the spice-laden air of the bazaar through these lines."},
+        {"question": "What does the word 'ye' mean? Why does the poet use it?", "answer": "'Ye' is an archaic (old English) form of 'you.' The poet uses it to give the poem a formal, elevated, almost timeless tone. It makes the bazaar workers sound dignified and respected, and adds to the musical, rhythmic quality of the poem."}
+      ]
+    },
+    {
+      "id": "rtc_boh_3",
+      "extract": "Bells for the feet of blue pigeons,\nFrail as a dragon-fly's wing,\nGirdles of gold for the dancers,\nScabbards of gold for the king.",
+      "sub_questions": [
+        {"question": "What literary device is used in the line 'Frail as a dragon-fly's wing'? Explain its effect.", "answer": "A SIMILE is used — 'Frail as a dragon-fly's wing' compares the delicate pigeon bells to the thin, translucent wing of a dragonfly using the word 'as.' The effect is to emphasise the extraordinary delicacy and lightness of the bells. A dragonfly's wing is paper-thin and almost see-through, so the comparison shows the incredible skill of the goldsmiths in crafting something so small and fragile from metal."},
+        {"question": "What are 'girdles' and 'scabbards'? Who are they made for?", "answer": "Girdles are belts or sashes worn around the waist — here, golden waist belts made for dancers (likely classical dancers who wear ornamental waist chains). Scabbards are covers or sheaths for the blades of swords or daggers — here, made of gold for the king. This shows the goldsmiths serve both the world of art (dancers) and the world of royalty (the king)."},
+        {"question": "What contrast is present in these lines?", "answer": "There is a contrast between the tiny, delicate bells for pigeons (small, fragile, frail) and the grand, imposing scabbards for the king (large, powerful, royal). The goldsmiths' skill ranges from the most miniature, delicate work to the most grand and majestic — showing their remarkable versatility."},
+        {"question": "Why is the tradition of putting bells on pigeons mentioned?", "answer": "Putting tiny bells on pigeons' feet is a traditional practice in Hyderabad, associated with pigeon-keeping (kabootarbaazi). By mentioning this, the poet highlights a unique cultural tradition of the city. The bells tinkle as the pigeons fly, adding to the sounds of the bazaar. It shows the richness and uniqueness of Hyderabadi culture."}
+      ]
+    },
+    {
+      "id": "rtc_boh_4",
+      "extract": "What do you cry, O fruitmen?\nCitron, pomegranate, and plum.\nWhat do you play, O ye musicians?\nSitar, Sarangi, and drums.",
+      "sub_questions": [
+        {"question": "What does 'cry' mean in the context of fruitmen?", "answer": "'Cry' here means to call out loudly or shout in order to attract customers. In Indian bazaars, fruit sellers traditionally call out the names of their fruits to advertise their goods. It does NOT mean weeping or being sad — it refers to the vendors' characteristic loud announcements."},
+        {"question": "What musical instruments are mentioned? What do they represent?", "answer": "Three instruments are mentioned: sitar (a stringed instrument), sarangi (a bowed string instrument), and drums. These are quintessentially Indian instruments that represent the rich musical tradition of India. Together, they cover melody (sitar and sarangi) and rhythm (drums), suggesting a complete musical experience in the bazaar."},
+        {"question": "Which sense does this stanza mainly appeal to?", "answer": "This stanza mainly appeals to the sense of SOUND (auditory imagery). The 'cry' of the fruitmen, the music of the sitar, sarangi, and drums — all create a vivid picture of the sounds that fill the bazaar. You can almost hear the vendors shouting and the music playing."},
+        {"question": "What is a citron?", "answer": "A citron is a large, thick-skinned citrus fruit similar to a lemon but bigger. It is used in cooking, medicine, and religious rituals in India. It is one of the original citrus fruits from which lemons and oranges are descended."}
+      ]
+    },
+    {
+      "id": "rtc_boh_5",
+      "extract": "What do you weave, O ye flower-girls?\nWith tassels of azure and red?\nCrowns for the brow of a bridegroom,\nChaplets to garland his bed,\nSheets of white blossoms new-garnered\nTo perfume the sleep of the dead.",
+      "sub_questions": [
+        {"question": "What are the flower-girls weaving? For what occasions?", "answer": "The flower-girls are weaving garlands and decorations using flowers with tassels of azure (bright blue) and red. They make them for TWO contrasting occasions: (1) Weddings — crowns for the bridegroom's head and chaplets (garlands) to decorate his bed; and (2) Funerals — sheets of freshly gathered white blossoms to cover and perfume the bodies of the dead."},
+        {"question": "What does 'To perfume the sleep of the dead' mean? What literary device is used?", "answer": "'To perfume the sleep of the dead' means to place fragrant white flowers over the bodies of deceased people. It uses a EUPHEMISM — 'sleep of the dead' is a gentle, indirect way of referring to death, making it sound peaceful like sleep rather than harsh or frightening. The flowers are meant to honour the dead and fill the surroundings with a sweet fragrance."},
+        {"question": "Why is this stanza considered the most powerful in the poem?", "answer": "This stanza is considered the most powerful because it provides a dramatic contrast — after four stanzas celebrating the colourful, joyful life of the bazaar, it suddenly introduces death. The same flower-girls who make wedding garlands also make funeral flowers. This unexpected shift transforms the poem from a simple description of a marketplace into a profound reflection on the cycle of life and death. It gives the poem emotional depth and universality."},
+        {"question": "What is the significance of the colours azure, red, and white in this stanza?", "answer": "Azure (bright blue) and red are vibrant, festive colours associated with celebrations and weddings — they represent joy and life. White, however, is the colour of mourning and funerals in Indian culture. The shift from colourful (azure and red) to white mirrors the shift from wedding celebrations to funeral rites, reinforcing the contrast between life and death that makes this stanza so powerful."}
+      ]
+    }
+  ]
+}

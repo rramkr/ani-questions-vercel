@@ -1,0 +1,27 @@
+{
+  "subject": "8C English Literature",
+  "chapter": "In the Bazaars of Hyderabad",
+  "question_type": "mcq",
+  "questions": [
+    {"id": "mcq_boh_1", "question": "Who is the poet of 'In the Bazaars of Hyderabad'?", "options": ["Rabindranath Tagore", "Sarojini Naidu", "Kamala Das", "Toru Dutt"], "correct_answer": "Sarojini Naidu"},
+    {"id": "mcq_boh_2", "question": "What was Sarojini Naidu's sobriquet?", "options": ["The Rose of India", "The Nightingale of India", "The Songbird of India", "The Lotus of India"], "correct_answer": "The Nightingale of India"},
+    {"id": "mcq_boh_3", "question": "What colour are the turbans described in the poem?", "options": ["Gold and white", "Crimson and silver", "Blue and green", "Purple and amber"], "correct_answer": "Crimson and silver"},
+    {"id": "mcq_boh_4", "question": "What material are the tunics made of?", "options": ["Silk", "Cotton", "Purple brocade", "Linen"], "correct_answer": "Purple brocade"},
+    {"id": "mcq_boh_5", "question": "What are the dagger handles made of?", "options": ["Amber", "Ivory", "Jade", "Gold"], "correct_answer": "Jade"},
+    {"id": "mcq_boh_6", "question": "What do the vendors weigh in the bazaar?", "options": ["Gold and silver", "Fruits and flowers", "Saffron, lentil, and rice", "Sandalwood and henna"], "correct_answer": "Saffron, lentil, and rice"},
+    {"id": "mcq_boh_7", "question": "What do the maidens grind?", "options": ["Wheat, rice, and flour", "Sandalwood, henna, and spice", "Saffron, turmeric, and chilli", "Coffee, tea, and cocoa"], "correct_answer": "Sandalwood, henna, and spice"},
+    {"id": "mcq_boh_8", "question": "What do the pedlars sell?", "options": ["Fruits and flowers", "Chessmen and ivory dice", "Musical instruments", "Gold jewellery"], "correct_answer": "Chessmen and ivory dice"},
+    {"id": "mcq_boh_9", "question": "The simile 'Frail as a dragon-fly's wing' refers to:", "options": ["The daggers", "The flowers", "The bells for pigeons", "The bracelets"], "correct_answer": "The bells for pigeons"},
+    {"id": "mcq_boh_10", "question": "What does 'frail' mean in the poem?", "options": ["Strong and heavy", "Colourful and bright", "Delicate and fragile", "Old and worn out"], "correct_answer": "Delicate and fragile"},
+    {"id": "mcq_boh_11", "question": "What are 'scabbards'?", "options": ["Types of jewellery", "Covers for swords/daggers", "Musical instruments", "Types of fabric"], "correct_answer": "Covers for swords/daggers"},
+    {"id": "mcq_boh_12", "question": "Who are the scabbards of gold made for?", "options": ["The dancers", "The merchants", "The king", "The magicians"], "correct_answer": "The king"},
+    {"id": "mcq_boh_13", "question": "What fruits do the fruitmen cry (call out)?", "options": ["Mango, banana, and apple", "Citron, pomegranate, and plum", "Orange, grape, and pear", "Guava, papaya, and melon"], "correct_answer": "Citron, pomegranate, and plum"},
+    {"id": "mcq_boh_14", "question": "What instruments do the musicians play?", "options": ["Flute, tabla, and veena", "Sitar, sarangi, and drums", "Piano, guitar, and violin", "Harmonium, dholak, and shehnai"], "correct_answer": "Sitar, sarangi, and drums"},
+    {"id": "mcq_boh_15", "question": "What do the magicians chant?", "options": ["Songs for weddings", "Prayers for the gods", "Spells for aeons to come", "Hymns for the dead"], "correct_answer": "Spells for aeons to come"},
+    {"id": "mcq_boh_16", "question": "What does 'aeon' mean?", "options": ["A short moment", "A type of spell", "An extremely long period of time", "A musical note"], "correct_answer": "An extremely long period of time"},
+    {"id": "mcq_boh_17", "question": "What colour is 'azure'?", "options": ["Deep red", "Bright blue", "Golden yellow", "Pure white"], "correct_answer": "Bright blue"},
+    {"id": "mcq_boh_18", "question": "What are 'chaplets'?", "options": ["Small chapters in a book", "Garlands or circlets for the head", "Types of musical instruments", "Covers for daggers"], "correct_answer": "Garlands or circlets for the head"},
+    {"id": "mcq_boh_19", "question": "The last two lines of the poem refer to:", "options": ["Wedding celebrations", "Funeral rites for the dead", "Birthday parties", "Festival decorations"], "correct_answer": "Funeral rites for the dead"},
+    {"id": "mcq_boh_20", "question": "'To perfume the sleep of the dead' is an example of:", "options": ["Simile", "Metaphor", "Euphemism", "Alliteration"], "correct_answer": "Euphemism"}
+  ]
+}

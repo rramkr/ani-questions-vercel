@@ -1,0 +1,28 @@
+{
+  "question_type": "finer_details",
+  "questions": [
+    {"id": "fd_boh_1", "question": "Sarojini Naidu was born in the year:", "options": ["1869", "1879", "1889", "1899"], "answer": "1879", "explanation": "The textbook states: 'Sarojini Naidu (1879-1949).'"},
+    {"id": "fd_boh_2", "question": "Sarojini Naidu died in the year:", "options": ["1939", "1944", "1949", "1954"], "answer": "1949", "explanation": "The textbook states: 'Sarojini Naidu (1879-1949).'"},
+    {"id": "fd_boh_3", "question": "Sarojini Naidu was the first Indian woman to become:", "options": ["Prime Minister", "President of Indian National Congress", "Chief Justice", "Supreme Court Judge"], "answer": "President of Indian National Congress", "explanation": "'She was the first Indian woman to become the President of the Indian National Congress.'"},
+    {"id": "fd_boh_4", "question": "The word 'bazaar' is borrowed from which language?", "options": ["Arabic", "Hindi", "Persian", "Turkish"], "answer": "Persian", "explanation": "'The word bazaar has been borrowed from Persian.'"},
+    {"id": "fd_boh_5", "question": "The mirrors in the bazaar have panels of:", "options": ["Gold", "Jade", "Amber", "Silver"], "answer": "Amber", "explanation": "'Mirrors with panels of amber' (Stanza 1)."},
+    {"id": "fd_boh_6", "question": "The daggers have handles of:", "options": ["Amber", "Gold", "Ivory", "Jade"], "answer": "Jade", "explanation": "'Daggers with handles of jade' (Stanza 1)."},
+    {"id": "fd_boh_7", "question": "Which of these is NOT something the vendors weigh?", "options": ["Saffron", "Lentil", "Wheat", "Rice"], "answer": "Wheat", "explanation": "The vendors weigh 'Saffron, lentil, and rice' — wheat is not mentioned."},
+    {"id": "fd_boh_8", "question": "The maidens grind all of the following EXCEPT:", "options": ["Sandalwood", "Henna", "Turmeric", "Spice"], "answer": "Turmeric", "explanation": "The maidens grind 'Sandalwood, henna, and spice' — turmeric is not mentioned."},
+    {"id": "fd_boh_9", "question": "The bells for pigeons are compared to:", "options": ["A butterfly's wing", "A dragon-fly's wing", "A bird's feather", "A spider's web"], "answer": "A dragon-fly's wing", "explanation": "'Frail as a dragon-fly's wing' — a simile comparing the bells to dragonfly wings."},
+    {"id": "fd_boh_10", "question": "The girdles of gold are made for:", "options": ["The queen", "The dancers", "The merchants", "The maidens"], "answer": "The dancers", "explanation": "'Girdles of gold for the dancers' (Stanza 3)."},
+    {"id": "fd_boh_11", "question": "A 'citron' is similar to a large:", "options": ["Orange", "Lemon", "Grape", "Apple"], "answer": "Lemon", "explanation": "'Citron: a fruit similar to a large lemon' (textbook glossary)."},
+    {"id": "fd_boh_12", "question": "The musical instruments mentioned in the poem are:", "options": ["Flute, tabla, veena", "Sitar, sarangi, drums", "Harmonium, dholak, shehnai", "Guitar, piano, violin"], "answer": "Sitar, sarangi, drums", "explanation": "'Sitar, Sarangi, and drums' (Stanza 4)."},
+    {"id": "fd_boh_13", "question": "How many stanzas does the poem have?", "options": ["3", "4", "5", "6"], "answer": "5", "explanation": "The poem has 5 stanzas, each with 6 lines."},
+    {"id": "fd_boh_14", "question": "The tassels woven by the flower-girls are of which colours?", "options": ["White and gold", "Azure and red", "Crimson and silver", "Purple and green"], "answer": "Azure and red", "explanation": "'With tassels of azure and red' (Stanza 5)."},
+    {"id": "fd_boh_15", "question": "The 'chaplets' in the poem are made for:", "options": ["The king's sword", "The bridegroom's bed", "The dancer's waist", "The pigeon's feet"], "answer": "The bridegroom's bed", "explanation": "'Chaplets to garland his bed' — garlands to decorate the bridegroom's bed."},
+    {"id": "fd_boh_16", "question": "The last stanza mentions flowers for:", "options": ["Only weddings", "Only funerals", "Both weddings and funerals", "Religious festivals"], "answer": "Both weddings and funerals", "explanation": "The stanza describes crowns for bridegrooms (wedding) AND sheets of white blossoms for the dead (funeral)."},
+    {"id": "fd_boh_17", "question": "'Faux pas' is a word borrowed from:", "options": ["Latin", "Italian", "French", "German"], "answer": "French", "explanation": "The textbook's vocabulary exercise identifies 'faux pas' as a French phrase meaning an embarrassing action."},
+    {"id": "fd_boh_18", "question": "'Verbatim' means:", "options": ["Approximately", "Word for word", "In writing", "Out loud"], "answer": "Word for word", "explanation": "'Verbatim: repeating the exact words someone said' (textbook vocabulary)."},
+    {"id": "fd_boh_19", "question": "The theme of the poem as stated in the textbook is:", "options": ["War and peace", "Cultural diversity", "Nature and seasons", "Love and friendship"], "answer": "Cultural diversity", "explanation": "The textbook header states: 'Theme: Cultural diversity.'"},
+    {"id": "fd_boh_20", "question": "Sarojini Naidu was also the governor of:", "options": ["Tamil Nadu", "Andhra Pradesh", "Uttar Pradesh", "West Bengal"], "answer": "Uttar Pradesh", "explanation": "She was 'the governor of an Indian state' — Uttar Pradesh (1947-1949)."}
+  ],
+  "total_count": 20,
+  "subject": "8C English Literature",
+  "chapter": "In the Bazaars of Hyderabad"
+}
