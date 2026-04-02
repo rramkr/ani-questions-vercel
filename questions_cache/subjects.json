@@ -13,10 +13,10 @@
       "chapter_count": 1
     },
     {
-      "name": "History Pragi",
-      "slug": "History_Pragi",
-      "icon": "📜",
-      "chapter_count": 5
+      "name": "8C English Grammar",
+      "slug": "8C_English_Grammar",
+      "icon": "📝",
+      "chapter_count": 4
     }
   ],
   "completed": [
@@ -88,6 +88,13 @@
       "slug": "english_e1",
       "icon": "📖",
       "chapter_count": 2,
+      "class": 7
+    },
+    {
+      "name": "History Pragi",
+      "slug": "History_Pragi",
+      "icon": "📜",
+      "chapter_count": 5,
       "class": 7
     }
   ]

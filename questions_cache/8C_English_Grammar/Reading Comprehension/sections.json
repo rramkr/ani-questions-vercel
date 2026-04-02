@@ -1,0 +1,16 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Reading Comprehension",
+  "sections": {
+    "textbook": [
+      {"value": "textbook_passages", "label": "Textbook Passages", "icon": "📖"}
+    ],
+    "exam": [
+      {"value": "friday_afternoon", "label": "Friday Afternoon", "icon": "📚"}
+    ],
+    "miscellaneous": [
+      {"value": "7c_exam_passages", "label": "7C Exam Passages", "icon": "📝"},
+      {"value": "7c_additional_passages", "label": "7C Extra Passages", "icon": "📄"}
+    ]
+  }
+}

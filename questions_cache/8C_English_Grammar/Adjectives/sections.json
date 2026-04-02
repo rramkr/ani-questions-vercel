@@ -1,0 +1,15 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Adjectives",
+  "sections": {
+    "textbook": [
+      {"value": "notes", "label": "Chapter Notes", "icon": "📒"},
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+    ],
+    "exam": [
+      {"value": "previous_year_questions", "label": "Previous Year Questions", "icon": "📋"},
+      {"value": "exam_practice", "label": "Exam Practice", "icon": "✍️"}
+    ],
+    "miscellaneous": []
+  }
+}

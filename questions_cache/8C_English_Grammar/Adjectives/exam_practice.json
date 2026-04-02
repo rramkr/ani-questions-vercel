@@ -1,0 +1,367 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Adjectives",
+  "question_type": "exam_practice",
+  "questions": [
+    {
+      "id": "ep001",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the noun 'beauty'.",
+      "answer": "beautiful",
+      "explanation": "Adding the suffix '-ful' to 'beauty' (the 'y' changes to 'i' and '-ful' is added) forms 'beautiful', meaning full of beauty."
+    },
+    {
+      "id": "ep002",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the noun 'danger'.",
+      "answer": "dangerous",
+      "explanation": "Adding the suffix '-ous' to 'danger' forms 'dangerous', meaning full of danger."
+    },
+    {
+      "id": "ep003",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the verb 'enjoy'.",
+      "answer": "enjoyable",
+      "explanation": "Adding the suffix '-able' to 'enjoy' forms 'enjoyable', meaning capable of being enjoyed."
+    },
+    {
+      "id": "ep004",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the noun 'child'.",
+      "answer": "childish",
+      "explanation": "Adding the suffix '-ish' to 'child' forms 'childish', meaning resembling or characteristic of a child (often with a negative connotation)."
+    },
+    {
+      "id": "ep005",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the noun 'glory'.",
+      "answer": "glorious",
+      "explanation": "The noun 'glory' becomes 'glorious' by dropping the 'y' and adding '-ious'. It means full of glory or magnificence."
+    },
+    {
+      "id": "ep006",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the noun 'courage'.",
+      "answer": "courageous",
+      "explanation": "Adding the suffix '-ous' to 'courage' forms 'courageous', meaning having or showing courage."
+    },
+    {
+      "id": "ep007",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the noun 'pain'.",
+      "answer": "painful",
+      "explanation": "Adding the suffix '-ful' to 'pain' forms 'painful', meaning causing pain or suffering."
+    },
+    {
+      "id": "ep008",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the verb 'create'.",
+      "answer": "creative",
+      "explanation": "The verb 'create' becomes 'creative' by dropping the 'e' and adding '-ive'. It means having the ability or power to create."
+    },
+    {
+      "id": "ep009",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the noun 'sense'.",
+      "answer": "sensible",
+      "explanation": "Adding the suffix '-ible' to 'sense' (dropping the 'e') forms 'sensible', meaning having or showing good sense or judgement."
+    },
+    {
+      "id": "ep010",
+      "type": "fill_in_blanks",
+      "question": "Form an adjective from the noun 'nature'.",
+      "answer": "natural",
+      "explanation": "The noun 'nature' becomes 'natural' by dropping the 'e' and adding '-al'. It means existing in or produced by nature."
+    },
+    {
+      "id": "ep011",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: The movie was so ______ (bore) that half the audience left.",
+      "answer": "boring",
+      "explanation": "We use the -ing form 'boring' because the movie CAUSED boredom. The -ing form describes the thing that produces the feeling."
+    },
+    {
+      "id": "ep012",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: She felt ______ (exhaust) after running the marathon.",
+      "answer": "exhausted",
+      "explanation": "We use the -ed form 'exhausted' because she EXPERIENCED the feeling of exhaustion. The -ed form describes the person who feels the emotion."
+    },
+    {
+      "id": "ep013",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: The news about the earthquake was quite ______ (disturb).",
+      "answer": "disturbing",
+      "explanation": "We use the -ing form 'disturbing' because the news CAUSED disturbance or unease. The news produces the feeling, so it is disturbing."
+    },
+    {
+      "id": "ep014",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: We were ______ (thrill) to hear about our team's victory.",
+      "answer": "thrilled",
+      "explanation": "We use the -ed form 'thrilled' because 'we' EXPERIENCED the thrill. The people feel the emotion, so they are thrilled."
+    },
+    {
+      "id": "ep015",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: It was an ______ (excite) match that kept everyone on the edge of their seats.",
+      "answer": "exciting",
+      "explanation": "We use the -ing form 'exciting' because the match CAUSED excitement. The match produces the feeling, so it is exciting."
+    },
+    {
+      "id": "ep016",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: The students were ______ (confuse) by the complicated instructions.",
+      "answer": "confused",
+      "explanation": "We use the -ed form 'confused' because the students EXPERIENCED confusion. The people feel the emotion, so they are confused."
+    },
+    {
+      "id": "ep017",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: That was the most ______ (terrify) experience of my life.",
+      "answer": "terrifying",
+      "explanation": "We use the -ing form 'terrifying' because the experience CAUSED terror. The experience produces the feeling, so it is terrifying."
+    },
+    {
+      "id": "ep018",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: The children were ______ (disappoint) when the trip was cancelled.",
+      "answer": "disappointed",
+      "explanation": "We use the -ed form 'disappointed' because the children EXPERIENCED disappointment. The people feel the emotion, so they are disappointed."
+    },
+    {
+      "id": "ep019",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: The magician performed an ______ (astonish) trick that left everyone speechless.",
+      "answer": "astonishing",
+      "explanation": "We use the -ing form 'astonishing' because the trick CAUSED astonishment. The trick produces the feeling, so it is astonishing."
+    },
+    {
+      "id": "ep020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct participle form: He was deeply ______ (touch) by the kind words of his friends.",
+      "answer": "touched",
+      "explanation": "We use the -ed form 'touched' because he EXPERIENCED the feeling of being emotionally moved. The person feels the emotion, so he is touched."
+    },
+    {
+      "id": "ep021",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'Every student must bring their own textbook.'",
+      "answer": "1. 'Every' \u2014 Distributive adjective (refers to each student individually). 2. 'own' \u2014 Possessive adjective (shows possession/belonging).",
+      "explanation": "Distributive adjectives (each, every, either, neither) refer to individual members of a group. 'Own' is a possessive adjective that emphasises personal possession."
+    },
+    {
+      "id": "ep022",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'Those five clever students won the quiz competition.'",
+      "answer": "1. 'Those' \u2014 Demonstrative adjective (points out which students). 2. 'five' \u2014 Adjective of number (tells how many). 3. 'clever' \u2014 Adjective of quality (describes the nature of the students).",
+      "explanation": "Demonstrative adjectives (this, that, these, those) point out specific nouns. Adjectives of number tell how many or in what order. Adjectives of quality describe the characteristics of a noun."
+    },
+    {
+      "id": "ep023",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'Which book has more interesting stories?'",
+      "answer": "1. 'Which' \u2014 Interrogative adjective (used to ask a question about the noun). 2. 'more interesting' \u2014 Adjective of quality in comparative degree (describes the nature of the stories).",
+      "explanation": "Interrogative adjectives (which, what, whose) are used with nouns to ask questions. 'More interesting' is a quality adjective in the comparative degree."
+    },
+    {
+      "id": "ep024",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'She drank some cold water after the long walk.'",
+      "answer": "1. 'some' \u2014 Adjective of quantity (tells how much, indefinite amount). 2. 'cold' \u2014 Adjective of quality (describes the temperature of the water). 3. 'long' \u2014 Adjective of quality (describes the duration of the walk).",
+      "explanation": "Adjectives of quantity (some, much, little, enough, all, no) tell how much of a thing. Adjectives of quality describe the characteristics of a noun."
+    },
+    {
+      "id": "ep025",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'Neither answer is correct.'",
+      "answer": "'Neither' \u2014 Distributive adjective (refers to each of two things individually, meaning not one and not the other).",
+      "explanation": "Distributive adjectives (each, every, either, neither) single out individual members of a group. 'Neither' refers to two options and rejects both."
+    },
+    {
+      "id": "ep026",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'His third attempt was successful.'",
+      "answer": "1. 'His' \u2014 Possessive adjective (shows that the attempt belongs to him). 2. 'third' \u2014 Adjective of number (tells the order/position). 3. 'successful' \u2014 Adjective of quality (describes the nature of the attempt).",
+      "explanation": "Possessive adjectives (my, your, his, her, its, our, their) show ownership. 'Third' is a numeral adjective of order. 'Successful' describes a quality."
+    },
+    {
+      "id": "ep027",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'What nonsense are you talking?'",
+      "answer": "'What' \u2014 Interrogative adjective (used to ask a question about the noun 'nonsense').",
+      "explanation": "Interrogative adjectives (which, what, whose) modify a noun and are used in questions. Here 'what' modifies 'nonsense' and is used in an exclamatory/questioning sense."
+    },
+    {
+      "id": "ep028",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'There is enough food for all the guests.'",
+      "answer": "1. 'enough' \u2014 Adjective of quantity (tells how much food). 2. 'all' \u2014 Adjective of quantity (refers to the total number). 3. 'the' \u2014 Article, sometimes classified as a demonstrative adjective (points out specific guests).",
+      "explanation": "Adjectives of quantity (some, much, little, enough, all, no, sufficient) tell how much of a thing is meant."
+    },
+    {
+      "id": "ep029",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'Each player was given two chances in this round.'",
+      "answer": "1. 'Each' \u2014 Distributive adjective (refers to every player individually). 2. 'two' \u2014 Adjective of number (tells how many chances). 3. 'this' \u2014 Demonstrative adjective (points out which round).",
+      "explanation": "Distributive adjectives single out individuals. Adjectives of number tell how many. Demonstrative adjectives point out specific nouns."
+    },
+    {
+      "id": "ep030",
+      "type": "short_answer",
+      "question": "Identify the adjective and state its kind: 'Whose bag is lying on the old wooden bench?'",
+      "answer": "1. 'Whose' \u2014 Interrogative adjective (asks about possession). 2. 'old' \u2014 Adjective of quality (describes the age of the bench). 3. 'wooden' \u2014 Adjective of quality (describes the material of the bench).",
+      "explanation": "Interrogative adjectives are used with nouns to ask questions. 'Old' and 'wooden' are both adjectives of quality describing characteristics of the bench."
+    },
+    {
+      "id": "ep031",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: Mount Everest is the ______ (high) peak in the world.",
+      "answer": "highest",
+      "explanation": "'The ... in the world' indicates the superlative degree. 'High' is a short adjective, so the superlative is formed by adding '-est': highest."
+    },
+    {
+      "id": "ep032",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: A car is ______ (fast) than a bicycle.",
+      "answer": "faster",
+      "explanation": "The word 'than' signals a comparison between two things (comparative degree). 'Fast' is a short adjective, so we add '-er': faster."
+    },
+    {
+      "id": "ep033",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: This is the ______ (bad) handwriting I have ever seen.",
+      "answer": "worst",
+      "explanation": "'Bad' has an irregular superlative form: bad \u2192 worse \u2192 worst. 'The ... I have ever seen' indicates the superlative degree."
+    },
+    {
+      "id": "ep034",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: My house is ______ (far) from the school than yours.",
+      "answer": "farther",
+      "explanation": "'Far' has irregular comparative forms: far \u2192 farther/further \u2192 farthest/furthest. 'Than' signals the comparative degree. 'Farther' is used for physical distance."
+    },
+    {
+      "id": "ep035",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: This problem is ______ (difficult) than the previous one.",
+      "answer": "more difficult",
+      "explanation": "'Difficult' has three syllables, so the comparative is formed by adding 'more' before it: 'more difficult'. The word 'than' confirms the comparative degree."
+    },
+    {
+      "id": "ep036",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: Lead is the ______ (heavy) metal commonly available.",
+      "answer": "heaviest",
+      "explanation": "'The ... commonly available' indicates the superlative degree. 'Heavy' ends in 'y', so the 'y' changes to 'i' and '-est' is added: heaviest."
+    },
+    {
+      "id": "ep037",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: She is ______ (intelligent) than her sister.",
+      "answer": "more intelligent",
+      "explanation": "'Intelligent' has four syllables, so the comparative is formed by adding 'more' before it: 'more intelligent'."
+    },
+    {
+      "id": "ep038",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: Very ______ (few) students passed the test.",
+      "answer": "few",
+      "explanation": "The word 'very' modifies the positive degree of the adjective. No comparison is being made, so we use the positive form 'few'."
+    },
+    {
+      "id": "ep039",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: This is the ______ (little) amount of rain we have received this year.",
+      "answer": "least",
+      "explanation": "'Little' has an irregular superlative form: little \u2192 less \u2192 least. 'The ... this year' indicates the superlative degree."
+    },
+    {
+      "id": "ep040",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with the correct degree: Of the two sisters, Meera is the ______ (tall).",
+      "answer": "taller",
+      "explanation": "When comparing exactly two things using 'of the two', we use the comparative degree with 'the': 'the taller'. Some grammarians accept the superlative here, but the comparative is considered more correct."
+    },
+    {
+      "id": "ep041",
+      "type": "short_answer",
+      "question": "Change to superlative degree (keep the meaning the same): 'Iron is more useful than most other metals.'",
+      "answer": "Iron is one of the most useful metals.",
+      "explanation": "Comparative 'more useful than most other [plural noun]' changes to superlative 'one of the most useful [plural noun]'. This pattern uses 'one of the' + superlative."
+    },
+    {
+      "id": "ep042",
+      "type": "short_answer",
+      "question": "Change to comparative degree (keep the meaning the same): 'No other planet is as big as Jupiter.'",
+      "answer": "Jupiter is bigger than any other planet.",
+      "explanation": "Positive degree 'No other ... as big as' changes to comparative 'bigger than any other'. The subject and the standard of comparison swap positions."
+    },
+    {
+      "id": "ep043",
+      "type": "short_answer",
+      "question": "Change to positive degree (keep the meaning the same): 'Raj is the tallest boy in the class.'",
+      "answer": "No other boy in the class is as tall as Raj.",
+      "explanation": "Superlative 'the tallest' changes to positive 'No other ... is as tall as'. This construction uses 'no other + noun + is as + positive adjective + as'."
+    },
+    {
+      "id": "ep044",
+      "type": "short_answer",
+      "question": "Change to superlative degree (keep the meaning the same): 'No other city in India is as large as Mumbai.'",
+      "answer": "Mumbai is the largest city in India.",
+      "explanation": "Positive degree 'No other ... as large as' changes to superlative 'the largest'. The subject becomes the one that holds the superlative position."
+    },
+    {
+      "id": "ep045",
+      "type": "short_answer",
+      "question": "Change to positive degree (keep the meaning the same): 'Gold is more precious than most other metals.'",
+      "answer": "Very few metals are as precious as gold.",
+      "explanation": "Comparative 'more precious than most other' changes to positive 'Very few ... are as precious as'. This pattern uses 'very few + plural noun + as + positive adjective + as'."
+    },
+    {
+      "id": "ep046",
+      "type": "mcq",
+      "question": "Choose the correct superlative form of 'bad':",
+      "options": ["baddest", "worst", "most bad", "more bad"],
+      "correct_answer": "worst",
+      "explanation": "'Bad' has an irregular superlative form: bad \u2192 worse \u2192 worst. It does not follow the regular pattern of adding -est."
+    },
+    {
+      "id": "ep047",
+      "type": "mcq",
+      "question": "Choose the correct comparative form of 'beautiful':",
+      "options": ["beautifuller", "more beautiful", "beautifuler", "most beautiful"],
+      "correct_answer": "more beautiful",
+      "explanation": "'Beautiful' has three syllables, so the comparative is formed by adding 'more' before it: 'more beautiful'. 'Most beautiful' is the superlative, not comparative."
+    },
+    {
+      "id": "ep048",
+      "type": "mcq",
+      "question": "Choose the correct comparative form of 'little' (meaning quantity):",
+      "options": ["littler", "more little", "less", "lesser"],
+      "correct_answer": "less",
+      "explanation": "'Little' (quantity) has an irregular comparative form: little \u2192 less \u2192 least. 'Littler' is used for size but not for quantity. 'Less' is the standard comparative for quantity."
+    },
+    {
+      "id": "ep049",
+      "type": "mcq",
+      "question": "Choose the correct superlative form of 'many':",
+      "options": ["maniest", "more", "most", "much"],
+      "correct_answer": "most",
+      "explanation": "'Many' (and 'much') have irregular forms: many/much \u2192 more \u2192 most. 'More' is the comparative and 'most' is the superlative."
+    },
+    {
+      "id": "ep050",
+      "type": "mcq",
+      "question": "Which sentence uses the correct degree of comparison?",
+      "options": [
+        "She is more smarter than her brother.",
+        "She is smarter than her brother.",
+        "She is most smart than her brother.",
+        "She is smartest than her brother."
+      ],
+      "correct_answer": "She is smarter than her brother.",
+      "explanation": "'Smart' is a short adjective (one syllable), so the comparative is formed by adding '-er': smarter. We never use 'more' with '-er' (double comparative). 'Than' requires the comparative degree, not the superlative."
+    }
+  ]
+}

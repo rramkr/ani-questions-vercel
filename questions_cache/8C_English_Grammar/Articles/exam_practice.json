@@ -1,0 +1,297 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Articles",
+  "question_type": "exam_practice",
+  "questions": [
+    {
+      "id": "ep001",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: ______ Eiffel Tower is in Paris.",
+      "answer": "The",
+      "explanation": "We use 'the' before names of well-known buildings and monuments."
+    },
+    {
+      "id": "ep002",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: He received ______ MBA from a top university.",
+      "answer": "an",
+      "explanation": "'MBA' is pronounced starting with the vowel sound /e/ ('em-bee-ay'), so we use 'an'."
+    },
+    {
+      "id": "ep003",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: ______ honesty is the best policy.",
+      "answer": "X",
+      "explanation": "No article is used before abstract nouns used in a general sense. 'Honesty' here refers to the concept in general."
+    },
+    {
+      "id": "ep004",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: She bought ______ one-rupee stamp.",
+      "answer": "a",
+      "explanation": "'One' starts with the consonant sound /w/ ('wun'), so we use 'a', not 'an'."
+    },
+    {
+      "id": "ep005",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: ______ Pacific Ocean is the largest ocean in the world.",
+      "answer": "The",
+      "explanation": "We use 'the' before names of oceans, seas, and large water bodies."
+    },
+    {
+      "id": "ep006",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: My father reads ______ Times of India every morning.",
+      "answer": "The",
+      "explanation": "We use 'the' before names of newspapers."
+    },
+    {
+      "id": "ep007",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: He is ______ MP from Chennai.",
+      "answer": "an",
+      "explanation": "'MP' is pronounced starting with the vowel sound /e/ ('em-pee'), so we use 'an'."
+    },
+    {
+      "id": "ep008",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: ______ gold found in this mine is of high quality.",
+      "answer": "The",
+      "explanation": "We use 'the' when a noun is made specific by a phrase that follows it ('found in this mine' specifies which gold)."
+    },
+    {
+      "id": "ep009",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: She plays ______ violin beautifully.",
+      "answer": "the",
+      "explanation": "We use 'the' before names of musical instruments when talking about playing them."
+    },
+    {
+      "id": "ep010",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: ______ United Kingdom consists of four countries.",
+      "answer": "The",
+      "explanation": "We use 'the' before country names that include words like United, Republic, Kingdom, or States."
+    },
+    {
+      "id": "ep011",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: We celebrate ______ Republic Day on the sixth of September.",
+      "answer": "X",
+      "explanation": "No article is used before names of festivals and national days."
+    },
+    {
+      "id": "ep012",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: He was born on ______ sixth of September.",
+      "answer": "the",
+      "explanation": "When a date is written in words with 'of' (the sixth of September), we use 'the' before the ordinal number."
+    },
+    {
+      "id": "ep013",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: ______ Himalayas stretch across five countries.",
+      "answer": "The",
+      "explanation": "We use 'the' before names of mountain ranges (the Himalayas, the Alps, the Andes)."
+    },
+    {
+      "id": "ep014",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: She goes to ______ church every Sunday.",
+      "answer": "X",
+      "explanation": "No article is used before places of worship, meals, or institutions when used for their primary purpose (going to church to pray)."
+    },
+    {
+      "id": "ep015",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: ______ UNESCO is a branch of the United Nations.",
+      "answer": "X",
+      "explanation": "'UNESCO' is an acronym pronounced as a word (/junesko/), not letter by letter. No article is needed before it as it functions like a proper noun."
+    },
+    {
+      "id": "ep016",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: He gave me ______ useful piece of advice.",
+      "answer": "a",
+      "explanation": "'Useful' starts with the consonant sound /j/ ('yoo-sful'), so we use 'a', not 'an'."
+    },
+    {
+      "id": "ep017",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: ______ Earth revolves around ______ Sun.",
+      "answer": "The, the",
+      "explanation": "We use 'the' before unique objects in nature. There is only one Earth and one Sun."
+    },
+    {
+      "id": "ep018",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: My sister is learning ______ French.",
+      "answer": "X",
+      "explanation": "No article is used before names of languages."
+    },
+    {
+      "id": "ep019",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: ______ poor need our help.",
+      "answer": "The",
+      "explanation": "We use 'the' before an adjective to refer to a class of people. 'The poor' means poor people in general."
+    },
+    {
+      "id": "ep020",
+      "type": "fill_in_blanks",
+      "question": "Fill in the blank with a, an, the, or X: She had ______ hour-long meeting with her boss.",
+      "answer": "an",
+      "explanation": "'Hour' starts with a silent 'h', so the first sound is the vowel /a/. We use 'an' before silent-h words."
+    },
+    {
+      "id": "ep021",
+      "type": "error_correction",
+      "question": "Correct the article error: He is a honest person.",
+      "answer": "He is an honest person.",
+      "explanation": "'Honest' starts with a silent 'h', so the first sound is the vowel /o/. We use 'an' before silent-h words."
+    },
+    {
+      "id": "ep022",
+      "type": "error_correction",
+      "question": "Correct the article error: She is an university professor.",
+      "answer": "She is a university professor.",
+      "explanation": "'University' starts with the consonant sound /j/ ('yoo-ni-ver-si-tee'), so we use 'a', not 'an'."
+    },
+    {
+      "id": "ep023",
+      "type": "error_correction",
+      "question": "Correct the article error: I saw a owl sitting on the branch.",
+      "answer": "I saw an owl sitting on the branch.",
+      "explanation": "'Owl' starts with the vowel sound /a/, so we use 'an', not 'a'."
+    },
+    {
+      "id": "ep024",
+      "type": "error_correction",
+      "question": "Correct the article error: The Mount Everest is the highest peak in the world.",
+      "answer": "Mount Everest is the highest peak in the world.",
+      "explanation": "No article is used before names of individual mountain peaks. We use 'the' before mountain ranges (the Himalayas) but not single peaks."
+    },
+    {
+      "id": "ep025",
+      "type": "error_correction",
+      "question": "Correct the article error: He bought a umbrella because it was raining.",
+      "answer": "He bought an umbrella because it was raining.",
+      "explanation": "'Umbrella' starts with the vowel sound /uh/, so we use 'an', not 'a'."
+    },
+    {
+      "id": "ep026",
+      "type": "error_correction",
+      "question": "Correct the article error: I have an BBC documentary to watch tonight.",
+      "answer": "I have a BBC documentary to watch tonight.",
+      "explanation": "'BBC' is pronounced starting with the consonant sound /b/ ('bee-bee-see'), so we use 'a', not 'an'."
+    },
+    {
+      "id": "ep027",
+      "type": "error_correction",
+      "question": "Correct the article error: The lunch is served at 1 PM in our school.",
+      "answer": "Lunch is served at 1 PM in our school.",
+      "explanation": "No article is used before names of meals (breakfast, lunch, dinner) when used in a general sense."
+    },
+    {
+      "id": "ep028",
+      "type": "error_correction",
+      "question": "Correct the article error: She wants to visit the Japan next summer.",
+      "answer": "She wants to visit Japan next summer.",
+      "explanation": "No article is used before names of countries, unless the name includes words like United, Republic, or Kingdom."
+    },
+    {
+      "id": "ep029",
+      "type": "error_correction",
+      "question": "Correct the article error: I need a information about the new course.",
+      "answer": "I need information about the new course.",
+      "explanation": "'Information' is an uncountable noun. We do not use 'a' or 'an' before uncountable nouns. Use 'some information' or 'a piece of information' instead."
+    },
+    {
+      "id": "ep030",
+      "type": "error_correction",
+      "question": "Correct the article error: Her car is parked in a front of the building.",
+      "answer": "Her car is parked in the front of the building.",
+      "explanation": "We use 'the' (not 'a') in the fixed expression 'in the front of' when referring to a specific location."
+    },
+    {
+      "id": "ep031",
+      "type": "mcq",
+      "question": "Choose the correct option: She is ______ honest woman.",
+      "options": ["a", "an", "the", "no article"],
+      "correct_answer": "an",
+      "explanation": "'Honest' starts with a silent 'h', so the first sound is the vowel /o/. We use 'an' before words with silent 'h'."
+    },
+    {
+      "id": "ep032",
+      "type": "mcq",
+      "question": "Choose the correct option: ______ Andaman and Nicobar Islands are in the Bay of Bengal.",
+      "options": ["A", "An", "The", "No article"],
+      "correct_answer": "The",
+      "explanation": "We use 'the' before names of island groups (the Andaman and Nicobar Islands, the Maldives)."
+    },
+    {
+      "id": "ep033",
+      "type": "mcq",
+      "question": "Choose the correct option: He wants to become ______ UFO researcher.",
+      "options": ["a", "an", "the", "no article"],
+      "correct_answer": "a",
+      "explanation": "'UFO' is pronounced starting with the consonant sound /j/ ('yoo-eff-oh'), so we use 'a', not 'an'."
+    },
+    {
+      "id": "ep034",
+      "type": "mcq",
+      "question": "Choose the correct option: ______ rich should help ______ poor.",
+      "options": ["A, a", "The, the", "A, the", "The, a"],
+      "correct_answer": "The, the",
+      "explanation": "We use 'the' before adjectives used as nouns to refer to a class of people. 'The rich' and 'the poor' mean rich people and poor people in general."
+    },
+    {
+      "id": "ep035",
+      "type": "mcq",
+      "question": "Choose the correct option: My brother plays ______ cricket every evening.",
+      "options": ["a", "an", "the", "no article"],
+      "correct_answer": "no article",
+      "explanation": "No article is used before names of sports and games."
+    },
+    {
+      "id": "ep036",
+      "type": "mcq",
+      "question": "Choose the correct option: She gave me ______ one-dollar note.",
+      "options": ["a", "an", "the", "no article"],
+      "correct_answer": "a",
+      "explanation": "'One' starts with the consonant sound /w/ ('wun'), so we use 'a', not 'an'."
+    },
+    {
+      "id": "ep037",
+      "type": "mcq",
+      "question": "Choose the correct option: ______ Sahara is the largest hot desert in the world.",
+      "options": ["A", "An", "The", "No article"],
+      "correct_answer": "The",
+      "explanation": "We use 'the' before names of deserts (the Sahara, the Thar, the Gobi)."
+    },
+    {
+      "id": "ep038",
+      "type": "mcq",
+      "question": "Choose the correct option: He has his lunch at ______ school.",
+      "options": ["a", "an", "the", "no article"],
+      "correct_answer": "no article",
+      "explanation": "No article is used before places like school, church, hospital, prison when used for their primary purpose (going to school to study)."
+    },
+    {
+      "id": "ep039",
+      "type": "mcq",
+      "question": "Choose the correct option: We visited ______ Taj Mahal during our trip to Agra.",
+      "options": ["a", "an", "the", "no article"],
+      "correct_answer": "the",
+      "explanation": "We use 'the' before names of famous buildings, monuments, and historical structures."
+    },
+    {
+      "id": "ep040",
+      "type": "mcq",
+      "question": "Choose the correct option: His uncle is ______ heir to a large fortune.",
+      "options": ["a", "an", "the", "no article"],
+      "correct_answer": "an",
+      "explanation": "'Heir' starts with a silent 'h', so the first sound is the vowel /e/. We use 'an' before silent-h words."
+    }
+  ]
+}

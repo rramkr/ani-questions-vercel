@@ -1,0 +1,103 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Articles",
+  "question_type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "pyq001",
+      "question": "Fill in the blank with a, an, the, or X: Neha wants to be ______ Music therapist.",
+      "answer": "a",
+      "explanation": "'Music' starts with the consonant sound /m/, so we use 'a'.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq002",
+      "question": "Fill in the blank with a, an, the, or X: My uncle is ______ accountant.",
+      "answer": "an",
+      "explanation": "'Accountant' starts with the vowel sound /a/, so we use 'an'.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq003",
+      "question": "Fill in the blank with a, an, the, or X: ______ Philosophy is not usually taught in state schools.",
+      "answer": "X",
+      "explanation": "No article is used before uncountable abstract nouns like 'Philosophy' when used in a general sense.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq004",
+      "question": "Fill in the blank with a, an, the, or X: Yesterday ______ European called at my office.",
+      "answer": "a",
+      "explanation": "'European' starts with the consonant sound /j/ (as in 'you'), so we use 'a', not 'an'.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq005",
+      "question": "Fill in the blank with a, an, the, or X: ______ Ganges is a sacred river.",
+      "answer": "The",
+      "explanation": "We use 'the' before the names of rivers. The Ganges, the Nile, the Amazon, etc.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq006",
+      "question": "Fill in the blank with a, an, the, or X: Copper is ______ useful metal.",
+      "answer": "a",
+      "explanation": "'Useful' starts with the consonant sound /j/ (as in 'you'), so we use 'a', not 'an'.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq007",
+      "question": "Fill in the blank with a, an, the, or X: We are going to a barbeque with ______ Simpsons.",
+      "answer": "the",
+      "explanation": "We use 'the' before a family name in the plural to refer to the entire family. The Simpsons = the Simpson family.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq008",
+      "question": "Fill in the blank with a, an, the, or X: She starts work on ______ Monday next week.",
+      "answer": "X",
+      "explanation": "No article is used before days of the week when referring to a specific upcoming day. 'Monday next week' is already specific.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq009",
+      "question": "Fill in the blank with a, an, the, or X: Close all ______ doors and windows when you leave.",
+      "answer": "the",
+      "explanation": "We use 'the' when the noun is specific and understood by both speaker and listener. The doors and windows of the room being discussed are known.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq010",
+      "question": "Fill in the blank with a, an, the, or X: Rohith and Arjun are ______ best bowlers in the team.",
+      "answer": "the",
+      "explanation": "We use 'the' before superlatives. 'Best' is a superlative adjective.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq011",
+      "question": "Fill in the blanks with a, an, the, or X: ______ MBBS degree is essential for ______ person to become a doctor.",
+      "answer": "An, a",
+      "explanation": "'MBBS' is pronounced starting with the vowel sound /e/ ('em-bee-bee-ess'), so we use 'an'. 'Person' starts with the consonant sound /p/, so we use 'a'.",
+      "year": "Annual Exam, February 2021",
+      "marks": 1
+    },
+    {
+      "id": "pyq012",
+      "question": "Fill in the blanks with a, an, the, or X: ______ most beautiful scene I admired was one of ______ setting sun.",
+      "answer": "The, the",
+      "explanation": "We use 'the' before a superlative ('most beautiful'). We also use 'the' before 'setting sun' because there is only one sun, making it unique.",
+      "year": "Annual Exam, February 2021",
+      "marks": 1
+    }
+  ]
+}

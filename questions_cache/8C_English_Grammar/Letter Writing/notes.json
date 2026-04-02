@@ -1,0 +1,27 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Letter Writing",
+  "question_type": "notes",
+  "questions": [
+    {
+      "id": "n001",
+      "question": "Format of an Informal / Friendly Letter",
+      "answer": "Sender's Address,\n(House No., Street,\nArea/Locality,\nCity,\nPin Code.)\n\nDate (e.g., 23rd March, 2026)\n\nMy dear ______,\n\nI am writing this letter to...\n\n[Body - Para 1: Enquiry about the person's well-being]\n\n[Body - Para 2: Friendly expression of feelings and thoughts]\n\n[Conclusion - Take words from the question]\n\nYour loving ______,\n[First Name only]\n\n---\n\nIMPORTANT RULES:\n1. Use 'My dear' (NOT just 'Dear') for family members\n2. Address: Sender's address only (NO receiver's address)\n3. Closing: 'Your loving son/daughter/friend' OR 'Yours affectionately' (for family), 'Yours lovingly' (for friends)\n4. Sign with FIRST NAME only\n5. NO subject line needed\n6. Body should have 2-3 paragraphs with personal touch"
+    },
+    {
+      "id": "n002",
+      "question": "Format of a Formal Letter",
+      "answer": "Sender's Address,\n(House No., Street,\nArea/Locality,\nCity - Pin Code.)\n\nDate (e.g., 24th March, 2026)\n\nReceiver's Address:\n(Designation/Name,\nOrganisation/School,\nArea,\nCity - Pin Code.)\n\nDear Madam/Sir,\n\nSubject: [State the purpose clearly]\n\nI am writing this letter to...\n\n[Body - Para 1: Direct approach to purpose, 3-4 points with details]\n\n[Body - Para 2: Additional information/supporting details]\n\n[Conclusion - Awaiting a positive reply / Looking forward to your response]\n\nThanking you,\nYours truly,\n[Full Name]\n\n---\n\nIMPORTANT RULES:\n1. Use 'Dear Madam/Sir' (formal greeting)\n2. Include BOTH sender's and receiver's addresses\n3. Subject line is REQUIRED\n4. Body: 3-4 points with specific details\n5. Closing: 'Yours truly' or 'Yours sincerely' or 'Yours faithfully'\n6. Sign with FULL NAME\n7. Language must be polite and formal\n8. Keep it to the point"
+    },
+    {
+      "id": "n003",
+      "question": "Format of a Formal Email",
+      "answer": "From: [your email id]\nTo: [receiver's email id]\nSubject: [subject of the email]\n\nSalutation: Dear Ma'am/Sir,\n\n[Body of the email]\nPara 1: Direct approach to purpose\nPara 2: Positively summing up with suggestions, action sought, or a commitment\n\nClosing note:\nLooking forward to your reply, / Looking forward to hearing from you.\n\nSignature:\nYours sincerely,\n[Full Name]\n[Designation, if any]\n\n---\n\nSTARTER PHRASES:\n- I hope you are doing well.\n- I hope this email finds you well.\n- Allow me to introduce myself briefly.\n- I am writing to...\n\nCLOSING PHRASES:\n- Looking forward to your reply.\n- Looking forward to hearing from you.\n- Please let me know if you have any questions."
+    },
+    {
+      "id": "n004",
+      "question": "Key Differences: Informal vs Formal Letter",
+      "answer": "INFORMAL LETTER:\n- Written to family, friends, relatives\n- Personal/casual tone with emotions\n- Greeting: 'My dear ___'\n- Only sender's address needed\n- No subject line\n- Closing: 'Your loving ___' / 'Yours affectionately'\n- Sign with first name\n\nFORMAL LETTER:\n- Written to officials, institutions, organisations\n- Polite and formal tone, to the point\n- Greeting: 'Dear Madam/Sir'\n- Both sender's and receiver's addresses needed\n- Subject line is required\n- Closing: 'Yours truly' / 'Yours sincerely' / 'Yours faithfully'\n- Sign with full name\n\nFORMAL EMAIL:\n- Same as formal letter but in email format\n- Has From, To, Subject fields\n- No postal addresses needed\n- Can include attachments\n- Closing: 'Yours sincerely' + name + designation"
+    }
+  ]
+}

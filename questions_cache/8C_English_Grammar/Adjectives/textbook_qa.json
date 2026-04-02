@@ -1,0 +1,609 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Adjectives",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "exercise": "A",
+      "question": "Make an adjective from the word: adjust",
+      "answer": "adjustable",
+      "explanation": "Adding the suffix '-able' to 'adjust' forms the adjective 'adjustable', meaning capable of being adjusted."
+    },
+    {
+      "id": "tqa002",
+      "exercise": "A",
+      "question": "Make an adjective from the word: attract",
+      "answer": "attractive",
+      "explanation": "Adding the suffix '-ive' to 'attract' forms the adjective 'attractive', meaning pleasing or appealing in appearance."
+    },
+    {
+      "id": "tqa003",
+      "exercise": "A",
+      "question": "Make an adjective from the word: power",
+      "answer": "powerful",
+      "explanation": "Adding the suffix '-ful' to 'power' forms the adjective 'powerful', meaning having great strength or influence."
+    },
+    {
+      "id": "tqa004",
+      "exercise": "A",
+      "question": "Make an adjective from the word: health",
+      "answer": "healthy",
+      "explanation": "Adding the suffix '-y' to 'health' forms the adjective 'healthy', meaning in good physical condition."
+    },
+    {
+      "id": "tqa005",
+      "exercise": "A",
+      "question": "Make an adjective from the word: nation",
+      "answer": "national",
+      "explanation": "Adding the suffix '-al' to 'nation' forms the adjective 'national', meaning relating to or belonging to a nation."
+    },
+    {
+      "id": "tqa006",
+      "exercise": "A",
+      "question": "Make an adjective from the word: hope",
+      "answer": "hopeful / hopeless",
+      "explanation": "Adding the suffix '-ful' to 'hope' forms 'hopeful' (full of hope). Adding '-less' forms 'hopeless' (without hope). Both are valid adjectives from 'hope'."
+    },
+    {
+      "id": "tqa007",
+      "exercise": "A",
+      "question": "Make an adjective from the word: adventure",
+      "answer": "adventurous",
+      "explanation": "Adding the suffix '-ous' to 'adventure' (dropping the final 'e') forms the adjective 'adventurous', meaning willing to take risks or try new things."
+    },
+    {
+      "id": "tqa008",
+      "exercise": "A",
+      "question": "Make an adjective from the word: hunger",
+      "answer": "hungry",
+      "explanation": "Adding the suffix '-y' to 'hunger' (dropping the 'e' and 'r' ending) forms the adjective 'hungry', meaning feeling a need for food."
+    },
+    {
+      "id": "tqa009",
+      "exercise": "A",
+      "question": "Make an adjective from the word: hero",
+      "answer": "heroic",
+      "explanation": "Adding the suffix '-ic' to 'hero' forms the adjective 'heroic', meaning showing great bravery or courage."
+    },
+    {
+      "id": "tqa010",
+      "exercise": "A",
+      "question": "Make an adjective from the word: terror",
+      "answer": "terrible / terrifying",
+      "explanation": "Adding the suffix '-ible' to 'terror' forms 'terrible' (extremely bad or frightening). Adding '-ifying' forms 'terrifying' (causing extreme fear). Both are valid adjectives from 'terror'."
+    },
+    {
+      "id": "tqa011",
+      "exercise": "A",
+      "question": "Make an adjective from the word: quarrel",
+      "answer": "quarrelsome",
+      "explanation": "Adding the suffix '-some' to 'quarrel' forms the adjective 'quarrelsome', meaning inclined to argue or fight."
+    },
+    {
+      "id": "tqa012",
+      "exercise": "A",
+      "question": "Make an adjective from the word: educate",
+      "answer": "educational / educative",
+      "explanation": "Adding the suffix '-ional' to 'educate' (via 'education') forms 'educational'. Adding '-ive' forms 'educative'. Both mean relating to or providing education."
+    },
+    {
+      "id": "tqa013",
+      "exercise": "B",
+      "question": "[Participles as Adjectives] Fill in the blank with the correct -ing, -ed, or -en form:\nThe ______ (surprise) thing about the weather was the sudden drop in temperature.",
+      "answer": "surprising",
+      "explanation": "Use the present participle 'surprising' (-ing form) because the adjective describes the effect the thing has on others. The weather is causing surprise, so we use '-ing'. Compare: 'I was surprised' (how I felt) vs 'The thing was surprising' (the effect it caused)."
+    },
+    {
+      "id": "tqa014",
+      "exercise": "B",
+      "question": "[Participles as Adjectives] Fill in the blank with the correct -ing, -ed, or -en form:\nThe audience was ______ (please) with my performance.",
+      "answer": "pleased",
+      "explanation": "Use the past participle 'pleased' (-ed form) because the adjective describes how the audience felt. The audience experienced the feeling of being pleased. Use '-ed' when describing the person/thing that experiences the emotion."
+    },
+    {
+      "id": "tqa015",
+      "exercise": "B",
+      "question": "[Participles as Adjectives] Fill in the blank with the correct -ing, -ed, or -en form:\nAll ______ (interest) students are requested to contact the office.",
+      "answer": "interested",
+      "explanation": "Use the past participle 'interested' (-ed form) because it describes how the students feel. The students have developed an interest. Compare: 'interested students' (students who feel interest) vs 'interesting students' (students who cause interest in others)."
+    },
+    {
+      "id": "tqa016",
+      "exercise": "B",
+      "question": "[Participles as Adjectives] Fill in the blank with the correct -ing, -ed, or -en form:\nWe enjoyed the ______ (refresh) breeze.",
+      "answer": "refreshing",
+      "explanation": "Use the present participle 'refreshing' (-ing form) because the adjective describes the effect the breeze has on people. The breeze causes a feeling of being refreshed, so we use '-ing' to describe its effect."
+    },
+    {
+      "id": "tqa017",
+      "exercise": "B",
+      "question": "[Participles as Adjectives] Fill in the blank with the correct -ing, -ed, or -en form:\nThe father was upset by his child's ______ (annoy) behaviour.",
+      "answer": "annoying",
+      "explanation": "Use the present participle 'annoying' (-ing form) because the adjective describes the effect the behaviour has on the father. The behaviour is causing annoyance, so we use '-ing'. The father is annoyed (feeling), but the behaviour is annoying (causing the feeling)."
+    },
+    {
+      "id": "tqa018",
+      "exercise": "B",
+      "question": "[Participles as Adjectives] Fill in the blank with the correct -ing, -ed, or -en form:\nThe grapes were very ______ (tempt) for the fox.",
+      "answer": "tempting",
+      "explanation": "Use the present participle 'tempting' (-ing form) because the adjective describes the effect the grapes have on the fox. The grapes are causing temptation, so we use '-ing'. The fox might be tempted (feeling), but the grapes are tempting (causing the feeling)."
+    },
+    {
+      "id": "tqa019",
+      "exercise": "B",
+      "question": "[Participles as Adjectives] Fill in the blank with the correct -ing, -ed, or -en form:\nRaghav was ______ (disappoint) at being caught.",
+      "answer": "disappointed",
+      "explanation": "Use the past participle 'disappointed' (-ed form) because the adjective describes how Raghav felt. Raghav experienced the feeling of disappointment. Use '-ed' when describing the person who experiences the emotion."
+    },
+    {
+      "id": "tqa020",
+      "exercise": "B",
+      "question": "[Participles as Adjectives] Fill in the blank with the correct -ing, -ed, or -en form:\nWe spotted a ______ (mystify) object.",
+      "answer": "mystifying",
+      "explanation": "Use the present participle 'mystifying' (-ing form) because the adjective describes the effect the object has on observers. The object is causing mystery or confusion, so we use '-ing'. The observers might be mystified, but the object itself is mystifying."
+    },
+    {
+      "id": "tqa021",
+      "exercise": "C",
+      "question": "[Attributive vs Predicative Adjectives] Rearrange the words to make a meaningful sentence and state whether the adjective is attributive or predicative:\ntastes medicine horrible the",
+      "answer": "The medicine tastes horrible. (predicative)",
+      "explanation": "The adjective 'horrible' is predicative because it comes after the linking verb 'tastes'. Predicative adjectives appear after linking verbs (is, was, seems, tastes, sounds, smells, feels, looks) and describe the subject."
+    },
+    {
+      "id": "tqa022",
+      "exercise": "C",
+      "question": "[Attributive vs Predicative Adjectives] Rearrange the words to make a meaningful sentence and state whether the adjective is attributive or predicative:\na theorem it was difficult",
+      "answer": "It was a difficult theorem. (attributive)",
+      "explanation": "The adjective 'difficult' is attributive because it comes directly before the noun 'theorem' and modifies it. Attributive adjectives are placed before the noun they describe."
+    },
+    {
+      "id": "tqa023",
+      "exercise": "C",
+      "question": "[Attributive vs Predicative Adjectives] Rearrange the words to make a meaningful sentence and state whether the adjective is attributive or predicative:\ncheat honest a nobody would friend",
+      "answer": "Nobody would cheat an honest friend. (attributive)",
+      "explanation": "The adjective 'honest' is attributive because it comes directly before the noun 'friend' and modifies it. Attributive adjectives are placed immediately before the noun they qualify."
+    },
+    {
+      "id": "tqa024",
+      "exercise": "C",
+      "question": "[Attributive vs Predicative Adjectives] Rearrange the words to make a meaningful sentence and state whether the adjective is attributive or predicative:\nfamiliar the sounds my ears music to",
+      "answer": "The music sounds familiar to my ears. (predicative)",
+      "explanation": "The adjective 'familiar' is predicative because it comes after the linking verb 'sounds'. It describes the subject 'music' through the linking verb rather than appearing directly before a noun."
+    },
+    {
+      "id": "tqa025",
+      "exercise": "C",
+      "question": "[Attributive vs Predicative Adjectives] Rearrange the words to make a meaningful sentence and state whether the adjective is attributive or predicative:\ncake the in smells the delicious baking dish",
+      "answer": "The cake baking in the dish smells delicious. (predicative)",
+      "explanation": "The adjective 'delicious' is predicative because it comes after the linking verb 'smells'. It describes the subject 'cake' through the linking verb. Linking verbs like 'smells' connect the subject to a describing word."
+    },
+    {
+      "id": "tqa026",
+      "exercise": "C",
+      "question": "[Attributive vs Predicative Adjectives] Rearrange the words to make a meaningful sentence and state whether the adjective is attributive or predicative:\nincomplete submit not do work",
+      "answer": "Do not submit incomplete work. (attributive)",
+      "explanation": "The adjective 'incomplete' is attributive because it comes directly before the noun 'work' and modifies it. Attributive adjectives appear before the noun they describe."
+    },
+    {
+      "id": "tqa027",
+      "exercise": "C",
+      "question": "[Attributive vs Predicative Adjectives] Rearrange the words to make a meaningful sentence and state whether the adjective is attributive or predicative:\nin early hostel active students a get",
+      "answer": "Active students in a hostel get up early. (attributive)",
+      "explanation": "The adjective 'active' is attributive because it comes directly before the noun 'students' and modifies it. Note: 'early' here functions as an adverb modifying the verb 'get up', not as an adjective."
+    },
+    {
+      "id": "tqa028",
+      "exercise": "C",
+      "question": "[Attributive vs Predicative Adjectives] Rearrange the words to make a meaningful sentence and state whether the adjective is attributive or predicative:\ngifted camera a digital aunt my me",
+      "answer": "My aunt gifted me a digital camera. (attributive)",
+      "explanation": "The adjective 'digital' is attributive because it comes directly before the noun 'camera' and modifies it. Attributive adjectives are placed before the noun they qualify."
+    },
+    {
+      "id": "tqa029",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nOur India has a rich historical past.",
+      "answer": "rich (adjective of quality), historical (adjective of quality)",
+      "explanation": "'Rich' is an adjective of quality describing the nature/character of the past. 'Historical' is also an adjective of quality describing the type of past. Adjectives of quality describe the characteristics, nature, or qualities of a noun."
+    },
+    {
+      "id": "tqa030",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nIndia derives its name from River Indus.",
+      "answer": "its (possessive adjective)",
+      "explanation": "'Its' is a possessive adjective because it shows ownership or belonging. It tells us whose name is being discussed. Possessive adjectives (my, your, his, her, its, our, their) show possession."
+    },
+    {
+      "id": "tqa031",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nThe fertile plains of the Indus were a prosperous region.",
+      "answer": "fertile (adjective of quality), prosperous (adjective of quality)",
+      "explanation": "'Fertile' is an adjective of quality describing the nature of the plains. 'Prosperous' is an adjective of quality describing the character of the region. Both describe qualities or characteristics of the nouns they modify."
+    },
+    {
+      "id": "tqa032",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nMany ancient civilisations came up on the banks of this river.",
+      "answer": "Many (adjective of number), ancient (adjective of quality), this (demonstrative adjective)",
+      "explanation": "'Many' is an adjective of number (indefinite) because it tells us an approximate quantity. 'Ancient' is an adjective of quality because it describes the age/nature of the civilisations. 'This' is a demonstrative adjective because it points out which river is being referred to."
+    },
+    {
+      "id": "tqa033",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nThe early settlers lived a nomadic life, hunting and gathering food.",
+      "answer": "early (adjective of quality), nomadic (adjective of quality)",
+      "explanation": "'Early' is an adjective of quality describing the time characteristic of the settlers. 'Nomadic' is an adjective of quality describing the nature/type of life. Both describe qualities or characteristics of the nouns they modify."
+    },
+    {
+      "id": "tqa034",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nOver a period of time, many people began to settle in permanent places in villages.",
+      "answer": "many (adjective of number), permanent (adjective of quality)",
+      "explanation": "'Many' is an adjective of number (indefinite) because it tells us an approximate quantity of people. 'Permanent' is an adjective of quality because it describes the nature of the places. Indefinite numeral adjectives (many, few, some, several) do not give an exact number."
+    },
+    {
+      "id": "tqa035",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nThese villages grew into big cities, creating one of the world's earliest civilisations.",
+      "answer": "These (demonstrative adjective), big (adjective of quality), earliest (adjective of quality, superlative degree)",
+      "explanation": "'These' is a demonstrative adjective because it points out which villages are being referred to. 'Big' is an adjective of quality describing the size of the cities. 'Earliest' is an adjective of quality in the superlative degree, describing the time characteristic of the civilisations."
+    },
+    {
+      "id": "tqa036",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nToday, India is the seventh largest country in the world by land area with the largest population in the world.",
+      "answer": "seventh (adjective of number), largest (adjective of quality, superlative degree), largest (adjective of quality, superlative degree)",
+      "explanation": "'Seventh' is an adjective of number (definite, ordinal) because it tells us India's exact rank/position. The two instances of 'largest' are adjectives of quality in the superlative degree, describing the size of the country and the population respectively."
+    },
+    {
+      "id": "tqa037",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nIt is a democratic country.",
+      "answer": "democratic (adjective of quality)",
+      "explanation": "'Democratic' is an adjective of quality because it describes the nature or type of the country. It tells us what kind of country India is."
+    },
+    {
+      "id": "tqa038",
+      "exercise": "D",
+      "question": "[Kinds of Adjectives] Underline the adjectives and identify their kind:\nIndia is the only country in the world where both the tiger and the lion are found.",
+      "answer": "only (adjective of quality)",
+      "explanation": "'Only' is an adjective of quality because it describes a unique characteristic of the country. It modifies 'country' and tells us something distinctive about India."
+    },
+    {
+      "id": "tqa039",
+      "exercise": "E",
+      "question": "[Order of Adjectives] Write two more adjectives for the category: Opinion/Quality\nGiven examples: honest, rare",
+      "answer": "beautiful, wonderful",
+      "explanation": "Opinion/Quality adjectives express a personal judgement or evaluation about a noun. In the order of adjectives, opinion adjectives come first. Other examples include: lovely, excellent, terrible, nice, ugly, brilliant."
+    },
+    {
+      "id": "tqa040",
+      "exercise": "E",
+      "question": "[Order of Adjectives] Write two more adjectives for the category: Size\nGiven examples: tiny, large",
+      "answer": "enormous, miniature",
+      "explanation": "Size adjectives describe how big or small something is. In the order of adjectives, size comes after opinion. Other examples include: huge, small, tall, short, massive, gigantic."
+    },
+    {
+      "id": "tqa041",
+      "exercise": "E",
+      "question": "[Order of Adjectives] Write two more adjectives for the category: Physical Quality\nGiven examples: untidy, smooth",
+      "answer": "rough, clean",
+      "explanation": "Physical quality adjectives describe the texture, condition, or physical characteristics of a noun. They come after size in the order of adjectives. Other examples include: soft, hard, wet, dry, thick, thin."
+    },
+    {
+      "id": "tqa042",
+      "exercise": "E",
+      "question": "[Order of Adjectives] Write two more adjectives for the category: Shape\nGiven examples: spherical, square",
+      "answer": "circular, rectangular",
+      "explanation": "Shape adjectives describe the form or outline of a noun. They come after physical quality in the order of adjectives. Other examples include: triangular, oval, flat, round, hexagonal."
+    },
+    {
+      "id": "tqa043",
+      "exercise": "E",
+      "question": "[Order of Adjectives] Write two more adjectives for the category: Age\nGiven examples: ancient, new",
+      "answer": "modern, old",
+      "explanation": "Age adjectives describe how old or new something is. They come after shape in the order of adjectives. Other examples include: young, elderly, brand-new, antique, recent."
+    },
+    {
+      "id": "tqa044",
+      "exercise": "E",
+      "question": "[Order of Adjectives] Write two more adjectives for the category: Colour\nGiven examples: brown, tan",
+      "answer": "crimson, silver",
+      "explanation": "Colour adjectives describe the colour of a noun. They come after age in the order of adjectives. Other examples include: red, blue, golden, emerald, scarlet, azure."
+    },
+    {
+      "id": "tqa045",
+      "exercise": "E",
+      "question": "[Order of Adjectives] Write two more adjectives for the category: Source/Origin\nGiven examples: Chinese, Arabic",
+      "answer": "Indian, French",
+      "explanation": "Source/Origin adjectives describe where something comes from. They come after colour in the order of adjectives. These are often proper adjectives derived from proper nouns. Other examples include: Japanese, Italian, British, American."
+    },
+    {
+      "id": "tqa046",
+      "exercise": "E",
+      "question": "[Order of Adjectives] Write two more adjectives for the category: Material\nGiven examples: metal, synthetic",
+      "answer": "wooden, cotton",
+      "explanation": "Material adjectives describe what something is made of. They come after origin in the order of adjectives. Other examples include: leather, silk, plastic, glass, rubber, stone."
+    },
+    {
+      "id": "tqa047",
+      "exercise": "E",
+      "question": "[Order of Adjectives] Write two more adjectives for the category: Purpose\nGiven examples: wiping, sewing",
+      "answer": "running, cooking",
+      "explanation": "Purpose adjectives describe what something is used for. They come last, just before the noun, in the order of adjectives. They are often formed from verbs in the '-ing' form. Other examples include: sleeping (bag), washing (machine), writing (desk)."
+    },
+    {
+      "id": "tqa048",
+      "exercise": "F",
+      "question": "[Order of Adjectives Game] Arrange the adjectives in the correct order before the noun 'urn':\nbeautiful, big, cylindrical, old, beige, Egyptian, earthen",
+      "answer": "the beautiful big cylindrical old beige Egyptian earthen urn",
+      "explanation": "The correct order of adjectives is: Opinion (beautiful), Size (big), Shape (cylindrical), Age (old), Colour (beige), Origin (Egyptian), Material (earthen), then the Noun (urn). Remember the order: Opinion, Size, Physical Quality, Shape, Age, Colour, Origin, Material, Purpose, Noun."
+    },
+    {
+      "id": "tqa049",
+      "exercise": "G",
+      "question": "[Degrees of Comparison - Temperature Chart] Temperature chart: Sun=38°C, Mon=33°C, Tue=30°C, Wed=29°C, Thu=32°C, Fri=35°C, Sat=38°C\n\nWhich day was as hot as Sunday?",
+      "answer": "Saturday was as hot as Sunday. Both had 38°C. (positive degree)",
+      "explanation": "This uses the positive degree of comparison with the structure 'as ... as'. The positive degree is used to show that two things are equal. Both Sunday and Saturday recorded the same temperature of 38°C, so they are equally hot."
+    },
+    {
+      "id": "tqa050",
+      "exercise": "G",
+      "question": "[Degrees of Comparison - Temperature Chart] Temperature chart: Sun=38°C, Mon=33°C, Tue=30°C, Wed=29°C, Thu=32°C, Fri=35°C, Sat=38°C\n\nWhich day was the coolest?",
+      "answer": "Wednesday was the coolest day with 29°C. (superlative degree)",
+      "explanation": "This uses the superlative degree of comparison ('coolest'). The superlative is used to compare one thing with all others in a group. Wednesday had the lowest temperature of 29°C among all seven days, making it the coolest."
+    },
+    {
+      "id": "tqa051",
+      "exercise": "G",
+      "question": "[Degrees of Comparison - Temperature Chart] Temperature chart: Sun=38°C, Mon=33°C, Tue=30°C, Wed=29°C, Thu=32°C, Fri=35°C, Sat=38°C\n\nWhich were the hottest days?",
+      "answer": "Sunday and Saturday were the hottest days with 38°C. (superlative degree)",
+      "explanation": "This uses the superlative degree of comparison ('hottest'). Both Sunday and Saturday had the highest temperature of 38°C, making them the hottest days of the week. When two items share the highest value, both take the superlative."
+    },
+    {
+      "id": "tqa052",
+      "exercise": "G",
+      "question": "[Degrees of Comparison - Temperature Chart] Temperature chart: Sun=38°C, Mon=33°C, Tue=30°C, Wed=29°C, Thu=32°C, Fri=35°C, Sat=38°C\n\nWhich two days were cooler than Thursday?",
+      "answer": "Tuesday (30°C) and Wednesday (29°C) were cooler than Thursday (32°C). (comparative degree)",
+      "explanation": "This uses the comparative degree of comparison ('cooler than'). The comparative degree compares two things. Thursday was 32°C, and both Tuesday (30°C) and Wednesday (29°C) had lower temperatures, making them cooler than Thursday."
+    },
+    {
+      "id": "tqa053",
+      "exercise": "G",
+      "question": "[Degrees of Comparison - Temperature Chart] Temperature chart: Sun=38°C, Mon=33°C, Tue=30°C, Wed=29°C, Thu=32°C, Fri=35°C, Sat=38°C\n\nWhich two days were hotter than Friday?",
+      "answer": "Sunday (38°C) and Saturday (38°C) were hotter than Friday (35°C). (comparative degree)",
+      "explanation": "This uses the comparative degree of comparison ('hotter than'). Friday was 35°C, and both Sunday (38°C) and Saturday (38°C) had higher temperatures, making them hotter than Friday."
+    },
+    {
+      "id": "tqa054",
+      "exercise": "H",
+      "question": "[Degrees of Comparison - Sentences] Write sentences using the positive, comparative, and superlative degrees of the adjective: intelligent",
+      "answer": "Positive: Chimpanzees are intelligent animals.\nComparative: Bottlenose dolphins are more intelligent than chimpanzees.\nSuperlative: Orangutans are the most intelligent among animal species.",
+      "explanation": "For multi-syllable adjectives like 'intelligent', we form the comparative with 'more' and the superlative with 'most'. Positive degree describes a quality without comparison. Comparative compares two things. Superlative compares one with all others in a group."
+    },
+    {
+      "id": "tqa055",
+      "exercise": "H",
+      "question": "[Degrees of Comparison - Sentences] Write sentences using the positive, comparative, and superlative degrees of the adjective: healthy",
+      "answer": "Positive: Fruits are healthy snacks.\nComparative: Vegetables are healthier than fried snacks.\nSuperlative: Green leafy vegetables are the healthiest food items.",
+      "explanation": "For two-syllable adjectives ending in '-y' like 'healthy', we change '-y' to '-ier' for comparative (healthier) and '-iest' for superlative (healthiest). This follows the same pattern as happy/happier/happiest."
+    },
+    {
+      "id": "tqa056",
+      "exercise": "H",
+      "question": "[Degrees of Comparison - Sentences] Write sentences using the positive, comparative, and superlative degrees of the adjective: powerful",
+      "answer": "Positive: The lion is a powerful animal.\nComparative: The elephant is more powerful than the lion.\nSuperlative: The blue whale is the most powerful creature on Earth.",
+      "explanation": "For multi-syllable adjectives like 'powerful', we use 'more' for comparative and 'most' for superlative. We do not add '-er' or '-est' to long adjectives."
+    },
+    {
+      "id": "tqa057",
+      "exercise": "H",
+      "question": "[Degrees of Comparison - Sentences] Write sentences using the positive, comparative, and superlative degrees of the adjective: delicious",
+      "answer": "Positive: My mother makes delicious biryani.\nComparative: Grandmother's biryani is more delicious than restaurant biryani.\nSuperlative: My mother's biryani is the most delicious biryani I have ever tasted.",
+      "explanation": "For multi-syllable adjectives like 'delicious', we use 'more' for comparative and 'most' for superlative. Long adjectives (three or more syllables) always use 'more/most' instead of '-er/-est'."
+    },
+    {
+      "id": "tqa058",
+      "exercise": "H",
+      "question": "[Degrees of Comparison - Sentences] Write sentences using the positive, comparative, and superlative degrees of the adjective: important",
+      "answer": "Positive: Exercise is important for good health.\nComparative: A balanced diet is more important than supplements.\nSuperlative: Good health is the most important thing in life.",
+      "explanation": "For multi-syllable adjectives like 'important', we use 'more' for comparative and 'most' for superlative. The positive degree states the quality, comparative compares two things, and superlative shows the highest degree among a group."
+    },
+    {
+      "id": "tqa059",
+      "exercise": "H",
+      "question": "[Degrees of Comparison - Sentences] Write sentences using the positive, comparative, and superlative degrees of the adjective: shy",
+      "answer": "Positive: The new student is shy.\nComparative: My sister is shyer than my brother.\nSuperlative: Among all my cousins, Meera is the shyest.",
+      "explanation": "For one-syllable adjectives like 'shy', we add '-er' for comparative (shyer) and '-est' for superlative (shyest). One-syllable adjectives follow the simple pattern of adding '-er' and '-est'."
+    },
+    {
+      "id": "tqa060",
+      "exercise": "I",
+      "question": "[Interchange of Degrees] Change the degree of comparison while keeping the meaning the same:\nFew countries in the world are as large as China. (Change to comparative and superlative)",
+      "answer": "Comparative: China is larger than most of the other countries in the world.\nSuperlative: China is one of the largest countries in the world.",
+      "explanation": "Positive 'as large as' with 'few' becomes comparative 'larger than most' and superlative 'one of the largest'. The pattern: 'Few X are as ___ as Y' (positive) = 'Y is ___er than most other X' (comparative) = 'Y is one of the ___est X' (superlative)."
+    },
+    {
+      "id": "tqa061",
+      "exercise": "I",
+      "question": "[Interchange of Degrees] Change the degree of comparison while keeping the meaning the same:\nNo other metal is as heavy as lead. (Change to comparative and superlative)",
+      "answer": "Comparative: Lead is heavier than any other metal.\nSuperlative: Lead is the heaviest metal.",
+      "explanation": "Positive 'No other X is as ___ as Y' becomes comparative 'Y is ___er than any other X' and superlative 'Y is the ___est X'. The pattern: 'No other' (positive) = 'than any other' (comparative) = 'the ___est' (superlative)."
+    },
+    {
+      "id": "tqa062",
+      "exercise": "I",
+      "question": "[Interchange of Degrees] Change the degree of comparison while keeping the meaning the same:\nRabindranath Tagore was the greatest poet of India. (Change to positive and comparative)",
+      "answer": "Positive: No other poet of India was as great as Rabindranath Tagore.\nComparative: Rabindranath Tagore was greater than any other poet of India.",
+      "explanation": "Superlative 'the greatest' becomes positive 'No other X was as great as Y' and comparative 'Y was greater than any other X'. When converting from superlative: use 'No other... as... as' for positive, and 'than any other' for comparative."
+    },
+    {
+      "id": "tqa063",
+      "exercise": "I",
+      "question": "[Interchange of Degrees] Change the degree of comparison while keeping the meaning the same:\nThe Taj Mahal is more beautiful than many other monuments. (Change to positive and superlative)",
+      "answer": "Positive: Very few monuments are as beautiful as the Taj Mahal.\nSuperlative: The Taj Mahal is one of the most beautiful monuments.",
+      "explanation": "Comparative 'more beautiful than many other' becomes positive 'Very few X are as beautiful as Y' and superlative 'Y is one of the most beautiful X'. The word 'many' in comparative becomes 'very few' in positive and 'one of the' in superlative."
+    },
+    {
+      "id": "tqa064",
+      "exercise": "I",
+      "question": "[Interchange of Degrees] Change the degree of comparison while keeping the meaning the same:\nIndia is the largest democracy in the world. (Change to positive and comparative)",
+      "answer": "Positive: No other democracy in the world is as large as India.\nComparative: India is larger than any other democracy in the world.",
+      "explanation": "Superlative 'the largest' becomes positive 'No other X is as large as Y' and comparative 'Y is larger than any other X'. The superlative with 'the ___est' converts to 'No other... as... as' (positive) and '___er than any other' (comparative)."
+    },
+    {
+      "id": "tqa065",
+      "exercise": "I",
+      "question": "[Interchange of Degrees] Change the degree of comparison while keeping the meaning the same:\nSoufia is the most studious student in the class. (Change to positive and comparative)",
+      "answer": "Positive: No other student in the class is as studious as Soufia.\nComparative: Soufia is more studious than any other student in the class.",
+      "explanation": "Superlative 'the most studious' becomes positive 'No other X is as studious as Y' and comparative 'Y is more studious than any other X'. For multi-syllable adjectives, use 'more' in comparative instead of '-er'."
+    },
+    {
+      "id": "tqa066",
+      "exercise": "I",
+      "question": "[Interchange of Degrees] Change the degree of comparison while keeping the meaning the same:\nThis is the safest route to escape from the country. (Change to positive and comparative)",
+      "answer": "Positive: No other route to escape from the country is as safe as this.\nComparative: This route is safer than any other route to escape from the country.",
+      "explanation": "Superlative 'the safest' becomes positive 'No other X is as safe as Y' and comparative 'Y is safer than any other X'. The base adjective 'safe' takes '-r' for comparative (safer) and the positive uses the base form with 'as... as'."
+    },
+    {
+      "id": "tqa067",
+      "exercise": "I",
+      "question": "[Interchange of Degrees] Change the degree of comparison while keeping the meaning the same:\nThe pen can be mightier than any other tool for fighting against social evils. (Change to positive and superlative)",
+      "answer": "Positive: No other tool for fighting against social evils can be as mighty as the pen.\nSuperlative: The pen can be the mightiest tool for fighting against social evils.",
+      "explanation": "Comparative 'mightier than any other' becomes positive 'No other X can be as mighty as Y' and superlative 'Y can be the mightiest X'. The pattern '___er than any other' (comparative) = 'No other... as ___ as' (positive) = 'the ___est' (superlative)."
+    },
+    {
+      "id": "tqa068",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThe ______ (origin) Olympic Games began in ancient Greece.",
+      "answer": "original",
+      "explanation": "Adding the suffix '-al' to 'origin' forms the adjective 'original', meaning relating to the beginning or earliest form. The noun 'origin' becomes the adjective 'original' to describe the type of Olympic Games."
+    },
+    {
+      "id": "tqa069",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThey were a set of ______ (athlete) competitions.",
+      "answer": "athletic",
+      "explanation": "Adding the suffix '-ic' to 'athlete' (dropping the final 'e') forms the adjective 'athletic', meaning relating to athletes or athletics. The noun 'athlete' becomes the adjective 'athletic' to describe the type of competitions."
+    },
+    {
+      "id": "tqa070",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThe games had ______ (religion) significance.",
+      "answer": "religious",
+      "explanation": "Adding the suffix '-ous' to 'religion' (dropping the final letters and adding '-ious') forms the adjective 'religious', meaning relating to religion. The noun 'religion' becomes the adjective 'religious' to describe the type of significance."
+    },
+    {
+      "id": "tqa071",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nHosting the Olympics is an ______ (expense) affair.",
+      "answer": "expensive",
+      "explanation": "Adding the suffix '-ive' to 'expense' (dropping the final 'e' and changing 's' to 's') forms the adjective 'expensive', meaning costing a lot of money. The noun 'expense' becomes the adjective 'expensive' to describe the nature of the affair."
+    },
+    {
+      "id": "tqa072",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThe Olympics include various ______ (culture) events.",
+      "answer": "cultural",
+      "explanation": "Adding the suffix '-al' to 'culture' (dropping the final 'e') forms the adjective 'cultural', meaning relating to culture. The noun 'culture' becomes the adjective 'cultural' to describe the type of events."
+    },
+    {
+      "id": "tqa073",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nIt is the greatest ______ (sport) event in the world.",
+      "answer": "sporting / sports",
+      "explanation": "The noun 'sport' can become the adjective 'sporting' (by adding '-ing') or 'sports' (used as a modifier). Both forms are correct. 'Sporting event' and 'sports event' are both commonly used to describe events related to sports."
+    },
+    {
+      "id": "tqa074",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThe marathon today is ______ (long) than the original race.",
+      "answer": "longer",
+      "explanation": "The comparative degree of 'long' is 'longer' (formed by adding '-er'). The word 'than' in the sentence signals that a comparative degree is needed. One-syllable adjectives form their comparative by adding '-er'."
+    },
+    {
+      "id": "tqa075",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThere were ______ (few) events in the ancient games.",
+      "answer": "fewer",
+      "explanation": "The comparative degree of 'few' is 'fewer' (formed by adding '-er'). The context implies comparison between ancient and modern games, so the comparative form is needed. 'Fewer' is used with countable nouns like 'events'."
+    },
+    {
+      "id": "tqa076",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThe Olympics is the ______ (popular) sporting event.",
+      "answer": "most popular",
+      "explanation": "The superlative degree of 'popular' is 'most popular' (using 'most' because it is a multi-syllable adjective). The article 'the' before the blank signals that a superlative degree is needed. Multi-syllable adjectives use 'most' for superlative."
+    },
+    {
+      "id": "tqa077",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nIt is the ______ (great) show of unity among nations.",
+      "answer": "greatest",
+      "explanation": "The superlative degree of 'great' is 'greatest' (formed by adding '-est'). The article 'the' before the blank signals that a superlative degree is needed. One-syllable adjectives form their superlative by adding '-est'."
+    },
+    {
+      "id": "tqa078",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThe athletes compete in a ______ (peace) environment.",
+      "answer": "peaceful",
+      "explanation": "Adding the suffix '-ful' to 'peace' forms the adjective 'peaceful', meaning calm and free from disturbance. The noun 'peace' becomes the adjective 'peaceful' to describe the type of environment."
+    },
+    {
+      "id": "tqa079",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThey are ______ (fear) competitors.",
+      "answer": "fearless",
+      "explanation": "Adding the suffix '-less' to 'fear' forms the adjective 'fearless', meaning without fear or brave. The noun 'fear' becomes the adjective 'fearless' to describe the nature of the competitors. The suffix '-less' means 'without'."
+    },
+    {
+      "id": "tqa080",
+      "exercise": "J",
+      "question": "[Complete the Paragraph] Fill in the correct form of the word in brackets:\nThe Olympic spirit is truly ______ (compete).",
+      "answer": "competitive",
+      "explanation": "Adding the suffix '-itive' to 'compete' (dropping the final 'e') forms the adjective 'competitive', meaning involving or characterized by competition. The verb 'compete' becomes the adjective 'competitive' to describe the nature of the Olympic spirit."
+    },
+    {
+      "id": "tqa081",
+      "exercise": "Assessment 1 - C",
+      "question": "[Degrees of Adjectives] Fill in the blank with the correct degree of the adjective in brackets:\nThere may be ______ (good) performers than Nagesh in our city.",
+      "answer": "better",
+      "explanation": "'Better' is the comparative form of 'good'. Since we are comparing performers to Nagesh ('than Nagesh'), the comparative degree is needed. Good → better → best."
+    },
+    {
+      "id": "tqa082",
+      "exercise": "Assessment 1 - C",
+      "question": "[Degrees of Adjectives] Fill in the blank with the correct degree of the adjective in brackets:\nI find the game of football ______ (exciting) than cricket.",
+      "answer": "more exciting",
+      "explanation": "'More exciting' is the comparative form of 'exciting'. Since we are comparing football to cricket ('than cricket'), the comparative degree is needed. For adjectives with three or more syllables, we use 'more' for the comparative."
+    },
+    {
+      "id": "tqa083",
+      "exercise": "Assessment 1 - C",
+      "question": "[Degrees of Adjectives] Fill in the blanks with the correct degree of the adjectives in brackets:\nI have solved many ______ (difficult) riddles, but this one was the ______ (complex).",
+      "answer": "difficult, most complex",
+      "explanation": "The first blank needs the positive degree 'difficult' (no comparison, just stating that many riddles were difficult). The second blank needs the superlative 'most complex' because 'this one' is being compared to all other riddles as the hardest."
+    },
+    {
+      "id": "tqa084",
+      "exercise": "Assessment 1 - C",
+      "question": "[Degrees of Adjectives] Fill in the blank with the correct degree of the adjective in brackets:\nIt will be remembered as the ______ (bad) day in the history of the world.",
+      "answer": "worst",
+      "explanation": "'Worst' is the superlative form of 'bad'. The phrase 'in the history of the world' indicates comparison with all other days, requiring the superlative. Bad → worse → worst."
+    },
+    {
+      "id": "tqa085",
+      "exercise": "Assessment 1 - C",
+      "question": "[Degrees of Adjectives] Fill in the blank with the correct degree of the adjective in brackets:\nTo say the world is coming to an end is a ______ (silly) thing.",
+      "answer": "silly",
+      "explanation": "The positive degree 'silly' is used because there is no comparison being made. The sentence simply describes the statement as a silly thing, without comparing it to anything else."
+    },
+    {
+      "id": "tqa086",
+      "exercise": "Assessment 1 - C",
+      "question": "[Degrees of Adjectives] Fill in the blank with the correct degree of the adjective in brackets:\nToday, she is a ______ (celebrated) artist than her mother.",
+      "answer": "more celebrated",
+      "explanation": "'More celebrated' is the comparative form of 'celebrated'. The word 'than' indicates a comparison between the artist and her mother. For multi-syllable adjectives like 'celebrated', we use 'more' for the comparative."
+    }
+  ]
+}

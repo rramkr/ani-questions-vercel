@@ -1,0 +1,415 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Adjectives",
+  "type": "notes",
+  "title": "Adjectives — Chapter 4",
+  "sections": [
+    {
+      "id": "sec1",
+      "title": "What are Adjectives?",
+      "content": "An adjective is a word that modifies or describes a noun. When we say 'a tall building,' the word 'tall' is an adjective because it tells us more about the noun 'building.' Adjectives answer questions like: What kind? How much? How many? Which one?\n\nOne of the most useful things to know about adjectives is that we can FORM them from nouns and verbs by adding suffixes (word endings). English has a rich set of suffixes that can turn a noun or verb into an adjective. Here are the main suffixes used to form adjectives:\n\n-able / -ible: These suffixes mean 'capable of' or 'worthy of.' For example, 'move' (verb) becomes 'moveable,' and 'visible' comes from the idea of being able to be seen.\n\n-al / -ial: These turn nouns into adjectives meaning 'relating to.' For instance, 'industry' (noun) becomes 'industrial,' and 'addition' becomes 'additional.'\n\n-ful: This suffix means 'full of.' The noun 'help' becomes the adjective 'helpful' (full of help).\n\n-ic / -ical: These mean 'having the nature of.' 'Art' becomes 'artistic,' and 'politics' becomes 'political.'\n\n-ish: This suffix often means 'somewhat like' or 'having the quality of.' 'Child' becomes 'childish.'\n\n-ive / -ative: These mean 'having the quality of' or 'tending to.' 'Inform' becomes 'informative,' and 'act' becomes 'active.'\n\n-ous / -ious / -eous: These mean 'having the quality of.' 'Fame' becomes 'famous,' 'glory' becomes 'glorious,' and 'courtesy' becomes 'courteous.'\n\n-y: This simple suffix turns nouns into adjectives. 'Cloud' becomes 'cloudy.'\n\n-ly: When added to nouns, it creates adjectives meaning 'occurring every.' 'Month' becomes 'monthly.'\n\n-some: This means 'causing' or 'tending to.' 'Awe' becomes 'awesome.'\n\n-less: This is the opposite of -ful. It means 'without.' 'Penny' becomes 'penniless' (without a penny).",
+      "key_terms": [
+        {
+          "term": "Adjective",
+          "definition": "A word that modifies or describes a noun, telling us more about its qualities, quantity, number, or identity."
+        },
+        {
+          "term": "Suffix",
+          "definition": "A letter or group of letters added to the end of a word to form a new word with a different meaning or word class."
+        },
+        {
+          "term": "Modify",
+          "definition": "To change or add to the meaning of a word. When an adjective modifies a noun, it gives additional information about that noun."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Suffixes Used to Form Adjectives",
+          "headers": ["Suffix", "Meaning", "Base Word", "Adjective Formed"],
+          "rows": [
+            ["-able / -ible", "capable of, worthy of", "move, visible", "moveable, visible"],
+            ["-al / -ial", "relating to", "industry, addition", "industrial, additional"],
+            ["-ful", "full of", "help", "helpful"],
+            ["-ic / -ical", "having the nature of", "art, politics", "artistic, political"],
+            ["-ish", "somewhat like", "child", "childish"],
+            ["-ive / -ative", "having the quality of", "act, inform", "active, informative"],
+            ["-ous / -ious / -eous", "having the quality of", "fame, glory, courtesy", "famous, glorious, courteous"],
+            ["-y", "having the quality of", "cloud", "cloudy"],
+            ["-ly", "occurring every", "month", "monthly"],
+            ["-some", "causing, tending to", "awe", "awesome"],
+            ["-less", "without", "penny", "penniless"]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "The suffix '-less' is the exact opposite of '-ful.' Compare: helpful (full of help) vs. helpless (without help). Knowing this pattern lets you guess the meaning of adjectives you have never seen before!",
+        "The word 'adjective' itself comes from the Latin word 'adjectivum,' meaning 'added to.' This makes sense because adjectives are always 'added to' nouns to describe them."
+      ],
+      "examples": [
+        "moveable, industrial, political, informative, courteous, awesome, visible, helpful, childish, famous, cloudy, penniless, additional, artistic, active, glorious, monthly"
+      ]
+    },
+    {
+      "id": "sec2",
+      "title": "Participles as Adjectives",
+      "content": "In English, both the present participle (-ing form) and the past participle of a verb can be used as adjectives. However, they have very different meanings, and mixing them up is a common mistake.\n\nThe PRESENT PARTICIPLE (the -ing form of a verb) is used as an adjective when it describes the EFFECT that a noun causes. In other words, it tells us what the noun DOES to others. Think of it this way: the noun is the source of the effect.\n\nFor example: 'The disturbing news upset the family.' Here, 'disturbing' is a present participle used as an adjective. The news is the thing that causes disturbance. The news disturbs people, so we call it 'disturbing news.'\n\nThe PAST PARTICIPLE is used as an adjective when it tells us how a person FEELS or how a thing APPEARS. The person or thing is on the receiving end of the effect.\n\nFor example: 'The child had a puzzled look.' Here, 'puzzled' is a past participle used as an adjective. The child is the one who feels the puzzlement. The child has been puzzled by something, so we describe the look as a 'puzzled look.'\n\nHere is a simple trick to remember the difference: If the noun is CAUSING the feeling, use the -ing form. If the noun is EXPERIENCING the feeling, use the past participle form.\n\nConsider these pairs:\n- The movie was boring. (The movie causes boredom — it is the source.)\n- The audience was bored. (The audience experiences the boredom — they are on the receiving end.)\n- It was an exciting match. (The match causes excitement.)\n- The excited fans cheered. (The fans experience the excitement.)",
+      "key_terms": [
+        {
+          "term": "Present participle",
+          "definition": "The -ing form of a verb (e.g., running, disturbing, exciting). When used as an adjective, it describes the effect a noun causes on others."
+        },
+        {
+          "term": "Past participle",
+          "definition": "The third form of a verb, often ending in -ed, -en, -t, etc. (e.g., puzzled, broken, lost). When used as an adjective, it describes how a person feels or how a thing appears."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Present Participle vs Past Participle as Adjectives",
+          "headers": ["Present Participle (-ing)", "Describes", "Past Participle (-ed/-en)", "Describes"],
+          "rows": [
+            ["disturbing news", "The news causes disturbance", "disturbed child", "The child feels disturbed"],
+            ["boring movie", "The movie causes boredom", "bored audience", "The audience feels bored"],
+            ["exciting match", "The match causes excitement", "excited fans", "The fans feel excited"],
+            ["confusing question", "The question causes confusion", "confused student", "The student feels confused"],
+            ["surprising result", "The result causes surprise", "surprised teacher", "The teacher feels surprised"]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "A very common error in everyday English is saying 'I am boring' when you mean 'I am bored.' Saying 'I am boring' actually means you cause boredom in others! Always ask yourself: Am I the one CAUSING the feeling, or am I the one EXPERIENCING the feeling?"
+      ],
+      "examples": [
+        "The disturbing news upset the family. (present participle — the news causes disturbance)",
+        "The child had a puzzled look. (past participle — the child feels puzzled)",
+        "That was an amazing performance. (present participle — the performance causes amazement)",
+        "The amazed crowd gave a standing ovation. (past participle — the crowd feels amazed)"
+      ]
+    },
+    {
+      "id": "sec3",
+      "title": "Position of Adjectives",
+      "content": "Where you place an adjective in a sentence matters. In English, adjectives can appear in two main positions, and there is also a special rule for indefinite pronouns.\n\n1. ATTRIBUTIVE ADJECTIVES — Before the Noun\nThe most common position for an adjective is directly BEFORE the noun it describes. When an adjective sits right before the noun, it is called an attributive adjective.\n\nExamples: 'a tall building,' 'the red car,' 'an intelligent student.' In each of these, the adjective comes immediately before the noun.\n\n2. PREDICATIVE ADJECTIVES — After Certain Verbs\nSometimes, adjectives are placed AFTER specific verbs. These verbs include the 'be' verbs and a set of linking verbs. When an adjective appears after such a verb, it is called a predicative adjective.\n\nThe 'be' verbs are: being, been, am, is, was, were.\n\nOther linking verbs that can be followed by predicative adjectives include: become, grow, look, appear, seem.\n\nExamples:\n- 'The sky is blue.' (after the be verb 'is')\n- 'She became famous.' (after the linking verb 'became')\n- 'He looks tired.' (after the linking verb 'looks')\n- 'The food seems fresh.' (after the linking verb 'seems')\n\n3. AFTER INDEFINITE PRONOUNS\nThere is a special rule: when an adjective describes an indefinite pronoun (such as someone, anyone, something, anything, everyone, everything, somewhere, anywhere, everywhere, nobody, nothing), the adjective is placed AFTER the pronoun, not before it.\n\nExamples:\n- 'Someone unknown sent this message.' (NOT 'unknown someone')\n- 'Is there anything wrong?' (NOT 'wrong anything')\n- 'I want something cold to drink.' (NOT 'cold something')\n\nThis is a unique rule because, in nearly every other situation in English, the adjective goes before the noun. But with indefinite pronouns, it always goes after.",
+      "key_terms": [
+        {
+          "term": "Attributive adjective",
+          "definition": "An adjective placed directly before the noun it modifies. Example: 'a tall building' — 'tall' is attributive."
+        },
+        {
+          "term": "Predicative adjective",
+          "definition": "An adjective placed after a linking verb (be, become, seem, look, appear, grow). Example: 'The sky is blue' — 'blue' is predicative."
+        },
+        {
+          "term": "Linking verb",
+          "definition": "A verb that connects the subject to an adjective or noun that describes it, rather than showing an action. Examples: is, was, become, seem, look, appear, grow."
+        },
+        {
+          "term": "Indefinite pronoun",
+          "definition": "A pronoun that does not refer to a specific person or thing. Examples: someone, anyone, something, anything, everyone, everything, nobody, nothing."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Position of Adjectives — Summary",
+          "headers": ["Position", "Rule", "Example"],
+          "rows": [
+            ["Before the noun (Attributive)", "The most common position for adjectives", "a tall building, the red car"],
+            ["After be verbs (Predicative)", "After: am, is, was, were, being, been", "The sky is blue."],
+            ["After linking verbs (Predicative)", "After: become, grow, look, appear, seem", "She became famous."],
+            ["After indefinite pronouns", "After: someone, anything, everyone, nothing, etc.", "Someone unknown sent this message."]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "In many other languages (like French and Spanish), adjectives usually come AFTER the noun ('une maison grande' = a house big). English is unusual in placing adjectives before the noun. But as we just saw, indefinite pronouns are the exception where English follows the 'adjective after' pattern!"
+      ],
+      "examples": [
+        "Attributive: 'The clever fox escaped.' (adjective before noun)",
+        "Predicative: 'The fox was clever.' (adjective after be verb)",
+        "Predicative: 'The soup looks delicious.' (adjective after linking verb 'looks')",
+        "After indefinite pronoun: 'Is there anything interesting on TV?' (adjective after indefinite pronoun)"
+      ]
+    },
+    {
+      "id": "sec4",
+      "title": "Kinds of Adjectives — Part 1 (Quality, Quantity, Number)",
+      "content": "There are seven kinds of adjectives in English. In this section, we will study the first three types.\n\n1. ADJECTIVES OF QUALITY\nThese adjectives give an opinion about a noun or tell us about its specific qualities. They describe what kind of person, thing, or place the noun is. Adjectives of quality cover a wide range of descriptions including colour, size, age, shape, origin, and material.\n\nExamples by category:\n- Colour: reddish, blue, green, golden\n- Size: tiny, huge, enormous, small\n- Age: old, young, ancient, modern\n- Shape: round, square, flat, cylindrical\n- Origin: Indian, French, Egyptian, Japanese\n- Material: plastic, wooden, metallic, cotton\n- Opinion: beautiful, wonderful, horrible, smart\n\nAdjectives of quality are the most common type of adjective. When you describe someone as 'a kind teacher' or something as 'a delicious meal,' you are using adjectives of quality.\n\n2. ADJECTIVES OF QUANTITY\nThese adjectives tell us the amount (how much) of something. They are typically used with UNCOUNTABLE nouns — things you cannot count individually, such as water, money, rice, time, or effort.\n\nExamples: some, enough, much, little, a little, few, any, no, whole, sufficient, plenty of.\n\n- 'There is enough water in the tank.'\n- 'She showed much patience.'\n- 'We have little time left.'\n- 'Add some sugar to the tea.'\n\nNotice that adjectives of quantity do not give an exact number. They tell you 'how much' in a general way.\n\n3. ADJECTIVES OF NUMBER\nThese adjectives tell us the number (how many) of countable nouns — things you can count individually, such as books, students, apples, or days. They come in two types:\n\n- Cardinal numbers tell us the exact count: one, two, three, ten, hundred, thousand.\n- Ordinal numbers tell us the position or order: first, second, third, eleventh, twentieth, last.\n\nExamples:\n- 'She has three brothers.' (cardinal — how many)\n- 'He finished second in the race.' (ordinal — position)\n- 'I read the first chapter.' (ordinal — position)\n\nRemember the difference: Adjectives of QUANTITY are used for uncountable nouns (how much), while adjectives of NUMBER are used for countable nouns (how many).",
+      "key_terms": [
+        {
+          "term": "Adjectives of quality",
+          "definition": "Adjectives that give an opinion about a noun or describe its specific qualities such as colour, size, age, shape, origin, or material. Example: a tiny house, an Indian dish."
+        },
+        {
+          "term": "Adjectives of quantity",
+          "definition": "Adjectives that tell how much of something there is. Used with uncountable nouns. Examples: some, enough, much, little."
+        },
+        {
+          "term": "Adjectives of number",
+          "definition": "Adjectives that tell how many of something there are. Used with countable nouns. Includes cardinal numbers (one, two, three) and ordinal numbers (first, second, third)."
+        },
+        {
+          "term": "Cardinal numbers",
+          "definition": "Numbers that tell the exact count of something: one, two, three, ten, hundred."
+        },
+        {
+          "term": "Ordinal numbers",
+          "definition": "Numbers that tell the position or order of something: first, second, third, eleventh, last."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Adjectives of Quality — Categories",
+          "headers": ["Category", "Examples"],
+          "rows": [
+            ["Colour", "reddish, blue, green, golden"],
+            ["Size", "tiny, huge, enormous, small"],
+            ["Age", "old, young, ancient, modern"],
+            ["Shape", "round, square, flat, cylindrical"],
+            ["Origin", "Indian, French, Egyptian, Japanese"],
+            ["Material", "plastic, wooden, metallic, cotton"],
+            ["Opinion", "beautiful, wonderful, horrible, smart"]
+          ]
+        },
+        {
+          "title": "Quantity vs Number — Quick Comparison",
+          "headers": ["Feature", "Adjectives of Quantity", "Adjectives of Number"],
+          "rows": [
+            ["Question answered", "How much?", "How many?"],
+            ["Used with", "Uncountable nouns", "Countable nouns"],
+            ["Examples", "some water, enough time, much effort", "three books, first place, ten students"],
+            ["Precision", "General amount", "Exact count or order"]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "The word 'few' is used with countable nouns (a few books), while 'little' is used with uncountable nouns (a little water). Mixing them up is a very common grammar mistake!"
+      ],
+      "examples": [
+        "Adjective of quality: 'The tiny, old, Indian vase is beautiful.'",
+        "Adjective of quantity: 'There is enough milk for everyone.'",
+        "Adjective of number (cardinal): 'She scored ten goals this season.'",
+        "Adjective of number (ordinal): 'He was the first student to finish the test.'"
+      ]
+    },
+    {
+      "id": "sec5",
+      "title": "Kinds of Adjectives — Part 2 (Distributive, Demonstrative, Possessive, Interrogative)",
+      "content": "Continuing with the seven kinds of adjectives, here are the remaining four types.\n\n4. DISTRIBUTIVE ADJECTIVES\nDistributive adjectives refer to each person or thing separately, rather than as a group. There are four main distributive adjectives: each, every, either, and neither.\n\n- 'Each student received a certificate.' (refers to students one by one)\n- 'Every question was answered correctly.' (refers to questions individually)\n- 'You can sit on either side.' (one or the other of two)\n- 'Neither answer is correct.' (not one and not the other of two)\n\nNote: 'each' and 'every' are similar, but 'each' focuses more on the individual, while 'every' focuses on the whole group. 'Either' and 'neither' are always used when there are exactly two options.\n\n5. DEMONSTRATIVE ADJECTIVES\nDemonstrative adjectives point out which specific noun is being talked about. They are: this, that, these, those.\n\n- 'This book is interesting.' (pointing to a book nearby)\n- 'That building is very tall.' (pointing to a building far away)\n- 'These mangoes are sweet.' (pointing to mangoes nearby — plural)\n- 'Those mountains look beautiful.' (pointing to mountains far away — plural)\n\nIMPORTANT: Do not confuse demonstrative ADJECTIVES with demonstrative PRONOUNS. The difference is simple:\n- Demonstrative ADJECTIVE: always followed by a noun. 'This PEN is red.' (This describes which pen.)\n- Demonstrative PRONOUN: replaces a noun and stands alone. 'This IS a red pen.' (This replaces the noun.)\n\nThe same words (this, that, these, those) can be either adjectives or pronouns depending on how they are used in the sentence.\n\n6. POSSESSIVE ADJECTIVES\nPossessive adjectives show belonging or ownership. They tell us who something belongs to. The possessive adjectives are: my, your, our, his, her, their, its.\n\n- 'My school is nearby.'\n- 'Their dog is very friendly.'\n- 'Its colour has faded.' (Note: 'its' without an apostrophe is the possessive adjective. 'It's' with an apostrophe means 'it is.')\n\n7. INTERROGATIVE ADJECTIVES\nInterrogative adjectives are used to ask questions about nouns. They are: whose, which, what.\n\n- 'Whose bag is this?' (asking about ownership)\n- 'Which route should we take?' (asking about a choice)\n- 'What time is it?' (asking for information)\n\nJust like demonstrative words, interrogative words can also be adjectives or pronouns. When they are followed by a noun, they are adjectives. When they stand alone, they are pronouns.",
+      "key_terms": [
+        {
+          "term": "Distributive adjectives",
+          "definition": "Adjectives that refer to each person or thing separately: each, every, either, neither."
+        },
+        {
+          "term": "Demonstrative adjectives",
+          "definition": "Adjectives that point out which specific noun is being referred to: this, that, these, those. Always followed by a noun."
+        },
+        {
+          "term": "Demonstrative pronouns",
+          "definition": "Words like this, that, these, those used to REPLACE a noun and stand alone in a sentence, without being followed by a noun."
+        },
+        {
+          "term": "Possessive adjectives",
+          "definition": "Adjectives that show belonging or ownership: my, your, our, his, her, their, its."
+        },
+        {
+          "term": "Interrogative adjectives",
+          "definition": "Adjectives used to ask questions about nouns: whose, which, what. Always followed by a noun."
+        }
+      ],
+      "tables": [
+        {
+          "title": "The Seven Kinds of Adjectives — Complete Summary",
+          "headers": ["Kind", "What It Does", "Key Words"],
+          "rows": [
+            ["1. Quality", "Describes qualities (colour, size, age, shape, origin, material)", "reddish, tiny, old, round, Indian, plastic"],
+            ["2. Quantity", "Tells how much (uncountable nouns)", "some, enough, much, little, a little, few"],
+            ["3. Number", "Tells how many (countable nouns)", "one, two, ten (cardinal); first, second (ordinal)"],
+            ["4. Distributive", "Refers to each person/thing separately", "each, every, either, neither"],
+            ["5. Demonstrative", "Points out which noun", "this, that, these, those"],
+            ["6. Possessive", "Shows belonging", "my, your, our, his, her, their, its"],
+            ["7. Interrogative", "Asks questions about nouns", "whose, which, what"]
+          ]
+        },
+        {
+          "title": "Demonstrative Adjective vs Demonstrative Pronoun",
+          "headers": ["Sentence", "Role", "Why?"],
+          "rows": [
+            ["This pen is red.", "Adjective", "'This' is followed by the noun 'pen' — it describes which pen"],
+            ["This is a red pen.", "Pronoun", "'This' replaces the noun and stands alone — it IS the subject"],
+            ["Those shoes are expensive.", "Adjective", "'Those' is followed by the noun 'shoes'"],
+            ["Those are expensive.", "Pronoun", "'Those' stands alone, replacing the noun"]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "The demonstrative adjective vs pronoun distinction is a very popular exam question. The simplest test: if the word (this/that/these/those) is immediately followed by a noun, it is an adjective. If it stands alone or is followed by a verb, it is a pronoun.",
+        "The word 'its' (possessive adjective, no apostrophe) and 'it's' (short for 'it is') are among the most commonly confused words in English. Remember: possessive adjectives NEVER use apostrophes — just like his, her, and their do not have apostrophes."
+      ],
+      "examples": [
+        "Distributive: 'Each player scored a goal.' / 'Neither option was suitable.'",
+        "Demonstrative adjective: 'This pen is red.' (followed by noun 'pen')",
+        "Demonstrative pronoun: 'This is a red pen.' (stands alone, replaces noun)",
+        "Possessive: 'Her performance was outstanding.'",
+        "Interrogative: 'Which subject do you like best?'"
+      ]
+    },
+    {
+      "id": "sec6",
+      "title": "Order of Adjectives",
+      "content": "When we use more than one adjective before a noun, they must follow a specific order. Native English speakers do this instinctively, but for grammar students, it is important to learn the correct sequence. Getting the order wrong makes the sentence sound unnatural.\n\nThe correct order of adjectives is:\n\nOpinion/Quality, Size, Physical Quality, Shape, Age, Colour, Source/Origin, Material, Purpose\n\nYou can remember this as a fixed sequence. Whenever you need to stack multiple adjectives before a noun, arrange them in this order.\n\nExample using all categories: 'the beautiful big cylindrical old beige Egyptian earthen urn.'\n\nLet us break this down:\n- beautiful = Opinion/Quality\n- big = Size\n- cylindrical = Shape\n- old = Age\n- beige = Colour\n- Egyptian = Source/Origin\n- earthen = Material\n- urn = the Noun\n\nIn practice, you will rarely use this many adjectives at once. But even with just two or three, the order matters:\n- 'a small round table' (Size, then Shape) — correct\n- 'a round small table' — sounds wrong\n- 'a beautiful old Indian painting' (Opinion, then Age, then Origin) — correct\n- 'an Indian old beautiful painting' — sounds wrong\n\nCOMMA RULES WITH MULTIPLE ADJECTIVES:\n\nThere is an important rule about when to use commas between adjectives:\n\n- NO COMMA between adjectives from DIFFERENT categories. Since they belong to different types, they follow the natural order and do not need commas.\n  Example: 'a blue Japanese car' (blue = Colour, Japanese = Origin — different categories, no comma)\n\n- USE A COMMA between two or more adjectives from the SAME category. When adjectives are of the same type, their order is interchangeable, and a comma separates them.\n  Example: 'a blue, beige car' (both are Colour adjectives — same category, comma needed)\n\nHere is a handy test: if you can insert the word 'and' between two adjectives and the sentence still sounds natural, then you should use a comma. If 'and' sounds awkward, no comma is needed.\n- 'a blue and beige car' — sounds fine, so use a comma: 'a blue, beige car.'\n- 'a blue and Japanese car' — sounds awkward, so no comma: 'a blue Japanese car.'",
+      "key_terms": [
+        {
+          "term": "Order of adjectives",
+          "definition": "The fixed sequence in which multiple adjectives must be arranged before a noun: Opinion, Size, Physical Quality, Shape, Age, Colour, Origin, Material, Purpose."
+        },
+        {
+          "term": "Coordinate adjectives",
+          "definition": "Adjectives from the same category that can be separated by commas or the word 'and.' Example: 'a blue, beige car' — both are colour adjectives."
+        },
+        {
+          "term": "Cumulative adjectives",
+          "definition": "Adjectives from different categories that follow the fixed order and are NOT separated by commas. Example: 'a blue Japanese car.'"
+        }
+      ],
+      "tables": [
+        {
+          "title": "The Correct Order of Adjectives",
+          "headers": ["Position", "Category", "Example Words"],
+          "rows": [
+            ["1st", "Opinion / Quality", "beautiful, wonderful, horrible, lovely"],
+            ["2nd", "Size", "big, small, tiny, enormous, tall"],
+            ["3rd", "Physical Quality", "smooth, rough, soft, hard, thin"],
+            ["4th", "Shape", "round, square, flat, cylindrical"],
+            ["5th", "Age", "old, young, ancient, modern, new"],
+            ["6th", "Colour", "red, blue, beige, golden, reddish"],
+            ["7th", "Source / Origin", "Indian, Egyptian, Japanese, French"],
+            ["8th", "Material", "wooden, plastic, earthen, metallic, cotton"],
+            ["9th", "Purpose", "sleeping (bag), cooking (pot), writing (desk)"]
+          ]
+        },
+        {
+          "title": "Comma Rules — Same Category vs Different Category",
+          "headers": ["Adjectives", "Categories", "Same or Different?", "Comma?"],
+          "rows": [
+            ["blue, beige car", "Colour + Colour", "Same", "Yes — comma needed"],
+            ["blue Japanese car", "Colour + Origin", "Different", "No comma"],
+            ["tall, thin man", "Size + Physical Quality (but closely related)", "Can be coordinate", "Comma if 'and' test works"],
+            ["beautiful old Indian painting", "Opinion + Age + Origin", "Different", "No commas"]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "An interesting fact: almost every English speaker naturally follows the adjective order without being taught it. If someone says 'a green great dragon,' it sounds wrong to every native speaker, even though they may not be able to explain why. The correct order is 'a great green dragon' (Opinion before Colour). This order is so deeply ingrained that breaking it immediately sounds strange!",
+        "The 'and' test is a quick shortcut: if you can put 'and' between two adjectives and it sounds right, use a comma. If it sounds odd with 'and,' do not use a comma."
+      ],
+      "examples": [
+        "the beautiful big cylindrical old beige Egyptian earthen urn (Opinion, Size, Shape, Age, Colour, Origin, Material)",
+        "a lovely small round antique silver Italian mirror (Opinion, Size, Shape, Age, Material, Origin)",
+        "a blue, beige car (same category — comma needed)",
+        "a blue Japanese car (different categories — no comma)"
+      ]
+    },
+    {
+      "id": "sec7",
+      "title": "Degrees of Comparison — Rules and Formation",
+      "content": "When we compare things, we use different forms of adjectives called degrees of comparison. There are three degrees:\n\n1. POSITIVE DEGREE\nThis is the base form of the adjective with no comparison at all. It simply describes a quality. It is also used for equal comparisons using the structure 'as + adjective + as.'\n\nExamples:\n- 'Earth moves fast.' (no comparison — just a statement)\n- 'Mars is as big as Earth.' (equal comparison using as...as)\n\n2. COMPARATIVE DEGREE\nThis form is used when comparing TWO things to show that one has more or less of a quality than the other. The word 'than' is the signal word for comparative degree.\n\nExamples:\n- 'Venus moves faster than Earth.' (comparing two planets)\n- 'This book is more interesting than that one.' (comparing two books)\n\n3. SUPERLATIVE DEGREE\nThis form is used when comparing THREE OR MORE things to show that one has the most or least of a quality. The word 'the' usually appears before the superlative.\n\nExamples:\n- 'Mercury moves the fastest.' (comparing among all planets)\n- 'This is the most interesting book I have read.' (comparing among many books)\n\nRULES FOR FORMING COMPARATIVE AND SUPERLATIVE:\n\nThe way you form the comparative and superlative depends on the number of syllables in the adjective and its spelling.\n\nA syllable is a single unit of speech that has one vowel sound. For example:\n- 'red' has 1 syllable\n- 'com-pu-ter' has 3 syllables\n- 'in-tell-i-gent' has 4 syllables\n\nRule 1: Adjectives with 1-2 syllables (ending in a single vowel + consonant)\nAdd -er for comparative and -est for superlative.\nExamples: light → lighter → lightest, smart → smarter → smartest\n\nRule 2: Adjectives with 2 syllables ending in consonant + y\nChange the 'y' to 'i' and add -er for comparative and -est for superlative.\nExamples: crazy → crazier → craziest, lucky → luckier → luckiest\n\nRule 3: Adjectives with 2 syllables ending in -le\nAdd -r for comparative and -st for superlative.\nExamples: able → abler → ablest, noble → nobler → noblest\n\nRule 4: Adjectives with 1 syllable ending in -e\nAdd -r for comparative and -st for superlative.\nExamples: fine → finer → finest, wise → wiser → wisest\n\nRule 5: Adjectives with more than 2 syllables\nUse 'more' or 'less' before the adjective for comparative, and 'most' or 'least' for superlative. Do NOT add -er or -est.\nExamples: difficult → more difficult → most difficult, beautiful → more beautiful → most beautiful",
+      "key_terms": [
+        {
+          "term": "Positive degree",
+          "definition": "The base form of an adjective with no comparison, or used for equal comparison with 'as...as.' Example: tall, fast, beautiful."
+        },
+        {
+          "term": "Comparative degree",
+          "definition": "The form used to compare TWO things, showing one has more or less of a quality. Uses -er or 'more/less,' followed by 'than.' Example: taller, faster, more beautiful."
+        },
+        {
+          "term": "Superlative degree",
+          "definition": "The form used to compare THREE OR MORE things, showing one has the most or least of a quality. Uses -est or 'most/least,' preceded by 'the.' Example: the tallest, the fastest, the most beautiful."
+        },
+        {
+          "term": "Syllable",
+          "definition": "A single unit of speech containing one vowel sound. 'Red' has 1 syllable, 'com-pu-ter' has 3, and 'in-tell-i-gent' has 4."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Rules for Forming Comparative and Superlative",
+          "headers": ["Type of Adjective", "Comparative Rule", "Superlative Rule", "Examples"],
+          "rows": [
+            ["1-2 syllables (single vowel + consonant)", "Add -er", "Add -est", "light → lighter → lightest; smart → smarter → smartest"],
+            ["2 syllables ending in consonant + y", "Change y to i, add -er", "Change y to i, add -est", "crazy → crazier → craziest; lucky → luckier → luckiest"],
+            ["2 syllables ending in -le", "Add -r", "Add -st", "able → abler → ablest; noble → nobler → noblest"],
+            ["1 syllable ending in -e", "Add -r", "Add -st", "fine → finer → finest; wise → wiser → wisest"],
+            ["More than 2 syllables", "Use more / less", "Use most / least", "difficult → more difficult → most difficult"]
+          ]
+        },
+        {
+          "title": "The Three Degrees of Comparison",
+          "headers": ["Degree", "Used For", "Signal Words", "Example"],
+          "rows": [
+            ["Positive", "No comparison or equal comparison", "as...as", "Earth moves fast. / Mars is as big as Earth."],
+            ["Comparative", "Comparing TWO things", "than, -er, more/less", "Venus moves faster than Earth."],
+            ["Superlative", "Comparing THREE or more things", "the, -est, most/least", "Mercury moves the fastest."]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "Here is a quick syllable-counting trick: place your hand under your chin and say the word slowly. Every time your chin drops, that is one syllable. Try it with 'beautiful' — your chin drops three times: beau-ti-ful. Three syllables!",
+        "Never say 'more better' or 'most fastest.' These are double comparatives and double superlatives. Since 'better' is already comparative, adding 'more' is wrong. Similarly, 'fastest' is already superlative, so 'most' is unnecessary."
+      ],
+      "examples": [
+        "Positive: 'The Nile is a long river.'",
+        "Comparative: 'The Amazon is longer than the Nile.'",
+        "Superlative: 'The Nile is the longest river in Africa.'",
+        "Positive (equal comparison): 'Ravi is as tall as Suresh.'",
+        "More than 2 syllables: 'This problem is more difficult than the last one.' / 'This is the most difficult problem in the paper.'"
+      ]
+    },
+    {
+      "id": "sec8",
+      "title": "Irregular Degrees of Comparison",
+      "content": "Most adjectives follow the regular rules for forming comparative and superlative degrees (adding -er/-est or using more/most). However, some very common adjectives have IRREGULAR forms that do not follow any pattern. These must simply be memorised.\n\nHere are the important irregular adjectives:\n\nGOOD → BETTER → BEST\n'Good' is perhaps the most commonly used irregular adjective. You cannot say 'gooder' or 'goodest.' The correct forms are 'better' (comparative) and 'best' (superlative).\nExample: 'She is a good singer. She is better than her sister. She is the best singer in the school.'\n\nBAD / ILL / EVIL → WORSE → WORST\nAll three of these adjectives share the same comparative and superlative forms. You cannot say 'badder' or 'baddest.'\nExample: 'The weather is bad today. It was worse yesterday. Monday was the worst day this week.'\n\nMANY / MUCH → MORE → MOST\n'Many' (used with countable nouns) and 'much' (used with uncountable nouns) both become 'more' in the comparative and 'most' in the superlative.\nExample: 'She has many books. He has more books than she does. The library has the most books.'\n\nLITTLE → LESS → LEAST\n'Little' (referring to amount, not size) becomes 'less' and 'least.'\nExample: 'There is little sugar left. There is less milk than sugar. There is the least amount of tea.'\n\nFAR → FARTHER / FURTHER → FARTHEST / FURTHEST\n'Far' has two sets of comparative and superlative forms. 'Farther' and 'farthest' are typically used for physical distance, while 'further' and 'furthest' can also be used for abstract or additional meaning (like 'further discussion').\nExample: 'The school is far from here. The hospital is farther than the school. The airport is the farthest building from here.'\n\nOLD → OLDER / ELDER → OLDEST / ELDEST\n'Old' also has two sets of forms. 'Older' and 'oldest' are the general forms used for comparing ages or things. 'Elder' and 'eldest' are specifically used for members of the same family.\nExample (general): 'This building is older than that one. It is the oldest building in the city.'\nExample (family): 'My elder brother is in college. She is the eldest of three sisters.'\n\nThese irregular forms appear very frequently in English. Since they do not follow any pattern, the best way to learn them is to memorise the table and practise using them in sentences.",
+      "key_terms": [
+        {
+          "term": "Irregular adjectives",
+          "definition": "Adjectives whose comparative and superlative forms do not follow the standard rules of adding -er/-est or using more/most. They have completely different words for each degree."
+        },
+        {
+          "term": "Farther vs Further",
+          "definition": "'Farther' is typically used for physical distance (the shop is farther away). 'Further' can be used for physical distance AND for abstract meanings (further discussion, further information)."
+        },
+        {
+          "term": "Elder vs Older",
+          "definition": "'Elder' and 'eldest' are used specifically for members of the same family (my elder sister). 'Older' and 'oldest' are used for general comparisons of age (this building is older)."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Irregular Degrees of Comparison — Complete Table",
+          "headers": ["Positive", "Comparative", "Superlative", "Usage Note"],
+          "rows": [
+            ["good", "better", "best", "Never say 'gooder' or 'goodest'"],
+            ["bad / ill / evil", "worse", "worst", "All three share the same forms"],
+            ["many / much", "more", "most", "'many' for countable, 'much' for uncountable"],
+            ["little", "less", "least", "Refers to amount, not size"],
+            ["far", "farther / further", "farthest / furthest", "'farther' for distance, 'further' also for abstract meaning"],
+            ["old", "older / elder", "oldest / eldest", "'elder/eldest' only for family members"]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "The word 'best' comes from the Old English word 'betst,' which evolved from 'bot' (meaning remedy or improvement). So when we say something is 'the best,' we are literally saying it is the greatest improvement!",
+        "A common exam trick: the question gives you the comparative 'worse' and asks for the positive degree. Many students write 'worse → bad' but forget that 'ill' and 'evil' also have the same comparative form. All three words — bad, ill, and evil — share worse/worst as their comparative and superlative forms."
+      ],
+      "examples": [
+        "good → better → best: 'This is a good plan. Your plan is better. Her plan is the best.'",
+        "bad → worse → worst: 'The traffic is bad. It is worse in the evening. It is the worst during the monsoon.'",
+        "many → more → most: 'He has many friends. She has more friends. They have the most friends.'",
+        "little → less → least: 'I have little patience. He has less patience. She has the least patience.'",
+        "far → farther → farthest: 'The park is far. The mall is farther. The airport is the farthest.'",
+        "old → elder → eldest: 'My elder brother studies in class 10. He is the eldest child in the family.'"
+      ]
+    }
+  ]
+}

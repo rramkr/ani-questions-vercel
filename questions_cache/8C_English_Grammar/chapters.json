@@ -1,0 +1,29 @@
+{
+  "subject": "8C English Grammar",
+  "chapters": [
+    {
+      "name": "Articles",
+      "slug": "Articles",
+      "has_questions": true,
+      "icon": "📝"
+    },
+    {
+      "name": "Adjectives",
+      "slug": "Adjectives",
+      "has_questions": true,
+      "icon": "📐"
+    },
+    {
+      "name": "Letter Writing",
+      "slug": "Letter Writing",
+      "has_questions": true,
+      "icon": "✉️"
+    },
+    {
+      "name": "Reading Comprehension",
+      "slug": "Reading Comprehension",
+      "has_questions": true,
+      "icon": "📖"
+    }
+  ]
+}

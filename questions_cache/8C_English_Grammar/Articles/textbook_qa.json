@@ -1,0 +1,504 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Articles",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "tqa001",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ BBC report",
+      "answer": "a BBC report",
+      "explanation": "BBC is pronounced starting with the consonant sound /b/ ('bee-bee-see'), so we use 'a'. The choice of article depends on the sound, not the letter."
+    },
+    {
+      "id": "tqa002",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ NSA employee",
+      "answer": "an NSA employee",
+      "explanation": "NSA is spelled out letter by letter as 'en-ess-ay'. The letter 'N' is pronounced 'en', which starts with the vowel sound /ɛ/. Since it begins with a vowel sound, we use 'an'. This follows the same rule as 'an NCC member' or 'an MBBS degree'."
+    },
+    {
+      "id": "tqa003",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ interesting quiz",
+      "answer": "an interesting quiz",
+      "explanation": "'Interesting' starts with the vowel sound /ɪ/, so we use 'an'. Before words beginning with a vowel sound, we always use 'an'."
+    },
+    {
+      "id": "tqa004",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ eucalyptus tree",
+      "answer": "a eucalyptus tree",
+      "explanation": "'Eucalyptus' starts with the sound /juː/ (like 'you'), which is a consonant sound (the 'y' sound). Words beginning with a 'yoo' sound take 'a', not 'an'."
+    },
+    {
+      "id": "tqa005",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ NASA spacecraft",
+      "answer": "a NASA spacecraft",
+      "explanation": "NASA is pronounced as a word ('nah-sah'), starting with the consonant sound /n/. Since it begins with a consonant sound, we use 'a'."
+    },
+    {
+      "id": "tqa006",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ umbrella",
+      "answer": "an umbrella",
+      "explanation": "'Umbrella' starts with the vowel sound /ʌ/ (as in 'uh'). Since it begins with a vowel sound, we use 'an'."
+    },
+    {
+      "id": "tqa007",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ NCC member",
+      "answer": "an NCC member",
+      "explanation": "NCC is spelled out as 'en-see-see'. The letter 'N' is pronounced 'en', which starts with the vowel sound /ɛ/. Since it begins with a vowel sound, we use 'an'."
+    },
+    {
+      "id": "tqa008",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ user",
+      "answer": "a user",
+      "explanation": "'User' starts with the sound /juː/ (like 'you'), which is a consonant sound (the 'y' sound). Just like 'uniform' or 'university', words starting with the 'yoo' sound take 'a'."
+    },
+    {
+      "id": "tqa009",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ MBBS degree",
+      "answer": "an MBBS degree",
+      "explanation": "MBBS is spelled out as 'em-bee-bee-ess'. The letter 'M' is pronounced 'em', which starts with the vowel sound /ɛ/. Since it begins with a vowel sound, we use 'an'."
+    },
+    {
+      "id": "tqa010",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ UV lamp",
+      "answer": "a UV lamp",
+      "explanation": "UV is spelled out as 'yoo-vee'. The letter 'U' is pronounced 'yoo', which starts with the consonant sound /j/ (the 'y' sound). Since it begins with a consonant sound, we use 'a'."
+    },
+    {
+      "id": "tqa011",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ honour",
+      "answer": "an honour",
+      "explanation": "'Honour' has a silent 'h', so it is pronounced starting with the vowel sound /ɒ/ (as in 'on-er'). When the 'h' is silent, the word effectively begins with a vowel sound, so we use 'an'."
+    },
+    {
+      "id": "tqa012",
+      "exercise": "A",
+      "question": "Fill in the blank with a or an: ______ one-rupee note",
+      "answer": "a one-rupee note",
+      "explanation": "'One' is pronounced starting with the consonant sound /w/ ('wun'). Even though 'o' is a vowel letter, the sound is what matters. Since it starts with a consonant sound, we use 'a'."
+    },
+    {
+      "id": "tqa013",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ United States",
+      "answer": "the United States",
+      "explanation": "We use 'the' before countries whose names contain words like 'States', 'Kingdom', 'Republic', or are in plural form. 'The United States' is a political name containing the word 'States'."
+    },
+    {
+      "id": "tqa014",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Canada",
+      "answer": "X Canada",
+      "explanation": "No article is used before names of individual countries (when used as a single proper noun). Canada is a single country name, not a political description."
+    },
+    {
+      "id": "tqa015",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Pacific Ocean",
+      "answer": "the Pacific Ocean",
+      "explanation": "We always use 'the' before names of oceans, seas, and rivers. The Pacific Ocean, the Atlantic Ocean, the Indian Ocean all take 'the'."
+    },
+    {
+      "id": "tqa016",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ South Africa",
+      "answer": "X South Africa",
+      "explanation": "No article is used before names of individual countries. Even though 'South' is a descriptor, 'South Africa' is a single country name (a proper noun), not a political description like 'the Republic of South Africa'."
+    },
+    {
+      "id": "tqa017",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ New York City",
+      "answer": "X New York City",
+      "explanation": "No article is used before names of individual cities. 'New York City' is a proper noun referring to a specific city."
+    },
+    {
+      "id": "tqa018",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Netherlands",
+      "answer": "the Netherlands",
+      "explanation": "We use 'the' before country names that are in plural form. 'The Netherlands' is a plural noun (literally 'the low lands'), so it always takes 'the'."
+    },
+    {
+      "id": "tqa019",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Alps",
+      "answer": "the Alps",
+      "explanation": "We use 'the' before names of mountain ranges (plural). 'The Alps', 'the Himalayas', 'the Andes' all take 'the'. Note: Individual peaks do NOT take 'the' (e.g., X Mount Everest)."
+    },
+    {
+      "id": "tqa020",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Punjab National Bank",
+      "answer": "X Punjab National Bank",
+      "explanation": "No article is used before names of banks, companies, and institutions that are proper nouns. 'Punjab National Bank' is the name of a specific institution."
+    },
+    {
+      "id": "tqa021",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Sea of Japan",
+      "answer": "the Sea of Japan",
+      "explanation": "We always use 'the' before names of seas. 'The Sea of Japan', 'the Arabian Sea', 'the Red Sea' all take 'the'."
+    },
+    {
+      "id": "tqa022",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Parliament Street",
+      "answer": "X Parliament Street",
+      "explanation": "No article is used before names of streets and roads. 'Parliament Street', 'Baker Street', 'MG Road' are all used without 'the'."
+    },
+    {
+      "id": "tqa023",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ CWG",
+      "answer": "X CWG",
+      "explanation": "CWG (Commonwealth Games) is an abbreviation used as a proper noun. Abbreviations of events and organizations used as names generally do not take 'the' when used informally."
+    },
+    {
+      "id": "tqa024",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Andaman Islands",
+      "answer": "the Andaman Islands",
+      "explanation": "We use 'the' before names of island groups (plural). 'The Andaman Islands', 'the Maldives', 'the Philippines' all take 'the'. Single islands do not (e.g., X Sri Lanka)."
+    },
+    {
+      "id": "tqa025",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Park Royal Hotel",
+      "answer": "the Park Royal Hotel",
+      "explanation": "We use 'the' before names of hotels. 'The Park Royal Hotel', 'the Taj Mahal Palace', 'the Hilton' all take 'the'."
+    },
+    {
+      "id": "tqa026",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Sarkars",
+      "answer": "the Sarkars",
+      "explanation": "We use 'the' before family surnames used in the plural to refer to the whole family. 'The Sarkars' means the Sarkar family."
+    },
+    {
+      "id": "tqa027",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Lake Victoria",
+      "answer": "X Lake Victoria",
+      "explanation": "No article is used before names of individual lakes when the word 'Lake' comes before the name. 'Lake Victoria', 'Lake Superior' do not take 'the'. However, if the format is reversed, we say 'the Victoria Lake'."
+    },
+    {
+      "id": "tqa028",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Park Street",
+      "answer": "X Park Street",
+      "explanation": "No article is used before names of streets. 'Park Street', 'Wall Street', 'Greams Road' are all used without 'the'."
+    },
+    {
+      "id": "tqa029",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Mount Rainier",
+      "answer": "X Mount Rainier",
+      "explanation": "No article is used before names of individual mountain peaks. 'Mount Rainier', 'Mount Everest', 'Mount Kilimanjaro' do not take 'the'. Note: Mountain ranges (plural) DO take 'the' (e.g., the Alps)."
+    },
+    {
+      "id": "tqa030",
+      "exercise": "B",
+      "question": "Use 'the' wherever required. Put X where no article is needed: ______ Zoology",
+      "answer": "X Zoology",
+      "explanation": "No article is used before names of academic subjects, languages, or fields of study when used in a general sense. 'Zoology', 'Mathematics', 'English' do not take 'the'."
+    },
+    {
+      "id": "tqa031",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): ______ pollution after Diwali causes a lot of respiratory diseases.",
+      "answer": "The pollution after Diwali causes a lot of respiratory diseases.",
+      "explanation": "We use 'the' here because we are talking about specific pollution — the pollution that occurs after Diwali. The phrase 'after Diwali' makes it particular/definite, so 'the' is required."
+    },
+    {
+      "id": "tqa032",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): ______ Tennis is my favourite sport.",
+      "answer": "X Tennis is my favourite sport.",
+      "explanation": "No article is used before names of sports and games when speaking in a general sense. 'Tennis', 'cricket', 'football' do not take 'the' when mentioned as activities."
+    },
+    {
+      "id": "tqa033",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): My brother plays ______ sitar at school concerts.",
+      "answer": "My brother plays the sitar at school concerts.",
+      "explanation": "We use 'the' before names of musical instruments when talking about playing them. 'Play the sitar', 'play the piano', 'play the guitar' all use 'the'."
+    },
+    {
+      "id": "tqa034",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): ______ English she spoke was quite fluent.",
+      "answer": "The English she spoke was quite fluent.",
+      "explanation": "We use 'the' here because we are referring to a specific instance of English — the English that she spoke. The clause 'she spoke' makes it particular. Compare: 'X English is a global language' (general)."
+    },
+    {
+      "id": "tqa035",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): We are good friends with ______ Mohantys next door.",
+      "answer": "We are good friends with the Mohantys next door.",
+      "explanation": "We use 'the' before family surnames in the plural to refer to the entire family. 'The Mohantys' means the Mohanty family who live next door."
+    },
+    {
+      "id": "tqa036",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): I plan to travel to ______ France and ______ Netherlands.",
+      "answer": "I plan to travel to X France and the Netherlands.",
+      "explanation": "France is a single country name and takes no article. The Netherlands takes 'the' because it is a plural country name (literally 'the low lands'). This sentence illustrates how the rule differs even within the same sentence."
+    },
+    {
+      "id": "tqa037",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): ______ Monday my aunt visited us was my birthday too.",
+      "answer": "The Monday my aunt visited us was my birthday too.",
+      "explanation": "We use 'the' here because we are referring to a specific Monday — the particular Monday on which the aunt visited. The clause 'my aunt visited us' modifies and specifies which Monday. Compare: 'X Monday is the first day of the week' (general)."
+    },
+    {
+      "id": "tqa038",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): ______ Sunday is a day to catch up with my hobbies.",
+      "answer": "X Sunday is a day to catch up with my hobbies.",
+      "explanation": "No article is used before days of the week when used in a general sense. Here, 'Sunday' refers to any Sunday in general, not a specific one."
+    },
+    {
+      "id": "tqa039",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): We use ______ escalator in shopping malls.",
+      "answer": "We use the escalator in shopping malls.",
+      "explanation": "We use 'the' when referring to something as a class or type of thing — here, 'the escalator' refers to escalators as a general invention or facility found in malls. This is 'the' used for a generic class of objects."
+    },
+    {
+      "id": "tqa040",
+      "exercise": "C",
+      "question": "Complete the sentence with 'the' or X (no article): India is located very close to ______ equator.",
+      "answer": "India is located very close to the equator.",
+      "explanation": "We use 'the' before unique geographical and scientific terms — things that are one of a kind. There is only one equator, so it always takes 'the'. Similarly: the sun, the moon, the earth, the North Pole."
+    },
+    {
+      "id": "tqa041",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: Dad and I had stopped at ______ petrol station to get some fuel in the car.",
+      "answer": "the",
+      "explanation": "We use 'the' because it refers to a specific petrol station — a particular one that the narrator stopped at. The context makes it definite."
+    },
+    {
+      "id": "tqa042",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: We were planning to go on ______ road trip.",
+      "answer": "a",
+      "explanation": "We use 'a' because 'road trip' starts with the consonant sound /r/, and it is being mentioned for the first time. It is an indefinite reference — just any road trip, not a specific one."
+    },
+    {
+      "id": "tqa043",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: ______ tank was almost empty.",
+      "answer": "The",
+      "explanation": "We use 'the' because the tank has already been implied — it is the fuel tank of the car mentioned in the previous sentence. When something is understood from context, we use 'the'."
+    },
+    {
+      "id": "tqa044",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: While we were in ______ queue...",
+      "answer": "the",
+      "explanation": "We use 'the' because it refers to a specific queue — the queue at the petrol station they were at. The context has already established where they are."
+    },
+    {
+      "id": "tqa045",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: ...______ woman in ______ car before ours got out of ______ car...",
+      "answer": "the, the, the",
+      "explanation": "All three use 'the': 'the woman' because she is specified by the phrase 'in the car before ours'; 'the car before ours' because it is identified by its position; 'the car' because it refers back to the same car already mentioned."
+    },
+    {
+      "id": "tqa046",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: ...and got into ______ argument with ______ staff.",
+      "answer": "an, the",
+      "explanation": "'An argument' uses 'an' because 'argument' starts with the vowel sound /ɑː/ and it is mentioned for the first time (indefinite). 'The staff' uses 'the' because it refers to the specific staff at that petrol station."
+    },
+    {
+      "id": "tqa047",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: She was upset about ______ rise in petrol price.",
+      "answer": "the",
+      "explanation": "We use 'the' because it refers to a specific rise in price — the particular price increase that caused the argument. It is a definite reference."
+    },
+    {
+      "id": "tqa048",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: She said ______ fill normally cost her ______ thousand rupees.",
+      "answer": "a, a",
+      "explanation": "Both use 'a': 'a fill' refers to any single fill-up (indefinite, consonant sound /f/); 'a thousand' is an expression meaning 'one thousand' where 'a' means 'one' (consonant sound /θ/)."
+    },
+    {
+      "id": "tqa049",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: ______ staff pointed at ______ sign which announced ______ new rate.",
+      "answer": "The, the, the",
+      "explanation": "'The staff' — specific staff already mentioned. 'The sign' — a specific sign at the station (definite). 'The new rate' — the specific new rate that was announced. All are definite references."
+    },
+    {
+      "id": "tqa050",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: Amid all ______ chaos that followed, ______ staff attending to me was distracted...",
+      "answer": "the, the",
+      "explanation": "'The chaos' — the specific chaos caused by the argument. 'The staff attending to me' — a specific staff member identified by the phrase 'attending to me'. Both are definite references."
+    },
+    {
+      "id": "tqa051",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: ...he had pressed ______ lever without inserting ______ nozzle into ______ petrol tank.",
+      "answer": "the, the, the",
+      "explanation": "'The lever' — the specific lever on the fuel pump. 'The nozzle' — the specific nozzle attached to the pump. 'The petrol tank' — the tank of the narrator's car. All are definite, specific items in context."
+    },
+    {
+      "id": "tqa052",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: What ______ mess ______ flowing petrol created!",
+      "answer": "a, the",
+      "explanation": "'A mess' — uses 'a' in the exclamatory construction 'What a mess!' (indefinite article in exclamations). 'The flowing petrol' — the specific petrol that was flowing from the nozzle."
+    },
+    {
+      "id": "tqa053",
+      "exercise": "D",
+      "question": "Fill in the blank with a, an, or the: Thankfully, it did not cause ______ fire.",
+      "answer": "a",
+      "explanation": "We use 'a' because 'fire' starts with the consonant sound /f/ and it refers to any potential fire (indefinite). The fire did not actually happen, so it remains non-specific."
+    },
+    {
+      "id": "tqa054",
+      "exercise": "E",
+      "question": "Insert a, an, or the wherever required: Tailgating is ______ act of driving too close to ______ vehicle in front of you.",
+      "answer": "the, a",
+      "explanation": "'The act' — we use 'the' because it defines a specific act (the act of tailgating). 'A vehicle' — uses 'a' because it refers to any vehicle in general (indefinite, consonant sound /v/)."
+    },
+    {
+      "id": "tqa055",
+      "exercise": "E",
+      "question": "Insert a, an, or the wherever required: This is ______ safety problem as it becomes difficult to avoid ______ collision when you are too close to ______ vehicle.",
+      "answer": "a, a, a",
+      "explanation": "All three use 'a': 'a safety problem' (one of many possible problems, consonant sound /s/); 'a collision' (any collision, consonant sound /k/); 'a vehicle' (any vehicle, consonant sound /v/). All are indefinite references."
+    },
+    {
+      "id": "tqa056",
+      "exercise": "E",
+      "question": "Insert a, an, or the wherever required: It is important to maintain ______ safe distance between two vehicles, especially when one is driving at ______ speed.",
+      "answer": "a, a",
+      "explanation": "'A safe distance' — refers to any appropriate distance (indefinite, consonant sound /s/). 'A speed' — refers to some speed in general, used in the expression 'at a speed' (consonant sound /s/)."
+    },
+    {
+      "id": "tqa057",
+      "exercise": "E",
+      "question": "Insert a, an, or the wherever required: At ______ slow speed, one length of ______ car is ______ ideal distance between vehicles.",
+      "answer": "a, a, the",
+      "explanation": "'A slow speed' — any slow speed (indefinite, consonant sound /s/). 'A car' — any car (indefinite, consonant sound /k/). 'The ideal distance' — 'the' is used because it specifies THE ideal (one particular standard), made definite by the word 'ideal'."
+    },
+    {
+      "id": "tqa058",
+      "exercise": "E",
+      "question": "Insert a, an, or the wherever required: ______ greater ______ speed, ______ longer should be ______ distance between vehicles.",
+      "answer": "The, the, the, the",
+      "explanation": "This is the comparative structure 'The + comparative ... the + comparative' (The greater the speed, the longer the distance). In this fixed pattern, 'the' is used before each comparative adjective and its noun."
+    },
+    {
+      "id": "tqa059",
+      "exercise": "E",
+      "question": "Insert a, an, or the wherever required: This allows space and time to react in case ______ driver ahead suddenly applies ______ brake.",
+      "answer": "the, the",
+      "explanation": "'The driver ahead' — refers to a specific driver, made definite by the word 'ahead' (the one driving in front). 'The brake' — refers to the specific brake pedal in the vehicle. Both are definite references identified by context."
+    },
+    {
+      "id": "tqa060",
+      "exercise": "Assessment 1 - D",
+      "question": "[Determiners] Fill in the blanks using the determiners from the brackets:\nCoconut water is becoming ______ popular drink for ______ people of India. It is ______ clear liquid found inside ______ fresh green coconut. It is also found in ______ mature coconuts though in a smaller quantity. ______ water of ______ green coconut has more health benefits than ______ meat or the milk of ______ mature coconut. (a, the)",
+      "answer": "a, the, a, a, the, The, a, the, a",
+      "explanation": "'a popular drink' (introducing for the first time), 'the people of India' (specific group), 'a clear liquid' (describing what it is), 'a fresh green coconut' (any fresh green coconut), 'the mature coconuts' (specific type being contrasted), 'The water of' (specific water), 'a green coconut' (any green coconut in general), 'the meat' (specific part of the coconut), 'a mature coconut' (any mature coconut in general)."
+    },
+    {
+      "id": "tqa061",
+      "exercise": "Assessment 1 - D",
+      "question": "[Determiners] Fill in the blanks using the determiners from the brackets:\n______ album has ______ pictures of ______ family and ______ people who are related to ______ family in ______ way. (the, this, any)",
+      "answer": "This, the, the, the, the, any",
+      "explanation": "'This album' (demonstrative, referring to a specific album), 'the pictures' (specific pictures in the album), 'the family' (a specific family), 'the people' (specific people related to the family), 'the family' (the same specific family), 'any way' (in whatever way)."
+    },
+    {
+      "id": "tqa062",
+      "exercise": "Assessment 1 - D",
+      "question": "[Determiners] Fill in the blanks using the determiners from the brackets:\n______ dog had ______ patience with ______ cat till it was time for ______ meal. ______ dog would growl if she came near his food bowl. But, the cat would not care for the growls and purr around him. ______ patience that the dog showed then was all for the fear of his master. (the little, little, the, our, their)",
+      "answer": "The, little, the, their, The, The little",
+      "explanation": "'The dog' (specific dog being discussed), 'little patience' (quantifier meaning 'not much'), 'the cat' (specific cat), 'their meal' (possessive, the meal belonging to the pets), 'The dog' (specific dog), 'The little patience' (the small amount of patience that existed — 'the little' means 'the small amount that was there')."
+    },
+    {
+      "id": "tqa063",
+      "exercise": "Assessment 1 - D",
+      "question": "[Determiners] Fill in the blanks using the determiners from the brackets:\n______ days I am ______ tense about ______ future. I miss ______ days when there was ______ worry despite ______ work. (little, those, a little, lots of, these, my)",
+      "answer": "These, a little, my, those, little, lots of",
+      "explanation": "'These days' (present time, demonstrative), 'a little tense' (slightly tense — 'a little' has a positive sense meaning 'some'), 'my future' (possessive), 'those days' (past time, demonstrative), 'little worry' (hardly any worry — 'little' has a negative sense meaning 'almost none'), 'lots of work' (quantifier meaning a large amount)."
+    },
+    {
+      "id": "tqa064",
+      "exercise": "Assessment 1 - D",
+      "question": "[Determiners] Fill in the blanks using the determiners from the brackets:\nWe begin by learning from ______ parents. Gradually, ______ world opens up beyond ______ walls of ______ house and ______ more learning starts. ______ independence grows through ______ school years and then, comes a time when we have to take responsibility for ______ acts. Especially, those who move out of ______ house, slowly realise ______ worth of their parents. (their, some, the, our)",
+      "answer": "our, the, the, our, some, Our, the, our, their, the",
+      "explanation": "'our parents' (possessive), 'the world' (specific, the entire world), 'the walls' (specific walls), 'our house' (possessive), 'some more learning' (quantifier), 'Our independence' (possessive), 'the school years' (specific period), 'our acts' (possessive), 'their house' (possessive, referring to 'those who'), 'the worth' (specific worth)."
+    },
+    {
+      "id": "tqa065",
+      "exercise": "Assessment 1 - D",
+      "question": "[Determiners] Fill in the blanks using the determiners from the brackets:\n______ people are educated in this country, so they are not aware of their rights under the constitution. ______ who are aware do not want to get involved with legal procedures. ______ who speak up for their rights do get heard. (few, the few, a few)",
+      "answer": "Few, The few, A few",
+      "explanation": "'Few people' (negative meaning — not many people are educated, which is a problem), 'The few who are aware' (the specific small group that is aware), 'A few who speak up' (some people, positive meaning — at least some do speak up and they get heard). Note: 'few' = hardly any (negative), 'a few' = some (positive), 'the few' = the specific small number."
+    },
+    {
+      "id": "tqa066",
+      "exercise": "Everyday Grammar - 3",
+      "question": "[Articles] Fill in the blanks with a, an or the:\nLet us make ______ vegetarian salad. For ______ salad, you will need ______ assortment of some chopped lettuce, ______ big tomato, a cucumber, and some chopped bell pepper, along with ______ handful of chickpeas and feta cheese. Drizzle with olive oil, lemon juice, orange juice and a pinch of salt. Toss to mix everything. Garnish with olives and serve immediately for ______ delicious and healthy vegetarian salad.",
+      "answer": "a, the, an, a, a, a",
+      "explanation": "'a vegetarian salad' (first mention, introducing), 'the salad' (now specific, already mentioned), 'an assortment' (vowel sound), 'a big tomato' (one of many), 'a handful' (consonant sound), 'a delicious and healthy vegetarian salad' (describing the final result as one salad)."
+    },
+    {
+      "id": "tqa067",
+      "exercise": "Everyday Grammar - 4",
+      "question": "[Determiners] Identify all the determiners in the following sentence:\nThat restaurant served all the cuisines they wanted to try.",
+      "answer": "That, all, the",
+      "explanation": "'That' is a demonstrative determiner (pointing to a specific restaurant), 'all' is a predeterminer (indicating totality), 'the' is a definite article (specifying which cuisines)."
+    },
+    {
+      "id": "tqa068",
+      "exercise": "Everyday Grammar - 4",
+      "question": "[Determiners] Identify all the determiners in the following sentence:\nBoth Noori and Jaya listened to Arif with excitement.",
+      "answer": "Both",
+      "explanation": "'Both' is a predeterminer that refers to two specific people (Noori and Jaya). There are no other determiners in this sentence."
+    },
+    {
+      "id": "tqa069",
+      "exercise": "Everyday Grammar - 4",
+      "question": "[Determiners] Identify all the determiners in the following sentence:\nI have had enough dimsums and a few spring rolls.",
+      "answer": "enough, a few",
+      "explanation": "'Enough' is a quantifier determiner (indicating a sufficient quantity of dimsums), 'a few' is a quantifier determiner (indicating a small number of spring rolls)."
+    },
+    {
+      "id": "tqa070",
+      "exercise": "Everyday Grammar - 4",
+      "question": "[Determiners] Identify all the determiners in the following sentence:\nPlease try some soup; it's perfect for this weather.",
+      "answer": "some, this",
+      "explanation": "'Some' is a quantifier determiner (indicating an unspecified amount of soup), 'this' is a demonstrative determiner (pointing to the current weather)."
+    },
+    {
+      "id": "tqa071",
+      "exercise": "Everyday Grammar - 4",
+      "question": "[Determiners] Identify all the determiners in the following sentence:\nEach guest was given a complementary drink.",
+      "answer": "Each, a",
+      "explanation": "'Each' is a distributive determiner (referring to every individual guest), 'a' is an indefinite article (introducing one unspecified drink per guest)."
+    }
+  ]
+}

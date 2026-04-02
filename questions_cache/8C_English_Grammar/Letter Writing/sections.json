@@ -1,0 +1,17 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Letter Writing",
+  "sections": {
+    "textbook": [
+      {"value": "notes", "label": "Format Notes", "icon": "📒"},
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+    ],
+    "exam": [
+      {"value": "exam_practice", "label": "Exam Practice", "icon": "✍️"}
+    ],
+    "miscellaneous": [
+      {"value": "7c_classwork_letters", "label": "7C Classwork Letters", "icon": "📝"},
+      {"value": "7c_additional_letters", "label": "7C Additional Letters", "icon": "📄"}
+    ]
+  }
+}

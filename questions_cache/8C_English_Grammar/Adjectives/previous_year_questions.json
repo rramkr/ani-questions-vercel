@@ -1,0 +1,111 @@
+{
+  "subject": "8C English Grammar",
+  "chapter": "Adjectives",
+  "question_type": "previous_year_questions",
+  "questions": [
+    {
+      "id": "pyq001",
+      "question": "Fill in the blank with the correct form: It was ______ (embarrass) for Reeta to hear herself praised in public.",
+      "answer": "embarrassing",
+      "explanation": "We use the present participle 'embarrassing' because it describes the EFFECT of the experience on Reeta. The situation caused embarrassment, so it was embarrassing.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq002",
+      "question": "Fill in the blank with the correct form: The children were ______ (amuse) by the puppet show they saw yesterday.",
+      "answer": "amused",
+      "explanation": "We use the past participle 'amused' because the children experienced the feeling. They were the ones who felt amusement, so they were amused.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq003",
+      "question": "Fill in the blank with the correct form: Ashna told me a ______ (move) story about her childhood.",
+      "answer": "moving",
+      "explanation": "We use the present participle 'moving' because the story had the effect of moving (emotionally affecting) the listener. The story causes the emotion, so it is moving.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq004",
+      "question": "Fill in the blank with the correct form: Abdul is ______ (courageous) than Karim.",
+      "answer": "more courageous",
+      "explanation": "Adjectives with three or more syllables form the comparative by adding 'more' before them. 'Courageous' has three syllables, so the comparative is 'more courageous'.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq005",
+      "question": "Fill in the blank with the correct form: How is your brother today? Is he ______ ? (good)",
+      "answer": "better",
+      "explanation": "'Good' has an irregular comparative form: good \u2192 better \u2192 best. Since we are comparing his condition today with before, we use the comparative 'better'.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq006",
+      "question": "Fill in the blank with the correct form: Hari is the ______ (idle) boy in the class.",
+      "answer": "idlest",
+      "explanation": "'The ... in the class' indicates the superlative degree. 'Idle' ends in -e, so we add -st to form 'idlest'. (Some accept 'most idle' as well.)",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq007",
+      "question": "Fill in the blank with the correct form: Your knife is sharp, but mine is ______ (sharp).",
+      "answer": "sharper",
+      "explanation": "Two things are being compared (your knife and mine), so we use the comparative degree. 'Sharp' is a short adjective, so we add '-er' to form 'sharper'.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq008",
+      "question": "Fill in the blank with the correct form: Iron is a very ______ (useful) metal indeed.",
+      "answer": "useful",
+      "explanation": "No comparison is being made here. The word 'very' modifies the positive degree of the adjective. So we simply use the adjective 'useful' in its positive form.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq009",
+      "question": "Fill in the blank with the correct form: What a ______ (fascinate) story!",
+      "answer": "fascinating",
+      "explanation": "We use the present participle 'fascinating' because the story causes fascination. The -ing form describes the thing that produces the feeling.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq010",
+      "question": "Fill in the blank with the correct form: All the people looked ______ (worry) as they sat waiting for news.",
+      "answer": "worried",
+      "explanation": "We use the past participle 'worried' because the people experienced the feeling of worry. The -ed form describes the person who feels the emotion.",
+      "year": "First Terminal Exam, July 2024",
+      "marks": 0.5
+    },
+    {
+      "id": "pyq011",
+      "question": "Fill in the blank with the correct degree: The day 15th August 1947 will be remembered as the ______ (memorable) day in the history of India.",
+      "answer": "most memorable",
+      "explanation": "'The ... in the history of India' indicates the superlative degree. 'Memorable' has four syllables, so the superlative is formed by adding 'most' before it: 'most memorable'.",
+      "year": "Annual Exam, February 2021",
+      "marks": 1
+    },
+    {
+      "id": "pyq012",
+      "question": "Fill in the blank with the correct degree: There was nothing ______ (good) than the pizza I ate.",
+      "answer": "better",
+      "explanation": "'Good' has an irregular comparative form: good \u2192 better \u2192 best. The word 'than' signals a comparison, so we use the comparative 'better'.",
+      "year": "Annual Exam, February 2021",
+      "marks": 1
+    },
+    {
+      "id": "pyq013",
+      "question": "Fill in the blank with the correct degree: There were ______ (few) people at the venue than expected.",
+      "answer": "fewer",
+      "explanation": "'Few' has an irregular comparative form: few \u2192 fewer \u2192 fewest. The word 'than' signals a comparison, so we use the comparative 'fewer'. Note: 'fewer' is used for countable nouns (people), while 'less' is used for uncountable nouns.",
+      "year": "Annual Exam, February 2021",
+      "marks": 1
+    }
+  ]
+}
