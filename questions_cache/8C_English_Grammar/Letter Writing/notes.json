@@ -7,7 +7,7 @@
     {
       "id": "sec1",
       "title": "Format of an Informal / Friendly Letter",
-      "content": "An informal letter is written to someone you know personally, such as a parent, sibling, cousin, grandparent, or close friend. The tone is warm, personal, and emotional. You can express your feelings freely and use a conversational style.\n\nThe format of an informal letter follows a specific structure that you must memorise for exams. Here is the complete format:\n\n**Sender's Address** (top right or left corner):\nHouse No., Street Name,\nArea/Locality,\nCity – Pin Code.\n\n**Date** (below the address):\nWrite the full date, e.g., 2nd April, 2026.\n\n**Greeting/Salutation**:\nUse 'My dear ______' for family members (My dear Amma, My dear Prahlad). Use 'Dear ______' for friends (Dear Yohann).\n\n**Body** (2-3 paragraphs):\nParagraph 1: Enquire about the person's well-being.\nParagraph 2: The main content — express your feelings, share news, give advice, or invite.\nParagraph 3: Conclusion — take words from the question to close naturally.\n\n**Closing**:\nFor family: 'Your loving son/daughter/brother/sister' or 'Yours affectionately'\nFor friends: 'Yours lovingly' or 'Your loving friend'\n\n**Signature**:\nSign with your FIRST NAME only (not full name).",
+      "content": "An informal letter is written to someone you know personally, such as a parent, sibling, cousin, grandparent, or close friend. The tone is warm, personal, and emotional. You can express your feelings freely and use a conversational style.\n\nThe format of an informal letter follows a specific structure that you must memorise for exams. Here is the complete format:\n\n**Sender's Address** (top right or left corner):\nHouse No., Street Name,\nArea/Locality,\nCity – Pin Code.\n\n**Date** (below the address):\nWrite the full date, e.g., 2nd April, 2026.\n\n**Greeting/Salutation**:\nUse 'My dear ______' for family members (My dear Mother, My dear Prahlad). Use 'Dear ______' for friends (Dear Yohann).\n\n**Body** (2-3 paragraphs):\nParagraph 1: Enquire about the person's well-being.\nParagraph 2: The main content — express your feelings, share news, give advice, or invite.\nParagraph 3: Conclusion — take words from the question to close naturally.\n\n**Closing**:\nFor family: 'Your loving son/daughter/brother/sister' or 'Yours affectionately'\nFor friends: 'Yours lovingly' or 'Your loving friend'\n\n**Signature**:\nSign with your FIRST NAME only (not full name).",
       "key_terms": [
         {
           "term": "Informal letter",
@@ -29,7 +29,7 @@
           "rows": [
             ["Sender's Address", "Your home address (top)", "16/8, 22nd Cross Street,\nIndira Nagar, Adyar,\nChennai – 600020."],
             ["Date", "Full date below address", "2nd April, 2026"],
-            ["Greeting", "'My dear ___' (family) / 'Dear ___' (friends)", "My dear Amma, / Dear Yohann,"],
+            ["Greeting", "'My dear ___' (family) / 'Dear ___' (friends)", "My dear Mother, / Dear Yohann,"],
             ["Body", "2-3 paragraphs with personal touch", "Enquiry + Main content + Conclusion"],
             ["Closing", "Warm sign-off", "Your loving son, / Yours lovingly,"],
             ["Signature", "First name ONLY", "Anirudh"]
@@ -41,7 +41,7 @@
         "Always use 'My dear' (not just 'Dear') when writing to family members like parents, grandparents, or siblings. 'Dear' alone is used for friends."
       ],
       "examples": [
-        "GREETING FOR MOTHER: 'My dear Amma,' — Use 'My dear' for family. WRONG: 'Dear Amma' (too formal for a mother).",
+        "GREETING FOR MOTHER: 'My dear Mother,' — Use 'My dear' for family. WRONG: 'Dear Mother' (too formal for a mother).",
         "GREETING FOR FRIEND: 'Dear Yohann,' — Use 'Dear' for friends. WRONG: 'My dear Yohann' (too intimate for a friend).",
         "CLOSING FOR FAMILY: 'Your loving son, Anirudh' — First name only. WRONG: 'Anirudh Ramkumar' (full name is for formal letters).",
         "CLOSING FOR FRIEND: 'Yours lovingly, Anirudh' or 'Your loving friend, Anirudh'.",
@@ -183,7 +183,7 @@
         "In exams, students often lose marks for mixing up informal and formal formats — like writing 'My dear Sir' (which mixes informal greeting with formal recipient) or signing a formal letter with just the first name."
       ],
       "examples": [
-        "INFORMAL GREETING: 'My dear Amma,' — For mother. Uses 'My dear' + first name/relation.",
+        "INFORMAL GREETING: 'My dear Mother,' — For mother. Uses 'My dear' + first name/relation.",
         "FORMAL GREETING: 'Dear Madam,' — For Principal. Uses 'Dear' + 'Madam/Sir'.",
         "INFORMAL CLOSING: 'Your loving son, Anirudh' — First name only.",
         "FORMAL CLOSING: 'Thanking you, Yours truly, Anirudh Ramkumar' — Full name.",
