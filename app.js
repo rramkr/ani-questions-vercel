@@ -724,7 +724,7 @@ async function loadQuestions(type, offset = 0, isTextbookSection = false) {
     }
 
     // Handle comprehension passages type separately
-    if (type.value === 'passages' || type.value === 'exam_passages' || type.value === 'additional_passages') {
+    if (type.value === 'passages' || type.value === 'exam_passages' || type.value === 'additional_passages' || type.value.includes('passages')) {
         await loadComprehensionPassages(type);
         showLoading(false);
         return;

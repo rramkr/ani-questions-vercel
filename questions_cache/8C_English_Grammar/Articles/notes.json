@@ -42,7 +42,13 @@
       ],
       "examples": [
         "First mention vs. known noun: 'I bought a book yesterday. The book is very interesting.' In the first sentence, 'a book' is used because it is mentioned for the first time. In the second sentence, 'the book' is used because we now know which book is being talked about.",
-        "'Any' meaning: 'Can you pass me a pen?' Here, 'a pen' means any pen, not a specific one."
+        "'Any' meaning: 'Can you pass me a pen?' Here, 'a pen' means any pen, not a specific one.",
+        "First mention: 'A boy was standing at the gate.' (We do not know which boy — mentioned for the first time.)",
+        "Known noun: 'The boy waved at us.' (Now we know which boy — the one at the gate.)",
+        "'One' meaning: 'I would like a cup of tea.' (meaning one cup)",
+        "'Any' meaning: 'Is there a doctor in the room?' (meaning any doctor, not a specific one)",
+        "Definite: 'Please close the door.' (There is only one door in the room — both speaker and listener know which one.)",
+        "Indefinite: 'She saw a dog on the road. The dog was limping.' (First sentence introduces the dog; second sentence refers back to it.)"
       ]
     },
     {
@@ -93,11 +99,27 @@
       "examples": [
         "CORRECT: 'She is an honest teacher.' (silent H, vowel sound)",
         "CORRECT: 'He waited for an hour.' (silent H, vowel sound)",
+        "CORRECT: 'He is an heir to the throne.' (silent H, vowel sound)",
+        "CORRECT: 'It is an honour to meet you.' (silent H, vowel sound)",
         "CORRECT: 'India is a UN member.' (U sounds like /yoo/, consonant sound)",
+        "CORRECT: 'He wore a uniform to school.' (U sounds like /yoo/, consonant sound)",
+        "CORRECT: 'She goes to a university in Delhi.' (U sounds like /yoo/, consonant sound)",
+        "CORRECT: 'It was a useful tool.' (U sounds like /yoo/, consonant sound)",
         "CORRECT: 'It was a one-day match.' ('one' starts with /w/ sound)",
+        "CORRECT: 'He is a one-eyed pirate.' ('one' starts with /w/ sound)",
+        "CORRECT: 'She ate a European dish.' (E sounds like /yoo/, consonant sound)",
         "CORRECT: 'He received an MLA's letter.' (M is pronounced /em/, vowel sound)",
-        "WRONG: 'He is a honest person.' (should be 'an honest person')",
-        "WRONG: 'She saw an UFO.' (should be 'a UFO')"
+        "CORRECT: 'She sent an SOS signal.' (S is pronounced /es/, vowel sound)",
+        "CORRECT: 'He drives an SUV.' (S is pronounced /es/, vowel sound)",
+        "CORRECT: 'She received an X-ray.' (X is pronounced /eks/, vowel sound)",
+        "CORRECT: 'NASA is a space agency.' (NASA is an acronym, pronounced as one word /na-sa/, consonant sound)",
+        "CORRECT: 'An NBA player visited our school.' (N is pronounced /en/, vowel sound)",
+        "CORRECT: 'He bought an umbrella.' (U sounds like the vowel /uh/)",
+        "CORRECT: 'She is a herbalist.' (H is pronounced in 'herbalist', consonant sound)",
+        "WRONG: 'He is a honest person.' (should be 'an honest person' — silent H)",
+        "WRONG: 'She saw an UFO.' (should be 'a UFO' — U sounds like /yoo/)",
+        "WRONG: 'He is an unique boy.' (should be 'a unique boy' — U sounds like /yoo/)",
+        "WRONG: 'She ate an European cake.' (should be 'a European cake' — E sounds like /yoo/)"
       ]
     },
     {
@@ -130,7 +152,14 @@
       "examples": [
         "'The university' is pronounced 'thuh university' (because U sounds like /yoo/, a consonant sound).",
         "'The umbrella' is pronounced 'thee umbrella' (because U here sounds like the vowel /uh/).",
-        "'The hour' is pronounced 'thee hour' (because the H is silent, making the first sound a vowel)."
+        "'The hour' is pronounced 'thee hour' (because the H is silent, making the first sound a vowel).",
+        "'The book' is pronounced 'thuh book' (B is a consonant sound).",
+        "'The elephant' is pronounced 'thee elephant' (E is a vowel sound).",
+        "'The orange' is pronounced 'thee orange' (O is a vowel sound).",
+        "'The car' is pronounced 'thuh car' (C is a consonant sound).",
+        "'The ice cream' is pronounced 'thee ice cream' (I is a vowel sound).",
+        "'The uniform' is pronounced 'thuh uniform' (U sounds like /yoo/, consonant sound — same trick as a/an).",
+        "'The honest man' is pronounced 'thee honest man' (silent H, vowel sound)."
       ]
     },
     {
@@ -168,12 +197,32 @@
       ],
       "examples": [
         "Rule 1: 'Mount Everest is the highest peak in the world.' (superlative 'highest')",
+        "Rule 1: 'She is the most talented singer in the choir.' (superlative 'most talented')",
+        "Rule 1: 'This is the best restaurant in Chennai.' (superlative 'best')",
+        "Rule 1: 'He is the smartest boy in the class.' (superlative 'smartest')",
         "Rule 2: 'The earth revolves around the sun.' (unique objects)",
+        "Rule 2: 'The moon looks beautiful tonight.' (one of a kind)",
+        "Rule 2: 'Ships cross the equator during long voyages.' (unique geographical line)",
+        "Rule 2: 'The sky turned orange at sunset.' (unique — there is only one sky)",
         "Rule 3: 'Did you read the newspaper this morning?' (everyday use)",
+        "Rule 3: 'I heard the news on the radio.' (everyday use)",
+        "Rule 3: 'She searched for it on the Internet.' (everyday use)",
+        "Rule 3: 'He takes the Metro to work every day.' (everyday use)",
         "Rule 4: 'The government should help the poor.' (adjective representing a whole group)",
+        "Rule 4: 'The young must respect the elderly.' (adjective as class noun)",
+        "Rule 4: 'The rich and the poor live side by side.' (adjective as class noun)",
+        "Rule 4: 'The French are known for their cuisine.' (nationality as class noun)",
         "Rule 5: 'The Prime Minister addressed the nation.' (well-known position)",
+        "Rule 5: 'The Chief Justice delivered the judgement.' (well-known position)",
+        "Rule 5: 'The President visited the school.' (well-known position)",
+        "Rule 5: 'The Commander led the troops bravely.' (well-known position)",
         "Rule 6: 'She has visited the United Kingdom twice.' (country name with common noun)",
-        "Rule 7: 'The Maldives is a popular tourist destination.' (plural country name)"
+        "Rule 6: 'The Republic of Ireland is a beautiful country.' (country name with 'Republic')",
+        "Rule 6: 'He moved to the United States of America.' (country name with 'States')",
+        "Rule 7: 'The Maldives is a popular tourist destination.' (plural country name)",
+        "Rule 7: 'The Netherlands is famous for its tulips.' (plural country name)",
+        "Rule 7: 'The Philippines has over 7,000 islands.' (plural country name)",
+        "Rule 7: 'The Hawaiian Islands are in the Pacific Ocean.' (group of islands)"
       ]
     },
     {
@@ -209,13 +258,31 @@
         "Interestingly, we say 'play the piano' (with 'the') but 'play cricket' (without 'the'). Musical instruments take 'the', but sports do not!"
       ],
       "examples": [
-        "Rule 8: 'The Ganges flows through several states in India.' (river)",
-        "Rule 9: 'The Himalayas are the highest mountain range in the world.' (mountain range)",
-        "Rule 10: 'We visited the Taj Mahal during our trip to Agra.' (famous building)",
-        "Rule 11: 'Who invented the telephone?' (invention)",
-        "Rule 11: 'Anirudh plays the mridangam beautifully.' (musical instrument)",
-        "Rule 12: 'The Kapoors are a famous Bollywood family.' (family reference)",
-        "Rule 13: 'I read an article in The Hindu today.' (newspaper)"
+        "Rule 8: 'The Ganges flows through several states in India.' — The Ganges is a specific, well-known river, so it takes 'the'.",
+        "Rule 8: 'The Nile is the longest river in Africa.' — All rivers take 'the'.",
+        "Rule 8: 'Ships sail across the Arabian Sea.' — All seas take 'the'.",
+        "Rule 8: 'The Pacific Ocean is the largest ocean on Earth.' — All oceans take 'the'.",
+        "Rule 9: 'The Himalayas are the highest mountain range in the world.' — Mountain ranges (groups of mountains) take 'the'.",
+        "Rule 9: 'The Western Ghats run along the west coast of India.' — A chain of mountains, so 'the' is used.",
+        "Rule 9: 'The Sahara Desert is in Africa.' — Deserts take 'the'.",
+        "Rule 9: 'The Thar Desert is in Rajasthan.' — Deserts always take 'the'.",
+        "Rule 10: 'We visited the Taj Mahal during our trip to Agra.' — A famous, well-known building takes 'the'.",
+        "Rule 10: 'The Howrah Bridge is an iconic landmark in Kolkata.' — Famous bridges take 'the'.",
+        "Rule 10: 'She studied at the IIT.' — Well-known institutes take 'the'.",
+        "Rule 10: 'The British Museum has a vast collection of artefacts.' — Famous museums take 'the'.",
+        "Rule 10: 'They stayed at the Savoy Hotel.' — Well-known hotels take 'the'.",
+        "Rule 10: 'We took the children to the Mysore Zoo.' — Famous zoos take 'the'.",
+        "Rule 11: 'Who invented the telephone?' — When referring to an invention as a category, use 'the'.",
+        "Rule 11: 'The wheel changed human civilisation forever.' — Inventions take 'the' when spoken of generally.",
+        "Rule 11: 'Anirudh plays the mridangam beautifully.' — Musical instruments take 'the' when we talk about playing them.",
+        "Rule 11: 'She is learning the piano.' — Musical instruments always take 'the'.",
+        "Rule 11: 'He plays the guitar in a band.' — Musical instruments take 'the'.",
+        "Rule 12: 'The Kapoors are a famous Bollywood family.' — When referring to the whole family using the surname in plural, use 'the'.",
+        "Rule 12: 'The Sharmas live next door to us.' — The family as a unit takes 'the'.",
+        "Rule 12: 'The Wilsons are coming for dinner.' — Plural family name takes 'the'.",
+        "Rule 13: 'I read an article in The Hindu today.' — 'The' is part of the newspaper's official name.",
+        "Rule 13: 'He subscribes to The Times of India.' — Newspapers always take 'the'.",
+        "Rule 13: 'She works for The Economic Times.' — 'The' is capitalised because it is part of the publication's name."
       ]
     },
     {
@@ -265,11 +332,30 @@
         "Sports never take 'the' in English, but musical instruments always do. So you 'play cricket' but 'play the guitar'. This confuses many students!"
       ],
       "examples": [
-        "CORRECT: 'Anirudh plays cricket at school.' (sport, no 'the')",
-        "CORRECT: 'Anirudh plays the mridangam after school.' (instrument, needs 'the')",
-        "CORRECT: 'Mount Everest is in the Himalayas.' (individual mountain: no 'the'; mountain range: needs 'the')",
-        "CORRECT: 'Lake Chilika is beautiful.' (lake with 'Lake', no 'the')",
-        "CORRECT: 'The Ganges is a sacred river.' (river, needs 'the')"
+        "Rule 1: CORRECT: 'Rahul is a good student.' — No 'the' before a person's name. WRONG: 'The Rahul is a good student.'",
+        "Rule 1: CORRECT: 'Priya won the competition.' — No 'the' before her name. WRONG: 'The Priya won the competition.'",
+        "Rule 2: CORRECT: 'India is a beautiful country.' — No 'the' before country names (unless they contain common nouns). WRONG: 'The India is beautiful.'",
+        "Rule 2: CORRECT: 'Chennai is the capital of Tamil Nadu.' — No 'the' before city or state names. WRONG: 'The Chennai is the capital of the Tamil Nadu.'",
+        "Rule 2: CORRECT: 'She lives on Baker Street.' — No 'the' before street names. WRONG: 'She lives on the Baker Street.'",
+        "Rule 2: CORRECT: 'Africa is the second largest continent.' — No 'the' before continent names. WRONG: 'The Africa is the second largest continent.'",
+        "Rule 3: CORRECT: 'We have a holiday on Monday.' — No 'the' before days of the week (general). WRONG: 'We have a holiday on the Monday.'",
+        "Rule 3: CORRECT: 'It rains a lot in July.' — No 'the' before months (general). WRONG: 'The July is very hot.'",
+        "Rule 3: CORRECT: 'Flowers bloom in spring.' — No 'the' before seasons (general). WRONG: 'Flowers bloom in the spring.'",
+        "Rule 4: CORRECT: 'She speaks French fluently.' — No 'the' before language names (general). WRONG: 'She speaks the French fluently.'",
+        "Rule 4: CORRECT: 'He is good at Mathematics.' — No 'the' before subjects of study (general). WRONG: 'He is good at the Mathematics.'",
+        "Rule 4: CORRECT: 'They study Science and English.' — No 'the' before academic subjects. WRONG: 'They study the Science and the English.'",
+        "Rule 5: CORRECT: 'We celebrate Diwali with great joy.' — No 'the' before festivals. WRONG: 'We celebrate the Diwali.'",
+        "Rule 5: CORRECT: 'Christmas falls on 25th December.' — No 'the' before festivals. WRONG: 'The Christmas falls on 25th December.'",
+        "Rule 5: CORRECT: 'Pongal is celebrated in January.' — No 'the' before festivals. WRONG: 'The Pongal is celebrated in January.'",
+        "Rule 6: CORRECT: 'Anirudh plays cricket at school.' — No 'the' before sports. WRONG: 'He plays the cricket.'",
+        "Rule 6: CORRECT: 'She is learning tennis.' — No 'the' before sports. WRONG: 'She is learning the tennis.'",
+        "Rule 6: But compare: 'Anirudh plays the mridangam.' — Musical instruments DO take 'the'. Sports do NOT.",
+        "Rule 7: CORRECT: 'Mount Everest is in the Himalayas.' — Individual mountain with 'Mount': no 'the'. Mountain range: needs 'the'. This contrast is a favourite exam question.",
+        "Rule 7: CORRECT: 'Mount Kilimanjaro is in Africa.' — No 'the' before individual mountains with 'Mount'.",
+        "Rule 7: CORRECT: 'Mount Fuji is a famous volcano in Japan.' — No 'the'. WRONG: 'The Mount Fuji is a famous volcano.'",
+        "Rule 8: CORRECT: 'Lake Chilika is in Odisha.' — No 'the' before lakes with 'Lake'. WRONG: 'The Lake Chilika is in Odisha.'",
+        "Rule 8: CORRECT: 'Lake Victoria is the largest lake in Africa.' — No 'the' before the lake name itself.",
+        "Rule 8: But compare: 'The Ganges is a sacred river.' — Rivers always take 'the'. Lakes with 'Lake' do not. This is another important contrast."
       ]
     },
     {
@@ -305,10 +391,17 @@
         "This exception follows a logical pattern: 'the' always means 'specific'. When you add a modifier that makes something specific, you naturally need 'the'. So the rules are not contradictory. They all serve the same purpose: 'the' = specific, no 'the' = general."
       ],
       "examples": [
-        "General: 'Summer is hot in Chennai.' Specific: 'The summer we moved to our new house was unbearably hot.'",
-        "General: 'She is learning Tamil.' Specific: 'The Tamil spoken in Madurai is slightly different from Chennai Tamil.'",
-        "General: 'Cricket is popular in India.' Specific: 'The cricket played during the IPL is fast-paced and exciting.'",
-        "The key question to ask yourself: Am I talking about the general concept, or a particular instance? If particular, use 'the'."
+        "Days — General: 'We have a test on Tuesday.' (any Tuesday, no 'the') vs. Specific: 'Our exams will be over the Tuesday after next.' ('after next' specifies which Tuesday, so 'the' is needed.)",
+        "Months — General: 'It rains a lot in July.' (July in general, no 'the') vs. Specific: 'The July she visited us, it poured the whole month.' ('she visited us' specifies which July.)",
+        "Seasons — General: 'Flowers bloom in spring.' (spring in general, no 'the') vs. Specific: 'The winter before last was the coldest I remember.' ('before last' specifies which winter.)",
+        "Languages — General: 'She speaks French fluently.' (the language in general, no 'the') vs. Specific: 'The French I learned in school is not good enough to read this novel.' ('I learned in school' specifies a particular version of French.)",
+        "Subjects — General: 'History is my favourite subject.' (no 'the') vs. Specific: 'The history we studied this term was devoted to the Mughal Empire.' ('we studied this term' specifies which portion of history.)",
+        "Festivals — General: 'We celebrate Diwali with lights and sweets.' (no 'the') vs. Specific: 'The Diwali my cousins visited from Bangalore was the most fun I have ever had.' ('my cousins visited from Bangalore' specifies which Diwali.)",
+        "Sports — General: 'He enjoys playing football.' (no 'the') vs. Specific: 'The football the two teams played at the finals was outstanding.' ('the two teams played at the finals' specifies which game of football.)",
+        "General: 'Summer is hot in Chennai.' (no 'the') vs. Specific: 'The summer we moved to our new house was unbearably hot.' ('we moved to our new house' makes it a particular summer.)",
+        "General: 'She is learning Tamil.' (no 'the') vs. Specific: 'The Tamil spoken in Madurai is slightly different from Chennai Tamil.' ('spoken in Madurai' specifies which variety of Tamil.)",
+        "General: 'Cricket is popular in India.' (no 'the') vs. Specific: 'The cricket played during the IPL is fast-paced and exciting.' ('played during the IPL' specifies the type of cricket.)",
+        "KEY RULE: The moment you add a clause or phrase that pins down the noun to a specific instance, 'the' becomes necessary. Ask yourself: Am I talking about the general concept, or a particular instance? If particular, use 'the'."
       ]
     },
     {
@@ -367,9 +460,23 @@
         "The word 'article' itself comes from the Latin word 'articulus', meaning 'small joint' or 'small connecting part'. Articles are indeed the small connecting parts that hold sentences together correctly."
       ],
       "examples": [
-        "Date rule: 'India became independent on the fifteenth of August, 1947.' (with 'of', so use 'the'). 'India became independent on 15 August 1947.' (without 'of', so no 'the').",
-        "Possessive pronoun rule: 'She raised her hand.' (CORRECT). 'She raised the hand.' (INCORRECT, unless specifying which hand).",
-        "Modifier exception in exams: If a sentence says 'The Diwali we celebrated last year was wonderful', the use of 'the' is CORRECT because the festival is specified by 'we celebrated last year'."
+        "Date rule: 'India became independent on the fifteenth of August, 1947.' — The word 'of' is present, so 'the' is needed before 'fifteenth'.",
+        "Date rule: 'India became independent on 15 August 1947.' — No 'of', so no 'the' is needed. Just write the number and the month.",
+        "Date rule: 'Let us meet on the sixth of September.' — 'Of' is present, so use 'the'. WRONG: 'Let us meet on sixth of September.'",
+        "Date rule: 'Let us meet on 6 September.' — No 'of', so no 'the'. WRONG: 'Let us meet on the 6 September.'",
+        "Possessive pronoun: CORRECT: 'She raised her hand.' — Use possessive pronoun 'her', not 'the'. WRONG: 'She raised the hand.'",
+        "Possessive pronoun: CORRECT: 'He brushed his teeth.' — Use possessive 'his'. WRONG: 'He brushed the teeth.'",
+        "Possessive pronoun: CORRECT: 'Put your shoes on.' — Use possessive 'your'. WRONG: 'Put the shoes on.'",
+        "Possessive pronoun: CORRECT: 'The soldiers raised their guns.' — Use possessive 'their'. WRONG: 'The soldiers raised the guns.'",
+        "Common mistake 1: WRONG: 'an university' → CORRECT: 'a university' — U sounds like /yoo/, a consonant sound.",
+        "Common mistake 2: WRONG: 'a honest man' → CORRECT: 'an honest man' — The H is silent, so the first sound is a vowel.",
+        "Common mistake 3: WRONG: 'He plays the cricket.' → CORRECT: 'He plays cricket.' — No article before sports.",
+        "Common mistake 4: WRONG: 'She plays piano.' → CORRECT: 'She plays the piano.' — Musical instruments need 'the'.",
+        "Common mistake 5: WRONG: 'The Mount Everest is tall.' → CORRECT: 'Mount Everest is tall.' — Individual mountains with 'Mount' do not take 'the'.",
+        "Common mistake 6: WRONG: 'He is tallest boy in class.' → CORRECT: 'He is the tallest boy in class.' — Superlatives always need 'the'.",
+        "Common mistake 7: WRONG: 'I study the Science.' → CORRECT: 'I study Science.' — No 'the' before subjects of study (general).",
+        "Common mistake 8: WRONG: 'We celebrate the Diwali.' → CORRECT: 'We celebrate Diwali.' — No 'the' before festivals.",
+        "Modifier exception: 'The Diwali we celebrated last year was wonderful.' — This use of 'the' IS correct because the festival is specified by 'we celebrated last year'."
       ]
     }
   ]
