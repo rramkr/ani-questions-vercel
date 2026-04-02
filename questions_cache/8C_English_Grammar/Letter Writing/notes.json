@@ -1,27 +1,198 @@
 {
   "subject": "8C English Grammar",
   "chapter": "Letter Writing",
-  "question_type": "notes",
-  "questions": [
+  "type": "notes",
+  "title": "Letter Writing — Formats and Rules",
+  "sections": [
     {
-      "id": "n001",
-      "question": "Format of an Informal / Friendly Letter",
-      "answer": "Sender's Address,\n(House No., Street,\nArea/Locality,\nCity,\nPin Code.)\n\nDate (e.g., 23rd March, 2026)\n\nMy dear ______,\n\nI am writing this letter to...\n\n[Body - Para 1: Enquiry about the person's well-being]\n\n[Body - Para 2: Friendly expression of feelings and thoughts]\n\n[Conclusion - Take words from the question]\n\nYour loving ______,\n[First Name only]\n\n---\n\nIMPORTANT RULES:\n1. Use 'My dear' (NOT just 'Dear') for family members\n2. Address: Sender's address only (NO receiver's address)\n3. Closing: 'Your loving son/daughter/friend' OR 'Yours affectionately' (for family), 'Yours lovingly' (for friends)\n4. Sign with FIRST NAME only\n5. NO subject line needed\n6. Body should have 2-3 paragraphs with personal touch"
+      "id": "sec1",
+      "title": "Format of an Informal / Friendly Letter",
+      "content": "An informal letter is written to someone you know personally, such as a parent, sibling, cousin, grandparent, or close friend. The tone is warm, personal, and emotional. You can express your feelings freely and use a conversational style.\n\nThe format of an informal letter follows a specific structure that you must memorise for exams. Here is the complete format:\n\n**Sender's Address** (top right or left corner):\nHouse No., Street Name,\nArea/Locality,\nCity – Pin Code.\n\n**Date** (below the address):\nWrite the full date, e.g., 2nd April, 2026.\n\n**Greeting/Salutation**:\nUse 'My dear ______' for family members (My dear Amma, My dear Prahlad). Use 'Dear ______' for friends (Dear Yohann).\n\n**Body** (2-3 paragraphs):\nParagraph 1: Enquire about the person's well-being.\nParagraph 2: The main content — express your feelings, share news, give advice, or invite.\nParagraph 3: Conclusion — take words from the question to close naturally.\n\n**Closing**:\nFor family: 'Your loving son/daughter/brother/sister' or 'Yours affectionately'\nFor friends: 'Yours lovingly' or 'Your loving friend'\n\n**Signature**:\nSign with your FIRST NAME only (not full name).",
+      "key_terms": [
+        {
+          "term": "Informal letter",
+          "definition": "A personal letter written to family members, relatives, or close friends. Uses a warm, emotional, conversational tone."
+        },
+        {
+          "term": "Salutation",
+          "definition": "The greeting at the beginning of a letter. In informal letters: 'My dear ___' (family) or 'Dear ___' (friends)."
+        },
+        {
+          "term": "Closing",
+          "definition": "The sign-off at the end of a letter. In informal letters: 'Your loving ___' or 'Yours affectionately'."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Informal Letter — Format at a Glance",
+          "headers": ["Part", "What to Write", "Example"],
+          "rows": [
+            ["Sender's Address", "Your home address (top)", "16/8, 22nd Cross Street,\nIndira Nagar, Adyar,\nChennai – 600020."],
+            ["Date", "Full date below address", "2nd April, 2026"],
+            ["Greeting", "'My dear ___' (family) / 'Dear ___' (friends)", "My dear Amma, / Dear Yohann,"],
+            ["Body", "2-3 paragraphs with personal touch", "Enquiry + Main content + Conclusion"],
+            ["Closing", "Warm sign-off", "Your loving son, / Yours lovingly,"],
+            ["Signature", "First name ONLY", "Anirudh"]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "In informal letters, you write ONLY the sender's address (your own address). You do NOT write the receiver's address. This is different from formal letters where both addresses are needed.",
+        "Always use 'My dear' (not just 'Dear') when writing to family members like parents, grandparents, or siblings. 'Dear' alone is used for friends."
+      ],
+      "examples": [
+        "GREETING FOR MOTHER: 'My dear Amma,' — Use 'My dear' for family. WRONG: 'Dear Amma' (too formal for a mother).",
+        "GREETING FOR FRIEND: 'Dear Yohann,' — Use 'Dear' for friends. WRONG: 'My dear Yohann' (too intimate for a friend).",
+        "CLOSING FOR FAMILY: 'Your loving son, Anirudh' — First name only. WRONG: 'Anirudh Ramkumar' (full name is for formal letters).",
+        "CLOSING FOR FRIEND: 'Yours lovingly, Anirudh' or 'Your loving friend, Anirudh'.",
+        "BODY OPENING: 'I hope this letter finds you in good health and high spirits.' — A typical way to start the first paragraph.",
+        "BODY OPENING: 'I am writing this letter to tell you about...' — Gets straight to the point after the greeting.",
+        "NO SUBJECT LINE: Informal letters do NOT have a subject line. Only formal letters require one.",
+        "ADDRESS: Only YOUR address goes at the top. Do NOT write the receiver's address anywhere in an informal letter."
+      ]
     },
     {
-      "id": "n002",
-      "question": "Format of a Formal Letter",
-      "answer": "Sender's Address,\n(House No., Street,\nArea/Locality,\nCity - Pin Code.)\n\nDate (e.g., 24th March, 2026)\n\nReceiver's Address:\n(Designation/Name,\nOrganisation/School,\nArea,\nCity - Pin Code.)\n\nDear Madam/Sir,\n\nSubject: [State the purpose clearly]\n\nI am writing this letter to...\n\n[Body - Para 1: Direct approach to purpose, 3-4 points with details]\n\n[Body - Para 2: Additional information/supporting details]\n\n[Conclusion - Awaiting a positive reply / Looking forward to your response]\n\nThanking you,\nYours truly,\n[Full Name]\n\n---\n\nIMPORTANT RULES:\n1. Use 'Dear Madam/Sir' (formal greeting)\n2. Include BOTH sender's and receiver's addresses\n3. Subject line is REQUIRED\n4. Body: 3-4 points with specific details\n5. Closing: 'Yours truly' or 'Yours sincerely' or 'Yours faithfully'\n6. Sign with FULL NAME\n7. Language must be polite and formal\n8. Keep it to the point"
+      "id": "sec2",
+      "title": "Format of a Formal Letter",
+      "content": "A formal letter is written to someone you do not know personally, or to someone in an official capacity. It is written to officials, heads of institutions, editors of newspapers, managers of companies, or government authorities. The tone must be polite, respectful, and to the point.\n\nThe format of a formal letter is more structured than an informal letter. Here is the complete format:\n\n**Sender's Address** (top right or left corner):\nHouse No., Street Name,\nArea/Locality,\nCity – Pin Code.\n\n**Date** (below sender's address):\nWrite the full date, e.g., 2nd April, 2026.\n\n**Receiver's Address** (below date, left side):\nDesignation/Name,\nOrganisation/School/Office,\nArea,\nCity – Pin Code.\n\n**Greeting/Salutation**:\nUse 'Dear Madam/Sir,' or 'Dear Madam,' or 'Dear Sir,' (if you know the gender).\n\n**Subject Line** (REQUIRED):\nA brief line stating the purpose of the letter. Example: 'Subject: Request for extra classes after interschool competitions.'\n\n**Body** (2-3 paragraphs):\nParagraph 1: State the purpose directly. Include 3-4 specific points with details.\nParagraph 2: Additional information or supporting details.\nParagraph 3: Conclusion — 'Awaiting a positive reply' or 'Looking forward to your response.'\n\n**Closing**:\n'Thanking you,' (on one line)\n'Yours truly,' or 'Yours sincerely,' or 'Yours faithfully,' (on the next line)\n\n**Signature**:\nSign with your FULL NAME (first name and surname).",
+      "key_terms": [
+        {
+          "term": "Formal letter",
+          "definition": "An official letter written to authorities, institutions, editors, or organisations. Uses a polite, respectful, and professional tone."
+        },
+        {
+          "term": "Subject line",
+          "definition": "A brief line in a formal letter that states the purpose. It comes after the greeting and before the body. Required in all formal letters."
+        },
+        {
+          "term": "Receiver's address",
+          "definition": "The address of the person you are writing to. Required in formal letters but NOT in informal letters."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Formal Letter — Format at a Glance",
+          "headers": ["Part", "What to Write", "Example"],
+          "rows": [
+            ["Sender's Address", "Your home address (top)", "16/8, 22nd Cross Street,\nIndira Nagar, Adyar,\nChennai – 600020."],
+            ["Date", "Full date below address", "2nd April, 2026"],
+            ["Receiver's Address", "Official's designation + office address", "The Principal,\nSishya School,\nAdyar, Chennai – 600020."],
+            ["Greeting", "'Dear Madam/Sir,'", "Dear Madam,"],
+            ["Subject", "Brief purpose statement", "Subject: Request for extra classes"],
+            ["Body", "2-3 paragraphs, to the point", "Purpose + Details + Conclusion"],
+            ["Closing", "'Thanking you,' then 'Yours truly,'", "Thanking you,\nYours truly,"],
+            ["Signature", "Full name", "Anirudh Ramkumar"]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "In formal letters, you must write BOTH the sender's address AND the receiver's address. In informal letters, you write only the sender's address.",
+        "The subject line is like a headline — it tells the reader what the letter is about in one short line. Without it, the reader may not know the purpose immediately."
+      ],
+      "examples": [
+        "TO PRINCIPAL: Receiver's address: 'The Principal, Sishya School, Adyar, Chennai – 600020.' — Always write the designation first, then the institution.",
+        "TO EDITOR: Receiver's address: 'The Editor, The Hindu, Chennai – 600002.' — For newspaper editors, write 'The Editor' as the designation.",
+        "TO MUNICIPAL COMMISSIONER: Receiver's address: 'The Municipal Commissioner, Chennai Corporation, Chennai – 600001.'",
+        "SUBJECT LINE: 'Subject: Request for extra classes after interschool competitions.' — Keep it short and clear.",
+        "SUBJECT LINE: 'Subject: Complaint regarding poor street lighting in Indira Nagar.' — States the purpose directly.",
+        "CLOSING: 'Thanking you, Yours truly, Anirudh Ramkumar' — Full name in formal letters. WRONG: Just 'Anirudh' (too casual).",
+        "CLOSING OPTIONS: 'Yours truly' (most common), 'Yours sincerely' (if you know the person's name), 'Yours faithfully' (if you do not know the name).",
+        "BODY TIP: Always be polite even in complaint letters. Say 'I kindly request you to...' or 'I would like to bring to your kind attention...'"
+      ]
     },
     {
-      "id": "n003",
-      "question": "Format of a Formal Email",
-      "answer": "From: [your email id]\nTo: [receiver's email id]\nSubject: [subject of the email]\n\nSalutation: Dear Ma'am/Sir,\n\n[Body of the email]\nPara 1: Direct approach to purpose\nPara 2: Positively summing up with suggestions, action sought, or a commitment\n\nClosing note:\nLooking forward to your reply, / Looking forward to hearing from you.\n\nSignature:\nYours sincerely,\n[Full Name]\n[Designation, if any]\n\n---\n\nSTARTER PHRASES:\n- I hope you are doing well.\n- I hope this email finds you well.\n- Allow me to introduce myself briefly.\n- I am writing to...\n\nCLOSING PHRASES:\n- Looking forward to your reply.\n- Looking forward to hearing from you.\n- Please let me know if you have any questions."
+      "id": "sec3",
+      "title": "Format of a Formal Email",
+      "content": "A formal email follows the same principles as a formal letter but in digital format. It is shorter and more direct than a physical letter. Formal emails are written to teachers, officials, or anyone in a professional capacity.\n\n**From:** [your email id]\n**To:** [receiver's email id]\n**Subject:** [subject of the email — same rules as formal letter]\n\n**Salutation:** Dear Ma'am/Sir,\n\n**Body:**\nParagraph 1: Direct approach to purpose. State why you are writing.\nParagraph 2: Positively summing up with suggestions, action sought, or a commitment.\n\n**Closing note:**\n'Looking forward to your reply.' or 'Looking forward to hearing from you.'\n\n**Signature:**\nYours sincerely,\n[Full Name]\n[Designation, if any]\n\nFormal emails are typically shorter than formal letters. The body usually has 2 paragraphs (not 3). There are no postal addresses in an email — only the From, To, and Subject fields at the top.",
+      "key_terms": [
+        {
+          "term": "Formal email",
+          "definition": "A professional email written to officials, teachers, or organisations. Follows the same polite tone as a formal letter but is shorter and has From/To/Subject fields instead of postal addresses."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Formal Email — Format at a Glance",
+          "headers": ["Part", "What to Write", "Example"],
+          "rows": [
+            ["From", "Your email address", "anirudh@example.com"],
+            ["To", "Receiver's email address", "principal@sishya.edu.in"],
+            ["Subject", "Brief purpose (same as formal letter)", "Request for extra classes"],
+            ["Salutation", "'Dear Ma'am/Sir,'", "Dear Ma'am,"],
+            ["Body", "2 paragraphs, shorter than letter", "Purpose + Action sought"],
+            ["Closing", "Forward-looking statement", "Looking forward to your reply."],
+            ["Signature", "'Yours sincerely,' + Full Name", "Yours sincerely,\nAnirudh Ramkumar"]
+          ]
+        },
+        {
+          "title": "Useful Starter and Closing Phrases",
+          "headers": ["Type", "Phrases"],
+          "rows": [
+            ["Starter", "I hope this email finds you well."],
+            ["Starter", "I am writing to bring to your attention..."],
+            ["Starter", "Allow me to introduce myself briefly."],
+            ["Starter", "I am writing to request/inform/complain about..."],
+            ["Closing", "Looking forward to your reply."],
+            ["Closing", "Looking forward to hearing from you."],
+            ["Closing", "Please let me know if you have any questions."],
+            ["Closing", "Thanking you for your time and consideration."]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "Formal emails do NOT have postal addresses — the From and To fields replace them. This is one of the key differences between a formal letter and a formal email.",
+        "Keep formal emails shorter than formal letters. Two paragraphs are usually enough. People read emails quickly, so get to the point fast."
+      ],
+      "examples": [
+        "SUBJECT: 'Request for leave of absence on 5th April' — Clear and specific. WRONG: 'Leave' (too vague).",
+        "SUBJECT: 'Complaint regarding broken laboratory equipment' — States exactly what the email is about.",
+        "STARTER: 'Dear Ma'am, I hope this email finds you well. I am writing to request...' — Polite and professional opening.",
+        "CLOSING: 'Looking forward to your reply. Yours sincerely, Anirudh Ramkumar' — Standard formal email closing.",
+        "BODY TIP: Keep each paragraph to 3-4 sentences maximum. Formal emails should be concise and focused."
+      ]
     },
     {
-      "id": "n004",
-      "question": "Key Differences: Informal vs Formal Letter",
-      "answer": "INFORMAL LETTER:\n- Written to family, friends, relatives\n- Personal/casual tone with emotions\n- Greeting: 'My dear ___'\n- Only sender's address needed\n- No subject line\n- Closing: 'Your loving ___' / 'Yours affectionately'\n- Sign with first name\n\nFORMAL LETTER:\n- Written to officials, institutions, organisations\n- Polite and formal tone, to the point\n- Greeting: 'Dear Madam/Sir'\n- Both sender's and receiver's addresses needed\n- Subject line is required\n- Closing: 'Yours truly' / 'Yours sincerely' / 'Yours faithfully'\n- Sign with full name\n\nFORMAL EMAIL:\n- Same as formal letter but in email format\n- Has From, To, Subject fields\n- No postal addresses needed\n- Can include attachments\n- Closing: 'Yours sincerely' + name + designation"
+      "id": "sec4",
+      "title": "Key Differences: Informal vs Formal Letter vs Formal Email",
+      "content": "Understanding the differences between informal letters, formal letters, and formal emails is essential for the exam. The examiner looks for correct format, appropriate tone, and proper structure. Here is a detailed comparison of all three types.",
+      "key_terms": [
+        {
+          "term": "Tone",
+          "definition": "The attitude or feeling conveyed in writing. Informal letters have a warm, personal tone. Formal letters and emails have a polite, professional tone."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Informal Letter vs Formal Letter vs Formal Email — Complete Comparison",
+          "headers": ["Feature", "Informal Letter", "Formal Letter", "Formal Email"],
+          "rows": [
+            ["Written to", "Family, friends, relatives", "Officials, institutions, editors", "Officials, teachers, organisations"],
+            ["Tone", "Warm, personal, emotional", "Polite, formal, to the point", "Polite, formal, concise"],
+            ["Greeting", "'My dear ___' (family) / 'Dear ___' (friends)", "'Dear Madam/Sir,'", "'Dear Ma'am/Sir,'"],
+            ["Sender's address", "Yes (top)", "Yes (top)", "No (From field instead)"],
+            ["Receiver's address", "No", "Yes (below date)", "No (To field instead)"],
+            ["Subject line", "No", "Yes (required)", "Yes (required)"],
+            ["Body length", "2-3 paragraphs, personal", "2-3 paragraphs, detailed", "2 paragraphs, concise"],
+            ["Closing", "'Your loving ___' / 'Yours affectionately'", "'Thanking you, Yours truly,'", "'Yours sincerely,' + name"],
+            ["Signature", "First name only", "Full name", "Full name + designation"]
+          ]
+        }
+      ],
+      "fun_facts": [
+        "The easiest way to remember: Informal = first name only, no subject line, one address. Formal = full name, subject line required, two addresses (or From/To fields for email).",
+        "In exams, students often lose marks for mixing up informal and formal formats — like writing 'My dear Sir' (which mixes informal greeting with formal recipient) or signing a formal letter with just the first name."
+      ],
+      "examples": [
+        "INFORMAL GREETING: 'My dear Amma,' — For mother. Uses 'My dear' + first name/relation.",
+        "FORMAL GREETING: 'Dear Madam,' — For Principal. Uses 'Dear' + 'Madam/Sir'.",
+        "INFORMAL CLOSING: 'Your loving son, Anirudh' — First name only.",
+        "FORMAL CLOSING: 'Thanking you, Yours truly, Anirudh Ramkumar' — Full name.",
+        "COMMON EXAM MISTAKE: Writing receiver's address in an informal letter. Only formal letters need both addresses.",
+        "COMMON EXAM MISTAKE: Writing 'Dear Madam/Sir' in an informal letter. Use 'My dear ___' for family.",
+        "COMMON EXAM MISTAKE: Signing a formal letter with just 'Anirudh'. Always use full name: 'Anirudh Ramkumar'.",
+        "COMMON EXAM MISTAKE: Forgetting the subject line in a formal letter. It is always required.",
+        "FORMAT TIP: If the question says 'write a letter to your friend/mother/cousin', it is an informal letter. If it says 'write a letter to the Principal/Editor/Commissioner', it is a formal letter."
+      ]
     }
   ]
 }
