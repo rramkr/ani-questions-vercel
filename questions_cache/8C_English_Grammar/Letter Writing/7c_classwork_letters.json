@@ -4,7 +4,7 @@
     {
       "id": "letter_cw_1",
       "title": "Invite Friend for a Sleepover",
-      "question": "Write a letter to invite your best friend for a sleepover.",
+      "question": "[INFORMAL LETTER] Write a letter to invite your best friend for a sleepover.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Vidyut,</b>",
@@ -20,7 +20,7 @@
     {
       "id": "letter_cw_2",
       "title": "RSVP to an Invite",
-      "question": "Write a letter to your cousin as an RSVP to an invite for your grandfather's 80th birthday function.",
+      "question": "[INFORMAL LETTER] Write a letter to your cousin as an RSVP to an invite for your grandfather's 80th birthday function.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Adeep,</b>",
@@ -36,7 +36,7 @@
     {
       "id": "letter_cw_3",
       "title": "Congratulating Cousin for Winning Competition",
-      "question": "Write a letter to your cousin congratulating him for winning a table tennis competition.",
+      "question": "[INFORMAL LETTER] Write a letter to your cousin congratulating him for winning a table tennis competition.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Adeep,</b>",
@@ -52,7 +52,7 @@
     {
       "id": "letter_cw_4",
       "title": "Advising Younger Brother About Pocket Money",
-      "question": "Write a letter to your younger brother advising him to be more careful in spending his pocket money.",
+      "question": "[INFORMAL LETTER] Write a letter to your younger brother advising him to be more careful in spending his pocket money.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Prahlad,</b>",
@@ -68,7 +68,7 @@
     {
       "id": "letter_cw_5",
       "title": "Thanking Grand Aunt for Birthday Gift",
-      "question": "Write a letter of thanks to your grand aunt who sent you a beautiful puppy on your birthday.",
+      "question": "[INFORMAL LETTER] Write a letter of thanks to your grand aunt who sent you a beautiful puppy on your birthday.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Patta Paatti,</b>",
@@ -84,7 +84,7 @@
     {
       "id": "letter_cw_6",
       "title": "Asking Permission to Stay During Tennis Meet",
-      "question": "Write an informal letter to your aunt, asking for permission to stay with her when you visit Delhi to attend a tennis meet there.",
+      "question": "[INFORMAL LETTER] Write an informal letter to your aunt, asking for permission to stay with her when you visit Delhi to attend a tennis meet there.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Srividya Aunty,</b>",

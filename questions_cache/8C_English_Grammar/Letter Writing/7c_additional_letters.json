@@ -4,7 +4,7 @@
     {
       "id": "letter_add_1",
       "title": "Letter About Summer Vacation",
-      "question": "Write a letter to your friend describing your summer vacation.",
+      "question": "[INFORMAL LETTER] Write a letter to your friend describing your summer vacation.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Vidyut,</b>",
@@ -19,7 +19,7 @@
     {
       "id": "letter_add_2",
       "title": "Letter Inviting for Birthday Party",
-      "question": "Write a letter to your friend inviting them to your birthday party.",
+      "question": "[INFORMAL LETTER] Write a letter to your friend inviting them to your birthday party.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Janina,</b>",
@@ -34,7 +34,7 @@
     {
       "id": "letter_add_3",
       "title": "Letter About School Annual Day",
-      "question": "Write a letter to your cousin describing your school's Annual Day.",
+      "question": "[INFORMAL LETTER] Write a letter to your cousin describing your school's Annual Day.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Adeep,</b>",
@@ -49,7 +49,7 @@
     {
       "id": "letter_add_4",
       "title": "Letter About a Visit to Mahabalipuram",
-      "question": "Write a letter to your friend describing a visit to a historical place.",
+      "question": "[INFORMAL LETTER] Write a letter to your friend describing a visit to a historical place.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Vidyut,</b>",
@@ -64,7 +64,7 @@
     {
       "id": "letter_add_5",
       "title": "Letter About Music Hobby",
-      "question": "Write a letter to your friend describing your hobby.",
+      "question": "[INFORMAL LETTER] Write a letter to your friend describing your hobby.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Janina,</b>",
@@ -79,7 +79,7 @@
     {
       "id": "letter_add_6",
       "title": "Letter Describing Your School",
-      "question": "Write a letter to your cousin describing your school.",
+      "question": "[INFORMAL LETTER] Write a letter to your cousin describing your school.",
       "paragraphs": [
         "<b>16/8, Dhvani,</b>\n<b>21st Cross Street,</b>\n<b>Indira Nagar, Adyar,</b>\n<b>Chennai – 600020.</b>\n\n<b>10th February, 2026.</b>",
         "<b>Dear Adeep,</b>",
