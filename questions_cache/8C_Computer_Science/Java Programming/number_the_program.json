@@ -1,0 +1,43 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "jv_np_1",
+      "question": "Look at the program below and number the following accordingly: class declaration, opening class bracket, main method, statement, closing method bracket, closing class bracket.\n\npublic class Hello {\n    public static void main(String[] args) {\n        System.out.println(\"Hello\");\n    }\n}",
+      "answer": "1. class declaration -> public class Hello\n2. opening class bracket -> { after the class declaration\n3. main method -> public static void main(String[] args)\n4. statement -> System.out.println(\"Hello\");\n5. closing method bracket -> } after the statement\n6. closing class bracket -> final }",
+      "key_points": ["Follow program order carefully"]
+    },
+    {
+      "id": "jv_np_2",
+      "question": "Look at the program below and number the following accordingly: class declaration, main method, opening method bracket, print statement, semicolon.\n\npublic class School {\n    public static void main(String[] args) {\n        System.out.print(\"Sishya\");\n    }\n}",
+      "answer": "1. class declaration -> public class School\n2. main method -> public static void main(String[] args)\n3. opening method bracket -> { after the main method\n4. print statement -> System.out.print(\"Sishya\");\n5. semicolon -> ; after the print statement",
+      "key_points": ["Locate parts in sequence"]
+    },
+    {
+      "id": "jv_np_3",
+      "question": "Look at the program below and number the following accordingly: class name, file name rule, main method, statement.\n\npublic class StudentInfo {\n    public static void main(String[] args) {\n        System.out.println(\"Age: 13\");\n    }\n}",
+      "answer": "1. class name -> StudentInfo\n2. file name rule -> StudentInfo.java\n3. main method -> public static void main(String[] args)\n4. statement -> System.out.println(\"Age: 13\");",
+      "key_points": ["Connect class name and file name"]
+    },
+    {
+      "id": "jv_np_4",
+      "question": "Look at the program below and number the following accordingly: access modifier, class keyword, class name, main method, output statement.\n\npublic class Library {\n    public static void main(String[] args) {\n        System.out.println(\"Books\");\n    }\n}",
+      "answer": "1. access modifier -> public\n2. class keyword -> class\n3. class name -> Library\n4. main method -> public static void main(String[] args)\n5. output statement -> System.out.println(\"Books\");",
+      "key_points": ["Access modifier", "class keyword", "Output statement"]
+    },
+    {
+      "id": "jv_np_5",
+      "question": "Look at the program below and number the following accordingly: class declaration, variable declaration, assignment operator, print statement, semicolon.\n\npublic class Demo {\n    public static void main(String[] args) {\n        int a = 10;\n        System.out.println(a);\n    }\n}",
+      "answer": "1. class declaration -> public class Demo\n2. variable declaration -> int a = 10;\n3. assignment operator -> =\n4. print statement -> System.out.println(a);\n5. semicolon -> ; at the end of each statement",
+      "key_points": ["Variable declaration", "Assignment operator"]
+    },
+    {
+      "id": "jv_np_6",
+      "question": "Look at the program below and number the following accordingly: class declaration, main method, String declaration, statement, final closing bracket.\n\npublic class City {\n    public static void main(String[] args) {\n        String place = \"Chennai\";\n        System.out.print(place);\n    }\n}",
+      "answer": "1. class declaration -> public class City\n2. main method -> public static void main(String[] args)\n3. String declaration -> String place = \"Chennai\";\n4. statement -> System.out.print(place);\n5. final closing bracket -> last }",
+      "key_points": ["String declaration", "print statement", "Final bracket"]
+    }
+  ]
+}

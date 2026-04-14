@@ -1,0 +1,43 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "jv_fv_1",
+      "question": "Find the value of the variables.\n(i) int a = 10 + 5;\n(ii) int b = 20 - 7;\n(iii) int c = 6 * 4;\n(iv) int d = 18 / 3;\n(v) int e = 17 % 5;",
+      "answer": "(i) a = 15\n(ii) b = 13\n(iii) c = 24\n(iv) d = 6\n(v) e = 2",
+      "key_points": ["Evaluate arithmetic expressions correctly"]
+    },
+    {
+      "id": "jv_fv_2",
+      "question": "Find the value of the variables.\n(i) int p = 50 + 25;\n(ii) int q = 90 - 45;\n(iii) int r = 9 * 3;\n(iv) int s = 40 / 8;\n(v) int t = 22 % 6;",
+      "answer": "(i) p = 75\n(ii) q = 45\n(iii) r = 27\n(iv) s = 5\n(v) t = 4",
+      "key_points": ["Addition", "Subtraction", "Multiplication", "Division", "Modulus"]
+    },
+    {
+      "id": "jv_fv_3",
+      "question": "Find the value of the variables.\n(i) int x = 14 + 16;\n(ii) int y = 81 - 9;\n(iii) int z = 12 * 5;\n(iv) int m = 56 / 7;\n(v) int n = 31 % 6;",
+      "answer": "(i) x = 30\n(ii) y = 72\n(iii) z = 60\n(iv) m = 8\n(v) n = 1",
+      "key_points": ["Practice variable evaluation"]
+    },
+    {
+      "id": "jv_fv_4",
+      "question": "Find the value of the variables.\n(i) int a = 100 + 800;\n(ii) int b = 75 - 25;\n(iii) int c = 11 * 2;\n(iv) int d = 45 / 9;\n(v) int e = 19 % 4;",
+      "answer": "(i) a = 900\n(ii) b = 50\n(iii) c = 22\n(iv) d = 5\n(v) e = 3",
+      "key_points": ["Use sample-paper style numbers"]
+    },
+    {
+      "id": "jv_fv_5",
+      "question": "Find the value of the variables.\n(i) int sum = 24 + 36;\n(ii) int diff = 64 - 18;\n(iii) int prod = 7 * 8;\n(iv) int quo = 81 / 9;\n(v) int rem = 27 % 5;",
+      "answer": "(i) sum = 60\n(ii) diff = 46\n(iii) prod = 56\n(iv) quo = 9\n(v) rem = 2",
+      "key_points": ["Mixed arithmetic practice"]
+    },
+    {
+      "id": "jv_fv_6",
+      "question": "Find the value of the variables.\n(i) int i = 15 + 15;\n(ii) int j = 120 - 35;\n(iii) int k = 13 * 3;\n(iv) int l = 96 / 12;\n(v) int m = 50 % 7;",
+      "answer": "(i) i = 30\n(ii) j = 85\n(iii) k = 39\n(iv) l = 8\n(v) m = 1",
+      "key_points": ["One-mark style variable value practice"]
+    }
+  ]
+}

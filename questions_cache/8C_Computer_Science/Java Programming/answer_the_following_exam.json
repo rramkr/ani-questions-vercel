@@ -1,0 +1,43 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "jv_atf_1",
+      "question": "Answer the following.\n(i) What are the two main parts of a Java program?\n(ii) What is the use of the main method?\n(iii) Why should the file name match the class name?\n(iv) What do curly brackets show?\n(v) What is the use of a semicolon?",
+      "answer": "(i) The two main parts are the class declaration and the main method.\n(ii) The main method is the place from which execution begins.\n(iii) The file name should match the class name so that the Java file follows the correct naming rule.\n(iv) Curly brackets show code blocks.\n(v) A semicolon marks the end of a statement.",
+      "key_points": ["Program structure", "Naming rule", "Semicolon use"]
+    },
+    {
+      "id": "jv_atf_2",
+      "question": "Answer the following.\n(i) What is a data type?\n(ii) Name any three data types from the portion.\n(iii) Which data type stores text?\n(iv) Which data types store decimal values?\n(v) What are byte, short, and int used for?",
+      "answer": "(i) A data type tells Java what kind of value can be stored in a variable.\n(ii) Any three: byte, short, int, float, double, String.\n(iii) String stores text.\n(iv) float and double store decimal values.\n(v) byte, short, and int are used for whole numbers.",
+      "key_points": ["Data type recall", "Whole numbers", "Decimal values", "Text"]
+    },
+    {
+      "id": "jv_atf_3",
+      "question": "Answer the following.\n(i) What is a variable?\n(ii) What is declaration?\n(iii) What is initialization?\n(iv) What is a literal?\n(v) What is the simple assignment operator?",
+      "answer": "(i) A variable is a named storage location used to store a value.\n(ii) Declaration means writing the data type and variable name.\n(iii) Initialization means assigning a value to a variable.\n(iv) A literal is the actual value written directly in the code.\n(v) The simple assignment operator is =.",
+      "key_points": ["Variable basics", "Declaration and initialization", "Literal", "Assignment operator"]
+    },
+    {
+      "id": "jv_atf_4",
+      "question": "Answer the following.\n(i) What is the difference between System.out.print() and System.out.println()?\n(ii) Which command moves to the next line after printing?\n(iii) In which method are print statements usually written?\n(iv) How should text be written in Java output statements?\n(v) What is output?",
+      "answer": "(i) System.out.print() prints on the same line, while System.out.println() prints and moves to the next line.\n(ii) System.out.println() moves to the next line.\n(iii) Print statements are usually written inside the main method.\n(iv) Text should be written inside double quotes.\n(v) Output is the result displayed on the screen.",
+      "key_points": ["print vs println", "double quotes", "main method", "output"]
+    },
+    {
+      "id": "jv_atf_5",
+      "question": "Answer the following.\n(i) What is an arithmetic operator?\n(ii) Name the arithmetic operators in this portion.\n(iii) Which operator gives the remainder?\n(iv) Which operator performs division?\n(v) Why are arithmetic operators used?",
+      "answer": "(i) An arithmetic operator is a symbol used to perform mathematical operations.\n(ii) The operators are +, -, *, /, and %.\n(iii) The % operator gives the remainder.\n(iv) The / operator performs division.\n(v) Arithmetic operators are used to calculate values in expressions.",
+      "key_points": ["Arithmetic operators", "%", "/", "Calculations"]
+    },
+    {
+      "id": "jv_atf_6",
+      "question": "Answer the following.\n(i) What is an operand?\n(ii) What is an expression?\n(iii) In 100 + 800, what are the operands?\n(iv) In 100 + 800, which is the operator?\n(v) Why is + called a binary operator?",
+      "answer": "(i) An operand is the value or variable on which an operator works.\n(ii) An expression is a piece of code that produces a value when evaluated.\n(iii) The operands are 100 and 800.\n(iv) The operator is +.\n(v) + is called a binary operator because it needs two operands.",
+      "key_points": ["Operands", "Expression", "Binary operator"]
+    }
+  ]
+}

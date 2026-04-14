@@ -1,0 +1,63 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "jv_match_1",
+      "question": "Match the following:",
+      "column_a": [
+        "class declaration",
+        "main method",
+        "System.out.println()",
+        "String",
+        "%",
+        "="
+      ],
+      "column_b": [
+        "assignment operator",
+        "used for text",
+        "prints and moves to next line",
+        "gives remainder",
+        "names the class",
+        "where execution begins"
+      ],
+      "correct_matches": {
+        "class declaration": "names the class",
+        "main method": "where execution begins",
+        "System.out.println()": "prints and moves to next line",
+        "String": "used for text",
+        "%": "gives remainder",
+        "=": "assignment operator"
+      }
+    },
+    {
+      "id": "jv_match_2",
+      "question": "Match the data type with its use:",
+      "column_a": [
+        "byte",
+        "short",
+        "int",
+        "float",
+        "double",
+        "String"
+      ],
+      "column_b": [
+        "stores decimal values",
+        "stores text",
+        "small whole numbers",
+        "common whole numbers",
+        "whole numbers larger than byte",
+        "decimal values with greater precision"
+      ],
+      "correct_matches": {
+        "byte": "small whole numbers",
+        "short": "whole numbers larger than byte",
+        "int": "common whole numbers",
+        "float": "stores decimal values",
+        "double": "decimal values with greater precision",
+        "String": "stores text"
+      }
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Python Programming",
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Match the relational operators with their meanings:",
+      "column_a": [">", ">=", "<", "<=", "=="],
+      "column_b": ["Equal to", "Lesser than", "Greater than", "Greater than or equal to", "Lesser than or equal to"],
+      "answer": {
+        ">": "Greater than",
+        ">=": "Greater than or equal to",
+        "<": "Lesser than",
+        "<=": "Lesser than or equal to",
+        "==": "Equal to"
+      }
+    },
+    {
+      "id": 2,
+      "question": "Match the Python concepts with their descriptions:",
+      "column_a": ["len()", "for loop", "if-else", "range()", "list"],
+      "column_b": ["Collection using square brackets", "Make decisions based on conditions", "Find number of items", "Generate sequence of numbers", "Iterate through elements"],
+      "answer": {
+        "len()": "Find number of items",
+        "for loop": "Iterate through elements",
+        "if-else": "Make decisions based on conditions",
+        "range()": "Generate sequence of numbers",
+        "list": "Collection using square brackets"
+      }
+    },
+    {
+      "id": 3,
+      "question": "Match the index with the element for list = [\"A\", \"B\", \"C\", \"D\", \"E\"]:",
+      "column_a": ["Index 0", "Index 2", "Index 4", "Index -1", "Index -3"],
+      "column_b": ["E", "A", "D", "C", "E"],
+      "answer": {
+        "Index 0": "A",
+        "Index 2": "C",
+        "Index 4": "E",
+        "Index -1": "E",
+        "Index -3": "C"
+      }
+    },
+    {
+      "id": 4,
+      "question": "Match the range() function with its output:",
+      "column_a": ["range(5)", "range(1, 6)", "range(0, 10, 2)", "range(5, 0, -1)", "range(3, 8)"],
+      "column_b": ["3, 4, 5, 6, 7", "0, 2, 4, 6, 8", "1, 2, 3, 4, 5", "0, 1, 2, 3, 4", "5, 4, 3, 2, 1"],
+      "answer": {
+        "range(5)": "0, 1, 2, 3, 4",
+        "range(1, 6)": "1, 2, 3, 4, 5",
+        "range(0, 10, 2)": "0, 2, 4, 6, 8",
+        "range(5, 0, -1)": "5, 4, 3, 2, 1",
+        "range(3, 8)": "3, 4, 5, 6, 7"
+      }
+    },
+    {
+      "id": 5,
+      "question": "Match the condition with its result when a = 10, b = 20:",
+      "column_a": ["a > b", "a < b", "a == b", "a != b", "a >= 10"],
+      "column_b": ["True", "False", "True", "True", "False"],
+      "answer": {
+        "a > b": "False",
+        "a < b": "True",
+        "a == b": "False",
+        "a != b": "True",
+        "a >= 10": "True"
+      }
+    },
+    {
+      "id": 6,
+      "question": "Match the term with its definition:",
+      "column_a": ["Indentation", "Boolean", "Iterate", "Modulus", "Condition"],
+      "column_b": ["Remainder of division", "Go through element by element", "True or False", "Whitespace at beginning", "Compares two values"],
+      "answer": {
+        "Indentation": "Whitespace at beginning",
+        "Boolean": "True or False",
+        "Iterate": "Go through element by element",
+        "Modulus": "Remainder of division",
+        "Condition": "Compares two values"
+      }
+    },
+    {
+      "id": 7,
+      "question": "Match the code with its purpose:",
+      "column_a": ["n % 2 == 0", "age >= 18", "mark >= 40", "age >= 60", "s == 180"],
+      "column_b": ["Triangle angle check", "Senior citizen check", "Voting eligibility", "Even number check", "Pass/fail check"],
+      "answer": {
+        "n % 2 == 0": "Even number check",
+        "age >= 18": "Voting eligibility",
+        "mark >= 40": "Pass/fail check",
+        "age >= 60": "Senior citizen check",
+        "s == 180": "Triangle angle check"
+      }
+    },
+    {
+      "id": 8,
+      "question": "Match the list operation with its result for fruits = [\"apple\", \"banana\", \"cherry\"]:",
+      "column_a": ["fruits[0]", "fruits[-1]", "fruits[1]", "len(fruits)", "fruits[-2]"],
+      "column_b": ["cherry", "banana", "apple", "3", "banana"],
+      "answer": {
+        "fruits[0]": "apple",
+        "fruits[-1]": "cherry",
+        "fruits[1]": "banana",
+        "len(fruits)": "3",
+        "fruits[-2]": "banana"
+      }
+    },
+    {
+      "id": 9,
+      "question": "Match the range parameters with their meaning:",
+      "column_a": ["First parameter", "Second parameter", "Third parameter", "Default start", "Exclusive value"],
+      "column_b": ["Stop", "0", "Step", "Start", "Stop"],
+      "answer": {
+        "First parameter": "Start",
+        "Second parameter": "Stop",
+        "Third parameter": "Step",
+        "Default start": "0",
+        "Exclusive value": "Stop"
+      }
+    },
+    {
+      "id": 10,
+      "question": "Match the Python statement with its function:",
+      "column_a": ["import time", "time.sleep(1)", "print()", "input()", "int()"],
+      "column_b": ["Accept user input", "Pause for 1 second", "Display output", "Load time module", "Convert to integer"],
+      "answer": {
+        "import time": "Load time module",
+        "time.sleep(1)": "Pause for 1 second",
+        "print()": "Display output",
+        "input()": "Accept user input",
+        "int()": "Convert to integer"
+      }
+    },
+    {
+      "id": 11,
+      "question": "Match the arithmetic operation with its operator:",
+      "column_a": ["+", "-", "*", "/", "//"],
+      "column_b": ["Subtraction", "Floor division", "Addition", "Multiplication", "Division"],
+      "answer": {
+        "+": "Addition",
+        "-": "Subtraction",
+        "*": "Multiplication",
+        "/": "Division",
+        "//": "Floor division"
+      }
+    },
+    {
+      "id": 12,
+      "question": "Match the code with its output for list = [10, 20, 30, 40, 50]:",
+      "column_a": ["list[0]", "list[2]", "list[4]", "list[-1]", "list[-3]"],
+      "column_b": ["30", "50", "10", "40", "50"],
+      "answer": {
+        "list[0]": "10",
+        "list[2]": "30",
+        "list[4]": "50",
+        "list[-1]": "50",
+        "list[-3]": "30"
+      }
+    },
+    {
+      "id": 13,
+      "question": "Match the range() with the count of numbers it produces:",
+      "column_a": ["range(5)", "range(1, 10)", "range(0, 20, 2)", "range(10, 0, -1)", "range(5, 5)"],
+      "column_b": ["9 numbers", "5 numbers", "10 numbers", "0 numbers", "10 numbers"],
+      "answer": {
+        "range(5)": "5 numbers",
+        "range(1, 10)": "9 numbers",
+        "range(0, 20, 2)": "10 numbers",
+        "range(10, 0, -1)": "10 numbers",
+        "range(5, 5)": "0 numbers"
+      }
+    },
+    {
+      "id": 14,
+      "question": "Match the modulus operation with its result:",
+      "column_a": ["10 % 3", "15 % 5", "17 % 4", "20 % 7", "100 % 10"],
+      "column_b": ["1", "0", "6", "0", "1"],
+      "answer": {
+        "10 % 3": "1",
+        "15 % 5": "0",
+        "17 % 4": "1",
+        "20 % 7": "6",
+        "100 % 10": "0"
+      }
+    },
+    {
+      "id": 15,
+      "question": "Match the condition with its meaning:",
+      "column_a": ["n % 2 == 0", "n % 2 != 0", "n % 5 == 0", "n > 0", "n < 0"],
+      "column_b": ["n is negative", "n is odd", "n is positive", "n is divisible by 5", "n is even"],
+      "answer": {
+        "n % 2 == 0": "n is even",
+        "n % 2 != 0": "n is odd",
+        "n % 5 == 0": "n is divisible by 5",
+        "n > 0": "n is positive",
+        "n < 0": "n is negative"
+      }
+    },
+    {
+      "id": 16,
+      "question": "Match the floor division with its result:",
+      "column_a": ["10 // 3", "15 // 4", "20 // 6", "17 // 5", "25 // 7"],
+      "column_b": ["3", "3", "3", "3", "3"],
+      "answer": {
+        "10 // 3": "3",
+        "15 // 4": "3",
+        "20 // 6": "3",
+        "17 // 5": "3",
+        "25 // 7": "3"
+      }
+    },
+    {
+      "id": 17,
+      "question": "Match the loop statement with its function:",
+      "column_a": ["for", "range()", "break", "continue", "in"],
+      "column_b": ["Skip current iteration", "Exit loop early", "Generate sequence", "Iterate through items", "Check membership"],
+      "answer": {
+        "for": "Iterate through items",
+        "range()": "Generate sequence",
+        "break": "Exit loop early",
+        "continue": "Skip current iteration",
+        "in": "Check membership"
+      }
+    },
+    {
+      "id": 18,
+      "question": "Match the data type with its example:",
+      "column_a": ["int", "str", "list", "bool", "float"],
+      "column_b": ["[1, 2, 3]", "True", "3.14", "42", "\"hello\""],
+      "answer": {
+        "int": "42",
+        "str": "\"hello\"",
+        "list": "[1, 2, 3]",
+        "bool": "True",
+        "float": "3.14"
+      }
+    },
+    {
+      "id": 19,
+      "question": "Match the error type with its cause:",
+      "column_a": ["SyntaxError", "IndentationError", "IndexError", "NameError", "TypeError"],
+      "column_b": ["Accessing invalid index", "Using undefined variable", "Wrong indentation", "Invalid Python syntax", "Wrong data type operation"],
+      "answer": {
+        "SyntaxError": "Invalid Python syntax",
+        "IndentationError": "Wrong indentation",
+        "IndexError": "Accessing invalid index",
+        "NameError": "Using undefined variable",
+        "TypeError": "Wrong data type operation"
+      }
+    },
+    {
+      "id": 20,
+      "question": "Match the len() call with its result:",
+      "column_a": ["len([1,2,3])", "len(\"HELLO\")", "len([])", "len(\"AB\")", "len([1,[2,3]])"],
+      "column_b": ["0", "5", "3", "2", "2"],
+      "answer": {
+        "len([1,2,3])": "3",
+        "len(\"HELLO\")": "5",
+        "len([])": "0",
+        "len(\"AB\")": "2",
+        "len([1,[2,3]])": "2"
+      }
+    }
+  ]
+}

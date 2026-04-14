@@ -1,0 +1,156 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Ethics and Safety Measures",
+  "subject": "8C Computer Science",
+  "chapter": "Ethics and Safety Measures",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "gt_a01",
+      "question": "Stealing information using a look-alike website is called _____.",
+      "answer": "Phishing",
+      "explanation": "Phishing is a type of Internet fraud that aims to trick people into revealing sensitive information like their credit card numbers and passwords. It can be done through forged e-mails and websites that claim and appear to belong to well-known organizations.",
+      "source_section": "Section A: One Word Answer"
+    },
+    {
+      "id": "gt_a02",
+      "question": "What is another name for a White Hat Hacker?",
+      "answer": "Hacker",
+      "explanation": "A hacker (also called a white hat hacker) is a person who breaks into a computer system for the purpose of fixing flaws within the system and for improving security. Hackers should have written permission from computer or network owners to hack into the system.",
+      "source_section": "Section A: One Word Answer"
+    },
+    {
+      "id": "gt_a03",
+      "question": "What is another name for a Black Hat Hacker?",
+      "answer": "Cracker",
+      "explanation": "A cracker (also called a black hat hacker) is a person who gains unauthorized access to a computer system for the purpose of stealing or corrupting data.",
+      "source_section": "Section A: One Word Answer"
+    },
+    {
+      "id": "gt_a04",
+      "question": "The process of repeatedly sending the same email to a particular address is called _____.",
+      "answer": "Email bombing",
+      "explanation": "Email bombing is a form of spamming. Spamming can be inflicted in several forms including email spoofing (sending email that appears to have originated from a different source), email bombing (repeatedly sending the same email to a particular address), and flooding (sending requests to a computer resource many times more than it can handle).",
+      "source_section": "Section A: One Word Answer"
+    },
+    {
+      "id": "gt_a05",
+      "question": "Name the program used to prevent, detect and remove malicious software.",
+      "answer": "Antivirus",
+      "explanation": "An antivirus program is used to prevent, detect, and remove malicious software. Some examples of antivirus programs are Norton, MacAfee, Kaspersky, and Quick Heal. You should install an antivirus software and update it regularly.",
+      "source_section": "Section A: One Word Answer"
+    },
+    {
+      "id": "gt_a06",
+      "question": "What are programs that can read keystrokes to steal confidential information from the user called?",
+      "answer": "Keyloggers",
+      "explanation": "Some programs can read keystrokes pressed by a user on a keyboard to steal confidential information such as passcodes and passwords. These programs are called Keyloggers.",
+      "source_section": "Section A: One Word Answer"
+    },
+    {
+      "id": "gt_b01",
+      "question": "True or False: The URL of a secured website starts with https://",
+      "answer": "True",
+      "explanation": "Enter your sensitive data only in secured websites. The URL of a secured website starts with https:// and your browser shows an icon of a closed lock.",
+      "source_section": "Section B: True or False"
+    },
+    {
+      "id": "gt_b02",
+      "question": "True or False: You can search for information on the Internet using search engines like Google Chrome and Safari.",
+      "answer": "False. Google Chrome and Safari are web browsers, not search engines.",
+      "explanation": "Web browsers, such as Google Chrome, Internet Explorer, Mozilla Firefox, etc., can be used to access search engines for searching the desired information. Search engines (like Google Search) are different from web browsers (like Google Chrome, Safari).",
+      "source_section": "Section B: True or False"
+    },
+    {
+      "id": "gt_b03",
+      "question": "True or False: You can choose the privacy settings to control the shared information.",
+      "answer": "True",
+      "explanation": "You can set the privacy level in social media websites. These settings provide security levels such as share everything, share with friends, etc. Every person has the right to privacy and can choose the privacy settings to control shared information.",
+      "source_section": "Section B: True or False"
+    },
+    {
+      "id": "gt_b04",
+      "question": "True or False: Digital footprints can make or break the user's reputation in the cyber world.",
+      "answer": "True",
+      "explanation": "The information about a particular user that exists on the Internet as a result of their online activity is called the digital footprint of the user. Digital footprint can make or break the user's reputation in the cyber world. Whatever you do online persists and establishes your online identity.",
+      "source_section": "Section B: True or False"
+    },
+    {
+      "id": "gt_b05",
+      "question": "True or False: You need to change your password at least once a year.",
+      "answer": "False. You should change your password at least once every month, not once a year.",
+      "explanation": "According to the textbook's password protection guidelines: 'Change your password at least once every month.' Changing it only once a year is not frequent enough to keep your accounts secure.",
+      "source_section": "Section B: True or False"
+    },
+    {
+      "id": "gt_c01",
+      "question": "Unscramble: MSPA — Unwanted, unsolicited and useless email.",
+      "answer": "SPAM",
+      "explanation": "A spam refers to any unsolicited and unwanted e-mail. It may carry advertisements or serve as a means of spreading malware such as viruses and worms. The problems caused by spamming are wastage of the user's time in reading unwanted e-mails, wastage of network bandwidth, and danger of getting malware infection.",
+      "source_section": "Section C: Unscramble"
+    },
+    {
+      "id": "gt_c02",
+      "question": "Unscramble: IARVNSUIT — Examples include Norton, Kaspersky, Quick Heal.",
+      "answer": "ANTIVIRUS",
+      "explanation": "An antivirus program is used to prevent, detect, and remove malicious software. Some examples are Norton, MacAfee, Kaspersky, Quick Heal, etc. Install an antivirus software and update it regularly.",
+      "source_section": "Section C: Unscramble"
+    },
+    {
+      "id": "gt_c03",
+      "question": "Unscramble: TNACIOIT — The simplest way to avoid plagiarism.",
+      "answer": "CITATION",
+      "explanation": "Mentioning an acknowledgment of the source of used information is termed as citation. It is the simplest technique to avoid plagiarism. You should always mention the source when using information like ideas or theories proposed by another person, any fact, statistics, image, graph, or quotation of other person's spoken or written words.",
+      "source_section": "Section C: Unscramble"
+    },
+    {
+      "id": "gt_c04",
+      "question": "Unscramble: MBCEYRRCIE — Illegal activity conducted through the use of a computer and the Internet.",
+      "answer": "CYBERCRIME",
+      "explanation": "Any illegal activity conducted through the use of a computer and the Internet is called cybercrime. It includes identity theft, forgery, defamation, mischief, credit card account theft, etc. A cybercrime is punishable under IT Acts enacted in most of the countries. You will be punished with imprisonment and heavy monetary fine or both if found guilty of a cybercrime.",
+      "source_section": "Section C: Unscramble"
+    },
+    {
+      "id": "gt_c05",
+      "question": "Unscramble: ATTNEP — Legal right that allows the creator to make, use and sell his invention for a set period of time.",
+      "answer": "PATENT",
+      "explanation": "A patent is a legal right that gains the creator of an invention the sole right to make, use, and sell that invention for a set period of time. It is one of the common types of intellectual property rights, along with copyright, trademark, industrial design right, and trade secret.",
+      "source_section": "Section C: Unscramble"
+    },
+    {
+      "id": "gt_d01",
+      "question": "Agree or Disagree: Every person has a right to decide what personal information is collected about them and how it is used.",
+      "answer": "Strongly Agree",
+      "explanation": "A person has the right to determine what sort of information about him/her is collected and how that information is used. A person also has the right to review his/her own personal information, and modify it, if required. This is called the Individual Right to Privacy.",
+      "source_section": "Section D: Agree or Disagree"
+    },
+    {
+      "id": "gt_d02",
+      "question": "Agree or Disagree: Opening an email attachment from an unknown sender.",
+      "answer": "Strongly Disagree",
+      "explanation": "Never open an e-mail from an unknown person, just delete it. Before you open an e-mail attachment from an unknown sender, take permission of your parents. Unknown emails can contain malware, viruses, or phishing attempts.",
+      "source_section": "Section D: Agree or Disagree"
+    },
+    {
+      "id": "gt_d03",
+      "question": "Agree or Disagree: Logging out properly after using a public computer.",
+      "answer": "Strongly Agree",
+      "explanation": "If you are working on a public computer, make sure you logout properly. Also, don't check the 'Remember Password' option or the 'Stay Signed in' option when working on public computers. This prevents others from accessing your accounts.",
+      "source_section": "Section D: Agree or Disagree"
+    },
+    {
+      "id": "gt_d04",
+      "question": "Agree or Disagree: Entering your bank password on a website by clicking a link in an email.",
+      "answer": "Strongly Disagree",
+      "explanation": "Never go to websites of banks by clicking on links included in an e-mail. This is a common phishing technique where fraudsters send forged e-mails that claim to be sent by well-known organizations to trick people into revealing their sensitive information like passwords and credit card numbers. Always check the source of information in incoming e-mail.",
+      "source_section": "Section D: Agree or Disagree"
+    },
+    {
+      "id": "gt_d05",
+      "question": "Agree or Disagree: Sharing your passwords with your friends.",
+      "answer": "Strongly Disagree",
+      "explanation": "Do not share your password with anyone except your parents. Avoid writing down your password or sharing it with anyone. Password is the most common authorization method used to protect the user's identity, data, and information. Sharing passwords can lead to unauthorized access to your accounts.",
+      "source_section": "Section D: Agree or Disagree"
+    }
+  ]
+}

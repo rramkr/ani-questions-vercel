@@ -1,0 +1,121 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "exam_questions",
+  "questions": [
+    {
+      "id": "jv_pep_1",
+      "question": "Choose the best answer.\nThe extension of a Java file is ______.\nA) .jav\nB) .class\nC) .java\nD) .py",
+      "answer": "C) .java",
+      "source_section": "26 Jun 2025 First Round Test"
+    },
+    {
+      "id": "jv_pep_2",
+      "question": "Choose the best answer.\nWhat does the statement `System.out.println(\"SISHYA\");` do?\nA) Takes input from the user\nB) Stops the program\nC) Prints the text to the screen\nD) Saves a file",
+      "answer": "C) Prints the text to the screen",
+      "source_section": "26 Jun 2025 First Round Test"
+    },
+    {
+      "id": "jv_pep_3",
+      "question": "Choose the best answer.\nWhich of the following is an arithmetic operator in Java?\nA) &&\nB) +\nC) =\nD) !",
+      "answer": "B) +",
+      "source_section": "25 Jul 2025 Second Round Test"
+    },
+    {
+      "id": "jv_pep_4",
+      "question": "Choose the best answer.\nWhich of the following is NOT an arithmetic operator in Java?\nA) %\nB) -\nC) ||\nD) *",
+      "answer": "C) ||",
+      "source_section": "25 Jul 2025 Second Round Test"
+    },
+    {
+      "id": "jv_pep_5",
+      "question": "Choose the best answer.\nWhich one of the following can be used to store whole numbers in Java?\nA) int\nB) byte\nC) short\nD) All of these",
+      "answer": "D) All of these",
+      "source_section": "30 Jul 2024 Term I Examination"
+    },
+    {
+      "id": "jv_pep_6",
+      "question": "Choose the best answer.\nThe data \"Australia\" is an example of which data type?\nA) int\nB) String\nC) double\nD) None of these",
+      "answer": "B) String",
+      "source_section": "30 Jul 2024 Term I Examination"
+    },
+    {
+      "id": "jv_pep_7",
+      "question": "Choose the best answer.\nThe operator that gives the remainder when one value is divided by another is ______.\nA) >\nB) %\nC) /\nD) --",
+      "answer": "B) %",
+      "source_section": "30 Jul 2024 Term I Examination"
+    },
+    {
+      "id": "jv_pep_8",
+      "question": "Choose the best answer.\nWhich of the following statements shows object initialization correctly?\nA) int a = 10;\nB) float b == 10;\nC) String s;\nD) String s = India;",
+      "answer": "A) int a = 10;",
+      "source_section": "30 Jul 2024 Term I Examination"
+    },
+    {
+      "id": "jv_pep_9",
+      "question": "Answer the following questions.\n(i) What is the purpose of the `%` operator in Java?\n(ii) What is the purpose of the `/` operator in Java?",
+      "answer": "(i) The `%` operator gives the remainder after division.\n(ii) The `/` operator performs division and gives the quotient.",
+      "source_section": "25 Jul 2025 Second Round Test"
+    },
+    {
+      "id": "jv_pep_10",
+      "question": "Answer the following question.\nWhat is the main difference between a unary operator and a binary operator in Java?",
+      "answer": "A unary operator works on one operand, whereas a binary operator works on two operands.",
+      "source_section": "25 Jul 2025 Second Round Test"
+    },
+    {
+      "id": "jv_pep_11",
+      "question": "Answer the following question.\nExplain the difference between `System.out.println()` and `System.out.print()`.",
+      "answer": "`System.out.println()` prints the output and moves to the next line. `System.out.print()` prints the output on the same line without moving to the next line.",
+      "source_section": "26 Jun 2025 First Round Test"
+    },
+    {
+      "id": "jv_pep_12",
+      "question": "Identify a suitable Java data type for each of the following.\n(a) Temperature of Antarctica\n(b) First letter of your school name\n(c) Number of apples\n(d) Your name",
+      "answer": "(a) double or float\n(b) char\n(c) int\n(d) String",
+      "source_section": "26 Jun 2025 First Round Test"
+    },
+    {
+      "id": "jv_pep_13",
+      "question": "Look at the expression `7 * 3` and answer the following.\n(i) Identify the operator.\n(ii) Identify the two operands.\n(iii) What value does the expression produce?",
+      "answer": "(i) The operator is `*`.\n(ii) The operands are 7 and 3.\n(iii) The expression produces 21.",
+      "source_section": "25 Jul 2025 Second Round Test"
+    },
+    {
+      "id": "jv_pep_14",
+      "question": "Write a Java program to store your name, age, class, and section in suitable variables and print them in a single line.",
+      "answer": "public class StudentInfo {\n    public static void main(String[] args) {\n        String name = \"Ani\";\n        int age = 13;\n        String studentClass = \"8\";\n        char section = 'C';\n        System.out.println(name + \" \" + age + \" \" + studentClass + section);\n    }\n}",
+      "source_section": "26 Jun 2025 First Round Test"
+    },
+    {
+      "id": "jv_pep_15",
+      "question": "Write a Java program to print the pattern shown below.\n* * *\n* $ *",
+      "answer": "public class PatternPrint {\n    public static void main(String[] args) {\n        System.out.println(\"* * *\");\n        System.out.println(\"* $ *\");\n    }\n}",
+      "source_section": "26 Jun 2025 First Round Test"
+    },
+    {
+      "id": "jv_pep_16",
+      "question": "Write a Java program to create an arithmetic calculator for performing `+`, `-`, `*`, and `/`.",
+      "answer": "public class Calculator {\n    public static void main(String[] args) {\n        int a = 20;\n        int b = 5;\n        System.out.println(\"Sum = \" + (a + b));\n        System.out.println(\"Difference = \" + (a - b));\n        System.out.println(\"Product = \" + (a * b));\n        System.out.println(\"Quotient = \" + (a / b));\n    }\n}",
+      "source_section": "25 Jul 2025 Second Round Test"
+    },
+    {
+      "id": "jv_pep_17",
+      "question": "Rohan bought 2 kg of rice at 45 per kg, 1.5 kg of sugar at 40 per kg, and 3 litres of milk at 30 per litre. The shopkeeper gave a discount of 20 on the total bill. Write a Java program to display the final amount to be paid.",
+      "answer": "public class GroceryBill {\n    public static void main(String[] args) {\n        double rice = 2 * 45;\n        double sugar = 1.5 * 40;\n        double milk = 3 * 30;\n        double total = rice + sugar + milk;\n        double finalAmount = total - 20;\n        System.out.println(\"Final amount = \" + finalAmount);\n    }\n}",
+      "source_section": "25 Jul 2025 Second Round Test"
+    },
+    {
+      "id": "jv_pep_18",
+      "question": "Write a Java program to calculate and display the amount received when a shop sells 25 electric scooters, each costing Rs. 134000.",
+      "answer": "public class ScooterSales {\n    public static void main(String[] args) {\n        int price = 134000;\n        int quantity = 25;\n        int amount = price * quantity;\n        System.out.println(\"Amount received = \" + amount);\n    }\n}",
+      "source_section": "30 Jul 2024 Term I Examination"
+    },
+    {
+      "id": "jv_pep_19",
+      "question": "Write a Java program to initialize 5 random numbers and find their average.",
+      "answer": "public class AverageOfFive {\n    public static void main(String[] args) {\n        int a = 12;\n        int b = 18;\n        int c = 24;\n        int d = 30;\n        int e = 16;\n        double average = (a + b + c + d + e) / 5.0;\n        System.out.println(\"Average = \" + average);\n    }\n}",
+      "source_section": "30 Jul 2024 Term I Examination"
+    }
+  ]
+}

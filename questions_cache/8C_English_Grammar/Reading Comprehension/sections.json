@@ -3,11 +3,19 @@
   "chapter": "Reading Comprehension",
   "sections": {
     "textbook": [
-      {"value": "7c_exam_passages", "label": "Exam Passages", "icon": "📝"}
+      {"value": "8c_exam_passages", "label": "Sample Paper Passages (Papers 1-3)", "icon": "📝"}
     ],
     "exam": [
-      {"value": "7c_additional_passages", "label": "Extra Passages", "icon": "📄"}
+      {"value": "7c_exam_passages", "label": "Extra Passages (Set 1)", "icon": "📄"},
+      {"value": "7c_additional_passages", "label": "Extra Passages (Set 2)", "icon": "📄"}
     ],
-    "miscellaneous": []
+    "miscellaneous": [
+      {"value": "practice_passages", "label": "Practice Passages", "icon": "📚"}
+    ]
+  },
+  "section_labels": {
+    "textbook": "Class 8 Sample Paper Passages",
+    "exam": "Extra Practice Passages",
+    "miscellaneous": "Practice Passages"
   }
 }

@@ -1,0 +1,115 @@
+{
+  "subject": "8C Hindi",
+  "chapter": "सबमें ईश्वर",
+  "question_type": "do_as_directed",
+  "questions": [
+    {
+      "id": "si_ls_1",
+      "question": "दो पर्यायवाची लिखिए: किसान",
+      "answer": "कृषक, हलधर",
+      "explanation": "English meaning of the question: Write two synonyms for किसान.<br><br>English meaning of the answer: The answer gives two words meaning farmer or cultivator."
+    },
+    {
+      "id": "si_ls_2",
+      "question": "दो पर्यायवाची लिखिए: नदी",
+      "answer": "सरिता, सलिला",
+      "explanation": "English meaning of the question: Write two synonyms for नदी.<br><br>English meaning of the answer: The answer gives two words meaning river."
+    },
+    {
+      "id": "si_ls_3",
+      "question": "दो पर्यायवाची लिखिए: पेड़",
+      "answer": "तरु, विटप",
+      "explanation": "English meaning of the question: Write two synonyms for पेड़.<br><br>English meaning of the answer: The answer gives two words meaning tree."
+    },
+    {
+      "id": "si_ls_4",
+      "question": "दो पर्यायवाची लिखिए: फूल",
+      "answer": "कुसुम, सुमन",
+      "explanation": "English meaning of the question: Write two synonyms for फूल.<br><br>English meaning of the answer: The answer gives two words meaning flower."
+    },
+    {
+      "id": "si_ls_5",
+      "question": "दो पर्यायवाची लिखिए: कौआ",
+      "answer": "काक, वायस",
+      "explanation": "English meaning of the question: Write two synonyms for कौआ.<br><br>English meaning of the answer: The answer gives two words meaning crow."
+    },
+    {
+      "id": "si_ls_6",
+      "question": "दो पर्यायवाची लिखिए: आँख",
+      "answer": "नयन, लोचन",
+      "explanation": "English meaning of the question: Write two synonyms for आँख.<br><br>English meaning of the answer: The answer gives two words meaning eye."
+    },
+    {
+      "id": "si_ls_7",
+      "question": "विलोम शब्द लिखिए: सुख",
+      "answer": "दुख",
+      "explanation": "English meaning of the question: Write the opposite of सुख.<br><br>English meaning of the answer: The answer is sorrow."
+    },
+    {
+      "id": "si_ls_8",
+      "question": "विलोम शब्द लिखिए: बड़ा",
+      "answer": "छोटा",
+      "explanation": "English meaning of the question: Write the opposite of बड़ा.<br><br>English meaning of the answer: The answer is small."
+    },
+    {
+      "id": "si_ls_9",
+      "question": "विलोम शब्द लिखिए: काला",
+      "answer": "गोरा",
+      "explanation": "English meaning of the question: Write the opposite of काला.<br><br>English meaning of the answer: The answer is fair."
+    },
+    {
+      "id": "si_ls_10",
+      "question": "विलोम शब्द लिखिए: एक",
+      "answer": "अनेक",
+      "explanation": "English meaning of the question: Write the opposite of एक.<br><br>English meaning of the answer: The answer is many."
+    },
+    {
+      "id": "si_ls_11",
+      "question": "विलोम शब्द लिखिए: रात",
+      "answer": "दिन",
+      "explanation": "English meaning of the question: Write the opposite of रात.<br><br>English meaning of the answer: The answer is day."
+    },
+    {
+      "id": "si_ls_12",
+      "question": "विलोम शब्द लिखिए: धर्म",
+      "answer": "अधर्म",
+      "explanation": "English meaning of the question: Write the opposite of धर्म.<br><br>English meaning of the answer: The answer is अधर्म."
+    },
+    {
+      "id": "si_ls_13",
+      "question": "वर्ण अलग-अलग कीजिए: पड़ोसी",
+      "answer": "प + ड़ + ो + स + ी",
+      "explanation": "English meaning of the question: Split the letters of पड़ोसी.<br><br>English meaning of the answer: The word has been broken into its letter components."
+    },
+    {
+      "id": "si_ls_14",
+      "question": "वर्ण अलग-अलग कीजिए: ईश्वर",
+      "answer": "ई + श + ् + व + र",
+      "explanation": "English meaning of the question: Split the letters of ईश्वर.<br><br>English meaning of the answer: The word has been broken into its letter components."
+    },
+    {
+      "id": "si_ls_15",
+      "question": "वर्ण अलग-अलग कीजिए: प्रेम",
+      "answer": "प + ् + र + े + म",
+      "explanation": "English meaning of the question: Split the letters of प्रेम.<br><br>English meaning of the answer: The word has been broken into its letter components."
+    },
+    {
+      "id": "si_ls_16",
+      "question": "वर्ण अलग-अलग कीजिए: मानव",
+      "answer": "म + ा + न + व",
+      "explanation": "English meaning of the question: Split the letters of मानव.<br><br>English meaning of the answer: The word has been broken into its letter components."
+    },
+    {
+      "id": "si_ls_17",
+      "question": "वर्ण अलग-अलग कीजिए: आपस",
+      "answer": "आ + प + स",
+      "explanation": "English meaning of the question: Split the letters of आपस.<br><br>English meaning of the answer: The word has been broken into its letter components."
+    },
+    {
+      "id": "si_ls_18",
+      "question": "वर्ण अलग-अलग कीजिए: मतभेद",
+      "answer": "म + त + भ + े + द",
+      "explanation": "English meaning of the question: Split the letters of मतभेद.<br><br>English meaning of the answer: The word has been broken into its letter components."
+    }
+  ]
+}

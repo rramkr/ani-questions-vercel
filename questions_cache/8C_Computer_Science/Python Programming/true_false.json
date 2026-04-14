@@ -1,0 +1,468 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Python Programming",
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A list in Python is defined using square brackets [].",
+      "answer": "True"
+    },
+    {
+      "id": 2,
+      "question": "The first element of a list has index 1.",
+      "answer": "False",
+      "explanation": "The first element has index 0, not 1."
+    },
+    {
+      "id": 3,
+      "question": "The negative index -1 refers to the last element of a list.",
+      "answer": "True"
+    },
+    {
+      "id": 4,
+      "question": "The len() function returns the number of items in a list.",
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "Lists in Python do not allow duplicate values.",
+      "answer": "False",
+      "explanation": "Lists allow duplicate values."
+    },
+    {
+      "id": 6,
+      "question": "Lists in Python are changeable.",
+      "answer": "True"
+    },
+    {
+      "id": 7,
+      "question": "List items are separated using semicolons.",
+      "answer": "False",
+      "explanation": "List items are separated using commas."
+    },
+    {
+      "id": 8,
+      "question": "A condition in Python returns True or False.",
+      "answer": "True"
+    },
+    {
+      "id": 9,
+      "question": "The operator = is used to compare if two values are equal.",
+      "answer": "False",
+      "explanation": "The operator == is used to compare equality. = is the assignment operator."
+    },
+    {
+      "id": 10,
+      "question": "The operator != means 'not equal to'.",
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "In Python, indentation is optional.",
+      "answer": "False",
+      "explanation": "Indentation is mandatory in Python to define code blocks."
+    },
+    {
+      "id": 12,
+      "question": "Indentation is used to define blocks of code in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 13,
+      "question": "If a = 10 and b = 15, then a > b is True.",
+      "answer": "False",
+      "explanation": "10 is not greater than 15, so a > b is False."
+    },
+    {
+      "id": 14,
+      "question": "If a = 10 and b = 15, then a < b is True.",
+      "answer": "True"
+    },
+    {
+      "id": 15,
+      "question": "The for loop can iterate through strings.",
+      "answer": "True"
+    },
+    {
+      "id": 16,
+      "question": "The for loop can iterate through lists.",
+      "answer": "True"
+    },
+    {
+      "id": 17,
+      "question": "In range(10, 20, 1), the number 20 will be printed.",
+      "answer": "False",
+      "explanation": "The stop value is exclusive, so it stops at 19."
+    },
+    {
+      "id": 18,
+      "question": "In range(5), the output starts from 0.",
+      "answer": "True"
+    },
+    {
+      "id": 19,
+      "question": "range(5) produces 0, 1, 2, 3, 4, 5.",
+      "answer": "False",
+      "explanation": "range(5) produces 0, 1, 2, 3, 4 (stops before 5)."
+    },
+    {
+      "id": 20,
+      "question": "To count backwards, we use a negative step value.",
+      "answer": "True"
+    },
+    {
+      "id": 21,
+      "question": "range(10, 0, -1) will print numbers from 10 to 1.",
+      "answer": "True"
+    },
+    {
+      "id": 22,
+      "question": "time.sleep(1) pauses the program for 1 minute.",
+      "answer": "False",
+      "explanation": "time.sleep(1) pauses for 1 second, not 1 minute."
+    },
+    {
+      "id": 23,
+      "question": "To use time.sleep(), we must import the time module.",
+      "answer": "True"
+    },
+    {
+      "id": 24,
+      "question": "The modulus operator % gives the quotient of division.",
+      "answer": "False",
+      "explanation": "The % operator gives the remainder, not the quotient."
+    },
+    {
+      "id": 25,
+      "question": "A number is even if n % 2 == 0.",
+      "answer": "True"
+    },
+    {
+      "id": 26,
+      "question": "The sum of angles in a triangle is 360 degrees.",
+      "answer": "False",
+      "explanation": "The sum of angles in a triangle is 180 degrees."
+    },
+    {
+      "id": 27,
+      "question": "A person can vote in India if their age is 18 or above.",
+      "answer": "True"
+    },
+    {
+      "id": 28,
+      "question": "A person aged 55 is a senior citizen.",
+      "answer": "False",
+      "explanation": "A person is a senior citizen if aged 60 or above."
+    },
+    {
+      "id": 29,
+      "question": "In Python, True and False start with capital letters.",
+      "answer": "True"
+    },
+    {
+      "id": 30,
+      "question": "The colon : is required at the end of if and for statements.",
+      "answer": "True"
+    },
+    {
+      "id": 31,
+      "question": "print(fruits[-5]) will print the first element if the list has 5 elements.",
+      "answer": "True"
+    },
+    {
+      "id": 32,
+      "question": "range(3, 8) produces numbers 3, 4, 5, 6, 7, 8.",
+      "answer": "False",
+      "explanation": "range(3, 8) produces 3, 4, 5, 6, 7 (stops before 8)."
+    },
+    {
+      "id": 33,
+      "question": "In 'for x in \"hello\"', x takes each character of the string one by one.",
+      "answer": "True"
+    },
+    {
+      "id": 34,
+      "question": "range(0, 11, 2) produces all even numbers from 0 to 10.",
+      "answer": "True"
+    },
+    {
+      "id": 35,
+      "question": "range(1, 11, 2) produces all odd numbers from 1 to 9.",
+      "answer": "True"
+    },
+    {
+      "id": 36,
+      "question": "A list can contain elements of different data types.",
+      "answer": "True"
+    },
+    {
+      "id": 37,
+      "question": "The index of the fifth element in a list is 5.",
+      "answer": "False",
+      "explanation": "The index of the fifth element is 4 (since indexing starts from 0)."
+    },
+    {
+      "id": 38,
+      "question": "len() can be used to find the length of both lists and strings.",
+      "answer": "True"
+    },
+    {
+      "id": 39,
+      "question": "In Python, 0 is considered as False in conditions.",
+      "answer": "True"
+    },
+    {
+      "id": 40,
+      "question": "In Python, 1 is considered as True in conditions.",
+      "answer": "True"
+    },
+    {
+      "id": 41,
+      "question": "The input() function returns an integer by default.",
+      "answer": "False",
+      "explanation": "input() returns a string by default. Use int() to convert it."
+    },
+    {
+      "id": 42,
+      "question": "range(10, 0) will print numbers from 10 to 1.",
+      "answer": "False",
+      "explanation": "range(10, 0) produces nothing. You need range(10, 0, -1) for countdown."
+    },
+    {
+      "id": 43,
+      "question": "The // operator performs floor division.",
+      "answer": "True"
+    },
+    {
+      "id": 44,
+      "question": "15 // 4 equals 3.75.",
+      "answer": "False",
+      "explanation": "15 // 4 equals 3 (floor division gives integer result)."
+    },
+    {
+      "id": 45,
+      "question": "15 / 4 equals 3.75.",
+      "answer": "True"
+    },
+    {
+      "id": 46,
+      "question": "An empty list [] has length 0.",
+      "answer": "True"
+    },
+    {
+      "id": 47,
+      "question": "You can access list[-6] if the list has only 5 elements.",
+      "answer": "False",
+      "explanation": "For a list with 5 elements, valid negative indices are -1 to -5."
+    },
+    {
+      "id": 48,
+      "question": "The break statement exits only the innermost loop.",
+      "answer": "True"
+    },
+    {
+      "id": 49,
+      "question": "The continue statement exits the loop completely.",
+      "answer": "False",
+      "explanation": "continue skips to the next iteration; break exits the loop."
+    },
+    {
+      "id": 50,
+      "question": "100 % 10 equals 0.",
+      "answer": "True"
+    },
+    {
+      "id": 51,
+      "question": "100 % 7 equals 2.",
+      "answer": "True"
+    },
+    {
+      "id": 52,
+      "question": "A number is odd if n % 2 == 1.",
+      "answer": "True"
+    },
+    {
+      "id": 53,
+      "question": "The expression 5 == 5.0 returns True in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 54,
+      "question": "The expression '5' == 5 returns True in Python.",
+      "answer": "False",
+      "explanation": "'5' is a string and 5 is an integer, so they are not equal."
+    },
+    {
+      "id": 55,
+      "question": "for x in 'ab': print(x) will print 'a' and 'b' on separate lines.",
+      "answer": "True"
+    },
+    {
+      "id": 56,
+      "question": "range(5, 10, 2) produces 5, 7, 9.",
+      "answer": "True"
+    },
+    {
+      "id": 57,
+      "question": "range(5, 10, 2) produces 5, 7, 9, 11.",
+      "answer": "False",
+      "explanation": "11 is beyond the stop value of 10."
+    },
+    {
+      "id": 58,
+      "question": "The else part is mandatory in an if statement.",
+      "answer": "False",
+      "explanation": "else is optional. You can have if without else."
+    },
+    {
+      "id": 59,
+      "question": "Multiple statements can be inside an if block.",
+      "answer": "True"
+    },
+    {
+      "id": 60,
+      "question": "You can have nested for loops in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 61,
+      "question": "You can have nested if statements in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 62,
+      "question": "time.sleep(0.5) pauses for half a second.",
+      "answer": "True"
+    },
+    {
+      "id": 63,
+      "question": "Lists in Python are immutable (cannot be changed).",
+      "answer": "False",
+      "explanation": "Lists are mutable (can be changed). Tuples are immutable."
+    },
+    {
+      "id": 64,
+      "question": "The first parameter in range(start, stop, step) is called start.",
+      "answer": "True"
+    },
+    {
+      "id": 65,
+      "question": "In range(3), the default start value is 1.",
+      "answer": "False",
+      "explanation": "The default start value is 0, not 1."
+    },
+    {
+      "id": 66,
+      "question": "In range(1, 10), the default step value is 1.",
+      "answer": "True"
+    },
+    {
+      "id": 67,
+      "question": "str(123) converts the integer 123 to the string '123'.",
+      "answer": "True"
+    },
+    {
+      "id": 68,
+      "question": "int('hello') will successfully convert 'hello' to an integer.",
+      "answer": "False",
+      "explanation": "int() can only convert numeric strings like '123', not text."
+    },
+    {
+      "id": 69,
+      "question": "len([1, 2, [3, 4]]) returns 4.",
+      "answer": "False",
+      "explanation": "It returns 3. The inner list [3, 4] counts as one element."
+    },
+    {
+      "id": 70,
+      "question": "Indentation errors are syntax errors in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 71,
+      "question": "The escape sequence \\n adds a horizontal tab in the output.",
+      "answer": "False",
+      "explanation": "\\n adds a new line. \\t adds a horizontal tab."
+    },
+    {
+      "id": 72,
+      "question": "The escape sequence \\t gives a horizontal tab of 4 spaces.",
+      "answer": "True"
+    },
+    {
+      "id": 73,
+      "question": "print(\"Hello\\nWorld\") will print Hello and World on the same line.",
+      "answer": "False",
+      "explanation": "\\n creates a new line, so Hello and World will be on separate lines."
+    },
+    {
+      "id": 74,
+      "question": "Python was created by Guido Van Rossum.",
+      "answer": "True"
+    },
+    {
+      "id": 75,
+      "question": "Python was named after the python snake.",
+      "answer": "False",
+      "explanation": "Python was named after the British comedy show 'Monty Python'."
+    },
+    {
+      "id": 76,
+      "question": "Python is a low-level programming language.",
+      "answer": "False",
+      "explanation": "Python is a high-level language."
+    },
+    {
+      "id": 77,
+      "question": "In interactive mode, we can write, save and run programs with multiple lines of code.",
+      "answer": "False",
+      "explanation": "Interactive mode only allows one line at a time. Script mode allows multiple lines."
+    },
+    {
+      "id": 78,
+      "question": "In Python, \"123\" is a string, not an integer.",
+      "answer": "True",
+      "explanation": "Anything within quotes is a string in Python."
+    },
+    {
+      "id": 79,
+      "question": "A variable in Python acts as a container for storing data values.",
+      "answer": "True"
+    },
+    {
+      "id": 80,
+      "question": "The length of the string \"H T\" is 2.",
+      "answer": "False",
+      "explanation": "The length is 3 because spaces are counted when determining the length of a string."
+    },
+    {
+      "id": 81,
+      "question": "Binary language is made up of 1s and 0s.",
+      "answer": "True"
+    },
+    {
+      "id": 82,
+      "question": "The default step value in range() function is -1.",
+      "answer": "False",
+      "explanation": "The default step value is 1, not -1."
+    },
+    {
+      "id": 83,
+      "question": "10.9 is an example of a float data type in Python.",
+      "answer": "True"
+    },
+    {
+      "id": 84,
+      "question": "You cannot do math with strings in Python.",
+      "answer": "True",
+      "explanation": "Strings are text data. You cannot perform arithmetic operations on them (though + concatenates strings)."
+    },
+    {
+      "id": 85,
+      "question": "The + operator in Python can only add numbers.",
+      "answer": "False",
+      "explanation": "The + operator can also concatenate (join) strings."
+    }
+  ]
+}

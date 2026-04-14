@@ -1,0 +1,64 @@
+{
+  "subject": "8C Hindi",
+  "chapter": "सबमें ईश्वर",
+  "sections": {
+    "textbook": [
+      {
+        "value": "notes",
+        "label": "पाठ नोट्स (Chapter Notes)",
+        "icon": "📒"
+      },
+      {
+        "value": "textbook_qa",
+        "label": "पाठ प्रश्न-उत्तर (Textbook Q&A)",
+        "icon": "📝"
+      },
+      {
+        "value": "word_meanings",
+        "label": "शब्दार्थ और शब्द-ज्ञान (Word Meanings)",
+        "icon": "📚"
+      },
+      {
+        "value": "poem_lines",
+        "label": "कविता पंक्तियाँ (Poem Lines)",
+        "icon": "📜"
+      }
+    ],
+    "exam": [
+      {
+        "value": "mcq",
+        "label": "सही उत्तर चुनिए (Choose the Correct Answer)",
+        "icon": "🔘"
+      },
+      {
+        "value": "fill_in_blanks",
+        "label": "रिक्त स्थान भरिए (Fill in the Blanks)",
+        "icon": "✏️"
+      },
+      {
+        "value": "language_skill",
+        "label": "भाषा कौशल (Language Skill)",
+        "icon": "🗣️"
+      },
+      {
+        "value": "picture_based_writing",
+        "label": "चित्र आधारित लेखन (Picture Based Writing)",
+        "icon": "🖼️"
+      }
+    ],
+    "miscellaneous": [
+      {
+        "value": "notebook_revision",
+        "label": "कक्षा नोटबुक अभ्यास (Notebook Revision)",
+        "icon": "📓"
+      }
+    ],
+    "previous_year": [],
+    "reference": []
+  },
+  "section_labels": {
+    "textbook": "पाठ सामग्री (Chapter Material)",
+    "exam": "अतिरिक्त अभ्यास (Extra Practice)",
+    "miscellaneous": "नोटबुक से अतिरिक्त सामग्री (Additional Notebook Material)"
+  }
+}

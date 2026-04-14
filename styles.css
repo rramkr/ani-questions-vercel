@@ -734,6 +734,8 @@ body {
     cursor: pointer;
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     border: 3px solid transparent;
+    text-decoration: none;
+    color: inherit;
 }
 
 .type-item:hover {
@@ -752,6 +754,20 @@ body {
     flex: 1;
     font-weight: 700;
     font-size: 1.15rem;
+}
+
+.type-label-wrap {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 0;
+}
+
+.type-helper {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-light);
 }
 
 .no-types {
@@ -1236,6 +1252,39 @@ body {
     background: #f8fafc;
     border-radius: 10px;
     line-height: 1.7;
+}
+
+.explanation strong {
+    display: block;
+    margin-bottom: 6px;
+    font-style: normal;
+}
+
+.explanation-body {
+    white-space: normal;
+}
+
+.textbook-extract {
+    font-size: 0.95rem;
+    color: #1e3a8a;
+    font-style: italic;
+    margin-bottom: 12px;
+    padding: 12px 14px;
+    background: #eef2ff;
+    border-left: 4px solid #4f46e5;
+    border-radius: 0 10px 10px 0;
+    line-height: 1.7;
+}
+
+.textbook-extract strong {
+    color: #312e81;
+    font-style: normal;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 4px;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
 .key-points {
@@ -1877,6 +1926,45 @@ body {
 .type-item.pdf-link:hover .pdf-badge {
     background: white;
     color: #ef4444;
+}
+
+/* External Link Styles (NotebookLM, etc.) */
+.type-item.external-link {
+    position: relative;
+}
+
+.type-item.external-notebooklm {
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border: 2px solid #f59e0b;
+}
+
+.type-item.external-notebooklm:hover {
+    background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+    color: white;
+}
+
+.type-item.external-notebooklm:hover .type-helper {
+    color: rgba(255, 255, 255, 0.92);
+}
+
+.external-badge {
+    color: white;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    margin-left: auto;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+}
+
+.badge-notebooklm {
+    background: #f59e0b;
+}
+
+.type-item.external-notebooklm:hover .badge-notebooklm {
+    background: white;
+    color: #f59e0b;
 }
 
 /* Admin Panel Styles */
@@ -3695,12 +3783,21 @@ b, strong {
 }
 
 .comprehension-answer-box .answer-explanation {
-    margin-top: 0.8rem;
-    padding-top: 0.8rem;
-    border-top: 1px solid rgba(39, 103, 73, 0.2);
-    color: #276749;
+    margin-top: 0.85rem;
+    color: #744210;
+    background: #fefce8;
+    border-left: 4px solid #facc15;
+    border-radius: 10px;
+    padding: 12px 14px;
     font-size: 0.9rem;
-    line-height: 1.5;
+    line-height: 1.7;
+    font-style: italic;
+}
+
+.comprehension-answer-box .answer-explanation strong {
+    display: block;
+    margin-bottom: 6px;
+    font-style: normal;
 }
 
 .comprehension-navigation {

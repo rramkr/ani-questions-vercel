@@ -1,0 +1,43 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "jv_lp_1",
+      "question": "Label the program below with the following: class declaration, class name, main method, statement, opening curly bracket, closing curly bracket, semicolon.\n\npublic class Hello {\n    public static void main(String[] args) {\n        System.out.println(\"Hello from Java\");\n    }\n}",
+      "answer": "class declaration -> public class Hello\nclass name -> Hello\nmain method -> public static void main(String[] args)\nstatement -> System.out.println(\"Hello from Java\");\nopening curly bracket -> {\nclosing curly bracket -> }\nsemicolon -> ; after the println statement",
+      "key_points": ["Identify class declaration", "Identify main method", "Identify statement and semicolon"]
+    },
+    {
+      "id": "jv_lp_2",
+      "question": "Label the program below with the following: class declaration, class name, main method, print statement, class bracket, method bracket.\n\npublic class Student {\n    public static void main(String[] args) {\n        System.out.println(\"Class 8C\");\n    }\n}",
+      "answer": "class declaration -> public class Student\nclass name -> Student\nmain method -> public static void main(String[] args)\nprint statement -> System.out.println(\"Class 8C\");\nclass bracket -> outer pair of curly brackets\nmethod bracket -> inner pair of curly brackets",
+      "key_points": ["Recognise outer and inner brackets", "Recognise print statement"]
+    },
+    {
+      "id": "jv_lp_3",
+      "question": "Label the program below with the following: class declaration, class name, main method, statement, semicolon.\n\npublic class Main {\n    public static void main(String[] args) {\n        System.out.print(\"Welcome\");\n    }\n}",
+      "answer": "class declaration -> public class Main\nclass name -> Main\nmain method -> public static void main(String[] args)\nstatement -> System.out.print(\"Welcome\");\nsemicolon -> ; after the print statement",
+      "key_points": ["Recognise print statement", "Recognise semicolon"]
+    },
+    {
+      "id": "jv_lp_4",
+      "question": "Label the program below with the following: access modifier, keyword used to define class, class name, main method, output statement.\n\npublic class Bank {\n    public static void main(String[] args) {\n        System.out.println(\"Balance\");\n    }\n}",
+      "answer": "access modifier -> public\nkeyword used to define class -> class\nclass name -> Bank\nmain method -> public static void main(String[] args)\noutput statement -> System.out.println(\"Balance\");",
+      "key_points": ["Access modifier", "class keyword", "Output statement"]
+    },
+    {
+      "id": "jv_lp_5",
+      "question": "Label the program below with the following: class declaration, class name, variable declaration and initialization, data type, variable name, value assigned.\n\npublic class Marks {\n    public static void main(String[] args) {\n        int marks = 95;\n        System.out.println(marks);\n    }\n}",
+      "answer": "class declaration -> public class Marks\nclass name -> Marks\nvariable declaration and initialization -> int marks = 95;\ndata type -> int\nvariable name -> marks\nvalue assigned -> 95",
+      "key_points": ["Data type", "Variable name", "Initialization"]
+    },
+    {
+      "id": "jv_lp_6",
+      "question": "Label the program below with the following: class declaration, main method, String variable declaration, assignment operator, print statement.\n\npublic class SchoolName {\n    public static void main(String[] args) {\n        String school = \"Sishya\";\n        System.out.println(school);\n    }\n}",
+      "answer": "class declaration -> public class SchoolName\nmain method -> public static void main(String[] args)\nString variable declaration -> String school = \"Sishya\";\nassignment operator -> =\nprint statement -> System.out.println(school);",
+      "key_points": ["String variable", "Assignment operator", "Print statement"]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "subject": "8C Hindi",
+  "chapter": "सबमें ईश्वर",
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "si_mcq_1",
+      "type": "mcq",
+      "question": "कवि बच्चों को किस बात के साथ मिलने-जुलने को कहता है?",
+      "options": [
+        "डर",
+        "प्यार",
+        "गुस्सा",
+        "अहंकार"
+      ],
+      "answer": "प्यार",
+      "source": "Poem",
+      "explanation": "English meaning of the question: What does the poet ask children to come together with?<br><br>English meaning of the answer: The correct answer is love."
+    },
+    {
+      "id": "si_mcq_2",
+      "type": "mcq",
+      "question": "पास-पड़ोसी क्या बाँटें?",
+      "options": [
+        "धन",
+        "खिलौने",
+        "सुख-दुख",
+        "कपड़े"
+      ],
+      "answer": "सुख-दुख",
+      "source": "Poem",
+      "explanation": "English meaning of the question: What should neighbours share?<br><br>English meaning of the answer: The correct answer is joys and sorrows."
+    },
+    {
+      "id": "si_mcq_3",
+      "type": "mcq",
+      "question": "सबमें क्या होने चाहिए?",
+      "options": [
+        "जज्बात",
+        "भेदभाव",
+        "झगड़े",
+        "दूरी"
+      ],
+      "answer": "जज्बात",
+      "source": "Poem",
+      "explanation": "English meaning of the question: What should exist in everyone?<br><br>English meaning of the answer: The correct answer is feelings."
+    },
+    {
+      "id": "si_mcq_4",
+      "type": "mcq",
+      "question": "अलग क्या हैं?",
+      "options": [
+        "ईश्वर",
+        "रक्त",
+        "पंथ",
+        "मानवता"
+      ],
+      "answer": "पंथ",
+      "source": "Poem",
+      "explanation": "English meaning of the question: What is different?<br><br>English meaning of the answer: The correct answer is paths."
+    },
+    {
+      "id": "si_mcq_5",
+      "type": "mcq",
+      "question": "सबमें कौन एक है?",
+      "options": [
+        "जग",
+        "ईश्वर",
+        "रंग",
+        "विचार"
+      ],
+      "answer": "ईश्वर",
+      "source": "Poem",
+      "explanation": "English meaning of the question: Who is one in everyone?<br><br>English meaning of the answer: The correct answer is God."
+    },
+    {
+      "id": "si_mcq_6",
+      "type": "mcq",
+      "question": "सभी का रक्त किस रंग का बताया गया है?",
+      "options": [
+        "नीला",
+        "हरा",
+        "लाल",
+        "काला"
+      ],
+      "answer": "लाल",
+      "source": "Poem",
+      "explanation": "English meaning of the question: What colour is everyone's blood said to be?<br><br>English meaning of the answer: The correct answer is red."
+    },
+    {
+      "id": "si_mcq_7",
+      "type": "mcq",
+      "question": "दिन-नित किसका हाथ बढ़े?",
+      "options": [
+        "घृणा",
+        "प्रेम",
+        "स्वार्थ",
+        "मतभेद"
+      ],
+      "answer": "प्रेम",
+      "source": "Poem",
+      "explanation": "English meaning of the question: What should grow day by day?<br><br>English meaning of the answer: The correct answer is love."
+    },
+    {
+      "id": "si_mcq_8",
+      "type": "mcq",
+      "question": "ऋषियों ने किस बात की शिक्षा दी?",
+      "options": [
+        "कोई बड़ा-छोटा नहीं",
+        "धर्म अलग रखें",
+        "दूसरों से दूर रहें",
+        "केवल अपने बारे में सोचें"
+      ],
+      "answer": "कोई बड़ा-छोटा नहीं",
+      "source": "Poem",
+      "explanation": "English meaning of the question: What did the sages teach?<br><br>English meaning of the answer: The correct answer is that no one is high or low."
+    },
+    {
+      "id": "si_mcq_9",
+      "type": "mcq",
+      "question": "पीर पराई जानने का अर्थ है:",
+      "options": [
+        "अपना दुख छिपाना",
+        "दूसरों का दुख समझना",
+        "जोर से बोलना",
+        "अकेले रहना"
+      ],
+      "answer": "दूसरों का दुख समझना",
+      "source": "Meaning",
+      "explanation": "English meaning of the question: What does understanding another person's pain mean?<br><br>English meaning of the answer: The correct answer is understanding the sorrow of others."
+    },
+    {
+      "id": "si_mcq_10",
+      "type": "mcq",
+      "question": "मतभेद का अर्थ क्या है?",
+      "options": [
+        "प्रेम",
+        "समानता",
+        "विचारों में अंतर",
+        "सहायता"
+      ],
+      "answer": "विचारों में अंतर",
+      "source": "Meaning",
+      "explanation": "English meaning of the question: What is the meaning of मतभेद?<br><br>English meaning of the answer: The correct answer is difference in opinions."
+    },
+    {
+      "id": "si_mcq_11",
+      "type": "mcq",
+      "question": "'जज्बात' शब्द का सही अर्थ क्या है?",
+      "options": [
+        "भावनाएँ",
+        "रास्ते",
+        "रंग",
+        "लोग"
+      ],
+      "answer": "भावनाएँ",
+      "source": "Meaning",
+      "explanation": "English meaning of the question: What is the correct meaning of जज्बात?<br><br>English meaning of the answer: The correct answer is feelings."
+    },
+    {
+      "id": "si_mcq_12",
+      "type": "mcq",
+      "question": "'पंथ' शब्द का अर्थ है:",
+      "options": [
+        "रास्ता",
+        "प्रकाश",
+        "मनुष्य",
+        "मित्र"
+      ],
+      "answer": "रास्ता",
+      "source": "Meaning",
+      "explanation": "English meaning of the question: What is the meaning of पंथ?<br><br>English meaning of the answer: The correct answer is path."
+    },
+    {
+      "id": "si_mcq_13",
+      "type": "mcq",
+      "question": "हमें किसके साथ भेदभाव नहीं करना चाहिए?",
+      "options": [
+        "किसी के साथ नहीं",
+        "केवल मित्रों के साथ",
+        "केवल पड़ोसियों के साथ",
+        "केवल छोटे बच्चों के साथ"
+      ],
+      "answer": "किसी के साथ नहीं",
+      "source": "Exercise",
+      "explanation": "English meaning of the question: With whom should we not discriminate?<br><br>English meaning of the answer: The correct answer is no one."
+    },
+    {
+      "id": "si_mcq_14",
+      "type": "mcq",
+      "question": "अच्छा मानव कौन कहलाता है?",
+      "options": [
+        "जो भेदभाव करे",
+        "जो केवल अपने लिए सोचे",
+        "जो सबके प्रति प्रेमभाव रखे",
+        "जो किसी की मदद न करे"
+      ],
+      "answer": "जो सबके प्रति प्रेमभाव रखे",
+      "source": "Exercise",
+      "explanation": "English meaning of the question: Who is called a good human being?<br><br>English meaning of the answer: The correct answer is one who has love for everyone."
+    },
+    {
+      "id": "si_mcq_15",
+      "type": "mcq",
+      "question": "'चाँदनी' का अर्थ क्या है?",
+      "options": [
+        "moonlight",
+        "starlight",
+        "sunshine",
+        "rain"
+      ],
+      "answer": "moonlight",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: What is the meaning of चाँदनी?<br><br>English meaning of the answer: The correct answer is moonlight."
+    },
+    {
+      "id": "si_mcq_16",
+      "type": "mcq",
+      "question": "'धर्म' का अंग्रेज़ी अर्थ क्या है?",
+      "options": [
+        "river",
+        "religion",
+        "neighbour",
+        "beauty"
+      ],
+      "answer": "religion",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: What is the English meaning of धर्म?<br><br>English meaning of the answer: The correct answer is religion."
+    },
+    {
+      "id": "si_mcq_17",
+      "type": "mcq",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "options": [
+        "अकेले रहना",
+        "समानता और प्रेम",
+        "केवल पढ़ाई करना",
+        "धन कमाना"
+      ],
+      "answer": "समानता और प्रेम",
+      "source": "Chapter theme",
+      "explanation": "English meaning of the question: What is the main message of the poem?<br><br>English meaning of the answer: The correct answer is equality and love."
+    },
+    {
+      "id": "si_mcq_18",
+      "type": "mcq",
+      "question": "कक्षा नोटबुक में किस माह की सही वर्तनी सुधारी गई थी?",
+      "options": [
+        "मार्च",
+        "अप्रैल",
+        "जुलाई",
+        "दिसंबर"
+      ],
+      "answer": "अप्रैल",
+      "source": "Notebook",
+      "explanation": "English meaning of the question: Which month's spelling was corrected in the notebook?<br><br>English meaning of the answer: The correct answer is April."
+    },
+    {
+      "id": "si_mcq_19",
+      "type": "mcq",
+      "question": "31 का हिंदी रूप क्या है?",
+      "options": [
+        "तीस",
+        "इकतीस",
+        "बत्तीस",
+        "तैंतीस"
+      ],
+      "answer": "इकतीस",
+      "source": "Notebook",
+      "explanation": "English meaning of the question: What is the Hindi word for 31?<br><br>English meaning of the answer: The correct answer is इकतीस."
+    },
+    {
+      "id": "si_mcq_20",
+      "type": "mcq",
+      "question": "कविता के अनुसार प्रेमभाव बढ़ाने के लिए क्या करना चाहिए?",
+      "options": [
+        "मतभेद बढ़ाना",
+        "मिल-जुलकर रहना",
+        "अलग रहना",
+        "झगड़ा करना"
+      ],
+      "answer": "मिल-जुलकर रहना",
+      "source": "Exercise",
+      "explanation": "English meaning of the question: According to the poem, what should we do to increase love?<br><br>English meaning of the answer: The correct answer is to live together happily."
+    }
+  ]
+}

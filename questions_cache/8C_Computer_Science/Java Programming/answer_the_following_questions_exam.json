@@ -1,0 +1,43 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "jv_afq_1",
+      "question": "Answer the following questions.\n(i) What is an arithmetic operator?\n(ii) What does the modulus operator do?\n(iii) What is an operand?\n(iv) What is an expression?\n(v) What is a statement?",
+      "answer": "(i) An arithmetic operator is a symbol used to perform mathematical operations.\n(ii) The modulus operator gives the remainder after division.\n(iii) An operand is the value or variable on which an operator works.\n(iv) An expression is a piece of code that produces a value when evaluated.\n(v) A statement is a complete command in Java that ends with a semicolon.",
+      "key_points": ["Operator vocabulary", "Expression and statement"]
+    },
+    {
+      "id": "jv_afq_2",
+      "question": "Answer the following questions.\n(i) What is a binary operator?\n(ii) Why is + called a binary operator?\n(iii) What is the assignment operator?\n(iv) What happens in x = 25?\n(v) Explain 100 + 800 using operator and operands.",
+      "answer": "(i) A binary operator is an operator that works on two operands.\n(ii) + is called a binary operator because it needs one operand on each side.\n(iii) The assignment operator is the symbol =.\n(iv) In x = 25, the value 25 is assigned to x.\n(v) In 100 + 800, + is the operator and 100 and 800 are the operands.",
+      "key_points": ["Binary operator", "Assignment operator", "Operands"]
+    },
+    {
+      "id": "jv_afq_3",
+      "question": "Answer the following questions.\n(i) Why is the main method important?\n(ii) Why is System.out.println() useful?\n(iii) Why are different data types needed?\n(iv) Why should students practise finding the value of variables?\n(v) Why does blueprint practice help in exam preparation?",
+      "answer": "(i) The main method is important because execution begins there.\n(ii) System.out.println() is useful because it prints output and moves to the next line.\n(iii) Different data types are needed to store different kinds of values correctly.\n(iv) Variable value practice helps students understand expressions and output clearly.\n(v) Blueprint practice helps students prepare for the exact pattern of the exam.",
+      "key_points": ["Reasoning-based one mark questions"]
+    },
+    {
+      "id": "jv_afq_4",
+      "question": "Answer the following questions.\n(i) What is class declaration?\n(ii) Why should the class name start with a capital letter in the given examples?\n(iii) What is the role of public in a Java program?\n(iv) What does void mean?\n(v) What does String[] args represent in the main method?",
+      "answer": "(i) Class declaration is the line that introduces and names the class.\n(ii) The examples follow the naming style used in class notes where the class name starts with a capital letter.\n(iii) public is an access modifier that defines the level of access.\n(iv) void means the method returns nothing.\n(v) String[] args represents the input list from the user.",
+      "key_points": ["Class declaration", "public", "void", "String[] args"]
+    },
+    {
+      "id": "jv_afq_5",
+      "question": "Answer the following questions.\n(i) What is the file name rule in Java?\n(ii) What is output?\n(iii) What is the difference between text and decimal data in Java?\n(iv) Which data type stores text?\n(v) Which data types store decimal values?",
+      "answer": "(i) The file name should match the class name.\n(ii) Output is the result displayed on the screen.\n(iii) Text is stored as String values inside double quotes, while decimal data is stored using float or double.\n(iv) String stores text.\n(v) float and double store decimal values.",
+      "key_points": ["File name rule", "Output", "String", "Decimal types"]
+    },
+    {
+      "id": "jv_afq_6",
+      "question": "Answer the following questions.\n(i) What is declaration and initialization together?\n(ii) In `int marks = 95;`, what is the data type?\n(iii) In `int marks = 95;`, what is the variable name?\n(iv) In `int marks = 95;`, what is the literal?\n(v) Why is `=` important in this statement?",
+      "answer": "(i) Declaration and initialization together mean creating a variable and giving it a value in the same statement.\n(ii) The data type is int.\n(iii) The variable name is marks.\n(iv) The literal is 95.\n(v) = is important because it assigns the value to the variable.",
+      "key_points": ["Declaration", "Initialization", "Literal", "="]
+    }
+  ]
+}

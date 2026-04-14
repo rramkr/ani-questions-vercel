@@ -1,0 +1,252 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Ethics and Safety Measures",
+  "question_type": "name_icons",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the icon shown below:",
+      "answer": "Facebook",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/facebook/000000"
+    },
+    {
+      "id": 2,
+      "question": "Identify the icon shown below:",
+      "answer": "X (formerly known as Twitter)",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/x/000000"
+    },
+    {
+      "id": 3,
+      "question": "Identify the icon shown below:",
+      "answer": "Wikipedia",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/wikipedia/000000"
+    },
+    {
+      "id": 4,
+      "question": "Identify the icon shown below:",
+      "answer": "Reddit",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/reddit/000000"
+    },
+    {
+      "id": 5,
+      "question": "Identify the icon shown below:",
+      "answer": "LinkedIn",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=128"
+    },
+    {
+      "id": 6,
+      "question": "Identify the icon shown below:",
+      "answer": "Pinterest",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/pinterest/000000"
+    },
+    {
+      "id": 7,
+      "question": "Identify the icon shown below:",
+      "answer": "WhatsApp",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/whatsapp/000000"
+    },
+    {
+      "id": 8,
+      "question": "Identify the icon shown below:",
+      "answer": "Instagram",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/instagram/000000"
+    },
+    {
+      "id": 9,
+      "question": "Identify the icon shown below:",
+      "answer": "YouTube",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/youtube/000000"
+    },
+    {
+      "id": 10,
+      "question": "Identify the icon shown below:",
+      "answer": "TikTok",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/tiktok/000000"
+    },
+    {
+      "id": 11,
+      "question": "Identify the icon shown below:",
+      "answer": "Snapchat",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/snapchat/000000"
+    },
+    {
+      "id": 12,
+      "question": "Identify the icon shown below:",
+      "answer": "Telegram",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/telegram/000000"
+    },
+    {
+      "id": 13,
+      "question": "Identify the icon shown below:",
+      "answer": "Signal",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/signal/000000"
+    },
+    {
+      "id": 14,
+      "question": "Identify the icon shown below:",
+      "answer": "Discord",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/discord/000000"
+    },
+    {
+      "id": 15,
+      "question": "Identify the icon shown below:",
+      "answer": "Spotify",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/spotify/000000"
+    },
+    {
+      "id": 16,
+      "question": "Identify the icon shown below:",
+      "answer": "Messenger",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/messenger/000000"
+    },
+    {
+      "id": 17,
+      "question": "Identify the icon shown below:",
+      "answer": "Google Chrome",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/googlechrome/000000"
+    },
+    {
+      "id": 18,
+      "question": "Identify the icon shown below:",
+      "answer": "Mozilla Firefox",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/firefoxbrowser/000000"
+    },
+    {
+      "id": 19,
+      "question": "Identify the icon shown below:",
+      "answer": "Safari",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/safari/000000"
+    },
+    {
+      "id": 20,
+      "question": "Identify the icon shown below:",
+      "answer": "Opera",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/opera/000000"
+    },
+    {
+      "id": 21,
+      "question": "Identify the icon shown below:",
+      "answer": "Brave Browser",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/brave/000000"
+    },
+    {
+      "id": 22,
+      "question": "Identify the icon shown below:",
+      "answer": "Google",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/google/000000"
+    },
+    {
+      "id": 23,
+      "question": "Identify the icon shown below:",
+      "answer": "Gmail",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/gmail/000000"
+    },
+    {
+      "id": 24,
+      "question": "Identify the icon shown below:",
+      "answer": "Google Meet",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/googlemeet/000000"
+    },
+    {
+      "id": 25,
+      "question": "Identify the icon shown below:",
+      "answer": "Google Drive",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/googledrive/000000"
+    },
+    {
+      "id": 26,
+      "question": "Identify the icon shown below:",
+      "answer": "Zoom",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/zoom/000000"
+    },
+    {
+      "id": 27,
+      "question": "Identify the icon shown below:",
+      "answer": "Dropbox",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/dropbox/000000"
+    },
+    {
+      "id": 28,
+      "question": "Identify the icon shown below:",
+      "answer": "eBay",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/ebay/000000"
+    },
+    {
+      "id": 29,
+      "question": "Identify the icon shown below:",
+      "answer": "PayPal",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/paypal/000000"
+    },
+    {
+      "id": 30,
+      "question": "Identify the icon shown below:",
+      "answer": "Amazon",
+      "has_diagram": true,
+      "diagram_image": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
+    },
+    {
+      "id": 31,
+      "question": "Identify the icon shown below:",
+      "answer": "Norton Antivirus",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/norton/000000"
+    },
+    {
+      "id": 32,
+      "question": "Identify the icon shown below:",
+      "answer": "McAfee Antivirus",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/mcafee/000000"
+    },
+    {
+      "id": 33,
+      "question": "Identify the icon shown below:",
+      "answer": "Kaspersky Antivirus",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/kaspersky/000000"
+    },
+    {
+      "id": 34,
+      "question": "Identify the icon shown below:",
+      "answer": "Bitdefender Antivirus",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/bitdefender/000000"
+    },
+    {
+      "id": 35,
+      "question": "Identify the icon shown below:",
+      "answer": "Avast Antivirus",
+      "has_diagram": true,
+      "diagram_image": "https://cdn.simpleicons.org/avast/000000"
+    }
+  ]
+}

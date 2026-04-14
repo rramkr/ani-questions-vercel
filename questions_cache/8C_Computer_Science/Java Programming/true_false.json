@@ -1,0 +1,187 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "true_false",
+  "questions": [
+    {
+      "id": "jv_tf_1",
+      "statement": "The main method is the place where execution begins.",
+      "answer": true,
+      "explanation": "Execution begins in the main method."
+    },
+    {
+      "id": "jv_tf_2",
+      "statement": "The file name can be different from the class name.",
+      "answer": false,
+      "explanation": "The file name should match the class name."
+    },
+    {
+      "id": "jv_tf_3",
+      "statement": "Every Java statement ends with a semicolon.",
+      "answer": true,
+      "explanation": "A semicolon marks the end of the statement."
+    },
+    {
+      "id": "jv_tf_4",
+      "statement": "System.out.print() moves to the next line after printing.",
+      "answer": false,
+      "explanation": "print stays on the same line."
+    },
+    {
+      "id": "jv_tf_5",
+      "statement": "System.out.println() moves to the next line after printing.",
+      "answer": true,
+      "explanation": "println starts a new line after printing."
+    },
+    {
+      "id": "jv_tf_6",
+      "statement": "String is used to store text.",
+      "answer": true,
+      "explanation": "String stores text values."
+    },
+    {
+      "id": "jv_tf_7",
+      "statement": "byte, short, and int are used for whole numbers.",
+      "answer": true,
+      "explanation": "These are integral data types."
+    },
+    {
+      "id": "jv_tf_8",
+      "statement": "double is used for decimal numbers.",
+      "answer": true,
+      "explanation": "double stores decimal values."
+    },
+    {
+      "id": "jv_tf_9",
+      "statement": "A variable is a named storage location.",
+      "answer": true,
+      "explanation": "A variable stores a value using a name."
+    },
+    {
+      "id": "jv_tf_10",
+      "statement": "Initialization means assigning a value to a variable.",
+      "answer": true,
+      "explanation": "Initialization gives the variable its value."
+    },
+    {
+      "id": "jv_tf_11",
+      "statement": "The modulus operator gives the remainder after division.",
+      "answer": true,
+      "explanation": "The symbol % gives the remainder."
+    },
+    {
+      "id": "jv_tf_12",
+      "statement": "The operator + is an arithmetic operator.",
+      "answer": true,
+      "explanation": "It is used for addition."
+    },
+    {
+      "id": "jv_tf_13",
+      "statement": "An operand is the symbol that performs the action.",
+      "answer": false,
+      "explanation": "The operator performs the action. The operands are the values."
+    },
+    {
+      "id": "jv_tf_14",
+      "statement": "An expression produces a value when evaluated.",
+      "answer": true,
+      "explanation": "That is the meaning of an expression."
+    },
+    {
+      "id": "jv_tf_15",
+      "statement": "A statement is a complete command in Java.",
+      "answer": true,
+      "explanation": "A statement tells Java to perform an action."
+    },
+    {
+      "id": "jv_tf_16",
+      "statement": "The symbol = is the simple assignment operator.",
+      "answer": true,
+      "explanation": "It assigns the right side value to the left side variable."
+    },
+    {
+      "id": "jv_tf_17",
+      "statement": "A binary operator needs two operands.",
+      "answer": true,
+      "explanation": "One operand is on each side."
+    },
+    {
+      "id": "jv_tf_18",
+      "statement": "In 100 + 800, the operands are 100 and 800.",
+      "answer": true,
+      "explanation": "The values on both sides of + are the operands."
+    },
+    {
+      "id": "jv_tf_19",
+      "statement": "Curly brackets are used to define code blocks.",
+      "answer": true,
+      "explanation": "They show where blocks begin and end."
+    },
+    {
+      "id": "jv_tf_20",
+      "statement": "Main and main are the same in Java.",
+      "answer": false,
+      "explanation": "Java is case-sensitive."
+    },
+    {
+      "id": "jv_tf_21",
+      "statement": "float and double are both used for decimal values.",
+      "answer": true,
+      "explanation": "Both are decimal data types."
+    },
+    {
+      "id": "jv_tf_22",
+      "statement": "byte has the range -128 to 127.",
+      "answer": true,
+      "explanation": "That is the byte range in the portion."
+    },
+    {
+      "id": "jv_tf_23",
+      "statement": "short uses less memory than byte.",
+      "answer": false,
+      "explanation": "byte uses less memory than short."
+    },
+    {
+      "id": "jv_tf_24",
+      "statement": "int age = 13; shows declaration and initialization together.",
+      "answer": true,
+      "explanation": "The variable is declared and given a value."
+    },
+    {
+      "id": "jv_tf_25",
+      "statement": "String city = Chennai; is correct Java code.",
+      "answer": false,
+      "explanation": "A String literal must be inside double quotes."
+    },
+    {
+      "id": "jv_tf_26",
+      "statement": "System.out.println(100 + 800); is a statement.",
+      "answer": true,
+      "explanation": "It is a complete command ending with a semicolon."
+    },
+    {
+      "id": "jv_tf_27",
+      "statement": "The operator in 45 / 9 is /.",
+      "answer": true,
+      "explanation": "The division sign is the operator."
+    },
+    {
+      "id": "jv_tf_28",
+      "statement": "The expression 12 + 8 gives 20.",
+      "answer": true,
+      "explanation": "12 plus 8 equals 20."
+    },
+    {
+      "id": "jv_tf_29",
+      "statement": "The main method is written inside the class block.",
+      "answer": true,
+      "explanation": "It appears inside the class declaration."
+    },
+    {
+      "id": "jv_tf_30",
+      "statement": "The assignment operator compares two values.",
+      "answer": false,
+      "explanation": "The simple assignment operator stores a value in a variable."
+    }
+  ]
+}

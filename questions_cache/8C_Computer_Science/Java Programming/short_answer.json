@@ -1,0 +1,186 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "jv_sa_1",
+      "question": "Why should students learn to identify the parts of a Java program?",
+      "answer": "Students should learn to identify the parts of a Java program so that they can recognise the class declaration, the main method, statements, brackets, and semicolons quickly. This helps them read code correctly and answer blueprint questions accurately.",
+      "key_points": [
+        "Recognise parts",
+        "Helps reading code",
+        "Useful for blueprint questions"
+      ]
+    },
+    {
+      "id": "jv_sa_2",
+      "question": "Why should the file name and class name match in Java?",
+      "answer": "The file name and class name should match because this is the standard rule followed in beginner Java programs. For example, if the class is named Hello, the file should be Hello.java.",
+      "key_points": [
+        "File matches class",
+        "Hello.java example"
+      ]
+    },
+    {
+      "id": "jv_sa_3",
+      "question": "How does System.out.println() help in displaying output?",
+      "answer": "System.out.println() helps by printing output and then moving to the next line. This makes multiple lines of output easy to read.",
+      "key_points": [
+        "Prints output",
+        "Moves to next line"
+      ]
+    },
+    {
+      "id": "jv_sa_4",
+      "question": "Why are different data types needed in Java?",
+      "answer": "Different data types are needed because different kinds of values are stored in programs. Some values are whole numbers, some are decimal numbers, and some are text.",
+      "key_points": [
+        "Whole numbers",
+        "Decimal numbers",
+        "Text"
+      ]
+    },
+    {
+      "id": "jv_sa_5",
+      "question": "What is the difference between declaration and initialization?",
+      "answer": "Declaration means writing the data type and variable name. Initialization means assigning a value to that variable.",
+      "key_points": [
+        "Declaration = type and name",
+        "Initialization = value"
+      ]
+    },
+    {
+      "id": "jv_sa_6",
+      "question": "Why is the modulus operator useful?",
+      "answer": "The modulus operator is useful because it gives the remainder after division. It helps in simple calculations and checking divisibility.",
+      "key_points": [
+        "Gives remainder",
+        "Useful in calculations"
+      ]
+    },
+    {
+      "id": "jv_sa_7",
+      "question": "Explain the expression 100 + 800.",
+      "answer": "In the expression 100 + 800, the operator is + and the operands are 100 and 800. When the expression is evaluated, it produces the value 900.",
+      "key_points": [
+        "Operator +",
+        "Operands 100 and 800",
+        "Value 900"
+      ]
+    },
+    {
+      "id": "jv_sa_8",
+      "question": "What is the difference between an expression and a statement?",
+      "answer": "An expression produces a value when evaluated. A statement is a complete Java command and usually ends with a semicolon.",
+      "key_points": [
+        "Expression gives value",
+        "Statement is complete command"
+      ]
+    },
+    {
+      "id": "jv_sa_9",
+      "question": "What is a binary operator? Give examples.",
+      "answer": "A binary operator is an operator that works on two operands. The arithmetic operators +, -, *, /, and % are examples of binary operators.",
+      "key_points": [
+        "Two operands",
+        "Examples + - * / %"
+      ]
+    },
+    {
+      "id": "jv_sa_10",
+      "question": "How does the assignment operator work?",
+      "answer": "The assignment operator stores the value on the right side in the variable on the left side. For example, in x = 25, the value 25 is assigned to x.",
+      "key_points": [
+        "Right side value",
+        "Stored in left variable"
+      ]
+    },
+    {
+      "id": "jv_sa_11",
+      "question": "Why must a semicolon be used at the end of a statement?",
+      "answer": "A semicolon is used to mark the end of a statement. Without it, the statement is incomplete.",
+      "key_points": [
+        "Marks end of statement"
+      ]
+    },
+    {
+      "id": "jv_sa_12",
+      "question": "Why are print commands important in beginner Java programs?",
+      "answer": "Print commands are important because they let students see output immediately. They help students practise program structure and syntax in a simple way.",
+      "key_points": [
+        "Shows output",
+        "Good for beginners"
+      ]
+    },
+    {
+      "id": "jv_sa_13",
+      "question": "Why are byte, short, and int grouped together?",
+      "answer": "Byte, short, and int are grouped together because they are all integral data types used to store whole numbers.",
+      "key_points": [
+        "Integral types",
+        "Whole numbers"
+      ]
+    },
+    {
+      "id": "jv_sa_14",
+      "question": "Why are float and double grouped together?",
+      "answer": "Float and double are grouped together because both are used to store decimal values.",
+      "key_points": [
+        "Decimal values"
+      ]
+    },
+    {
+      "id": "jv_sa_15",
+      "question": "Why is String taught with the basic data types in this portion?",
+      "answer": "String is taught with the basic data types in this portion because students need a simple way to store text values in Java programs.",
+      "key_points": [
+        "Stores text"
+      ]
+    },
+    {
+      "id": "jv_sa_16",
+      "question": "How do arithmetic operators help in Java programs?",
+      "answer": "Arithmetic operators help Java programs perform calculations such as addition, subtraction, multiplication, division, and modulus.",
+      "key_points": [
+        "Perform calculations",
+        "Basic operations"
+      ]
+    },
+    {
+      "id": "jv_sa_17",
+      "question": "Why should students practise finding the value of variables?",
+      "answer": "Students should practise finding the value of variables because it helps them understand arithmetic expressions and program output clearly.",
+      "key_points": [
+        "Helps with expressions",
+        "Helps with output"
+      ]
+    },
+    {
+      "id": "jv_sa_18",
+      "question": "Why is the main method important in every beginner Java program?",
+      "answer": "The main method is important because program execution begins there. The statements written inside it are executed when the program runs.",
+      "key_points": [
+        "Execution begins there"
+      ]
+    },
+    {
+      "id": "jv_sa_19",
+      "question": "How are operators and operands related?",
+      "answer": "Operators perform actions, and operands are the values or variables on which those actions are performed. Both are needed to form an expression.",
+      "key_points": [
+        "Operator performs action",
+        "Operands are values"
+      ]
+    },
+    {
+      "id": "jv_sa_20",
+      "question": "How does blueprint-based practice help in this chapter?",
+      "answer": "Blueprint-based practice helps students prepare for the exact question patterns in the test, such as labeling programs, finding variable values, and writing short Java programs.",
+      "key_points": [
+        "Matches test pattern",
+        "Improves exam readiness"
+      ]
+    }
+  ]
+}

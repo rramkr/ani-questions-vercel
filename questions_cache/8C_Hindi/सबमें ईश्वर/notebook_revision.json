@@ -1,0 +1,127 @@
+{
+  "subject": "8C Hindi",
+  "chapter": "सबमें ईश्वर",
+  "question_type": "do_as_directed",
+  "questions": [
+    {
+      "id": "si_nr_1",
+      "question": "जनवरी से दिसंबर तक महीनों के नाम क्रम से लिखिए।",
+      "answer": "जनवरी, फरवरी, मार्च, अप्रैल, मई, जून, जुलाई, अगस्त, सितंबर, अक्टूबर, नवंबर, दिसंबर",
+      "explanation": "English meaning of the question: Write the names of the months from January to December in order.<br><br>English meaning of the answer: The months are January, February, March, April, May, June, July, August, September, October, November, and December."
+    },
+    {
+      "id": "si_nr_2",
+      "question": "सही वर्तनी लिखिए: अप्रेल",
+      "answer": "अप्रैल",
+      "explanation": "English meaning of the question: Write the correct spelling of \"अप्रेल.\"<br><br>English meaning of the answer: The correct spelling is अप्रैल, which means April."
+    },
+    {
+      "id": "si_nr_3",
+      "question": "31 से 40 तक हिंदी गिनती लिखिए।",
+      "answer": "इकतीस, बत्तीस, तैंतीस, चौंतीस, पैंतीस, छत्तीस, सैंतीस, अड़तीस, उनतालीस, चालीस",
+      "explanation": "English meaning of the question: Write the Hindi counting from 31 to 40.<br><br>English meaning of the answer: These are the Hindi words for thirty-one to forty."
+    },
+    {
+      "id": "si_nr_4",
+      "question": "32 का हिंदी रूप लिखिए।",
+      "answer": "बत्तीस",
+      "explanation": "English meaning of the question: Write the Hindi word for 32.<br><br>English meaning of the answer: The answer is thirty-two."
+    },
+    {
+      "id": "si_nr_5",
+      "question": "33 का हिंदी रूप लिखिए।",
+      "answer": "तैंतीस",
+      "explanation": "English meaning of the question: Write the Hindi word for 33.<br><br>English meaning of the answer: The answer is thirty-three."
+    },
+    {
+      "id": "si_nr_6",
+      "question": "34 का हिंदी रूप लिखिए।",
+      "answer": "चौंतीस",
+      "explanation": "English meaning of the question: Write the Hindi word for 34.<br><br>English meaning of the answer: The answer is thirty-four."
+    },
+    {
+      "id": "si_nr_7",
+      "question": "35 का हिंदी रूप लिखिए।",
+      "answer": "पैंतीस",
+      "explanation": "English meaning of the question: Write the Hindi word for 35.<br><br>English meaning of the answer: The answer is thirty-five."
+    },
+    {
+      "id": "si_nr_8",
+      "question": "36 का हिंदी रूप लिखिए।",
+      "answer": "छत्तीस",
+      "explanation": "English meaning of the question: Write the Hindi word for 36.<br><br>English meaning of the answer: The answer is thirty-six."
+    },
+    {
+      "id": "si_nr_9",
+      "question": "37 का हिंदी रूप लिखिए।",
+      "answer": "सैंतीस",
+      "explanation": "English meaning of the question: Write the Hindi word for 37.<br><br>English meaning of the answer: The answer is thirty-seven."
+    },
+    {
+      "id": "si_nr_10",
+      "question": "38 का हिंदी रूप लिखिए।",
+      "answer": "अड़तीस",
+      "explanation": "English meaning of the question: Write the Hindi word for 38.<br><br>English meaning of the answer: The answer is thirty-eight."
+    },
+    {
+      "id": "si_nr_11",
+      "question": "39 का हिंदी रूप लिखिए।",
+      "answer": "उनतालीस",
+      "explanation": "English meaning of the question: Write the Hindi word for 39.<br><br>English meaning of the answer: The answer is thirty-nine."
+    },
+    {
+      "id": "si_nr_12",
+      "question": "40 का हिंदी रूप लिखिए।",
+      "answer": "चालीस",
+      "explanation": "English meaning of the question: Write the Hindi word for 40.<br><br>English meaning of the answer: The answer is forty."
+    },
+    {
+      "id": "si_nr_13",
+      "question": "नोटबुक के अनुसार हमारे भीतर कैसी भावना होनी चाहिए?",
+      "answer": "हमारे भीतर सभी के प्रति प्रेम की भावना होनी चाहिए।",
+      "explanation": "English meaning of the question: According to the notebook, what feeling should we have within us?<br><br>English meaning of the answer: We should have feelings of love towards everyone."
+    },
+    {
+      "id": "si_nr_14",
+      "question": "नोटबुक के अनुसार हम सभी के बीच में क्या समानता है?",
+      "answer": "हम सबमें एक ही ईश्वर का वास है और हम सभी समान हैं।",
+      "explanation": "English meaning of the question: According to the notebook, what is common among all of us?<br><br>English meaning of the answer: The same God lives in all of us and all of us are equal."
+    },
+    {
+      "id": "si_nr_15",
+      "question": "नोटबुक के अनुसार ऋषियों ने क्या बात बताई है?",
+      "answer": "ऋषियों ने बताया है कि कोई बड़ा नहीं और कोई छोटा नहीं, हम सब समान हैं।",
+      "explanation": "English meaning of the question: According to the notebook, what did the sages tell us?<br><br>English meaning of the answer: They told us that no one is great or small and all of us are equal."
+    },
+    {
+      "id": "si_nr_16",
+      "question": "नोटबुक के अनुसार कवि ने कैसी रात लाने को कहा है?",
+      "answer": "कवि ने खुशियों भरी चाँदनी रात लाने को कहा है।",
+      "explanation": "English meaning of the question: According to the notebook, what kind of night did the poet ask for?<br><br>English meaning of the answer: The poet asked for a happy moonlit night."
+    },
+    {
+      "id": "si_nr_17",
+      "question": "शब्दार्थ लिखिए: पंथ",
+      "answer": "रास्ता",
+      "explanation": "English meaning of the question: Write the meaning of पंथ.<br><br>English meaning of the answer: It means path."
+    },
+    {
+      "id": "si_nr_18",
+      "question": "शब्दार्थ लिखिए: सताना",
+      "answer": "परेशान करना",
+      "explanation": "English meaning of the question: Write the meaning of सताना.<br><br>English meaning of the answer: It means to trouble."
+    },
+    {
+      "id": "si_nr_19",
+      "question": "शब्दार्थ लिखिए: रक्त",
+      "answer": "खून",
+      "explanation": "English meaning of the question: Write the meaning of रक्त.<br><br>English meaning of the answer: It means blood."
+    },
+    {
+      "id": "si_nr_20",
+      "question": "शब्दार्थ लिखिए: सुंदर",
+      "answer": "beautiful",
+      "explanation": "English meaning of the question: Write the meaning of सुंदर.<br><br>English meaning of the answer: It means beautiful."
+    }
+  ]
+}

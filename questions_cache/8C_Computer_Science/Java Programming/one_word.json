@@ -1,0 +1,82 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "one_word",
+  "questions": [
+    {
+      "id": "jv_ow_1",
+      "question": "What is the method from which execution begins?",
+      "answer": "main method"
+    },
+    {
+      "id": "jv_ow_2",
+      "question": "Which punctuation mark ends a Java statement?",
+      "answer": "semicolon"
+    },
+    {
+      "id": "jv_ow_3",
+      "question": "Which data type stores text?",
+      "answer": "String"
+    },
+    {
+      "id": "jv_ow_4",
+      "question": "Which operator gives the remainder?",
+      "answer": "modulus"
+    },
+    {
+      "id": "jv_ow_5",
+      "question": "What is a named storage location called?",
+      "answer": "variable"
+    },
+    {
+      "id": "jv_ow_6",
+      "question": "What do we call the symbol = ?",
+      "answer": "assignment operator"
+    },
+    {
+      "id": "jv_ow_7",
+      "question": "What do we call the values on which operators work?",
+      "answer": "operands"
+    },
+    {
+      "id": "jv_ow_8",
+      "question": "What do we call an operator that needs two operands?",
+      "answer": "binary operator"
+    },
+    {
+      "id": "jv_ow_9",
+      "question": "What do we call a value written directly in code?",
+      "answer": "literal"
+    },
+    {
+      "id": "jv_ow_10",
+      "question": "Which data type stores common whole numbers?",
+      "answer": "int"
+    },
+    {
+      "id": "jv_ow_11",
+      "question": "Which data type stores decimal values with less precision than double?",
+      "answer": "float"
+    },
+    {
+      "id": "jv_ow_12",
+      "question": "Which keyword is used to define a class?",
+      "answer": "class"
+    },
+    {
+      "id": "jv_ow_13",
+      "question": "Which operator is used for addition?",
+      "answer": "+"
+    },
+    {
+      "id": "jv_ow_14",
+      "question": "Which operator is used for modulus?",
+      "answer": "%"
+    },
+    {
+      "id": "jv_ow_15",
+      "question": "What is a piece of code that produces a value when evaluated called?",
+      "answer": "expression"
+    }
+  ]
+}

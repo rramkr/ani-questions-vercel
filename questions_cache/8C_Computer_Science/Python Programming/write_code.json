@@ -1,0 +1,307 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Python Programming",
+  "question_type": "write_code",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Fill in the range() parameters to print the series: 10 9 8 7 6 5 4 3 2 1\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(10, 0, -1):\n    print(x)"
+    },
+    {
+      "id": 2,
+      "question": "Fill in the range() parameters to print the series: 10 8 6 4 2 0\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(10, -1, -2):\n    print(x)"
+    },
+    {
+      "id": 3,
+      "question": "Fill in the range() parameters to print the series: 3 6 9 12 15 18 21 24 27 30\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(3, 31, 3):\n    print(x)"
+    },
+    {
+      "id": 4,
+      "question": "Fill in the range() parameters to print the series: 5 10 15 20 ... 100\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(5, 101, 5):\n    print(x)"
+    },
+    {
+      "id": 5,
+      "question": "Fill in the range() parameters to print the series: 2 4 6 8 10\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(2, 11, 2):\n    print(x)"
+    },
+    {
+      "id": 6,
+      "question": "Write Python code to create a list of 5 subjects and print all items using a for loop.",
+      "answer": "subjects = [\"English\", \"Tamil\", \"Maths\", \"Science\", \"Social\"]\nfor x in subjects:\n    print(x)"
+    },
+    {
+      "id": 7,
+      "question": "Write Python code to create a list of 5 numbers and print the first item using positive index.",
+      "answer": "numbers = [10, 20, 30, 40, 50]\nprint(numbers[0])"
+    },
+    {
+      "id": 8,
+      "question": "Write Python code to create a list of 5 fruits and print the last item using negative index.",
+      "answer": "fruits = [\"apple\", \"banana\", \"cherry\", \"date\", \"elderberry\"]\nprint(fruits[-1])"
+    },
+    {
+      "id": 9,
+      "question": "Write Python code to print numbers from 1 to 20.",
+      "answer": "for i in range(1, 21):\n    print(i)"
+    },
+    {
+      "id": 10,
+      "question": "Write Python code to print odd numbers from 1 to 15.",
+      "answer": "for i in range(1, 16, 2):\n    print(i)"
+    },
+    {
+      "id": 11,
+      "question": "Write Python code to check if a number is positive or negative.",
+      "answer": "n = int(input(\"Enter a number\"))\nif (n >= 0):\n    print(\"Positive\")\nelse:\n    print(\"Negative\")"
+    },
+    {
+      "id": 12,
+      "question": "Write Python code to check if a number is divisible by 5.",
+      "answer": "n = int(input(\"Enter a number\"))\nif (n % 5 == 0):\n    print(\"Divisible by 5\")\nelse:\n    print(\"Not divisible by 5\")"
+    },
+    {
+      "id": 13,
+      "question": "Write Python code to print \"Hello\" 5 times using a for loop.",
+      "answer": "for i in range(1, 6):\n    print(\"Hello\")"
+    },
+    {
+      "id": 14,
+      "question": "Write Python code to print the letters of the word \"PYTHON\" one by one.",
+      "answer": "word = \"PYTHON\"\nfor x in word:\n    print(x)"
+    },
+    {
+      "id": 15,
+      "question": "Write Python code to print multiples of 7 from 7 to 70.",
+      "answer": "for i in range(7, 71, 7):\n    print(i)"
+    },
+    {
+      "id": 16,
+      "question": "Write Python code to create a list and find its length.",
+      "answer": "colors = [\"red\", \"green\", \"blue\", \"yellow\", \"orange\"]\nc = len(colors)\nprint(\"Number of items:\", c)"
+    },
+    {
+      "id": 17,
+      "question": "Write Python code to print countdown from 5 to 1.",
+      "answer": "for i in range(5, 0, -1):\n    print(i)"
+    },
+    {
+      "id": 18,
+      "question": "Write Python code to check if a student has passed (marks >= 35).",
+      "answer": "marks = int(input(\"Enter marks\"))\nif (marks >= 35):\n    print(\"Passed\")\nelse:\n    print(\"Failed\")"
+    },
+    {
+      "id": 19,
+      "question": "Write Python code to print even numbers from 2 to 20.",
+      "answer": "for i in range(2, 21, 2):\n    print(i)"
+    },
+    {
+      "id": 20,
+      "question": "Write Python code to access the middle element of a list with 5 items.",
+      "answer": "items = [10, 20, 30, 40, 50]\nprint(items[2])"
+    },
+    {
+      "id": 21,
+      "question": "Fill in the range() parameters to print the series: 1 4 7 10 13 16 19\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(1, 20, 3):\n    print(x)"
+    },
+    {
+      "id": 22,
+      "question": "Fill in the range() parameters to print the series: 100 90 80 70 60 50 40 30 20 10\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(100, 0, -10):\n    print(x)"
+    },
+    {
+      "id": 23,
+      "question": "Fill in the range() parameters to print the series: 25 20 15 10 5\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(25, 0, -5):\n    print(x)"
+    },
+    {
+      "id": 24,
+      "question": "Write Python code to check if a number is divisible by both 2 and 3.",
+      "answer": "n = int(input(\"Enter a number\"))\nif (n % 2 == 0 and n % 3 == 0):\n    print(\"Divisible by both 2 and 3\")\nelse:\n    print(\"Not divisible by both\")"
+    },
+    {
+      "id": 25,
+      "question": "Write Python code to print all multiples of 4 from 4 to 40.",
+      "answer": "for i in range(4, 41, 4):\n    print(i)"
+    },
+    {
+      "id": 26,
+      "question": "Write Python code to print all multiples of 6 from 6 to 60.",
+      "answer": "for i in range(6, 61, 6):\n    print(i)"
+    },
+    {
+      "id": 27,
+      "question": "Write Python code to print the sum of numbers from 1 to 10.",
+      "answer": "total = 0\nfor i in range(1, 11):\n    total = total + i\nprint(\"Sum:\", total)"
+    },
+    {
+      "id": 28,
+      "question": "Write Python code to print all items of a list in reverse order using negative index.",
+      "answer": "items = [\"a\", \"b\", \"c\", \"d\", \"e\"]\nfor i in range(-1, -6, -1):\n    print(items[i])"
+    },
+    {
+      "id": 29,
+      "question": "Write Python code to create a list and print its first and last elements.",
+      "answer": "numbers = [10, 20, 30, 40, 50]\nprint(\"First:\", numbers[0])\nprint(\"Last:\", numbers[-1])"
+    },
+    {
+      "id": 30,
+      "question": "Write Python code to check if a number is a multiple of 10.",
+      "answer": "n = int(input(\"Enter a number\"))\nif (n % 10 == 0):\n    print(\"Multiple of 10\")\nelse:\n    print(\"Not a multiple of 10\")"
+    },
+    {
+      "id": 31,
+      "question": "Write Python code to print numbers from 50 to 100 with a step of 5.",
+      "answer": "for i in range(50, 101, 5):\n    print(i)"
+    },
+    {
+      "id": 32,
+      "question": "Write Python code to print your name 10 times with a 0.5 second delay.",
+      "answer": "import time\nfor i in range(1, 11):\n    print(\"Your Name\")\n    time.sleep(0.5)"
+    },
+    {
+      "id": 33,
+      "question": "Write Python code to count how many elements are in a list.",
+      "answer": "fruits = [\"apple\", \"banana\", \"cherry\", \"mango\"]\ncount = len(fruits)\nprint(\"Number of fruits:\", count)"
+    },
+    {
+      "id": 34,
+      "question": "Write Python code to print the square of numbers from 1 to 5.",
+      "answer": "for i in range(1, 6):\n    print(i * i)"
+    },
+    {
+      "id": 35,
+      "question": "Write Python code to print the cube of numbers from 1 to 5.",
+      "answer": "for i in range(1, 6):\n    print(i * i * i)"
+    },
+    {
+      "id": 36,
+      "question": "Fill in the range() parameters to print: 50 45 40 35 30 25 20 15 10 5\n\nfor x in range(___, ___, ___):\n    print(x)",
+      "answer": "for x in range(50, 0, -5):\n    print(x)"
+    },
+    {
+      "id": 37,
+      "question": "Write Python code to check if a year is a leap year (divisible by 4).",
+      "answer": "year = int(input(\"Enter a year\"))\nif (year % 4 == 0):\n    print(\"Leap year\")\nelse:\n    print(\"Not a leap year\")"
+    },
+    {
+      "id": 38,
+      "question": "Write Python code to print each character of 'COMPUTER' on a new line.",
+      "answer": "word = \"COMPUTER\"\nfor ch in word:\n    print(ch)"
+    },
+    {
+      "id": 39,
+      "question": "Write Python code to find the product of numbers from 1 to 5 (factorial of 5).",
+      "answer": "product = 1\nfor i in range(1, 6):\n    product = product * i\nprint(\"Product:\", product)"
+    },
+    {
+      "id": 40,
+      "question": "Write Python code to print all items of a list along with their index.",
+      "answer": "colors = [\"red\", \"blue\", \"green\"]\nfor i in range(len(colors)):\n    print(\"Index\", i, \":\", colors[i])"
+    },
+    {
+      "id": 41,
+      "question": "Write a program to print/display three sentences about yourself using three print statements.",
+      "answer": "print(\"My name is Anirudh.\")\nprint(\"I study in Class 7 at Sishya School.\")\nprint(\"I live in Chennai.\")"
+    },
+    {
+      "id": 42,
+      "question": "Write a program that uses the newline escape sequence \\n in a print statement to print three lines.",
+      "answer": "print(\"Line 1\\nLine 2\\nLine 3\")"
+    },
+    {
+      "id": 43,
+      "question": "Declare and initialize variables a=20, b=5, and find the sum, difference, product and quotient of the two.",
+      "answer": "a = 20\nb = 5\nprint(\"Sum:\", a + b)\nprint(\"Difference:\", a - b)\nprint(\"Product:\", a * b)\nprint(\"Quotient:\", a / b)"
+    },
+    {
+      "id": 44,
+      "question": "Write a program to give you the quotient and remainder when 11 is divided by 2.",
+      "answer": "print(\"Quotient:\", 11 // 2)\nprint(\"Remainder:\", 11 % 2)"
+    },
+    {
+      "id": 45,
+      "question": "Write a program to accept a user's year of birth, and output the user's age.",
+      "answer": "year = int(input(\"Enter your year of birth: \"))\nage = 2026 - year\nprint(\"Your age is:\", age)"
+    },
+    {
+      "id": 46,
+      "question": "Write a program to accept the price of one apple, and calculate the cost of a dozen apples.",
+      "answer": "price = float(input(\"Enter price of one apple: \"))\ncost = price * 12\nprint(\"Cost of a dozen apples:\", cost)"
+    },
+    {
+      "id": 47,
+      "question": "Write code to accept the number of bytes a chip can hold, and output the number of bits (1 byte = 8 bits).",
+      "answer": "bytes = int(input(\"Enter number of bytes: \"))\nbits = bytes * 8\nprint(\"Number of bits:\", bits)"
+    },
+    {
+      "id": 48,
+      "question": "Write a program to accept distance in km (accept floats) and give the output in meters.",
+      "answer": "km = float(input(\"Enter distance in km: \"))\nmeters = km * 1000\nprint(\"Distance in meters:\", meters)"
+    },
+    {
+      "id": 49,
+      "question": "Write a program to accept the weight in kilos of three students and print the average weight.",
+      "answer": "w1 = float(input(\"Enter weight of student 1: \"))\nw2 = float(input(\"Enter weight of student 2: \"))\nw3 = float(input(\"Enter weight of student 3: \"))\naverage = (w1 + w2 + w3) / 3\nprint(\"Average weight:\", average)"
+    },
+    {
+      "id": 50,
+      "question": "Write a program to accept your name and print the letters in your name one by one using a for loop.",
+      "answer": "name = input(\"Enter your name: \")\nfor letter in name:\n    print(letter)"
+    },
+    {
+      "id": 51,
+      "question": "Write Python code to print the letters of the string \"INDIA\" one by one.",
+      "answer": "for letter in \"INDIA\":\n    print(letter)"
+    },
+    {
+      "id": 52,
+      "question": "Write Python code to accept the name of your favourite sportsman and print his name 15 times.",
+      "answer": "name = input(\"Enter sportsman name: \")\nfor i in range(15):\n    print(name)"
+    },
+    {
+      "id": 53,
+      "question": "Write python code to do a 10 to 1 countdown with 1 second time delay and print \"Happy birthday\" message.",
+      "answer": "import time\nfor i in range(10, 0, -1):\n    print(i)\n    time.sleep(1)\nprint(\"Happy birthday!\")"
+    },
+    {
+      "id": 54,
+      "question": "Write Python code to check if a number is positive or negative.",
+      "answer": "num = int(input(\"Enter a number: \"))\nif num >= 0:\n    print(\"Positive\")\nelse:\n    print(\"Negative\")"
+    },
+    {
+      "id": 55,
+      "question": "Write a program that checks if a number is divisible by 5.",
+      "answer": "num = int(input(\"Enter a number: \"))\nif num % 5 == 0:\n    print(\"Divisible by 5\")\nelse:\n    print(\"Not divisible by 5\")"
+    },
+    {
+      "id": 56,
+      "question": "Write a program to check if a person is eligible for driving (age >= 18).",
+      "answer": "age = int(input(\"Enter your age: \"))\nif age >= 18:\n    print(\"You are eligible for driving\")\nelse:\n    print(\"You are not eligible for driving\")"
+    },
+    {
+      "id": 57,
+      "question": "Write the code to declare and initialize a list of 5 Indian cities and print the number of items in the list.",
+      "answer": "cities = [\"Chennai\", \"Mumbai\", \"Delhi\", \"Kolkata\", \"Bangalore\"]\nprint(len(cities))"
+    },
+    {
+      "id": 58,
+      "question": "Write the code to create a list of 5 colors and print them one by one in a new line using for loop.",
+      "answer": "colors = [\"red\", \"blue\", \"green\", \"yellow\", \"orange\"]\nfor color in colors:\n    print(color)"
+    },
+    {
+      "id": 59,
+      "question": "Write code to create a list of 5 countries and print them in reverse one by one using negative index.",
+      "answer": "countries = [\"India\", \"USA\", \"UK\", \"Japan\", \"Australia\"]\nprint(countries[-1])\nprint(countries[-2])\nprint(countries[-3])\nprint(countries[-4])\nprint(countries[-5])"
+    },
+    {
+      "id": 60,
+      "question": "Write a program using \\t escape sequence to display a table with Name and Age columns.",
+      "answer": "print(\"Name\\tAge\")\nprint(\"Anirudh\\t13\")\nprint(\"Yohann\\t13\")\nprint(\"Suvasana\\t13\")"
+    }
+  ]
+}

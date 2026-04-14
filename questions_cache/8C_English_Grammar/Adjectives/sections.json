@@ -4,7 +4,8 @@
   "sections": {
     "textbook": [
       {"value": "notes", "label": "Chapter Notes", "icon": "📒"},
-      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"},
+      {"value": "notebooklm", "label": "NotebookLM Study Guide", "icon": "🧠", "type": "external", "url": "https://notebooklm.google.com/notebook/cd3ab4f9-8bcb-4e86-8499-20f4605224d2", "badge": "NotebookLM", "badge_class": "notebooklm"}
     ],
     "exam": [
       {"value": "previous_year_questions", "label": "Previous Year Questions", "icon": "📋"},

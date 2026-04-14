@@ -1,0 +1,11 @@
+{
+  "subject": "8C Computer Science",
+  "chapters": [
+    {
+      "name": "Java Programming",
+      "slug": "Java Programming",
+      "has_questions": true,
+      "icon": "☕"
+    }
+  ]
+}

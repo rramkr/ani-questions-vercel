@@ -1,0 +1,198 @@
+{
+  "subject": "8C Physics",
+  "chapter": "Matter",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "ws001",
+      "exercise": "Short Answer",
+      "question": "Explain the term melting and melting point.",
+      "answer": "Melting is the change of state from solid to liquid. It happens at a fixed temperature. This temperature is called the melting point. Ice, for example, melts at 0°C. Its temperature stays at 0°C until all the ice has melted. The heat absorbed is called latent heat of fusion.",
+      "explanation": "The heat supplied is used as latent heat. It overcomes the inter-molecular forces. It does not raise the kinetic energy of the molecules. So the temperature stays constant. It rises only after all the solid has melted.",
+      "textbook_extract": "[Section: Melting and Freezing] When you heat a solid, its temperature rises until it reaches a specific temperature where it starts changing into a liquid. This temperature is called the melting point. At the melting point, the solid keeps absorbing heat but the temperature does NOT rise — all the heat energy goes into breaking the inter-molecular forces and separating the molecules. For example, when you heat ice, the temperature rises until it reaches 0°C. At 0°C, the ice starts melting into water and the temperature stays at 0°C until ALL the ice has melted."
+    },
+    {
+      "id": "ws002",
+      "exercise": "Fill in the Blanks",
+      "question": "The freezing point of ______ is 0°C and melting point of ice is ______ °C.",
+      "answer": "The freezing point of water is 0°C and melting point of ice is 0°C.",
+      "explanation": "The melting point and freezing point of a substance are the same temperature. They are reverse processes. At 0°C, ice melts to water when heat is added. At the same 0°C, water freezes to ice when heat is removed.",
+      "textbook_extract": "[Section: Melting and Freezing] IMPORTANT: For any substance, the melting point and the freezing point are the SAME temperature. Ice melts at 0°C, and water freezes at 0°C. Wax melts at 55°C, and liquid wax freezes at 55°C."
+    },
+    {
+      "id": "ws003",
+      "exercise": "Short Answer",
+      "question": "What is freezing mixture?",
+      "answer": "A freezing mixture produces a temperature below 0°C. The most common example is ice mixed with common salt. The salt lowers the melting point of ice. So the ice melts below 0°C. It absorbs latent heat from the surroundings. This drops the temperature to as low as -22°C. Kulfi sellers use it to freeze kulfis.",
+      "explanation": "Plain ice at 0°C cannot freeze kulfi. Kulfi has sugar and fats that need much lower temperatures. Salt makes ice melt below 0°C. The melting ice pulls in latent heat from the surroundings. That is what cools the kulfi.",
+      "textbook_extract": "[Section: Melting and Freezing — Fun Fact] Adding salt to ice lowers its melting point. This salt-ice mixture is called a freezing mixture and is used to make Kulfis and ice cream! The ice melts below 0°C and absorbs latent heat from its surroundings, bringing the temperature down to as low as -22°C."
+    },
+    {
+      "id": "ws004",
+      "exercise": "Short Answer",
+      "question": "What is latent heat?",
+      "answer": "Latent heat is the heat absorbed or released during a change of state. It does not change the temperature. 'Latent' means 'hidden'. The heat overcomes the inter-molecular forces. It does not raise the temperature. There are two types. (1) Latent heat of fusion (ice: 336 × 10³ J/kg). (2) Latent heat of vaporization (water: 2260 × 10³ J/kg).",
+      "explanation": "The absorbed heat raises the potential energy of the molecules, not the kinetic energy. So the temperature stays the same. Latent heat of vaporization is much larger than latent heat of fusion. Fully separating molecules (liquid → gas) needs more energy than just loosening them (solid → liquid).",
+      "textbook_extract": "[Section: Latent Heat — The Hidden Heat] When a substance changes from one state to another, it absorbs or releases heat, but its temperature does NOT change during the process. This heat is called latent heat, which means 'hidden heat'. The absorbed heat does NOT increase the kinetic energy of molecules. Instead, it is used to do work against the inter-molecular forces of attraction — it increases the SEPARATION between molecules. Specific latent heat of fusion of ice = 336 × 10³ J/kg. Specific latent heat of vaporization of water = 2260 × 10³ J/kg."
+    },
+    {
+      "id": "ws005a",
+      "exercise": "True or False",
+      "question": "Electrical Fuse wire has very low melting point.",
+      "answer": "TRUE",
+      "explanation": "Fuse wires are made from alloys like tin and lead. These have a very low melting point. When too much current flows, the wire heats up. It melts quickly and breaks the circuit. This protects electrical appliances.",
+      "textbook_extract": "[Section: Melting and Freezing] The melting point is a fixed temperature unique to each substance. Different substances have very different melting points. Alloys made for fuses are deliberately given a very low melting point so that the wire melts and breaks the circuit when too much current flows."
+    },
+    {
+      "id": "ws005b",
+      "exercise": "True or False",
+      "question": "When ice melts to water, there will be change in its mass.",
+      "answer": "FALSE",
+      "explanation": "When ice melts, only the state changes. No matter is added or removed. So the mass stays exactly the same. Only the volume changes. Ice takes up more space than the same mass of water.",
+      "textbook_extract": "[Section: Melting and Freezing — Fun Fact] Water EXPANDS when it freezes into ice. This means ice takes up MORE space (volume) than the same MASS of water. Melting and freezing only change the state and volume of a substance — the mass stays the same because no matter is added or removed."
+    },
+    {
+      "id": "ws005c",
+      "exercise": "True or False",
+      "question": "The melting and freezing point of a substance are same.",
+      "answer": "TRUE",
+      "explanation": "The melting point and freezing point of any substance are the same temperature. Ice melts and water freezes, both at 0°C. Wax melts and liquid wax freezes, both at 55°C. They are reverse processes at the same temperature.",
+      "textbook_extract": "[Section: Melting and Freezing] IMPORTANT: For any substance, the melting point and the freezing point are the SAME temperature. Ice melts at 0°C, and water freezes at 0°C. Wax melts at 55°C, and liquid wax freezes at 55°C."
+    },
+    {
+      "id": "ws005d",
+      "exercise": "True or False",
+      "question": "All substances expand on melting, except water.",
+      "answer": "TRUE",
+      "explanation": "Most substances expand on melting because their molecules spread out. But water is an exception. Water expands on freezing. So ice takes up more space than the same mass of water. When ice melts, it contracts. This is why ice floats on water.",
+      "textbook_extract": "[Section: Melting and Freezing — Fun Fact] Water EXPANDS when it freezes into ice — this is unusual because most substances (like wax, lead) CONTRACT when they freeze. This is why ice floats on water, and why water pipes can burst in extremely cold weather!"
+    },
+    {
+      "id": "ws006",
+      "exercise": "Short Answer",
+      "question": "Is melting of ice a chemical reaction? Justify your answer.",
+      "answer": "No, melting of ice is a physical change, not a chemical reaction. Only the state changes from solid to liquid. The composition stays H₂O. No new substance is formed. The change is also reversible. Water can freeze back into ice.",
+      "explanation": "Melting is a change of state, which is a physical change. The three tests all pass. No new substance is formed. The change is reversible. The chemical composition does not change.",
+      "textbook_extract": "[Section: Change of State — Overview] The process of change from one state to another by absorption or rejection of heat at a constant temperature is called change of state. A change of state is a physical change — no new substance is formed and the change is reversible. Ice and water are both H₂O, just in different states."
+    },
+    {
+      "id": "ws007",
+      "exercise": "Application Based",
+      "question": "Why does poori become puffy when we heat it?",
+      "answer": "When a poori is placed in hot oil, the water inside heats up. It turns into steam. Gases take up much more volume than liquids. So the steam expands inside the poori. It pushes the dough outward. That is why the poori puffs up.",
+      "explanation": "Gases have much larger inter-molecular spaces than liquids. So when the water inside the dough turns into steam, it expands rapidly. This pushes the poori outward.",
+      "textbook_extract": "[Section: Comparison of Solids, Liquids and Gases] In gases, the inter-molecular spacing is very large (wide apart) and gases are easily compressible and expand freely. When water inside the dough is heated in hot oil, it changes into steam — a gas. Steam occupies a much larger volume than the liquid water did, so it pushes the dough outward and the poori puffs up."
+    },
+    {
+      "id": "ws008",
+      "exercise": "Application Based",
+      "question": "Why do bubbles form when water is boiled?",
+      "answer": "At 100°C, water molecules gain enough energy to change into steam. This happens throughout the liquid. The steam forms bubbles of water vapour. Steam is less dense than water. So the bubbles rise to the surface. They burst and release steam into the air.",
+      "explanation": "Boiling takes place throughout the liquid, not just at the surface. That is how it differs from evaporation. The water molecules gain enough kinetic energy to overcome the inter-molecular forces. Then they form gas bubbles.",
+      "textbook_extract": "[Section: Vaporization and Boiling] When you heat water, the temperature rises steadily until it reaches 100°C. At 100°C, bubbles start forming vigorously throughout the water, and the water begins to change into steam. Boiling takes place throughout the entire mass of the liquid, not just at the surface."
+    },
+    {
+      "id": "ws009",
+      "exercise": "Application Based",
+      "question": "Why can gases be compressed easily but solids cannot? Explain using molecular arrangement.",
+      "answer": "In gases, the molecules are wide apart. There are large spaces between them. Pressure can easily push them closer together. In solids, the molecules are closely packed. There is almost no space between them. The forces are very strong. So there is no empty space to compress.",
+      "explanation": "Inter-molecular spacing is very large in gases and very small in solids. This difference in empty space is what makes gases easily compressible and solids difficult to compress.",
+      "textbook_extract": "[Section: Comparison of Solids, Liquids and Gases] Inter-molecular spacing is 'very small (closely packed)' in solids and 'very large (wide apart)' in gases. Solids are 'difficult to compress' while gases are 'easily compressible'. The reason is that gas molecules have huge gaps between them that can be reduced by pressure, while solid molecules have almost no empty space."
+    },
+    {
+      "id": "ws010",
+      "exercise": "Application Based",
+      "question": "When perfume is sprayed in one corner of a room, its smell spreads throughout the room. Which property of molecules explains this?",
+      "answer": "This is because molecules are in constant motion. When perfume is sprayed, its molecules move randomly in all directions. They collide with air molecules. Slowly, they spread from one corner to every corner of the room. This spreading and mixing is called diffusion.",
+      "explanation": "Molecules are always in motion. In gases, they move freely in all directions. That is why perfume in one corner reaches every corner within minutes. The random zig-zag motion is called Brownian motion.",
+      "textbook_extract": "[Section: Characteristics of Molecules] Molecules are never at rest — they are always moving! When you open a bottle of perfume in one corner of a room, within minutes the smell reaches every corner because the perfume molecules are constantly moving and spreading out. The random zig-zag motion of particles is called Brownian motion."
+    },
+    {
+      "id": "ws011",
+      "exercise": "Application Based",
+      "question": "A balloon filled with air is kept in the sun. What will happen to the balloon? Explain using the behaviour of gas molecules.",
+      "answer": "The balloon will expand. It may even burst. In the sun, the temperature rises. The air molecules inside gain more kinetic energy. They move faster. They hit the walls harder and more often. This raises the pressure inside. The elastic balloon stretches and expands.",
+      "explanation": "Heating a gas increases the kinetic energy of its molecules. Faster molecules push harder on the walls of the container. That is why the balloon expands and may burst.",
+      "textbook_extract": "[Section: Three States of Matter / Characteristics of Molecules] In a gas, the kinetic energy of molecules is very high and the molecules move freely in all directions. When a gas is heated, the kinetic energy of its molecules increases — the molecules move faster and hit the walls of the container harder, increasing the pressure. An elastic container like a balloon will stretch and expand."
+    },
+    {
+      "id": "ws012",
+      "exercise": "Application Based",
+      "question": "Ice cubes placed in a glass of water slowly disappear. Identify the change of state taking place and explain why it happens.",
+      "answer": "The change of state is melting (fusion). The ice changes from solid to liquid. The water in the glass is warmer than the ice. So heat flows from the water to the ice. The ice absorbs this as latent heat of fusion. It turns into water and mixes with the surrounding water. The ice cubes appear to 'disappear'.",
+      "explanation": "The melting point of ice is 0°C. The ice does not really disappear. It becomes water, which is the same as the water already in the glass. So you cannot see it anymore.",
+      "textbook_extract": "[Section: Melting and Freezing] Melting is the change from solid to liquid state on heating at a fixed temperature. The melting point of ice is 0°C. The heat needed for melting comes from the surroundings — for ice cubes in a glass of water, the warmer water gives heat to the ice, and the ice absorbs this latent heat of fusion to change into water."
+    },
+    {
+      "id": "ws013",
+      "exercise": "Application Based",
+      "question": "Why is cooking food difficult at higher altitude?",
+      "answer": "At high altitudes, atmospheric pressure is lower. The boiling point of water decreases when pressure decreases. So water boils below 100°C. On Mount Everest, water boils at only about 70°C. Food then cooks at a lower temperature. So it takes much longer. Pressure cookers fix this by raising the internal pressure.",
+      "explanation": "Lower pressure means a lower boiling point. Higher pressure means a higher boiling point. That is why pressure cookers cook food faster than open pots.",
+      "textbook_extract": "[Section: Vaporization and Boiling] The boiling point of a liquid INCREASES when pressure is increased. This is the principle behind pressure cookers! Cooking takes longer at high altitudes (like on mountains) because the atmospheric pressure is lower there, so water boils at a temperature lower than 100°C. Fun fact: on top of Mount Everest, water boils at only about 70°C."
+    },
+    {
+      "id": "ws014",
+      "exercise": "Application Based",
+      "question": "Kulfi seller uses the mixture of salt and ice. Why?",
+      "answer": "The salt-and-ice mixture is a freezing mixture. It reaches temperatures much below 0°C. Salt lowers the melting point of ice. The ice melts below 0°C. It absorbs latent heat from the surroundings. This drops the temperature to as low as -22°C. That is cold enough to freeze milk-based kulfi, which will not freeze at 0°C.",
+      "explanation": "Adding salt forces the ice to melt below 0°C. Melting needs latent heat. So the ice pulls heat out of the kulfi mixture, cooling it to -15°C to -22°C. Plain ice at 0°C is simply not cold enough.",
+      "textbook_extract": "[Section: Melting and Freezing — Fun Fact] Adding salt to ice lowers its melting point. This salt-ice mixture is called a freezing mixture and is used to make Kulfis and ice cream! The ice in the mixture melts below 0°C and absorbs latent heat, cooling the kulfi mixture down to as low as -22°C, which is cold enough to freeze milk-based mixtures."
+    },
+    {
+      "id": "ws015",
+      "exercise": "Graph Based",
+      "question": "Study the heating curve of water and answer: What does AB indicate in the graph?",
+      "answer": "AB shows the melting of ice. The ice changes from solid to liquid. This happens from 0 to 5 minutes. The temperature stays at 0°C even though heat is supplied. All the heat is used as latent heat of fusion. It breaks the inter-molecular forces. The temperature starts rising only after point B.",
+      "explanation": "The flat line AB is a key feature of the heating curve. At the melting point, the solid keeps absorbing heat but the temperature does not rise. This is direct proof that latent heat exists.",
+      "textbook_extract": "[Section: Melting and Freezing] At the melting point, the solid keeps absorbing heat but the temperature does NOT rise — all the heat energy goes into breaking the inter-molecular forces and separating the molecules. For ice, this is at 0°C. The flat segment AB on the heating curve shows ice melting into water at 0°C.",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/8C_Physics/Matter/matter_heating_curve.png",
+      "diagram_description": "Heating curve of water showing: A to B (0 to 5 min), flat line at 0°C showing ice melting to water; B to C (5 to 15 min), rising line from 0°C to 100°C showing water temperature increasing; C to D (15 to 20 min), flat line at 100°C showing water boiling to steam. X-axis: Time in minutes (0-20). Y-axis: Temperature in °C (0-100)."
+    },
+    {
+      "id": "ws016",
+      "exercise": "Graph Based",
+      "question": "Study the heating curve of water and answer: Why is there no change in temperature for the first 5 minutes, during conversion of ice into water?",
+      "answer": "During the first 5 minutes, all the heat supplied is used as latent heat of fusion. It does not raise the kinetic energy of the molecules. Instead, it overcomes the inter-molecular forces. It pulls the molecules apart. This raises their potential energy, not their kinetic energy. So the temperature does not change.",
+      "explanation": "Temperature is a measure of kinetic energy. Latent heat raises potential energy. So the temperature stays the same until all the ice has melted.",
+      "textbook_extract": "[Section: Latent Heat — The Hidden Heat] During a change of state, the absorbed heat does NOT increase the kinetic energy of molecules. Instead, it is used to do work against the inter-molecular forces of attraction — it increases the SEPARATION between molecules. This increases the potential energy of the molecules, not their kinetic energy. Since kinetic energy does not change, the temperature does not change.",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/8C_Physics/Matter/matter_heating_curve.png",
+      "diagram_description": "Heating curve of water showing: A to B (0 to 5 min), flat line at 0°C showing ice melting to water; B to C (5 to 15 min), rising line from 0°C to 100°C showing water temperature increasing; C to D (15 to 20 min), flat line at 100°C showing water boiling to steam."
+    },
+    {
+      "id": "ws017",
+      "exercise": "Graph Based",
+      "question": "Study the heating curve of water and answer: Does this graph indicate a heating curve or a cooling curve of water?",
+      "answer": "This is a heating curve. The temperature rises over time. It goes from 0°C (ice) to 100°C (steam). Heat is being continuously supplied. In a cooling curve, the temperature would fall instead.",
+      "explanation": "A heating curve rises from left to right, with flat sections during changes of state. A cooling curve falls. This graph clearly goes from cold to hot.",
+      "textbook_extract": "[Section: Change of State — Overview] When heat is supplied to a substance, it passes through different states (solid → liquid → gas), with the temperature staying constant during each change of state. A heating curve shows temperature on the y-axis rising over time, with two flat sections representing melting and boiling. A cooling curve is the reverse — temperature falls over time.",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/8C_Physics/Matter/matter_heating_curve.png",
+      "diagram_description": "Heating curve of water showing: A to B (0 to 5 min), flat line at 0°C showing ice melting to water; B to C (5 to 15 min), rising line from 0°C to 100°C showing water temperature increasing; C to D (15 to 20 min), flat line at 100°C showing water boiling to steam."
+    },
+    {
+      "id": "ws018",
+      "exercise": "Graph Based",
+      "question": "Study the heating curve of water and answer: What is the melting point of H₂O in solid state?",
+      "answer": "The melting point of ice is 0°C. This is shown by the flat portion AB of the graph. The temperature stays at 0°C while ice changes into water. Heat is absorbed as latent heat without any rise in temperature.",
+      "explanation": "On a heating curve, the first flat line always shows the melting point. Segment AB is flat at 0°C. The second flat line CD at 100°C is the boiling point.",
+      "textbook_extract": "[Section: Melting and Freezing] When you heat ice, the temperature rises until it reaches 0°C. At 0°C, the ice starts melting into water and the temperature stays at 0°C until ALL the ice has melted. Therefore the melting point of ice is 0°C, and on the heating curve this is shown by the first flat (horizontal) line.",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/8C_Physics/Matter/matter_heating_curve.png",
+      "diagram_description": "Heating curve of water showing: A to B (0 to 5 min), flat line at 0°C showing ice melting to water; B to C (5 to 15 min), rising line from 0°C to 100°C showing water temperature increasing; C to D (15 to 20 min), flat line at 100°C showing water boiling to steam."
+    },
+    {
+      "id": "ws019",
+      "exercise": "Graph Based",
+      "question": "Study the heating curve of water and fill the table using data from the graph:\n\n| Temperature (°C) | Time (minutes) |\n|---|---|\n| ? | 1 |\n| ? | 3 |\n| ? | 5 |\n| 60 | ? |\n| ? | 13 |\n| ? | 18 |\n| ? | 20 |",
+      "answer": "| Temperature (°C) | Time (minutes) |\n|---|---|\n| 0 | 1 |\n| 0 | 3 |\n| 0 | 5 |\n| 60 | 11 |\n| 80 | 13 |\n| 100 | 18 |\n| 100 | 20 |",
+      "explanation": "At 1, 3, and 5 min, the temperature is 0°C. Ice is melting on flat line AB. On line BC, the temperature rises 10°C per minute from minute 5. So 60°C is at 11 min. At 13 min, the temperature is 80°C. At 18 and 20 min, the temperature is 100°C. Water is boiling on flat line CD.",
+      "textbook_extract": "[Section: Melting and Freezing + Latent Heat] On a heating curve of water, the temperature stays constant at 0°C while ice is melting (segment AB), then rises steadily from 0°C to 100°C as the water heats up (segment BC), and then stays constant at 100°C while the water is boiling into steam (segment CD). Reading the graph at any time gives the corresponding temperature on the curve.",
+      "has_diagram": true,
+      "diagram_image": "/questions_cache/8C_Physics/Matter/matter_heating_curve.png",
+      "diagram_description": "Heating curve of water showing: A to B (0 to 5 min), flat line at 0°C showing ice melting to water; B to C (5 to 15 min), rising line from 0°C to 100°C showing water temperature increasing; C to D (15 to 20 min), flat line at 100°C showing water boiling to steam."
+    }
+  ]
+}

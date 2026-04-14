@@ -1,0 +1,123 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "sections": {
+    "textbook": [
+      {
+        "value": "notes",
+        "label": "Chapter Notes",
+        "icon": "📒"
+      },
+      {
+        "value": "textbook_qa",
+        "label": "Concept Questions",
+        "icon": "📖"
+      },
+      {
+        "value": "notebooklm",
+        "label": "NotebookLM Study Guide",
+        "icon": "🧠",
+        "type": "external",
+        "url": "https://notebooklm.google.com/notebook/0fae86cf-0897-43b9-ba37-424345a9a948",
+        "badge": "NotebookLM",
+        "badge_class": "notebooklm"
+      }
+    ],
+    "exam": [
+      {
+        "value": "label_the_program",
+        "label": "1. Label the Program",
+        "icon": "🏷️"
+      },
+      {
+        "value": "number_the_program",
+        "label": "2. Number the Program Parts",
+        "icon": "🔢"
+      },
+      {
+        "value": "program_based_qa",
+        "label": "3. Program-Based Questions",
+        "icon": "🧾"
+      },
+      {
+        "value": "answer_the_following_exam",
+        "label": "4. Answer the Following",
+        "icon": "❓"
+      },
+      {
+        "value": "match_the_following_exam",
+        "label": "5. Match the Following",
+        "icon": "🔗"
+      },
+      {
+        "value": "find_value_of_variable",
+        "label": "6. Find the Value of the Variable",
+        "icon": "🧮"
+      },
+      {
+        "value": "answer_the_following_questions_exam",
+        "label": "7. Answer the Following Questions",
+        "icon": "📝"
+      },
+      {
+        "value": "write_java_program_exam",
+        "label": "8. Write Java Program",
+        "icon": "💻"
+      },
+      {
+        "value": "exam_questions",
+        "label": "Previous Exam Papers",
+        "icon": "🧪"
+      }
+    ],
+    "miscellaneous": [
+      {
+        "value": "mcq",
+        "label": "Multiple Choice",
+        "icon": "🔘"
+      },
+      {
+        "value": "true_false",
+        "label": "True or False",
+        "icon": "✓✗"
+      },
+      {
+        "value": "fill_in_blanks",
+        "label": "Fill in the Blanks",
+        "icon": "✏️"
+      },
+      {
+        "value": "one_word",
+        "label": "One Word Answers",
+        "icon": "1️⃣"
+      },
+      {
+        "value": "define",
+        "label": "Define the Following",
+        "icon": "📚"
+      },
+      {
+        "value": "do_as_directed",
+        "label": "Do as Directed",
+        "icon": "📋"
+      },
+      {
+        "value": "short_answer",
+        "label": "Short Answer",
+        "icon": "📝"
+      },
+      {
+        "value": "write_code",
+        "label": "Write Java Code",
+        "icon": "💻"
+      },
+      {
+        "value": "match_the_following",
+        "label": "Extra Match Practice",
+        "icon": "🔗"
+      }
+    ],
+    "previous_year": [],
+    "reference": []
+  }
+}

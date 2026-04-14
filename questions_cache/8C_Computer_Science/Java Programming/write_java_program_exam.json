@@ -1,0 +1,87 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "write_code",
+  "questions": [
+    {
+      "id": "jv_wj_1",
+      "question": "Write a Java program in a class called Hello to display the message Good morning.",
+      "answer": "public class Hello {\n    public static void main(String[] args) {\n        System.out.println(\"Good morning\");\n    }\n}"
+    },
+    {
+      "id": "jv_wj_2",
+      "question": "Write a Java program in a class called Student to display a student name, class, and age on three separate lines.",
+      "answer": "public class Student {\n    public static void main(String[] args) {\n        System.out.println(\"Name: Ani\");\n        System.out.println(\"Class: 8C\");\n        System.out.println(\"Age: 13\");\n    }\n}"
+    },
+    {
+      "id": "jv_wj_3",
+      "question": "Write a Java program to declare a short variable students with value 100 and print it.",
+      "answer": "public class School {\n    public static void main(String[] args) {\n        short students = 100;\n        System.out.println(students);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_4",
+      "question": "Write a Java program to declare a String variable schoolName with value Sishya and print it.",
+      "answer": "public class SchoolName {\n    public static void main(String[] args) {\n        String schoolName = \"Sishya\";\n        System.out.println(schoolName);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_5",
+      "question": "Write a Java program to print the sum, difference, product, quotient, and remainder of 10 and 3.",
+      "answer": "public class ArithmeticDemo {\n    public static void main(String[] args) {\n        System.out.println(10 + 3);\n        System.out.println(10 - 3);\n        System.out.println(10 * 3);\n        System.out.println(10 / 3);\n        System.out.println(10 % 3);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_6",
+      "question": "Write a Java program to declare int a = 100 and int b = 800 and print a + b.",
+      "answer": "public class VariableExpression {\n    public static void main(String[] args) {\n        int a = 100;\n        int b = 800;\n        System.out.println(a + b);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_7",
+      "question": "Write a Java program to store your name, age, class, and section in suitable variables and print them in a single line.",
+      "answer": "public class StudentInfo {\n    public static void main(String[] args) {\n        String name = \"Ani\";\n        int age = 13;\n        int studentClass = 8;\n        char section = 'C';\n        System.out.println(name + \" \" + age + \" \" + studentClass + section);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_8",
+      "question": "Write a Java program to print the pattern shown below.\n* * *\n* $ *",
+      "answer": "public class PatternPrint {\n    public static void main(String[] args) {\n        System.out.println(\"* * *\");\n        System.out.println(\"* $ *\");\n    }\n}"
+    },
+    {
+      "id": "jv_wj_9",
+      "question": "Write a Java program to create a class named Bank, declare variables for number of customers, customer name, and account balance, and display the customer name and balance.",
+      "answer": "public class Bank {\n    public static void main(String[] args) {\n        int customers = 25;\n        String customerName = \"Rohan\";\n        double accountBalance = 4500.75;\n        System.out.println(customerName);\n        System.out.println(accountBalance);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_10",
+      "question": "Write a Java program to create a class named Library, declare variables for number of books, book name, and book price, and print the book name and price.",
+      "answer": "public class Library {\n    public static void main(String[] args) {\n        int numberOfBooks = 120;\n        String bookName = \"Matilda\";\n        double bookPrice = 299.50;\n        System.out.println(bookName);\n        System.out.println(bookPrice);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_11",
+      "question": "Write a Java program to declare and initialize two integers and print their sum.",
+      "answer": "public class SumDemo {\n    public static void main(String[] args) {\n        int a = 25;\n        int b = 15;\n        System.out.println(a + b);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_12",
+      "question": "Write a Java program to declare and initialize two integers and print their difference.",
+      "answer": "public class DifferenceDemo {\n    public static void main(String[] args) {\n        int a = 50;\n        int b = 18;\n        System.out.println(a - b);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_13",
+      "question": "Write a Java program to declare and initialize two integers and print their quotient.",
+      "answer": "public class QuotientDemo {\n    public static void main(String[] args) {\n        int a = 48;\n        int b = 6;\n        System.out.println(a / b);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_14",
+      "question": "Write a Java program to declare and initialize two integers and print their remainder.",
+      "answer": "public class RemainderDemo {\n    public static void main(String[] args) {\n        int a = 29;\n        int b = 4;\n        System.out.println(a % b);\n    }\n}"
+    },
+    {
+      "id": "jv_wj_15",
+      "question": "Write a Java program to create an arithmetic calculator for performing +, -, *, and /.",
+      "answer": "public class Calculator {\n    public static void main(String[] args) {\n        int a = 20;\n        int b = 5;\n        System.out.println(\"Sum = \" + (a + b));\n        System.out.println(\"Difference = \" + (a - b));\n        System.out.println(\"Product = \" + (a * b));\n        System.out.println(\"Quotient = \" + (a / b));\n    }\n}"
+    },
+    {
+      "id": "jv_wj_16",
+      "question": "Rohan bought 2 kg of rice at 45 per kg, 1.5 kg of sugar at 40 per kg, and 3 litres of milk at 30 per litre. The shopkeeper gave a discount of 20 on the total bill. Write a Java program to display the final amount to be paid.",
+      "answer": "public class GroceryBill {\n    public static void main(String[] args) {\n        double rice = 2 * 45;\n        double sugar = 1.5 * 40;\n        double milk = 3 * 30;\n        double total = rice + sugar + milk;\n        double finalAmount = total - 20;\n        System.out.println(\"Final amount = \" + finalAmount);\n    }\n}"
+    }
+  ]
+}

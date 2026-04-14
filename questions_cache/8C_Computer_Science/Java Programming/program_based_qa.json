@@ -1,0 +1,43 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "jv_pbq_1",
+      "question": "Look at the program below and answer the questions.\n\npublic class Hello {\n    public static void main(String[] args) {\n        System.out.println(\"Good morning\");\n    }\n}\n\n(i) What is the class name?\n(ii) What should be the file name?\n(iii) Which method starts execution?\n(iv) Which line prints the output?\n(v) Which punctuation mark ends the statement?",
+      "answer": "(i) The class name is Hello.\n(ii) The file name should be Hello.java.\n(iii) The main method starts execution.\n(iv) The line System.out.println(\"Good morning\"); prints the output.\n(v) A semicolon ends the statement.",
+      "key_points": ["Class name", "File name", "Main method", "Statement", "Semicolon"]
+    },
+    {
+      "id": "jv_pbq_2",
+      "question": "Look at the program below and answer the questions.\n\npublic class Marks {\n    public static void main(String[] args) {\n        int marks = 95;\n        System.out.println(marks);\n    }\n}\n\n(i) What is the class name?\n(ii) Name the variable.\n(iii) What is the data type of marks?\n(iv) What value is assigned to marks?\n(v) Which statement displays the value?",
+      "answer": "(i) The class name is Marks.\n(ii) The variable is marks.\n(iii) The data type is int.\n(iv) The value assigned is 95.\n(v) The statement System.out.println(marks); displays the value.",
+      "key_points": ["Identify variable parts from code"]
+    },
+    {
+      "id": "jv_pbq_3",
+      "question": "Look at the program below and answer the questions.\n\npublic class Demo {\n    public static void main(String[] args) {\n        System.out.print(\"Java\");\n    }\n}\n\n(i) What is the class name?\n(ii) Which print command is used?\n(iii) Does the output move to the next line automatically?\n(iv) Where is this statement written?\n(v) Why is there a semicolon?",
+      "answer": "(i) The class name is Demo.\n(ii) The command used is System.out.print().\n(iii) No, the output does not move to the next line automatically.\n(iv) The statement is written inside the main method.\n(v) The semicolon marks the end of the statement.",
+      "key_points": ["Differentiate print and println"]
+    },
+    {
+      "id": "jv_pbq_4",
+      "question": "Look at the program below and answer the questions.\n\npublic class Price {\n    public static void main(String[] args) {\n        double price = 45.75;\n        System.out.println(price);\n    }\n}\n\n(i) What is the class name?\n(ii) What is the data type used?\n(iii) Why is this data type suitable here?\n(iv) What value is stored in price?\n(v) Which statement shows the output?",
+      "answer": "(i) The class name is Price.\n(ii) The data type used is double.\n(iii) It is suitable because it stores decimal values.\n(iv) The value stored in price is 45.75.\n(v) The statement System.out.println(price); shows the output.",
+      "key_points": ["double", "Decimal values", "Output statement"]
+    },
+    {
+      "id": "jv_pbq_5",
+      "question": "Look at the program below and answer the questions.\n\npublic class Sum {\n    public static void main(String[] args) {\n        int a = 100;\n        int b = 800;\n        System.out.println(a + b);\n    }\n}\n\n(i) What are the two variables used?\n(ii) What operator is used in a + b?\n(iii) Name the operands in the expression.\n(iv) What value will be produced?\n(v) What kind of code is a + b?",
+      "answer": "(i) The two variables are a and b.\n(ii) The operator used is +.\n(iii) The operands are a and b.\n(iv) The value produced is 900.\n(v) a + b is an expression.",
+      "key_points": ["Operator", "Operands", "Expression"]
+    },
+    {
+      "id": "jv_pbq_6",
+      "question": "Look at the program below and answer the questions.\n\npublic class RemainderDemo {\n    public static void main(String[] args) {\n        int rem = 17 % 5;\n        System.out.println(rem);\n    }\n}\n\n(i) What is the class name?\n(ii) Which operator is used in 17 % 5?\n(iii) What does this operator give?\n(iv) What value is stored in rem?\n(v) Which statement displays rem?",
+      "answer": "(i) The class name is RemainderDemo.\n(ii) The operator used is %.\n(iii) It gives the remainder after division.\n(iv) The value stored in rem is 2.\n(v) The statement System.out.println(rem); displays rem.",
+      "key_points": ["Modulus operator", "Remainder", "Displayed value"]
+    }
+  ]
+}

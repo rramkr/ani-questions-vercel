@@ -7,7 +7,8 @@
       {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
     ],
     "exam": [
-      {"value": "exam_practice", "label": "Exam Practice", "icon": "✍️"}
+      {"value": "exam_practice", "label": "Exam Practice", "icon": "✍️"},
+      {"value": "sample_paper_letters", "label": "Sample Paper Letters", "icon": "📝"}
     ],
     "miscellaneous": [
       {"value": "7c_classwork_letters", "label": "7C Classwork Letters", "icon": "📝"},

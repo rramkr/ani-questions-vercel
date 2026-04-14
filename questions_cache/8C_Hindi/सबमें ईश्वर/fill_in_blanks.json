@@ -1,0 +1,115 @@
+{
+  "subject": "8C Hindi",
+  "chapter": "सबमें ईश्वर",
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "si_fb_1",
+      "question": "बच्चों लाओ फिर वही ________।",
+      "answer": "बात",
+      "explanation": "English meaning of the question: Children, bring back that same ________.<br><br>English meaning of the answer: The answer is message."
+    },
+    {
+      "id": "si_fb_2",
+      "question": "मिलें-जुलें, हो ________ का साथ।",
+      "answer": "प्यार",
+      "explanation": "English meaning of the question: Let us live together with ________.<br><br>English meaning of the answer: The answer is love."
+    },
+    {
+      "id": "si_fb_3",
+      "question": "पास-पड़ोसी सुख-दुख ________।",
+      "answer": "बाँटें",
+      "explanation": "English meaning of the question: Neighbours should ________ joys and sorrows.<br><br>English meaning of the answer: The answer is share."
+    },
+    {
+      "id": "si_fb_4",
+      "question": "ऐसे हों सबमें ________।",
+      "answer": "जज्बात",
+      "explanation": "English meaning of the question: Such ________ should exist in everyone.<br><br>English meaning of the answer: The answer is feelings."
+    },
+    {
+      "id": "si_fb_5",
+      "question": "पंथ अलग हैं, ________ एक है।",
+      "answer": "धर्म",
+      "explanation": "English meaning of the question: Paths are different, ________ is one.<br><br>English meaning of the answer: The answer is religion or faith."
+    },
+    {
+      "id": "si_fb_6",
+      "question": "सबमें ________ वही एक है।",
+      "answer": "ईश्वर",
+      "explanation": "English meaning of the question: The same ________ is present in everyone.<br><br>English meaning of the answer: The answer is God."
+    },
+    {
+      "id": "si_fb_7",
+      "question": "रक्त सभी का ________ एक है।",
+      "answer": "लाल",
+      "explanation": "English meaning of the question: Everyone's blood is ________.<br><br>English meaning of the answer: The answer is red."
+    },
+    {
+      "id": "si_fb_8",
+      "question": "दिन-नित बढ़े ________ का हाथ।",
+      "answer": "प्रेम",
+      "explanation": "English meaning of the question: May the hand of ________ grow day by day.<br><br>English meaning of the answer: The answer is love."
+    },
+    {
+      "id": "si_fb_9",
+      "question": "जग का अर्थ ________ है।",
+      "answer": "संसार",
+      "explanation": "English meaning of the question: जग means ________.<br><br>English meaning of the answer: The answer is world."
+    },
+    {
+      "id": "si_fb_10",
+      "question": "पीर का अर्थ ________ है।",
+      "answer": "दुख",
+      "explanation": "English meaning of the question: पीर means ________.<br><br>English meaning of the answer: The answer is sorrow."
+    },
+    {
+      "id": "si_fb_11",
+      "question": "मतभेद का अर्थ विचारों में ________ है।",
+      "answer": "अंतर",
+      "explanation": "English meaning of the question: मतभेद means difference in ________.<br><br>English meaning of the answer: The answer is opinion."
+    },
+    {
+      "id": "si_fb_12",
+      "question": "धर्म का अंग्रेज़ी अर्थ ________ है।",
+      "answer": "religion",
+      "explanation": "English meaning of the question: The English meaning of धर्म is ________.<br><br>English meaning of the answer: The answer is religion."
+    },
+    {
+      "id": "si_fb_13",
+      "question": "प्रेम का अंग्रेज़ी अर्थ ________ है।",
+      "answer": "love",
+      "explanation": "English meaning of the question: The English meaning of प्रेम is ________.<br><br>English meaning of the answer: The answer is love."
+    },
+    {
+      "id": "si_fb_14",
+      "question": "चाँदनी का अंग्रेज़ी अर्थ ________ है।",
+      "answer": "moonlight",
+      "explanation": "English meaning of the question: The English meaning of चाँदनी is ________.<br><br>English meaning of the answer: The answer is moonlight."
+    },
+    {
+      "id": "si_fb_15",
+      "question": "31 का हिंदी रूप ________ है।",
+      "answer": "इकतीस",
+      "explanation": "English meaning of the question: The Hindi word for 31 is ________.<br><br>English meaning of the answer: The answer is इकतीस."
+    },
+    {
+      "id": "si_fb_16",
+      "question": "40 का हिंदी रूप ________ है।",
+      "answer": "चालीस",
+      "explanation": "English meaning of the question: The Hindi word for 40 is ________.<br><br>English meaning of the answer: The answer is चालीस."
+    },
+    {
+      "id": "si_fb_17",
+      "question": "जनवरी के बाद ________ आता है।",
+      "answer": "फरवरी",
+      "explanation": "English meaning of the question: After January comes ________.<br><br>English meaning of the answer: The answer is February."
+    },
+    {
+      "id": "si_fb_18",
+      "question": "मार्च के बाद ________ आता है।",
+      "answer": "अप्रैल",
+      "explanation": "English meaning of the question: After March comes ________.<br><br>English meaning of the answer: The answer is April."
+    }
+  ]
+}

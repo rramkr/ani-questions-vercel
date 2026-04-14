@@ -1,0 +1,213 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "jv_tq_1",
+      "question": "What are the two main parts of a Java program?",
+      "answer": "The two main parts of a Java program are the class declaration and the main method.",
+      "key_points": [
+        "Class declaration",
+        "Main method"
+      ]
+    },
+    {
+      "id": "jv_tq_2",
+      "question": "What is the purpose of the class declaration?",
+      "answer": "The class declaration introduces the class and gives it a name.",
+      "key_points": [
+        "Introduces class",
+        "Gives class name"
+      ]
+    },
+    {
+      "id": "jv_tq_3",
+      "question": "What is the purpose of the main method?",
+      "answer": "The main method is the part from which program execution begins.",
+      "key_points": [
+        "Execution begins here"
+      ]
+    },
+    {
+      "id": "jv_tq_4",
+      "question": "Why should the file name match the class name?",
+      "answer": "The file name should match the class name so that the Java program follows the correct naming rule. For example, a class named Hello should be saved as Hello.java.",
+      "key_points": [
+        "File matches class",
+        "Example Hello.java"
+      ]
+    },
+    {
+      "id": "jv_tq_5",
+      "question": "What do curly brackets show in a Java program?",
+      "answer": "Curly brackets show the beginning and end of code blocks in a Java program.",
+      "key_points": [
+        "Show code blocks"
+      ]
+    },
+    {
+      "id": "jv_tq_6",
+      "question": "Why is a semicolon used in Java?",
+      "answer": "A semicolon is used to mark the end of a Java statement.",
+      "key_points": [
+        "Ends statement"
+      ]
+    },
+    {
+      "id": "jv_tq_7",
+      "question": "Differentiate between System.out.print() and System.out.println().",
+      "answer": "System.out.print() prints on the same line. System.out.println() prints and then moves to the next line.",
+      "key_points": [
+        "print same line",
+        "println next line"
+      ]
+    },
+    {
+      "id": "jv_tq_8",
+      "question": "What is a data type?",
+      "answer": "A data type tells Java what kind of value can be stored in a variable.",
+      "key_points": [
+        "Kind of value stored"
+      ]
+    },
+    {
+      "id": "jv_tq_9",
+      "question": "Name the data types included in the test portion.",
+      "answer": "The data types included in the portion are byte, short, int, float, double, and String.",
+      "key_points": [
+        "byte",
+        "short",
+        "int",
+        "float",
+        "double",
+        "String"
+      ]
+    },
+    {
+      "id": "jv_tq_10",
+      "question": "What are byte, short, and int used for?",
+      "answer": "Byte, short, and int are used to store whole numbers.",
+      "key_points": [
+        "Whole numbers",
+        "Integral types"
+      ]
+    },
+    {
+      "id": "jv_tq_11",
+      "question": "What are float and double used for?",
+      "answer": "Float and double are used to store decimal numbers.",
+      "key_points": [
+        "Decimal numbers"
+      ]
+    },
+    {
+      "id": "jv_tq_12",
+      "question": "What is String used for?",
+      "answer": "String is used to store text.",
+      "key_points": [
+        "Stores text"
+      ]
+    },
+    {
+      "id": "jv_tq_13",
+      "question": "What is a variable?",
+      "answer": "A variable is a named storage location used to store a value.",
+      "key_points": [
+        "Named storage location"
+      ]
+    },
+    {
+      "id": "jv_tq_14",
+      "question": "What is declaration of a variable?",
+      "answer": "Declaration means writing the data type and the variable name.",
+      "key_points": [
+        "Type and variable name"
+      ]
+    },
+    {
+      "id": "jv_tq_15",
+      "question": "What is initialization of a variable?",
+      "answer": "Initialization means assigning a value to a variable.",
+      "key_points": [
+        "Assigning a value"
+      ]
+    },
+    {
+      "id": "jv_tq_16",
+      "question": "What is a literal?",
+      "answer": "A literal is the actual value written directly in the code.",
+      "key_points": [
+        "Actual written value"
+      ]
+    },
+    {
+      "id": "jv_tq_17",
+      "question": "What is an arithmetic operator? Name the operators in the portion.",
+      "answer": "An arithmetic operator is a symbol used to perform mathematical operations. The operators in the portion are +, -, *, /, and %.",
+      "key_points": [
+        "Math operations",
+        "+ - * / %"
+      ]
+    },
+    {
+      "id": "jv_tq_18",
+      "question": "What does the modulus operator do?",
+      "answer": "The modulus operator gives the remainder after division.",
+      "key_points": [
+        "Gives remainder"
+      ]
+    },
+    {
+      "id": "jv_tq_19",
+      "question": "What is an operand?",
+      "answer": "An operand is the value or variable on which an operator works.",
+      "key_points": [
+        "Value or variable used by operator"
+      ]
+    },
+    {
+      "id": "jv_tq_20",
+      "question": "What is an expression?",
+      "answer": "An expression is a piece of code that produces a value when evaluated.",
+      "key_points": [
+        "Produces a value"
+      ]
+    },
+    {
+      "id": "jv_tq_21",
+      "question": "What is a statement?",
+      "answer": "A statement is a complete command in Java that ends with a semicolon.",
+      "key_points": [
+        "Complete command",
+        "Ends with semicolon"
+      ]
+    },
+    {
+      "id": "jv_tq_22",
+      "question": "What is a binary operator?",
+      "answer": "A binary operator is an operator that works on two operands.",
+      "key_points": [
+        "Two operands"
+      ]
+    },
+    {
+      "id": "jv_tq_23",
+      "question": "What is the assignment operator?",
+      "answer": "The assignment operator is the symbol = used to assign the value on the right side to the variable on the left side.",
+      "key_points": [
+        "Symbol =",
+        "Assigns value"
+      ]
+    },
+    {
+      "id": "jv_tq_24",
+      "question": "Explain the expression 100 + 800 using the words operator and operands.",
+      "answer": "In the expression 100 + 800, the operator is + and the operands are 100 and 800.",
+      "key_points": [
+        "Operator +",
+        "Operands 100 and 800"
+      ]
+    }
+  ]
+}

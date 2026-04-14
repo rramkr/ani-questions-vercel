@@ -1,0 +1,79 @@
+{
+  "subject": "8C Hindi",
+  "chapter": "सबमें ईश्वर",
+  "question_type": "do_as_directed",
+  "questions": [
+    {
+      "id": "si_pl_1",
+      "question": "पंक्ति पूरी कीजिए:\nबच्चों लाओ फिर वही बात, ________",
+      "answer": "मिलें-जुलें, हो प्यार का साथ।",
+      "explanation": "English meaning of the question: Complete the line: Children, bring back that same message, ________.<br><br>English meaning of the answer: Let us live together with love."
+    },
+    {
+      "id": "si_pl_2",
+      "question": "पंक्ति पूरी कीजिए:\nपास-पड़ोसी सुख-दुख बाँटें, ________",
+      "answer": "ऐसे हों सबमें जज्बात।।",
+      "explanation": "English meaning of the question: Complete the line: Let neighbours share their joys and sorrows, ________.<br><br>English meaning of the answer: Such feelings should exist in everyone."
+    },
+    {
+      "id": "si_pl_3",
+      "question": "पंक्ति पूरी कीजिए:\nपंथ अलग हैं, धर्म एक है, ________",
+      "answer": "सबमें ईश्वर वही एक है।",
+      "explanation": "English meaning of the question: Complete the line: Paths are different, faith is one, ________.<br><br>English meaning of the answer: The same one God is present in everyone."
+    },
+    {
+      "id": "si_pl_4",
+      "question": "पंक्ति पूरी कीजिए:\nरक्त सभी का लाल एक है, ________",
+      "answer": "दिन-नित बढ़े प्रेम का हाथ।।",
+      "explanation": "English meaning of the question: Complete the line: Everyone's blood is the same red colour, ________.<br><br>English meaning of the answer: May the hand of love grow day by day."
+    },
+    {
+      "id": "si_pl_5",
+      "question": "सही क्रम में लिखिए:\n(1) पंथ अलग हैं, धर्म एक है\n(2) रक्त सभी का लाल एक है\n(3) सबमें ईश्वर वही एक है\n(4) दिन-नित बढ़े प्रेम का हाथ",
+      "answer": "सही क्रम: 1, 3, 2, 4",
+      "explanation": "English meaning of the question: Write the lines in the correct order.<br><br>English meaning of the answer: The correct order is 1, 3, 2, and 4."
+    },
+    {
+      "id": "si_pl_6",
+      "question": "कविता की उस पंक्ति को लिखिए जिसमें पड़ोसियों के बीच प्रेम और सहयोग की बात कही गई है।",
+      "answer": "पास-पड़ोसी सुख-दुख बाँटें,\nऐसे हों सबमें जज्बात।।",
+      "explanation": "English meaning of the question: Write the lines that speak about love and cooperation among neighbours.<br><br>English meaning of the answer: Neighbours should share one another's joys and sorrows. Such feelings should exist in everyone."
+    },
+    {
+      "id": "si_pl_7",
+      "question": "कविता की वह पंक्ति लिखिए जिसमें ईश्वर की एकता व्यक्त की गई है।",
+      "answer": "सबमें ईश्वर वही एक है।",
+      "explanation": "English meaning of the question: Write the line that expresses the unity of God.<br><br>English meaning of the answer: The same one God is present in everyone."
+    },
+    {
+      "id": "si_pl_8",
+      "question": "कविता की वह पंक्ति लिखिए जिसमें समानता का विचार आता है।",
+      "answer": "रक्त सभी का लाल एक है।",
+      "explanation": "English meaning of the question: Write the line that shows equality.<br><br>English meaning of the answer: Everyone's blood is the same red colour."
+    },
+    {
+      "id": "si_pl_9",
+      "question": "रिक्त स्थान भरिए:\nदिन-नित बढ़े ________ का हाथ।",
+      "answer": "प्रेम",
+      "explanation": "English meaning of the question: Fill in the blank: May the hand of ________ grow day by day.<br><br>English meaning of the answer: The answer is love."
+    },
+    {
+      "id": "si_pl_10",
+      "question": "रिक्त स्थान भरिए:\nऐसे हों सबमें ________।",
+      "answer": "जज्बात",
+      "explanation": "English meaning of the question: Fill in the blank: Such ________ should exist in everyone.<br><br>English meaning of the answer: The answer is feelings."
+    },
+    {
+      "id": "si_pl_11",
+      "question": "कविता के आधार पर लिखिए: कवि बच्चों से किस प्रकार का साथ चाहता है?",
+      "answer": "कवि बच्चों से प्यार का साथ चाहता है।",
+      "explanation": "English meaning of the question: According to the poem, what kind of companionship does the poet want for children?<br><br>English meaning of the answer: The poet wants children to live with love and companionship."
+    },
+    {
+      "id": "si_pl_12",
+      "question": "कविता के आधार पर लिखिए: कौन-सा रंग सबके रक्त का बताया गया है?",
+      "answer": "सबके रक्त का रंग लाल बताया गया है।",
+      "explanation": "English meaning of the question: According to the poem, what colour is everyone's blood said to be?<br><br>English meaning of the answer: Everyone's blood is said to be red."
+    }
+  ]
+}

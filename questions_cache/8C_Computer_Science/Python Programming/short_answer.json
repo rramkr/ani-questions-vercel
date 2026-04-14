@@ -1,0 +1,257 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Python Programming",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a list in Python?",
+      "answer": "A list is a collection of data that can be ordered, unordered, changeable and allows duplicate members. It is defined using [] square brackets and items are separated using commas."
+    },
+    {
+      "id": 2,
+      "question": "What is the len() function used for?",
+      "answer": "The len() function is used to find the number of items/elements in a list. For example, if numbers = [5, 67, 78, 65, 34], then len(numbers) returns 5."
+    },
+    {
+      "id": 3,
+      "question": "What are positive index numbers in Python lists?",
+      "answer": "Positive index numbers start from 0 for the first item in the list. The first item has position 0 (not 1 as in real world), second item has position 1, and so on."
+    },
+    {
+      "id": 4,
+      "question": "What are negative index numbers in Python lists?",
+      "answer": "Negative index numbers start with -1 for the last element. They allow us to access the list from the last. For example, -1 refers to the last item, -2 refers to the second last item, and so on."
+    },
+    {
+      "id": 5,
+      "question": "What is a condition in Python?",
+      "answer": "A condition in Python compares two pieces of information using relational operators and always returns a Boolean (True/False) result. Conditions are used inside if-else statements."
+    },
+    {
+      "id": 6,
+      "question": "List all the relational operators in Python.",
+      "answer": "The six relational operators in Python are: > (greater than), >= (greater than or equal to), < (lesser than), <= (lesser than or equal to), == (equal to), and != (not equal to)."
+    },
+    {
+      "id": 7,
+      "question": "What is the purpose of if-else statements?",
+      "answer": "Conditional statements (if-else) in Python are used to make decisions and execute different code blocks based on whether a condition is true or false."
+    },
+    {
+      "id": 8,
+      "question": "What is indentation in Python?",
+      "answer": "In Python, indentation is used to define blocks of code. All statements with the same level of indentation are considered part of the same block. It tells the Python interpreter which code is part of a block."
+    },
+    {
+      "id": 9,
+      "question": "How do you create indentation in Python?",
+      "answer": "To indent code in Python, we insert a whitespace or tab key at the beginning of each line. This is required for loops and if-else conditions."
+    },
+    {
+      "id": 10,
+      "question": "What is iteration in Python?",
+      "answer": "Iteration means to go through element by element. The for loop can be used to iterate through sequences such as strings and lists."
+    },
+    {
+      "id": 11,
+      "question": "What is the range() function?",
+      "answer": "The range() function is used with for loops to repeat code a fixed number of times. It has three parameters: start, stop, and step. Start is inclusive, stop is exclusive (stops one before), and step is the increment value."
+    },
+    {
+      "id": 12,
+      "question": "What happens when range() has only one argument?",
+      "answer": "When range() has only one argument, that argument is the stop value, and the start value is by default 0. For example, range(5) produces 0, 1, 2, 3, 4."
+    },
+    {
+      "id": 13,
+      "question": "What happens when range() has two arguments?",
+      "answer": "When range() has two arguments, they are the start and stop values, with no step (default step is 1). For example, range(3, 8) produces 3, 4, 5, 6, 7."
+    },
+    {
+      "id": 14,
+      "question": "How do you count backwards using range()?",
+      "answer": "To count backwards, use a negative step value. For example, range(10, 0, -1) produces 10, 9, 8, 7, 6, 5, 4, 3, 2, 1."
+    },
+    {
+      "id": 15,
+      "question": "What is the time.sleep() function?",
+      "answer": "The time.sleep() function adds a delay or pause in the program. time.sleep(1) pauses execution for 1 second. To use it, you must first import the time module."
+    },
+    {
+      "id": 16,
+      "question": "What is the modulus operator (%) used for?",
+      "answer": "The modulus operator (%) gives the remainder of a division. For example, 10 % 3 = 1, and 8 % 2 = 0. It is commonly used to check if a number is even or odd."
+    },
+    {
+      "id": 17,
+      "question": "How do you check if a number is even in Python?",
+      "answer": "To check if a number n is even, use the condition n % 2 == 0. If the remainder when dividing by 2 is 0, the number is even."
+    },
+    {
+      "id": 18,
+      "question": "What is the difference between = and == in Python?",
+      "answer": "The = operator is used for assignment (storing a value in a variable), while == is used for comparison (checking if two values are equal). For example, a = 10 assigns 10 to a, while a == 10 checks if a equals 10."
+    },
+    {
+      "id": 19,
+      "question": "What is the syntax of a for loop in Python?",
+      "answer": "The syntax is: for variable in sequence: followed by indented code. For example:\nfor x in range(5):\n    print(x)\nThe colon after the sequence is mandatory."
+    },
+    {
+      "id": 20,
+      "question": "What is the syntax of an if-else statement in Python?",
+      "answer": "The syntax is:\nif (condition):\n    # True block statements\nelse:\n    # False block statements\nBoth if and else must end with a colon, and the code blocks must be indented."
+    },
+    {
+      "id": 21,
+      "question": "What is the difference between / and // operators in Python?",
+      "answer": "The / operator performs regular division and returns a float (e.g., 15/4 = 3.75). The // operator performs floor division and returns an integer, discarding the decimal part (e.g., 15//4 = 3)."
+    },
+    {
+      "id": 22,
+      "question": "Why do we need to use int() with input()?",
+      "answer": "The input() function always returns the user's input as a string. To perform mathematical operations, we need to convert this string to an integer using int(). For example, int(input('Enter a number')) converts the input to an integer."
+    },
+    {
+      "id": 23,
+      "question": "What is the difference between break and continue statements?",
+      "answer": "The break statement exits the loop completely and moves to the code after the loop. The continue statement skips the remaining code in the current iteration and moves to the next iteration of the loop."
+    },
+    {
+      "id": 24,
+      "question": "Why does Python indexing start from 0?",
+      "answer": "Python uses zero-based indexing where the first element has index 0, the second has index 1, and so on. This is because the index represents the offset (distance) from the beginning of the list."
+    },
+    {
+      "id": 25,
+      "question": "What happens if you try to access an index that doesn't exist in a list?",
+      "answer": "Python will raise an IndexError. For example, if a list has 5 elements (indices 0-4), trying to access index 5 or higher will cause an IndexError because that position doesn't exist in the list."
+    },
+    {
+      "id": 26,
+      "question": "Explain the three parameters of the range() function.",
+      "answer": "The range(start, stop, step) function has three parameters: 1) start - the first number (inclusive, default is 0), 2) stop - the last number (exclusive, not included), 3) step - the increment value (default is 1). For example, range(2, 10, 2) gives 2, 4, 6, 8."
+    },
+    {
+      "id": 27,
+      "question": "What is the purpose of the import statement?",
+      "answer": "The import statement is used to load external modules (libraries) into your Python program. For example, 'import time' loads the time module, which allows you to use functions like time.sleep() to add delays."
+    },
+    {
+      "id": 28,
+      "question": "How can you iterate through a list in Python?",
+      "answer": "You can iterate through a list using a for loop in two ways: 1) Directly: 'for item in list:' where item takes each element's value, or 2) Using index: 'for i in range(len(list)):' where you access elements using list[i]."
+    },
+    {
+      "id": 29,
+      "question": "What is the difference between > and >= operators?",
+      "answer": "The > operator checks if the left value is strictly greater than the right value. The >= operator checks if the left value is greater than or equal to the right value. For example, 5 > 5 is False, but 5 >= 5 is True."
+    },
+    {
+      "id": 30,
+      "question": "Why must we use a colon (:) after if, else, and for statements?",
+      "answer": "The colon (:) is required in Python to indicate the start of a code block. It tells Python that the indented statements following the colon belong to that if, else, or for statement. Forgetting the colon causes a SyntaxError."
+    },
+    {
+      "id": 31,
+      "question": "How do you access the last element of a list without knowing its length?",
+      "answer": "You can use negative indexing: list[-1] always gives the last element regardless of the list's length. Alternatively, you can use list[len(list)-1], but negative indexing is simpler and more readable."
+    },
+    {
+      "id": 32,
+      "question": "What is the output of range(5) and why?",
+      "answer": "range(5) produces the numbers 0, 1, 2, 3, 4. Since only one argument is given, it's treated as the stop value, start defaults to 0, and step defaults to 1. The stop value (5) is exclusive, so it stops at 4."
+    },
+    {
+      "id": 33,
+      "question": "How can you print items on the same line in a for loop?",
+      "answer": "Use the end parameter in print(). By default, print() ends with a newline. Using print(x, end=' ') or print(x, end='') will print items on the same line separated by a space or no separator respectively."
+    },
+    {
+      "id": 34,
+      "question": "What are the characteristics of a Python list?",
+      "answer": "A Python list is: 1) Ordered - items maintain their order, 2) Changeable/Mutable - items can be modified after creation, 3) Allows duplicates - same value can appear multiple times, 4) Can contain mixed data types, 5) Defined using square brackets []."
+    },
+    {
+      "id": 35,
+      "question": "How do you check if a number is divisible by another number?",
+      "answer": "Use the modulus operator (%). If a % b == 0, then a is divisible by b because the remainder is 0. For example, to check if n is divisible by 5: if n % 5 == 0."
+    },
+    {
+      "id": 36,
+      "question": "What is the difference between a string and a list in Python?",
+      "answer": "A string is a sequence of characters enclosed in quotes ('hello' or \"hello\") and is immutable (cannot be changed). A list is a sequence of items enclosed in square brackets [1, 2, 3] and is mutable (can be changed). Both can be indexed and iterated."
+    },
+    {
+      "id": 37,
+      "question": "Explain how to create a countdown timer in Python.",
+      "answer": "Use range() with a negative step and time.sleep() for delay:\nimport time\nfor i in range(10, 0, -1):\n    print(i)\n    time.sleep(1)\nprint('Done!')\nThis counts from 10 to 1 with 1-second pauses."
+    },
+    {
+      "id": 38,
+      "question": "What happens when range() start equals stop?",
+      "answer": "When start equals stop in range(), no numbers are produced. For example, range(5, 5) produces nothing because there are no numbers from 5 up to (but not including) 5. The loop body never executes."
+    },
+    {
+      "id": 39,
+      "question": "Why is indentation important in Python?",
+      "answer": "Indentation in Python defines code blocks and shows which statements belong together. Unlike other languages that use braces {}, Python uses indentation. Incorrect indentation causes IndentationError and can change the logic of your program."
+    },
+    {
+      "id": 40,
+      "question": "How can you find both the index and value while iterating a list?",
+      "answer": "Use range(len(list)) and access both:\nfor i in range(len(colors)):\n    print('Index', i, 'Value', colors[i])\nOr use enumerate():\nfor i, color in enumerate(colors):\n    print('Index', i, 'Value', color)"
+    },
+    {
+      "id": 41,
+      "question": "What is the newline escape sequence (\\n) and what does it do?",
+      "answer": "The newline character (\\n) is called an escape sequence. It forces the cursor to change its position to the beginning of the next line on the screen, resulting in a new line in the output."
+    },
+    {
+      "id": 42,
+      "question": "What is the tab escape sequence (\\t) and what does it do?",
+      "answer": "The \\t escape sequence is used to give a horizontal tab (4 spaces) in the output. It is useful for formatting output in a table-like structure with aligned columns."
+    },
+    {
+      "id": 43,
+      "question": "Who created Python and how did it get its name?",
+      "answer": "Python was created by Guido Van Rossum. He named Python after a popular British comedy show called 'Monty Python', not after the snake."
+    },
+    {
+      "id": 44,
+      "question": "What are the two modes of Python execution?",
+      "answer": "1. Interactive mode: We can only write and run one line of code at a time in the interactive shell. 2. Script mode: We can write, save and run programs with multiple lines of code. Script mode will be 'untitled' till you give the file a name."
+    },
+    {
+      "id": 45,
+      "question": "What are the three levels of programming languages?",
+      "answer": "1. Binary/Machine language: Made up of 1s and 0s, understood by hardware directly. 2. Assembly language: Uses mnemonic codes like ADD, SUB; needs an assembler to convert to binary. 3. High-level language: Uses English words (like Python); needs a compiler/interpreter to convert to binary."
+    },
+    {
+      "id": 46,
+      "question": "What are the main data types in Python?",
+      "answer": "The main data types are: 1. String - anything within quotes (e.g., \"Rob\", \"1048\"). 2. Integer - whole numbers (e.g., 100, 90). 3. Float - numbers with decimal points (e.g., 10.9, 100.6). 4. Boolean - True or False values."
+    },
+    {
+      "id": 47,
+      "question": "What is a variable in Python?",
+      "answer": "A variable is used to store data values. It acts as a container for information that can be referenced and manipulated. Variables are created when you assign a value using the = operator. You can keep changing the data value stored, but the label stays the same."
+    },
+    {
+      "id": 48,
+      "question": "What are arithmetic operators in Python? List them with examples.",
+      "answer": "Arithmetic operators are: + (addition: 10+20=30), - (subtraction: 200-60=140), / (quotient: 10/3=3.333), * (product: 6*5=30), % (remainder: 60%7=4), // (floor division: 15//4=3)."
+    },
+    {
+      "id": 49,
+      "question": "What is the difference between an operator, operand, and expression?",
+      "answer": "An operator is a special symbol that carries out an operation (like +, -, *). An operand is the value an operator acts upon (in 10+20, both 10 and 20 are operands). An expression is a sequence of operands and operators (like A+B*C)."
+    },
+    {
+      "id": 50,
+      "question": "How does the input() function work and why do we need int() with it?",
+      "answer": "The input() function accepts user input from the keyboard. By default, it converts all user inputs into strings. If you want to accept integers or floats, you must use int() or float() to convert the string, e.g., age = int(input(\"Enter age: \"))."
+    }
+  ]
+}

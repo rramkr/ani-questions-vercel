@@ -1,0 +1,157 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "fill_in_blanks",
+  "questions": [
+    {
+      "id": "jv_fb_1",
+      "question": "The two main parts of a Java program are the class declaration and the ______ method.",
+      "answer": "main"
+    },
+    {
+      "id": "jv_fb_2",
+      "question": "If the class name is Main, the file name should be ______.",
+      "answer": "Main.java"
+    },
+    {
+      "id": "jv_fb_3",
+      "question": "Every Java statement must end with a ______.",
+      "answer": "semicolon"
+    },
+    {
+      "id": "jv_fb_4",
+      "question": "System.out.______() prints and then moves to the next line.",
+      "answer": "println"
+    },
+    {
+      "id": "jv_fb_5",
+      "question": "System.out.______() prints on the same line.",
+      "answer": "print"
+    },
+    {
+      "id": "jv_fb_6",
+      "question": "The data type used to store text is ______.",
+      "answer": "String"
+    },
+    {
+      "id": "jv_fb_7",
+      "question": "byte, short, and int are ______ data types.",
+      "answer": "integral"
+    },
+    {
+      "id": "jv_fb_8",
+      "question": "The data type used for decimal numbers with more precision is ______.",
+      "answer": "double"
+    },
+    {
+      "id": "jv_fb_9",
+      "question": "A ______ is a named storage location.",
+      "answer": "variable"
+    },
+    {
+      "id": "jv_fb_10",
+      "question": "Assigning a value to a variable is called ______.",
+      "answer": "initialization"
+    },
+    {
+      "id": "jv_fb_11",
+      "question": "The actual value written directly in a program is called a ______.",
+      "answer": "literal"
+    },
+    {
+      "id": "jv_fb_12",
+      "question": "The operator ______ gives the remainder after division.",
+      "answer": "%"
+    },
+    {
+      "id": "jv_fb_13",
+      "question": "In the expression 100 + 800, 100 and 800 are called ______.",
+      "answer": "operands"
+    },
+    {
+      "id": "jv_fb_14",
+      "question": "A ______ is a piece of code that produces a value when evaluated.",
+      "answer": "expression"
+    },
+    {
+      "id": "jv_fb_15",
+      "question": "A binary operator needs ______ operands.",
+      "answer": "two"
+    },
+    {
+      "id": "jv_fb_16",
+      "question": "The simple assignment operator is ______.",
+      "answer": "="
+    },
+    {
+      "id": "jv_fb_17",
+      "question": "In int age = 13;, age is the ______ name.",
+      "answer": "variable"
+    },
+    {
+      "id": "jv_fb_18",
+      "question": "In int age = 13;, 13 is the ______.",
+      "answer": "literal"
+    },
+    {
+      "id": "jv_fb_19",
+      "question": "The operator + performs ______.",
+      "answer": "addition"
+    },
+    {
+      "id": "jv_fb_20",
+      "question": "The operator / performs ______.",
+      "answer": "division"
+    },
+    {
+      "id": "jv_fb_21",
+      "question": "The operator * performs ______.",
+      "answer": "multiplication"
+    },
+    {
+      "id": "jv_fb_22",
+      "question": "The operator - performs ______.",
+      "answer": "subtraction"
+    },
+    {
+      "id": "jv_fb_23",
+      "question": "The expression 10 + 5 gives the value ______.",
+      "answer": "15"
+    },
+    {
+      "id": "jv_fb_24",
+      "question": "The expression 17 % 5 gives the value ______.",
+      "answer": "2"
+    },
+    {
+      "id": "jv_fb_25",
+      "question": "The method where execution begins is the ______ method.",
+      "answer": "main"
+    },
+    {
+      "id": "jv_fb_26",
+      "question": "The keyword used to define a class is ______.",
+      "answer": "class"
+    },
+    {
+      "id": "jv_fb_27",
+      "question": "Curly brackets are used to define code ______.",
+      "answer": "blocks"
+    },
+    {
+      "id": "jv_fb_28",
+      "question": "The byte data type has the range ______ to 127.",
+      "answer": "-128"
+    },
+    {
+      "id": "jv_fb_29",
+      "question": "The statement System.out.println(\"Hello\"); ends with a ______.",
+      "answer": "semicolon"
+    },
+    {
+      "id": "jv_fb_30",
+      "question": "The value on the right side of x = 25 is assigned to the variable on the ______ side.",
+      "answer": "left"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "subject": "8C Hindi",
+  "chapter": "सबमें ईश्वर",
+  "question_type": "word_meanings",
+  "questions": [
+    {
+      "id": "si_wm_1",
+      "question": "सताना",
+      "answer": "परेशान करना",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: The word is \"सताना.\"<br><br>English meaning of the answer: It means to trouble or harass someone."
+    },
+    {
+      "id": "si_wm_2",
+      "question": "जज्बात",
+      "answer": "भावनाएँ",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: The word is \"जज्बात.\"<br><br>English meaning of the answer: It means feelings or emotions."
+    },
+    {
+      "id": "si_wm_3",
+      "question": "पंथ",
+      "answer": "रास्ता",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: The word is \"पंथ.\"<br><br>English meaning of the answer: It means path or way."
+    },
+    {
+      "id": "si_wm_4",
+      "question": "रक्त",
+      "answer": "खून",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: The word is \"रक्त.\"<br><br>English meaning of the answer: It means blood."
+    },
+    {
+      "id": "si_wm_5",
+      "question": "जग",
+      "answer": "संसार",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: The word is \"जग.\"<br><br>English meaning of the answer: It means the world."
+    },
+    {
+      "id": "si_wm_6",
+      "question": "पीर",
+      "answer": "दुख",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: The word is \"पीर.\"<br><br>English meaning of the answer: It means pain or sorrow."
+    },
+    {
+      "id": "si_wm_7",
+      "question": "पराई",
+      "answer": "दूसरे की",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: The word is \"पराई.\"<br><br>English meaning of the answer: It means belonging to someone else or another person's."
+    },
+    {
+      "id": "si_wm_8",
+      "question": "मतभेद",
+      "answer": "विचारों में अंतर",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: The word is \"मतभेद.\"<br><br>English meaning of the answer: It means a difference of opinion."
+    },
+    {
+      "id": "si_wm_9",
+      "question": "पड़ोसी",
+      "answer": "neighbours",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: The word is \"पड़ोसी.\"<br><br>English meaning of the answer: It means neighbours."
+    },
+    {
+      "id": "si_wm_10",
+      "question": "धर्म",
+      "answer": "religion",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: The word is \"धर्म.\"<br><br>English meaning of the answer: It means religion or faith."
+    },
+    {
+      "id": "si_wm_11",
+      "question": "प्रेम",
+      "answer": "love",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: The word is \"प्रेम.\"<br><br>English meaning of the answer: It means love."
+    },
+    {
+      "id": "si_wm_12",
+      "question": "चाँदनी",
+      "answer": "moonlight",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: The word is \"चाँदनी.\"<br><br>English meaning of the answer: It means moonlight."
+    },
+    {
+      "id": "si_wm_13",
+      "question": "अलग",
+      "answer": "separate",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: The word is \"अलग.\"<br><br>English meaning of the answer: It means separate or different."
+    },
+    {
+      "id": "si_wm_14",
+      "question": "दुख",
+      "answer": "sorrow",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: The word is \"दुख.\"<br><br>English meaning of the answer: It means sorrow or sadness."
+    },
+    {
+      "id": "si_wm_15",
+      "question": "सुंदर",
+      "answer": "beautiful",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: The word is \"सुंदर.\"<br><br>English meaning of the answer: It means beautiful."
+    },
+    {
+      "id": "si_wm_16",
+      "question": "व्यवहार",
+      "answer": "behaviour",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: The word is \"व्यवहार.\"<br><br>English meaning of the answer: It means behaviour or conduct."
+    },
+    {
+      "id": "si_wm_17",
+      "question": "प्रेरणा",
+      "answer": "motivation",
+      "source": "Vocabulary",
+      "explanation": "English meaning of the question: The word is \"प्रेरणा.\"<br><br>English meaning of the answer: It means motivation or inspiration."
+    },
+    {
+      "id": "si_wm_18",
+      "question": "मानवता",
+      "answer": "मनुष्यता और करुणा का भाव",
+      "source": "Chapter theme",
+      "explanation": "English meaning of the question: The word is \"मानवता.\"<br><br>English meaning of the answer: It means humanity and compassion."
+    }
+  ],
+  "total_count": 18
+}

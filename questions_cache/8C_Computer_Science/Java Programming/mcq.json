@@ -1,0 +1,367 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "mcq",
+  "questions": [
+    {
+      "id": "jv_mcq_1",
+      "question": "Which part of a Java program contains the statements that are executed?",
+      "options": [
+        "A. Class name",
+        "B. Main method",
+        "C. File name",
+        "D. Data type"
+      ],
+      "correct_answer": "B. Main method",
+      "explanation": "The main method is where execution begins."
+    },
+    {
+      "id": "jv_mcq_2",
+      "question": "If the class name is Hello, what should the file name be?",
+      "options": [
+        "A. Hello.class",
+        "B. hello.java",
+        "C. Hello.java",
+        "D. Main.java"
+      ],
+      "correct_answer": "C. Hello.java",
+      "explanation": "The file name should match the class name and end with .java."
+    },
+    {
+      "id": "jv_mcq_3",
+      "question": "Which symbol ends a Java statement?",
+      "options": [
+        "A. :",
+        "B. ;",
+        "C. ,",
+        "D. ."
+      ],
+      "correct_answer": "B. ;",
+      "explanation": "A semicolon ends a Java statement."
+    },
+    {
+      "id": "jv_mcq_4",
+      "question": "Which command prints and moves to the next line?",
+      "options": [
+        "A. System.out.print()",
+        "B. System.out.println()",
+        "C. System.nextLine()",
+        "D. print()"
+      ],
+      "correct_answer": "B. System.out.println()",
+      "explanation": "println prints and then moves to the next line."
+    },
+    {
+      "id": "jv_mcq_5",
+      "question": "Which command prints without moving to the next line?",
+      "options": [
+        "A. System.out.print()",
+        "B. System.out.println()",
+        "C. System.out.show()",
+        "D. System.line()"
+      ],
+      "correct_answer": "A. System.out.print()",
+      "explanation": "print keeps the output on the same line."
+    },
+    {
+      "id": "jv_mcq_6",
+      "question": "Which data type stores text?",
+      "options": [
+        "A. int",
+        "B. String",
+        "C. short",
+        "D. float"
+      ],
+      "correct_answer": "B. String",
+      "explanation": "String is used to store text."
+    },
+    {
+      "id": "jv_mcq_7",
+      "question": "Which of the following is an integral data type?",
+      "options": [
+        "A. double",
+        "B. String",
+        "C. int",
+        "D. println"
+      ],
+      "correct_answer": "C. int",
+      "explanation": "int is used for whole numbers."
+    },
+    {
+      "id": "jv_mcq_8",
+      "question": "Which data type is best for the value 45.75?",
+      "options": [
+        "A. byte",
+        "B. short",
+        "C. double",
+        "D. String"
+      ],
+      "correct_answer": "C. double",
+      "explanation": "Decimal values can be stored in double."
+    },
+    {
+      "id": "jv_mcq_9",
+      "question": "Which data type has range -128 to 127?",
+      "options": [
+        "A. byte",
+        "B. short",
+        "C. int",
+        "D. float"
+      ],
+      "correct_answer": "A. byte",
+      "explanation": "byte has the range -128 to 127."
+    },
+    {
+      "id": "jv_mcq_10",
+      "question": "Which data type uses 2 bytes among the given whole number types?",
+      "options": [
+        "A. byte",
+        "B. short",
+        "C. int",
+        "D. double"
+      ],
+      "correct_answer": "B. short",
+      "explanation": "short uses 2 bytes."
+    },
+    {
+      "id": "jv_mcq_11",
+      "question": "What is a variable?",
+      "options": [
+        "A. An output command",
+        "B. A named storage location",
+        "C. A bracket",
+        "D. A data type"
+      ],
+      "correct_answer": "B. A named storage location",
+      "explanation": "A variable stores a value using a name."
+    },
+    {
+      "id": "jv_mcq_12",
+      "question": "What does initialization mean?",
+      "options": [
+        "A. Naming a class",
+        "B. Ending a statement",
+        "C. Assigning a value to a variable",
+        "D. Printing output"
+      ],
+      "correct_answer": "C. Assigning a value to a variable",
+      "explanation": "Initialization gives a variable its value."
+    },
+    {
+      "id": "jv_mcq_13",
+      "question": "In int age = 13;, which part is the variable name?",
+      "options": [
+        "A. int",
+        "B. age",
+        "C. 13",
+        "D. ="
+      ],
+      "correct_answer": "B. age",
+      "explanation": "age is the name of the variable."
+    },
+    {
+      "id": "jv_mcq_14",
+      "question": "In int age = 13;, which part is the literal?",
+      "options": [
+        "A. int",
+        "B. age",
+        "C. 13",
+        "D. ;"
+      ],
+      "correct_answer": "C. 13",
+      "explanation": "13 is the literal value."
+    },
+    {
+      "id": "jv_mcq_15",
+      "question": "Which operator gives the remainder after division?",
+      "options": [
+        "A. /",
+        "B. -",
+        "C. %",
+        "D. *"
+      ],
+      "correct_answer": "C. %",
+      "explanation": "The modulus operator gives the remainder."
+    },
+    {
+      "id": "jv_mcq_16",
+      "question": "Which of the following is an arithmetic operator?",
+      "options": [
+        "A. +",
+        "B. class",
+        "C. main",
+        "D. String"
+      ],
+      "correct_answer": "A. +",
+      "explanation": "The symbol + is an arithmetic operator."
+    },
+    {
+      "id": "jv_mcq_17",
+      "question": "In 5 + 3, what are 5 and 3 called?",
+      "options": [
+        "A. Methods",
+        "B. Operands",
+        "C. Statements",
+        "D. Classes"
+      ],
+      "correct_answer": "B. Operands",
+      "explanation": "Operands are the values on which the operator works."
+    },
+    {
+      "id": "jv_mcq_18",
+      "question": "What is the operator in 100 + 800?",
+      "options": [
+        "A. 100",
+        "B. 800",
+        "C. +",
+        "D. 900"
+      ],
+      "correct_answer": "C. +",
+      "explanation": "The operator is the symbol that performs the action."
+    },
+    {
+      "id": "jv_mcq_19",
+      "question": "What is an expression?",
+      "options": [
+        "A. A class name",
+        "B. A piece of code that produces a value",
+        "C. A file rule",
+        "D. A data type table"
+      ],
+      "correct_answer": "B. A piece of code that produces a value",
+      "explanation": "An expression gives a value when evaluated."
+    },
+    {
+      "id": "jv_mcq_20",
+      "question": "Which of the following is a statement?",
+      "options": [
+        "A. 100 + 800",
+        "B. 25",
+        "C. System.out.println(100 + 800);",
+        "D. age"
+      ],
+      "correct_answer": "C. System.out.println(100 + 800);",
+      "explanation": "This is a complete command ending with a semicolon."
+    },
+    {
+      "id": "jv_mcq_21",
+      "question": "Which symbol is the simple assignment operator?",
+      "options": [
+        "A. ==",
+        "B. =",
+        "C. %",
+        "D. +"
+      ],
+      "correct_answer": "B. =",
+      "explanation": "The simple assignment operator is =."
+    },
+    {
+      "id": "jv_mcq_22",
+      "question": "What does x = 25 do?",
+      "options": [
+        "A. Adds x and 25",
+        "B. Compares x and 25",
+        "C. Assigns 25 to x",
+        "D. Prints 25"
+      ],
+      "correct_answer": "C. Assigns 25 to x",
+      "explanation": "The right side value is assigned to the variable on the left side."
+    },
+    {
+      "id": "jv_mcq_23",
+      "question": "Which of these is a binary operator?",
+      "options": [
+        "A. +",
+        "B. class",
+        "C. String",
+        "D. Hello"
+      ],
+      "correct_answer": "A. +",
+      "explanation": "A binary operator works on two operands."
+    },
+    {
+      "id": "jv_mcq_24",
+      "question": "Which brackets define code blocks in Java?",
+      "options": [
+        "A. ( )",
+        "B. [ ]",
+        "C. { }",
+        "D. < >"
+      ],
+      "correct_answer": "C. { }",
+      "explanation": "Curly brackets define code blocks."
+    },
+    {
+      "id": "jv_mcq_25",
+      "question": "What is the output of System.out.println(10 + 5);?",
+      "options": [
+        "A. 105",
+        "B. 10 + 5",
+        "C. 15",
+        "D. Error"
+      ],
+      "correct_answer": "C. 15",
+      "explanation": "The expression is evaluated and then printed."
+    },
+    {
+      "id": "jv_mcq_26",
+      "question": "What is the value of 17 % 5?",
+      "options": [
+        "A. 3",
+        "B. 2",
+        "C. 5",
+        "D. 1"
+      ],
+      "correct_answer": "B. 2",
+      "explanation": "17 divided by 5 leaves remainder 2."
+    },
+    {
+      "id": "jv_mcq_27",
+      "question": "What is the value of 18 / 3?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 9"
+      ],
+      "correct_answer": "B. 6",
+      "explanation": "18 divided by 3 equals 6."
+    },
+    {
+      "id": "jv_mcq_28",
+      "question": "What is the value of 6 * 4?",
+      "options": [
+        "A. 10",
+        "B. 20",
+        "C. 24",
+        "D. 28"
+      ],
+      "correct_answer": "C. 24",
+      "explanation": "6 multiplied by 4 equals 24."
+    },
+    {
+      "id": "jv_mcq_29",
+      "question": "What is the value of 20 - 7?",
+      "options": [
+        "A. 13",
+        "B. 14",
+        "C. 12",
+        "D. 15"
+      ],
+      "correct_answer": "A. 13",
+      "explanation": "20 minus 7 equals 13."
+    },
+    {
+      "id": "jv_mcq_30",
+      "question": "Where should output statements usually be written in these beginner programs?",
+      "options": [
+        "A. Outside the class",
+        "B. Inside the main method",
+        "C. Inside the file name",
+        "D. After the closing bracket"
+      ],
+      "correct_answer": "B. Inside the main method",
+      "explanation": "The print statements are written inside the main method."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "subject": "8C Hindi",
+  "chapter": "सबमें ईश्वर",
+  "question_type": "short_answer",
+  "questions": [
+    {
+      "id": "si_pbw_1",
+      "question": "चित्र संकेत: नहाता हुआ बच्चा\nदो वाक्य लिखिए।",
+      "answer": "लड़का नहा रहा है।\nवह साफ-सुथरा रहने की अच्छी आदत सीख रहा है।",
+      "source": "Textbook picture writing",
+      "explanation": "English meaning of the question: Picture hint: a child taking a bath. Write two sentences.<br><br>English meaning of the answer: The boy is taking a bath and learning the good habit of staying clean."
+    },
+    {
+      "id": "si_pbw_2",
+      "question": "चित्र संकेत: भोजन करता हुआ बच्चा\nदो वाक्य लिखिए।",
+      "answer": "लड़का मेज पर बैठकर भोजन कर रहा है।\nवह शांति से खाना खा रहा है।",
+      "source": "Textbook picture writing",
+      "explanation": "English meaning of the question: Picture hint: a child eating food. Write two sentences.<br><br>English meaning of the answer: The boy is sitting at the table and eating his food peacefully."
+    },
+    {
+      "id": "si_pbw_3",
+      "question": "चित्र संकेत: स्कूल जाता हुआ बच्चा\nदो वाक्य लिखिए।",
+      "answer": "लड़का स्कूल जा रहा है।\nउसके कंधे पर बस्ता है और वह पढ़ने के लिए उत्साहित है।",
+      "source": "Textbook picture writing",
+      "explanation": "English meaning of the question: Picture hint: a child going to school. Write two sentences.<br><br>English meaning of the answer: The boy is going to school with a school bag on his shoulder and he is excited to study."
+    },
+    {
+      "id": "si_pbw_4",
+      "question": "चित्र संकेत: पढ़ता हुआ बच्चा\nदो वाक्य लिखिए।",
+      "answer": "लड़का मेज पर बैठकर पढ़ाई कर रहा है।\nवह ध्यान से अपना काम पूरा कर रहा है।",
+      "source": "Textbook picture writing",
+      "explanation": "English meaning of the question: Picture hint: a child studying. Write two sentences.<br><br>English meaning of the answer: The boy is sitting at the table and studying carefully."
+    },
+    {
+      "id": "si_pbw_5",
+      "question": "चित्र संकेत: फुटबॉल खेलता हुआ बच्चा\nदो वाक्य लिखिए।",
+      "answer": "लड़का मैदान में फुटबॉल खेल रहा है।\nखेलने से उसका शरीर स्वस्थ और चुस्त रहता है।",
+      "source": "Textbook picture writing",
+      "explanation": "English meaning of the question: Picture hint: a child playing football. Write two sentences.<br><br>English meaning of the answer: The boy is playing football in the field, and playing keeps him healthy and active."
+    },
+    {
+      "id": "si_pbw_6",
+      "question": "खेल के मैदान के चित्र को समझकर चार वाक्य लिखिए।",
+      "answer": "खेल के मैदान में कई बच्चे आनंद से खेल रहे हैं।\nकुछ बच्चे झूला झूल रहे हैं और कुछ फिसलपट्टी पर खेल रहे हैं।\nदो बच्चे रेत में बैठकर खेल रहे हैं।\nपूरा वातावरण बहुत खुशहाल और रंग-बिरंगा दिखाई देता है।",
+      "source": "Textbook picture writing",
+      "explanation": "English meaning of the question: Understand the playground picture and write four sentences.<br><br>English meaning of the answer: Many children are happily playing in the playground. Some are on the swing and slide, two are sitting in the sand, and the whole place looks cheerful and colourful."
+    },
+    {
+      "id": "si_pbw_7",
+      "question": "खेल के मैदान के चित्र को समझकर आठ वाक्य लिखिए।",
+      "answer": "यह एक सुंदर खेल का मैदान है।\nमैदान में बहुत सारे बच्चे खेल रहे हैं।\nएक बच्ची फिसलपट्टी से नीचे आ रही है।\nदो बच्चे रेत में बैठकर खेल बना रहे हैं।\nपीछे दो बच्चे झूला झूल रहे हैं।\nकुछ बच्चे गेंद से खेल रहे हैं।\nपेड़-पौधे और फूल चित्र को और सुंदर बनाते हैं।\nयह दृश्य खुशी, मित्रता और खेलकूद का संदेश देता है।",
+      "source": "Textbook picture writing",
+      "explanation": "English meaning of the question: Understand the playground picture and write eight sentences.<br><br>English meaning of the answer: The answer describes a beautiful playground where many children are playing, using the slide, swings, sand area, and ball, while trees and flowers make the scene joyful and lively."
+    },
+    {
+      "id": "si_pbw_8",
+      "question": "ऐसा एक छोटा अनुच्छेद लिखिए जिसमें बच्चे मिल-जुलकर खेलते हुए दिखें।",
+      "answer": "पार्क में बच्चे मिल-जुलकर खेल रहे हैं। कोई गेंद खेल रहा है, कोई झूला झूल रहा है और कोई रेत में खेल रहा है। सभी बच्चे खुशी से एक-दूसरे के साथ समय बिता रहे हैं। यह दृश्य हमें मित्रता और सहयोग का संदेश देता है।",
+      "source": "Chapter theme extension",
+      "explanation": "English meaning of the question: Write a short paragraph showing children playing together.<br><br>English meaning of the answer: The paragraph describes children playing together in the park and gives a message of friendship and cooperation."
+    }
+  ]
+}

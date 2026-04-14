@@ -1,0 +1,193 @@
+{
+  "question_type": "comprehension",
+  "passages": [
+    {
+      "id": "8c_exam_passage_1",
+      "title": "Sample Paper 1: Sport and the Entertainment Industry",
+      "source": "Class 8 Sample Paper 1 (Second Terminal Examination, 25-11-2025)",
+      "passage": "Sport has rapidly become an established part of the entertainment industry and the smallest detail of sportsperson's private lives is exposed by the media to public scrutiny. Top professionals are often described as 'stars' and large business interests exploit their skills. Considerable profits are made out of selling sports gear which is a replica of the gear used by the professionals; newspapers sell more copies if their sports coverage is good, and substantial gains can be made out of the spectators' willingness to gamble on results. The increasing demand for new talented sportspersons serves to strengthen the popular image of professional sport as a highly glamorous occupation; the jealousy shown to players who succeed and the failure-rate of young entrants are ignored by the press. Even those who reach the heights maintain their supremacy for only a relatively short period and then desperately need help to establish themselves in a new career.\n\nIt is always attractive to do something interesting and to do it well as possible, but serious injury or an unaccountable loss of form quickly halts the progress of many a young sportsperson. A handful of top professionals can afford a house in London, another in the country, and a third on the French Riviera, as well as a Rolls-Royce and a yacht in the Bahamas, but most professional players just manage to gain a bare living from their sport. Outdoor life can be delightful except when the prevalent weather conditions are rain, wind, snow, fog or ice. It is flattering to hear one's name chanted with acclaim by thousands on the terraces but crowds are fickle and soon forget, once time takes its toll of muscle and mind. Tommy Lawton, the football hero of the forties, spent his later years in poverty, forgotten by all but a small band of his closest friends.\n\nSportspersons at the height of their profession travel all around the world. A cricket team may spend its winters in Australian summers and the Wimbledon women champions may spend the year bathed in sunshine, but their own social lives are disrupted and leisure hours have to be sacrificed to hard, exhausting practice. All professional sportspersons must adhere to strict training schedules to maintain their physical fitness; their lives are devoted to keeping the body in peak condition by exhausting exercise combined with a strict regime of self-discipline and moderation in food and drink.\n\nAt an early age comes retirement. The financial rewards gained will probably not provide enough to live on for the rest of life and the early-retired sportsperson has to seek a new career. He/she enters the new career fifteen years later than his/her contemporaries and often with not enough reputation in his/her sport to persuade an employer to pay a high salary.",
+      "questions": [
+        {
+          "id": "8c_ep1_q1",
+          "type": "mcq",
+          "question": "Choose the correct meaning of 'bare' as used in the passage.",
+          "options": ["lush", "uncovered", "essential", "exposed"],
+          "answer": "essential",
+          "explanation": "In the phrase 'gain a bare living', 'bare' means only the essential or minimum amount needed to survive."
+        },
+        {
+          "id": "8c_ep1_q2",
+          "type": "mcq",
+          "question": "Choose the correct meaning of 'peak' as used in the passage.",
+          "options": ["top", "best physical state", "durable", "deplorable state"],
+          "answer": "best physical state",
+          "explanation": "In the phrase 'keeping the body in peak condition', 'peak' means the best physical state."
+        },
+        {
+          "id": "8c_ep1_q3",
+          "type": "vocabulary",
+          "question": "Which word in the passage means the opposite of the word 'hidden'?",
+          "answer": "exposed"
+        },
+        {
+          "id": "8c_ep1_q4",
+          "type": "short_answer",
+          "question": "In what way do large business interests exploit sportspersons' skills?",
+          "answer": "Large business interests exploit sportspersons' skills by making considerable profits from selling sports gear that is a replica of the gear used by the professionals."
+        },
+        {
+          "id": "8c_ep1_q5",
+          "type": "short_answer",
+          "question": "What is the popular image of professional sport? How does the media help to keep up this image?",
+          "answer": "The popular image of professional sport is that it is a highly glamorous occupation. The media helps to keep up this image by ignoring the jealousy shown to successful players and the failure-rate of young entrants, and by strengthening the idea through constant demand for new talent."
+        },
+        {
+          "id": "8c_ep1_q6",
+          "type": "short_answer",
+          "question": "Give a reason to show that sportspersons do not feel secure.",
+          "answer": "Sportspersons do not feel secure because serious injury or an unaccountable loss of form can quickly halt their progress, and even top players remain at the top for only a short period before needing help to start a new career."
+        },
+        {
+          "id": "8c_ep1_q7",
+          "type": "short_answer",
+          "question": "What sacrifices do sportspersons make in their career?",
+          "answer": "Sportspersons sacrifice their social lives and leisure hours for hard, exhausting practice. They follow strict training schedules, keep their bodies in peak condition through tiring exercise, and maintain a strict regime of self-discipline and moderation in food and drink."
+        },
+        {
+          "id": "8c_ep1_q8",
+          "type": "short_answer",
+          "question": "State the attitude of the crowd towards sportspersons.",
+          "answer": "The crowd's attitude is fickle. Crowds cheer and chant a sportsperson's name with great acclaim when he is at his best, but they soon forget him once time takes its toll on his muscle and mind. The passage cites Tommy Lawton, who was a football hero but was forgotten in his later years."
+        },
+        {
+          "id": "8c_ep1_q9",
+          "type": "long_answer",
+          "question": "In not more than 50 words, summarise the disadvantages of taking up sports as a career.",
+          "answer": "A career in sports has many disadvantages. Serious injury or loss of form can end progress. Most players earn only a bare living. Social life and leisure are sacrificed for strict training. Retirement comes early, and the sportsperson must start a new career late, with low pay."
+        }
+      ]
+    },
+    {
+      "id": "8c_exam_passage_2",
+      "title": "Sample Paper 2: Mother Teresa, Saint of the Gutters",
+      "source": "Class 8 Sample Paper 2 (First Terminal Examination, 16-07-2024)",
+      "passage": "Mother Teresa was a very religious and famous woman who is also known as 'Saint of the Gutters'. She is one of the greatest personalities all over the world. She had represented her whole life in front of us as a true mother by providing kind services of full dedication and love to the needy and poor people of the Indian society. She is also popularly known as 'saint of our times' or 'angel' or 'a beacon in the world of darkness'.\n\nBorn Agnes Gonxha Bojaxhiu, she later became famous as Mother Teresa after her great works and achievements. She was born on 26th of August in 1910, in Macedonia in a religious Catholic family. Mother Teresa decided to become a nun at an early age. She had joined a convent in the year 1928 and then came to India (Darjeeling and then Kolkata).\n\nOnce, while she was returning from her visit, she was shocked and her heart was broken after seeing people's sadness in a Kolkata slum. That event disturbed her mind a lot and made her nights sleepless. She started of thinking some ways to alleviate people suffering in the slum. She was bound by the restrictions in the convent, so she prayed to God for getting some guidance and direction.\n\nFinally, she got a message (to leave the convent and serve needy people) from God on her way to Darjeeling on the 10th of September in 1937. After that, she never looked back and started serving the poor. She chose to wear a simple dress, a white saree with a blue border. Soon, young girls started joining her group in order to provide help to the suffering poor of the community. She planned to make a dedicated group of sisters who would be always ready to serve the poor in any condition. The group of dedicated sisters came to be known as 'Missionaries of Charity'.\n\nMother Teresa, revered for her work with the poor in India, was proclaimed a saint by Pope Francis in a ceremony at the Vatican in September 2016 for her great deeds.",
+      "questions": [
+        {
+          "id": "8c_ep2_q1",
+          "type": "mcq",
+          "question": "Choose the correct meaning of 'famous' as used in the passage.",
+          "options": ["well known", "unknown", "notorious", "aimless"],
+          "answer": "well known",
+          "explanation": "In the passage, 'famous' describes Mother Teresa's wide recognition and means 'well known'."
+        },
+        {
+          "id": "8c_ep2_q2",
+          "type": "mcq",
+          "question": "Choose the correct meaning of 'dedication' as used in the passage.",
+          "options": ["achievement", "dictation", "commitment", "hopeful"],
+          "answer": "commitment",
+          "explanation": "The phrase 'full dedication and love' means full commitment and love towards her work."
+        },
+        {
+          "id": "8c_ep2_q3",
+          "type": "vocabulary",
+          "question": "Which word in the passage means the opposite of the word 'grand'?",
+          "answer": "simple"
+        },
+        {
+          "id": "8c_ep2_q4",
+          "type": "short_answer",
+          "question": "Why is Mother Teresa called the 'Saint of the Gutters'?",
+          "answer": "Mother Teresa is called the 'Saint of the Gutters' because she spent her whole life providing kind services of full dedication and love to the needy and poor people of Indian society, especially those living in slums."
+        },
+        {
+          "id": "8c_ep2_q5",
+          "type": "short_answer",
+          "question": "What was her childhood name? When and where was she born?",
+          "answer": "Her childhood name was Agnes Gonxha Bojaxhiu. She was born on 26th August 1910 in Macedonia, in a religious Catholic family."
+        },
+        {
+          "id": "8c_ep2_q6",
+          "type": "short_answer",
+          "question": "What made her nights sleepless?",
+          "answer": "While returning from a visit, Mother Teresa saw the sadness of people living in a Kolkata slum. She was shocked and her heart was broken. That event disturbed her mind and made her nights sleepless."
+        },
+        {
+          "id": "8c_ep2_q7",
+          "type": "short_answer",
+          "question": "What inspired her to serve the poor and when?",
+          "answer": "Mother Teresa was inspired to serve the poor when she received a message from God on her way to Darjeeling on the 10th of September in 1937. The message told her to leave the convent and serve the needy people."
+        },
+        {
+          "id": "8c_ep2_q8",
+          "type": "short_answer",
+          "question": "What was the name of the group of sisters formed by Mother Teresa? What was the purpose of forming that group?",
+          "answer": "The group of sisters formed by Mother Teresa was called 'Missionaries of Charity'. The purpose of forming this group was to create a dedicated team of sisters who would always be ready to serve the poor in any condition."
+        },
+        {
+          "id": "8c_ep2_q9",
+          "type": "short_answer",
+          "question": "When, where, and by whom was she proclaimed a saint?",
+          "answer": "Mother Teresa was proclaimed a saint in September 2016 at the Vatican by Pope Francis, in honour of her great deeds serving the poor in India."
+        }
+      ]
+    },
+    {
+      "id": "8c_exam_passage_3",
+      "title": "Sample Paper 3: The Empty Chair",
+      "source": "Class 8 Sample Paper 3 (Annual Examination, 27-02-2021)",
+      "passage": "I felt that I was alone and that my room seemed to me more empty than ever before. I was surrounded by a sensation of infinite and overwhelming solitude. I sat down, but then a kind of nervous impatience agitated my legs so that I got up and began to walk about again. I was feverish, for my hands, which I had clasped behind me, almost seemed to tremble. Then suddenly a cold shiver ran down my back, and I thought the damp air might have penetrated into my room, so I lit the fire for the first time that year. But soon I felt that I could not possibly remain quiet. So I got up again and decided to go out and seek a friend to bear me company. I could not find anyone and returned home.\n\nWhen I go out I always double-lock the door of my room. Now I found it merely closed, which surprised me.\n\nI went in and found the fire still burning, so that it lighted up the room a little. In the act of taking up a candle, I noticed somebody sitting in my armchair by the fire, warming his feet, with his neck toward me. I thought very naturally that some friend or the other had come to see me. No doubt the porter, whom I had told when I went out, had lent him his own key. In a moment, I remembered all the circumstances of my return, how the street door had opened immediately and that my own door was only latched and not locked.\n\nI could see nothing of my friend but his head. He had evidently gone to sleep while waiting for me, so I tried to rouse him. I saw him quite clearly; his right arm was hanging down and his legs were crossed, which was somewhat inclined to the left of the armchair, seemed to indicate that he was asleep. 'Who can it be?' I asked myself. I could not see clearly, as the room was rather dark. So I put out my hand to touch him on the shoulder, and it came in contact with the back of the chair. There was nobody there; the chair was empty.\n\nI at once jumped up with fright. For a moment, I drew back as if some terrible danger had suddenly appeared in my way; then I turned round again, and looked at the armchair. I remained standing upright, panting with fear, so upset that I could not collect my thoughts and was ready to drop.\n\nI lay quietly on my back. Then an irresistible desire seized me to look round the room and I turned onto my side. My fire was nearly out and the few glowing embers threw a faint light on to the floor by the chair, where I fancied, I saw the man sitting again.\n\nI quickly struck a match, but I had been mistaken, for there was nothing there. Since that time, I am afraid of being alone at night.",
+      "questions": [
+        {
+          "id": "8c_ep3_q1",
+          "type": "vocabulary",
+          "question": "Give the meaning of the word 'solitude' as used in the passage.",
+          "answer": "loneliness; the state of being alone"
+        },
+        {
+          "id": "8c_ep3_q2",
+          "type": "vocabulary",
+          "question": "Give the meaning of the word 'immediately' as used in the passage.",
+          "answer": "at once; without any delay"
+        },
+        {
+          "id": "8c_ep3_q3",
+          "type": "vocabulary",
+          "question": "Give the meaning of the word 'irresistible' as used in the passage.",
+          "answer": "impossible to resist; too strong to control"
+        },
+        {
+          "id": "8c_ep3_q4",
+          "type": "short_answer",
+          "question": "What was the experience of the narrator as expressed in the first paragraph?",
+          "answer": "In the first paragraph, the narrator felt alone and his room seemed more empty than ever before. He was surrounded by infinite and overwhelming loneliness. He felt nervous and feverish, his hands trembled, and a cold shiver ran down his back. He could not remain quiet and finally went out to seek a friend's company."
+        },
+        {
+          "id": "8c_ep3_q5",
+          "type": "short_answer",
+          "question": "What were the unusual things that the narrator noticed when he returned home?",
+          "answer": "When the narrator returned home, he noticed that his door, which he always double-locked, was merely closed. The street door had opened immediately, and when he went inside he saw somebody sitting in his armchair by the fire, warming his feet with his neck turned towards him."
+        },
+        {
+          "id": "8c_ep3_q6",
+          "type": "short_answer",
+          "question": "Describe the man in the narrator's room.",
+          "answer": "The narrator could see only the head of the man. The man appeared to be asleep in the armchair, warming his feet at the fire. His right arm was hanging down and his legs were crossed. He was leaning slightly to the left of the armchair, which made the narrator think he was fast asleep."
+        },
+        {
+          "id": "8c_ep3_q7",
+          "type": "short_answer",
+          "question": "What happened when the narrator touched the man on the chair?",
+          "answer": "When the narrator put out his hand to touch the man on the shoulder, his hand came into contact with the back of the chair. There was nobody there and the chair was empty. The narrator at once jumped up with fright and drew back as if some terrible danger had suddenly appeared. He stood upright, panting with fear, unable to collect his thoughts."
+        },
+        {
+          "id": "8c_ep3_q8",
+          "type": "short_answer",
+          "question": "What was the 'irresistible desire' that the narrator was seized with? What did he see in the room?",
+          "answer": "The irresistible desire that seized the narrator was the desire to look round the room. When he turned onto his side, the few glowing embers of the dying fire threw a faint light on the floor by the chair, and he fancied he saw the man sitting there again. But when he quickly struck a match, there was nothing. Since that time, he has been afraid of being alone at night."
+        }
+      ]
+    }
+  ]
+}

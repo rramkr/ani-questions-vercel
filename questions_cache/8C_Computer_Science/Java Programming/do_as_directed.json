@@ -1,0 +1,127 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "do_as_directed",
+  "questions": [
+    {
+      "id": "jv_dad_1",
+      "question": "Complete the file rule: If the class name is HelloWorld, the file should be saved as ______.",
+      "answer": "HelloWorld.java"
+    },
+    {
+      "id": "jv_dad_2",
+      "question": "Write the correct Java statement to print the word Hello and move to the next line.",
+      "answer": "System.out.println(\"Hello\");"
+    },
+    {
+      "id": "jv_dad_3",
+      "question": "Write the correct Java statement to print the word Hello on the same line.",
+      "answer": "System.out.print(\"Hello\");"
+    },
+    {
+      "id": "jv_dad_4",
+      "question": "Declare and initialize a short variable students with the value 100.",
+      "answer": "short students = 100;"
+    },
+    {
+      "id": "jv_dad_5",
+      "question": "Declare and initialize a double variable price with the value 99.5.",
+      "answer": "double price = 99.5;"
+    },
+    {
+      "id": "jv_dad_6",
+      "question": "Declare and initialize a String variable schoolName with the value Sishya.",
+      "answer": "String schoolName = \"Sishya\";"
+    },
+    {
+      "id": "jv_dad_7",
+      "question": "Find the value of x: int x = 25 - 9;",
+      "answer": "x = 16"
+    },
+    {
+      "id": "jv_dad_8",
+      "question": "Find the value of y: int y = 7 * 8;",
+      "answer": "y = 56"
+    },
+    {
+      "id": "jv_dad_9",
+      "question": "Find the value of z: int z = 19 % 4;",
+      "answer": "z = 3"
+    },
+    {
+      "id": "jv_dad_10",
+      "question": "Identify the operator and operands in 100 + 800.",
+      "answer": "Operator: +\nOperands: 100 and 800"
+    },
+    {
+      "id": "jv_dad_11",
+      "question": "Correct the statement: System.out.println(\"Java\")",
+      "answer": "System.out.println(\"Java\");"
+    },
+    {
+      "id": "jv_dad_12",
+      "question": "Write the correct class declaration line for a class named Hello.",
+      "answer": "public class Hello"
+    },
+    {
+      "id": "jv_dad_13",
+      "question": "Declare an int variable marks and initialize it with 95.",
+      "answer": "int marks = 95;"
+    },
+    {
+      "id": "jv_dad_14",
+      "question": "Declare a byte variable age and initialize it with 13.",
+      "answer": "byte age = 13;"
+    },
+    {
+      "id": "jv_dad_15",
+      "question": "Declare a float variable temperature and initialize it with 32.5.",
+      "answer": "float temperature = 32.5f;"
+    },
+    {
+      "id": "jv_dad_16",
+      "question": "Write a statement using the expression 50 + 25 to print the result.",
+      "answer": "System.out.println(50 + 25);"
+    },
+    {
+      "id": "jv_dad_17",
+      "question": "Write the correct file name for a class named StudentInfo.",
+      "answer": "StudentInfo.java"
+    },
+    {
+      "id": "jv_dad_18",
+      "question": "Correct the statement: String city = Chennai;",
+      "answer": "String city = \"Chennai\";"
+    },
+    {
+      "id": "jv_dad_19",
+      "question": "Correct the statement: int marks = \"95\";",
+      "answer": "int marks = 95;"
+    },
+    {
+      "id": "jv_dad_20",
+      "question": "Write the correct method header for main.",
+      "answer": "public static void main(String[] args)"
+    },
+    {
+      "id": "jv_dad_21",
+      "question": "Complete the declaration and initialization: short students = ______;",
+      "answer": "100"
+    },
+    {
+      "id": "jv_dad_22",
+      "question": "Complete the statement: System.out.______(\"Welcome\"); to print on the same line.",
+      "answer": "print"
+    },
+    {
+      "id": "jv_dad_23",
+      "question": "Complete the statement: System.out.______(\"Welcome\"); to print and move to the next line.",
+      "answer": "println"
+    },
+    {
+      "id": "jv_dad_24",
+      "question": "Find the value of result: int result = 18 / 3;",
+      "answer": "result = 6"
+    }
+  ]
+}

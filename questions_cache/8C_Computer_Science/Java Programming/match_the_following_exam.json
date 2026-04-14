@@ -1,0 +1,85 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "match_the_following",
+  "questions": [
+    {
+      "id": "jv_mte_1",
+      "question": "Match the following:",
+      "column_a": ["class declaration", "main method", "String", "%", "="],
+      "column_b": ["assignment operator", "stores text", "names the class", "gives remainder", "where execution begins"],
+      "correct_matches": {
+        "class declaration": "names the class",
+        "main method": "where execution begins",
+        "String": "stores text",
+        "%": "gives remainder",
+        "=": "assignment operator"
+      }
+    },
+    {
+      "id": "jv_mte_2",
+      "question": "Match the following:",
+      "column_a": ["byte", "short", "int", "float", "double"],
+      "column_b": ["4 bytes whole number type", "8 bytes decimal type", "1 byte whole number type", "2 bytes whole number type", "decimal type"],
+      "correct_matches": {
+        "byte": "1 byte whole number type",
+        "short": "2 bytes whole number type",
+        "int": "4 bytes whole number type",
+        "float": "decimal type",
+        "double": "8 bytes decimal type"
+      }
+    },
+    {
+      "id": "jv_mte_3",
+      "question": "Match the following:",
+      "column_a": ["+", "-", "*", "/", "%"],
+      "column_b": ["division", "modulus", "addition", "multiplication", "subtraction"],
+      "correct_matches": {
+        "+": "addition",
+        "-": "subtraction",
+        "*": "multiplication",
+        "/": "division",
+        "%": "modulus"
+      }
+    },
+    {
+      "id": "jv_mte_4",
+      "question": "Match the following:",
+      "column_a": ["public", "class", "void", "System.out.print()", "System.out.println()"],
+      "column_b": ["prints and moves to next line", "used to define a class", "returns nothing", "prints on same line", "access modifier"],
+      "correct_matches": {
+        "public": "access modifier",
+        "class": "used to define a class",
+        "void": "returns nothing",
+        "System.out.print()": "prints on same line",
+        "System.out.println()": "prints and moves to next line"
+      }
+    },
+    {
+      "id": "jv_mte_5",
+      "question": "Match the following:",
+      "column_a": ["variable", "declaration", "initialization", "literal", "statement"],
+      "column_b": ["actual value written in code", "complete command ending with semicolon", "assigning a value", "named storage location", "writing data type and variable name"],
+      "correct_matches": {
+        "variable": "named storage location",
+        "declaration": "writing data type and variable name",
+        "initialization": "assigning a value",
+        "literal": "actual value written in code",
+        "statement": "complete command ending with semicolon"
+      }
+    },
+    {
+      "id": "jv_mte_6",
+      "question": "Match the following:",
+      "column_a": ["Hello", "Hello.java", "main", "double", "17 % 5"],
+      "column_b": ["class name", "file name", "2", "decimal data type", "method where execution begins"],
+      "correct_matches": {
+        "Hello": "class name",
+        "Hello.java": "file name",
+        "main": "method where execution begins",
+        "double": "decimal data type",
+        "17 % 5": "2"
+      }
+    }
+  ]
+}

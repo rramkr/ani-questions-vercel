@@ -1,0 +1,28 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Ethics and Safety Measures",
+  "sections": {
+    "textbook": [
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+    ],
+    "exam": [
+      {"value": "graded_test", "label": "Graded Test", "icon": "📝"},
+      {"value": "mcq", "label": "Multiple Choice (I)", "icon": "🔘"},
+      {"value": "match_the_following", "label": "Match the Following (II)", "icon": "🔗"},
+      {"value": "name_icons", "label": "Name the Icons (III)", "icon": "🖼️"},
+      {"value": "true_false", "label": "True or False (IV)", "icon": "✓✗"},
+      {"value": "fill_in_blanks", "label": "Fill in the Blanks (V)", "icon": "✏️"},
+      {"value": "one_word", "label": "One Word Answer (VI)", "icon": "1️⃣"},
+      {"value": "define", "label": "Define the Following (VII)", "icon": "📚"},
+      {"value": "do_as_directed", "label": "Do as Directed (VIII & IX)", "icon": "📋"},
+      {"value": "short_answer", "label": "Short Answer (XI)", "icon": "📝"}
+    ],
+    "miscellaneous": [
+      {"value": "application_questions", "label": "Application Questions", "icon": "💡"},
+      {"value": "jumbled_words", "label": "Jumbled Words", "icon": "🔤"},
+      {"value": "name_the_following", "label": "Name the Following", "icon": "🏷️"},
+      {"value": "differentiate_between", "label": "Differentiate Between", "icon": "↔️"},
+      {"value": "tricky_questions", "label": "Tricky Questions", "icon": "🎯"}
+    ]
+  }
+}

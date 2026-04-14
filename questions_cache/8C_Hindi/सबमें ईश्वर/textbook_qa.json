@@ -1,0 +1,112 @@
+{
+  "subject": "8C Hindi",
+  "chapter": "सबमें ईश्वर",
+  "question_type": "textbook_qa",
+  "questions": [
+    {
+      "id": "si_tqa_1",
+      "question": "कवि बच्चों से क्या अपनाने को कहता है?",
+      "answer": "कवि बच्चों से फिर से प्रेम, मेल-मिलाप और भाईचारे की वही सुंदर बात अपनाने को कहता है।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: What does the poet ask children to adopt again?<br><br>English meaning of the answer: The poet asks children to embrace once again the beautiful values of love, harmony, and brotherhood."
+    },
+    {
+      "id": "si_tqa_2",
+      "question": "पास-पड़ोसी को क्या बाँटना चाहिए?",
+      "answer": "पास-पड़ोसी को एक-दूसरे के सुख-दुख बाँटने चाहिए।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: What should neighbours share?<br><br>English meaning of the answer: Neighbours should share one another's joys and sorrows."
+    },
+    {
+      "id": "si_tqa_3",
+      "question": "कविता के अनुसार सबमें कैसे जज्बात होने चाहिए?",
+      "answer": "सबमें प्रेम, सहानुभूति, सहयोग और अपनत्व के जज्बात होने चाहिए।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: According to the poem, what kind of feelings should everyone have?<br><br>English meaning of the answer: Everyone should have feelings of love, sympathy, cooperation, and belonging."
+    },
+    {
+      "id": "si_tqa_4",
+      "question": "पंथ अलग होने पर भी कौन-सी बात एक है?",
+      "answer": "पंथ अलग होने पर भी ईश्वर एक है और मानवता का मूल भाव एक ही है।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: Even if paths are different, what remains one?<br><br>English meaning of the answer: Even if paths are different, God is one and the spirit of humanity remains the same."
+    },
+    {
+      "id": "si_tqa_5",
+      "question": "रक्त सभी का लाल एक है - इस पंक्ति से क्या संदेश मिलता है?",
+      "answer": "इस पंक्ति से संदेश मिलता है कि सभी मनुष्य समान हैं और किसी के साथ ऊँच-नीच नहीं करनी चाहिए।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: What message is conveyed by the line, \"Everyone's blood is the same red colour\"?<br><br>English meaning of the answer: This line teaches that all human beings are equal and no one should be treated as high or low."
+    },
+    {
+      "id": "si_tqa_6",
+      "question": "कवि किस बात को बढ़ाने की बात करता है?",
+      "answer": "कवि प्रेम का हाथ बढ़ाने की बात करता है।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: What does the poet say should grow?<br><br>English meaning of the answer: The poet says that love should grow and spread among people."
+    },
+    {
+      "id": "si_tqa_7",
+      "question": "कविता के अनुसार जग में कोई बड़ा या छोटा क्यों नहीं है?",
+      "answer": "क्योंकि सब मनुष्य एक ही ईश्वर की संतान हैं और सबका रक्त भी एक जैसा लाल है।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: Why is no one big or small in the world according to the poem?<br><br>English meaning of the answer: No one is big or small because all human beings are children of the same God and everyone's blood is red."
+    },
+    {
+      "id": "si_tqa_8",
+      "question": "ऋषियों ने कौन-सी बात बताई है?",
+      "answer": "ऋषियों ने बताया है कि इस संसार में कोई बड़ा या छोटा नहीं होता, सब समान हैं।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: What did the sages teach?<br><br>English meaning of the answer: The sages taught that no one in this world is greater or lesser, and all are equal."
+    },
+    {
+      "id": "si_tqa_9",
+      "question": "पीर पराई जानने का क्या अर्थ है?",
+      "answer": "पीर पराई जानने का अर्थ है दूसरों के दुख को अपना समझना और उनके प्रति संवेदना रखना।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: What does it mean to understand another person's pain?<br><br>English meaning of the answer: It means feeling another person's sorrow as your own and showing sympathy towards them."
+    },
+    {
+      "id": "si_tqa_10",
+      "question": "अच्छा मानव किसे कहा जा सकता है?",
+      "answer": "जो दूसरों से प्रेम करे, भेदभाव न करे, दुख-सुख में साथ दे और मतभेद मिटाए, उसे अच्छा मानव कहा जा सकता है।",
+      "source": "Textbook",
+      "explanation": "English meaning of the question: Who can be called a good human being?<br><br>English meaning of the answer: A good human being is someone who loves others, avoids discrimination, stands by people in joy and sorrow, and removes differences."
+    },
+    {
+      "id": "si_tqa_11",
+      "question": "हम सभी के बीच में क्या समानता है?",
+      "answer": "हम सबमें एक ही ईश्वर का वास है, सबका रक्त लाल है और हम सब मनुष्य हैं।",
+      "source": "Notebook + Textbook",
+      "explanation": "English meaning of the question: What is common among all of us?<br><br>English meaning of the answer: The same God lives in all of us, everyone's blood is red, and all of us are human beings."
+    },
+    {
+      "id": "si_tqa_12",
+      "question": "कवि कैसी रात लाने को कहता है?",
+      "answer": "कवि प्रेम, शांति और खुशी से भरी चाँदनी रात लाने को कहता है।",
+      "source": "Notebook",
+      "explanation": "English meaning of the question: What kind of night does the poet ask for?<br><br>English meaning of the answer: The poet asks for a moonlit night filled with love, peace, and happiness."
+    },
+    {
+      "id": "si_tqa_13",
+      "question": "हमें किसी के साथ भेदभाव क्यों नहीं करना चाहिए?",
+      "answer": "हमें किसी के साथ भेदभाव नहीं करना चाहिए क्योंकि सभी मनुष्यों में ईश्वर का वास है और सब समान हैं।",
+      "source": "Exercise",
+      "explanation": "English meaning of the question: Why should we not discriminate against anyone?<br><br>English meaning of the answer: We should not discriminate because God lives in every human being and all people are equal."
+    },
+    {
+      "id": "si_tqa_14",
+      "question": "दूसरों की मदद किस प्रकार की जा सकती है?",
+      "answer": "दूसरों की मदद प्रेम से, सहानुभूति से, उनके दुख-सुख में साथ देकर और आवश्यकता के समय सहायता करके की जा सकती है।",
+      "source": "Exercise",
+      "explanation": "English meaning of the question: How can we help others?<br><br>English meaning of the answer: We can help others with love, sympathy, support in times of joy and sorrow, and timely assistance when they need it."
+    },
+    {
+      "id": "si_tqa_15",
+      "question": "प्रेमभाव बढ़ाने के लिए हमें क्या करना चाहिए?",
+      "answer": "प्रेमभाव बढ़ाने के लिए हमें मिल-जुलकर रहना चाहिए, भेदभाव दूर करना चाहिए और सबके प्रति अच्छा व्यवहार रखना चाहिए।",
+      "source": "Exercise",
+      "explanation": "English meaning of the question: What should we do to increase love among people?<br><br>English meaning of the answer: We should live together happily, remove discrimination, and behave kindly towards everyone."
+    }
+  ]
+}

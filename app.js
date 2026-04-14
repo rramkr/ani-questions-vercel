@@ -498,7 +498,7 @@ async function handleHashChange() {
                 }
 
                 // Show sections view
-                renderSections(sectionsData.sections);
+                renderSections(sectionsData.sections, sectionsData.section_labels || {});
                 showView('sections');
             } else {
                 // Show chapters view
@@ -696,7 +696,7 @@ async function loadSections(chapter) {
         const data = await response.json();
         state.currentChapter = chapter;
         state.currentType = null;
-        renderSections(data.sections);
+        renderSections(data.sections, data.section_labels || {});
         showView('sections');
         updateHash();
     } catch (error) {
@@ -1344,7 +1344,7 @@ function renderComprehensionAnswer(q) {
     let html = `<div class="answer-text">${q.answer}</div>`;
 
     if (q.explanation) {
-        html += `<div class="answer-explanation"><strong>Explanation:</strong> ${q.explanation}</div>`;
+        html += `<div class="answer-explanation"><strong>Explanation:</strong><div class="explanation-body">${q.explanation}</div></div>`;
     }
 
     return html;
@@ -1690,6 +1690,7 @@ function processQuestion(q, questionType) {
         question: q.question || q.statement || '',
         correct_answer: q.correct_answer || q.answer || '',
         explanation: q.explanation || '',
+        textbook_extract: q.textbook_extract || '',
         source_section: q.source_section || '',
         year: q.year || '', // For previous year questions
         has_diagram: q.has_diagram || false,
@@ -2122,7 +2123,7 @@ function renderMCQAnswerShowAll(q) {
         <div class="correct-answer">
             <strong>Answer:</strong> ${q.correct_answer}
         </div>
-        <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+        <div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>
     `;
 }
 
@@ -2132,20 +2133,22 @@ function renderSimpleAnswerShowAll(q) {
         <div class="correct-answer">
             <strong>Answer:</strong> ${q.correct_answer || q.answer}
         </div>
-        <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+        <div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>
     `;
 }
 
 function renderTextAnswerShowAll(q) {
     const keyPoints = q.key_points || [];
     const justification = q.explanation || (q.source_section ? `Source: "${q.source_section}"` : '');
+    const textbookExtract = q.textbook_extract || '';
 
     return `
+        ${textbookExtract ? `<div class="textbook-extract"><strong>From the textbook:</strong> ${textbookExtract}</div>` : ''}
         <div class="correct-answer">
             <strong>Answer:</strong>
             <p>${q.correct_answer || q.answer}</p>
         </div>
-        <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+        <div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>
         ${keyPoints.length > 0 ? `
             <div class="key-points">
                 <strong>Key Points:</strong>
@@ -2358,7 +2361,7 @@ function renderChapterItem(chapter) {
     `;
 }
 
-function renderSections(sections) {
+function renderSections(sections, sectionLabels = {}) {
     elements.sectionsTitle.textContent = `${state.currentChapter.name}`;
 
     // Get the sections container
@@ -2369,6 +2372,19 @@ function renderSections(sections) {
     if (existingWrongSection) existingWrongSection.remove();
     const existingAdminSection = document.getElementById('admin-section');
     if (existingAdminSection) existingAdminSection.remove();
+
+    // Apply custom section labels when provided
+    const textbookHeader = document.querySelector('#textbook-section .section-header');
+    const previousYearHeader = document.querySelector('#previous-year-section .section-header');
+    const examHeader = document.querySelector('#exam-section .section-header');
+    const miscHeader = document.querySelector('#misc-section .section-header');
+    const referenceHeader = document.querySelector('#reference-section .section-header');
+
+    if (textbookHeader) textbookHeader.textContent = sectionLabels.textbook || 'Textbook Questions';
+    if (previousYearHeader) previousYearHeader.textContent = sectionLabels.previous_year || 'Previous Year Questions';
+    if (examHeader) examHeader.textContent = sectionLabels.exam || 'Practice Questions for Exam';
+    if (miscHeader) miscHeader.textContent = sectionLabels.miscellaneous || 'Miscellaneous';
+    if (referenceHeader) referenceHeader.textContent = sectionLabels.reference || 'From Reference';
 
     // Render each section
     renderSectionTypes(elements.textbookTypes, sections.textbook, 'textbook-section');
@@ -2472,11 +2488,27 @@ function renderSectionTypes(container, types, sectionId) {
         // Handle PDF links - open in new tab
         if (type.type === 'pdf' && type.url) {
             return `
-                <div class="type-item pdf-link" onclick="window.open('${type.url}', '_blank')">
+                <a class="type-item pdf-link" href="${type.url}" target="_blank" rel="noopener noreferrer">
                     <span class="type-icon">${type.icon}</span>
                     <span class="type-label">${type.label}</span>
                     <span class="pdf-badge">PDF</span>
-                </div>
+                </a>
+            `;
+        }
+        // Handle external links (NotebookLM, etc.) - open in new tab
+        if (type.type === 'external' && type.url) {
+            const badgeText = type.badge || 'Link';
+            const badgeClass = type.badge_class || 'external';
+            const helperText = badgeClass === 'notebooklm' ? '<span class="type-helper">Requires Google login</span>' : '';
+            return `
+                <a class="type-item external-link external-${badgeClass}" href="${type.url}" target="_blank" rel="noopener noreferrer">
+                    <span class="type-icon">${type.icon}</span>
+                    <span class="type-label-wrap">
+                        <span class="type-label">${type.label}</span>
+                        ${helperText}
+                    </span>
+                    <span class="external-badge badge-${badgeClass}">${badgeText}</span>
+                </a>
             `;
         }
         // Normal question types
@@ -2701,7 +2733,7 @@ function renderOneByOneAnswer(question) {
                 <strong>Answer:</strong>
                 <p>${question.answer || question.correct_answer || ''}</p>
             </div>
-            ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+            ${justification ? `<div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>` : ''}
         `;
     }
 
@@ -2733,7 +2765,7 @@ function renderOneByOneAnswer(question) {
             <div class="correct-answer">
                 <strong>Correct Answer:</strong> ${question.correct_answer}
             </div>
-            ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+            ${justification ? `<div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>` : ''}
         `;
     }
 
@@ -2750,7 +2782,7 @@ function renderOneByOneAnswer(question) {
             <div class="correct-answer">
                 <strong>Correct Answer:</strong> ${question.correct_answer}
             </div>
-            ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+            ${justification ? `<div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>` : ''}
         `;
     }
 
@@ -2770,7 +2802,7 @@ function renderOneByOneAnswer(question) {
             <div class="correct-answer">
                 <strong>Correct Answer:</strong> ${question.correct_answer || question.answer}
             </div>
-            ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+            ${justification ? `<div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>` : ''}
         `;
     }
 
@@ -2869,6 +2901,7 @@ function renderOneByOneAnswer(question) {
     // Default for text-based questions (short_answer, long_answer, textbook_qa, etc.)
     const justification = question.justification || question.explanation || '';
     const keyPoints = question.key_points || [];
+    const textbookExtract = question.textbook_extract || '';
 
     return `
         ${userAnswer ? `
@@ -2877,11 +2910,12 @@ function renderOneByOneAnswer(question) {
                 <p>${escapeHtml(userAnswer)}</p>
             </div>
         ` : ''}
+        ${textbookExtract ? `<div class="textbook-extract"><strong>From the textbook:</strong> ${textbookExtract}</div>` : ''}
         <div class="correct-answer">
             <strong>Model Answer:</strong>
             <div class="formatted-answer">${formatAnswerText(question.answer || question.correct_answer || '')}</div>
         </div>
-        ${justification ? `<div class="explanation"><strong>Justification:</strong> ${justification}</div>` : ''}
+        ${justification ? `<div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>` : ''}
         ${keyPoints.length > 0 ? `
             <div class="key-points">
                 <strong>Key Points:</strong>
@@ -3456,7 +3490,7 @@ function renderMCQAnswer(q) {
         <div class="correct-answer">
             <strong>Correct answer:</strong> ${correctAnswer}
         </div>
-        <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+        <div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>
     `;
 }
 
@@ -3477,7 +3511,7 @@ function renderSimpleAnswer(q) {
         <div class="correct-answer">
             <strong>Correct answer:</strong> ${q.correct_answer || q.answer}
         </div>
-        <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+        <div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>
     `;
 }
 
@@ -3646,7 +3680,7 @@ function renderTextAnswer(q) {
                         `).join('')}
                     </div>
                 </div>
-                <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+                <div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>
             `;
         }
     }
@@ -3673,7 +3707,7 @@ function renderTextAnswer(q) {
                 <strong>Correct answer:</strong>
                 <p>${correctAnswer}</p>
             </div>
-            <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+            <div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>
         `;
     }
 
@@ -3691,7 +3725,7 @@ function renderTextAnswer(q) {
             <strong>Model Answer:</strong>
             <div class="formatted-answer">${formattedAnswer}</div>
         </div>
-        <div class="explanation"><strong>Justification:</strong> ${justification}</div>
+        <div class="explanation"><strong>Justification:</strong><div class="explanation-body">${justification}</div></div>
         ${keyPoints.length > 0 ? `
             <div class="key-points">
                 <strong>Key Points:</strong>

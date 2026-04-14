@@ -4,7 +4,8 @@
   "sections": {
     "textbook": [
       {"value": "notes", "label": "Chapter Notes", "icon": "📒"},
-      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"}
+      {"value": "textbook_qa", "label": "Textbook Q&A", "icon": "📖"},
+      {"value": "worksheet", "label": "Worksheet", "icon": "📝"}
     ],
     "exam": [
       {"value": "mcq", "label": "Multiple Choice", "icon": "🔘"},

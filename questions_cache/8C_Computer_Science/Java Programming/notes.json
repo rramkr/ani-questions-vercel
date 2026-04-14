@@ -1,0 +1,409 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "type": "notes",
+  "title": "Java Test 1 Notes",
+  "sections": [
+    {
+      "id": "jp_note_1",
+      "title": "Test 1 Portion and Blueprint Focus",
+      "content": "The first test portion covers only the topics listed in the school blueprint. These are the structure of a Java program, print commands, the data types byte, short, int, float, double, and String, variables, declaration and initialization, arithmetic operators, operands and expressions, binary operator, and the simple assignment operator =.\n\nThe blueprint also shows the main question patterns. Students should be ready to label parts of a program, identify parts in the correct order, answer one mark concept questions, match terms, find the value of variables, and write short Java programs.",
+      "key_terms": [
+        {
+          "term": "Portion",
+          "definition": "The exact set of topics prescribed for the test."
+        },
+        {
+          "term": "Blueprint",
+          "definition": "The pattern showing the types of questions asked in the test."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Blueprint Pattern",
+          "headers": [
+            "Question Type",
+            "Skill Needed"
+          ],
+          "rows": [
+            [
+              "Label the program",
+              "Recognise class declaration, main method, brackets, statement, semicolon"
+            ],
+            [
+              "Look at the program and number parts",
+              "Identify parts in order from the given code"
+            ],
+            [
+              "Answer one mark questions",
+              "Recall definitions and rules clearly"
+            ],
+            [
+              "Find value of variables",
+              "Evaluate arithmetic expressions correctly"
+            ],
+            [
+              "Write Java program",
+              "Use correct class, main method, print statements, and syntax"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        "Example blueprint task: label the class declaration, main method, statement, and semicolon.",
+        "Example blueprint task: write a Java program to display simple lines of output."
+      ]
+    },
+    {
+      "id": "jp_note_2",
+      "title": "Structure of a Java Program",
+      "content": "A beginner Java program has two main parts: the class declaration and the main method. The class declaration gives the class its name. The main method is the place where program execution begins.\n\nThe class name should match the file name. If the class name is Hello, the file should be saved as Hello.java. Curly brackets show code blocks. The outer brackets belong to the class and the inner brackets belong to the main method. Every Java statement ends with a semicolon.",
+      "key_terms": [
+        {
+          "term": "Class declaration",
+          "definition": "The line that introduces and names the class."
+        },
+        {
+          "term": "Main method",
+          "definition": "The method from which execution begins."
+        },
+        {
+          "term": "Semicolon",
+          "definition": "The punctuation mark that ends a Java statement."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Main Parts of a Program",
+          "headers": [
+            "Part",
+            "Use"
+          ],
+          "rows": [
+            [
+              "public class Hello",
+              "Class declaration"
+            ],
+            [
+              "public static void main(String args[])",
+              "Main method"
+            ],
+            [
+              "{ }",
+              "Code blocks"
+            ],
+            [
+              "System.out.println(\"Hello\");",
+              "Statement"
+            ],
+            [
+              ";",
+              "Ends the statement"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        "If the class name is Student, the file name should be Student.java.",
+        "System.out.println(\"Hello from Java\"); is a statement inside the main method."
+      ]
+    },
+    {
+      "id": "jp_note_3",
+      "title": "Print Commands",
+      "content": "Java uses print commands to display output. System.out.print() prints output on the same line. System.out.println() prints output and then moves to the next line.\n\nText values are written inside double quotes. Numbers can also be printed. These output statements are usually written inside the main method.",
+      "key_terms": [
+        {
+          "term": "System.out.print()",
+          "definition": "Prints output without moving to the next line."
+        },
+        {
+          "term": "System.out.println()",
+          "definition": "Prints output and then moves to the next line."
+        },
+        {
+          "term": "Output",
+          "definition": "The result displayed on the screen."
+        }
+      ],
+      "tables": [
+        {
+          "title": "print and println",
+          "headers": [
+            "Command",
+            "Result"
+          ],
+          "rows": [
+            [
+              "System.out.print()",
+              "Output stays on the same line"
+            ],
+            [
+              "System.out.println()",
+              "Output moves to the next line"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        "System.out.print(\"Hello \"); System.out.print(\"Java\"); prints both words on one line.",
+        "Two println statements print on two separate lines."
+      ]
+    },
+    {
+      "id": "jp_note_4",
+      "title": "Data Types in the Portion",
+      "content": "Data types tell Java what kind of value is being stored. In this test portion, students need to know byte, short, int, float, double, and String. Byte, short, and int are used for whole numbers. Float and double are used for decimal numbers. String is used for text.\n\nDifferent data types use different amounts of memory and can store different ranges of values. Choosing a suitable data type helps store information correctly.",
+      "key_terms": [
+        {
+          "term": "Data type",
+          "definition": "The kind of value a variable can store."
+        },
+        {
+          "term": "Integral data types",
+          "definition": "Data types used for whole numbers."
+        },
+        {
+          "term": "String",
+          "definition": "The data type used to store text."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Required Data Types",
+          "headers": [
+            "Data Type",
+            "Use",
+            "Size or Range"
+          ],
+          "rows": [
+            [
+              "byte",
+              "Small whole numbers",
+              "1 byte, range -128 to 127"
+            ],
+            [
+              "short",
+              "Whole numbers",
+              "2 bytes, range -32768 to 32767"
+            ],
+            [
+              "int",
+              "Common whole numbers",
+              "4 bytes"
+            ],
+            [
+              "float",
+              "Decimal numbers",
+              "4 bytes"
+            ],
+            [
+              "double",
+              "Decimal numbers with greater precision",
+              "8 bytes"
+            ],
+            [
+              "String",
+              "Text",
+              "Written inside double quotes"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        "short students = 100;",
+        "double price = 45.75;",
+        "String schoolName = \"Sishya\";"
+      ]
+    },
+    {
+      "id": "jp_note_5",
+      "title": "Variables, Declaration, and Initialization",
+      "content": "A variable is a named storage location used to store a value. Declaring a variable means writing its data type and name. Initializing a variable means giving it a value.\n\nFor example, in int number = 10;, int is the data type, number is the variable name, and 10 is the value stored. Students should be able to write simple declarations and initializations using the data types in the portion.",
+      "key_terms": [
+        {
+          "term": "Variable",
+          "definition": "A named place in memory used to store a value."
+        },
+        {
+          "term": "Declaration",
+          "definition": "Writing the data type and the variable name."
+        },
+        {
+          "term": "Initialization",
+          "definition": "Assigning a value to a variable."
+        },
+        {
+          "term": "Literal",
+          "definition": "The actual value written directly in the code."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Variable Parts",
+          "headers": [
+            "Code",
+            "Meaning"
+          ],
+          "rows": [
+            [
+              "int age = 13;",
+              "Declaration and initialization"
+            ],
+            [
+              "int",
+              "Data type"
+            ],
+            [
+              "age",
+              "Variable name"
+            ],
+            [
+              "13",
+              "Literal"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        "byte age = 13;",
+        "float marks = 45.5f;",
+        "String city = \"Chennai\";"
+      ]
+    },
+    {
+      "id": "jp_note_6",
+      "title": "Arithmetic Operators",
+      "content": "Arithmetic operators are symbols used to perform mathematical operations. The operators in the test portion are +, -, *, /, and %. The modulus operator % gives the remainder after division.\n\nStudents should be able to evaluate simple expressions and find the value of variables using these operators.",
+      "key_terms": [
+        {
+          "term": "Arithmetic operator",
+          "definition": "A symbol used for a mathematical operation."
+        },
+        {
+          "term": "Modulus",
+          "definition": "The operator that gives the remainder after division."
+        },
+        {
+          "term": "Remainder",
+          "definition": "The value left after division."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Arithmetic Operators",
+          "headers": [
+            "Symbol",
+            "Operation"
+          ],
+          "rows": [
+            [
+              "+",
+              "Addition"
+            ],
+            [
+              "-",
+              "Subtraction"
+            ],
+            [
+              "*",
+              "Multiplication"
+            ],
+            [
+              "/",
+              "Division"
+            ],
+            [
+              "%",
+              "Modulus"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        "10 + 5 gives 15.",
+        "18 / 3 gives 6.",
+        "17 % 5 gives 2."
+      ]
+    },
+    {
+      "id": "jp_note_7",
+      "title": "Operands, Expressions, Binary Operator, and Assignment Operator",
+      "content": "An operand is the value or variable on which an operator works. In 100 + 800, the operands are 100 and 800, and the operator is +. An expression is a piece of code that produces a value when evaluated.\n\nA binary operator needs two operands. The arithmetic operators in this portion are binary operators. The simple assignment operator is =. It assigns the value on the right side to the variable on the left side. For example, in x = 25, the value 25 is assigned to x.",
+      "key_terms": [
+        {
+          "term": "Operand",
+          "definition": "A value or variable on which an operator works."
+        },
+        {
+          "term": "Expression",
+          "definition": "Code that produces a value when evaluated."
+        },
+        {
+          "term": "Binary operator",
+          "definition": "An operator that needs two operands."
+        },
+        {
+          "term": "Assignment operator",
+          "definition": "The symbol = used to assign a value."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Expression Breakdown",
+          "headers": [
+            "Item",
+            "Example"
+          ],
+          "rows": [
+            [
+              "Expression",
+              "100 + 800"
+            ],
+            [
+              "Operator",
+              "+"
+            ],
+            [
+              "Operands",
+              "100 and 800"
+            ],
+            [
+              "Statement",
+              "System.out.println(100 + 800);"
+            ],
+            [
+              "Assignment",
+              "x = 25;"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        "100 + 800 is an expression that gives 900.",
+        "System.out.println(100 + 800); is a statement using an expression.",
+        "x = 25; uses the assignment operator."
+      ]
+    },
+    {
+      "id": "jp_note_8",
+      "title": "Student Notebook Notes - Program Structure",
+      "content": "public class Main // Class declaration - part 1\n\npublic static void main(String[] args)\n// Main method - part 2\n\n// code to display a simple\nmessage\nSystem.out.println(\"Hello World\");\n\npublic is an access modifier, it defines the level of access.\n\nclass is the keyword used to define a class.\n\nClass declaration - the name you give your class should start with capital. The file name of your java program should match with the class name. For example, here we have given the class the name \"Main\" (starting with a capital letter), so the file name will be \"Main.java\".\n\nStatic - can be used without creating object.\n\nvoid => returns nothing.\n\nMain => is the main method of java class where execution of a code / a program.\n\nString[] args => input list from the user.\n\npublic static void main(String[] args) as the main method.\n\nIn Java every line of code has to have a semi-colon after it.\n\nSystem.out.println is used to show information on the screen and move to next line.",
+      "examples": [
+        "public class Main",
+        "public static void main(String[] args)",
+        "System.out.println(\"Hello World\");"
+      ]
+    },
+    {
+      "id": "jp_note_9",
+      "title": "Student Notebook Notes - Program Writing Practice",
+      "content": "1. Write a program to:\nCreate a class named \"Bank\".\nDeclare and initialize variables to store: number of customers, customer name, and account balance.\nDisplay customer name and balance.\n\n2. Write a program to:\nCreate a class named \"Library\".\nDeclare and initialize variables to store: number of books, book name, and book price.\nPrint book name and price.\n\n3. Write a program to declare and initialize two integers and print their sum.\n\n4. Write a program to declare and initialize two integers and print their difference.\n\n5. Write a program to declare and initialize two integers and print their quotient.\n\n6. Write a program to declare and initialize 2 integers and print their remainder.",
+      "examples": [
+        "Create a class named \"Bank\".",
+        "Create a class named \"Library\".",
+        "Declare and initialize two integers and print their sum, difference, quotient, and remainder."
+      ]
+    }
+  ]
+}

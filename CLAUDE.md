@@ -67,6 +67,10 @@ questions_cache/
 ### Active Subjects
 | Subject | Slug | Chapters |
 |---------|------|----------|
+| 8C English Literature | 8C_English_Literature | 2 |
+| 8C Physics | 8C_Physics | 1 |
+| 8C English Grammar | 8C_English_Grammar | 4 |
+| 8C Computer Science | 8C_Computer_Science | 2 |
 | Physics | physics | 5 |
 | Computer Science | Computer_Science | 2 |
 

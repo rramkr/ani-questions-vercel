@@ -1,0 +1,77 @@
+{
+  "subject": "8C Computer Science",
+  "chapter": "Java Programming",
+  "question_type": "define",
+  "questions": [
+    {
+      "id": "jv_def_1",
+      "question": "Define class declaration.",
+      "answer": "A class declaration is the part of a Java program where the class is introduced and named."
+    },
+    {
+      "id": "jv_def_2",
+      "question": "Define main method.",
+      "answer": "The main method is the method from which the execution of a Java program begins."
+    },
+    {
+      "id": "jv_def_3",
+      "question": "Define data type.",
+      "answer": "A data type tells Java what kind of value a variable can store."
+    },
+    {
+      "id": "jv_def_4",
+      "question": "Define variable.",
+      "answer": "A variable is a named storage location used to store a value."
+    },
+    {
+      "id": "jv_def_5",
+      "question": "Define declaration.",
+      "answer": "Declaration means writing the data type and the variable name."
+    },
+    {
+      "id": "jv_def_6",
+      "question": "Define initialization.",
+      "answer": "Initialization is the process of assigning a value to a variable."
+    },
+    {
+      "id": "jv_def_7",
+      "question": "Define literal.",
+      "answer": "A literal is the actual value written directly in the program."
+    },
+    {
+      "id": "jv_def_8",
+      "question": "Define arithmetic operator.",
+      "answer": "An arithmetic operator is a symbol used to perform a mathematical operation."
+    },
+    {
+      "id": "jv_def_9",
+      "question": "Define modulus operator.",
+      "answer": "The modulus operator is the operator that gives the remainder after division."
+    },
+    {
+      "id": "jv_def_10",
+      "question": "Define operand.",
+      "answer": "An operand is the value or variable on which an operator works."
+    },
+    {
+      "id": "jv_def_11",
+      "question": "Define expression.",
+      "answer": "An expression is a piece of code that produces a value when evaluated."
+    },
+    {
+      "id": "jv_def_12",
+      "question": "Define statement.",
+      "answer": "A statement is a complete command in Java that tells the program to perform an action."
+    },
+    {
+      "id": "jv_def_13",
+      "question": "Define binary operator.",
+      "answer": "A binary operator is an operator that works on two operands."
+    },
+    {
+      "id": "jv_def_14",
+      "question": "Define assignment operator.",
+      "answer": "The assignment operator is the symbol used to assign a value to a variable."
+    }
+  ]
+}

@@ -1,0 +1,1145 @@
+{
+  "question_type": "comprehension",
+  "passages": [
+    {
+      "id": "practice_passage_1",
+      "title": "The Crow and the Water Jar",
+      "source": "AI-generated practice passage inspired by Aesop's public-domain fable and later reporting on crow problem-solving",
+      "passage": "On a hot afternoon, a thirsty crow flew over fields and rooftops looking for water. At last, it spotted a clay jar near a garden wall. The bird landed eagerly on the rim and peered inside. There was water in the jar, but it lay far below the narrow neck. However hard the crow stretched, its beak could not reach the surface.\n\nFor a few moments, the crow walked around the jar in frustration. It tried to tilt the vessel, but the jar was too heavy. It considered flying away, yet the heat was fierce and there was no stream nearby. Then the bird noticed several small pebbles scattered on the ground. One by one, it picked them up and dropped them into the jar.\n\nSlowly, the water rose. The crow kept working patiently, choosing pebble after pebble and listening to the faint splash each time one fell in. At last, the water climbed high enough for the crow to drink comfortably. Refreshed and satisfied, the bird flew away.\n\nThe incident may sound like a simple tale, but it teaches a lasting lesson. Strength alone did not help the crow. What saved it was careful thought, patience, and the willingness to keep trying until the problem was solved.",
+      "questions": [
+        {
+          "id": "pp1_q1",
+          "type": "mcq",
+          "question": "Why did the crow stop near the garden wall?",
+          "options": ["It wanted to rest in the shade", "It saw a clay jar", "It heard another bird calling", "It found some grain"],
+          "answer": "It saw a clay jar",
+          "explanation": "The passage says the crow spotted a clay jar near a garden wall."
+        },
+        {
+          "id": "pp1_q2",
+          "type": "mcq",
+          "question": "Why could the crow not drink at first?",
+          "options": ["The jar was empty", "The water was muddy", "The water was too far below the neck", "The jar was broken"],
+          "answer": "The water was too far below the neck",
+          "explanation": "The water lay far below the narrow neck, so the beak could not reach it."
+        },
+        {
+          "id": "pp1_q3",
+          "type": "mcq",
+          "question": "What did the crow do after noticing the pebbles?",
+          "options": ["It carried them away", "It built a nest", "It dropped them into the jar", "It hid them in the grass"],
+          "answer": "It dropped them into the jar",
+          "explanation": "The crow picked up the pebbles one by one and dropped them into the jar."
+        },
+        {
+          "id": "pp1_q4",
+          "type": "mcq",
+          "question": "What helped the crow solve its problem?",
+          "options": ["Its strength", "Its speed", "Its intelligence and patience", "Its loud voice"],
+          "answer": "Its intelligence and patience",
+          "explanation": "The passage says careful thought and patience helped the crow."
+        },
+        {
+          "id": "pp1_q5",
+          "type": "short_answer",
+          "question": "What did the crow first try to do before using the pebbles?",
+          "answer": "Before using the pebbles, the crow tried to tilt the jar. However, the vessel was too heavy to move."
+        },
+        {
+          "id": "pp1_q6",
+          "type": "short_answer",
+          "question": "How did the water level change in the jar?",
+          "answer": "As the crow dropped the pebbles into the jar, the water level rose gradually. After many pebbles had been added, the water came high enough for the crow to drink."
+        },
+        {
+          "id": "pp1_q7",
+          "type": "short_answer",
+          "question": "What lesson does the passage teach?",
+          "answer": "The passage teaches that intelligence, patience, and persistence can solve problems that strength alone cannot solve."
+        },
+        {
+          "id": "pp1_q8",
+          "type": "fill_blank",
+          "question": "The crow was thirsty on a hot ______.",
+          "answer": "afternoon"
+        },
+        {
+          "id": "pp1_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: looked closely or stared into something.",
+          "answer": "peered"
+        },
+        {
+          "id": "pp1_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: vessel or container.",
+          "answer": "jar"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_2",
+      "title": "Why Animals Migrate",
+      "source": "AI-generated practice passage based on educational material about animal migration from National Geographic and Britannica",
+      "passage": "Every year, millions of animals travel from one place to another in a regular seasonal movement called migration. Some birds leave cold northern regions before winter begins and return when warmer weather comes back. Certain whales move from icy seas to calmer, warmer waters to breed. Even butterflies and fish take part in these remarkable journeys.\n\nAnimals migrate for several reasons. Some travel in search of food when the supply in one place becomes scarce. Others move to places that are safer for raising their young. Weather also plays an important role. As days grow shorter and temperatures begin to fall, many animals receive signals that it is time to move.\n\nMigration is different from an ordinary change of location because it usually follows a pattern and includes a return journey. Scientists have long studied how animals find their way. Some species use the position of the sun, stars, coastlines, rivers, or mountains. Others may respond to smells, temperature, or even the Earth's magnetic field.\n\nMigration is often dangerous. Animals may face storms, tiredness, predators, and the loss of resting places. Human activity has made some routes even harder by destroying habitats and building roads, fences, and cities across natural paths. Protecting migration routes is important because these journeys are a vital part of many animals' lives.",
+      "questions": [
+        {
+          "id": "pp2_q1",
+          "type": "mcq",
+          "question": "What is migration?",
+          "options": ["A permanent move to a new home", "A seasonal movement from one place to another", "A way of hiding from enemies", "A method of building nests"],
+          "answer": "A seasonal movement from one place to another",
+          "explanation": "The passage defines migration as a regular seasonal movement."
+        },
+        {
+          "id": "pp2_q2",
+          "type": "mcq",
+          "question": "Why do many animals migrate?",
+          "options": ["To become larger", "To search for food or safer breeding places", "To avoid sleeping", "To change colour"],
+          "answer": "To search for food or safer breeding places",
+          "explanation": "The passage explains that animals migrate for food, safety, breeding, and better conditions."
+        },
+        {
+          "id": "pp2_q3",
+          "type": "mcq",
+          "question": "Which of these may help animals find their way?",
+          "options": ["Traffic lights", "The sun and stars", "Buildings only", "Music"],
+          "answer": "The sun and stars",
+          "explanation": "The passage says some species use the sun and stars to navigate."
+        },
+        {
+          "id": "pp2_q4",
+          "type": "mcq",
+          "question": "Why has migration become more difficult for some animals?",
+          "options": ["Animals have forgotten the routes", "Human activity has damaged habitats and routes", "Winter no longer comes", "Predators have disappeared"],
+          "answer": "Human activity has damaged habitats and routes",
+          "explanation": "The passage mentions roads, fences, cities, and habitat loss."
+        },
+        {
+          "id": "pp2_q5",
+          "type": "short_answer",
+          "question": "How is migration different from an ordinary change of location?",
+          "answer": "Migration is different because it usually follows a regular seasonal pattern and includes a return journey. It is not simply a one-time move to another place."
+        },
+        {
+          "id": "pp2_q6",
+          "type": "short_answer",
+          "question": "Name any two animals mentioned in the passage that migrate.",
+          "answer": "Any two of the following may be named: birds, whales, butterflies, and fish."
+        },
+        {
+          "id": "pp2_q7",
+          "type": "short_answer",
+          "question": "What dangers do migrating animals face?",
+          "answer": "Migrating animals may face storms, tiredness, predators, and the loss of resting places. Human-made obstacles can also make their journeys harder."
+        },
+        {
+          "id": "pp2_q8",
+          "type": "fill_blank",
+          "question": "Some animals may use the Earth's ______ field to guide them.",
+          "answer": "magnetic"
+        },
+        {
+          "id": "pp2_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: not enough or limited in amount.",
+          "answer": "scarce"
+        },
+        {
+          "id": "pp2_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: very important or necessary for life.",
+          "answer": "vital"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_3",
+      "title": "Guardians of the Coast",
+      "source": "AI-generated practice passage based on educational material from the U.S. National Park Service, NOAA, and Smithsonian Ocean about mangroves",
+      "passage": "Mangroves are unusual trees and shrubs that grow where land meets the sea. They thrive in salty or brackish water and often stand on tangled, stilt-like roots. Many kinds of trees would die in such muddy, low-oxygen places, but mangroves are specially adapted to survive there.\n\nThese coastal forests do far more than simply grow by the shore. Their roots trap mud and slow the movement of water, helping to prevent erosion and protect coastlines from waves and storms. The roots also create safe spaces for young fish, crabs, and many other small creatures. Above the water, birds use the branches for resting, nesting, and feeding.\n\nMangroves are important for people too. By holding the shoreline together, they reduce the damage caused by strong winds and storm surges. They also store large amounts of carbon, which helps in the struggle against climate change. In this way, mangrove forests protect both wildlife and human communities.\n\nYet mangroves are under threat in many parts of the world. Some have been cut down for development or fish farms. Others are harmed by pollution and rising sea levels. When mangroves disappear, coastlines become weaker and animals lose valuable shelter. Protecting these forests means protecting the many lives that depend on them.",
+      "questions": [
+        {
+          "id": "pp3_q1",
+          "type": "mcq",
+          "question": "Where do mangroves grow?",
+          "options": ["On snowy mountains", "Where land meets the sea", "Deep in deserts", "In underground caves"],
+          "answer": "Where land meets the sea",
+          "explanation": "The passage states that mangroves grow where land meets the sea."
+        },
+        {
+          "id": "pp3_q2",
+          "type": "mcq",
+          "question": "What do mangrove roots help to prevent?",
+          "options": ["Sunrise", "Erosion", "Rainfall", "Birdsong"],
+          "answer": "Erosion",
+          "explanation": "The roots trap mud and help prevent erosion."
+        },
+        {
+          "id": "pp3_q3",
+          "type": "mcq",
+          "question": "Why are mangroves important for young fish and crabs?",
+          "options": ["They provide safe shelter", "They make the water colder", "They carry them inland", "They keep birds away completely"],
+          "answer": "They provide safe shelter",
+          "explanation": "The roots create safe spaces for young fish, crabs, and other small creatures."
+        },
+        {
+          "id": "pp3_q4",
+          "type": "mcq",
+          "question": "Which of the following threatens mangroves?",
+          "options": ["More nesting birds", "Development and pollution", "Too much shade", "Quiet water"],
+          "answer": "Development and pollution",
+          "explanation": "The passage mentions development, fish farms, pollution, and rising sea levels."
+        },
+        {
+          "id": "pp3_q5",
+          "type": "short_answer",
+          "question": "How do mangroves protect coastlines?",
+          "answer": "Mangroves protect coastlines by trapping mud, slowing water movement, preventing erosion, and reducing the force of waves and storms."
+        },
+        {
+          "id": "pp3_q6",
+          "type": "short_answer",
+          "question": "Why are mangroves important for people as well as wildlife?",
+          "answer": "Mangroves are important for wildlife because they provide shelter and nesting places. They are important for people because they help protect shorelines from storm damage and store carbon."
+        },
+        {
+          "id": "pp3_q7",
+          "type": "short_answer",
+          "question": "What happens when mangroves disappear?",
+          "answer": "When mangroves disappear, coastlines become weaker and more vulnerable to waves and storms. Animals also lose valuable shelter and habitat."
+        },
+        {
+          "id": "pp3_q8",
+          "type": "fill_blank",
+          "question": "Mangroves often stand on tangled, ______-like roots.",
+          "answer": "stilt"
+        },
+        {
+          "id": "pp3_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: mixed with some salt.",
+          "answer": "brackish"
+        },
+        {
+          "id": "pp3_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: a sudden rise of water caused by a storm.",
+          "answer": "surge"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_4",
+      "title": "Turning Ocean Waste into Useful Things",
+      "source": "AI-generated practice passage based on Smithsonian Ocean material about recycling and upcycling ocean plastic",
+      "passage": "Plastic waste has become a serious problem for the oceans. Bottles, bags, fishing nets, and other discarded items often drift through the water or wash up on beaches. This rubbish can injure marine life, pollute habitats, and remain in the environment for a very long time.\n\nIn response, some groups and companies have started collecting plastic from coasts and oceans and turning it into useful products. This process is often called upcycling when the old material is made into something new and valuable. Recycled ocean plastic has been used to make shoes, bags, sunglasses, and even parts of clothing.\n\nThe work is not easy. Plastic must be collected, cleaned, sorted, and processed before it can be used again. Manufacturers also need to test whether the material is strong enough for the final product. Even so, these efforts show that waste does not always have to remain waste.\n\nUpcycling alone cannot solve the problem. People must also reduce the amount of plastic they use and dispose of rubbish responsibly. Recycling, reusing, and choosing better alternatives can all help. When individuals and communities act carefully, they can reduce pollution and protect the sea for the future.",
+      "questions": [
+        {
+          "id": "pp4_q1",
+          "type": "mcq",
+          "question": "Why is ocean plastic a serious problem?",
+          "options": ["It makes water taste sweet", "It can injure marine life and pollute habitats", "It disappears quickly", "It helps fish build homes"],
+          "answer": "It can injure marine life and pollute habitats",
+          "explanation": "The passage says plastic waste can injure marine life and pollute habitats."
+        },
+        {
+          "id": "pp4_q2",
+          "type": "mcq",
+          "question": "What does upcycling mean in the passage?",
+          "options": ["Throwing waste away", "Burning old plastic", "Making old material into something new and valuable", "Hiding rubbish underground"],
+          "answer": "Making old material into something new and valuable",
+          "explanation": "The passage defines upcycling in this way."
+        },
+        {
+          "id": "pp4_q3",
+          "type": "mcq",
+          "question": "Which of the following is mentioned as a product made from recycled ocean plastic?",
+          "options": ["Books", "Sunglasses", "Wooden tables", "Glass jars"],
+          "answer": "Sunglasses",
+          "explanation": "The passage lists shoes, bags, sunglasses, and clothing."
+        },
+        {
+          "id": "pp4_q4",
+          "type": "mcq",
+          "question": "According to the passage, what else must people do besides upcycling?",
+          "options": ["Use more plastic", "Reduce plastic use and dispose of waste responsibly", "Ignore beach litter", "Stop making clothes"],
+          "answer": "Reduce plastic use and dispose of waste responsibly",
+          "explanation": "The passage says upcycling alone is not enough."
+        },
+        {
+          "id": "pp4_q5",
+          "type": "short_answer",
+          "question": "What steps are needed before plastic can be used again?",
+          "answer": "Before plastic can be used again, it must be collected, cleaned, sorted, and processed. Manufacturers may also test its strength for the final product."
+        },
+        {
+          "id": "pp4_q6",
+          "type": "short_answer",
+          "question": "Why is upcycling useful?",
+          "answer": "Upcycling is useful because it turns old waste into valuable new products. It also shows that discarded plastic can be reused instead of remaining pollution."
+        },
+        {
+          "id": "pp4_q7",
+          "type": "short_answer",
+          "question": "How can individuals help reduce ocean plastic pollution?",
+          "answer": "Individuals can help by reducing plastic use, reusing materials, recycling properly, and disposing of rubbish responsibly. Choosing better alternatives can also make a difference."
+        },
+        {
+          "id": "pp4_q8",
+          "type": "fill_blank",
+          "question": "Plastic waste can remain in the environment for a very long ______.",
+          "answer": "time"
+        },
+        {
+          "id": "pp4_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: thrown away or abandoned.",
+          "answer": "discarded"
+        },
+        {
+          "id": "pp4_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: handled or treated in a series of steps.",
+          "answer": "processed"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_5",
+      "title": "The Lion and the Little Mouse",
+      "source": "AI-generated practice passage inspired by Aesop's public-domain fable",
+      "passage": "One day, a lion lay asleep in the shade after a heavy meal. A little mouse, running through the grass in search of seeds, accidentally scrambled over the lion's paw. The lion woke with a roar and pinned the trembling mouse beneath one great claw.\n\nThe mouse begged for mercy. It promised that if the lion spared its life, it might one day return the kindness. The lion was amused by the idea that such a tiny creature could ever help a king of beasts, but the plea softened his anger. With a careless shake of his mane, he released the mouse.\n\nA few days later, the lion was caught in a hunter's net. The ropes tightened around him as he struggled, and his angry roars echoed through the forest. The little mouse heard the noise and hurried to the spot. Without hesitation, it began gnawing at the cords with its sharp teeth. Bit by bit, the strands snapped until the lion broke free.\n\nThe great lion looked down at the tiny mouse with gratitude. He had laughed at the creature's promise, yet it had saved him in his hour of need. From that day, he remembered that kindness is never wasted and that even the smallest friend may prove valuable.",
+      "questions": [
+        {
+          "id": "pp5_q1",
+          "type": "mcq",
+          "question": "Why did the lion wake up?",
+          "options": ["A hunter shouted", "Rain began to fall", "A mouse ran over his paw", "Another lion attacked him"],
+          "answer": "A mouse ran over his paw",
+          "explanation": "The mouse accidentally scrambled over the lion's paw."
+        },
+        {
+          "id": "pp5_q2",
+          "type": "mcq",
+          "question": "Why did the lion first laugh at the mouse?",
+          "options": ["The mouse sang badly", "He did not believe such a small animal could help him", "The mouse was hiding seeds", "He thought the mouse was lost"],
+          "answer": "He did not believe such a small animal could help him",
+          "explanation": "The lion was amused at the idea that the tiny mouse could help him."
+        },
+        {
+          "id": "pp5_q3",
+          "type": "mcq",
+          "question": "How did the mouse rescue the lion?",
+          "options": ["By calling other animals", "By biting through the ropes of the net", "By frightening the hunters away", "By pulling the net with its tail"],
+          "answer": "By biting through the ropes of the net",
+          "explanation": "The mouse gnawed at the cords until the lion was free."
+        },
+        {
+          "id": "pp5_q4",
+          "type": "mcq",
+          "question": "What is the main lesson of the story?",
+          "options": ["Only strong animals survive", "Large creatures never need help", "Kindness may be repaid unexpectedly", "Promises should be ignored"],
+          "answer": "Kindness may be repaid unexpectedly",
+          "explanation": "The lion learns that kindness is never wasted and even a small friend can help."
+        },
+        {
+          "id": "pp5_q5",
+          "type": "short_answer",
+          "question": "Why did the lion spare the mouse?",
+          "answer": "The lion spared the mouse because the mouse begged for mercy and its plea softened the lion's anger. Although the lion laughed at the promise of help, he chose to let the mouse go."
+        },
+        {
+          "id": "pp5_q6",
+          "type": "short_answer",
+          "question": "What happened to the lion a few days later?",
+          "answer": "A few days later, the lion was caught in a hunter's net. As he struggled, the ropes tightened around him and he could not escape."
+        },
+        {
+          "id": "pp5_q7",
+          "type": "short_answer",
+          "question": "What did the lion learn by the end of the story?",
+          "answer": "By the end of the story, the lion learned that kindness is never wasted. He also learned that even the smallest creature can become a useful and faithful friend."
+        },
+        {
+          "id": "pp5_q8",
+          "type": "fill_blank",
+          "question": "The lion had been caught in a hunter's ______.",
+          "answer": "net"
+        },
+        {
+          "id": "pp5_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: shaking with fear.",
+          "answer": "trembling"
+        },
+        {
+          "id": "pp5_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: thankfulness.",
+          "answer": "gratitude"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_6",
+      "title": "Cities Beneath the Sea",
+      "source": "AI-generated practice passage based on Smithsonian Ocean educational material about coral reefs",
+      "passage": "Coral reefs are often called the rainforests of the sea because they are full of life. Though they cover only a small part of the ocean floor, they support thousands of species of fish, crabs, sea stars, and many other creatures. At first glance, coral may look like colourful rock, but it is made by tiny living animals called polyps.\n\nEach polyp has a soft body and builds a hard outer skeleton from minerals in seawater. Over time, millions of these skeletons join together and form reefs. In warm, clear, shallow water, coral colonies can grow into large underwater structures that provide shelter and food for many marine animals. Tiny fish dart in and out of the narrow spaces, while larger animals come there to hunt or hide. In this way, the reef becomes not just a structure, but a busy underwater neighbourhood.\n\nCoral reefs also help people. They protect coastlines by reducing the force of waves, and they support fishing and tourism in many regions. Scientists study reefs to understand marine life and the health of the oceans. Some medicines used in research have also been connected to substances found in reef organisms. However, coral reefs are delicate. Pollution, overfishing, and warming seas can damage them badly.\n\nWhen water becomes too warm, corals may lose the tiny algae that live inside them and help provide food. This causes coral bleaching, in which reefs turn pale and weak. A bleached reef may still be alive at first, but if stressful conditions continue, many corals die. Once that happens, fish and other creatures lose food and shelter, and the whole reef community begins to suffer.\n\nSome reefs can recover if conditions improve, but others may take a very long time to return. This is why marine scientists, divers, and coastal communities are trying to protect reefs by reducing pollution, managing fishing carefully, and spreading awareness. Protecting reefs means protecting a rich and beautiful part of life on Earth.",
+      "questions": [
+        {
+          "id": "pp6_q1",
+          "type": "mcq",
+          "question": "Why are coral reefs called the rainforests of the sea?",
+          "options": ["They receive heavy rain", "They are dark and quiet", "They support a great variety of life", "They are found only in forests"],
+          "answer": "They support a great variety of life",
+          "explanation": "The passage says coral reefs support thousands of species of marine life."
+        },
+        {
+          "id": "pp6_q2",
+          "type": "mcq",
+          "question": "What are corals made by?",
+          "options": ["Tiny living animals called polyps", "Large underwater plants", "Sea sand and shells only", "Volcanic rocks"],
+          "answer": "Tiny living animals called polyps",
+          "explanation": "The passage explains that coral is made by tiny animals called polyps."
+        },
+        {
+          "id": "pp6_q3",
+          "type": "mcq",
+          "question": "Which condition can harm coral reefs?",
+          "options": ["Clean shallow water", "Pollution and warming seas", "Strong coral growth", "More fish shelter"],
+          "answer": "Pollution and warming seas",
+          "explanation": "The passage mentions pollution, overfishing, and warming seas as threats."
+        },
+        {
+          "id": "pp6_q4",
+          "type": "mcq",
+          "question": "What happens during coral bleaching?",
+          "options": ["Corals grow taller", "Corals lose helpful algae and turn pale", "Fish leave the sea forever", "The reef becomes harder"],
+          "answer": "Corals lose helpful algae and turn pale",
+          "explanation": "The passage explains that bleaching happens when corals lose the algae living inside them."
+        },
+        {
+          "id": "pp6_q5",
+          "type": "short_answer",
+          "question": "How do polyps help form coral reefs?",
+          "answer": "Polyps build hard outer skeletons from minerals in seawater. Over time, many skeletons join together to form coral reefs."
+        },
+        {
+          "id": "pp6_q6",
+          "type": "short_answer",
+          "question": "How do coral reefs help people?",
+          "answer": "Coral reefs help people by reducing the force of waves along coastlines. They also support fishing, tourism, and scientific study."
+        },
+        {
+          "id": "pp6_q7",
+          "type": "short_answer",
+          "question": "Why are coral reefs considered delicate?",
+          "answer": "Coral reefs are delicate because they can be damaged by pollution, overfishing, and warming seas. If the conditions become too harsh, they may bleach and even die."
+        },
+        {
+          "id": "pp6_q8",
+          "type": "fill_blank",
+          "question": "Coral reefs often grow best in warm, clear, ______ water.",
+          "answer": "shallow"
+        },
+        {
+          "id": "pp6_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: weak and easy to damage.",
+          "answer": "delicate"
+        },
+        {
+          "id": "pp6_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: to become less strong or lose health.",
+          "answer": "weaken"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_7",
+      "title": "Back to the Moon",
+      "source": "AI-generated practice passage based on NASA educational material about the Artemis program",
+      "passage": "More than fifty years after the Apollo missions, scientists and engineers are preparing for a new era of lunar exploration through NASA's Artemis program. The aim is not only to visit the Moon again, but also to learn how humans can live and work there for longer periods. This knowledge may later help future missions to Mars. In this sense, the Moon is seen as both a destination and a training ground for deeper space travel.\n\nArtemis includes several missions. Artemis I was an uncrewed test flight that sent the Orion spacecraft around the Moon and back to Earth. Later missions will carry astronauts. NASA plans to explore the region near the Moon's south pole, where scientists are especially interested in water ice that may be hidden in shadowed areas. If that ice can be studied and used wisely, it could support future exploration by providing water and possibly even fuel ingredients.\n\nThe Moon is valuable for science because it preserves clues about the early history of Earth and the solar system. Rocks and dust on its surface act like a time capsule. By studying them, scientists hope to understand how planets formed and how conditions changed over billions of years. Unlike Earth, the Moon has no wind or flowing water to erase many old marks, so its surface preserves signs of ancient events more clearly.\n\nThe Artemis program also depends on teamwork. NASA is working with commercial companies and international partners to build spacecraft, landing systems, and other tools. Such cooperation allows different kinds of knowledge and technology to come together. Space exploration on this scale is too large for one group to manage alone.\n\nIn this way, returning to the Moon is not just about one dramatic landing. It is part of a larger plan to explore deep space step by step, testing ideas carefully and learning from each mission before the next one begins.",
+      "questions": [
+        {
+          "id": "pp7_q1",
+          "type": "mcq",
+          "question": "What is the aim of the Artemis program?",
+          "options": ["To build houses on Earth", "To visit the Moon again and learn to live and work there", "To stop all space travel", "To explore only the Sun"],
+          "answer": "To visit the Moon again and learn to live and work there",
+          "explanation": "The passage says Artemis aims to return to the Moon and learn how humans can live and work there."
+        },
+        {
+          "id": "pp7_q2",
+          "type": "mcq",
+          "question": "What was Artemis I?",
+          "options": ["A crewed landing mission", "An uncrewed test flight", "A mission to Mars", "A moon base"],
+          "answer": "An uncrewed test flight",
+          "explanation": "The passage explains that Artemis I was an uncrewed test flight."
+        },
+        {
+          "id": "pp7_q3",
+          "type": "mcq",
+          "question": "Why are scientists interested in the Moon's south pole?",
+          "options": ["It is the brightest place on the Moon", "It may contain hidden water ice", "It has forests", "It is the warmest region"],
+          "answer": "It may contain hidden water ice",
+          "explanation": "The passage says scientists are interested in water ice in shadowed areas near the south pole."
+        },
+        {
+          "id": "pp7_q4",
+          "type": "mcq",
+          "question": "How does the passage describe the Moon?",
+          "options": ["As a noisy planet", "As a time capsule", "As a burning star", "As an empty shell"],
+          "answer": "As a time capsule",
+          "explanation": "The passage says the Moon preserves clues and acts like a time capsule."
+        },
+        {
+          "id": "pp7_q5",
+          "type": "short_answer",
+          "question": "How could Artemis help future missions to Mars?",
+          "answer": "Artemis could help future missions to Mars by teaching scientists and engineers how humans can live and work for longer periods away from Earth."
+        },
+        {
+          "id": "pp7_q6",
+          "type": "short_answer",
+          "question": "Why is the Moon important for scientific study?",
+          "answer": "The Moon is important because its rocks and dust preserve clues about the early history of Earth and the solar system. Studying them can help scientists understand how planets formed."
+        },
+        {
+          "id": "pp7_q7",
+          "type": "short_answer",
+          "question": "What does the passage show about teamwork in space exploration?",
+          "answer": "The passage shows that space exploration depends on teamwork because NASA works with companies and international partners to build spacecraft, landing systems, and other tools."
+        },
+        {
+          "id": "pp7_q8",
+          "type": "fill_blank",
+          "question": "Artemis I sent the Orion spacecraft around the Moon and back to ______.",
+          "answer": "Earth"
+        },
+        {
+          "id": "pp7_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: hidden from direct light.",
+          "answer": "shadowed"
+        },
+        {
+          "id": "pp7_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: kept safe from damage or change.",
+          "answer": "preserves"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_8",
+      "title": "A Garden on the Rooftop",
+      "source": "AI-generated original practice passage",
+      "passage": "When the apartment building was first constructed, the flat rooftop served no purpose except to hold water tanks and collect dust. During summer, it became unbearably hot and reflected the sunlight into nearby windows. Many residents hardly thought about it until Mrs. D'Souza, who lived on the third floor, suggested turning the empty space into a small rooftop garden.\n\nAt first, the idea seemed unrealistic. People worried about expense, water, and maintenance. Yet Mrs. D'Souza had already spoken to a local horticulture expert, who explained that lightweight containers, proper drainage, and hardy plants could make the plan successful. Encouraged by this advice, the residents decided to contribute a little money and a little time.\n\nWithin a few weeks, old paint buckets were cleaned and reused as plant pots. Children painted signs for herbs and flowers. Retired neighbours watered the plants in the early morning, while office-goers checked them in the evening. Soon tomatoes, chillies, basil, marigolds, and even a few strawberry plants began to grow. The roof, once grey and lifeless, slowly turned green and inviting.\n\nAs the months passed, the residents began noticing changes they had not expected. The top floor flats stayed a little cooler in the afternoon. Butterflies hovered around the flowers, and sparrows often visited the water bowls placed in one corner. Even people who had never shown interest in gardening started asking questions about soil, seeds, and compost.\n\nThe garden changed more than the look of the building. It made the roof cooler, attracted butterflies, and gave neighbours a reason to speak to one another. What had once been an empty patch of concrete became a shared place of beauty and care. The residents discovered that a small effort, when made together, can transform even the dullest corner of daily life.",
+      "questions": [
+        {
+          "id": "pp8_q1",
+          "type": "mcq",
+          "question": "What was the rooftop mainly used for before the garden was made?",
+          "options": ["Playing games", "Holding water tanks and collecting dust", "Parking bicycles", "Drying clothes only"],
+          "answer": "Holding water tanks and collecting dust",
+          "explanation": "The passage says the rooftop served no purpose except to hold water tanks and collect dust."
+        },
+        {
+          "id": "pp8_q2",
+          "type": "mcq",
+          "question": "Who suggested creating the rooftop garden?",
+          "options": ["A school child", "Mrs. D'Souza", "The watchman", "A visiting tourist"],
+          "answer": "Mrs. D'Souza",
+          "explanation": "Mrs. D'Souza suggested turning the space into a rooftop garden."
+        },
+        {
+          "id": "pp8_q3",
+          "type": "mcq",
+          "question": "What helped the residents feel confident about the plan?",
+          "options": ["A television show", "Advice from a horticulture expert", "A free gift", "Heavy rain"],
+          "answer": "Advice from a horticulture expert",
+          "explanation": "The horticulture expert explained how the plan could work successfully."
+        },
+        {
+          "id": "pp8_q4",
+          "type": "mcq",
+          "question": "Which of these was NOT mentioned as growing in the garden?",
+          "options": ["Tomatoes", "Marigolds", "Strawberries", "Mangoes"],
+          "answer": "Mangoes",
+          "explanation": "The garden included tomatoes, chillies, basil, marigolds, and strawberries."
+        },
+        {
+          "id": "pp8_q5",
+          "type": "short_answer",
+          "question": "Why did some residents think the plan was unrealistic at first?",
+          "answer": "Some residents thought the plan was unrealistic because they worried about the expense, the availability of water, and the effort needed for maintenance."
+        },
+        {
+          "id": "pp8_q6",
+          "type": "short_answer",
+          "question": "How did different people help in building the garden?",
+          "answer": "The residents worked together in different ways. Children painted signs, retired neighbours watered the plants in the morning, and office-goers checked them in the evening."
+        },
+        {
+          "id": "pp8_q7",
+          "type": "short_answer",
+          "question": "How did the garden change the life of the building?",
+          "answer": "The garden made the roof cooler, attracted butterflies, and encouraged neighbours to speak to one another. It turned an empty concrete space into a shared and beautiful place."
+        },
+        {
+          "id": "pp8_q8",
+          "type": "fill_blank",
+          "question": "Old paint buckets were reused as plant ______.",
+          "answer": "pots"
+        },
+        {
+          "id": "pp8_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: able to survive tough conditions.",
+          "answer": "hardy"
+        },
+        {
+          "id": "pp8_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: change completely for the better.",
+          "answer": "transform"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_9",
+      "title": "The Boy Who Repaired Kites",
+      "source": "AI-generated original practice passage",
+      "passage": "In a narrow lane behind the market lived a boy named Karim, who had a remarkable skill. While other children flew kites from rooftops, Karim patiently repaired the broken ones that drifted down into courtyards and alleys. Torn paper, bent bamboo strips, and snapped strings did not discourage him. He saw possibility where others saw rubbish.\n\nKarim learned the craft from his grandfather, who had once made kites for local festivals. The old man taught him how to balance a frame, patch paper smoothly, and tie a string so that it would not slip in the wind. Karim listened carefully and practiced for hours, often under the dim yellow light of a single bulb.\n\nSoon, neighbourhood children began bringing him damaged kites. He refused to charge those who could not afford to pay. \"A kite should fly,\" he would say, \"not lie in a corner.\" On festival days, the sky above the lane glittered with colours, and many of the kites dancing there had passed through Karim's hands.\n\nOne year, a community fair announced a contest for the most beautifully restored kite. Karim entered an old, crumpled kite that others had thrown away. By the time he finished, it looked bright, balanced, and elegant. He won first prize, but what pleased him most was not the applause. It was watching the kite rise steadily into the evening sky, proving that broken things can be made useful again.",
+      "questions": [
+        {
+          "id": "pp9_q1",
+          "type": "mcq",
+          "question": "What special skill did Karim have?",
+          "options": ["He sold fruit in the market", "He repaired broken kites", "He painted walls", "He trained birds"],
+          "answer": "He repaired broken kites",
+          "explanation": "The passage says Karim patiently repaired broken kites."
+        },
+        {
+          "id": "pp9_q2",
+          "type": "mcq",
+          "question": "Who taught Karim the craft?",
+          "options": ["His schoolteacher", "A shopkeeper", "His grandfather", "His best friend"],
+          "answer": "His grandfather",
+          "explanation": "Karim learned the skill from his grandfather."
+        },
+        {
+          "id": "pp9_q3",
+          "type": "mcq",
+          "question": "Why did children trust Karim with their kites?",
+          "options": ["He flew the highest kites", "He repaired them carefully and kindly", "He bought all their kites", "He owned the contest"],
+          "answer": "He repaired them carefully and kindly",
+          "explanation": "The passage shows that Karim repaired kites well and did not always charge money."
+        },
+        {
+          "id": "pp9_q4",
+          "type": "mcq",
+          "question": "What did Karim win at the community fair?",
+          "options": ["A race", "A singing competition", "A contest for the most beautifully restored kite", "A cricket match"],
+          "answer": "A contest for the most beautifully restored kite",
+          "explanation": "He won first prize in the kite-restoration contest."
+        },
+        {
+          "id": "pp9_q5",
+          "type": "short_answer",
+          "question": "Why did Karim see value in broken kites?",
+          "answer": "Karim saw value in broken kites because he believed they could still be repaired and flown again. He saw possibility where others saw rubbish."
+        },
+        {
+          "id": "pp9_q6",
+          "type": "short_answer",
+          "question": "What did Karim's grandfather teach him?",
+          "answer": "Karim's grandfather taught him how to balance a kite frame, patch paper smoothly, and tie the string properly so it would hold in the wind."
+        },
+        {
+          "id": "pp9_q7",
+          "type": "short_answer",
+          "question": "Why was Karim happiest after winning the prize?",
+          "answer": "Karim was happiest because he saw the restored kite rise steadily into the evening sky. For him, its successful flight mattered more than applause."
+        },
+        {
+          "id": "pp9_q8",
+          "type": "fill_blank",
+          "question": "Karim often practiced under the dim yellow light of a single ______.",
+          "answer": "bulb"
+        },
+        {
+          "id": "pp9_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: twisted out of shape.",
+          "answer": "crumpled"
+        },
+        {
+          "id": "pp9_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: graceful and attractive in appearance.",
+          "answer": "elegant"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_10",
+      "title": "How Paper Was Once Made",
+      "source": "AI-generated practice passage based on general historical educational material about paper-making",
+      "passage": "Today, paper is so common that most people hardly stop to think about it. We write on it, wrap things in it, and read books made from it every day. Long before modern factories existed, however, making paper was a slow and careful craft.\n\nThe earliest true paper is believed to have been developed in ancient China nearly two thousand years ago. Early paper-makers used plant fibres, old rags, and other soft materials. These were soaked, beaten into pulp, mixed with water, and then lifted on a screen. When the water drained away, a thin wet sheet remained. After pressing and drying, it became paper. The process demanded patience because each sheet had to be handled carefully.\n\nThis invention spread gradually to other parts of the world. As the method travelled, people improved it. In later centuries, paper became more widely available and helped books, letters, records, and ideas travel farther than before. It played an important part in education and communication. Without paper, preserving knowledge would have been far more difficult and expensive.\n\nModern paper production is much faster, but the basic idea remains similar: fibres are turned into thin sheets that can be dried and used. Machines now do in minutes what once took many careful steps by hand. Yet the basic principle still connects the present with the past.\n\nBecause paper comes from natural resources, recycling it is important. Recycled paper reduces waste and helps save trees, water, and energy. So even an everyday sheet of paper carries a long history as well as a modern responsibility.",
+      "questions": [
+        {
+          "id": "pp10_q1",
+          "type": "mcq",
+          "question": "Where is the earliest true paper believed to have been developed?",
+          "options": ["Ancient India", "Ancient China", "Ancient Egypt", "Ancient Greece"],
+          "answer": "Ancient China",
+          "explanation": "The passage says the earliest true paper is believed to have been developed in ancient China."
+        },
+        {
+          "id": "pp10_q2",
+          "type": "mcq",
+          "question": "What were early paper-makers using?",
+          "options": ["Only metal sheets", "Plant fibres, old rags, and soft materials", "Plastic waste", "Glass powder"],
+          "answer": "Plant fibres, old rags, and soft materials",
+          "explanation": "These are the materials named in the passage."
+        },
+        {
+          "id": "pp10_q3",
+          "type": "mcq",
+          "question": "What happened after the water drained from the screen?",
+          "options": ["A wooden board formed", "A thin wet sheet remained", "The fibres disappeared", "The paper caught fire"],
+          "answer": "A thin wet sheet remained",
+          "explanation": "The passage explains that a thin wet sheet remained on the screen."
+        },
+        {
+          "id": "pp10_q4",
+          "type": "mcq",
+          "question": "Why is recycling paper important?",
+          "options": ["It makes paper heavier", "It reduces waste and helps save resources", "It removes all books", "It stops writing"],
+          "answer": "It reduces waste and helps save resources",
+          "explanation": "The passage says recycling paper helps save trees, water, and energy."
+        },
+        {
+          "id": "pp10_q5",
+          "type": "short_answer",
+          "question": "How was early paper made?",
+          "answer": "Early paper was made by soaking and beating fibres and rags into pulp, mixing the pulp with water, lifting it on a screen, and then pressing and drying the wet sheet."
+        },
+        {
+          "id": "pp10_q6",
+          "type": "short_answer",
+          "question": "How did paper change communication and education?",
+          "answer": "Paper helped books, letters, records, and ideas travel farther than before. Because of this, it became important for education and communication."
+        },
+        {
+          "id": "pp10_q7",
+          "type": "short_answer",
+          "question": "In what way is modern paper-making similar to older methods?",
+          "answer": "Modern paper-making is similar because it still uses fibres that are turned into thin sheets and dried. The speed is different, but the basic idea remains the same."
+        },
+        {
+          "id": "pp10_q8",
+          "type": "fill_blank",
+          "question": "After pressing and drying, the wet sheet became ______.",
+          "answer": "paper"
+        },
+        {
+          "id": "pp10_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: slowly or little by little.",
+          "answer": "gradually"
+        },
+        {
+          "id": "pp10_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: main idea or general plan.",
+          "answer": "basic"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_11",
+      "title": "The Night of the Power Cut",
+      "source": "AI-generated original practice passage",
+      "passage": "One evening, just as the rain began to beat against the windows, the electricity went out across the whole neighbourhood. At first, people sighed in annoyance. Fans stopped turning, televisions went silent, and the lift between floors shuddered to a halt. In many homes, children groaned because their screens went dark at the most exciting moment.\n\nFor a while, everyone waited for the lights to return. But the darkness lasted. Slowly, people began stepping out of their flats with torches, candles, and emergency lamps. On the landing outside, neighbours who usually exchanged no more than a hurried greeting began to talk.\n\nSomeone suggested gathering in the courtyard, where the air was cooler. Families came down carrying folding chairs, snacks, and stories. A grandfather recited funny incidents from his school days. A girl sang a song she had learned for an assembly. Two brothers organized a guessing game. Even the younger children, who had first complained loudly, soon forgot about their devices.\n\nWhen the electricity finally returned, a cheer rose from the courtyard. Yet many people felt a strange disappointment. The power cut had interrupted their routines, but it had also brought them together. In the sudden darkness, they had discovered the brightness of one another's company.",
+      "questions": [
+        {
+          "id": "pp11_q1",
+          "type": "mcq",
+          "question": "When did the electricity go out?",
+          "options": ["On a sunny afternoon", "At dawn", "As rain began to beat against the windows", "During a school assembly"],
+          "answer": "As rain began to beat against the windows",
+          "explanation": "The passage begins with the power going out as the rain started."
+        },
+        {
+          "id": "pp11_q2",
+          "type": "mcq",
+          "question": "Why did many children first complain?",
+          "options": ["They were hungry", "Their screens went dark", "They had lost their books", "They had to go outside"],
+          "answer": "Their screens went dark",
+          "explanation": "The children groaned because their screens went dark."
+        },
+        {
+          "id": "pp11_q3",
+          "type": "mcq",
+          "question": "Where did the families finally gather?",
+          "options": ["On the roof", "In the market", "In the courtyard", "In the school hall"],
+          "answer": "In the courtyard",
+          "explanation": "The passage says they gathered in the courtyard."
+        },
+        {
+          "id": "pp11_q4",
+          "type": "mcq",
+          "question": "What did the power cut unexpectedly do?",
+          "options": ["It ruined all the food", "It brought neighbours together", "It ended the rain", "It made everyone leave home"],
+          "answer": "It brought neighbours together",
+          "explanation": "The passage shows that the power cut created unexpected companionship."
+        },
+        {
+          "id": "pp11_q5",
+          "type": "short_answer",
+          "question": "How did people react at first when the electricity failed?",
+          "answer": "At first, people reacted with annoyance. They sighed because fans stopped, televisions went silent, and many everyday comforts were interrupted."
+        },
+        {
+          "id": "pp11_q6",
+          "type": "short_answer",
+          "question": "What activities took place in the courtyard?",
+          "answer": "In the courtyard, people sat together, shared snacks, told stories, sang songs, and played a guessing game. The gathering became lively and cheerful."
+        },
+        {
+          "id": "pp11_q7",
+          "type": "short_answer",
+          "question": "Why did some people feel disappointed when the electricity returned?",
+          "answer": "Some people felt disappointed because the power cut had brought the neighbours together in a warm and enjoyable way. When the lights returned, that special shared moment ended."
+        },
+        {
+          "id": "pp11_q8",
+          "type": "fill_blank",
+          "question": "People came out carrying torches, candles, and emergency ______.",
+          "answer": "lamps"
+        },
+        {
+          "id": "pp11_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: shook suddenly.",
+          "answer": "shuddered"
+        },
+        {
+          "id": "pp11_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: irritation or impatience.",
+          "answer": "annoyance"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_12",
+      "title": "The Library Card",
+      "source": "AI-generated original practice passage inspired by educational writing about libraries",
+      "passage": "Rhea had always passed the old town library without entering it. Its tall doors, shaded windows, and quiet steps gave it an air of seriousness that made her feel she did not belong. She preferred the noisy bookshop near the bus stand, where bright covers were stacked in tempting piles.\n\nOne Saturday, heavy rain forced her to shelter beneath the library porch. As she waited, the librarian opened the door and invited her inside. The reading room smelled faintly of paper and polish. Shelves rose along the walls, and a few readers sat completely absorbed in their books. Seeing Rhea's uncertain expression, the librarian smiled and asked whether she would like to look around.\n\nRhea began in the children's section but soon wandered farther. She found books on mountains, myths, machines, and explorers. There were magazines, maps, and even a notice about a weekly storytelling club. Before she realized it, an hour had passed. When the rain stopped, she did not leave immediately. Instead, she filled out a form for her first library card.\n\nThat small card changed her habits. She visited every week, read more widely, and learned to search patiently instead of choosing only what glittered at first glance. What had once seemed a forbidding building became, for her, a doorway into many worlds.",
+      "questions": [
+        {
+          "id": "pp12_q1",
+          "type": "mcq",
+          "question": "Why had Rhea avoided entering the library earlier?",
+          "options": ["She disliked books", "She thought the library felt too serious", "It was always closed", "It had no books she liked"],
+          "answer": "She thought the library felt too serious",
+          "explanation": "The passage says the library had an air of seriousness that made her feel she did not belong."
+        },
+        {
+          "id": "pp12_q2",
+          "type": "mcq",
+          "question": "What caused Rhea to go inside the library?",
+          "options": ["A school assignment", "A lost purse", "Heavy rain", "An invitation from a friend"],
+          "answer": "Heavy rain",
+          "explanation": "Heavy rain forced her to shelter under the porch."
+        },
+        {
+          "id": "pp12_q3",
+          "type": "mcq",
+          "question": "What did Rhea do before leaving?",
+          "options": ["Bought a book", "Joined the storytelling club immediately", "Filled out a form for a library card", "Closed the windows"],
+          "answer": "Filled out a form for a library card",
+          "explanation": "The passage says she filled out a form for her first library card."
+        },
+        {
+          "id": "pp12_q4",
+          "type": "mcq",
+          "question": "How did the library card affect Rhea?",
+          "options": ["It made her stop reading", "It changed her habits and widened her reading", "It made her move to another town", "It encouraged her to buy glittering books"],
+          "answer": "It changed her habits and widened her reading",
+          "explanation": "The passage says she visited weekly and read more widely."
+        },
+        {
+          "id": "pp12_q5",
+          "type": "short_answer",
+          "question": "What did Rhea notice inside the library?",
+          "answer": "Inside the library, Rhea noticed the smell of paper and polish, tall shelves along the walls, and readers sitting quietly absorbed in their books."
+        },
+        {
+          "id": "pp12_q6",
+          "type": "short_answer",
+          "question": "What kinds of things did Rhea discover in the library?",
+          "answer": "Rhea discovered books on mountains, myths, machines, and explorers. She also found magazines, maps, and a notice about a storytelling club."
+        },
+        {
+          "id": "pp12_q7",
+          "type": "short_answer",
+          "question": "What lesson did Rhea learn from using the library?",
+          "answer": "Rhea learned to search patiently and explore a wider range of reading instead of choosing only what seemed attractive at first glance."
+        },
+        {
+          "id": "pp12_q8",
+          "type": "fill_blank",
+          "question": "The reading room smelled faintly of paper and ______.",
+          "answer": "polish"
+        },
+        {
+          "id": "pp12_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: uncertain or doubtful.",
+          "answer": "uncertain"
+        },
+        {
+          "id": "pp12_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: frightening or difficult to approach.",
+          "answer": "forbidding"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_13",
+      "title": "The Clockmaker's Apprentice",
+      "source": "AI-generated original practice passage",
+      "passage": "At the corner of the oldest street in the town stood a narrow shop filled with clocks. Some were large and solemn, others tiny and cheerful, but each marked time in its own voice. Behind the counter worked Mr. Sen, the clockmaker, whose fingers moved with astonishing steadiness among springs, screws, and brass wheels.\n\nHis apprentice, Tara, had joined the shop during the school holidays. On her first day, she imagined that repairing clocks would be dull work, but she soon changed her mind. Every clock had a history. One had survived a ship voyage, another had been a wedding gift, and a third had belonged to a stationmaster long ago.\n\nMr. Sen taught Tara that a clock could not be repaired by force. One had to listen to it, observe its movement, and understand where the rhythm had failed. Sometimes the smallest dust particle caused the biggest delay. At other times, a single bent tooth in a wheel could silence the whole mechanism.\n\nBy the end of the summer, Tara had learned more than how to clean gears and set pendulums. She had learned patience, attention, and respect for careful work. \"Time,\" Mr. Sen told her on the last day, \"is not only something we measure. It is something we should use well.\" Tara carried that lesson home more carefully than any clock.",
+      "questions": [
+        {
+          "id": "pp13_q1",
+          "type": "mcq",
+          "question": "What kind of shop did Mr. Sen run?",
+          "options": ["A toy shop", "A clock shop", "A bakery", "A repair garage"],
+          "answer": "A clock shop",
+          "explanation": "The passage clearly states that the shop was filled with clocks."
+        },
+        {
+          "id": "pp13_q2",
+          "type": "mcq",
+          "question": "Who was Tara?",
+          "options": ["Mr. Sen's daughter", "A visiting tourist", "The apprentice", "A customer"],
+          "answer": "The apprentice",
+          "explanation": "The passage says Tara had joined the shop as his apprentice."
+        },
+        {
+          "id": "pp13_q3",
+          "type": "mcq",
+          "question": "What did Mr. Sen teach Tara about repairing clocks?",
+          "options": ["They should be repaired quickly by force", "Only expensive clocks matter", "One must listen, observe, and understand the problem", "Broken clocks should be thrown away"],
+          "answer": "One must listen, observe, and understand the problem",
+          "explanation": "Mr. Sen says a clock cannot be repaired by force."
+        },
+        {
+          "id": "pp13_q4",
+          "type": "mcq",
+          "question": "What important lesson did Tara finally learn?",
+          "options": ["How to sell clocks loudly", "How to use time wisely", "How to travel by ship", "How to ignore small details"],
+          "answer": "How to use time wisely",
+          "explanation": "Mr. Sen tells her that time is something we should use well."
+        },
+        {
+          "id": "pp13_q5",
+          "type": "short_answer",
+          "question": "Why did Tara's opinion about the work change?",
+          "answer": "Tara's opinion changed because she discovered that every clock had its own story and character. Repairing them became interesting rather than dull."
+        },
+        {
+          "id": "pp13_q6",
+          "type": "short_answer",
+          "question": "What kinds of small problems could stop a clock from working?",
+          "answer": "A clock could stop because of something as small as a dust particle. A single bent tooth in a wheel could also silence the whole mechanism."
+        },
+        {
+          "id": "pp13_q7",
+          "type": "short_answer",
+          "question": "What qualities did Tara learn in the shop besides repair skills?",
+          "answer": "Besides repair skills, Tara learned patience, attention, and respect for careful work."
+        },
+        {
+          "id": "pp13_q8",
+          "type": "fill_blank",
+          "question": "Mr. Sen's fingers moved with astonishing ______.",
+          "answer": "steadiness"
+        },
+        {
+          "id": "pp13_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: amazing or surprising.",
+          "answer": "astonishing"
+        },
+        {
+          "id": "pp13_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: regular pattern or beat.",
+          "answer": "rhythm"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_14",
+      "title": "The Lake That Returned",
+      "source": "AI-generated original practice passage based on environmental restoration themes",
+      "passage": "Years ago, the village lake had been the heart of the area. Children learned to swim there, birds nested in the reeds, and farmers drew water from it during dry months. But as the village expanded, rubbish was dumped along the banks, drains carried dirty water into the lake, and weeds spread across its surface. By the time Meera was in middle school, the lake had become foul-smelling and nearly forgotten.\n\nEverything began to change when a science teacher took the students there on a project visit. Instead of turning away in disgust, he asked them to imagine what the lake had once been. The students interviewed elders, collected old photographs, and made lists of the birds that no longer came. Soon, they presented their findings at a village meeting. For many adults, this was the first time they had thought seriously about the lake in years.\n\nThe meeting led to action. Volunteers cleared rubbish from the banks. Local officials arranged for drains to be redirected. Native plants were added to the edges to reduce erosion, and regular clean-up days were organized. The work lasted many months and required persistence. Some days the progress seemed painfully slow, especially when fresh litter appeared after earlier efforts.\n\nSlowly, the water improved. Dragonflies appeared first. Then small fish returned, and later, migrating birds began to stop there once again. The lake did not become perfect overnight, but it became alive. Children who had once avoided the area now came to watch the birds in the early morning.\n\nFor Meera and her classmates, the restored lake was more than a school project. It was proof that damage caused by carelessness can be repaired by responsibility and effort. They also learned that when a community works steadily toward one goal, even something neglected for years can begin to recover.",
+      "questions": [
+        {
+          "id": "pp14_q1",
+          "type": "mcq",
+          "question": "What had the lake once been for the village?",
+          "options": ["A dangerous place everyone avoided", "The heart of the area", "A private garden", "A market street"],
+          "answer": "The heart of the area",
+          "explanation": "The passage says the village lake had once been the heart of the area."
+        },
+        {
+          "id": "pp14_q2",
+          "type": "mcq",
+          "question": "Why did the lake become neglected?",
+          "options": ["A storm filled it with sand", "Rubbish, dirty drains, and weeds damaged it", "It moved to another place", "No birds lived there before"],
+          "answer": "Rubbish, dirty drains, and weeds damaged it",
+          "explanation": "These are the reasons directly mentioned in the passage."
+        },
+        {
+          "id": "pp14_q3",
+          "type": "mcq",
+          "question": "What started the restoration of the lake?",
+          "options": ["A tourist visit", "A project visit by a science teacher and students", "A new road", "A fishing contest"],
+          "answer": "A project visit by a science teacher and students",
+          "explanation": "The science teacher's project visit began the change."
+        },
+        {
+          "id": "pp14_q4",
+          "type": "mcq",
+          "question": "Which creatures returned first after the clean-up began?",
+          "options": ["Crocodiles", "Dragonflies", "Tigers", "Deer"],
+          "answer": "Dragonflies",
+          "explanation": "The passage says dragonflies appeared first."
+        },
+        {
+          "id": "pp14_q5",
+          "type": "short_answer",
+          "question": "How did the students help the village understand the value of the lake?",
+          "answer": "The students interviewed elders, collected old photographs, and made lists of missing birds. They then presented their findings at a village meeting."
+        },
+        {
+          "id": "pp14_q6",
+          "type": "short_answer",
+          "question": "What actions were taken to restore the lake?",
+          "answer": "Volunteers cleared rubbish, drains were redirected, native plants were added to the banks, and regular clean-up days were organized."
+        },
+        {
+          "id": "pp14_q7",
+          "type": "short_answer",
+          "question": "What did Meera and her classmates learn from the restoration?",
+          "answer": "They learned that damage caused by carelessness can be repaired through responsibility, persistence, and effort."
+        },
+        {
+          "id": "pp14_q8",
+          "type": "fill_blank",
+          "question": "Native plants were added to the edges to reduce ______.",
+          "answer": "erosion"
+        },
+        {
+          "id": "pp14_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: moved in a new direction.",
+          "answer": "redirected"
+        },
+        {
+          "id": "pp14_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: continuing firmly despite difficulty.",
+          "answer": "persistence"
+        }
+      ]
+    },
+    {
+      "id": "practice_passage_15",
+      "title": "The Music from the Workshop",
+      "source": "AI-generated original practice passage",
+      "passage": "At the end of the lane, between a bicycle repair shed and a tea stall, stood a workshop where Mr. Thomas repaired violins. People who passed the place for the first time often paused in surprise. From inside came not only the tapping of tools but also bursts of music, as if the instruments were testing their own voices before returning to their owners.\n\nMr. Thomas believed that repairing a violin required more than technical skill. Wood, he said, remembered how it had once been played. A crack in the body or a loose string changed the voice of the instrument, but not its character. He handled each violin with such gentleness that even impatient customers lowered their voices when they entered.\n\nOne afternoon, a nervous schoolboy arrived carrying a battered violin in a cloth case. It had belonged to his mother, and he feared it was ruined. Mr. Thomas examined it carefully, tightened the pegs, repaired a small split, and replaced the worn strings. Then he drew the bow across it. A clear, warm note filled the workshop.\n\nThe boy's face brightened. He had expected a repair; instead, he received a memory restored. As he left, Mr. Thomas returned to his bench and smiled at the next silent instrument waiting in line. In his workshop, broken music was never treated as lost. It was treated as something patient hands could bring back to life.",
+      "questions": [
+        {
+          "id": "pp15_q1",
+          "type": "mcq",
+          "question": "What kind of workshop did Mr. Thomas run?",
+          "options": ["A bicycle workshop", "A violin repair workshop", "A tea stall", "A painting studio"],
+          "answer": "A violin repair workshop",
+          "explanation": "The passage says Mr. Thomas repaired violins."
+        },
+        {
+          "id": "pp15_q2",
+          "type": "mcq",
+          "question": "Why did people pause when passing the workshop?",
+          "options": ["They smelled fresh paint", "They heard music and tools together", "They saw a crowd outside", "They wanted tea"],
+          "answer": "They heard music and tools together",
+          "explanation": "People paused because they heard tapping tools and bursts of music from inside."
+        },
+        {
+          "id": "pp15_q3",
+          "type": "mcq",
+          "question": "Why was the schoolboy worried?",
+          "options": ["He had lost his violin", "His violin belonged to his mother and seemed ruined", "He had no bow", "He could not find the workshop"],
+          "answer": "His violin belonged to his mother and seemed ruined",
+          "explanation": "The passage states the violin had belonged to his mother and he feared it was ruined."
+        },
+        {
+          "id": "pp15_q4",
+          "type": "mcq",
+          "question": "What was Mr. Thomas's attitude toward broken instruments?",
+          "options": ["They should be thrown away", "They were only useful for decoration", "They could be brought back to life with patient work", "They were not worth his time"],
+          "answer": "They could be brought back to life with patient work",
+          "explanation": "The passage ends by saying broken music was something patient hands could bring back to life."
+        },
+        {
+          "id": "pp15_q5",
+          "type": "short_answer",
+          "question": "What did Mr. Thomas believe about violin repair?",
+          "answer": "Mr. Thomas believed violin repair required more than technical skill. He felt that wood remembered how it had once been played and that repair should preserve the instrument's character."
+        },
+        {
+          "id": "pp15_q6",
+          "type": "short_answer",
+          "question": "What repairs did Mr. Thomas make to the schoolboy's violin?",
+          "answer": "Mr. Thomas tightened the pegs, repaired a small split in the body, and replaced the worn strings."
+        },
+        {
+          "id": "pp15_q7",
+          "type": "short_answer",
+          "question": "Why did the repaired violin mean so much to the boy?",
+          "answer": "The violin meant a great deal because it had belonged to the boy's mother. When it produced a clear, warm note again, it felt as though an important memory had been restored."
+        },
+        {
+          "id": "pp15_q8",
+          "type": "fill_blank",
+          "question": "Mr. Thomas repaired a small ______ in the violin's body.",
+          "answer": "split"
+        },
+        {
+          "id": "pp15_q9",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: damaged or worn from rough use.",
+          "answer": "battered"
+        },
+        {
+          "id": "pp15_q10",
+          "type": "vocabulary",
+          "question": "Find a word in the passage that means: kindness and softness in handling.",
+          "answer": "gentleness"
+        }
+      ]
+    }
+  ]
+}

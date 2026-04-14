@@ -1,6 +1,12 @@
 {
   "subjects": [
     {
+      "name": "8C Computer Science",
+      "slug": "8C_Computer_Science",
+      "icon": "💻",
+      "chapter_count": 2
+    },
+    {
       "name": "8C English Literature",
       "slug": "8C_English_Literature",
       "icon": "📕",
@@ -17,6 +23,12 @@
       "slug": "8C_English_Grammar",
       "icon": "📝",
       "chapter_count": 4
+    },
+    {
+      "name": "8C Hindi",
+      "slug": "8C_Hindi",
+      "icon": "🇮🇳",
+      "chapter_count": 1
     }
   ],
   "completed": [
