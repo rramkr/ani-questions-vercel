@@ -404,6 +404,145 @@
         "Create a class named \"Library\".",
         "Declare and initialize two integers and print their sum, difference, quotient, and remainder."
       ]
+    },
+    {
+      "id": "jp_note_10",
+      "title": "Syntax Rules Cheat Sheet",
+      "content": "Java is very strict about punctuation. One missing semicolon or one wrong bracket and your program will not run. Here are the rules to remember.\n\nTHE SEMICOLON RULE: Put a semicolon at the end of every statement. A statement is any instruction that tells the computer to do something. Think of it like a full stop at the end of a sentence.\n\nDO NOT put a semicolon after a class declaration or after a method declaration. These use curly brackets instead.\n\nTHE CURLY BRACKETS RULE: Curly brackets { } create blocks of code. They always come in pairs. The class body goes inside one pair. The main method body goes inside another pair. Think of them like a box that holds code inside it.\n\nTHE ROUND BRACKETS RULE: Round brackets ( ) are used in two places. First, after a method name to hold its parameters. Second, inside print commands to hold what you want to print. Think of them like hands holding something.\n\nTHE SQUARE BRACKETS RULE: Square brackets [ ] are used for arrays. You will see them in String[] args in the main method. For now, just remember they go after String in the main method line.\n\nTHE DOUBLE QUOTES RULE: Any text you want to print must go inside double quotes. Numbers do not need quotes. If you forget the quotes around text, Java will think the text is a variable name and give an error.",
+      "key_terms": [
+        {
+          "term": "Statement",
+          "definition": "An instruction that tells the computer to do something. Always ends with a semicolon."
+        },
+        {
+          "term": "Code block",
+          "definition": "Code wrapped inside curly brackets { }. Used for class body and method body."
+        },
+        {
+          "term": "Parameters",
+          "definition": "Values passed to a method, written inside round brackets."
+        }
+      ],
+      "tables": [
+        {
+          "title": "Where to Use Each Symbol",
+          "headers": [
+            "Symbol",
+            "Name",
+            "Where to Use",
+            "Example"
+          ],
+          "rows": [
+            [
+              ";",
+              "Semicolon",
+              "End of every statement",
+              "System.out.println(\"Hi\");"
+            ],
+            [
+              "{ }",
+              "Curly brackets",
+              "Around class body and method body",
+              "public class Hello { }"
+            ],
+            [
+              "( )",
+              "Round brackets",
+              "After method names and inside print commands",
+              "System.out.println(\"Hi\")"
+            ],
+            [
+              "[ ]",
+              "Square brackets",
+              "For arrays (String[] args)",
+              "public static void main(String[] args)"
+            ],
+            [
+              "\" \"",
+              "Double quotes",
+              "Around text values (strings)",
+              "\"Hello World\""
+            ]
+          ]
+        },
+        {
+          "title": "Semicolon: YES or NO?",
+          "headers": [
+            "Line of Code",
+            "Semicolon?",
+            "Why"
+          ],
+          "rows": [
+            [
+              "System.out.println(\"Hello\");",
+              "YES",
+              "It is a statement"
+            ],
+            [
+              "int age = 13;",
+              "YES",
+              "It is a statement"
+            ],
+            [
+              "public class Hello {",
+              "NO",
+              "It is a class declaration (uses { instead)"
+            ],
+            [
+              "public static void main(String[] args) {",
+              "NO",
+              "It is a method declaration (uses { instead)"
+            ]
+          ]
+        },
+        {
+          "title": "Common Mistakes to Avoid",
+          "headers": [
+            "Mistake",
+            "What Happens",
+            "Correct Version"
+          ],
+          "rows": [
+            [
+              "Missing semicolon at end of statement",
+              "Error: ';' expected",
+              "Add ; at the end"
+            ],
+            [
+              "Semicolon after class declaration",
+              "Unexpected error",
+              "Use { after class name, not ;"
+            ],
+            [
+              "Forgetting double quotes around text",
+              "Java thinks text is a variable name",
+              "Put text inside \" \""
+            ],
+            [
+              "Using ( ) instead of { } for code blocks",
+              "Syntax error",
+              "Class and method bodies use { }"
+            ],
+            [
+              "Mismatched brackets (opening without closing)",
+              "Error: reached end of file",
+              "Every { needs a matching }"
+            ],
+            [
+              "Using single quotes instead of double quotes",
+              "Error or wrong result",
+              "Text uses \" \", not ' '"
+            ]
+          ]
+        }
+      ],
+      "examples": [
+        "CORRECT: System.out.println(\"Hello\"); — statement ends with semicolon, text in double quotes, value in round brackets.",
+        "CORRECT: public class School { } — class declaration followed by curly brackets, no semicolon.",
+        "WRONG: public class School; — do not put semicolon after class declaration.",
+        "WRONG: System.out.println(Hello); — text must be in double quotes: \"Hello\".",
+        "EASY WAY TO REMEMBER: Semicolons are like full stops. Curly brackets are like boxes. Round brackets are like hands holding things. Double quotes are like speech marks."
+      ]
     }
   ]
 }
